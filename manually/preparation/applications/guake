@@ -1,0 +1,110 @@
+#!/bin/env bash
+# -*- coding: utf-8 -*-
+#
+## @Author: sensor-dream
+## @Email: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © Sensor-Dream Boxed System (SDBS). Contacts: sensor-dream@sensor-dream.ru
+## @License: http://www.apache.org/licenses/LICENSE-2.0
+## @Site: https://sensor-dream.ru
+## @File: guake
+## @Creation date file: 10.04.2021, 02:11:28
+
+[[ -z "${guake_script_source}" ]] && declare -rx guake_script_source="$BASH_SOURCE"
+
+if [[ -z "${guake_script_source_path}" ]]; then
+  temp_one="$(dirname ${guake_script_source})"
+  if [[ "${temp_one}" == '.' ]]; then
+    declare -rx guake_script_source_path="$(pwd)"
+  else
+    declare -rx guake_script_source_path="${temp_one}"
+  fi
+fi
+
+if [[ -z "${main_run_script_path}" ]]; then
+  declare -rx main_run_script_path="$(pwd)"
+  printf "Script runs from path: %s\n" "${main_run_script_path}"
+fi
+
+if [[ -z "${main_cfg_script_source}" ]]; then
+  check=1
+  while [[ "${check}" -eq 1 ]]; do
+    if [[ ! -f 'main.cfg' ]]; then
+      if [[ "$(pwd)" != "/" ]]; then
+        cd ../
+      else
+        cd ${main_run_script_path}
+        check=0
+        echo -e '\e[31m'"!!! Not found configuration shared file !!!\033[0m"
+        tput sgr0
+        exit 1
+      fi
+    else
+      check=0
+      declare -rx main_project_path="$(pwd)"
+      . "${main_project_path}/main.cfg" "$@"
+      cd "${main_run_script_path}"
+    fi
+  done
+fi
+
+printf "Loading: %s\n" "$(readlink -m ${BASH_SOURCE})"
+
+function install_guake() {
+
+  local install_pkg=(
+    guake
+  )
+
+  pm "$@" -- "${install_pkg[@]}"
+
+  echo -e "Configure the keyboard shortcuts and bind the command:\n\tdbus-send --type=method_call --dest=org.guake3.RemoteControl /org/guake3/RemoteControl org.guake3.RemoteControl.show_hide\nor\n\tguake-toggle"
+
+  local custom_keybindings="$(gsettings get org.gnome.settings-daemon.plugins.media-keys custom-keybindings)"
+
+  local OLD_IF=${IFS}
+
+  IFS=','
+
+  local array_custom_keybindings=($(gsettings get org.gnome.settings-daemon.plugins.media-keys custom-keybindings | sed -Ee "s%\[|\]|'%%g; s%'%%g"))
+
+  IFS=${OLD_IFS}
+
+  local key='<Alt>F12'
+
+  local count_array_custom_keybindings=${#array_custom_keybindings[@]}
+
+  if [[ "$(gsettings get org.gnome.settings-daemon.plugins.media-keys custom-keybindings)" == "@as []" ]]; then
+    gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/ binding "${key}"
+    gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/ command 'dbus-send --type=method_call --dest=org.guake3.RemoteControl /org/guake3/RemoteControl org.guake3.RemoteControl.show_hide'
+    gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/ name 'guake-toogle'
+    gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings "['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']"
+  else
+
+    for ((i = 0; i < ${count_array_custom_keybindings}; i++)); do
+      if [[ "$(gsettings get org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom${i}/ name)" == "'guake-toogle'" ]]; then
+        echo -e "\nThe <Alt>F12 hotkey for the guake terminal is already assigned\n"
+        exit 0
+      fi
+    done
+
+    gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom${count_array_custom_keybindings}/ binding "${key}"
+    gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom${count_array_custom_keybindings}/ command 'dbus-send --type=method_call --dest=org.guake3.RemoteControl /org/guake3/RemoteControl org.guake3.RemoteControl.show_hide'
+    gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom${count_array_custom_keybindings}/ name 'guake-toogle'
+    local new_custom_keybindings=$(echo ${custom_keybindings} | sed -E "s%]%, '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom${count_array_custom_keybindings}/']%g")
+    gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings "${new_custom_keybindings}"
+  fi
+
+}
+
+function main_guake_script_source() {
+
+  # printf "Initialise main function of guake script source\n";
+
+  echo "Installing and preparation guake for Wayland compositor ..."
+  install_guake "$@"
+
+}
+
+main_guake_script_source "$@"

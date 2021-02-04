@@ -1,0 +1,111 @@
+#!/bin/env bash
+# -*- coding: utf-8 -*-
+#
+## @Author: sensor-dream
+## @Email: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © Sensor-Dream Boxed System (SDBS). Contacts: sensor-dream@sensor-dream.ru
+## @License: http://www.apache.org/licenses/LICENSE-2.0
+## @Site: https://sensor-dream.ru
+## @File: radeon-HD6450
+## @Creation date file: 20.04.2021, 23:28:41
+
+[[ -z "${radeon_HD6450_script_source}" ]] && declare -rx radeon_HD6450_script_source="$BASH_SOURCE"
+
+if [[ -z "${radeon_HD6450_script_source_path}" ]]; then
+  temp_one="$(dirname ${radeon_HD6450_script_source})"
+  if [[ "${temp_one}" == '.' ]]; then
+    declare -rx radeon_HD6450_script_source_path="$(pwd)"
+  else
+    declare -rx radeon_HD6450_script_source_path="${temp_one}"
+  fi
+fi
+
+if [[ -z "${main_run_script_path}" ]]; then
+  declare -rx main_run_script_path="$(pwd)"
+  printf "Script runs from path: %s\n" "${main_run_script_path}"
+fi
+
+if [[ -z "${main_cfg_script_source}" ]]; then
+  check=1
+  while [[ "${check}" -eq 1 ]]; do
+    if [[ ! -f 'main.cfg' ]]; then
+      if [[ "$(pwd)" != "/" ]]; then
+        cd ../
+      else
+        cd ${main_run_script_path}
+        check=0
+        echo -e '\e[31m'"!!! Not found configuration shared file !!!\033[0m"
+        tput sgr0
+        exit 1
+      fi
+    else
+      check=0
+      declare -rx main_project_path="$(pwd)"
+      . "${main_project_path}/main.cfg" "$@"
+      cd "${main_run_script_path}"
+    fi
+  done
+fi
+
+printf "Loading: %s\n" "$(readlink -m ${BASH_SOURCE})"
+
+function install_radeon_HD6450() {
+
+  cat <<EOF | sudo tee /etc/X11/xorg.conf.d/20-apivof-radeon.conf >/dev/null
+Section "Device"
+  Identifier "Device0"
+  Driver "radeon"
+  Option "ZaphodHeads" "VGA-0"
+  VendorName "ATI"
+  BusID "PCI:1:0:0"
+  Screen 0
+  Option "AccelMethod" "glamor"
+        Option "DRI" "3"
+        Option "TearFree" "on"
+        Option "ColorTiling" "on"
+        Option "ColorTiling2D" "on"
+EndSection
+EOF
+
+  cat <<EOF | sudo tee /home/${session_user}/.drirc >/dev/null
+<driconf>
+    <device screen="0" driver="dri3">
+        <application name="Default">
+            <option name="vblank_mode" value="0" />
+        </application>
+    </device>
+    <!-- Other devices ... -->
+</driconf>
+EOF
+
+  cat <<EOF | sudo tee /home/${session_user}/.xprofile >/dev/null
+#!/bin/sh
+
+#
+# ~/.xprofile
+#
+# Ejecutado por gdm al iniciar la sesión
+#
+
+xmodmap -e "pointer=1 2 3 6 7 4 5" # Правильно установите кнопки мыши
+xsetroot -solid black              # Установите черный фон
+EOF
+
+  cat <<EOF | sudo tee /etc/udev/rules.d/30-apivof-radeon-pm.rules >/dev/null
+# KERNEL=="dri/card0", SUBSYSTEM=="drm", DRIVERS=="radeon", ATTR{device/power_method}="profile", ATTR{device/power_profile}="high"
+KERNEL=="dri/card0", SUBSYSTEM=="drm", DRIVERS=="radeon", ATTR{device/power_dpm_force_performance_level}="high", ATTR{device/power_method}="profile", ATTR{device/power_profile}="high"
+EOF
+
+}
+
+function main_radeon_HD6450_script_source() {
+
+  # printf "Initialise main function of radeon-HD6450 script source\n";
+
+  install_radeon_HD6450 "$@"
+
+}
+
+main_radeon_HD6450_script_source "$@"

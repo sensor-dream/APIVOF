@@ -1,0 +1,110 @@
+#!/bin/env bash
+# -*- coding: utf-8 -*-
+#
+## @Author: sensor-dream
+## @Email: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © Sensor-Dream Boxed System (SDBS). Contacts: sensor-dream@sensor-dream.ru
+## @License: http://www.apache.org/licenses/LICENSE-2.0
+## @Site: https://sensor-dream.ru
+## @File: fine-tuning-network-stack
+## @Creation date file: 28.02.2021, 07:12:26
+
+[[ -z "${fine_tuning_network_stack_script_source}" ]] && declare -rx fine_tuning_network_stack_script_source="$BASH_SOURCE"
+
+if [[ -z "${fine_tuning_network_stack_script_source_path}" ]]; then
+    temp_one="$(dirname ${fine_tuning_network_stack_script_source})"
+    if [[ "${temp_one}" == '.' ]]; then
+        declare -rx fine_tuning_network_stack_script_source_path="$(pwd)"
+    else
+        declare -rx fine_tuning_network_stack_script_source_path="${temp_one}"
+    fi
+fi
+
+if [[ -z "${main_run_script_path}" ]]; then
+    declare -rx main_run_script_path="$(pwd)"
+    printf "Script runs from path: %s\n" "${main_run_script_path}"
+fi
+
+if [[ -z "${main_cfg_script_source}" ]]; then
+    check=1
+    while [[ "${check}" -eq 1 ]]; do
+        if [[ ! -f 'main.cfg' ]]; then
+            if [[ "$(pwd)" != "/" ]]; then
+                cd ../
+            else
+                cd ${main_run_script_path}
+                check=0
+                echo -e '\e[31m'"!!! Not found configuration shared file !!!\033[0m"
+                tput sgr0
+                exit 1
+            fi
+        else
+            check=0
+            declare -rx main_project_path="$(pwd)"
+            . "${main_project_path}/main.cfg" "$@"
+            cd "${main_run_script_path}"
+        fi
+    done
+fi
+
+printf "Loading: %s\n" "$(readlink -m ${BASH_SOURCE})"
+
+function main_fine_tuning_network_stack_script_source() {
+
+    echo "TODO"
+    exit
+
+    local default="${pach_list_collections}/fine-tuning-network-stack.default"
+
+    temp_one="$(cat /etc/sysctl.conf)"
+
+    printf "Initialise main function of fine-tuning-network-stack script source\n"
+
+    printf "\nТонкая настройка сетевого стека Linux (размер буферов) для повышения производительности сети\n
+    По умолчанию сетевой стек Linux не настроен для высокоскоростной передачи больших файлов по каналам WAN. Это сделано для экономии ресурсов памяти. Вы можете легко настроить сетевой стек Linux, увеличив размер сетевых буферов для высокоскоростных сетей, которые соединяют серверные системы для обработки большего количества сетевых пакетов.\nМаксимальный размер буфера TCP в Linux по умолчанию слишком мал. Память TCP рассчитывается автоматически на основе системной памяти; вы можете найти фактические значения, введя следующие команды:\n\tcat /proc/sys/net/ipv4/tcp_mem\nОбъём для принимающей памяти сокета по умолчанию и максимальный:\n\tcat /proc/sys/net/core/rmem_default\n\tcat /proc/sys/net/core/rmem_max\nПо умолчанию и максимальный объём памяти для сокета отправки:\n\tcat /proc/sys/net/core/wmem_default\n\tcat /proc/sys/net/core/wmem_max\nМаксимальный объём опциональных буферов памяти:\n\tcat /proc/sys/net/core/optmem_max\n"
+
+    if [[ -f "${pach_list_collections}/fine-tuning-network-stack.log" ]]; then
+        echo "tcp_mem: $(cat /proc/sys/net/ipv4/tcp_mem)" | tee -a "${default}"
+        echo "rmem_default: $(cat /proc/sys/net/core/rmem_default)" | tee -a "${default}"
+        echo "rmem_max: $(cat /proc/sys/net/core/rmem_max)" | tee -a "${default}"
+        echo "wmem_default: $(cat /proc/sys/net/core/wmem_default)" | tee -a "${default}"
+        echo "wmem_max: $(cat /proc/sys/net/core/wmem_max)" | tee -a "${default}"
+        echo "optmem_max: $(cat /proc/sys/net/core/optmem_max)" | tee -a "${default}"
+    fi
+
+    printf " Внимание: значение по умолчанию для rmem_max и wmem_max составляет около 208 КБ в большинстве дистрибутивов Linux, что может быть достаточно для сетевой среды общего назначения с низкой задержкой или для таких приложений, как DNS/веб-сервер. Однако, если задержка велика, размер по умолчанию может быть слишком маленьким. Обратите внимание, что следующие настройки увеличивают использование памяти на вашем сервере.\nУстановите максимальный размер буфера отправки (wmem) ОС и размер буфера приёма (rmem) равным 12 МБ для очередей по всем протоколам. Другими словами, установите объём памяти, который выделяется для каждого сокета TCP, когда он открывается или создаётся при передаче файлов:\n"
+    insert_or_replace_var_value_in_string_data 'net.core.wmem_max' 12582912
+    insert_or_replace_var_value_in_string_data 'net.core.rmem_max' 12582912
+
+    printf "Вам также необходимо установить минимальный размер, начальный размер и максимальный размер в байтах:\n"
+    insert_or_replace_var_value_in_string_data 'net.ipv4.tcp_rmem' '10240 87380 12582912'
+    insert_or_replace_var_value_in_string_data 'net.ipv4.tcp_wmem' '10240 87380 12582912'
+
+    printf "Включите масштабирование окна, которое может быть опцией увеличения окна передачи:\n"
+    insert_or_replace_var_value_in_string_data 'net.ipv4.tcp_window_scaling' 1
+
+    printf "Включите отметки времени, как определено в RFC1323:\n"
+    insert_or_replace_var_value_in_string_data 'net.ipv4.tcp_timestamps' 1
+
+    printf "Включить выбор подтверждений:\n"
+    insert_or_replace_var_value_in_string_data 'net.ipv4.tcp_sack' 1
+
+    printf "По умолчанию TCP сохраняет различные метрики соединения в кэше маршрута при закрытии соединения, так что соединения, установленные в ближайшем будущем, могут использовать их для установки начальных условий. Обычно это увеличивает общую производительность, но иногда может вызывать снижение производительности. Если установлено, TCP не будет кэшировать метрики при закрытии соединений.\n"
+    insert_or_replace_var_value_in_string_data 'net.ipv4.tcp_no_metrics_save' 0
+
+    printf "Установите максимальное количество пакетов, помещаемых в очередь на стороне INPUT, когда интерфейс получает пакеты быстрее, чем ядро может их обработать.\n"
+    insert_or_replace_var_value_in_string_data 'net.core.netdev_max_backlog' 5000
+
+    echo "${temp_one}" | sudo tee "/etc/sysctl.conf" >/dev/null
+
+    sudo sysctl -p
+
+    printf " Используйте tcpdump для просмотра изменений для eth0:\n\tsudo tcpdump -ni <intreface name eg. eth0>"
+
+    install_fine_tuning_network_stack "$@"
+
+}
+
+main_fine_tuning_network_stack_script_source "$@"

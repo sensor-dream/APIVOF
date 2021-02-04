@@ -1,0 +1,111 @@
+#!/bin/env bash
+# -*- coding: utf-8 -*-
+#
+## @Author: sensor-dream
+## @Email: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © Sensor-Dream Boxed System (SDBS). Contacts: sensor-dream@sensor-dream.ru
+## @License: http://www.apache.org/licenses/LICENSE-2.0
+## @Site: https://sensor-dream.ru
+## @File: main.starter
+## @Creation date file: 10.04.2021, 01:31:11
+
+[[ -z "${main_starter_script_source}" ]] && declare -rx main_starter_script_source="$BASH_SOURCE"
+
+if [[ -z "${main_starter_script_source_path}" ]]; then
+  temp_one="$(dirname ${main_starter_script_source})"
+  if [[ "${temp_one}" == '.' ]]; then
+    declare -rx main_starter_script_source_path="$(pwd)"
+  else
+    declare -rx main_starter_script_source_path="${temp_one}"
+  fi
+fi
+
+if [[ -z "${main_run_script_path}" ]]; then
+  declare -rx main_run_script_path="$(pwd)"
+  printf "Script runs from path: %s\n" "${main_run_script_path}"
+fi
+
+if [[ -z "${main_cfg_script_source}" ]]; then
+  check=1
+  while [[ "${check}" -eq 1 ]]; do
+    if [[ ! -f 'main.cfg' ]]; then
+      if [[ "$(pwd)" != "/" ]]; then
+        cd ../
+      else
+        cd ${main_run_script_path}
+        check=0
+        echo -e '\e[31m'"!!! Not found configuration shared file !!!\033[0m"
+        tput sgr0
+        exit 1
+      fi
+    else
+      check=0
+      declare -rx main_project_path="$(pwd)"
+      . "${main_project_path}/main.cfg" "$@"
+      cd "${main_run_script_path}"
+    fi
+  done
+fi
+
+printf "Loading: %s\n" "$(readlink -m ${BASH_SOURCE})"
+
+function install_main_starter() {
+
+  local install_pkg=("$(cat ${main_project_path}/main.starter.list | sort | uniq)")
+
+  cp "${main_project_path}/main.starter.list" "${main_project_path}/main.starter.list.old"
+
+  echo "${install_pkg}" | tee ${main_project_path}/main.starter.list >/dev/null
+
+  pm "$@" -- "${install_pkg[@]}"
+
+}
+
+function main_main_starter_script_source() {
+
+  # printf "Initialise main function of main.starter script source\n";
+
+  local key=
+
+  echo -n "Update system ? (N/y)"
+  read key
+  case "${key}" in
+  Y | y | yes | Yes | YES)
+    echo "Update system..."
+    sudo dnf update
+    ;;
+  *) ;;
+  esac
+
+  . "${main_project_path}/manually/repository/adobe"
+  . "${main_project_path}/manually/repository/vscode"
+  . "${main_project_path}/manually/repository/rpmfusion"
+
+  sudo dnf copr enable peterwu/rendezvous
+
+  install_main_starter "$@"
+
+  . "manually/installation/flathub/flatpaks"
+
+  sudo dnf install bibata-cursor-themes
+
+  if [[ ! -f /etc/dconf/db/distro.d/10-cursor-settings ]]; then
+    cat <<EOF | sudo tee /etc/dconf/db/distro.d/10-cursor-settings >/dev/null
+# https://wiki.archlinux.org/index.php/GDM#DConf_configuration
+[org/gnome/desktop/interface]
+cursor-theme='Bibata-Original-Classic'
+EOF
+  fi
+
+  gsettings set org.gnome.desktop.interface cursor-theme 'Bibata-Original-Classic'
+  sudo gsettings set org.gnome.desktop.interface cursor-theme 'Bibata-Original-Classic'
+  sudo dconf update
+
+  . "${main_project_path}/manually/installation/rpm/rocm-opencl"
+  . "${main_project_path}/manually/installation/rpm/browser/links"
+
+}
+
+main_main_starter_script_source "$@"

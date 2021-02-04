@@ -1,0 +1,124 @@
+#!/bin/env bash
+# -*- coding: utf-8 -*-
+#
+## @Author: sensor-dream
+## @Email: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © Sensor-Dream Boxed System (SDBS). Contacts: sensor-dream@sensor-dream.ru
+## @License: http://www.apache.org/licenses/LICENSE-2.0
+## @Site: https://sensor-dream.ru
+## @File: network-ifaces
+## @Creation date file: 21.04.2021, 23:03:45
+
+[[ -z "${network_ifaces_script_source}" ]] && declare -rx network_ifaces_script_source="$BASH_SOURCE"
+
+if [[ -z "${network_ifaces_script_source_path}" ]]; then
+  temp_one="$(dirname ${network_ifaces_script_source})"
+  if [[ "${temp_one}" == '.' ]]; then
+    declare -rx network_ifaces_script_source_path="$(pwd)"
+  else
+    declare -rx network_ifaces_script_source_path="${temp_one}"
+  fi
+fi
+
+if [[ -z "${main_run_script_path}" ]]; then
+  declare -rx main_run_script_path="$(pwd)"
+  printf "Script runs from path: %s\n" "${main_run_script_path}"
+fi
+
+if [[ -z "${main_cfg_script_source}" ]]; then
+  check=1
+  while [[ "${check}" -eq 1 ]]; do
+    if [[ ! -f 'main.cfg' ]]; then
+      if [[ "$(pwd)" != "/" ]]; then
+        cd ../
+      else
+        cd ${main_run_script_path}
+        check=0
+        echo -e '\e[31m'"!!! Not found configuration shared file !!!\033[0m"
+        tput sgr0
+        exit 1
+      fi
+    else
+      check=0
+      declare -rx main_project_path="$(pwd)"
+      . "${main_project_path}/main.cfg" "$@"
+      cd "${main_run_script_path}"
+    fi
+  done
+fi
+
+printf "Loading: %s\n" "$(readlink -m ${BASH_SOURCE})"
+
+function preparation_network_ifaces() {
+
+  printf '\n%s\n' 'Please read https://developer.gnome.org/NetworkManager/stable/'
+  local connection_name="$(nmcli -g 'GENERAL.CONNECTION' dev show ${cfg_local_interface_name})"
+  local macaddres="$(ifconfig "${cfg_local_interface_name}" | awk '/ether/ {print $2}')"
+  local ip4_dns="$(nmcli -g IP4.DNS dev show ${cfg_local_interface_name} | xargs)"
+  local key=
+  local flag_brocker=0
+
+  nmcli device disconnect "${cfg_local_interface_name}"
+
+  nmcli c mod "${connection_name}" connection.id "${connection_name}" connection.stable-id "${cfg_local_interface_name}" connection.interface-name "${cfg_local_interface_name}" connection.autoconnect "yes" connection.permissions user:${cfg_user} ethernet.mac-address "${macaddress}" ethernet.cloned-mac-address "${macaddress}" ipv4.method "manual" ipv4.ignore-auto-dns "yes" ipv4.ignore-auto-routes "yes" ipv4.dhcp-hostname "${cfg_hostname}" ipv4.addresses "${cfg_local_ip}/${cfg_local_ip_mask}" ipv4.gateway "${cfg_local_ip_gateway}"
+
+  # если не используется systemd-resolved (127.0.0.53 address)
+  # if not using systemd-resolved (127.0.0.53 address)
+  [[ "${ip4_dns}" == '127.0.0.53' ]] || nmcli c mod "${connection_name}" ipv4.dns "${cfg_ip_dns_1}" +ipv4.dns "${cfg_ip_dns_2}" +ipv4.dns "${cfg_ip_dns_3}"
+
+  echo -n "Create brocker interface and configuration ? (N/y)"
+  read key
+  case "${key}" in
+  Y | y | yes | Yes | YES)
+    flag_brocker=1
+    ;;
+  *) ;;
+  esac
+
+  if [[ ${flag_brocker} -eq 1 ]]; then
+
+    echo "Ok brocker setup..."
+    echo "TODO"
+
+    cat <<EOF >/dev/null
+    [[ -z "${cfg_name_brocker}" ]] && . "${main_project_path}/hidden/cfg-tunnel-brocker"
+
+    [[ -n "$(nmcli connection show "he-ipv6" 2>/dev/null)" ]] && nmcli c delete "he-ipv6"
+
+    # nmcli connection add type ip-tunnel ip-tunnel.mode ipip con-name tun0 ifname tun0 remote 198.51.100.5 local 203.0.113.10
+    # nmcli connection add type ip-tunnel ip-tunnel.mode sit con-name heipv6 ifname heipv6 remote ${cfg_brocker_remote_ip} local ${cfg_local_ip}
+
+    # nmcli c add type "ip-tunnel" connection.permissions user:${cfg_user} autoconnect "no" save yes ip-tunnel.mode sit remote "${cfg_brocker_remote_ip}" con-name "he-ipv6" ifname "he-ipv6" local "${cfg_local_ip}" dev "${cfg_local_interface_name}" ip6 "${cfg_brocker_ipv6}/${cfg_ipv6_mask}" gw6 "${cfg_brocker_gw_ipv6}" ipv6.method "manual" ipv6.ignore-auto-dns "yes" ipv6.ignore-auto-routes "yes" ipv6.dhcp-hostname "${cfg_hostname}" ip-tunnel.ttl 255 ipv4.method disabled
+
+
+    sudo modprobe ipv6
+    sudo ip tunnel add he-ipv6 mode sit remote ${cfg_brocker_remote_ip} local ${cfg_white_ip} ttl 255
+    sudo ip link set he-ipv6 up
+    sudo ip addr add ${cfg_brocker_ipv6}/${cfg_ipv6_mask} dev he-ipv6
+    sudo ip route add ::/0 dev he-ipv6
+    sudo ip -f inet6 addr
+
+
+    [[ "${ip4_dns}" == '127.0.0.53' ]] || nmcli c mod "${connection_name}" ipv6.dns "${cfg_anycast_ipv6_caching_nameserver}"
+EOF
+  else
+    nmcli c mod "${connection_name}" ipv6.addresses '' ipv6.method ignore
+  fi
+
+  nmcli device connect "${cfg_local_interface_name}"
+  # nmcli device connect "he-ipv6"
+
+}
+
+function main_network_ifaces_script_source() {
+
+  # printf "Initialise main function of network-ifaces script source\n";
+
+  [[ -z "${cfg_local_ip}" ]] && . "${main_project_path}/tools/cfg-network-information"
+  preparation_network_ifaces "$@"
+
+}
+
+main_network_ifaces_script_source "$@"

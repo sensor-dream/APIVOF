@@ -1,0 +1,84 @@
+#!/bin/env bash
+# -*- coding: utf-8 -*-
+#
+## @Author: sensor-dream
+## @Email: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © Sensor-Dream Boxed System (SDBS). Contacts: sensor-dream@sensor-dream.ru
+## @License: http://www.apache.org/licenses/LICENSE-2.0
+## @Site: https://sensor-dream.ru
+## @File: up-speed-of-writing-flash-drives
+## @Creation date file: 28.02.2021, 06:45:22
+
+[[ -z "${up_speed_of_writing_flash_drives_script_source}" ]] && declare -rx up_speed_of_writing_flash_drives_script_source="$BASH_SOURCE"
+
+if [[ -z "${up_speed_of_writing_flash_drives_script_source_path}" ]]; then
+  temp_one="$(dirname ${up_speed_of_writing_flash_drives_script_source})"
+  if [[ "${temp_one}" == '.' ]]; then
+    declare -rx up_speed_of_writing_flash_drives_script_source_path="$(pwd)"
+  else
+    declare -rx up_speed_of_writing_flash_drives_script_source_path="${temp_one}"
+  fi
+fi
+
+if [[ -z "${main_run_script_path}" ]]; then
+  declare -rx main_run_script_path="$(pwd)"
+  printf "Script runs from path: %s\n" "${main_run_script_path}"
+fi
+
+if [[ -z "${main_cfg_script_source}" ]]; then
+  check=1
+  while [[ "${check}" -eq 1 ]]; do
+    if [[ ! -f 'main.cfg' ]]; then
+      if [[ "$(pwd)" != "/" ]]; then
+        cd ../
+      else
+        cd ${main_run_script_path}
+        check=0
+        echo -e '\e[31m'"!!! Not found configuration shared file !!!\033[0m"
+        tput sgr0
+        exit 1
+      fi
+    else
+      check=0
+      declare -rx main_project_path="$(pwd)"
+      . "${main_project_path}/main.cfg" "$@"
+      cd "${main_run_script_path}"
+    fi
+  done
+fi
+
+printf "Loading: %s\n" "$(readlink -m ${BASH_SOURCE})"
+
+function main_up_speed_of_writing_flash_drives_script_source() {
+
+  echo "TODO: experimental"
+  # exit
+
+  echo "dirty_bytes = $(cat /proc/sys/vm/dirty_bytes)"
+  echo "dirty_background_bytes = $(cat /proc/sys/vm/dirty_background_bytes)"
+
+  echo -n "Up speed of writing flash drives ? (N/y)"
+  read key
+  case "${key}" in
+  Y | y | yes | Yes | YES)
+    temp_one="$(cat /etc/sysctl.conf)"
+    printf "Initialise main function of up-speed-of-writing-flash-drives script source\n"
+    printf "\nWe increase the speed of writing to flash drives and get rid of the system brakes when copying to them\n"
+    echo 4194304 | sudo tee /proc/sys/vm/dirty_bytes >/dev/null
+    echo 4194304 | sudo tee /proc/sys/vm/dirty_background_bytes >/dev/null
+    insert_or_replace_var_value_in_string_data "vm.dirty_bytes" 4194304
+    insert_or_replace_var_value_in_string_data "vm.dirty_background_bytes" 4194304
+    echo "${temp_one}" | sudo tee "/etc/sysctl.conf" >/dev/null
+    # Return the values of variables to the state saved in files and delete your changes.
+    # sudo sysctl --system
+    # read values from file
+    sudo sysctl -p >/dev/null
+    ;;
+  *) ;;
+  esac
+
+}
+
+main_up_speed_of_writing_flash_drives_script_source "$@"

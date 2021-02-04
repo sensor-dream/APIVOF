@@ -1,0 +1,230 @@
+#!/bin/env bash
+# -*- coding: utf-8 -*-
+#
+## @Author: sensor-dream
+## @Email: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © sensor-dream. All rights reserved. Contacts: sensor-dream@sensor-dream.ru
+## @Copyright © Sensor-Dream Boxed System (SDBS). Contacts: sensor-dream@sensor-dream.ru
+## @License: http://www.apache.org/licenses/LICENSE-2.0
+## @Site: https://sensor-dream.ru
+## @File: nvidia-340xx
+## @Creation date file: 13.04.2021, 00:07:34
+
+[[ -z "${nvidia_340xx_script_source}" ]] && declare -rx nvidia_340xx_script_source="$BASH_SOURCE"
+
+if [[ -z "${nvidia_340xx_script_source_path}" ]]; then
+  temp_one="$(dirname ${nvidia_340xx_script_source})"
+  if [[ "${temp_one}" == '.' ]]; then
+    declare -rx nvidia_340xx_script_source_path="$(pwd)"
+  else
+    declare -rx nvidia_340xx_script_source_path="${temp_one}"
+  fi
+fi
+
+if [[ -z "${main_run_script_path}" ]]; then
+  declare -rx main_run_script_path="$(pwd)"
+  printf "Script runs from path: %s\n" "${main_run_script_path}"
+fi
+
+if [[ -z "${main_cfg_script_source}" ]]; then
+  check=1
+  while [[ "${check}" -eq 1 ]]; do
+    if [[ ! -f 'main.cfg' ]]; then
+      if [[ "$(pwd)" != "/" ]]; then
+        cd ../
+      else
+        cd ${main_run_script_path}
+        check=0
+        echo -e '\e[31m'"!!! Not found configuration shared file !!!\033[0m"
+        tput sgr0
+        exit 1
+      fi
+    else
+      check=0
+      declare -rx main_project_path="$(pwd)"
+      . "${main_project_path}/main.cfg" "$@"
+      cd "${main_run_script_path}"
+    fi
+  done
+fi
+
+printf "Loading: %s\n" "$(readlink -m ${BASH_SOURCE})"
+
+function install_nvidia_340xx() {
+
+  local key=
+  local version="$@"
+
+  echo "Install nvidia ${version} patched"
+
+  if [[ ! -d "${main_project_path}/temp/NVIDIA" ]]; then
+    mkdir -p "${main_project_path}/temp/NVIDIA"
+  fi
+
+  cd "${main_project_path}/temp/NVIDIA"
+
+  if [[ ! -f "inttf-nvidia-patcher.sh" ]]; then
+    wget -O "inttf-nvidia-patcher.sh" "https://nvidia.if-not-true-then-false.com/patcher/inttf-nvidia-patcher.sh"
+    chmod +x "inttf-nvidia-patcher.sh"
+    ./inttf-nvidia-patcher.sh -v "${version}"
+  fi
+
+  if [[ "$(systemctl get-default)" == "graphical.target" ]]; then
+
+    if [[ ! -f "/etc/modprobe.d/nvidia-${version}-nouveau-blacklist.conf" ]]; then
+      echo "blacklist nouveau" | sudo tee -a "/etc/modprobe.d/nvidia-${version}-nouveau-blacklist.conf" >/dev/null
+    fi
+
+    [[ -f '/etc/default/grub.back' ]] || sudo cp grub grub.back
+
+    if ! grep -Eq 'nvidia-drm.modeset=1 rd.driver.blacklist=nouveau' '/etc/default/grub'; then
+      # sudo grubby --update-kernel=ALL --args='nvidia-drm.modeset=1 rd.driver.blacklist=nouveau'
+      sudo sed -i '/GRUB_CMDLINE_LINUX/s/"$/ nvidia-drm.modeset=1 rd.driver.blacklist=nouveau"/' '/etc/default/grub'
+    fi
+
+    if [[ -d /sys/firmware/efi ]]; then
+      ## UEFI ##
+      sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
+    else
+      ## BIOS ##
+      sudo grub2-mkconfig -o /boot/grub2/grub.cfg
+    fi
+
+    pm -r -a -- xorg-x11-drv-nouveau
+
+    sudo mv "/boot/initramfs-${kerner_release}.img" "/boot/initramfs-${kerner_release}-nouveau.img"
+
+    sudo dracut -f "/boot/initramfs-${kerner_release}.img" "${kerner_release}"
+
+    [[ "$(systemctl get-default)" == 'graphical.target' ]] && sudo systemctl set-default 'multi-user.target'
+
+    echo -n "Reboot ? (N/y)"
+    read key
+    [[ -z "${key}" ]] || reboot
+
+  else
+
+    sudo bash NVIDIA-Linux-x86_64-${version}-patched-kernel-${kerner_release_short}.run
+
+    cat <<EOF >/dev/null
+
+    # Themes plymouth: $(plymouth-set-default-theme --list)
+    # bgrt
+    # details
+    # script
+    # spinfinity
+    # spinner
+    # text
+    # tribar
+
+    sudo plymouth-set-default-theme script
+
+    if [[ ! -f "/etc/modprobe.d/nvidia-${version}.conf" ]]; then
+      echo "options nvidia_drm modeset=1" | sudo tee -a "/etc/modprobe.d/nvidia-${version}.conf" >/dev/null
+    fi
+
+    if [[ ! -f "/etc/dracut.conf.d/nvidia-${version}.conf" ]]; then
+      cat <<OOPS | sudo tee -a "/etc/dracut.conf.d/nvidia-${version}.conf" >/dev/null
+add_drivers+=" nvidia nvidia_modeset nvidia_uvm nvidia_drm "
+install_items+=" /etc/modprobe.d/nvidia-${version}.conf "
+OOPS
+    fi
+
+    sudo dracut -f
+
+EOF
+
+    [[ "$(systemctl get-default)" == 'graphical.target' ]] || sudo systemctl set-default 'graphical.target'
+
+    echo -n "Reboot ? (N/y)"
+    read key
+    [[ -z "${key}" ]] || reboot
+
+  fi
+}
+
+function uninstall_nvidia_340xx() {
+
+  local key=
+  local version="$@"
+
+  echo "Uninstall nvidia ${version} patched"
+
+  if [[ "$(systemctl get-default)" == "graphical.target" ]]; then
+    [[ "$(systemctl get-default)" == 'graphical.target' ]] && sudo systemctl set-default 'multi-user.target'
+    echo -n "Reboot ? (N/y)"
+    read key
+    [[ -z "${key}" ]] || reboot
+  else
+
+    sudo nvidia-installer --uninstall
+
+    if grep -Eq 'nvidia-drm.modeset=1 rd.driver.blacklist=nouveau' '/etc/default/grub'; then
+      sudo sed -i '/GRUB_CMDLINE_LINUX/s/ nvidia-drm.modeset=1 rd.driver.blacklist=nouveau//' '/etc/default/grub'
+    fi
+
+    [[ -f "/etc/modprobe.d/nvidia-${version}.conf" ]] && sudo rm "/etc/modprobe.d/nvidia-${version}.conf"
+    [[ -f "/etc/dracut.conf.d/nvidia-${version}.conf" ]] && sudo rm "/etc/dracut.conf.d/nvidia-${version}.conf"
+    [[ -f "/etc/modprobe.d/nvidia-${version}-nouveau-blacklist.conf" ]] && sudo rm "/etc/modprobe.d/nvidia-${version}-nouveau-blacklist.conf"
+
+    if [[ -d /sys/firmware/efi ]]; then
+      ## UEFI ##
+      sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg
+    else
+      ## BIOS ##
+      sudo grub2-mkconfig -o /boot/grub2/grub.cfg
+    fi
+
+    pm -a -- xorg-x11-drv-nouveau
+
+    ## Backup old initramfs nvidia image ##
+    sudo mv "/boot/initramfs-${kerner_release}.img" "/boot/initramfs-${kerner_release}-nvidia.img"
+
+    ## Create new initramfs image ##
+    sudo dracut -f "/boot/initramfs-${kerner_release}.img" "${kerner_release}"
+
+    sudo dnf reinstall xorg-\* mesa\* libglvnd\*
+
+    [[ "$(systemctl get-default)" == 'graphical.target' ]] || sudo systemctl set-default 'graphical.target'
+    echo -n "Reboot ? (N/y)"
+    read key
+    [[ -z "${key}" ]] || reboot
+  fi
+
+}
+
+function main_nvidia_340xx_script_source() {
+
+  # printf "Initialise main function of nvidia-340xx script source\n";
+
+  local version=340.108
+
+  local key=
+
+  echo -n "Install NVIDIA 340xx videocard ? (N/y)"
+  read key
+  case "${key}" in
+  Y | y | yes | Yes | YES)
+    OPTIND=1
+    while getopts "u" OPT; do
+      case $OPT in
+      u)
+        uninstall_nvidia_340xx ${version}
+        exit 0
+        ;;
+      *) ;;
+      esac
+    done
+    shift $(($OPTIND - 1))
+    # shift `expr $OPTIND - 1`
+    [ "${1:-}" = "--" ] && shift
+    . "${main_project_path}/manually/installation/rpm/packages-for-preparation-install-driver-patched-nvidia-videocards"
+    install_nvidia_340xx ${version}
+    ;;
+  *) ;;
+  esac
+
+}
+
+main_nvidia_340xx_script_source "$@"
