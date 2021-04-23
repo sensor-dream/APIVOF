@@ -1,8 +1,7 @@
 # Info for all installed packages
 
-
 <details>
-<summary>Box2D</summary>
+<summary>Имя пакета: Box2D</summary>
 
 ```
 Из репозитор : anaconda
@@ -18,7 +17,7 @@ URL          : http://box2d.org/
 </details>
 
 <details>
-<summary>CharLS</summary>
+<summary>Имя пакета: CharLS</summary>
 
 ```
 Из репозитор : fedora
@@ -40,7 +39,7 @@ URL          : https://github.com/team-charls/charls
 </details>
 
 <details>
-<summary>DevIL</summary>
+<summary>Имя пакета: DevIL</summary>
 
 ```
 Из репозитор : fedora
@@ -58,7 +57,7 @@ URL          : http://openil.sourceforge.net/
 </details>
 
 <details>
-<summary>GConf2</summary>
+<summary>Имя пакета: GConf2</summary>
 
 ```
 Из репозитор : fedora
@@ -73,7 +72,7 @@ URL          : http://projects.gnome.org/gconf/
 </details>
 
 <details>
-<summary>GLC_lib</summary>
+<summary>Имя пакета: GLC_lib</summary>
 
 ```
 Из репозитор : fedora
@@ -88,7 +87,7 @@ URL          : http://www.glc-lib.net/
 </details>
 
 <details>
-<summary>GLee</summary>
+<summary>Имя пакета: GLee</summary>
 
 ```
 Из репозитор : fedora
@@ -103,7 +102,7 @@ URL          : http://elf-stone.com/glee.php
 </details>
 
 <details>
-<summary>GeoIP</summary>
+<summary>Имя пакета: GeoIP</summary>
 
 ```
 Из репозитор : fedora
@@ -121,7 +120,7 @@ URL          : http://www.maxmind.com/app/c
 </details>
 
 <details>
-<summary>GeoIP-GeoLite-data</summary>
+<summary>Имя пакета: GeoIP-GeoLite-data</summary>
 
 ```
 Из репозитор : fedora
@@ -138,7 +137,7 @@ URL          : http://dev.maxmind.com/geoip/legacy/geolite/
 </details>
 
 <details>
-<summary>GeoIP-GeoLite-data-extra</summary>
+<summary>Имя пакета: GeoIP-GeoLite-data-extra</summary>
 
 ```
 Из репозитор : fedora
@@ -156,7 +155,7 @@ URL          : http://dev.maxmind.com/geoip/legacy/geolite/
 </details>
 
 <details>
-<summary>GraphicsMagick</summary>
+<summary>Имя пакета: GraphicsMagick</summary>
 
 ```
 Из репозитор : fedora
@@ -172,7 +171,7 @@ URL          : http://www.graphicsmagick.org/
 </details>
 
 <details>
-<summary>GraphicsMagick-c++</summary>
+<summary>Имя пакета: GraphicsMagick-c++</summary>
 
 ```
 Из репозитор : fedora
@@ -189,7 +188,7 @@ URL          : http://www.graphicsmagick.org/
 </details>
 
 <details>
-<summary>GraphicsMagick-c++-devel</summary>
+<summary>Имя пакета: GraphicsMagick-c++-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -211,7 +210,7 @@ URL          : http://www.graphicsmagick.org/
 </details>
 
 <details>
-<summary>GraphicsMagick-devel</summary>
+<summary>Имя пакета: GraphicsMagick-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -231,7 +230,7 @@ URL          : http://www.graphicsmagick.org/
 </details>
 
 <details>
-<summary>GraphicsMagick-doc</summary>
+<summary>Имя пакета: GraphicsMagick-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -244,7 +243,7 @@ URL          : http://www.graphicsmagick.org/
 </details>
 
 <details>
-<summary>GraphicsMagick-perl</summary>
+<summary>Имя пакета: GraphicsMagick-perl</summary>
 
 ```
 Из репозитор : fedora
@@ -260,7 +259,7 @@ URL          : http://www.graphicsmagick.org/
 </details>
 
 <details>
-<summary>ImageMagick</summary>
+<summary>Имя пакета: ImageMagick</summary>
 
 ```
 Эпоха        : 1
@@ -286,7 +285,7 @@ URL          : http://www.imagemagick.org/
 </details>
 
 <details>
-<summary>ImageMagick-c++</summary>
+<summary>Имя пакета: ImageMagick-c++</summary>
 
 ```
 Эпоха        : 1
@@ -303,7 +302,7 @@ URL          : http://www.imagemagick.org/
 </details>
 
 <details>
-<summary>ImageMagick-c++-devel</summary>
+<summary>Имя пакета: ImageMagick-c++-devel</summary>
 
 ```
 Эпоха        : 1
@@ -326,7 +325,7 @@ URL          : http://www.imagemagick.org/
 </details>
 
 <details>
-<summary>ImageMagick-devel</summary>
+<summary>Имя пакета: ImageMagick-devel</summary>
 
 ```
 Эпоха        : 1
@@ -347,7 +346,7 @@ URL          : http://www.imagemagick.org/
 </details>
 
 <details>
-<summary>ImageMagick-djvu</summary>
+<summary>Имя пакета: ImageMagick-djvu</summary>
 
 ```
 Эпоха        : 1
@@ -362,7 +361,7 @@ URL          : http://www.imagemagick.org/
 </details>
 
 <details>
-<summary>ImageMagick-doc</summary>
+<summary>Имя пакета: ImageMagick-doc</summary>
 
 ```
 Эпоха        : 1
@@ -379,7 +378,7 @@ URL          : http://www.imagemagick.org/
 </details>
 
 <details>
-<summary>ImageMagick-libs</summary>
+<summary>Имя пакета: ImageMagick-libs</summary>
 
 ```
 Эпоха        : 1
@@ -393,7 +392,7 @@ URL          : http://www.imagemagick.org/
 </details>
 
 <details>
-<summary>ImageMagick-perl</summary>
+<summary>Имя пакета: ImageMagick-perl</summary>
 
 ```
 Эпоха        : 1
@@ -410,7 +409,7 @@ URL          : http://www.imagemagick.org/
 </details>
 
 <details>
-<summary>Judy</summary>
+<summary>Имя пакета: Judy</summary>
 
 ```
 Из репозитор : fedora
@@ -431,7 +430,7 @@ URL          : http://sourceforge.net/projects/judy/
 </details>
 
 <details>
-<summary>LibRaw</summary>
+<summary>Имя пакета: LibRaw</summary>
 
 ```
 Из репозитор : anaconda
@@ -448,7 +447,7 @@ URL          : http://www.libraw.org
 </details>
 
 <details>
-<summary>Lmod</summary>
+<summary>Имя пакета: Lmod</summary>
 
 ```
 Из репозитор : fedora
@@ -466,7 +465,7 @@ URL          : https://www.tacc.utexas.edu/tacc-projects/lmod
 </details>
 
 <details>
-<summary>MUMPS</summary>
+<summary>Имя пакета: MUMPS</summary>
 
 ```
 Из репозитор : fedora
@@ -482,7 +481,7 @@ URL          : http://mumps.enseeiht.fr/
 </details>
 
 <details>
-<summary>MUMPS-common</summary>
+<summary>Имя пакета: MUMPS-common</summary>
 
 ```
 Из репозитор : fedora
@@ -495,7 +494,7 @@ URL          : http://mumps.enseeiht.fr/
 </details>
 
 <details>
-<summary>ModemManager</summary>
+<summary>Имя пакета: ModemManager</summary>
 
 ```
 Из репозитор : anaconda
@@ -509,7 +508,7 @@ URL          : http://www.freedesktop.org/wiki/Software/ModemManager/
 </details>
 
 <details>
-<summary>ModemManager-glib</summary>
+<summary>Имя пакета: ModemManager-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -523,7 +522,7 @@ URL          : http://www.freedesktop.org/wiki/Software/ModemManager/
 </details>
 
 <details>
-<summary>NetworkManager</summary>
+<summary>Имя пакета: NetworkManager</summary>
 
 ```
 Эпоха        : 1
@@ -541,7 +540,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager</summary>
+<summary>Имя пакета: NetworkManager</summary>
 
 ```
 Эпоха        : 1
@@ -559,7 +558,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-adsl</summary>
+<summary>Имя пакета: NetworkManager-adsl</summary>
 
 ```
 Эпоха        : 1
@@ -573,7 +572,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-bluetooth</summary>
+<summary>Имя пакета: NetworkManager-bluetooth</summary>
 
 ```
 Эпоха        : 1
@@ -587,7 +586,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-config-connectivity-fedora</summary>
+<summary>Имя пакета: NetworkManager-config-connectivity-fedora</summary>
 
 ```
 Эпоха        : 1
@@ -602,7 +601,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-libnm</summary>
+<summary>Имя пакета: NetworkManager-libnm</summary>
 
 ```
 Эпоха        : 1
@@ -617,7 +616,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-libnm</summary>
+<summary>Имя пакета: NetworkManager-libnm</summary>
 
 ```
 Эпоха        : 1
@@ -632,7 +631,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-openconnect</summary>
+<summary>Имя пакета: NetworkManager-openconnect</summary>
 
 ```
 Из репозитор : anaconda
@@ -646,7 +645,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>NetworkManager-openconnect-gnome</summary>
+<summary>Имя пакета: NetworkManager-openconnect-gnome</summary>
 
 ```
 Из репозитор : anaconda
@@ -660,7 +659,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>NetworkManager-openvpn</summary>
+<summary>Имя пакета: NetworkManager-openvpn</summary>
 
 ```
 Эпоха        : 1
@@ -675,7 +674,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>NetworkManager-openvpn</summary>
+<summary>Имя пакета: NetworkManager-openvpn</summary>
 
 ```
 Эпоха        : 1
@@ -690,7 +689,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>NetworkManager-openvpn-gnome</summary>
+<summary>Имя пакета: NetworkManager-openvpn-gnome</summary>
 
 ```
 Эпоха        : 1
@@ -705,7 +704,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>NetworkManager-ppp</summary>
+<summary>Имя пакета: NetworkManager-ppp</summary>
 
 ```
 Эпоха        : 1
@@ -719,7 +718,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-pptp</summary>
+<summary>Имя пакета: NetworkManager-pptp</summary>
 
 ```
 Эпоха        : 1
@@ -734,7 +733,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>NetworkManager-pptp-gnome</summary>
+<summary>Имя пакета: NetworkManager-pptp-gnome</summary>
 
 ```
 Эпоха        : 1
@@ -749,7 +748,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>NetworkManager-ssh</summary>
+<summary>Имя пакета: NetworkManager-ssh</summary>
 
 ```
 Из репозитор : updates-testing
@@ -763,7 +762,7 @@ URL          : https://github.com/danfruehauf/NetworkManager-ssh
 </details>
 
 <details>
-<summary>NetworkManager-ssh-gnome</summary>
+<summary>Имя пакета: NetworkManager-ssh-gnome</summary>
 
 ```
 Из репозитор : updates-testing
@@ -777,7 +776,7 @@ URL          : https://github.com/danfruehauf/NetworkManager-ssh
 </details>
 
 <details>
-<summary>NetworkManager-team</summary>
+<summary>Имя пакета: NetworkManager-team</summary>
 
 ```
 Эпоха        : 1
@@ -791,7 +790,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-team</summary>
+<summary>Имя пакета: NetworkManager-team</summary>
 
 ```
 Эпоха        : 1
@@ -805,7 +804,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-vpnc</summary>
+<summary>Имя пакета: NetworkManager-vpnc</summary>
 
 ```
 Эпоха        : 1
@@ -820,7 +819,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>NetworkManager-vpnc-gnome</summary>
+<summary>Имя пакета: NetworkManager-vpnc-gnome</summary>
 
 ```
 Эпоха        : 1
@@ -835,7 +834,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>NetworkManager-wifi</summary>
+<summary>Имя пакета: NetworkManager-wifi</summary>
 
 ```
 Эпоха        : 1
@@ -849,7 +848,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-wifi</summary>
+<summary>Имя пакета: NetworkManager-wifi</summary>
 
 ```
 Эпоха        : 1
@@ -863,7 +862,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-wwan</summary>
+<summary>Имя пакета: NetworkManager-wwan</summary>
 
 ```
 Эпоха        : 1
@@ -878,7 +877,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>NetworkManager-wwan</summary>
+<summary>Имя пакета: NetworkManager-wwan</summary>
 
 ```
 Эпоха        : 1
@@ -893,7 +892,7 @@ URL          : https://networkmanager.dev/
 </details>
 
 <details>
-<summary>ORBit2</summary>
+<summary>Имя пакета: ORBit2</summary>
 
 ```
 Из репозитор : fedora
@@ -915,7 +914,7 @@ URL          : http://www.gnome.org/projects/ORBit2
 </details>
 
 <details>
-<summary>PackageKit</summary>
+<summary>Имя пакета: PackageKit</summary>
 
 ```
 Из репозитор : anaconda
@@ -930,7 +929,7 @@ URL          : http://www.freedesktop.org/software/PackageKit/
 </details>
 
 <details>
-<summary>PackageKit</summary>
+<summary>Имя пакета: PackageKit</summary>
 
 ```
 Из репозитор : updates-testing
@@ -945,7 +944,7 @@ URL          : http://www.freedesktop.org/software/PackageKit/
 </details>
 
 <details>
-<summary>PackageKit-command-not-found</summary>
+<summary>Имя пакета: PackageKit-command-not-found</summary>
 
 ```
 Из репозитор : updates-testing
@@ -959,7 +958,7 @@ URL          : http://www.freedesktop.org/software/PackageKit/
 </details>
 
 <details>
-<summary>PackageKit-glib</summary>
+<summary>Имя пакета: PackageKit-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -972,7 +971,7 @@ URL          : http://www.freedesktop.org/software/PackageKit/
 </details>
 
 <details>
-<summary>PackageKit-glib</summary>
+<summary>Имя пакета: PackageKit-glib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -985,7 +984,7 @@ URL          : http://www.freedesktop.org/software/PackageKit/
 </details>
 
 <details>
-<summary>PackageKit-gstreamer-plugin</summary>
+<summary>Имя пакета: PackageKit-gstreamer-plugin</summary>
 
 ```
 Из репозитор : updates-testing
@@ -999,7 +998,7 @@ URL          : http://www.freedesktop.org/software/PackageKit/
 </details>
 
 <details>
-<summary>PackageKit-gtk3-module</summary>
+<summary>Имя пакета: PackageKit-gtk3-module</summary>
 
 ```
 Из репозитор : updates-testing
@@ -1013,7 +1012,7 @@ URL          : http://www.freedesktop.org/software/PackageKit/
 </details>
 
 <details>
-<summary>SDL</summary>
+<summary>Имя пакета: SDL</summary>
 
 ```
 Из репозитор : fedora
@@ -1027,7 +1026,7 @@ URL          : https://www.libsdl.org/
 </details>
 
 <details>
-<summary>SDL-devel</summary>
+<summary>Имя пакета: SDL-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -1043,7 +1042,7 @@ URL          : https://www.libsdl.org/
 </details>
 
 <details>
-<summary>SDL-static</summary>
+<summary>Имя пакета: SDL-static</summary>
 
 ```
 Из репозитор : fedora
@@ -1059,7 +1058,7 @@ URL          : https://www.libsdl.org/
 </details>
 
 <details>
-<summary>SDL2</summary>
+<summary>Имя пакета: SDL2</summary>
 
 ```
 Из репозитор : anaconda
@@ -1073,7 +1072,7 @@ URL          : http://www.libsdl.org/
 </details>
 
 <details>
-<summary>SDL2-static</summary>
+<summary>Имя пакета: SDL2-static</summary>
 
 ```
 Из репозитор : fedora
@@ -1086,7 +1085,7 @@ URL          : http://www.libsdl.org/
 </details>
 
 <details>
-<summary>SDL2_gfx</summary>
+<summary>Имя пакета: SDL2_gfx</summary>
 
 ```
 Из репозитор : fedora
@@ -1101,7 +1100,7 @@ URL          : http://www.ferzkopp.net/Software/SDL2_gfx-2.0/
 </details>
 
 <details>
-<summary>SDL2_gfx-docs</summary>
+<summary>Имя пакета: SDL2_gfx-docs</summary>
 
 ```
 Из репозитор : fedora
@@ -1114,7 +1113,7 @@ URL          : http://www.ferzkopp.net/Software/SDL2_gfx-2.0/
 </details>
 
 <details>
-<summary>SDL2_image</summary>
+<summary>Имя пакета: SDL2_image</summary>
 
 ```
 Из репозитор : fedora
@@ -1130,7 +1129,7 @@ URL          : http://www.libsdl.org/projects/SDL_image/
 </details>
 
 <details>
-<summary>SDL2_mixer</summary>
+<summary>Имя пакета: SDL2_mixer</summary>
 
 ```
 Из репозитор : fedora
@@ -1146,7 +1145,7 @@ URL          : https://www.libsdl.org/projects/SDL_mixer/
 </details>
 
 <details>
-<summary>SDL2_net</summary>
+<summary>Имя пакета: SDL2_net</summary>
 
 ```
 Из репозитор : fedora
@@ -1159,7 +1158,7 @@ URL          : http://www.libsdl.org/projects/SDL_net/
 </details>
 
 <details>
-<summary>SDL2_ttf</summary>
+<summary>Имя пакета: SDL2_ttf</summary>
 
 ```
 Из репозитор : fedora
@@ -1173,7 +1172,7 @@ URL          : https://www.libsdl.org/projects/SDL_ttf/
 </details>
 
 <details>
-<summary>SDLPoP</summary>
+<summary>Имя пакета: SDLPoP</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -1187,7 +1186,7 @@ URL          : https://github.com/NagyD/SDLPoP
 </details>
 
 <details>
-<summary>SDL_Pango</summary>
+<summary>Имя пакета: SDL_Pango</summary>
 
 ```
 Из репозитор : fedora
@@ -1201,7 +1200,7 @@ URL          : http://sdlpango.sourceforge.net/
 </details>
 
 <details>
-<summary>SDL_gfx</summary>
+<summary>Имя пакета: SDL_gfx</summary>
 
 ```
 Из репозитор : fedora
@@ -1216,7 +1215,7 @@ URL          : http://www.ferzkopp.net/Software/SDL_gfx-2.0/
 </details>
 
 <details>
-<summary>SDL_image</summary>
+<summary>Имя пакета: SDL_image</summary>
 
 ```
 Из репозитор : fedora
@@ -1232,7 +1231,7 @@ URL          : http://www.libsdl.org/projects/SDL_image/
 </details>
 
 <details>
-<summary>SDL_mixer</summary>
+<summary>Имя пакета: SDL_mixer</summary>
 
 ```
 Из репозитор : fedora
@@ -1247,7 +1246,7 @@ URL          : http://www.libsdl.org/projects/SDL_mixer/
 </details>
 
 <details>
-<summary>SDL_mng</summary>
+<summary>Имя пакета: SDL_mng</summary>
 
 ```
 Из репозитор : fedora
@@ -1260,7 +1259,7 @@ URL          : https://github.com/dulsi/SDL_mng
 </details>
 
 <details>
-<summary>SDL_net</summary>
+<summary>Имя пакета: SDL_net</summary>
 
 ```
 Из репозитор : fedora
@@ -1273,7 +1272,7 @@ URL          : http://www.libsdl.org/projects/SDL_net/
 </details>
 
 <details>
-<summary>SDL_sound</summary>
+<summary>Имя пакета: SDL_sound</summary>
 
 ```
 Из репозитор : fedora
@@ -1296,7 +1295,7 @@ URL          : http://www.icculus.org/SDL_sound
 </details>
 
 <details>
-<summary>SDL_ttf</summary>
+<summary>Имя пакета: SDL_ttf</summary>
 
 ```
 Из репозитор : fedora
@@ -1310,7 +1309,7 @@ URL          : http://www.libsdl.org/projects/SDL_ttf/
 </details>
 
 <details>
-<summary>SuperLU</summary>
+<summary>Имя пакета: SuperLU</summary>
 
 ```
 Из репозитор : fedora
@@ -1326,7 +1325,7 @@ URL          : https://portal.nersc.gov/project/sparse/superlu/
 </details>
 
 <details>
-<summary>Xaw3d</summary>
+<summary>Имя пакета: Xaw3d</summary>
 
 ```
 Из репозитор : fedora
@@ -1345,7 +1344,7 @@ URL          : http://xorg.freedesktop.org/
 </details>
 
 <details>
-<summary>aajohan-comfortaa-fonts</summary>
+<summary>Имя пакета: aajohan-comfortaa-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -1360,7 +1359,7 @@ URL          : http://aajohan.deviantart.com
 </details>
 
 <details>
-<summary>aalib-libs</summary>
+<summary>Имя пакета: aalib-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -1373,7 +1372,7 @@ URL          : http://aa-project.sourceforge.net/aalib/
 </details>
 
 <details>
-<summary>abattis-cantarell-fonts</summary>
+<summary>Имя пакета: abattis-cantarell-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -1388,7 +1387,7 @@ URL          : https://git.gnome.org/browse/cantarell-fonts/
 </details>
 
 <details>
-<summary>abrt</summary>
+<summary>Имя пакета: abrt</summary>
 
 ```
 Из репозитор : anaconda
@@ -1403,7 +1402,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-addon-ccpp</summary>
+<summary>Имя пакета: abrt-addon-ccpp</summary>
 
 ```
 Из репозитор : anaconda
@@ -1416,7 +1415,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-addon-kerneloops</summary>
+<summary>Имя пакета: abrt-addon-kerneloops</summary>
 
 ```
 Из репозитор : anaconda
@@ -1430,7 +1429,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-addon-pstoreoops</summary>
+<summary>Имя пакета: abrt-addon-pstoreoops</summary>
 
 ```
 Из репозитор : anaconda
@@ -1443,7 +1442,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-addon-vmcore</summary>
+<summary>Имя пакета: abrt-addon-vmcore</summary>
 
 ```
 Из репозитор : anaconda
@@ -1457,7 +1456,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-addon-xorg</summary>
+<summary>Имя пакета: abrt-addon-xorg</summary>
 
 ```
 Из репозитор : anaconda
@@ -1471,7 +1470,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-cli</summary>
+<summary>Имя пакета: abrt-cli</summary>
 
 ```
 Из репозитор : anaconda
@@ -1485,7 +1484,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-dbus</summary>
+<summary>Имя пакета: abrt-dbus</summary>
 
 ```
 Из репозитор : anaconda
@@ -1499,7 +1498,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-desktop</summary>
+<summary>Имя пакета: abrt-desktop</summary>
 
 ```
 Из репозитор : anaconda
@@ -1513,7 +1512,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-gui</summary>
+<summary>Имя пакета: abrt-gui</summary>
 
 ```
 Из репозитор : anaconda
@@ -1526,7 +1525,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-gui-libs</summary>
+<summary>Имя пакета: abrt-gui-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -1539,7 +1538,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-java-connector</summary>
+<summary>Имя пакета: abrt-java-connector</summary>
 
 ```
 Из репозитор : updates-testing
@@ -1553,7 +1552,7 @@ URL          : https://github.com/abrt/abrt-java-connector
 </details>
 
 <details>
-<summary>abrt-libs</summary>
+<summary>Имя пакета: abrt-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -1566,7 +1565,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-plugin-bodhi</summary>
+<summary>Имя пакета: abrt-plugin-bodhi</summary>
 
 ```
 Из репозитор : anaconda
@@ -1579,7 +1578,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-retrace-client</summary>
+<summary>Имя пакета: abrt-retrace-client</summary>
 
 ```
 Из репозитор : anaconda
@@ -1593,7 +1592,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>abrt-tui</summary>
+<summary>Имя пакета: abrt-tui</summary>
 
 ```
 Из репозитор : anaconda
@@ -1607,7 +1606,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>accerciser</summary>
+<summary>Имя пакета: accerciser</summary>
 
 ```
 Из репозитор : fedora
@@ -1624,7 +1623,7 @@ URL          : https://wiki.gnome.org/Apps/Accerciser
 </details>
 
 <details>
-<summary>accountsservice</summary>
+<summary>Имя пакета: accountsservice</summary>
 
 ```
 Из репозитор : anaconda
@@ -1639,7 +1638,7 @@ URL          : https://www.freedesktop.org/wiki/Software/AccountsService/
 </details>
 
 <details>
-<summary>accountsservice-libs</summary>
+<summary>Имя пакета: accountsservice-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -1654,7 +1653,7 @@ URL          : https://www.freedesktop.org/wiki/Software/AccountsService/
 </details>
 
 <details>
-<summary>acl</summary>
+<summary>Имя пакета: acl</summary>
 
 ```
 Из репозитор : anaconda
@@ -1668,7 +1667,7 @@ URL          : https://savannah.nongnu.org/projects/acl
 </details>
 
 <details>
-<summary>acl</summary>
+<summary>Имя пакета: acl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -1682,7 +1681,7 @@ URL          : https://savannah.nongnu.org/projects/acl
 </details>
 
 <details>
-<summary>acpi</summary>
+<summary>Имя пакета: acpi</summary>
 
 ```
 Из репозитор : fedora
@@ -1697,7 +1696,7 @@ URL          : http://sourceforge.net/projects/acpiclient/
 </details>
 
 <details>
-<summary>acpica-tools</summary>
+<summary>Имя пакета: acpica-tools</summary>
 
 ```
 Из репозитор : fedora
@@ -1732,7 +1731,7 @@ URL          : https://www.acpica.org/
 </details>
 
 <details>
-<summary>acpid</summary>
+<summary>Имя пакета: acpid</summary>
 
 ```
 Из репозитор : fedora
@@ -1745,7 +1744,7 @@ URL          : http://sourceforge.net/projects/acpid2/
 </details>
 
 <details>
-<summary>acpitool</summary>
+<summary>Имя пакета: acpitool</summary>
 
 ```
 Из репозитор : fedora
@@ -1763,7 +1762,7 @@ URL          : https://sourceforge.net/projects/acpitool/
 </details>
 
 <details>
-<summary>adcli</summary>
+<summary>Имя пакета: adcli</summary>
 
 ```
 Из репозитор : anaconda
@@ -1777,7 +1776,7 @@ URL          : https://gitlab.freedesktop.org/realmd/adcli
 </details>
 
 <details>
-<summary>adcli</summary>
+<summary>Имя пакета: adcli</summary>
 
 ```
 Из репозитор : updates-testing
@@ -1791,7 +1790,7 @@ URL          : https://gitlab.freedesktop.org/realmd/adcli
 </details>
 
 <details>
-<summary>adobe-mappings-cmap</summary>
+<summary>Имя пакета: adobe-mappings-cmap</summary>
 
 ```
 Из репозитор : anaconda
@@ -1810,7 +1809,7 @@ URL          : https://www.adobe.com/
 </details>
 
 <details>
-<summary>adobe-mappings-cmap-deprecated</summary>
+<summary>Имя пакета: adobe-mappings-cmap-deprecated</summary>
 
 ```
 Из репозитор : anaconda
@@ -1824,7 +1823,7 @@ URL          : https://www.adobe.com/
 </details>
 
 <details>
-<summary>adobe-mappings-pdf</summary>
+<summary>Имя пакета: adobe-mappings-pdf</summary>
 
 ```
 Из репозитор : anaconda
@@ -1846,7 +1845,7 @@ URL          : https://www.adobe.com/
 </details>
 
 <details>
-<summary>adobe-release-x86_64</summary>
+<summary>Имя пакета: adobe-release-x86_64</summary>
 
 ```
 Из репозитор : @commandline
@@ -1859,7 +1858,7 @@ URL          : http://linuxdownload.adobe.com/
 </details>
 
 <details>
-<summary>adobe-source-code-pro-fonts</summary>
+<summary>Имя пакета: adobe-source-code-pro-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -1875,7 +1874,7 @@ URL          : https://github.com/adobe-fonts/source-code-pro
 </details>
 
 <details>
-<summary>adwaita-cursor-theme</summary>
+<summary>Имя пакета: adwaita-cursor-theme</summary>
 
 ```
 Из репозитор : anaconda
@@ -1889,7 +1888,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>adwaita-cursor-theme</summary>
+<summary>Имя пакета: adwaita-cursor-theme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -1903,7 +1902,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>adwaita-gtk2-theme</summary>
+<summary>Имя пакета: adwaita-gtk2-theme</summary>
 
 ```
 Из репозитор : fedora
@@ -1917,7 +1916,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-themes-extra
 </details>
 
 <details>
-<summary>adwaita-icon-theme</summary>
+<summary>Имя пакета: adwaita-icon-theme</summary>
 
 ```
 Из репозитор : anaconda
@@ -1930,7 +1929,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>adwaita-icon-theme</summary>
+<summary>Имя пакета: adwaita-icon-theme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -1943,7 +1942,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>adwaita-qt5</summary>
+<summary>Имя пакета: adwaita-qt5</summary>
 
 ```
 Из репозитор : anaconda
@@ -1956,7 +1955,7 @@ URL          : https://github.com/FedoraQt/adwaita-qt
 </details>
 
 <details>
-<summary>adwaita-qt5</summary>
+<summary>Имя пакета: adwaita-qt5</summary>
 
 ```
 Из репозитор : updates-testing
@@ -1969,7 +1968,7 @@ URL          : https://github.com/FedoraQt/adwaita-qt
 </details>
 
 <details>
-<summary>akmods</summary>
+<summary>Имя пакета: akmods</summary>
 
 ```
 Из репозитор : fedora
@@ -1984,7 +1983,7 @@ URL          : http://rpmfusion.org/Packaging/KernelModules/Akmods
 </details>
 
 <details>
-<summary>alacritty</summary>
+<summary>Имя пакета: alacritty</summary>
 
 ```
 Из репозитор : fedora
@@ -1997,7 +1996,7 @@ URL          : https://crates.io/crates/alacritty
 </details>
 
 <details>
-<summary>alsa-lib</summary>
+<summary>Имя пакета: alsa-lib</summary>
 
 ```
 Из репозитор : anaconda
@@ -2015,7 +2014,7 @@ URL          : http://www.alsa-project.org/
 </details>
 
 <details>
-<summary>alsa-lib-devel</summary>
+<summary>Имя пакета: alsa-lib-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -2032,7 +2031,7 @@ URL          : http://www.alsa-project.org/
 </details>
 
 <details>
-<summary>alsa-sof-firmware</summary>
+<summary>Имя пакета: alsa-sof-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2045,7 +2044,7 @@ URL          : https://github.com/thesofproject/sof-bin
 </details>
 
 <details>
-<summary>alsa-ucm</summary>
+<summary>Имя пакета: alsa-ucm</summary>
 
 ```
 Из репозитор : anaconda
@@ -2059,7 +2058,7 @@ URL          : http://www.alsa-project.org/
 </details>
 
 <details>
-<summary>alsa-utils</summary>
+<summary>Имя пакета: alsa-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -2073,7 +2072,7 @@ URL          : http://www.alsa-project.org/
 </details>
 
 <details>
-<summary>alternatives</summary>
+<summary>Имя пакета: alternatives</summary>
 
 ```
 Из репозитор : anaconda
@@ -2089,7 +2088,7 @@ URL          : https://github.com/fedora-sysv/chkconfig
 </details>
 
 <details>
-<summary>amtk</summary>
+<summary>Имя пакета: amtk</summary>
 
 ```
 Из репозитор : anaconda
@@ -2104,7 +2103,7 @@ URL          : https://wiki.gnome.org/Projects/Amtk
 </details>
 
 <details>
-<summary>anaconda</summary>
+<summary>Имя пакета: anaconda</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2117,7 +2116,7 @@ URL          : http://fedoraproject.org/wiki/Anaconda
 </details>
 
 <details>
-<summary>anaconda-core</summary>
+<summary>Имя пакета: anaconda-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2131,7 +2130,7 @@ URL          : http://fedoraproject.org/wiki/Anaconda
 </details>
 
 <details>
-<summary>anaconda-gui</summary>
+<summary>Имя пакета: anaconda-gui</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2144,7 +2143,7 @@ URL          : http://fedoraproject.org/wiki/Anaconda
 </details>
 
 <details>
-<summary>anaconda-install-env-deps</summary>
+<summary>Имя пакета: anaconda-install-env-deps</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2159,7 +2158,7 @@ URL          : http://fedoraproject.org/wiki/Anaconda
 </details>
 
 <details>
-<summary>anaconda-live</summary>
+<summary>Имя пакета: anaconda-live</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2173,7 +2172,7 @@ URL          : http://fedoraproject.org/wiki/Anaconda
 </details>
 
 <details>
-<summary>anaconda-tui</summary>
+<summary>Имя пакета: anaconda-tui</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2186,7 +2185,7 @@ URL          : http://fedoraproject.org/wiki/Anaconda
 </details>
 
 <details>
-<summary>anaconda-user-help</summary>
+<summary>Имя пакета: anaconda-user-help</summary>
 
 ```
 Из репозитор : anaconda
@@ -2199,7 +2198,7 @@ URL          : https://pagure.io/install-guide
 </details>
 
 <details>
-<summary>anaconda-widgets</summary>
+<summary>Имя пакета: anaconda-widgets</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2212,7 +2211,7 @@ URL          : http://fedoraproject.org/wiki/Anaconda
 </details>
 
 <details>
-<summary>annobin</summary>
+<summary>Имя пакета: annobin</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2235,7 +2234,7 @@ URL          : http://fedoraproject.org/wiki/Anaconda
 </details>
 
 <details>
-<summary>anthy-unicode</summary>
+<summary>Имя пакета: anthy-unicode</summary>
 
 ```
 Из репозитор : anaconda
@@ -2252,7 +2251,7 @@ URL          : https://github.com/fujiwarat/anthy-unicode/wiki
 </details>
 
 <details>
-<summary>apostrophe</summary>
+<summary>Имя пакета: apostrophe</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2267,7 +2266,7 @@ URL          : https://gitlab.gnome.org/somas/apostrophe
 </details>
 
 <details>
-<summary>appeditor</summary>
+<summary>Имя пакета: appeditor</summary>
 
 ```
 Из репозитор : fedora
@@ -2286,7 +2285,7 @@ URL          : https://github.com/donadigo/appeditor
 </details>
 
 <details>
-<summary>appstream</summary>
+<summary>Имя пакета: appstream</summary>
 
 ```
 Из репозитор : anaconda
@@ -2300,7 +2299,7 @@ URL          : https://github.com/ximion/appstream
 </details>
 
 <details>
-<summary>appstream</summary>
+<summary>Имя пакета: appstream</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2314,7 +2313,7 @@ URL          : https://github.com/ximion/appstream
 </details>
 
 <details>
-<summary>appstream-data</summary>
+<summary>Имя пакета: appstream-data</summary>
 
 ```
 Из репозитор : anaconda
@@ -2330,7 +2329,7 @@ URL          : https://github.com/hughsie/appstream-glib
 </details>
 
 <details>
-<summary>appstream-data</summary>
+<summary>Имя пакета: appstream-data</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2346,7 +2345,7 @@ URL          : https://github.com/hughsie/appstream-glib
 </details>
 
 <details>
-<summary>apr</summary>
+<summary>Имя пакета: apr</summary>
 
 ```
 Из репозитор : anaconda
@@ -2362,7 +2361,7 @@ URL          : https://apr.apache.org/
 </details>
 
 <details>
-<summary>apr-util</summary>
+<summary>Имя пакета: apr-util</summary>
 
 ```
 Из репозитор : anaconda
@@ -2378,7 +2377,7 @@ URL          : https://apr.apache.org/
 </details>
 
 <details>
-<summary>apr-util-bdb</summary>
+<summary>Имя пакета: apr-util-bdb</summary>
 
 ```
 Из репозитор : anaconda
@@ -2392,7 +2391,7 @@ URL          : https://apr.apache.org/
 </details>
 
 <details>
-<summary>apr-util-openssl</summary>
+<summary>Имя пакета: apr-util-openssl</summary>
 
 ```
 Из репозитор : anaconda
@@ -2405,7 +2404,7 @@ URL          : https://apr.apache.org/
 </details>
 
 <details>
-<summary>arj</summary>
+<summary>Имя пакета: arj</summary>
 
 ```
 Из репозитор : fedora
@@ -2421,7 +2420,7 @@ URL          : http://arj.sourceforge.net/
 </details>
 
 <details>
-<summary>armadillo</summary>
+<summary>Имя пакета: armadillo</summary>
 
 ```
 Из репозитор : fedora
@@ -2446,7 +2445,7 @@ URL          : http://arma.sourceforge.net/
 </details>
 
 <details>
-<summary>arpack</summary>
+<summary>Имя пакета: arpack</summary>
 
 ```
 Из репозитор : fedora
@@ -2468,7 +2467,7 @@ URL          : https://github.com/opencollab/arpack-ng
 </details>
 
 <details>
-<summary>arpwatch</summary>
+<summary>Имя пакета: arpwatch</summary>
 
 ```
 Эпоха        : 14
@@ -2488,7 +2487,7 @@ URL          : https://ee.lbl.gov/
 </details>
 
 <details>
-<summary>aspell</summary>
+<summary>Имя пакета: aspell</summary>
 
 ```
 Эпоха        : 12
@@ -2509,7 +2508,7 @@ URL          : http://aspell.net/
 </details>
 
 <details>
-<summary>at</summary>
+<summary>Имя пакета: at</summary>
 
 ```
 Из репозитор : fedora
@@ -2530,7 +2529,7 @@ URL          : http://ftp.debian.org/debian/pool/main/a/at
 </details>
 
 <details>
-<summary>at-spi2-atk</summary>
+<summary>Имя пакета: at-spi2-atk</summary>
 
 ```
 Из репозитор : anaconda
@@ -2553,7 +2552,7 @@ URL          : https://wiki.linuxfoundation.org/en/AT-SPI_on_D-Bus
 </details>
 
 <details>
-<summary>at-spi2-core</summary>
+<summary>Имя пакета: at-spi2-core</summary>
 
 ```
 Из репозитор : anaconda
@@ -2573,7 +2572,7 @@ URL          : http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus
 </details>
 
 <details>
-<summary>at-spi2-core</summary>
+<summary>Имя пакета: at-spi2-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2593,7 +2592,7 @@ URL          : http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus
 </details>
 
 <details>
-<summary>atk</summary>
+<summary>Имя пакета: atk</summary>
 
 ```
 Из репозитор : anaconda
@@ -2610,7 +2609,7 @@ URL          : http://developer.gnome.org/platform-overview/stable/atk
 </details>
 
 <details>
-<summary>atk-devel</summary>
+<summary>Имя пакета: atk-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -2624,7 +2623,7 @@ URL          : http://developer.gnome.org/platform-overview/stable/atk
 </details>
 
 <details>
-<summary>atkmm</summary>
+<summary>Имя пакета: atkmm</summary>
 
 ```
 Из репозитор : anaconda
@@ -2640,7 +2639,7 @@ URL          : https://www.gtkmm.org/
 </details>
 
 <details>
-<summary>atmel-firmware</summary>
+<summary>Имя пакета: atmel-firmware</summary>
 
 ```
 Из репозитор : anaconda
@@ -2655,7 +2654,7 @@ URL          : http://at76c503a.berlios.de/
 </details>
 
 <details>
-<summary>atop</summary>
+<summary>Имя пакета: atop</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2682,7 +2681,7 @@ URL          : http://www.atoptool.nl
 </details>
 
 <details>
-<summary>attr</summary>
+<summary>Имя пакета: attr</summary>
 
 ```
 Из репозитор : anaconda
@@ -2698,7 +2697,7 @@ URL          : https://savannah.nongnu.org/projects/attr
 </details>
 
 <details>
-<summary>attr</summary>
+<summary>Имя пакета: attr</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2714,7 +2713,7 @@ URL          : https://savannah.nongnu.org/projects/attr
 </details>
 
 <details>
-<summary>audit</summary>
+<summary>Имя пакета: audit</summary>
 
 ```
 Из репозитор : anaconda
@@ -2729,7 +2728,7 @@ URL          : http://people.redhat.com/sgrubb/audit/
 </details>
 
 <details>
-<summary>audit-libs</summary>
+<summary>Имя пакета: audit-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -2743,7 +2742,7 @@ URL          : http://people.redhat.com/sgrubb/audit/
 </details>
 
 <details>
-<summary>augeas-devel</summary>
+<summary>Имя пакета: augeas-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2757,7 +2756,7 @@ URL          : http://augeas.net/
 </details>
 
 <details>
-<summary>augeas-libs</summary>
+<summary>Имя пакета: augeas-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2775,7 +2774,7 @@ URL          : http://augeas.net/
 </details>
 
 <details>
-<summary>augeas-vala</summary>
+<summary>Имя пакета: augeas-vala</summary>
 
 ```
 Из репозитор : fedora
@@ -2788,7 +2787,7 @@ URL          : http://www.gitorious.org/valastuff/augeas-vala/
 </details>
 
 <details>
-<summary>authselect</summary>
+<summary>Имя пакета: authselect</summary>
 
 ```
 Из репозитор : anaconda
@@ -2807,7 +2806,7 @@ URL          : https://github.com/authselect/authselect
 </details>
 
 <details>
-<summary>authselect</summary>
+<summary>Имя пакета: authselect</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2826,7 +2825,7 @@ URL          : https://github.com/authselect/authselect
 </details>
 
 <details>
-<summary>authselect-compat</summary>
+<summary>Имя пакета: authselect-compat</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2842,7 +2841,7 @@ URL          : https://github.com/authselect/authselect
 </details>
 
 <details>
-<summary>authselect-libs</summary>
+<summary>Имя пакета: authselect-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -2856,7 +2855,7 @@ URL          : https://github.com/authselect/authselect
 </details>
 
 <details>
-<summary>authselect-libs</summary>
+<summary>Имя пакета: authselect-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -2870,7 +2869,7 @@ URL          : https://github.com/authselect/authselect
 </details>
 
 <details>
-<summary>autoconf</summary>
+<summary>Имя пакета: autoconf</summary>
 
 ```
 Из репозитор : fedora
@@ -2896,7 +2895,7 @@ URL          : https://www.gnu.org/software/autoconf/
 </details>
 
 <details>
-<summary>autocorr-en</summary>
+<summary>Имя пакета: autocorr-en</summary>
 
 ```
 Эпоха        : 1
@@ -2910,7 +2909,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>autocorr-ru</summary>
+<summary>Имя пакета: autocorr-ru</summary>
 
 ```
 Эпоха        : 1
@@ -2924,7 +2923,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>autogen-libopts</summary>
+<summary>Имя пакета: autogen-libopts</summary>
 
 ```
 Из репозитор : anaconda
@@ -2939,7 +2938,7 @@ URL          : http://www.gnu.org/software/autogen/
 </details>
 
 <details>
-<summary>automake</summary>
+<summary>Имя пакета: automake</summary>
 
 ```
 Из репозитор : fedora
@@ -2957,7 +2956,7 @@ URL          : http://www.gnu.org/software/automake/
 </details>
 
 <details>
-<summary>avahi</summary>
+<summary>Имя пакета: avahi</summary>
 
 ```
 Из репозитор : anaconda
@@ -2976,7 +2975,7 @@ URL          : http://avahi.org
 </details>
 
 <details>
-<summary>avahi-glib</summary>
+<summary>Имя пакета: avahi-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -2989,7 +2988,7 @@ URL          : http://avahi.org
 </details>
 
 <details>
-<summary>avahi-libs</summary>
+<summary>Имя пакета: avahi-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -3003,7 +3002,7 @@ URL          : http://avahi.org
 </details>
 
 <details>
-<summary>avahi-ui-gtk3</summary>
+<summary>Имя пакета: avahi-ui-gtk3</summary>
 
 ```
 Из репозитор : fedora
@@ -3016,7 +3015,7 @@ URL          : http://avahi.org
 </details>
 
 <details>
-<summary>awesome</summary>
+<summary>Имя пакета: awesome</summary>
 
 ```
 Из репозитор : fedora
@@ -3034,7 +3033,7 @@ URL          : https://awesomewm.org
 </details>
 
 <details>
-<summary>awesome-doc</summary>
+<summary>Имя пакета: awesome-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -3047,7 +3046,7 @@ URL          : https://awesomewm.org
 </details>
 
 <details>
-<summary>awesome-vim-colorschemes</summary>
+<summary>Имя пакета: awesome-vim-colorschemes</summary>
 
 ```
 Из репозитор : fedora
@@ -3060,7 +3059,7 @@ URL          : https://github.com/rafi/awesome-vim-colorschemes
 </details>
 
 <details>
-<summary>b43-fwcutter</summary>
+<summary>Имя пакета: b43-fwcutter</summary>
 
 ```
 Из репозитор : anaconda
@@ -3077,7 +3076,7 @@ URL          : http://bues.ch/b43/fwcutter/
 </details>
 
 <details>
-<summary>b43-openfwwf</summary>
+<summary>Имя пакета: b43-openfwwf</summary>
 
 ```
 Из репозитор : anaconda
@@ -3091,7 +3090,7 @@ URL          : http://www.ing.unibs.it/openfwwf/
 </details>
 
 <details>
-<summary>babl</summary>
+<summary>Имя пакета: babl</summary>
 
 ```
 Из репозитор : anaconda
@@ -3107,7 +3106,7 @@ URL          : http://www.gegl.org/babl/
 </details>
 
 <details>
-<summary>babl</summary>
+<summary>Имя пакета: babl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3123,7 +3122,7 @@ URL          : http://www.gegl.org/babl/
 </details>
 
 <details>
-<summary>babl-devel</summary>
+<summary>Имя пакета: babl-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3137,7 +3136,7 @@ URL          : http://www.gegl.org/babl/
 </details>
 
 <details>
-<summary>baobab</summary>
+<summary>Имя пакета: baobab</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3153,7 +3152,7 @@ URL          : https://wiki.gnome.org/Apps/Baobab
 </details>
 
 <details>
-<summary>baobab</summary>
+<summary>Имя пакета: baobab</summary>
 
 ```
 Из репозитор : anaconda
@@ -3169,7 +3168,7 @@ URL          : https://wiki.gnome.org/Apps/Baobab
 </details>
 
 <details>
-<summary>basesystem</summary>
+<summary>Имя пакета: basesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -3184,7 +3183,7 @@ URL          : https://wiki.gnome.org/Apps/Baobab
 </details>
 
 <details>
-<summary>bash</summary>
+<summary>Имя пакета: bash</summary>
 
 ```
 Из репозитор : anaconda
@@ -3200,7 +3199,7 @@ URL          : https://www.gnu.org/software/bash
 </details>
 
 <details>
-<summary>bash-completion</summary>
+<summary>Имя пакета: bash-completion</summary>
 
 ```
 Эпоха        : 1
@@ -3215,7 +3214,7 @@ URL          : https://github.com/scop/bash-completion
 </details>
 
 <details>
-<summary>bc</summary>
+<summary>Имя пакета: bc</summary>
 
 ```
 Из репозитор : anaconda
@@ -3234,7 +3233,7 @@ URL          : http://www.gnu.org/software/bc/
 </details>
 
 <details>
-<summary>bcache-tools</summary>
+<summary>Имя пакета: bcache-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -3250,7 +3249,7 @@ URL          : http://bcache.evilpiepirate.org/
 </details>
 
 <details>
-<summary>bibata-cursor-themes</summary>
+<summary>Имя пакета: bibata-cursor-themes</summary>
 
 ```
 Из репозитор : copr:copr.fedorainfracloud.org:peterwu:rendezvous
@@ -3263,7 +3262,7 @@ URL          : https://github.com/ful1e5/Bibata_Cursor
 </details>
 
 <details>
-<summary>biber</summary>
+<summary>Имя пакета: biber</summary>
 
 ```
 Из репозитор : fedora
@@ -3279,7 +3278,7 @@ URL          : http://biblatex-biber.sourceforge.net/
 </details>
 
 <details>
-<summary>bind-libs</summary>
+<summary>Имя пакета: bind-libs</summary>
 
 ```
 Эпоха        : 32
@@ -3294,7 +3293,7 @@ URL          : https://www.isc.org/downloads/bind/
 </details>
 
 <details>
-<summary>bind-libs</summary>
+<summary>Имя пакета: bind-libs</summary>
 
 ```
 Эпоха        : 32
@@ -3309,7 +3308,7 @@ URL          : https://www.isc.org/downloads/bind/
 </details>
 
 <details>
-<summary>bind-libs-lite</summary>
+<summary>Имя пакета: bind-libs-lite</summary>
 
 ```
 Эпоха        : 32
@@ -3324,7 +3323,7 @@ URL          : https://www.isc.org/downloads/bind/
 </details>
 
 <details>
-<summary>bind-libs-lite</summary>
+<summary>Имя пакета: bind-libs-lite</summary>
 
 ```
 Эпоха        : 32
@@ -3339,7 +3338,7 @@ URL          : https://www.isc.org/downloads/bind/
 </details>
 
 <details>
-<summary>bind-license</summary>
+<summary>Имя пакета: bind-license</summary>
 
 ```
 Эпоха        : 32
@@ -3353,7 +3352,7 @@ URL          : https://www.isc.org/downloads/bind/
 </details>
 
 <details>
-<summary>bind-license</summary>
+<summary>Имя пакета: bind-license</summary>
 
 ```
 Эпоха        : 32
@@ -3367,7 +3366,7 @@ URL          : https://www.isc.org/downloads/bind/
 </details>
 
 <details>
-<summary>bind-utils</summary>
+<summary>Имя пакета: bind-utils</summary>
 
 ```
 Эпоха        : 32
@@ -3388,7 +3387,7 @@ URL          : https://www.isc.org/downloads/bind/
 </details>
 
 <details>
-<summary>bind-utils</summary>
+<summary>Имя пакета: bind-utils</summary>
 
 ```
 Эпоха        : 32
@@ -3409,7 +3408,7 @@ URL          : https://www.isc.org/downloads/bind/
 </details>
 
 <details>
-<summary>binutils</summary>
+<summary>Имя пакета: binutils</summary>
 
 ```
 Из репозитор : anaconda
@@ -3432,7 +3431,7 @@ URL          : https://sourceware.org/binutils
 </details>
 
 <details>
-<summary>binutils</summary>
+<summary>Имя пакета: binutils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3455,7 +3454,7 @@ URL          : https://sourceware.org/binutils
 </details>
 
 <details>
-<summary>binutils-gold</summary>
+<summary>Имя пакета: binutils-gold</summary>
 
 ```
 Из репозитор : anaconda
@@ -3481,7 +3480,7 @@ URL          : https://sourceware.org/binutils
 </details>
 
 <details>
-<summary>binutils-gold</summary>
+<summary>Имя пакета: binutils-gold</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3507,7 +3506,7 @@ URL          : https://sourceware.org/binutils
 </details>
 
 <details>
-<summary>blivet-data</summary>
+<summary>Имя пакета: blivet-data</summary>
 
 ```
 Эпоха        : 1
@@ -3522,7 +3521,7 @@ URL          : https://storageapis.wordpress.com/projects/blivet
 </details>
 
 <details>
-<summary>blivet-gui</summary>
+<summary>Имя пакета: blivet-gui</summary>
 
 ```
 Из репозитор : fedora
@@ -3536,7 +3535,7 @@ URL          : http://github.com/storaged-project/blivet-gui
 </details>
 
 <details>
-<summary>blivet-gui-runtime</summary>
+<summary>Имя пакета: blivet-gui-runtime</summary>
 
 ```
 Из репозитор : anaconda
@@ -3550,7 +3549,7 @@ URL          : http://github.com/storaged-project/blivet-gui
 </details>
 
 <details>
-<summary>blosc</summary>
+<summary>Имя пакета: blosc</summary>
 
 ```
 Из репозитор : fedora
@@ -3567,7 +3566,7 @@ URL          : https://github.com/Blosc/c-blosc
 </details>
 
 <details>
-<summary>blt</summary>
+<summary>Имя пакета: blt</summary>
 
 ```
 Из репозитор : fedora
@@ -3586,7 +3585,7 @@ URL          : http://sourceforge.net/projects/blt/
 </details>
 
 <details>
-<summary>bluez</summary>
+<summary>Имя пакета: bluez</summary>
 
 ```
 Из репозитор : anaconda
@@ -3613,7 +3612,7 @@ URL          : http://www.bluez.org/
 </details>
 
 <details>
-<summary>bluez</summary>
+<summary>Имя пакета: bluez</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3639,7 +3638,7 @@ URL          : http://www.bluez.org/
 </details>
 
 <details>
-<summary>bluez-cups</summary>
+<summary>Имя пакета: bluez-cups</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3652,7 +3651,7 @@ URL          : http://www.bluez.org/
 </details>
 
 <details>
-<summary>bluez-libs</summary>
+<summary>Имя пакета: bluez-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -3665,7 +3664,7 @@ URL          : http://www.bluez.org/
 </details>
 
 <details>
-<summary>bluez-libs</summary>
+<summary>Имя пакета: bluez-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3678,7 +3677,7 @@ URL          : http://www.bluez.org/
 </details>
 
 <details>
-<summary>bluez-obexd</summary>
+<summary>Имя пакета: bluez-obexd</summary>
 
 ```
 Из репозитор : anaconda
@@ -3691,7 +3690,7 @@ URL          : http://www.bluez.org/
 </details>
 
 <details>
-<summary>bluez-obexd</summary>
+<summary>Имя пакета: bluez-obexd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3704,7 +3703,7 @@ URL          : http://www.bluez.org/
 </details>
 
 <details>
-<summary>bodhi-client</summary>
+<summary>Имя пакета: bodhi-client</summary>
 
 ```
 Из репозитор : fedora
@@ -3717,7 +3716,7 @@ URL          : https://github.com/fedora-infra/bodhi
 </details>
 
 <details>
-<summary>bolt</summary>
+<summary>Имя пакета: bolt</summary>
 
 ```
 Из репозитор : anaconda
@@ -3739,7 +3738,7 @@ URL          : https://gitlab.freedesktop.org/bolt/bolt
 </details>
 
 <details>
-<summary>boost</summary>
+<summary>Имя пакета: boost</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3759,7 +3758,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-atomic</summary>
+<summary>Имя пакета: boost-atomic</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3776,7 +3775,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-chrono</summary>
+<summary>Имя пакета: boost-chrono</summary>
 
 ```
 Из репозитор : anaconda
@@ -3790,7 +3789,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-chrono</summary>
+<summary>Имя пакета: boost-chrono</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3804,7 +3803,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-container</summary>
+<summary>Имя пакета: boost-container</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3821,7 +3820,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-context</summary>
+<summary>Имя пакета: boost-context</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3836,7 +3835,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-contract</summary>
+<summary>Имя пакета: boost-contract</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3855,7 +3854,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-coroutine</summary>
+<summary>Имя пакета: boost-coroutine</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3870,7 +3869,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-date-time</summary>
+<summary>Имя пакета: boost-date-time</summary>
 
 ```
 Из репозитор : anaconda
@@ -3885,7 +3884,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-date-time</summary>
+<summary>Имя пакета: boost-date-time</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3900,7 +3899,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-devel</summary>
+<summary>Имя пакета: boost-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3913,7 +3912,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-fiber</summary>
+<summary>Имя пакета: boost-fiber</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3928,7 +3927,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-filesystem</summary>
+<summary>Имя пакета: boost-filesystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3944,7 +3943,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-graph</summary>
+<summary>Имя пакета: boost-graph</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3960,7 +3959,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-iostreams</summary>
+<summary>Имя пакета: boost-iostreams</summary>
 
 ```
 Из репозитор : anaconda
@@ -3975,7 +3974,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-iostreams</summary>
+<summary>Имя пакета: boost-iostreams</summary>
 
 ```
 Из репозитор : updates-testing
@@ -3990,7 +3989,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-locale</summary>
+<summary>Имя пакета: boost-locale</summary>
 
 ```
 Из репозитор : anaconda
@@ -4005,7 +4004,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-locale</summary>
+<summary>Имя пакета: boost-locale</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4020,7 +4019,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-log</summary>
+<summary>Имя пакета: boost-log</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4036,7 +4035,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-math</summary>
+<summary>Имя пакета: boost-math</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4051,7 +4050,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-nowide</summary>
+<summary>Имя пакета: boost-nowide</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4065,7 +4064,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-numpy3</summary>
+<summary>Имя пакета: boost-numpy3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4083,7 +4082,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-program-options</summary>
+<summary>Имя пакета: boost-program-options</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4099,7 +4098,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-python3</summary>
+<summary>Имя пакета: boost-python3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4117,7 +4116,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-random</summary>
+<summary>Имя пакета: boost-random</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4131,7 +4130,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-regex</summary>
+<summary>Имя пакета: boost-regex</summary>
 
 ```
 Из репозитор : anaconda
@@ -4145,7 +4144,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-regex</summary>
+<summary>Имя пакета: boost-regex</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4159,7 +4158,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-serialization</summary>
+<summary>Имя пакета: boost-serialization</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4173,7 +4172,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-stacktrace</summary>
+<summary>Имя пакета: boost-stacktrace</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4187,7 +4186,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-system</summary>
+<summary>Имя пакета: boost-system</summary>
 
 ```
 Из репозитор : anaconda
@@ -4202,7 +4201,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-system</summary>
+<summary>Имя пакета: boost-system</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4217,7 +4216,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-test</summary>
+<summary>Имя пакета: boost-test</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4232,7 +4231,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-thread</summary>
+<summary>Имя пакета: boost-thread</summary>
 
 ```
 Из репозитор : anaconda
@@ -4249,7 +4248,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-thread</summary>
+<summary>Имя пакета: boost-thread</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4266,7 +4265,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-timer</summary>
+<summary>Имя пакета: boost-timer</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4282,7 +4281,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-type_erasure</summary>
+<summary>Имя пакета: boost-type_erasure</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4297,7 +4296,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>boost-wave</summary>
+<summary>Имя пакета: boost-wave</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4313,7 +4312,7 @@ URL          : http://www.boost.org
 </details>
 
 <details>
-<summary>botan2</summary>
+<summary>Имя пакета: botan2</summary>
 
 ```
 Из репозитор : fedora
@@ -4332,7 +4331,7 @@ URL          : https://botan.randombit.net/
 </details>
 
 <details>
-<summary>brasero-libs</summary>
+<summary>Имя пакета: brasero-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4346,7 +4345,7 @@ URL          : https://wiki.gnome.org/Apps/Brasero
 </details>
 
 <details>
-<summary>breeze-icon-theme</summary>
+<summary>Имя пакета: breeze-icon-theme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4359,7 +4358,7 @@ URL          : https://api.kde.org/frameworks-api/frameworks-apidocs/frameworks/
 </details>
 
 <details>
-<summary>brlapi</summary>
+<summary>Имя пакета: brlapi</summary>
 
 ```
 Из репозитор : anaconda
@@ -4376,7 +4375,7 @@ URL          : http://brltty.app/
 </details>
 
 <details>
-<summary>brltty</summary>
+<summary>Имя пакета: brltty</summary>
 
 ```
 Из репозитор : anaconda
@@ -4396,7 +4395,7 @@ URL          : http://brltty.app/
 </details>
 
 <details>
-<summary>brotli</summary>
+<summary>Имя пакета: brotli</summary>
 
 ```
 Из репозитор : fedora
@@ -4413,7 +4412,7 @@ URL          : https://github.com/google/brotli
 </details>
 
 <details>
-<summary>brotli-devel</summary>
+<summary>Имя пакета: brotli-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -4431,7 +4430,7 @@ URL          : https://github.com/google/brotli
 </details>
 
 <details>
-<summary>btrfs-heatmap</summary>
+<summary>Имя пакета: btrfs-heatmap</summary>
 
 ```
 Из репозитор : fedora
@@ -4445,7 +4444,7 @@ URL          : https://github.com/knorrie/btrfs-heatmap
 </details>
 
 <details>
-<summary>btrfs-heatmap-doc</summary>
+<summary>Имя пакета: btrfs-heatmap-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -4461,7 +4460,7 @@ URL          : https://github.com/knorrie/btrfs-heatmap
 </details>
 
 <details>
-<summary>btrfs-progs</summary>
+<summary>Имя пакета: btrfs-progs</summary>
 
 ```
 Из репозитор : fedora
@@ -4475,7 +4474,7 @@ URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 </details>
 
 <details>
-<summary>btrfs-progs-devel</summary>
+<summary>Имя пакета: btrfs-progs-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -4496,7 +4495,7 @@ URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 </details>
 
 <details>
-<summary>btrfs-sxbackup</summary>
+<summary>Имя пакета: btrfs-sxbackup</summary>
 
 ```
 Из репозитор : fedora
@@ -4510,7 +4509,7 @@ URL          : https://github.com/masc3d/btrfs-sxbackup
 </details>
 
 <details>
-<summary>btrfsmaintenance</summary>
+<summary>Имя пакета: btrfsmaintenance</summary>
 
 ```
 Из репозитор : fedora
@@ -4536,7 +4535,7 @@ URL          : https://github.com/kdave/btrfsmaintenance
 </details>
 
 <details>
-<summary>bubblewrap</summary>
+<summary>Имя пакета: bubblewrap</summary>
 
 ```
 Из репозитор : anaconda
@@ -4551,7 +4550,7 @@ URL          : https://github.com/projectatomic/bubblewrap
 </details>
 
 <details>
-<summary>bustle</summary>
+<summary>Имя пакета: bustle</summary>
 
 ```
 Из репозитор : fedora
@@ -4569,7 +4568,7 @@ URL          : https://hackage.haskell.org/package/bustle
 </details>
 
 <details>
-<summary>bwidget</summary>
+<summary>Имя пакета: bwidget</summary>
 
 ```
 Из репозитор : fedora
@@ -4582,7 +4581,7 @@ URL          : http://tcllib.sourceforge.net/
 </details>
 
 <details>
-<summary>byte-buddy</summary>
+<summary>Имя пакета: byte-buddy</summary>
 
 ```
 Из репозитор : fedora
@@ -4599,7 +4598,7 @@ URL          : http://bytebuddy.net/
 </details>
 
 <details>
-<summary>byte-buddy-agent</summary>
+<summary>Имя пакета: byte-buddy-agent</summary>
 
 ```
 Из репозитор : fedora
@@ -4612,7 +4611,7 @@ URL          : http://bytebuddy.net/
 </details>
 
 <details>
-<summary>bzip2</summary>
+<summary>Имя пакета: bzip2</summary>
 
 ```
 Из репозитор : anaconda
@@ -4633,7 +4632,7 @@ URL          : http://www.bzip.org/
 </details>
 
 <details>
-<summary>bzip2-devel</summary>
+<summary>Имя пакета: bzip2-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -4648,7 +4647,7 @@ URL          : http://www.bzip.org/
 </details>
 
 <details>
-<summary>bzip2-libs</summary>
+<summary>Имя пакета: bzip2-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -4662,7 +4661,7 @@ URL          : http://www.bzip.org/
 </details>
 
 <details>
-<summary>c-ares</summary>
+<summary>Имя пакета: c-ares</summary>
 
 ```
 Из репозитор : anaconda
@@ -4677,7 +4676,7 @@ URL          : http://c-ares.haxx.se/
 </details>
 
 <details>
-<summary>ca-certificates</summary>
+<summary>Имя пакета: ca-certificates</summary>
 
 ```
 Из репозитор : anaconda
@@ -4691,7 +4690,7 @@ URL          : https://fedoraproject.org/wiki/CA-Certificates
 </details>
 
 <details>
-<summary>cabextract</summary>
+<summary>Имя пакета: cabextract</summary>
 
 ```
 Из репозитор : fedora
@@ -4705,7 +4704,7 @@ URL          : http://www.cabextract.org.uk/
 </details>
 
 <details>
-<summary>caca-utils</summary>
+<summary>Имя пакета: caca-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -4730,7 +4729,7 @@ URL          : http://caca.zoy.org/wiki/libcaca
 </details>
 
 <details>
-<summary>cairo</summary>
+<summary>Имя пакета: cairo</summary>
 
 ```
 Из репозитор : anaconda
@@ -4748,7 +4747,7 @@ URL          : http://cairographics.org
 </details>
 
 <details>
-<summary>cairo</summary>
+<summary>Имя пакета: cairo</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4766,7 +4765,7 @@ URL          : http://cairographics.org
 </details>
 
 <details>
-<summary>cairo-devel</summary>
+<summary>Имя пакета: cairo-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4783,7 +4782,7 @@ URL          : http://cairographics.org
 </details>
 
 <details>
-<summary>cairo-gobject</summary>
+<summary>Имя пакета: cairo-gobject</summary>
 
 ```
 Из репозитор : anaconda
@@ -4800,7 +4799,7 @@ URL          : http://cairographics.org
 </details>
 
 <details>
-<summary>cairo-gobject</summary>
+<summary>Имя пакета: cairo-gobject</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4817,7 +4816,7 @@ URL          : http://cairographics.org
 </details>
 
 <details>
-<summary>cairomm</summary>
+<summary>Имя пакета: cairomm</summary>
 
 ```
 Из репозитор : anaconda
@@ -4832,7 +4831,7 @@ URL          : https://www.cairographics.org
 </details>
 
 <details>
-<summary>capstone</summary>
+<summary>Имя пакета: capstone</summary>
 
 ```
 Из репозитор : anaconda
@@ -4847,7 +4846,7 @@ URL          : http://www.capstone-engine.org/
 </details>
 
 <details>
-<summary>castxml</summary>
+<summary>Имя пакета: castxml</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4866,7 +4865,7 @@ URL          : https://github.com/CastXML/CastXML
 </details>
 
 <details>
-<summary>catatonit</summary>
+<summary>Имя пакета: catatonit</summary>
 
 ```
 Из репозитор : anaconda
@@ -4886,7 +4885,7 @@ URL          : https://github.com/openSUSE/catatonit
 </details>
 
 <details>
-<summary>catimg</summary>
+<summary>Имя пакета: catimg</summary>
 
 ```
 Из репозитор : fedora
@@ -4900,7 +4899,7 @@ URL          : https://github.com/posva/catimg
 </details>
 
 <details>
-<summary>ccache</summary>
+<summary>Имя пакета: ccache</summary>
 
 ```
 Из репозитор : fedora
@@ -4916,7 +4915,7 @@ URL          : http://ccache.dev/
 </details>
 
 <details>
-<summary>cdparanoia-libs</summary>
+<summary>Имя пакета: cdparanoia-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -4930,7 +4929,7 @@ URL          : http://www.xiph.org/paranoia/index.html
 </details>
 
 <details>
-<summary>certbot</summary>
+<summary>Имя пакета: certbot</summary>
 
 ```
 Из репозитор : updates-testing
@@ -4944,7 +4943,7 @@ URL          : https://pypi.python.org/pypi/certbot
 </details>
 
 <details>
-<summary>cfitsio</summary>
+<summary>Имя пакета: cfitsio</summary>
 
 ```
 Из репозитор : fedora
@@ -4964,7 +4963,7 @@ URL          : http://heasarc.gsfc.nasa.gov/fitsio/
 </details>
 
 <details>
-<summary>checkpolicy</summary>
+<summary>Имя пакета: checkpolicy</summary>
 
 ```
 Из репозитор : anaconda
@@ -4987,7 +4986,7 @@ URL          : http://heasarc.gsfc.nasa.gov/fitsio/
 </details>
 
 <details>
-<summary>checkpolicy</summary>
+<summary>Имя пакета: checkpolicy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5010,7 +5009,7 @@ URL          : http://heasarc.gsfc.nasa.gov/fitsio/
 </details>
 
 <details>
-<summary>cheese</summary>
+<summary>Имя пакета: cheese</summary>
 
 ```
 Эпоха        : 2
@@ -5025,7 +5024,7 @@ URL          : https://wiki.gnome.org/Apps/Cheese
 </details>
 
 <details>
-<summary>cheese-libs</summary>
+<summary>Имя пакета: cheese-libs</summary>
 
 ```
 Эпоха        : 2
@@ -5040,7 +5039,7 @@ URL          : https://wiki.gnome.org/Apps/Cheese
 </details>
 
 <details>
-<summary>chkconfig</summary>
+<summary>Имя пакета: chkconfig</summary>
 
 ```
 Из репозитор : anaconda
@@ -5056,7 +5055,7 @@ URL          : https://github.com/fedora-sysv/chkconfig
 </details>
 
 <details>
-<summary>chrome-gnome-shell</summary>
+<summary>Имя пакета: chrome-gnome-shell</summary>
 
 ```
 Из репозитор : anaconda
@@ -5072,7 +5071,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome
 </details>
 
 <details>
-<summary>chrony</summary>
+<summary>Имя пакета: chrony</summary>
 
 ```
 Из репозитор : anaconda
@@ -5089,7 +5088,7 @@ URL          : https://chrony.tuxfamily.org
 </details>
 
 <details>
-<summary>cifs-utils</summary>
+<summary>Имя пакета: cifs-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -5107,7 +5106,7 @@ URL          : http://linux-cifs.samba.org/cifs-utils/
 </details>
 
 <details>
-<summary>cifs-utils-info</summary>
+<summary>Имя пакета: cifs-utils-info</summary>
 
 ```
 Из репозитор : anaconda
@@ -5121,7 +5120,7 @@ URL          : http://linux-cifs.samba.org/cifs-utils/
 </details>
 
 <details>
-<summary>cjson</summary>
+<summary>Имя пакета: cjson</summary>
 
 ```
 Из репозитор : fedora
@@ -5135,7 +5134,7 @@ URL          : https://github.com/DaveGamble/cJSON
 </details>
 
 <details>
-<summary>clang</summary>
+<summary>Имя пакета: clang</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5159,7 +5158,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>clang-analyzer</summary>
+<summary>Имя пакета: clang-analyzer</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5175,7 +5174,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>clang-devel</summary>
+<summary>Имя пакета: clang-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5188,7 +5187,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>clang-libs</summary>
+<summary>Имя пакета: clang-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5201,7 +5200,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>clang-resource-filesystem</summary>
+<summary>Имя пакета: clang-resource-filesystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5214,7 +5213,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>clang-tools-extra</summary>
+<summary>Имя пакета: clang-tools-extra</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5227,7 +5226,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>clang11-libs</summary>
+<summary>Имя пакета: clang11-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5240,7 +5239,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>clang11-resource-filesystem</summary>
+<summary>Имя пакета: clang11-resource-filesystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5253,7 +5252,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>cldr-emoji-annotation</summary>
+<summary>Имя пакета: cldr-emoji-annotation</summary>
 
 ```
 Эпоха        : 1
@@ -5267,7 +5266,7 @@ URL          : https://unicode.org/cldr
 </details>
 
 <details>
-<summary>cldr-emoji-annotation-dtd</summary>
+<summary>Имя пакета: cldr-emoji-annotation-dtd</summary>
 
 ```
 Эпоха        : 1
@@ -5282,7 +5281,7 @@ URL          : https://unicode.org/cldr
 </details>
 
 <details>
-<summary>cliquer-libs</summary>
+<summary>Имя пакета: cliquer-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -5298,7 +5297,7 @@ URL          : http://users.tkk.fi/pat/cliquer.html
 </details>
 
 <details>
-<summary>clucene-contribs-lib</summary>
+<summary>Имя пакета: clucene-contribs-lib</summary>
 
 ```
 Из репозитор : anaconda
@@ -5311,7 +5310,7 @@ URL          : http://www.sourceforge.net/projects/clucene
 </details>
 
 <details>
-<summary>clucene-core</summary>
+<summary>Имя пакета: clucene-core</summary>
 
 ```
 Из репозитор : anaconda
@@ -5328,7 +5327,7 @@ URL          : http://www.sourceforge.net/projects/clucene
 </details>
 
 <details>
-<summary>clutter</summary>
+<summary>Имя пакета: clutter</summary>
 
 ```
 Из репозитор : anaconda
@@ -5344,7 +5343,7 @@ URL          : http://www.clutter-project.org/
 </details>
 
 <details>
-<summary>clutter-gst3</summary>
+<summary>Имя пакета: clutter-gst3</summary>
 
 ```
 Из репозитор : anaconda
@@ -5360,7 +5359,7 @@ URL          : https://developer.gnome.org/clutter-gst/stable/
 </details>
 
 <details>
-<summary>clutter-gtk</summary>
+<summary>Имя пакета: clutter-gtk</summary>
 
 ```
 Из репозитор : anaconda
@@ -5375,7 +5374,7 @@ URL          : http://www.clutter-project.org
 </details>
 
 <details>
-<summary>cmake</summary>
+<summary>Имя пакета: cmake</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5393,7 +5392,7 @@ URL          : http://www.cmake.org
 </details>
 
 <details>
-<summary>cmake-data</summary>
+<summary>Имя пакета: cmake-data</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5406,7 +5405,7 @@ URL          : http://www.cmake.org
 </details>
 
 <details>
-<summary>cmake-filesystem</summary>
+<summary>Имя пакета: cmake-filesystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5419,7 +5418,7 @@ URL          : http://www.cmake.org
 </details>
 
 <details>
-<summary>cmake-rpm-macros</summary>
+<summary>Имя пакета: cmake-rpm-macros</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5432,7 +5431,7 @@ URL          : http://www.cmake.org
 </details>
 
 <details>
-<summary>code</summary>
+<summary>Имя пакета: code</summary>
 
 ```
 Из репозитор : code
@@ -5445,7 +5444,7 @@ URL          : https://code.visualstudio.com/
 </details>
 
 <details>
-<summary>cogl</summary>
+<summary>Имя пакета: cogl</summary>
 
 ```
 Из репозитор : anaconda
@@ -5472,7 +5471,7 @@ URL          : http://www.clutter-project.org/
 </details>
 
 <details>
-<summary>coin-or-Cbc</summary>
+<summary>Имя пакета: coin-or-Cbc</summary>
 
 ```
 Из репозитор : fedora
@@ -5497,7 +5496,7 @@ URL          : https://github.com/coin-or/Cbc
 </details>
 
 <details>
-<summary>coin-or-Cgl</summary>
+<summary>Имя пакета: coin-or-Cgl</summary>
 
 ```
 Из репозитор : fedora
@@ -5513,7 +5512,7 @@ URL          : https://github.com/coin-or/Cgl
 </details>
 
 <details>
-<summary>coin-or-Clp</summary>
+<summary>Имя пакета: coin-or-Clp</summary>
 
 ```
 Из репозитор : fedora
@@ -5528,7 +5527,7 @@ URL          : https://github.com/coin-or/Clp
 </details>
 
 <details>
-<summary>coin-or-CoinUtils</summary>
+<summary>Имя пакета: coin-or-CoinUtils</summary>
 
 ```
 Из репозитор : fedora
@@ -5548,7 +5547,7 @@ URL          : https://github.com/coin-or/CoinUtils
 </details>
 
 <details>
-<summary>coin-or-Osi</summary>
+<summary>Имя пакета: coin-or-Osi</summary>
 
 ```
 Из репозитор : fedora
@@ -5563,7 +5562,7 @@ URL          : https://github.com/coin-or/Osi
 </details>
 
 <details>
-<summary>color-filesystem</summary>
+<summary>Имя пакета: color-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -5575,7 +5574,7 @@ URL          : https://github.com/coin-or/Osi
 </details>
 
 <details>
-<summary>colord</summary>
+<summary>Имя пакета: colord</summary>
 
 ```
 Из репозитор : anaconda
@@ -5589,7 +5588,7 @@ URL          : https://www.freedesktop.org/software/colord/
 </details>
 
 <details>
-<summary>colord-gtk</summary>
+<summary>Имя пакета: colord-gtk</summary>
 
 ```
 Из репозитор : anaconda
@@ -5603,7 +5602,7 @@ URL          : http://www.freedesktop.org/software/colord/
 </details>
 
 <details>
-<summary>colord-libs</summary>
+<summary>Имя пакета: colord-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -5617,7 +5616,7 @@ URL          : https://www.freedesktop.org/software/colord/
 </details>
 
 <details>
-<summary>comgr</summary>
+<summary>Имя пакета: comgr</summary>
 
 ```
 Из репозитор : ROCm
@@ -5632,7 +5631,7 @@ URL          : https://www.freedesktop.org/software/colord/
 </details>
 
 <details>
-<summary>compat-lua-devel</summary>
+<summary>Имя пакета: compat-lua-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -5645,7 +5644,7 @@ URL          : http://www.lua.org/
 </details>
 
 <details>
-<summary>compat-lua-libs</summary>
+<summary>Имя пакета: compat-lua-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -5658,7 +5657,7 @@ URL          : http://www.lua.org/
 </details>
 
 <details>
-<summary>compat-readline5</summary>
+<summary>Имя пакета: compat-readline5</summary>
 
 ```
 Из репозитор : anaconda
@@ -5676,7 +5675,7 @@ URL          : http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
 </details>
 
 <details>
-<summary>compiler-rt</summary>
+<summary>Имя пакета: compiler-rt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5692,7 +5691,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>composer</summary>
+<summary>Имя пакета: composer</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5708,7 +5707,7 @@ URL          : https://getcomposer.org/
 </details>
 
 <details>
-<summary>compsize</summary>
+<summary>Имя пакета: compsize</summary>
 
 ```
 Из репозитор : anaconda
@@ -5723,7 +5722,7 @@ URL          : https://github.com/kilobyte/compsize
 </details>
 
 <details>
-<summary>conky</summary>
+<summary>Имя пакета: conky</summary>
 
 ```
 Из репозитор : fedora
@@ -5737,7 +5736,7 @@ URL          : https://github.com/brndnmtthws/conky
 </details>
 
 <details>
-<summary>conmon</summary>
+<summary>Имя пакета: conmon</summary>
 
 ```
 Эпоха        : 2
@@ -5751,7 +5750,7 @@ URL          : https://github.com/containers/conmon
 </details>
 
 <details>
-<summary>conmon</summary>
+<summary>Имя пакета: conmon</summary>
 
 ```
 Эпоха        : 2
@@ -5765,7 +5764,7 @@ URL          : https://github.com/containers/conmon
 </details>
 
 <details>
-<summary>container-selinux</summary>
+<summary>Имя пакета: container-selinux</summary>
 
 ```
 Эпоха        : 2
@@ -5779,7 +5778,7 @@ URL          : https://github.com/containers/container-selinux
 </details>
 
 <details>
-<summary>containernetworking-plugins</summary>
+<summary>Имя пакета: containernetworking-plugins</summary>
 
 ```
 Из репозитор : anaconda
@@ -5796,7 +5795,7 @@ URL          : https://github.com/containernetworking/plugins
 </details>
 
 <details>
-<summary>containernetworking-plugins</summary>
+<summary>Имя пакета: containernetworking-plugins</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5813,7 +5812,7 @@ URL          : https://github.com/containernetworking/plugins
 </details>
 
 <details>
-<summary>containers-common</summary>
+<summary>Имя пакета: containers-common</summary>
 
 ```
 Эпоха        : 1
@@ -5828,7 +5827,7 @@ URL          : https://github.com/containers/skopeo
 </details>
 
 <details>
-<summary>containers-common</summary>
+<summary>Имя пакета: containers-common</summary>
 
 ```
 Эпоха        : 4
@@ -5846,7 +5845,7 @@ URL          : https://github.com/containers/skopeo
 </details>
 
 <details>
-<summary>contractor</summary>
+<summary>Имя пакета: contractor</summary>
 
 ```
 Из репозитор : fedora
@@ -5861,7 +5860,7 @@ URL          : https://github.com/elementary/contractor
 </details>
 
 <details>
-<summary>convmv</summary>
+<summary>Имя пакета: convmv</summary>
 
 ```
 Из репозитор : fedora
@@ -5875,7 +5874,7 @@ URL          : http://j3e.de/linux/convmv
 </details>
 
 <details>
-<summary>copy-jdk-configs</summary>
+<summary>Имя пакета: copy-jdk-configs</summary>
 
 ```
 Из репозитор : anaconda
@@ -5889,7 +5888,7 @@ URL          : https://pagure.io/copy_jdk_configs
 </details>
 
 <details>
-<summary>corectrl</summary>
+<summary>Имя пакета: corectrl</summary>
 
 ```
 Из репозитор : fedora
@@ -5912,7 +5911,7 @@ URL          : https://gitlab.com/corectrl/corectrl
 </details>
 
 <details>
-<summary>coreutils</summary>
+<summary>Имя пакета: coreutils</summary>
 
 ```
 Из репозитор : anaconda
@@ -5926,7 +5925,7 @@ URL          : https://www.gnu.org/software/coreutils/
 </details>
 
 <details>
-<summary>coreutils</summary>
+<summary>Имя пакета: coreutils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5940,7 +5939,7 @@ URL          : https://www.gnu.org/software/coreutils/
 </details>
 
 <details>
-<summary>coreutils-common</summary>
+<summary>Имя пакета: coreutils-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -5954,7 +5953,7 @@ URL          : https://www.gnu.org/software/coreutils/
 </details>
 
 <details>
-<summary>coreutils-common</summary>
+<summary>Имя пакета: coreutils-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5968,7 +5967,7 @@ URL          : https://www.gnu.org/software/coreutils/
 </details>
 
 <details>
-<summary>corosynclib</summary>
+<summary>Имя пакета: corosynclib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -5981,7 +5980,7 @@ URL          : http://corosync.github.io/corosync/
 </details>
 
 <details>
-<summary>cpio</summary>
+<summary>Имя пакета: cpio</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6005,7 +6004,7 @@ URL          : https://www.gnu.org/software/cpio/
 </details>
 
 <details>
-<summary>cpio</summary>
+<summary>Имя пакета: cpio</summary>
 
 ```
 Из репозитор : anaconda
@@ -6029,7 +6028,7 @@ URL          : https://www.gnu.org/software/cpio/
 </details>
 
 <details>
-<summary>cpp</summary>
+<summary>Имя пакета: cpp</summary>
 
 ```
 Из репозитор : anaconda
@@ -6061,7 +6060,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>cpp</summary>
+<summary>Имя пакета: cpp</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6093,7 +6092,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>cpp-hocon</summary>
+<summary>Имя пакета: cpp-hocon</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6108,7 +6107,7 @@ URL          : https://github.com/puppetlabs/cpp-hocon
 </details>
 
 <details>
-<summary>cpu-x</summary>
+<summary>Имя пакета: cpu-x</summary>
 
 ```
 Из репозитор : fedora
@@ -6128,7 +6127,7 @@ URL          : https://github.com/X0rg/CPU-X
 </details>
 
 <details>
-<summary>cpu-x-data</summary>
+<summary>Имя пакета: cpu-x-data</summary>
 
 ```
 Из репозитор : fedora
@@ -6141,7 +6140,7 @@ URL          : https://github.com/X0rg/CPU-X
 </details>
 
 <details>
-<summary>crack</summary>
+<summary>Имя пакета: crack</summary>
 
 ```
 Из репозитор : fedora
@@ -6161,7 +6160,7 @@ URL          : https://dropsafe.crypticide.com/alecm/software/crack/c50-faq.html
 </details>
 
 <details>
-<summary>cracklib</summary>
+<summary>Имя пакета: cracklib</summary>
 
 ```
 Из репозитор : anaconda
@@ -6189,7 +6188,7 @@ URL          : http://sourceforge.net/projects/cracklib/
 </details>
 
 <details>
-<summary>cracklib-dicts</summary>
+<summary>Имя пакета: cracklib-dicts</summary>
 
 ```
 Из репозитор : anaconda
@@ -6207,7 +6206,7 @@ URL          : http://sourceforge.net/projects/cracklib/
 </details>
 
 <details>
-<summary>createrepo_c</summary>
+<summary>Имя пакета: createrepo_c</summary>
 
 ```
 Из репозитор : anaconda
@@ -6223,7 +6222,7 @@ URL          : https://github.com/rpm-software-management/createrepo_c
 </details>
 
 <details>
-<summary>createrepo_c</summary>
+<summary>Имя пакета: createrepo_c</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6239,7 +6238,7 @@ URL          : https://github.com/rpm-software-management/createrepo_c
 </details>
 
 <details>
-<summary>createrepo_c-libs</summary>
+<summary>Имя пакета: createrepo_c-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -6253,7 +6252,7 @@ URL          : https://github.com/rpm-software-management/createrepo_c
 </details>
 
 <details>
-<summary>createrepo_c-libs</summary>
+<summary>Имя пакета: createrepo_c-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6267,7 +6266,7 @@ URL          : https://github.com/rpm-software-management/createrepo_c
 </details>
 
 <details>
-<summary>criu</summary>
+<summary>Имя пакета: criu</summary>
 
 ```
 Из репозитор : anaconda
@@ -6282,7 +6281,7 @@ URL          : http://criu.org/
 </details>
 
 <details>
-<summary>criu-libs</summary>
+<summary>Имя пакета: criu-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -6295,7 +6294,7 @@ URL          : http://criu.org/
 </details>
 
 <details>
-<summary>cronie</summary>
+<summary>Имя пакета: cronie</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6311,7 +6310,7 @@ URL          : https://github.com/cronie-crond/cronie
 </details>
 
 <details>
-<summary>cronie-anacron</summary>
+<summary>Имя пакета: cronie-anacron</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6332,7 +6331,7 @@ URL          : https://github.com/cronie-crond/cronie
 </details>
 
 <details>
-<summary>crontabs</summary>
+<summary>Имя пакета: crontabs</summary>
 
 ```
 Из репозитор : fedora
@@ -6354,7 +6353,7 @@ URL          : https://github.com/cronie-crond/crontabs
 </details>
 
 <details>
-<summary>crun</summary>
+<summary>Имя пакета: crun</summary>
 
 ```
 Из репозитор : anaconda
@@ -6367,7 +6366,7 @@ URL          : https://github.com/containers/crun
 </details>
 
 <details>
-<summary>crun</summary>
+<summary>Имя пакета: crun</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6380,7 +6379,7 @@ URL          : https://github.com/containers/crun
 </details>
 
 <details>
-<summary>crypto-policies</summary>
+<summary>Имя пакета: crypto-policies</summary>
 
 ```
 Из репозитор : anaconda
@@ -6395,7 +6394,7 @@ URL          : https://gitlab.com/redhat-crypto/fedora-crypto-policies
 </details>
 
 <details>
-<summary>crypto-policies-scripts</summary>
+<summary>Имя пакета: crypto-policies-scripts</summary>
 
 ```
 Из репозитор : anaconda
@@ -6414,7 +6413,7 @@ URL          : https://gitlab.com/redhat-crypto/fedora-crypto-policies
 </details>
 
 <details>
-<summary>cryptsetup</summary>
+<summary>Имя пакета: cryptsetup</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6428,7 +6427,7 @@ URL          : https://gitlab.com/cryptsetup/cryptsetup
 </details>
 
 <details>
-<summary>cryptsetup-libs</summary>
+<summary>Имя пакета: cryptsetup-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -6441,7 +6440,7 @@ URL          : https://gitlab.com/cryptsetup/cryptsetup
 </details>
 
 <details>
-<summary>cryptsetup-libs</summary>
+<summary>Имя пакета: cryptsetup-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6454,7 +6453,7 @@ URL          : https://gitlab.com/cryptsetup/cryptsetup
 </details>
 
 <details>
-<summary>ctags</summary>
+<summary>Имя пакета: ctags</summary>
 
 ```
 Из репозитор : anaconda
@@ -6481,7 +6480,7 @@ URL          : http://ctags.sourceforge.net/
 </details>
 
 <details>
-<summary>cups</summary>
+<summary>Имя пакета: cups</summary>
 
 ```
 Эпоха        : 1
@@ -6498,7 +6497,7 @@ URL          : http://www.cups.org/
 </details>
 
 <details>
-<summary>cups-client</summary>
+<summary>Имя пакета: cups-client</summary>
 
 ```
 Эпоха        : 1
@@ -6514,7 +6513,7 @@ URL          : http://www.cups.org/
 </details>
 
 <details>
-<summary>cups-filesystem</summary>
+<summary>Имя пакета: cups-filesystem</summary>
 
 ```
 Эпоха        : 1
@@ -6530,7 +6529,7 @@ URL          : http://www.cups.org/
 </details>
 
 <details>
-<summary>cups-filters</summary>
+<summary>Имя пакета: cups-filters</summary>
 
 ```
 Из репозитор : anaconda
@@ -6547,7 +6546,7 @@ URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprintin
 </details>
 
 <details>
-<summary>cups-filters-libs</summary>
+<summary>Имя пакета: cups-filters-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -6560,7 +6559,7 @@ URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprintin
 </details>
 
 <details>
-<summary>cups-ipptool</summary>
+<summary>Имя пакета: cups-ipptool</summary>
 
 ```
 Эпоха        : 1
@@ -6574,7 +6573,7 @@ URL          : http://www.cups.org/
 </details>
 
 <details>
-<summary>cups-libs</summary>
+<summary>Имя пакета: cups-libs</summary>
 
 ```
 Эпоха        : 1
@@ -6593,7 +6592,7 @@ URL          : http://www.cups.org/
 </details>
 
 <details>
-<summary>cups-pk-helper</summary>
+<summary>Имя пакета: cups-pk-helper</summary>
 
 ```
 Из репозитор : anaconda
@@ -6607,7 +6606,7 @@ URL          : http://www.freedesktop.org/wiki/Software/cups-pk-helper/
 </details>
 
 <details>
-<summary>curl</summary>
+<summary>Имя пакета: curl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6625,7 +6624,7 @@ URL          : https://curl.se/
 </details>
 
 <details>
-<summary>cvs</summary>
+<summary>Имя пакета: cvs</summary>
 
 ```
 Из репозитор : fedora
@@ -6650,7 +6649,7 @@ URL          : http://cvs.nongnu.org/
 </details>
 
 <details>
-<summary>cyrus-sasl</summary>
+<summary>Имя пакета: cyrus-sasl</summary>
 
 ```
 Из репозитор : anaconda
@@ -6665,7 +6664,7 @@ URL          : https://www.cyrusimap.org/sasl/
 </details>
 
 <details>
-<summary>cyrus-sasl-gssapi</summary>
+<summary>Имя пакета: cyrus-sasl-gssapi</summary>
 
 ```
 Из репозитор : anaconda
@@ -6680,7 +6679,7 @@ URL          : https://www.cyrusimap.org/sasl/
 </details>
 
 <details>
-<summary>cyrus-sasl-lib</summary>
+<summary>Имя пакета: cyrus-sasl-lib</summary>
 
 ```
 Из репозитор : anaconda
@@ -6694,7 +6693,7 @@ URL          : https://www.cyrusimap.org/sasl/
 </details>
 
 <details>
-<summary>cyrus-sasl-plain</summary>
+<summary>Имя пакета: cyrus-sasl-plain</summary>
 
 ```
 Из репозитор : anaconda
@@ -6708,7 +6707,7 @@ URL          : https://www.cyrusimap.org/sasl/
 </details>
 
 <details>
-<summary>d-feet</summary>
+<summary>Имя пакета: d-feet</summary>
 
 ```
 Из репозитор : fedora
@@ -6724,7 +6723,7 @@ URL          : https://wiki.gnome.org/Apps/DFeet
 </details>
 
 <details>
-<summary>darkstat</summary>
+<summary>Имя пакета: darkstat</summary>
 
 ```
 Из репозитор : fedora
@@ -6739,7 +6738,7 @@ URL          : http://unix4lyfe.org/darkstat/
 </details>
 
 <details>
-<summary>daxctl-libs</summary>
+<summary>Имя пакета: daxctl-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -6754,7 +6753,7 @@ URL          : https://github.com/pmem/ndctl
 </details>
 
 <details>
-<summary>dbus</summary>
+<summary>Имя пакета: dbus</summary>
 
 ```
 Эпоха        : 1
@@ -6770,7 +6769,7 @@ URL          : http://www.freedesktop.org/Software/dbus/
 </details>
 
 <details>
-<summary>dbus-broker</summary>
+<summary>Имя пакета: dbus-broker</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6787,7 +6786,7 @@ URL          : https://github.com/bus1/dbus-broker
 </details>
 
 <details>
-<summary>dbus-common</summary>
+<summary>Имя пакета: dbus-common</summary>
 
 ```
 Эпоха        : 1
@@ -6802,7 +6801,7 @@ URL          : http://www.freedesktop.org/Software/dbus/
 </details>
 
 <details>
-<summary>dbus-daemon</summary>
+<summary>Имя пакета: dbus-daemon</summary>
 
 ```
 Эпоха        : 1
@@ -6818,7 +6817,7 @@ URL          : http://www.freedesktop.org/Software/dbus/
 </details>
 
 <details>
-<summary>dbus-glib</summary>
+<summary>Имя пакета: dbus-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -6833,7 +6832,7 @@ URL          : http://www.freedesktop.org/software/dbus/
 </details>
 
 <details>
-<summary>dbus-libs</summary>
+<summary>Имя пакета: dbus-libs</summary>
 
 ```
 Эпоха        : 1
@@ -6847,7 +6846,7 @@ URL          : http://www.freedesktop.org/Software/dbus/
 </details>
 
 <details>
-<summary>dbus-tools</summary>
+<summary>Имя пакета: dbus-tools</summary>
 
 ```
 Эпоха        : 1
@@ -6862,7 +6861,7 @@ URL          : http://www.freedesktop.org/Software/dbus/
 </details>
 
 <details>
-<summary>dbus-x11</summary>
+<summary>Имя пакета: dbus-x11</summary>
 
 ```
 Эпоха        : 1
@@ -6877,7 +6876,7 @@ URL          : http://www.freedesktop.org/Software/dbus/
 </details>
 
 <details>
-<summary>dbusmenu-qt</summary>
+<summary>Имя пакета: dbusmenu-qt</summary>
 
 ```
 Из репозитор : fedora
@@ -6893,7 +6892,7 @@ URL          : https://launchpad.net/libdbusmenu-qt/
 </details>
 
 <details>
-<summary>dbusmenu-qt5</summary>
+<summary>Имя пакета: dbusmenu-qt5</summary>
 
 ```
 Из репозитор : fedora
@@ -6909,7 +6908,7 @@ URL          : https://launchpad.net/libdbusmenu-qt/
 </details>
 
 <details>
-<summary>dconf</summary>
+<summary>Имя пакета: dconf</summary>
 
 ```
 Из репозитор : anaconda
@@ -6923,7 +6922,7 @@ URL          : https://wiki.gnome.org/Projects/dconf
 </details>
 
 <details>
-<summary>dconf</summary>
+<summary>Имя пакета: dconf</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6937,7 +6936,7 @@ URL          : https://wiki.gnome.org/Projects/dconf
 </details>
 
 <details>
-<summary>dconf-editor</summary>
+<summary>Имя пакета: dconf-editor</summary>
 
 ```
 Из репозитор : updates-testing
@@ -6950,7 +6949,7 @@ URL          : https://wiki.gnome.org/Projects/dconf
 </details>
 
 <details>
-<summary>dejavu-sans-fonts</summary>
+<summary>Имя пакета: dejavu-sans-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -6969,7 +6968,7 @@ URL          : https://dejavu-fonts.github.io/
 </details>
 
 <details>
-<summary>dejavu-sans-mono-fonts</summary>
+<summary>Имя пакета: dejavu-sans-mono-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -6988,7 +6987,7 @@ URL          : https://dejavu-fonts.github.io/
 </details>
 
 <details>
-<summary>dejavu-serif-fonts</summary>
+<summary>Имя пакета: dejavu-serif-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -7010,7 +7009,7 @@ URL          : https://dejavu-fonts.github.io/
 </details>
 
 <details>
-<summary>deltarpm</summary>
+<summary>Имя пакета: deltarpm</summary>
 
 ```
 Из репозитор : anaconda
@@ -7027,7 +7026,7 @@ URL          : https://github.com/rpm-software-management/deltarpm
 </details>
 
 <details>
-<summary>desktop-backgrounds-compat</summary>
+<summary>Имя пакета: desktop-backgrounds-compat</summary>
 
 ```
 Из репозитор : fedora
@@ -7041,7 +7040,7 @@ URL          : https://github.com/rpm-software-management/deltarpm
 </details>
 
 <details>
-<summary>desktop-backgrounds-gnome</summary>
+<summary>Имя пакета: desktop-backgrounds-gnome</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7053,7 +7052,7 @@ URL          : https://github.com/rpm-software-management/deltarpm
 </details>
 
 <details>
-<summary>desktop-file-utils</summary>
+<summary>Имя пакета: desktop-file-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -7071,7 +7070,7 @@ URL          : https://www.freedesktop.org/software/desktop-file-utils
 </details>
 
 <details>
-<summary>devhelp</summary>
+<summary>Имя пакета: devhelp</summary>
 
 ```
 Эпоха        : 1
@@ -7086,7 +7085,7 @@ URL          : https://wiki.gnome.org/Apps/Devhelp
 </details>
 
 <details>
-<summary>devhelp-libs</summary>
+<summary>Имя пакета: devhelp-libs</summary>
 
 ```
 Эпоха        : 1
@@ -7102,7 +7101,7 @@ URL          : https://wiki.gnome.org/Apps/Devhelp
 </details>
 
 <details>
-<summary>device-mapper</summary>
+<summary>Имя пакета: device-mapper</summary>
 
 ```
 Из репозитор : anaconda
@@ -7116,7 +7115,7 @@ URL          : http://sources.redhat.com/dm
 </details>
 
 <details>
-<summary>device-mapper-devel</summary>
+<summary>Имя пакета: device-mapper-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -7130,7 +7129,7 @@ URL          : http://sourceware.org/lvm2
 </details>
 
 <details>
-<summary>device-mapper-event</summary>
+<summary>Имя пакета: device-mapper-event</summary>
 
 ```
 Из репозитор : anaconda
@@ -7144,7 +7143,7 @@ URL          : http://sourceware.org/lvm2
 </details>
 
 <details>
-<summary>device-mapper-event-devel</summary>
+<summary>Имя пакета: device-mapper-event-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -7158,7 +7157,7 @@ URL          : http://sourceware.org/lvm2
 </details>
 
 <details>
-<summary>device-mapper-event-libs</summary>
+<summary>Имя пакета: device-mapper-event-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -7172,7 +7171,7 @@ URL          : http://sourceware.org/lvm2
 </details>
 
 <details>
-<summary>device-mapper-libs</summary>
+<summary>Имя пакета: device-mapper-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -7185,7 +7184,7 @@ URL          : http://sourceware.org/lvm2
 </details>
 
 <details>
-<summary>device-mapper-multipath</summary>
+<summary>Имя пакета: device-mapper-multipath</summary>
 
 ```
 Из репозитор : fedora
@@ -7202,7 +7201,7 @@ URL          : http://christophe.varoqui.free.fr/
 </details>
 
 <details>
-<summary>device-mapper-multipath-devel</summary>
+<summary>Имя пакета: device-mapper-multipath-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -7216,7 +7215,7 @@ URL          : http://christophe.varoqui.free.fr/
 </details>
 
 <details>
-<summary>device-mapper-multipath-libs</summary>
+<summary>Имя пакета: device-mapper-multipath-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -7232,7 +7231,7 @@ URL          : http://christophe.varoqui.free.fr/
 </details>
 
 <details>
-<summary>device-mapper-persistent-data</summary>
+<summary>Имя пакета: device-mapper-persistent-data</summary>
 
 ```
 Из репозитор : anaconda
@@ -7250,7 +7249,7 @@ URL          : https://github.com/jthornber/thin-provisioning-tools
 </details>
 
 <details>
-<summary>dhcp-client</summary>
+<summary>Имя пакета: dhcp-client</summary>
 
 ```
 Эпоха        : 12
@@ -7270,7 +7269,7 @@ URL          : https://www.isc.org/dhcp/
 </details>
 
 <details>
-<summary>dhcp-common</summary>
+<summary>Имя пакета: dhcp-common</summary>
 
 ```
 Эпоха        : 12
@@ -7290,7 +7289,7 @@ URL          : https://www.isc.org/dhcp/
 </details>
 
 <details>
-<summary>diffutils</summary>
+<summary>Имя пакета: diffutils</summary>
 
 ```
 Из репозитор : anaconda
@@ -7313,7 +7312,7 @@ URL          : https://www.gnu.org/software/diffutils/diffutils.html
 </details>
 
 <details>
-<summary>dislocker-libs</summary>
+<summary>Имя пакета: dislocker-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -7327,7 +7326,7 @@ URL          : https://github.com/Aorimn/dislocker
 </details>
 
 <details>
-<summary>distribution-gpg-keys</summary>
+<summary>Имя пакета: distribution-gpg-keys</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7340,7 +7339,7 @@ URL          : https://github.com/xsuchy/distribution-gpg-keys
 </details>
 
 <details>
-<summary>djvulibre-libs</summary>
+<summary>Имя пакета: djvulibre-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -7353,7 +7352,7 @@ URL          : http://djvu.sourceforge.net/
 </details>
 
 <details>
-<summary>dkms</summary>
+<summary>Имя пакета: dkms</summary>
 
 ```
 Из репозитор : fedora
@@ -7367,7 +7366,7 @@ URL          : http://linux.dell.com/dkms
 </details>
 
 <details>
-<summary>dleyna-connector-dbus</summary>
+<summary>Имя пакета: dleyna-connector-dbus</summary>
 
 ```
 Из репозитор : anaconda
@@ -7380,7 +7379,7 @@ URL          : https://01.org/dleyna/
 </details>
 
 <details>
-<summary>dleyna-core</summary>
+<summary>Имя пакета: dleyna-core</summary>
 
 ```
 Из репозитор : anaconda
@@ -7395,7 +7394,7 @@ URL          : https://01.org/dleyna/
 </details>
 
 <details>
-<summary>dleyna-renderer</summary>
+<summary>Имя пакета: dleyna-renderer</summary>
 
 ```
 Из репозитор : anaconda
@@ -7409,7 +7408,7 @@ URL          : https://01.org/dleyna/
 </details>
 
 <details>
-<summary>dleyna-server</summary>
+<summary>Имя пакета: dleyna-server</summary>
 
 ```
 Из репозитор : anaconda
@@ -7423,7 +7422,7 @@ URL          : https://01.org/dleyna/
 </details>
 
 <details>
-<summary>dmenu</summary>
+<summary>Имя пакета: dmenu</summary>
 
 ```
 Из репозитор : fedora
@@ -7437,7 +7436,7 @@ URL          : http://tools.suckless.org/dmenu
 </details>
 
 <details>
-<summary>dmidecode</summary>
+<summary>Имя пакета: dmidecode</summary>
 
 ```
 Эпоха        : 1
@@ -7459,7 +7458,7 @@ URL          : https://www.nongnu.org/dmidecode/
 </details>
 
 <details>
-<summary>dmraid</summary>
+<summary>Имя пакета: dmraid</summary>
 
 ```
 Из репозитор : anaconda
@@ -7474,7 +7473,7 @@ URL          : http://people.redhat.com/heinzm/sw/dmraid
 </details>
 
 <details>
-<summary>dmraid-devel</summary>
+<summary>Имя пакета: dmraid-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -7488,7 +7487,7 @@ URL          : http://people.redhat.com/heinzm/sw/dmraid
 </details>
 
 <details>
-<summary>dmraid-events</summary>
+<summary>Имя пакета: dmraid-events</summary>
 
 ```
 Из репозитор : anaconda
@@ -7503,7 +7502,7 @@ URL          : http://people.redhat.com/heinzm/sw/dmraid
 </details>
 
 <details>
-<summary>dmraid-libs</summary>
+<summary>Имя пакета: dmraid-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -7517,7 +7516,7 @@ URL          : http://people.redhat.com/heinzm/sw/dmraid
 </details>
 
 <details>
-<summary>dnf</summary>
+<summary>Имя пакета: dnf</summary>
 
 ```
 Из репозитор : anaconda
@@ -7531,7 +7530,7 @@ URL          : https://github.com/rpm-software-management/dnf
 </details>
 
 <details>
-<summary>dnf</summary>
+<summary>Имя пакета: dnf</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7545,7 +7544,7 @@ URL          : https://github.com/rpm-software-management/dnf
 </details>
 
 <details>
-<summary>dnf-data</summary>
+<summary>Имя пакета: dnf-data</summary>
 
 ```
 Из репозитор : anaconda
@@ -7558,7 +7557,7 @@ URL          : https://github.com/rpm-software-management/dnf
 </details>
 
 <details>
-<summary>dnf-data</summary>
+<summary>Имя пакета: dnf-data</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7571,7 +7570,7 @@ URL          : https://github.com/rpm-software-management/dnf
 </details>
 
 <details>
-<summary>dnf-plugins-core</summary>
+<summary>Имя пакета: dnf-plugins-core</summary>
 
 ```
 Из репозитор : anaconda
@@ -7587,7 +7586,7 @@ URL          : https://github.com/rpm-software-management/dnf-plugins-core
 </details>
 
 <details>
-<summary>dnf-utils</summary>
+<summary>Имя пакета: dnf-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -7603,7 +7602,7 @@ URL          : https://github.com/rpm-software-management/dnf-plugins-core
 </details>
 
 <details>
-<summary>dnsmasq</summary>
+<summary>Имя пакета: dnsmasq</summary>
 
 ```
 Из репозитор : anaconda
@@ -7623,7 +7622,7 @@ URL          : http://www.thekelleys.org.uk/dnsmasq/
 </details>
 
 <details>
-<summary>dnsmasq</summary>
+<summary>Имя пакета: dnsmasq</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7643,7 +7642,7 @@ URL          : http://www.thekelleys.org.uk/dnsmasq/
 </details>
 
 <details>
-<summary>dnstop</summary>
+<summary>Имя пакета: dnstop</summary>
 
 ```
 Из репозитор : fedora
@@ -7665,7 +7664,7 @@ URL          : http://dns.measurement-factory.com/tools/dnstop/
 </details>
 
 <details>
-<summary>docbook-dtds</summary>
+<summary>Имя пакета: docbook-dtds</summary>
 
 ```
 Из репозитор : fedora
@@ -7681,7 +7680,7 @@ URL          : http://www.oasis-open.org/docbook/
 </details>
 
 <details>
-<summary>docbook-style-xsl</summary>
+<summary>Имя пакета: docbook-style-xsl</summary>
 
 ```
 Из репозитор : fedora
@@ -7695,7 +7694,7 @@ URL          : https://github.com/docbook/xslt10-stylesheets
 </details>
 
 <details>
-<summary>dos2unix</summary>
+<summary>Имя пакета: dos2unix</summary>
 
 ```
 Из репозитор : anaconda
@@ -7709,7 +7708,7 @@ URL          : https://waterlan.home.xs4all.nl/dos2unix.html
 </details>
 
 <details>
-<summary>dosfstools</summary>
+<summary>Имя пакета: dosfstools</summary>
 
 ```
 Из репозитор : anaconda
@@ -7724,7 +7723,7 @@ URL          : https://github.com/dosfstools/dosfstools
 </details>
 
 <details>
-<summary>dotconf</summary>
+<summary>Имя пакета: dotconf</summary>
 
 ```
 Из репозитор : anaconda
@@ -7737,7 +7736,7 @@ URL          : https://github.com/williamh/dotconf/
 </details>
 
 <details>
-<summary>double-conversion</summary>
+<summary>Имя пакета: double-conversion</summary>
 
 ```
 Из репозитор : fedora
@@ -7753,7 +7752,7 @@ URL          : https://github.com/google/double-conversion
 </details>
 
 <details>
-<summary>dracut</summary>
+<summary>Имя пакета: dracut</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7771,7 +7770,7 @@ URL          : https://dracut.wiki.kernel.org/
 </details>
 
 <details>
-<summary>dracut-config-rescue</summary>
+<summary>Имя пакета: dracut-config-rescue</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7785,7 +7784,7 @@ URL          : https://dracut.wiki.kernel.org/
 </details>
 
 <details>
-<summary>dracut-live</summary>
+<summary>Имя пакета: dracut-live</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7799,7 +7798,7 @@ URL          : https://dracut.wiki.kernel.org/
 </details>
 
 <details>
-<summary>dracut-network</summary>
+<summary>Имя пакета: dracut-network</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7813,7 +7812,7 @@ URL          : https://dracut.wiki.kernel.org/
 </details>
 
 <details>
-<summary>dracut-squash</summary>
+<summary>Имя пакета: dracut-squash</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7828,7 +7827,7 @@ URL          : https://dracut.wiki.kernel.org/
 </details>
 
 <details>
-<summary>drpm</summary>
+<summary>Имя пакета: drpm</summary>
 
 ```
 Из репозитор : anaconda
@@ -7842,7 +7841,7 @@ URL          : https://github.com/rpm-software-management/drpm
 </details>
 
 <details>
-<summary>dtach</summary>
+<summary>Имя пакета: dtach</summary>
 
 ```
 Из репозитор : fedora
@@ -7860,7 +7859,7 @@ URL          : http://dtach.sourceforge.net
 </details>
 
 <details>
-<summary>dwz</summary>
+<summary>Имя пакета: dwz</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7878,7 +7877,7 @@ URL          : http://dtach.sourceforge.net
 </details>
 
 <details>
-<summary>e2fsprogs</summary>
+<summary>Имя пакета: e2fsprogs</summary>
 
 ```
 Из репозитор : anaconda
@@ -7903,7 +7902,7 @@ URL          : http://e2fsprogs.sourceforge.net/
 </details>
 
 <details>
-<summary>e2fsprogs-libs</summary>
+<summary>Имя пакета: e2fsprogs-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -7920,7 +7919,7 @@ URL          : http://e2fsprogs.sourceforge.net/
 </details>
 
 <details>
-<summary>ed</summary>
+<summary>Имя пакета: ed</summary>
 
 ```
 Из репозитор : fedora
@@ -7940,7 +7939,7 @@ URL          : http://www.gnu.org/software/ed/
 </details>
 
 <details>
-<summary>edk2-ovmf</summary>
+<summary>Имя пакета: edk2-ovmf</summary>
 
 ```
 Из репозитор : anaconda
@@ -7954,7 +7953,7 @@ URL          : http://www.tianocore.org/edk2/
 </details>
 
 <details>
-<summary>efi-filesystem</summary>
+<summary>Имя пакета: efi-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -7968,7 +7967,7 @@ URL          : https://github.com/rhboot/efi-rpm-macros/
 </details>
 
 <details>
-<summary>efi-filesystem</summary>
+<summary>Имя пакета: efi-filesystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7982,7 +7981,7 @@ URL          : https://github.com/rhboot/efi-rpm-macros/
 </details>
 
 <details>
-<summary>efi-srpm-macros</summary>
+<summary>Имя пакета: efi-srpm-macros</summary>
 
 ```
 Из репозитор : updates-testing
@@ -7995,7 +7994,7 @@ URL          : https://github.com/rhboot/efi-rpm-macros/
 </details>
 
 <details>
-<summary>efibootmgr</summary>
+<summary>Имя пакета: efibootmgr</summary>
 
 ```
 Из репозитор : anaconda
@@ -8010,7 +8009,7 @@ URL          : https://github.com/rhboot/efibootmgr/
 </details>
 
 <details>
-<summary>efivar-libs</summary>
+<summary>Имя пакета: efivar-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -8023,7 +8022,7 @@ URL          : https://github.com/rhboot/efivar
 </details>
 
 <details>
-<summary>egl-utils</summary>
+<summary>Имя пакета: egl-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -8036,7 +8035,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>egl-wayland</summary>
+<summary>Имя пакета: egl-wayland</summary>
 
 ```
 Из репозитор : fedora
@@ -8049,7 +8048,7 @@ URL          : https://github.com/NVIDIA/egl-wayland
 </details>
 
 <details>
-<summary>elementary-print</summary>
+<summary>Имя пакета: elementary-print</summary>
 
 ```
 Из репозитор : fedora
@@ -8062,7 +8061,7 @@ URL          : https://github.com/elementary/print
 </details>
 
 <details>
-<summary>elfutils</summary>
+<summary>Имя пакета: elfutils</summary>
 
 ```
 Из репозитор : anaconda
@@ -8080,7 +8079,7 @@ URL          : http://elfutils.org/
 </details>
 
 <details>
-<summary>elfutils-debuginfod-client</summary>
+<summary>Имя пакета: elfutils-debuginfod-client</summary>
 
 ```
 Из репозитор : anaconda
@@ -8096,7 +8095,7 @@ URL          : http://elfutils.org/
 </details>
 
 <details>
-<summary>elfutils-default-yama-scope</summary>
+<summary>Имя пакета: elfutils-default-yama-scope</summary>
 
 ```
 Из репозитор : anaconda
@@ -8115,7 +8114,7 @@ URL          : http://elfutils.org/
 </details>
 
 <details>
-<summary>elfutils-libelf</summary>
+<summary>Имя пакета: elfutils-libelf</summary>
 
 ```
 Из репозитор : anaconda
@@ -8131,7 +8130,7 @@ URL          : http://elfutils.org/
 </details>
 
 <details>
-<summary>elfutils-libelf-devel</summary>
+<summary>Имя пакета: elfutils-libelf-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -8147,7 +8146,7 @@ URL          : http://elfutils.org/
 </details>
 
 <details>
-<summary>elfutils-libs</summary>
+<summary>Имя пакета: elfutils-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -8164,7 +8163,7 @@ URL          : http://elfutils.org/
 </details>
 
 <details>
-<summary>emacs-filesystem</summary>
+<summary>Имя пакета: emacs-filesystem</summary>
 
 ```
 Эпоха        : 1
@@ -8179,7 +8178,7 @@ URL          : http://www.gnu.org/software/emacs/
 </details>
 
 <details>
-<summary>enchant</summary>
+<summary>Имя пакета: enchant</summary>
 
 ```
 Эпоха        : 1
@@ -8193,7 +8192,7 @@ URL          : http://www.abisource.com/
 </details>
 
 <details>
-<summary>enchant2</summary>
+<summary>Имя пакета: enchant2</summary>
 
 ```
 Из репозитор : anaconda
@@ -8206,7 +8205,7 @@ URL          : https://github.com/AbiWord/enchant
 </details>
 
 <details>
-<summary>environment-modules</summary>
+<summary>Имя пакета: environment-modules</summary>
 
 ```
 Из репозитор : fedora
@@ -8240,7 +8239,7 @@ URL          : http://modules.sourceforge.net/
 </details>
 
 <details>
-<summary>eog</summary>
+<summary>Имя пакета: eog</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8257,7 +8256,7 @@ URL          : https://wiki.gnome.org/Apps/EyeOfGnome
 </details>
 
 <details>
-<summary>esmtp</summary>
+<summary>Имя пакета: esmtp</summary>
 
 ```
 Из репозитор : fedora
@@ -8273,7 +8272,7 @@ URL          : http://esmtp.sourceforge.net/
 </details>
 
 <details>
-<summary>espeak-ng</summary>
+<summary>Имя пакета: espeak-ng</summary>
 
 ```
 Из репозитор : anaconda
@@ -8290,7 +8289,7 @@ URL          : https://github.com/espeak-ng/espeak-ng
 </details>
 
 <details>
-<summary>ethtool</summary>
+<summary>Имя пакета: ethtool</summary>
 
 ```
 Эпоха        : 2
@@ -8306,7 +8305,7 @@ URL          : https://www.kernel.org/pub/software/network/ethtool/
 </details>
 
 <details>
-<summary>ettercap</summary>
+<summary>Имя пакета: ettercap</summary>
 
 ```
 Из репозитор : fedora
@@ -8323,7 +8322,7 @@ URL          : http://ettercap.sourceforge.net
 </details>
 
 <details>
-<summary>evince</summary>
+<summary>Имя пакета: evince</summary>
 
 ```
 Из репозитор : anaconda
@@ -8343,7 +8342,7 @@ URL          : https://wiki.gnome.org/Apps/Evince
 </details>
 
 <details>
-<summary>evince</summary>
+<summary>Имя пакета: evince</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8363,7 +8362,7 @@ URL          : https://wiki.gnome.org/Apps/Evince
 </details>
 
 <details>
-<summary>evince-djvu</summary>
+<summary>Имя пакета: evince-djvu</summary>
 
 ```
 Из репозитор : anaconda
@@ -8376,7 +8375,7 @@ URL          : https://wiki.gnome.org/Apps/Evince
 </details>
 
 <details>
-<summary>evince-djvu</summary>
+<summary>Имя пакета: evince-djvu</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8389,7 +8388,7 @@ URL          : https://wiki.gnome.org/Apps/Evince
 </details>
 
 <details>
-<summary>evince-libs</summary>
+<summary>Имя пакета: evince-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -8402,7 +8401,7 @@ URL          : https://wiki.gnome.org/Apps/Evince
 </details>
 
 <details>
-<summary>evince-libs</summary>
+<summary>Имя пакета: evince-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8415,7 +8414,7 @@ URL          : https://wiki.gnome.org/Apps/Evince
 </details>
 
 <details>
-<summary>evince-nautilus</summary>
+<summary>Имя пакета: evince-nautilus</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8429,7 +8428,7 @@ URL          : https://wiki.gnome.org/Apps/Evince
 </details>
 
 <details>
-<summary>evince-thumbnailer</summary>
+<summary>Имя пакета: evince-thumbnailer</summary>
 
 ```
 Из репозитор : anaconda
@@ -8442,7 +8441,7 @@ URL          : https://wiki.gnome.org/Apps/Evince
 </details>
 
 <details>
-<summary>evince-thumbnailer</summary>
+<summary>Имя пакета: evince-thumbnailer</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8455,7 +8454,7 @@ URL          : https://wiki.gnome.org/Apps/Evince
 </details>
 
 <details>
-<summary>evolution-data-server</summary>
+<summary>Имя пакета: evolution-data-server</summary>
 
 ```
 Из репозитор : anaconda
@@ -8472,7 +8471,7 @@ URL          : https://wiki.gnome.org/Apps/Evolution
 </details>
 
 <details>
-<summary>evolution-data-server</summary>
+<summary>Имя пакета: evolution-data-server</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8489,7 +8488,7 @@ URL          : https://wiki.gnome.org/Apps/Evolution
 </details>
 
 <details>
-<summary>evolution-data-server-langpacks</summary>
+<summary>Имя пакета: evolution-data-server-langpacks</summary>
 
 ```
 Из репозитор : anaconda
@@ -8502,7 +8501,7 @@ URL          : https://wiki.gnome.org/Apps/Evolution
 </details>
 
 <details>
-<summary>evolution-data-server-langpacks</summary>
+<summary>Имя пакета: evolution-data-server-langpacks</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8515,7 +8514,7 @@ URL          : https://wiki.gnome.org/Apps/Evolution
 </details>
 
 <details>
-<summary>exempi</summary>
+<summary>Имя пакета: exempi</summary>
 
 ```
 Из репозитор : anaconda
@@ -8530,7 +8529,7 @@ URL          : http://libopenraw.freedesktop.org/wiki/Exempi
 </details>
 
 <details>
-<summary>exfatprogs</summary>
+<summary>Имя пакета: exfatprogs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8543,7 +8542,7 @@ URL          : https://github.com/exfatprogs/exfatprogs
 </details>
 
 <details>
-<summary>exiv2</summary>
+<summary>Имя пакета: exiv2</summary>
 
 ```
 Из репозитор : anaconda
@@ -8565,7 +8564,7 @@ URL          : http://www.exiv2.org/
 </details>
 
 <details>
-<summary>exiv2-libs</summary>
+<summary>Имя пакета: exiv2-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -8580,7 +8579,7 @@ URL          : http://www.exiv2.org/
 </details>
 
 <details>
-<summary>expat</summary>
+<summary>Имя пакета: expat</summary>
 
 ```
 Из репозитор : anaconda
@@ -8598,7 +8597,7 @@ URL          : https://libexpat.github.io/
 </details>
 
 <details>
-<summary>expatpp</summary>
+<summary>Имя пакета: expatpp</summary>
 
 ```
 Из репозитор : fedora
@@ -8613,7 +8612,7 @@ URL          : http://sourceforge.net/projects/expatpp/
 </details>
 
 <details>
-<summary>f34-backgrounds-base</summary>
+<summary>Имя пакета: f34-backgrounds-base</summary>
 
 ```
 Из репозитор : anaconda
@@ -8626,7 +8625,7 @@ URL          : https://fedoraproject.org/wiki/_Artwork
 </details>
 
 <details>
-<summary>f34-backgrounds-gnome</summary>
+<summary>Имя пакета: f34-backgrounds-gnome</summary>
 
 ```
 Из репозитор : anaconda
@@ -8640,7 +8639,7 @@ URL          : https://fedoraproject.org/wiki/_Artwork
 </details>
 
 <details>
-<summary>faad2-libs</summary>
+<summary>Имя пакета: faad2-libs</summary>
 
 ```
 Эпоха        : 1
@@ -8657,7 +8656,7 @@ URL          : http://www.audiocoding.com/faad2.html
 </details>
 
 <details>
-<summary>facter</summary>
+<summary>Имя пакета: facter</summary>
 
 ```
 Из репозитор : fedora
@@ -8678,7 +8677,7 @@ URL          : https://puppetlabs.com/facter
 </details>
 
 <details>
-<summary>fail2ban</summary>
+<summary>Имя пакета: fail2ban</summary>
 
 ```
 Из репозитор : fedora
@@ -8703,7 +8702,7 @@ URL          : http://fail2ban.sourceforge.net/
 </details>
 
 <details>
-<summary>fail2ban-firewalld</summary>
+<summary>Имя пакета: fail2ban-firewalld</summary>
 
 ```
 Из репозитор : fedora
@@ -8717,7 +8716,7 @@ URL          : http://fail2ban.sourceforge.net/
 </details>
 
 <details>
-<summary>fail2ban-selinux</summary>
+<summary>Имя пакета: fail2ban-selinux</summary>
 
 ```
 Из репозитор : fedora
@@ -8730,7 +8729,7 @@ URL          : http://fail2ban.sourceforge.net/
 </details>
 
 <details>
-<summary>fail2ban-sendmail</summary>
+<summary>Имя пакета: fail2ban-sendmail</summary>
 
 ```
 Из репозитор : fedora
@@ -8744,7 +8743,7 @@ URL          : http://fail2ban.sourceforge.net/
 </details>
 
 <details>
-<summary>fail2ban-server</summary>
+<summary>Имя пакета: fail2ban-server</summary>
 
 ```
 Из репозитор : fedora
@@ -8759,7 +8758,7 @@ URL          : http://fail2ban.sourceforge.net/
 </details>
 
 <details>
-<summary>fakeroot</summary>
+<summary>Имя пакета: fakeroot</summary>
 
 ```
 Из репозитор : fedora
@@ -8776,7 +8775,7 @@ URL          : https://tracker.debian.org/pkg/fakeroot
 </details>
 
 <details>
-<summary>fakeroot-libs</summary>
+<summary>Имя пакета: fakeroot-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -8789,7 +8788,7 @@ URL          : https://tracker.debian.org/pkg/fakeroot
 </details>
 
 <details>
-<summary>fastlz</summary>
+<summary>Имя пакета: fastlz</summary>
 
 ```
 Из репозитор : fedora
@@ -8805,7 +8804,7 @@ URL          : http://fastlz.org/
 </details>
 
 <details>
-<summary>fcoe-utils</summary>
+<summary>Имя пакета: fcoe-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -8820,7 +8819,7 @@ URL          : http://www.open-fcoe.org
 </details>
 
 <details>
-<summary>fdk-aac-free</summary>
+<summary>Имя пакета: fdk-aac-free</summary>
 
 ```
 Из репозитор : anaconda
@@ -8835,7 +8834,7 @@ URL          : https://cgit.freedesktop.org/~wtay/fdk-aac/log/?h=fedora
 </details>
 
 <details>
-<summary>fdupes</summary>
+<summary>Имя пакета: fdupes</summary>
 
 ```
 Эпоха        : 1
@@ -8850,7 +8849,7 @@ URL          : https://github.com/adrianlopezroche/fdupes
 </details>
 
 <details>
-<summary>fedmsg-base</summary>
+<summary>Имя пакета: fedmsg-base</summary>
 
 ```
 Из репозитор : fedora
@@ -8864,7 +8863,7 @@ URL          : https://github.com/fedora-infra/fedmsg
 </details>
 
 <details>
-<summary>fedora-bookmarks</summary>
+<summary>Имя пакета: fedora-bookmarks</summary>
 
 ```
 Из репозитор : anaconda
@@ -8877,7 +8876,7 @@ URL          : http://fedoraproject.org/
 </details>
 
 <details>
-<summary>fedora-chromium-config</summary>
+<summary>Имя пакета: fedora-chromium-config</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8896,7 +8895,7 @@ URL          : https://src.fedoraproject.org/rpms/fedora-chromium-config
 </details>
 
 <details>
-<summary>fedora-gpg-keys</summary>
+<summary>Имя пакета: fedora-gpg-keys</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8909,7 +8908,7 @@ URL          : https://fedoraproject.org/
 </details>
 
 <details>
-<summary>fedora-logos</summary>
+<summary>Имя пакета: fedora-logos</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8933,7 +8932,7 @@ URL          : https://pagure.io/fedora-logos
 </details>
 
 <details>
-<summary>fedora-logos-httpd</summary>
+<summary>Имя пакета: fedora-logos-httpd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8957,7 +8956,7 @@ URL          : https://pagure.io/fedora-logos
 </details>
 
 <details>
-<summary>fedora-packager</summary>
+<summary>Имя пакета: fedora-packager</summary>
 
 ```
 Из репозитор : fedora
@@ -8970,7 +8969,7 @@ URL          : https://pagure.io/fedora-packager
 </details>
 
 <details>
-<summary>fedora-packager-yubikey</summary>
+<summary>Имя пакета: fedora-packager-yubikey</summary>
 
 ```
 Из репозитор : fedora
@@ -8983,7 +8982,7 @@ URL          : https://pagure.io/fedora-packager
 </details>
 
 <details>
-<summary>fedora-release-common</summary>
+<summary>Имя пакета: fedora-release-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -8996,7 +8995,7 @@ URL          : https://fedoraproject.org/
 </details>
 
 <details>
-<summary>fedora-release-identity-workstation</summary>
+<summary>Имя пакета: fedora-release-identity-workstation</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9010,7 +9009,7 @@ URL          : https://fedoraproject.org/
 </details>
 
 <details>
-<summary>fedora-release-workstation</summary>
+<summary>Имя пакета: fedora-release-workstation</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9024,7 +9023,7 @@ URL          : https://fedoraproject.org/
 </details>
 
 <details>
-<summary>fedora-repos</summary>
+<summary>Имя пакета: fedora-repos</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9037,7 +9036,7 @@ URL          : https://fedoraproject.org/
 </details>
 
 <details>
-<summary>fedora-repos-modular</summary>
+<summary>Имя пакета: fedora-repos-modular</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9050,7 +9049,7 @@ URL          : https://fedoraproject.org/
 </details>
 
 <details>
-<summary>fedora-workstation-backgrounds</summary>
+<summary>Имя пакета: fedora-workstation-backgrounds</summary>
 
 ```
 Из репозитор : anaconda
@@ -9064,7 +9063,7 @@ URL          : https://pagure.io/fedora-design/fedora-workstation-backgrounds
 </details>
 
 <details>
-<summary>fedora-workstation-repositories</summary>
+<summary>Имя пакета: fedora-workstation-repositories</summary>
 
 ```
 Из репозитор : fedora
@@ -9078,7 +9077,7 @@ URL          : https://fedoraproject.org/wiki/Workstation/Third_Party_Software_R
 </details>
 
 <details>
-<summary>fedpkg</summary>
+<summary>Имя пакета: fedpkg</summary>
 
 ```
 Из репозитор : fedora
@@ -9091,7 +9090,7 @@ URL          : https://pagure.io/fedpkg
 </details>
 
 <details>
-<summary>feh</summary>
+<summary>Имя пакета: feh</summary>
 
 ```
 Из репозитор : fedora
@@ -9108,7 +9107,7 @@ URL          : http://feh.finalrewind.org
 </details>
 
 <details>
-<summary>ffmpeg-libs</summary>
+<summary>Имя пакета: ffmpeg-libs</summary>
 
 ```
 Из репозитор : rpmfusion-free-updates-testing
@@ -9125,7 +9124,7 @@ URL          : http://ffmpeg.org/
 </details>
 
 <details>
-<summary>fftw-libs-double</summary>
+<summary>Имя пакета: fftw-libs-double</summary>
 
 ```
 Из репозитор : fedora
@@ -9138,7 +9137,7 @@ URL          : http://www.fftw.org
 </details>
 
 <details>
-<summary>fftw-libs-single</summary>
+<summary>Имя пакета: fftw-libs-single</summary>
 
 ```
 Из репозитор : fedora
@@ -9151,7 +9150,7 @@ URL          : http://www.fftw.org
 </details>
 
 <details>
-<summary>file</summary>
+<summary>Имя пакета: file</summary>
 
 ```
 Из репозитор : anaconda
@@ -9167,7 +9166,7 @@ URL          : https://www.darwinsys.com/file/
 </details>
 
 <details>
-<summary>file-libs</summary>
+<summary>Имя пакета: file-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -9181,7 +9180,7 @@ URL          : https://www.darwinsys.com/file/
 </details>
 
 <details>
-<summary>file-roller</summary>
+<summary>Имя пакета: file-roller</summary>
 
 ```
 Из репозитор : fedora
@@ -9195,7 +9194,7 @@ URL          : https://wiki.gnome.org/Apps/FileRoller
 </details>
 
 <details>
-<summary>filesystem</summary>
+<summary>Имя пакета: filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -9211,7 +9210,7 @@ URL          : https://pagure.io/filesystem
 </details>
 
 <details>
-<summary>findutils</summary>
+<summary>Имя пакета: findutils</summary>
 
 ```
 Эпоха        : 1
@@ -9233,7 +9232,7 @@ URL          : https://www.gnu.org/software/findutils/
 </details>
 
 <details>
-<summary>fira-code-fonts</summary>
+<summary>Имя пакета: fira-code-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -9250,7 +9249,7 @@ URL          : https://github.com/tonsky/FiraCode
 </details>
 
 <details>
-<summary>firefox</summary>
+<summary>Имя пакета: firefox</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9264,7 +9263,7 @@ URL          : https://www.mozilla.org/firefox/
 </details>
 
 <details>
-<summary>firefox-pkcs11-loader</summary>
+<summary>Имя пакета: firefox-pkcs11-loader</summary>
 
 ```
 Из репозитор : fedora
@@ -9278,7 +9277,7 @@ URL          : https://github.com/open-eid/firefox-pkcs11-loader
 </details>
 
 <details>
-<summary>firefox-testresults</summary>
+<summary>Имя пакета: firefox-testresults</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9291,7 +9290,7 @@ URL          : https://www.mozilla.org/firefox/
 </details>
 
 <details>
-<summary>firefox-wayland</summary>
+<summary>Имя пакета: firefox-wayland</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9305,7 +9304,7 @@ URL          : https://www.mozilla.org/firefox/
 </details>
 
 <details>
-<summary>firefox-x11</summary>
+<summary>Имя пакета: firefox-x11</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9319,7 +9318,7 @@ URL          : https://www.mozilla.org/firefox/
 </details>
 
 <details>
-<summary>firewalld</summary>
+<summary>Имя пакета: firewalld</summary>
 
 ```
 Из репозитор : anaconda
@@ -9333,7 +9332,7 @@ URL          : http://www.firewalld.org
 </details>
 
 <details>
-<summary>firewalld-filesystem</summary>
+<summary>Имя пакета: firewalld-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -9347,7 +9346,7 @@ URL          : http://www.firewalld.org
 </details>
 
 <details>
-<summary>flac-libs</summary>
+<summary>Имя пакета: flac-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -9366,7 +9365,7 @@ URL          : https://www.xiph.org/flac/
 </details>
 
 <details>
-<summary>flash-player-ppapi</summary>
+<summary>Имя пакета: flash-player-ppapi</summary>
 
 ```
 Из репозитор : adobe-linux-x86_64
@@ -9380,7 +9379,7 @@ URL          : http://www.adobe.com/downloads/
 </details>
 
 <details>
-<summary>flash-plugin</summary>
+<summary>Имя пакета: flash-plugin</summary>
 
 ```
 Из репозитор : adobe-linux-x86_64
@@ -9393,7 +9392,7 @@ URL          : http://www.adobe.com/downloads/
 </details>
 
 <details>
-<summary>flashrom</summary>
+<summary>Имя пакета: flashrom</summary>
 
 ```
 Из репозитор : anaconda
@@ -9409,7 +9408,7 @@ URL          : https://flashrom.org
 </details>
 
 <details>
-<summary>flat-remix-gtk2-theme</summary>
+<summary>Имя пакета: flat-remix-gtk2-theme</summary>
 
 ```
 Из репозитор : fedora
@@ -9436,7 +9435,7 @@ URL          : https://drasite.com/flat-remix-gtk
 </details>
 
 <details>
-<summary>flat-remix-gtk3-theme</summary>
+<summary>Имя пакета: flat-remix-gtk3-theme</summary>
 
 ```
 Из репозитор : fedora
@@ -9463,7 +9462,7 @@ URL          : https://drasite.com/flat-remix-gtk
 </details>
 
 <details>
-<summary>flat-remix-icon-theme</summary>
+<summary>Имя пакета: flat-remix-icon-theme</summary>
 
 ```
 Из репозитор : fedora
@@ -9478,7 +9477,7 @@ URL          : https://github.com/daniruiz/flat-remix
 </details>
 
 <details>
-<summary>flat-remix-theme</summary>
+<summary>Имя пакета: flat-remix-theme</summary>
 
 ```
 Из репозитор : fedora
@@ -9505,7 +9504,7 @@ URL          : https://drasite.com/flat-remix-gtk
 </details>
 
 <details>
-<summary>flatpak</summary>
+<summary>Имя пакета: flatpak</summary>
 
 ```
 Из репозитор : fedora
@@ -9520,7 +9519,7 @@ URL          : http://flatpak.org/
 </details>
 
 <details>
-<summary>flatpak-builder</summary>
+<summary>Имя пакета: flatpak-builder</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9535,7 +9534,7 @@ URL          : http://flatpak.org/
 </details>
 
 <details>
-<summary>flatpak-devel</summary>
+<summary>Имя пакета: flatpak-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -9548,7 +9547,7 @@ URL          : http://flatpak.org/
 </details>
 
 <details>
-<summary>flatpak-libs</summary>
+<summary>Имя пакета: flatpak-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -9561,7 +9560,7 @@ URL          : http://flatpak.org/
 </details>
 
 <details>
-<summary>flatpak-module-tools</summary>
+<summary>Имя пакета: flatpak-module-tools</summary>
 
 ```
 Из репозитор : fedora
@@ -9576,7 +9575,7 @@ URL          : https://pagure.io/flatpak-module-tools
 </details>
 
 <details>
-<summary>flatpak-rpm-macros</summary>
+<summary>Имя пакета: flatpak-rpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -9591,7 +9590,7 @@ URL          : https://pagure.io/flatpak-module-tools
 </details>
 
 <details>
-<summary>flatpak-selinux</summary>
+<summary>Имя пакета: flatpak-selinux</summary>
 
 ```
 Из репозитор : fedora
@@ -9604,7 +9603,7 @@ URL          : http://flatpak.org/
 </details>
 
 <details>
-<summary>flatpak-session-helper</summary>
+<summary>Имя пакета: flatpak-session-helper</summary>
 
 ```
 Из репозитор : fedora
@@ -9618,7 +9617,7 @@ URL          : http://flatpak.org/
 </details>
 
 <details>
-<summary>flatpak-spawn</summary>
+<summary>Имя пакета: flatpak-spawn</summary>
 
 ```
 Из репозитор : fedora
@@ -9633,7 +9632,7 @@ URL          : https://github.com/flatpak/flatpak-xdg-utils
 </details>
 
 <details>
-<summary>flatpak-tests</summary>
+<summary>Имя пакета: flatpak-tests</summary>
 
 ```
 Из репозитор : fedora
@@ -9646,7 +9645,7 @@ URL          : http://flatpak.org/
 </details>
 
 <details>
-<summary>flatpak-xdg-utils</summary>
+<summary>Имя пакета: flatpak-xdg-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -9660,7 +9659,7 @@ URL          : https://github.com/flatpak/flatpak-xdg-utils
 </details>
 
 <details>
-<summary>flexiblas</summary>
+<summary>Имя пакета: flexiblas</summary>
 
 ```
 Из репозитор : anaconda
@@ -9674,7 +9673,7 @@ URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 </details>
 
 <details>
-<summary>flexiblas-devel</summary>
+<summary>Имя пакета: flexiblas-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -9690,7 +9689,7 @@ URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 </details>
 
 <details>
-<summary>flexiblas-netlib</summary>
+<summary>Имя пакета: flexiblas-netlib</summary>
 
 ```
 Из репозитор : anaconda
@@ -9706,7 +9705,7 @@ URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 </details>
 
 <details>
-<summary>flexiblas-netlib64</summary>
+<summary>Имя пакета: flexiblas-netlib64</summary>
 
 ```
 Из репозитор : fedora
@@ -9722,7 +9721,7 @@ URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 </details>
 
 <details>
-<summary>flexiblas-openblas-openmp</summary>
+<summary>Имя пакета: flexiblas-openblas-openmp</summary>
 
 ```
 Из репозитор : anaconda
@@ -9739,7 +9738,7 @@ URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 </details>
 
 <details>
-<summary>flexiblas-openblas-openmp64</summary>
+<summary>Имя пакета: flexiblas-openblas-openmp64</summary>
 
 ```
 Из репозитор : fedora
@@ -9756,7 +9755,7 @@ URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 </details>
 
 <details>
-<summary>fluidsynth</summary>
+<summary>Имя пакета: fluidsynth</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9774,7 +9773,7 @@ URL          : http://www.fluidsynth.org/
 </details>
 
 <details>
-<summary>fluidsynth-libs</summary>
+<summary>Имя пакета: fluidsynth-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9789,7 +9788,7 @@ URL          : http://www.fluidsynth.org/
 </details>
 
 <details>
-<summary>fmt</summary>
+<summary>Имя пакета: fmt</summary>
 
 ```
 Из репозитор : anaconda
@@ -9803,7 +9802,7 @@ URL          : https://github.com/fmtlib/fmt
 </details>
 
 <details>
-<summary>folks</summary>
+<summary>Имя пакета: folks</summary>
 
 ```
 Эпоха        : 1
@@ -9819,7 +9818,7 @@ URL          : https://wiki.gnome.org/Projects/Folks
 </details>
 
 <details>
-<summary>fontawesome-fonts</summary>
+<summary>Имя пакета: fontawesome-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -9838,7 +9837,7 @@ URL          : http://fontawesome.io
 </details>
 
 <details>
-<summary>fontawesome-fonts-web</summary>
+<summary>Имя пакета: fontawesome-fonts-web</summary>
 
 ```
 Эпоха        : 1
@@ -9858,7 +9857,7 @@ URL          : http://fontawesome.io
 </details>
 
 <details>
-<summary>fontconfig</summary>
+<summary>Имя пакета: fontconfig</summary>
 
 ```
 Из репозитор : anaconda
@@ -9873,7 +9872,7 @@ URL          : http://fontconfig.org
 </details>
 
 <details>
-<summary>fontconfig</summary>
+<summary>Имя пакета: fontconfig</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9888,7 +9887,7 @@ URL          : http://fontconfig.org
 </details>
 
 <details>
-<summary>fontconfig-devel</summary>
+<summary>Имя пакета: fontconfig-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -9905,7 +9904,7 @@ URL          : http://fontconfig.org
 </details>
 
 <details>
-<summary>fonts-filesystem</summary>
+<summary>Имя пакета: fonts-filesystem</summary>
 
 ```
 Эпоха        : 1
@@ -9920,7 +9919,7 @@ URL          : https://docs.fedoraproject.org/en-US/packaging-guidelines/FontsPo
 </details>
 
 <details>
-<summary>fonts-srpm-macros</summary>
+<summary>Имя пакета: fonts-srpm-macros</summary>
 
 ```
 Эпоха        : 1
@@ -9941,7 +9940,7 @@ URL          : https://docs.fedoraproject.org/en-US/packaging-guidelines/FontsPo
 </details>
 
 <details>
-<summary>foomatic</summary>
+<summary>Имя пакета: foomatic</summary>
 
 ```
 Из репозитор : anaconda
@@ -9966,7 +9965,7 @@ URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprintin
 </details>
 
 <details>
-<summary>foomatic-db</summary>
+<summary>Имя пакета: foomatic-db</summary>
 
 ```
 Из репозитор : anaconda
@@ -9982,7 +9981,7 @@ URL          : http://www.openprinting.org
 </details>
 
 <details>
-<summary>foomatic-db-filesystem</summary>
+<summary>Имя пакета: foomatic-db-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -9995,7 +9994,7 @@ URL          : http://www.openprinting.org
 </details>
 
 <details>
-<summary>foomatic-db-ppds</summary>
+<summary>Имя пакета: foomatic-db-ppds</summary>
 
 ```
 Из репозитор : anaconda
@@ -10008,7 +10007,7 @@ URL          : http://www.openprinting.org
 </details>
 
 <details>
-<summary>fpaste</summary>
+<summary>Имя пакета: fpaste</summary>
 
 ```
 Из репозитор : anaconda
@@ -10029,7 +10028,7 @@ URL          : https://pagure.io/fpaste
 </details>
 
 <details>
-<summary>fpc-srpm-macros</summary>
+<summary>Имя пакета: fpc-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -10044,7 +10043,7 @@ URL          : https://src.fedoraproject.org/rpms/fpc-srpm-macros
 </details>
 
 <details>
-<summary>fprintd</summary>
+<summary>Имя пакета: fprintd</summary>
 
 ```
 Из репозитор : anaconda
@@ -10057,7 +10056,7 @@ URL          : http://www.freedesktop.org/wiki/Software/fprint/fprintd
 </details>
 
 <details>
-<summary>fprintd-pam</summary>
+<summary>Имя пакета: fprintd-pam</summary>
 
 ```
 Из репозитор : anaconda
@@ -10071,7 +10070,7 @@ URL          : http://www.freedesktop.org/wiki/Software/fprint/fprintd
 </details>
 
 <details>
-<summary>freeglut</summary>
+<summary>Имя пакета: freeglut</summary>
 
 ```
 Из репозитор : fedora
@@ -10092,7 +10091,7 @@ URL          : http://freeglut.sourceforge.net
 </details>
 
 <details>
-<summary>freeglut-devel</summary>
+<summary>Имя пакета: freeglut-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -10108,7 +10107,7 @@ URL          : http://freeglut.sourceforge.net
 </details>
 
 <details>
-<summary>freeimage</summary>
+<summary>Имя пакета: freeimage</summary>
 
 ```
 Из репозитор : fedora
@@ -10123,7 +10122,7 @@ URL          : http://freeimage.sourceforge.net/
 </details>
 
 <details>
-<summary>freeimage-devel</summary>
+<summary>Имя пакета: freeimage-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -10137,7 +10136,7 @@ URL          : http://freeimage.sourceforge.net/
 </details>
 
 <details>
-<summary>freerdp-libs</summary>
+<summary>Имя пакета: freerdp-libs</summary>
 
 ```
 Эпоха        : 2
@@ -10156,7 +10155,7 @@ URL          : http://www.freerdp.com/
 </details>
 
 <details>
-<summary>freerdp-libs</summary>
+<summary>Имя пакета: freerdp-libs</summary>
 
 ```
 Эпоха        : 2
@@ -10175,7 +10174,7 @@ URL          : http://www.freerdp.com/
 </details>
 
 <details>
-<summary>freetds</summary>
+<summary>Имя пакета: freetds</summary>
 
 ```
 Из репозитор : fedora
@@ -10191,7 +10190,7 @@ URL          : http://www.freetds.org/
 </details>
 
 <details>
-<summary>freetds-libs</summary>
+<summary>Имя пакета: freetds-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -10208,7 +10207,7 @@ URL          : http://www.freetds.org/
 </details>
 
 <details>
-<summary>freetype</summary>
+<summary>Имя пакета: freetype</summary>
 
 ```
 Из репозитор : anaconda
@@ -10226,7 +10225,7 @@ URL          : http://www.freetype.org
 </details>
 
 <details>
-<summary>freetype-devel</summary>
+<summary>Имя пакета: freetype-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -10243,7 +10242,7 @@ URL          : http://www.freetype.org
 </details>
 
 <details>
-<summary>freexl</summary>
+<summary>Имя пакета: freexl</summary>
 
 ```
 Из репозитор : fedora
@@ -10263,7 +10262,7 @@ URL          : http://www.gaia-gis.it/FreeXL
 </details>
 
 <details>
-<summary>frei0r-plugins</summary>
+<summary>Имя пакета: frei0r-plugins</summary>
 
 ```
 Из репозитор : anaconda
@@ -10278,7 +10277,7 @@ URL          : https://frei0r.dyne.org/
 </details>
 
 <details>
-<summary>fribidi</summary>
+<summary>Имя пакета: fribidi</summary>
 
 ```
 Из репозитор : anaconda
@@ -10293,7 +10292,7 @@ URL          : https://github.com/fribidi/fribidi/
 </details>
 
 <details>
-<summary>fribidi-devel</summary>
+<summary>Имя пакета: fribidi-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -10307,7 +10306,7 @@ URL          : https://github.com/fribidi/fribidi/
 </details>
 
 <details>
-<summary>fros</summary>
+<summary>Имя пакета: fros</summary>
 
 ```
 Из репозитор : anaconda
@@ -10323,7 +10322,7 @@ URL          : https://github.com/mozeq/fros
 </details>
 
 <details>
-<summary>fros-gnome</summary>
+<summary>Имя пакета: fros-gnome</summary>
 
 ```
 Из репозитор : anaconda
@@ -10336,7 +10335,7 @@ URL          : https://github.com/mozeq/fros
 </details>
 
 <details>
-<summary>fstransform</summary>
+<summary>Имя пакета: fstransform</summary>
 
 ```
 Из репозитор : fedora
@@ -10351,7 +10350,7 @@ URL          : https://github.com/cosmos72/fstransform
 </details>
 
 <details>
-<summary>fstrm</summary>
+<summary>Имя пакета: fstrm</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10369,7 +10368,7 @@ URL          : https://github.com/farsightsec/fstrm
 </details>
 
 <details>
-<summary>fuse</summary>
+<summary>Имя пакета: fuse</summary>
 
 ```
 Из репозитор : anaconda
@@ -10384,7 +10383,7 @@ URL          : http://fuse.sf.net
 </details>
 
 <details>
-<summary>fuse-btfs</summary>
+<summary>Имя пакета: fuse-btfs</summary>
 
 ```
 Из репозитор : fedora
@@ -10401,7 +10400,7 @@ URL          : https://github.com/johang/btfs
 </details>
 
 <details>
-<summary>fuse-common</summary>
+<summary>Имя пакета: fuse-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -10414,7 +10413,7 @@ URL          : http://fuse.sf.net
 </details>
 
 <details>
-<summary>fuse-convmvfs</summary>
+<summary>Имя пакета: fuse-convmvfs</summary>
 
 ```
 Из репозитор : fedora
@@ -10429,7 +10428,7 @@ URL          : http://fuse-convmvfs.sourceforge.net/
 </details>
 
 <details>
-<summary>fuse-dislocker</summary>
+<summary>Имя пакета: fuse-dislocker</summary>
 
 ```
 Из репозитор : fedora
@@ -10451,7 +10450,7 @@ URL          : https://github.com/Aorimn/dislocker
 </details>
 
 <details>
-<summary>fuse-encfs</summary>
+<summary>Имя пакета: fuse-encfs</summary>
 
 ```
 Из репозитор : fedora
@@ -10468,7 +10467,7 @@ URL          : http://www.arg0.net/encfs
 </details>
 
 <details>
-<summary>fuse-libs</summary>
+<summary>Имя пакета: fuse-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -10482,7 +10481,7 @@ URL          : http://fuse.sf.net
 </details>
 
 <details>
-<summary>fuse-overlayfs</summary>
+<summary>Имя пакета: fuse-overlayfs</summary>
 
 ```
 Из репозитор : anaconda
@@ -10495,7 +10494,7 @@ URL          : https://github.com/containers/fuse-overlayfs
 </details>
 
 <details>
-<summary>fuse-overlayfs</summary>
+<summary>Имя пакета: fuse-overlayfs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10508,7 +10507,7 @@ URL          : https://github.com/containers/fuse-overlayfs
 </details>
 
 <details>
-<summary>fuse-pingfs</summary>
+<summary>Имя пакета: fuse-pingfs</summary>
 
 ```
 Из репозитор : fedora
@@ -10522,7 +10521,7 @@ URL          : https://github.com/yarrick/pingfs
 </details>
 
 <details>
-<summary>fuse-sshfs</summary>
+<summary>Имя пакета: fuse-sshfs</summary>
 
 ```
 Из репозитор : fedora
@@ -10538,7 +10537,7 @@ URL          : https://github.com/libfuse/sshfs
 </details>
 
 <details>
-<summary>fuse-uadefs</summary>
+<summary>Имя пакета: fuse-uadefs</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -10552,7 +10551,7 @@ URL          : http://zakalwe.fi/uade
 </details>
 
 <details>
-<summary>fuse-zip</summary>
+<summary>Имя пакета: fuse-zip</summary>
 
 ```
 Из репозитор : fedora
@@ -10574,7 +10573,7 @@ URL          : https://bitbucket.org/agalanin/fuse-zip/
 </details>
 
 <details>
-<summary>fuse3</summary>
+<summary>Имя пакета: fuse3</summary>
 
 ```
 Из репозитор : anaconda
@@ -10589,7 +10588,7 @@ URL          : http://fuse.sf.net
 </details>
 
 <details>
-<summary>fuse3-libs</summary>
+<summary>Имя пакета: fuse3-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -10603,7 +10602,7 @@ URL          : http://fuse.sf.net
 </details>
 
 <details>
-<summary>fwupd</summary>
+<summary>Имя пакета: fwupd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10616,7 +10615,7 @@ URL          : https://github.com/fwupd/fwupd
 </details>
 
 <details>
-<summary>fwupd-plugin-flashrom</summary>
+<summary>Имя пакета: fwupd-plugin-flashrom</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10630,7 +10629,7 @@ URL          : https://github.com/fwupd/fwupd
 </details>
 
 <details>
-<summary>fwupd-plugin-modem-manager</summary>
+<summary>Имя пакета: fwupd-plugin-modem-manager</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10644,7 +10643,7 @@ URL          : https://github.com/fwupd/fwupd
 </details>
 
 <details>
-<summary>fwupd-plugin-uefi-capsule-data</summary>
+<summary>Имя пакета: fwupd-plugin-uefi-capsule-data</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10660,7 +10659,7 @@ URL          : https://github.com/fwupd/fwupd
 </details>
 
 <details>
-<summary>gamemode</summary>
+<summary>Имя пакета: gamemode</summary>
 
 ```
 Из репозитор : anaconda
@@ -10680,7 +10679,7 @@ URL          : https://github.com/FeralInteractive/gamemode
 </details>
 
 <details>
-<summary>gavl</summary>
+<summary>Имя пакета: gavl</summary>
 
 ```
 Из репозитор : anaconda
@@ -10698,7 +10697,7 @@ URL          : http://gmerlin.sourceforge.net/
 </details>
 
 <details>
-<summary>gawk</summary>
+<summary>Имя пакета: gawk</summary>
 
 ```
 Из репозитор : anaconda
@@ -10717,7 +10716,7 @@ URL          : https://www.gnu.org/software/gawk/
 </details>
 
 <details>
-<summary>gawk-all-langpacks</summary>
+<summary>Имя пакета: gawk-all-langpacks</summary>
 
 ```
 Из репозитор : anaconda
@@ -10731,7 +10730,7 @@ URL          : https://www.gnu.org/software/gawk/
 </details>
 
 <details>
-<summary>gc</summary>
+<summary>Имя пакета: gc</summary>
 
 ```
 Из репозитор : anaconda
@@ -10745,7 +10744,7 @@ URL          : http://www.hboehm.info/gc/
 </details>
 
 <details>
-<summary>gcc</summary>
+<summary>Имя пакета: gcc</summary>
 
 ```
 Из репозитор : anaconda
@@ -10759,7 +10758,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>gcc</summary>
+<summary>Имя пакета: gcc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10773,7 +10772,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>gcc-c++</summary>
+<summary>Имя пакета: gcc-c++</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10788,7 +10787,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>gcc-gdb-plugin</summary>
+<summary>Имя пакета: gcc-gdb-plugin</summary>
 
 ```
 Из репозитор : anaconda
@@ -10801,7 +10800,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>gcc-gdb-plugin</summary>
+<summary>Имя пакета: gcc-gdb-plugin</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10814,7 +10813,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>gcc-gfortran</summary>
+<summary>Имя пакета: gcc-gfortran</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10828,7 +10827,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>gconf-editor</summary>
+<summary>Имя пакета: gconf-editor</summary>
 
 ```
 Из репозитор : fedora
@@ -10842,7 +10841,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gcr</summary>
+<summary>Имя пакета: gcr</summary>
 
 ```
 Из репозитор : anaconda
@@ -10859,7 +10858,7 @@ URL          : https://wiki.gnome.org/Projects/CryptoGlue
 </details>
 
 <details>
-<summary>gcr</summary>
+<summary>Имя пакета: gcr</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10876,7 +10875,7 @@ URL          : https://wiki.gnome.org/Projects/CryptoGlue
 </details>
 
 <details>
-<summary>gcr-base</summary>
+<summary>Имя пакета: gcr-base</summary>
 
 ```
 Из репозитор : anaconda
@@ -10889,7 +10888,7 @@ URL          : https://wiki.gnome.org/Projects/CryptoGlue
 </details>
 
 <details>
-<summary>gcr-base</summary>
+<summary>Имя пакета: gcr-base</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10902,7 +10901,7 @@ URL          : https://wiki.gnome.org/Projects/CryptoGlue
 </details>
 
 <details>
-<summary>gd</summary>
+<summary>Имя пакета: gd</summary>
 
 ```
 Из репозитор : anaconda
@@ -10920,7 +10919,7 @@ URL          : http://libgd.github.io/
 </details>
 
 <details>
-<summary>gd</summary>
+<summary>Имя пакета: gd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10938,7 +10937,7 @@ URL          : http://libgd.github.io/
 </details>
 
 <details>
-<summary>gd-devel</summary>
+<summary>Имя пакета: gd-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10952,7 +10951,7 @@ URL          : http://libgd.github.io/
 </details>
 
 <details>
-<summary>gdal-libs</summary>
+<summary>Имя пакета: gdal-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -10965,7 +10964,7 @@ URL          : http://www.gdal.org
 </details>
 
 <details>
-<summary>gdb</summary>
+<summary>Имя пакета: gdb</summary>
 
 ```
 Из репозитор : fedora
@@ -10979,7 +10978,7 @@ URL          : https://gnu.org/software/gdb/
 </details>
 
 <details>
-<summary>gdb-doc</summary>
+<summary>Имя пакета: gdb-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -10996,7 +10995,7 @@ URL          : https://gnu.org/software/gdb/
 </details>
 
 <details>
-<summary>gdb-exploitable</summary>
+<summary>Имя пакета: gdb-exploitable</summary>
 
 ```
 Из репозитор : fedora
@@ -11014,7 +11013,7 @@ URL          : https://github.com/jfoote/exploitable
 </details>
 
 <details>
-<summary>gdb-gdbserver</summary>
+<summary>Имя пакета: gdb-gdbserver</summary>
 
 ```
 Из репозитор : fedora
@@ -11032,7 +11031,7 @@ URL          : https://gnu.org/software/gdb/
 </details>
 
 <details>
-<summary>gdb-headless</summary>
+<summary>Имя пакета: gdb-headless</summary>
 
 ```
 Из репозитор : fedora
@@ -11047,7 +11046,7 @@ URL          : https://gnu.org/software/gdb/
 </details>
 
 <details>
-<summary>gdb-minimal</summary>
+<summary>Имя пакета: gdb-minimal</summary>
 
 ```
 Из репозитор : fedora
@@ -11065,7 +11064,7 @@ URL          : https://gnu.org/software/gdb/
 </details>
 
 <details>
-<summary>gdbm-libs</summary>
+<summary>Имя пакета: gdbm-libs</summary>
 
 ```
 Эпоха        : 1
@@ -11079,7 +11078,7 @@ URL          : http://www.gnu.org/software/gdbm/
 </details>
 
 <details>
-<summary>gdcm</summary>
+<summary>Имя пакета: gdcm</summary>
 
 ```
 Из репозитор : fedora
@@ -11099,7 +11098,7 @@ URL          : http://gdcm.sourceforge.net/wiki/index.php/Main_Page
 </details>
 
 <details>
-<summary>gdisk</summary>
+<summary>Имя пакета: gdisk</summary>
 
 ```
 Из репозитор : anaconda
@@ -11115,7 +11114,7 @@ URL          : http://www.rodsbooks.com/gdisk/
 </details>
 
 <details>
-<summary>gdisk</summary>
+<summary>Имя пакета: gdisk</summary>
 
 ```
 Из репозитор : updates-testing
@@ -11131,7 +11130,7 @@ URL          : http://www.rodsbooks.com/gdisk/
 </details>
 
 <details>
-<summary>gdk-pixbuf2</summary>
+<summary>Имя пакета: gdk-pixbuf2</summary>
 
 ```
 Из репозитор : anaconda
@@ -11146,7 +11145,7 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 </details>
 
 <details>
-<summary>gdk-pixbuf2</summary>
+<summary>Имя пакета: gdk-pixbuf2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -11161,7 +11160,7 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 </details>
 
 <details>
-<summary>gdk-pixbuf2-devel</summary>
+<summary>Имя пакета: gdk-pixbuf2-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -11175,7 +11174,7 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 </details>
 
 <details>
-<summary>gdk-pixbuf2-modules</summary>
+<summary>Имя пакета: gdk-pixbuf2-modules</summary>
 
 ```
 Из репозитор : anaconda
@@ -11189,7 +11188,7 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 </details>
 
 <details>
-<summary>gdk-pixbuf2-modules</summary>
+<summary>Имя пакета: gdk-pixbuf2-modules</summary>
 
 ```
 Из репозитор : updates-testing
@@ -11203,7 +11202,7 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 </details>
 
 <details>
-<summary>gdk-pixbuf2-xlib</summary>
+<summary>Имя пакета: gdk-pixbuf2-xlib</summary>
 
 ```
 Из репозитор : fedora
@@ -11225,7 +11224,7 @@ URL          : https://gitlab.gnome.org/Archive/gdk-pixbuf-xlib
 </details>
 
 <details>
-<summary>gdm</summary>
+<summary>Имя пакета: gdm</summary>
 
 ```
 Эпоха        : 1
@@ -11246,7 +11245,7 @@ URL          : https://wiki.gnome.org/Projects/GDM
 </details>
 
 <details>
-<summary>gdm</summary>
+<summary>Имя пакета: gdm</summary>
 
 ```
 Эпоха        : 1
@@ -11267,7 +11266,7 @@ URL          : https://wiki.gnome.org/Projects/GDM
 </details>
 
 <details>
-<summary>gdouros-symbola-fonts</summary>
+<summary>Имя пакета: gdouros-symbola-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -11288,7 +11287,7 @@ URL          : http://users.teilar.gr/~g1951d/
 </details>
 
 <details>
-<summary>gecode</summary>
+<summary>Имя пакета: gecode</summary>
 
 ```
 Из репозитор : updates-testing
@@ -11303,7 +11302,7 @@ URL          : http://www.gecode.org/
 </details>
 
 <details>
-<summary>gedit</summary>
+<summary>Имя пакета: gedit</summary>
 
 ```
 Эпоха        : 2
@@ -11326,7 +11325,7 @@ URL          : https://wiki.gnome.org/Apps/Gedit
 </details>
 
 <details>
-<summary>gegl04</summary>
+<summary>Имя пакета: gegl04</summary>
 
 ```
 Из репозитор : anaconda
@@ -11342,7 +11341,7 @@ URL          : http://www.gegl.org/
 </details>
 
 <details>
-<summary>gegl04</summary>
+<summary>Имя пакета: gegl04</summary>
 
 ```
 Из репозитор : updates-testing
@@ -11358,7 +11357,7 @@ URL          : http://www.gegl.org/
 </details>
 
 <details>
-<summary>gegl04-devel</summary>
+<summary>Имя пакета: gegl04-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -11372,7 +11371,7 @@ URL          : http://www.gegl.org/
 </details>
 
 <details>
-<summary>genisoimage</summary>
+<summary>Имя пакета: genisoimage</summary>
 
 ```
 Из репозитор : anaconda
@@ -11393,7 +11392,7 @@ URL          : http://cdrkit.org/
 </details>
 
 <details>
-<summary>geoclue2</summary>
+<summary>Имя пакета: geoclue2</summary>
 
 ```
 Из репозитор : anaconda
@@ -11409,7 +11408,7 @@ URL          : http://www.freedesktop.org/wiki/Software/GeoClue/
 </details>
 
 <details>
-<summary>geoclue2-libs</summary>
+<summary>Имя пакета: geoclue2-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -11423,7 +11422,7 @@ URL          : http://www.freedesktop.org/wiki/Software/GeoClue/
 </details>
 
 <details>
-<summary>geocode-glib</summary>
+<summary>Имя пакета: geocode-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -11440,7 +11439,7 @@ URL          : http://www.gnome.org/
 </details>
 
 <details>
-<summary>geolite2-city</summary>
+<summary>Имя пакета: geolite2-city</summary>
 
 ```
 Из репозитор : anaconda
@@ -11455,7 +11454,7 @@ URL          : https://dev.maxmind.com/geoip/geoip2/geolite2/
 </details>
 
 <details>
-<summary>geolite2-country</summary>
+<summary>Имя пакета: geolite2-country</summary>
 
 ```
 Из репозитор : anaconda
@@ -11470,7 +11469,7 @@ URL          : https://dev.maxmind.com/geoip/geoip2/geolite2/
 </details>
 
 <details>
-<summary>geos</summary>
+<summary>Имя пакета: geos</summary>
 
 ```
 Из репозитор : updates-testing
@@ -11487,7 +11486,7 @@ URL          : http://trac.osgeo.org/geos/
 </details>
 
 <details>
-<summary>getdata</summary>
+<summary>Имя пакета: getdata</summary>
 
 ```
 Из репозитор : fedora
@@ -11503,7 +11502,7 @@ URL          : http://getdata.sourceforge.net/
 </details>
 
 <details>
-<summary>getdata-lzma</summary>
+<summary>Имя пакета: getdata-lzma</summary>
 
 ```
 Из репозитор : fedora
@@ -11516,7 +11515,7 @@ URL          : http://getdata.sourceforge.net/
 </details>
 
 <details>
-<summary>gettext</summary>
+<summary>Имя пакета: gettext</summary>
 
 ```
 Из репозитор : anaconda
@@ -11538,7 +11537,7 @@ URL          : http://www.gnu.org/software/gettext/
 </details>
 
 <details>
-<summary>gettext-libs</summary>
+<summary>Имя пакета: gettext-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -11551,7 +11550,7 @@ URL          : http://www.gnu.org/software/gettext/
 </details>
 
 <details>
-<summary>gfbgraph</summary>
+<summary>Имя пакета: gfbgraph</summary>
 
 ```
 Из репозитор : anaconda
@@ -11565,7 +11564,7 @@ URL          : https://wiki.gnome.org/Projects/GFBGraph
 </details>
 
 <details>
-<summary>ghasher</summary>
+<summary>Имя пакета: ghasher</summary>
 
 ```
 Из репозитор : fedora
@@ -11580,7 +11579,7 @@ URL          : http://asgaard.homelinux.org/code/ghasher/
 </details>
 
 <details>
-<summary>ghc-srpm-macros</summary>
+<summary>Имя пакета: ghc-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -11593,7 +11592,7 @@ URL          : https://src.fedoraproject.org/rpms/ghc-srpm-macros
 </details>
 
 <details>
-<summary>ghex</summary>
+<summary>Имя пакета: ghex</summary>
 
 ```
 Из репозитор : fedora
@@ -11609,7 +11608,7 @@ URL          : https://gitlab.gnome.org/GNOME/ghex
 </details>
 
 <details>
-<summary>ghex-libs</summary>
+<summary>Имя пакета: ghex-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -11622,7 +11621,7 @@ URL          : https://gitlab.gnome.org/GNOME/ghex
 </details>
 
 <details>
-<summary>ghostscript</summary>
+<summary>Имя пакета: ghostscript</summary>
 
 ```
 Из репозитор : anaconda
@@ -11641,7 +11640,7 @@ URL          : https://ghostscript.com/
 </details>
 
 <details>
-<summary>ghostscript-x11</summary>
+<summary>Имя пакета: ghostscript-x11</summary>
 
 ```
 Из репозитор : fedora
@@ -11655,7 +11654,7 @@ URL          : https://ghostscript.com/
 </details>
 
 <details>
-<summary>ghostwriter</summary>
+<summary>Имя пакета: ghostwriter</summary>
 
 ```
 Из репозитор : fedora
@@ -11674,7 +11673,7 @@ URL          : https://github.com/wereturtle/ghostwriter
 </details>
 
 <details>
-<summary>giflib</summary>
+<summary>Имя пакета: giflib</summary>
 
 ```
 Из репозитор : anaconda
@@ -11687,7 +11686,7 @@ URL          : http://www.sourceforge.net/projects/giflib/
 </details>
 
 <details>
-<summary>gimp</summary>
+<summary>Имя пакета: gimp</summary>
 
 ```
 Эпоха        : 2
@@ -11707,7 +11706,7 @@ URL          : http://www.gimp.org/
 </details>
 
 <details>
-<summary>gimp-data-extras</summary>
+<summary>Имя пакета: gimp-data-extras</summary>
 
 ```
 Из репозитор : fedora
@@ -11720,7 +11719,7 @@ URL          : http://www.gimp.org/
 </details>
 
 <details>
-<summary>gimp-dbp</summary>
+<summary>Имя пакета: gimp-dbp</summary>
 
 ```
 Из репозитор : fedora
@@ -11737,7 +11736,7 @@ URL          : http://www.ozemail.com.au/~hodsond/dbp.html
 </details>
 
 <details>
-<summary>gimp-dds-plugin</summary>
+<summary>Имя пакета: gimp-dds-plugin</summary>
 
 ```
 Из репозитор : fedora
@@ -11751,7 +11750,7 @@ URL          : http://code.google.com/p/gimp-dds/
 </details>
 
 <details>
-<summary>gimp-devel</summary>
+<summary>Имя пакета: gimp-devel</summary>
 
 ```
 Эпоха        : 2
@@ -11767,7 +11766,7 @@ URL          : http://www.gimp.org/
 </details>
 
 <details>
-<summary>gimp-devel-tools</summary>
+<summary>Имя пакета: gimp-devel-tools</summary>
 
 ```
 Эпоха        : 2
@@ -11782,7 +11781,7 @@ URL          : http://www.gimp.org/
 </details>
 
 <details>
-<summary>gimp-elsamuko</summary>
+<summary>Имя пакета: gimp-elsamuko</summary>
 
 ```
 Из репозитор : fedora
@@ -11796,7 +11795,7 @@ URL          : https://github.com/elsamuko/gimp-elsamuko
 </details>
 
 <details>
-<summary>gimp-focusblur-plugin</summary>
+<summary>Имя пакета: gimp-focusblur-plugin</summary>
 
 ```
 Из репозитор : fedora
@@ -11812,7 +11811,7 @@ URL          : http://registry.gimp.org/node/1444
 </details>
 
 <details>
-<summary>gimp-fourier-plugin</summary>
+<summary>Имя пакета: gimp-fourier-plugin</summary>
 
 ```
 Из репозитор : fedora
@@ -11826,7 +11825,7 @@ URL          : http://people.via.ecp.fr/~remi/soft/gimp/gimp_plugin_en.php3
 </details>
 
 <details>
-<summary>gimp-heif-plugin</summary>
+<summary>Имя пакета: gimp-heif-plugin</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -11840,7 +11839,7 @@ URL          : https://github.com/strukturag/heif-gimp-plugin/
 </details>
 
 <details>
-<summary>gimp-help</summary>
+<summary>Имя пакета: gimp-help</summary>
 
 ```
 Из репозитор : fedora
@@ -11854,7 +11853,7 @@ URL          : http://docs.gimp.org/
 </details>
 
 <details>
-<summary>gimp-help-ru</summary>
+<summary>Имя пакета: gimp-help-ru</summary>
 
 ```
 Из репозитор : fedora
@@ -11867,7 +11866,7 @@ URL          : http://docs.gimp.org/
 </details>
 
 <details>
-<summary>gimp-high-pass-filter</summary>
+<summary>Имя пакета: gimp-high-pass-filter</summary>
 
 ```
 Из репозитор : fedora
@@ -11883,7 +11882,7 @@ URL          : http://registry.gimp.org/node/7385
 </details>
 
 <details>
-<summary>gimp-layer-via-copy-cut</summary>
+<summary>Имя пакета: gimp-layer-via-copy-cut</summary>
 
 ```
 Из репозитор : fedora
@@ -11896,7 +11895,7 @@ URL          : http://some-gimp-plugins.com/contents/en/
 </details>
 
 <details>
-<summary>gimp-lensfun</summary>
+<summary>Имя пакета: gimp-lensfun</summary>
 
 ```
 Из репозитор : fedora
@@ -11910,7 +11909,7 @@ URL          : http://seebk.github.io/GIMP-Lensfun/
 </details>
 
 <details>
-<summary>gimp-libs</summary>
+<summary>Имя пакета: gimp-libs</summary>
 
 ```
 Эпоха        : 2
@@ -11925,7 +11924,7 @@ URL          : http://www.gimp.org/
 </details>
 
 <details>
-<summary>gimp-lqr-plugin</summary>
+<summary>Имя пакета: gimp-lqr-plugin</summary>
 
 ```
 Из репозитор : fedora
@@ -11941,7 +11940,7 @@ URL          : http://liquidrescale.wikidot.com/
 </details>
 
 <details>
-<summary>gimp-luminosity-masks</summary>
+<summary>Имя пакета: gimp-luminosity-masks</summary>
 
 ```
 Из репозитор : fedora
@@ -11955,7 +11954,7 @@ URL          : http://registry.gimp.org/node/28644
 </details>
 
 <details>
-<summary>gimp-paint-studio</summary>
+<summary>Имя пакета: gimp-paint-studio</summary>
 
 ```
 Из репозитор : fedora
@@ -11972,7 +11971,7 @@ URL          : http://code.google.com/p/gps-gimp-paint-studio/
 </details>
 
 <details>
-<summary>gimp-resynthesizer</summary>
+<summary>Имя пакета: gimp-resynthesizer</summary>
 
 ```
 Из репозитор : fedora
@@ -11989,7 +11988,7 @@ URL          : https://github.com/bootchk/resynthesizer
 </details>
 
 <details>
-<summary>gimp-save-for-web</summary>
+<summary>Имя пакета: gimp-save-for-web</summary>
 
 ```
 Из репозитор : fedora
@@ -12007,7 +12006,7 @@ URL          : http://registry.gimp.org/node/33
 </details>
 
 <details>
-<summary>gimp-separate+</summary>
+<summary>Имя пакета: gimp-separate+</summary>
 
 ```
 Из репозитор : fedora
@@ -12020,7 +12019,7 @@ URL          : http://cue.yellowmagic.info/softwares/separate.html
 </details>
 
 <details>
-<summary>gimp-wavelet-decompose</summary>
+<summary>Имя пакета: gimp-wavelet-decompose</summary>
 
 ```
 Из репозитор : fedora
@@ -12035,7 +12034,7 @@ URL          : http://registry.gimp.org/node/13549
 </details>
 
 <details>
-<summary>gimp-wavelet-denoise-plugin</summary>
+<summary>Имя пакета: gimp-wavelet-denoise-plugin</summary>
 
 ```
 Из репозитор : fedora
@@ -12053,7 +12052,7 @@ URL          : http://registry.gimp.org/node/4235
 </details>
 
 <details>
-<summary>gimpfx-foundry</summary>
+<summary>Имя пакета: gimpfx-foundry</summary>
 
 ```
 Из репозитор : fedora
@@ -12074,7 +12073,7 @@ URL          : http://gimpfx-foundry.sourceforge.net/
 </details>
 
 <details>
-<summary>git</summary>
+<summary>Имя пакета: git</summary>
 
 ```
 Из репозитор : anaconda
@@ -12093,7 +12092,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>git</summary>
+<summary>Имя пакета: git</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12112,7 +12111,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>git-archive-all</summary>
+<summary>Имя пакета: git-archive-all</summary>
 
 ```
 Из репозитор : fedora
@@ -12125,7 +12124,7 @@ URL          : https://github.com/Kentzo/git-archive-all
 </details>
 
 <details>
-<summary>git-clang-format</summary>
+<summary>Имя пакета: git-clang-format</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12138,7 +12137,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>git-core</summary>
+<summary>Имя пакета: git-core</summary>
 
 ```
 Из репозитор : anaconda
@@ -12158,7 +12157,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>git-core</summary>
+<summary>Имя пакета: git-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12178,7 +12177,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>git-core-doc</summary>
+<summary>Имя пакета: git-core-doc</summary>
 
 ```
 Из репозитор : anaconda
@@ -12191,7 +12190,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>git-core-doc</summary>
+<summary>Имя пакета: git-core-doc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12204,7 +12203,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>git-delta</summary>
+<summary>Имя пакета: git-delta</summary>
 
 ```
 Из репозитор : fedora
@@ -12217,7 +12216,7 @@ URL          : https://crates.io/crates/git-delta
 </details>
 
 <details>
-<summary>git-email</summary>
+<summary>Имя пакета: git-email</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12230,7 +12229,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>git-extras</summary>
+<summary>Имя пакета: git-extras</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12252,7 +12251,7 @@ URL          : https://github.com/tj/git-extras
 </details>
 
 <details>
-<summary>git-filter-repo</summary>
+<summary>Имя пакета: git-filter-repo</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12269,7 +12268,7 @@ URL          : https://github.com/newren/git-filter-repo
 </details>
 
 <details>
-<summary>git-lab-porcelain</summary>
+<summary>Имя пакета: git-lab-porcelain</summary>
 
 ```
 Из репозитор : fedora
@@ -12283,7 +12282,7 @@ URL          : https://gitlab.com/nhorman/git-lab-porcelain
 </details>
 
 <details>
-<summary>git-lfs</summary>
+<summary>Имя пакета: git-lfs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12298,7 +12297,7 @@ URL          : https://git-lfs.github.io/
 </details>
 
 <details>
-<summary>git-merge-changelog</summary>
+<summary>Имя пакета: git-merge-changelog</summary>
 
 ```
 Из репозитор : fedora
@@ -12313,7 +12312,7 @@ URL          : https://www.gnu.org/software/gnulib
 </details>
 
 <details>
-<summary>git-repair</summary>
+<summary>Имя пакета: git-repair</summary>
 
 ```
 Из репозитор : fedora
@@ -12332,7 +12331,7 @@ URL          : https://hackage.haskell.org/package/git-repair
 </details>
 
 <details>
-<summary>git-review</summary>
+<summary>Имя пакета: git-review</summary>
 
 ```
 Из репозитор : fedora
@@ -12346,7 +12345,7 @@ URL          : https://opendev.org/opendev/git-review
 </details>
 
 <details>
-<summary>git-revise</summary>
+<summary>Имя пакета: git-revise</summary>
 
 ```
 Из репозитор : fedora
@@ -12371,7 +12370,7 @@ URL          : https://github.com/mystor/git-revise
 </details>
 
 <details>
-<summary>git-subrepo</summary>
+<summary>Имя пакета: git-subrepo</summary>
 
 ```
 Из репозитор : fedora
@@ -12386,7 +12385,7 @@ URL          : https://github.com/ingydotnet/git-subrepo
 </details>
 
 <details>
-<summary>git-subtree</summary>
+<summary>Имя пакета: git-subtree</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12401,7 +12400,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>git-time-metric</summary>
+<summary>Имя пакета: git-time-metric</summary>
 
 ```
 Из репозитор : fedora
@@ -12415,7 +12414,7 @@ URL          : https://github.com/git-time-metric/gtm
 </details>
 
 <details>
-<summary>git-tools</summary>
+<summary>Имя пакета: git-tools</summary>
 
 ```
 Из репозитор : fedora
@@ -12447,7 +12446,7 @@ URL          : https://github.com/MestreLion/git-tools
 </details>
 
 <details>
-<summary>gjs</summary>
+<summary>Имя пакета: gjs</summary>
 
 ```
 Из репозитор : anaconda
@@ -12462,7 +12461,7 @@ URL          : https://wiki.gnome.org/Projects/Gjs
 </details>
 
 <details>
-<summary>gjs</summary>
+<summary>Имя пакета: gjs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12477,7 +12476,7 @@ URL          : https://wiki.gnome.org/Projects/Gjs
 </details>
 
 <details>
-<summary>gl-manpages</summary>
+<summary>Имя пакета: gl-manpages</summary>
 
 ```
 Из репозитор : fedora
@@ -12490,7 +12489,7 @@ URL          : https://github.com/KhronosGroup/OpenGL-Refpages
 </details>
 
 <details>
-<summary>glade-libs</summary>
+<summary>Имя пакета: glade-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -12504,7 +12503,7 @@ URL          : https://glade.gnome.org/
 </details>
 
 <details>
-<summary>glew</summary>
+<summary>Имя пакета: glew</summary>
 
 ```
 Из репозитор : fedora
@@ -12525,7 +12524,7 @@ URL          : http://glew.sourceforge.net
 </details>
 
 <details>
-<summary>glfw</summary>
+<summary>Имя пакета: glfw</summary>
 
 ```
 Эпоха        : 1
@@ -12542,7 +12541,7 @@ URL          : http://www.glfw.org/index.html
 </details>
 
 <details>
-<summary>glib</summary>
+<summary>Имя пакета: glib</summary>
 
 ```
 Эпоха        : 1
@@ -12558,7 +12557,7 @@ URL          : http://www.gtk.org/
 </details>
 
 <details>
-<summary>glib-devel</summary>
+<summary>Имя пакета: glib-devel</summary>
 
 ```
 Эпоха        : 1
@@ -12572,7 +12571,7 @@ URL          : http://www.gtk.org/
 </details>
 
 <details>
-<summary>glib-networking</summary>
+<summary>Имя пакета: glib-networking</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12588,7 +12587,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>glib-networking</summary>
+<summary>Имя пакета: glib-networking</summary>
 
 ```
 Из репозитор : anaconda
@@ -12604,7 +12603,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>glib2</summary>
+<summary>Имя пакета: glib2</summary>
 
 ```
 Из репозитор : anaconda
@@ -12620,7 +12619,7 @@ URL          : http://www.gtk.org
 </details>
 
 <details>
-<summary>glib2</summary>
+<summary>Имя пакета: glib2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12636,7 +12635,7 @@ URL          : http://www.gtk.org
 </details>
 
 <details>
-<summary>glib2-devel</summary>
+<summary>Имя пакета: glib2-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12649,7 +12648,7 @@ URL          : http://www.gtk.org
 </details>
 
 <details>
-<summary>glibc</summary>
+<summary>Имя пакета: glibc</summary>
 
 ```
 Из репозитор : anaconda
@@ -12668,7 +12667,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc</summary>
+<summary>Имя пакета: glibc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12687,7 +12686,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-all-langpacks</summary>
+<summary>Имя пакета: glibc-all-langpacks</summary>
 
 ```
 Из репозитор : anaconda
@@ -12700,7 +12699,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-all-langpacks</summary>
+<summary>Имя пакета: glibc-all-langpacks</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12713,7 +12712,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-common</summary>
+<summary>Имя пакета: glibc-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -12727,7 +12726,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-common</summary>
+<summary>Имя пакета: glibc-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12741,7 +12740,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-devel</summary>
+<summary>Имя пакета: glibc-devel</summary>
 
 ```
 Из репозитор : anaconda
@@ -12762,7 +12761,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-devel</summary>
+<summary>Имя пакета: glibc-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12783,7 +12782,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-doc</summary>
+<summary>Имя пакета: glibc-doc</summary>
 
 ```
 Из репозитор : anaconda
@@ -12797,7 +12796,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-doc</summary>
+<summary>Имя пакета: glibc-doc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12811,7 +12810,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-headers-x86</summary>
+<summary>Имя пакета: glibc-headers-x86</summary>
 
 ```
 Из репозитор : anaconda
@@ -12825,7 +12824,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-headers-x86</summary>
+<summary>Имя пакета: glibc-headers-x86</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12839,7 +12838,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-langpack-en</summary>
+<summary>Имя пакета: glibc-langpack-en</summary>
 
 ```
 Из репозитор : anaconda
@@ -12853,7 +12852,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-langpack-en</summary>
+<summary>Имя пакета: glibc-langpack-en</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12867,7 +12866,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibc-langpack-ru</summary>
+<summary>Имя пакета: glibc-langpack-ru</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12881,7 +12880,7 @@ URL          : http://www.gnu.org/software/glibc/
 </details>
 
 <details>
-<summary>glibmm24</summary>
+<summary>Имя пакета: glibmm24</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12896,7 +12895,7 @@ URL          : http://www.gtkmm.org/
 </details>
 
 <details>
-<summary>glpk</summary>
+<summary>Имя пакета: glpk</summary>
 
 ```
 Из репозитор : fedora
@@ -12924,7 +12923,7 @@ URL          : https://www.gnu.org/software/glpk/glpk.html
 </details>
 
 <details>
-<summary>glusterfs</summary>
+<summary>Имя пакета: glusterfs</summary>
 
 ```
 Из репозитор : anaconda
@@ -12946,7 +12945,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>glusterfs</summary>
+<summary>Имя пакета: glusterfs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12968,7 +12967,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>glusterfs-cli</summary>
+<summary>Имя пакета: glusterfs-cli</summary>
 
 ```
 Из репозитор : updates-testing
@@ -12988,7 +12987,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>glusterfs-client-xlators</summary>
+<summary>Имя пакета: glusterfs-client-xlators</summary>
 
 ```
 Из репозитор : anaconda
@@ -13008,7 +13007,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>glusterfs-client-xlators</summary>
+<summary>Имя пакета: glusterfs-client-xlators</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13028,7 +13027,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>glusterfs-fuse</summary>
+<summary>Имя пакета: glusterfs-fuse</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13049,7 +13048,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>glx-utils</summary>
+<summary>Имя пакета: glx-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -13062,7 +13061,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>glyphicons-halflings-fonts</summary>
+<summary>Имя пакета: glyphicons-halflings-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -13077,7 +13076,7 @@ URL          : http://glyphicons.com/
 </details>
 
 <details>
-<summary>gmic</summary>
+<summary>Имя пакета: gmic</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13093,7 +13092,7 @@ URL          : http://gmic.eu/
 </details>
 
 <details>
-<summary>gmic-gimp</summary>
+<summary>Имя пакета: gmic-gimp</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13111,7 +13110,7 @@ URL          : http://gmic.eu/
 </details>
 
 <details>
-<summary>gmp</summary>
+<summary>Имя пакета: gmp</summary>
 
 ```
 Эпоха        : 1
@@ -13134,7 +13133,7 @@ URL          : http://gmplib.org/
 </details>
 
 <details>
-<summary>gmp-c++</summary>
+<summary>Имя пакета: gmp-c++</summary>
 
 ```
 Эпоха        : 1
@@ -13148,7 +13147,7 @@ URL          : http://gmplib.org/
 </details>
 
 <details>
-<summary>gmp-devel</summary>
+<summary>Имя пакета: gmp-devel</summary>
 
 ```
 Эпоха        : 1
@@ -13167,7 +13166,7 @@ URL          : http://gmplib.org/
 </details>
 
 <details>
-<summary>gmp-ecm</summary>
+<summary>Имя пакета: gmp-ecm</summary>
 
 ```
 Из репозитор : fedora
@@ -13181,7 +13180,7 @@ URL          : https://gforge.inria.fr/projects/ecm/
 </details>
 
 <details>
-<summary>gmp-ecm-devel</summary>
+<summary>Имя пакета: gmp-ecm-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -13194,7 +13193,7 @@ URL          : https://gforge.inria.fr/projects/ecm/
 </details>
 
 <details>
-<summary>gmp-ecm-libs</summary>
+<summary>Имя пакета: gmp-ecm-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -13207,7 +13206,7 @@ URL          : https://gforge.inria.fr/projects/ecm/
 </details>
 
 <details>
-<summary>gmp-static</summary>
+<summary>Имя пакета: gmp-static</summary>
 
 ```
 Эпоха        : 1
@@ -13222,7 +13221,7 @@ URL          : http://gmplib.org/
 </details>
 
 <details>
-<summary>gnat-srpm-macros</summary>
+<summary>Имя пакета: gnat-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -13237,7 +13236,7 @@ URL          : https://src.fedoraproject.org/rpms/gnat-srpm-macros
 </details>
 
 <details>
-<summary>gnome-abrt</summary>
+<summary>Имя пакета: gnome-abrt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13251,7 +13250,7 @@ URL          : https://github.com/abrt/gnome-abrt
 </details>
 
 <details>
-<summary>gnome-autoar</summary>
+<summary>Имя пакета: gnome-autoar</summary>
 
 ```
 Из репозитор : anaconda
@@ -13264,7 +13263,7 @@ URL          : https://git.gnome.org/browse/gnome-autoar
 </details>
 
 <details>
-<summary>gnome-autoar</summary>
+<summary>Имя пакета: gnome-autoar</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13277,7 +13276,7 @@ URL          : https://git.gnome.org/browse/gnome-autoar
 </details>
 
 <details>
-<summary>gnome-backgrounds</summary>
+<summary>Имя пакета: gnome-backgrounds</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13292,7 +13291,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gnome-bluetooth</summary>
+<summary>Имя пакета: gnome-bluetooth</summary>
 
 ```
 Эпоха        : 1
@@ -13307,7 +13306,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 </details>
 
 <details>
-<summary>gnome-bluetooth</summary>
+<summary>Имя пакета: gnome-bluetooth</summary>
 
 ```
 Эпоха        : 1
@@ -13322,7 +13321,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 </details>
 
 <details>
-<summary>gnome-bluetooth-libs</summary>
+<summary>Имя пакета: gnome-bluetooth-libs</summary>
 
 ```
 Эпоха        : 1
@@ -13337,7 +13336,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 </details>
 
 <details>
-<summary>gnome-bluetooth-libs</summary>
+<summary>Имя пакета: gnome-bluetooth-libs</summary>
 
 ```
 Эпоха        : 1
@@ -13352,7 +13351,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 </details>
 
 <details>
-<summary>gnome-boxes</summary>
+<summary>Имя пакета: gnome-boxes</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13370,7 +13369,7 @@ URL          : https://wiki.gnome.org/Apps/Boxes
 </details>
 
 <details>
-<summary>gnome-boxes</summary>
+<summary>Имя пакета: gnome-boxes</summary>
 
 ```
 Из репозитор : anaconda
@@ -13388,7 +13387,7 @@ URL          : https://wiki.gnome.org/Apps/Boxes
 </details>
 
 <details>
-<summary>gnome-builder</summary>
+<summary>Имя пакета: gnome-builder</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13402,7 +13401,7 @@ URL          : https://wiki.gnome.org/Apps/Builder
 </details>
 
 <details>
-<summary>gnome-calculator</summary>
+<summary>Имя пакета: gnome-calculator</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13417,7 +13416,7 @@ URL          : https://wiki.gnome.org/Apps/Calculator
 </details>
 
 <details>
-<summary>gnome-calendar</summary>
+<summary>Имя пакета: gnome-calendar</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13436,7 +13435,7 @@ URL          : https://wiki.gnome.org/Apps/Calendar
 </details>
 
 <details>
-<summary>gnome-characters</summary>
+<summary>Имя пакета: gnome-characters</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13450,7 +13449,7 @@ URL          : https://wiki.gnome.org/Design/Apps/CharacterMap
 </details>
 
 <details>
-<summary>gnome-classic-session</summary>
+<summary>Имя пакета: gnome-classic-session</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13464,7 +13463,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-classic-session</summary>
+<summary>Имя пакета: gnome-classic-session</summary>
 
 ```
 Из репозитор : anaconda
@@ -13478,7 +13477,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-clocks</summary>
+<summary>Имя пакета: gnome-clocks</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13491,7 +13490,7 @@ URL          : https://wiki.gnome.org/Apps/Clocks
 </details>
 
 <details>
-<summary>gnome-color-manager</summary>
+<summary>Имя пакета: gnome-color-manager</summary>
 
 ```
 Из репозитор : anaconda
@@ -13505,7 +13504,7 @@ URL          : http://mail.gnome.org/mailman/listinfo/gnome-color-manager-list
 </details>
 
 <details>
-<summary>gnome-contacts</summary>
+<summary>Имя пакета: gnome-contacts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13518,7 +13517,7 @@ URL          : https://wiki.gnome.org/Apps/Contacts
 </details>
 
 <details>
-<summary>gnome-control-center</summary>
+<summary>Имя пакета: gnome-control-center</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13534,7 +13533,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gnome-control-center</summary>
+<summary>Имя пакета: gnome-control-center</summary>
 
 ```
 Из репозитор : anaconda
@@ -13550,7 +13549,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gnome-control-center-filesystem</summary>
+<summary>Имя пакета: gnome-control-center-filesystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13566,7 +13565,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gnome-control-center-filesystem</summary>
+<summary>Имя пакета: gnome-control-center-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -13582,7 +13581,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gnome-desktop3</summary>
+<summary>Имя пакета: gnome-desktop3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13602,7 +13601,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gnome-desktop3</summary>
+<summary>Имя пакета: gnome-desktop3</summary>
 
 ```
 Из репозитор : anaconda
@@ -13622,7 +13621,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gnome-disk-utility</summary>
+<summary>Имя пакета: gnome-disk-utility</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13637,7 +13636,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-disk-utility
 </details>
 
 <details>
-<summary>gnome-extensions-app</summary>
+<summary>Имя пакета: gnome-extensions-app</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13651,7 +13650,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-shell
 </details>
 
 <details>
-<summary>gnome-font-viewer</summary>
+<summary>Имя пакета: gnome-font-viewer</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13666,7 +13665,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-font-viewer
 </details>
 
 <details>
-<summary>gnome-icon-theme</summary>
+<summary>Имя пакета: gnome-icon-theme</summary>
 
 ```
 Из репозитор : fedora
@@ -13679,7 +13678,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gnome-initial-setup</summary>
+<summary>Имя пакета: gnome-initial-setup</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13694,7 +13693,7 @@ URL          : https://wiki.gnome.org/Design/OS/InitialSetup
 </details>
 
 <details>
-<summary>gnome-initial-setup</summary>
+<summary>Имя пакета: gnome-initial-setup</summary>
 
 ```
 Из репозитор : anaconda
@@ -13709,7 +13708,7 @@ URL          : https://wiki.gnome.org/Design/OS/InitialSetup
 </details>
 
 <details>
-<summary>gnome-keyring</summary>
+<summary>Имя пакета: gnome-keyring</summary>
 
 ```
 Из репозитор : anaconda
@@ -13724,7 +13723,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 </details>
 
 <details>
-<summary>gnome-keyring</summary>
+<summary>Имя пакета: gnome-keyring</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13739,7 +13738,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 </details>
 
 <details>
-<summary>gnome-keyring-pam</summary>
+<summary>Имя пакета: gnome-keyring-pam</summary>
 
 ```
 Из репозитор : anaconda
@@ -13753,7 +13752,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 </details>
 
 <details>
-<summary>gnome-keyring-pam</summary>
+<summary>Имя пакета: gnome-keyring-pam</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13767,7 +13766,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 </details>
 
 <details>
-<summary>gnome-logs</summary>
+<summary>Имя пакета: gnome-logs</summary>
 
 ```
 Из репозитор : anaconda
@@ -13780,7 +13779,7 @@ URL          : https://wiki.gnome.org/Apps/Logs
 </details>
 
 <details>
-<summary>gnome-maps</summary>
+<summary>Имя пакета: gnome-maps</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13793,7 +13792,7 @@ URL          : https://wiki.gnome.org/Apps/Maps
 </details>
 
 <details>
-<summary>gnome-menus</summary>
+<summary>Имя пакета: gnome-menus</summary>
 
 ```
 Из репозитор : anaconda
@@ -13810,7 +13809,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-menus
 </details>
 
 <details>
-<summary>gnome-online-accounts</summary>
+<summary>Имя пакета: gnome-online-accounts</summary>
 
 ```
 Из репозитор : anaconda
@@ -13826,7 +13825,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
 </details>
 
 <details>
-<summary>gnome-online-accounts</summary>
+<summary>Имя пакета: gnome-online-accounts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13842,7 +13841,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
 </details>
 
 <details>
-<summary>gnome-online-miners</summary>
+<summary>Имя пакета: gnome-online-miners</summary>
 
 ```
 Из репозитор : anaconda
@@ -13857,7 +13856,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeOnlineMiners
 </details>
 
 <details>
-<summary>gnome-online-miners</summary>
+<summary>Имя пакета: gnome-online-miners</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13872,7 +13871,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeOnlineMiners
 </details>
 
 <details>
-<summary>gnome-photos</summary>
+<summary>Имя пакета: gnome-photos</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13888,7 +13887,7 @@ URL          : https://wiki.gnome.org/Apps/Photos
 </details>
 
 <details>
-<summary>gnome-remote-desktop</summary>
+<summary>Имя пакета: gnome-remote-desktop</summary>
 
 ```
 Из репозитор : anaconda
@@ -13902,7 +13901,7 @@ URL          : https://gitlab.gnome.org/jadahl/gnome-remote-desktop
 </details>
 
 <details>
-<summary>gnome-remote-desktop</summary>
+<summary>Имя пакета: gnome-remote-desktop</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13916,7 +13915,7 @@ URL          : https://gitlab.gnome.org/jadahl/gnome-remote-desktop
 </details>
 
 <details>
-<summary>gnome-screenshot</summary>
+<summary>Имя пакета: gnome-screenshot</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13929,7 +13928,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-screenshot
 </details>
 
 <details>
-<summary>gnome-session</summary>
+<summary>Имя пакета: gnome-session</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13943,7 +13942,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-session
 </details>
 
 <details>
-<summary>gnome-session-wayland-session</summary>
+<summary>Имя пакета: gnome-session-wayland-session</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13956,7 +13955,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-session
 </details>
 
 <details>
-<summary>gnome-session-xsession</summary>
+<summary>Имя пакета: gnome-session-xsession</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13969,7 +13968,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-session
 </details>
 
 <details>
-<summary>gnome-settings-daemon</summary>
+<summary>Имя пакета: gnome-settings-daemon</summary>
 
 ```
 Из репозитор : updates-testing
@@ -13983,7 +13982,7 @@ URL          : https://download.gnome.org/sources/gnome-settings-daemon
 </details>
 
 <details>
-<summary>gnome-shell</summary>
+<summary>Имя пакета: gnome-shell</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14000,7 +13999,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeShell
 </details>
 
 <details>
-<summary>gnome-shell-extension-apps-menu</summary>
+<summary>Имя пакета: gnome-shell-extension-apps-menu</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14013,7 +14012,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-apps-menu</summary>
+<summary>Имя пакета: gnome-shell-extension-apps-menu</summary>
 
 ```
 Из репозитор : anaconda
@@ -14026,7 +14025,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-background-logo</summary>
+<summary>Имя пакета: gnome-shell-extension-background-logo</summary>
 
 ```
 Из репозитор : anaconda
@@ -14039,7 +14038,7 @@ URL          : https://pagure.io/background-logo-extension
 </details>
 
 <details>
-<summary>gnome-shell-extension-background-logo</summary>
+<summary>Имя пакета: gnome-shell-extension-background-logo</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14052,7 +14051,7 @@ URL          : https://pagure.io/background-logo-extension
 </details>
 
 <details>
-<summary>gnome-shell-extension-common</summary>
+<summary>Имя пакета: gnome-shell-extension-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14068,7 +14067,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-common</summary>
+<summary>Имя пакета: gnome-shell-extension-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -14084,7 +14083,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-dash-to-dock</summary>
+<summary>Имя пакета: gnome-shell-extension-dash-to-dock</summary>
 
 ```
 Из репозитор : fedora
@@ -14100,7 +14099,7 @@ URL          : https://micheleg.github.io/dash-to-dock
 </details>
 
 <details>
-<summary>gnome-shell-extension-drive-menu</summary>
+<summary>Имя пакета: gnome-shell-extension-drive-menu</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14114,7 +14113,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-freon</summary>
+<summary>Имя пакета: gnome-shell-extension-freon</summary>
 
 ```
 Эпоха        : 2
@@ -14148,7 +14147,7 @@ URL          : https://github.com/UshakovVasilii/gnome-shell-extension-freon/wik
 </details>
 
 <details>
-<summary>gnome-shell-extension-launch-new-instance</summary>
+<summary>Имя пакета: gnome-shell-extension-launch-new-instance</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14162,7 +14161,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-launch-new-instance</summary>
+<summary>Имя пакета: gnome-shell-extension-launch-new-instance</summary>
 
 ```
 Из репозитор : anaconda
@@ -14176,7 +14175,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-native-window-placement</summary>
+<summary>Имя пакета: gnome-shell-extension-native-window-placement</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14190,7 +14189,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-openweather</summary>
+<summary>Имя пакета: gnome-shell-extension-openweather</summary>
 
 ```
 Из репозитор : fedora
@@ -14213,7 +14212,7 @@ URL          : https://gitlab.com/jenslody/gnome-shell-extension-openweather
 </details>
 
 <details>
-<summary>gnome-shell-extension-places-menu</summary>
+<summary>Имя пакета: gnome-shell-extension-places-menu</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14227,7 +14226,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-places-menu</summary>
+<summary>Имя пакета: gnome-shell-extension-places-menu</summary>
 
 ```
 Из репозитор : anaconda
@@ -14241,7 +14240,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-user-theme</summary>
+<summary>Имя пакета: gnome-shell-extension-user-theme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14255,7 +14254,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-window-list</summary>
+<summary>Имя пакета: gnome-shell-extension-window-list</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14268,7 +14267,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-extension-window-list</summary>
+<summary>Имя пакета: gnome-shell-extension-window-list</summary>
 
 ```
 Из репозитор : anaconda
@@ -14281,7 +14280,7 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 </details>
 
 <details>
-<summary>gnome-shell-theme-flat-remix</summary>
+<summary>Имя пакета: gnome-shell-theme-flat-remix</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14306,7 +14305,7 @@ URL          : https://drasite.com/flat-remix-gnome
 </details>
 
 <details>
-<summary>gnome-shell-theme-selene</summary>
+<summary>Имя пакета: gnome-shell-theme-selene</summary>
 
 ```
 Из репозитор : fedora
@@ -14320,7 +14319,7 @@ URL          : https://launchpad.net/~tista/+archive/selene
 </details>
 
 <details>
-<summary>gnome-shell-theme-yaru</summary>
+<summary>Имя пакета: gnome-shell-theme-yaru</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14337,7 +14336,7 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 </details>
 
 <details>
-<summary>gnome-software</summary>
+<summary>Имя пакета: gnome-software</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14351,7 +14350,7 @@ URL          : https://wiki.gnome.org/Apps/Software
 </details>
 
 <details>
-<summary>gnome-software</summary>
+<summary>Имя пакета: gnome-software</summary>
 
 ```
 Из репозитор : anaconda
@@ -14365,7 +14364,7 @@ URL          : https://wiki.gnome.org/Apps/Software
 </details>
 
 <details>
-<summary>gnome-system-monitor</summary>
+<summary>Имя пакета: gnome-system-monitor</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14380,7 +14379,7 @@ URL          : https://wiki.gnome.org/Apps/SystemMonitor
 </details>
 
 <details>
-<summary>gnome-terminal</summary>
+<summary>Имя пакета: gnome-terminal</summary>
 
 ```
 Из репозитор : anaconda
@@ -14394,7 +14393,7 @@ URL          : http://www.gnome.org/
 </details>
 
 <details>
-<summary>gnome-terminal-nautilus</summary>
+<summary>Имя пакета: gnome-terminal-nautilus</summary>
 
 ```
 Из репозитор : anaconda
@@ -14408,7 +14407,7 @@ URL          : http://www.gnome.org/
 </details>
 
 <details>
-<summary>gnome-themes-extra</summary>
+<summary>Имя пакета: gnome-themes-extra</summary>
 
 ```
 Из репозитор : anaconda
@@ -14436,7 +14435,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-themes-extra
 </details>
 
 <details>
-<summary>gnome-tour</summary>
+<summary>Имя пакета: gnome-tour</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14449,7 +14448,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-tour
 </details>
 
 <details>
-<summary>gnome-tour</summary>
+<summary>Имя пакета: gnome-tour</summary>
 
 ```
 Из репозитор : anaconda
@@ -14462,7 +14461,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-tour
 </details>
 
 <details>
-<summary>gnome-tweaks</summary>
+<summary>Имя пакета: gnome-tweaks</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14478,7 +14477,7 @@ URL          : https://wiki.gnome.org/Apps/Tweaks
 </details>
 
 <details>
-<summary>gnome-user-docs</summary>
+<summary>Имя пакета: gnome-user-docs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14492,7 +14491,7 @@ URL          : http://help.gnome.org/
 </details>
 
 <details>
-<summary>gnome-user-share</summary>
+<summary>Имя пакета: gnome-user-share</summary>
 
 ```
 Из репозитор : anaconda
@@ -14513,7 +14512,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>gnome-vfs2</summary>
+<summary>Имя пакета: gnome-vfs2</summary>
 
 ```
 Из репозитор : fedora
@@ -14533,7 +14532,7 @@ URL          : http://www.gnome.org/
 </details>
 
 <details>
-<summary>gnome-vfs2-common</summary>
+<summary>Имя пакета: gnome-vfs2-common</summary>
 
 ```
 Из репозитор : fedora
@@ -14546,7 +14545,7 @@ URL          : http://www.gnome.org/
 </details>
 
 <details>
-<summary>gnome-video-effects</summary>
+<summary>Имя пакета: gnome-video-effects</summary>
 
 ```
 Из репозитор : anaconda
@@ -14559,7 +14558,7 @@ URL          : https://wiki.gnome.org/Projects/GnomeVideoEffects
 </details>
 
 <details>
-<summary>gnome-weather</summary>
+<summary>Имя пакета: gnome-weather</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14572,7 +14571,7 @@ URL          : https://wiki.gnome.org/Apps/Weather
 </details>
 
 <details>
-<summary>gnupg2</summary>
+<summary>Имя пакета: gnupg2</summary>
 
 ```
 Из репозитор : anaconda
@@ -14594,7 +14593,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>gnupg2</summary>
+<summary>Имя пакета: gnupg2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14616,7 +14615,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>gnupg2-smime</summary>
+<summary>Имя пакета: gnupg2-smime</summary>
 
 ```
 Из репозитор : anaconda
@@ -14631,7 +14630,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>gnupg2-smime</summary>
+<summary>Имя пакета: gnupg2-smime</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14646,7 +14645,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>gnustep-base-libs</summary>
+<summary>Имя пакета: gnustep-base-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -14668,7 +14667,7 @@ URL          : http://www.gnustep.org/
 </details>
 
 <details>
-<summary>gnutls</summary>
+<summary>Имя пакета: gnutls</summary>
 
 ```
 Из репозитор : anaconda
@@ -14685,7 +14684,7 @@ URL          : http://www.gnutls.org/
 </details>
 
 <details>
-<summary>gnutls</summary>
+<summary>Имя пакета: gnutls</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14702,7 +14701,7 @@ URL          : http://www.gnutls.org/
 </details>
 
 <details>
-<summary>gnutls-dane</summary>
+<summary>Имя пакета: gnutls-dane</summary>
 
 ```
 Из репозитор : anaconda
@@ -14721,7 +14720,7 @@ URL          : http://www.gnutls.org/
 </details>
 
 <details>
-<summary>gnutls-dane</summary>
+<summary>Имя пакета: gnutls-dane</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14740,7 +14739,7 @@ URL          : http://www.gnutls.org/
 </details>
 
 <details>
-<summary>gnutls-utils</summary>
+<summary>Имя пакета: gnutls-utils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14759,7 +14758,7 @@ URL          : http://www.gnutls.org/
 </details>
 
 <details>
-<summary>go-srpm-macros</summary>
+<summary>Имя пакета: go-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -14779,7 +14778,7 @@ URL          : https://pagure.io/go-rpm-macros
 </details>
 
 <details>
-<summary>gobject-introspection</summary>
+<summary>Имя пакета: gobject-introspection</summary>
 
 ```
 Из репозитор : anaconda
@@ -14795,7 +14794,7 @@ URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
 </details>
 
 <details>
-<summary>gobject-introspection</summary>
+<summary>Имя пакета: gobject-introspection</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14811,7 +14810,7 @@ URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
 </details>
 
 <details>
-<summary>gobject-introspection-devel</summary>
+<summary>Имя пакета: gobject-introspection-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -14824,7 +14823,7 @@ URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
 </details>
 
 <details>
-<summary>gom</summary>
+<summary>Имя пакета: gom</summary>
 
 ```
 Из репозитор : anaconda
@@ -14839,7 +14838,7 @@ URL          : https://wiki.gnome.org/Projects/Gom
 </details>
 
 <details>
-<summary>goocanvas</summary>
+<summary>Имя пакета: goocanvas</summary>
 
 ```
 Из репозитор : fedora
@@ -14854,7 +14853,7 @@ URL          : https://wiki.gnome.org/Projects/GooCanvas
 </details>
 
 <details>
-<summary>google-carlito-fonts</summary>
+<summary>Имя пакета: google-carlito-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -14870,7 +14869,7 @@ URL          : http://code.google.com/p/chromium/issues/detail?id=280557
 </details>
 
 <details>
-<summary>google-droid-sans-fonts</summary>
+<summary>Имя пакета: google-droid-sans-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -14898,7 +14897,7 @@ URL          : https://android.googlesource.com/
 </details>
 
 <details>
-<summary>google-noto-cjk-fonts-common</summary>
+<summary>Имя пакета: google-noto-cjk-fonts-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -14918,7 +14917,7 @@ URL          : https://github.com/googlei18n/noto-cjk
 </details>
 
 <details>
-<summary>google-noto-emoji-color-fonts</summary>
+<summary>Имя пакета: google-noto-emoji-color-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -14931,7 +14930,7 @@ URL          : https://github.com/googlei18n/noto-emoji
 </details>
 
 <details>
-<summary>google-noto-fonts-common</summary>
+<summary>Имя пакета: google-noto-fonts-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -14944,7 +14943,7 @@ URL          : https://github.com/googlei18n/noto-fonts/
 </details>
 
 <details>
-<summary>google-noto-sans-cjk-ttc-fonts</summary>
+<summary>Имя пакета: google-noto-sans-cjk-ttc-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -14964,7 +14963,7 @@ URL          : https://github.com/googlei18n/noto-cjk
 </details>
 
 <details>
-<summary>google-noto-sans-gurmukhi-fonts</summary>
+<summary>Имя пакета: google-noto-sans-gurmukhi-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -14982,7 +14981,7 @@ URL          : https://github.com/googlei18n/noto-fonts/
 </details>
 
 <details>
-<summary>google-noto-sans-sinhala-vf-fonts</summary>
+<summary>Имя пакета: google-noto-sans-sinhala-vf-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -15000,7 +14999,7 @@ URL          : https://github.com/googlei18n/noto-fonts/
 </details>
 
 <details>
-<summary>google-roboto-slab-fonts</summary>
+<summary>Имя пакета: google-roboto-slab-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -15021,7 +15020,7 @@ URL          : https://www.google.com/fonts/specimen/Roboto+Slab
 </details>
 
 <details>
-<summary>gparted</summary>
+<summary>Имя пакета: gparted</summary>
 
 ```
 Из репозитор : fedora
@@ -15038,7 +15037,7 @@ URL          : http://gparted.org
 </details>
 
 <details>
-<summary>gperftools</summary>
+<summary>Имя пакета: gperftools</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15057,7 +15056,7 @@ URL          : https://github.com/gperftools/gperftools
 </details>
 
 <details>
-<summary>gperftools-devel</summary>
+<summary>Имя пакета: gperftools-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15070,7 +15069,7 @@ URL          : https://github.com/gperftools/gperftools
 </details>
 
 <details>
-<summary>gperftools-libs</summary>
+<summary>Имя пакета: gperftools-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15083,7 +15082,7 @@ URL          : https://github.com/gperftools/gperftools
 </details>
 
 <details>
-<summary>gpgme</summary>
+<summary>Имя пакета: gpgme</summary>
 
 ```
 Из репозитор : anaconda
@@ -15099,7 +15098,7 @@ URL          : https://gnupg.org/related_software/gpgme/
 </details>
 
 <details>
-<summary>gpgmepp</summary>
+<summary>Имя пакета: gpgmepp</summary>
 
 ```
 Из репозитор : anaconda
@@ -15112,7 +15111,7 @@ URL          : https://gnupg.org/related_software/gpgme/
 </details>
 
 <details>
-<summary>gpm-libs</summary>
+<summary>Имя пакета: gpm-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15126,7 +15125,7 @@ URL          : http://www.nico.schottelius.org/software/gpm/
 </details>
 
 <details>
-<summary>granite</summary>
+<summary>Имя пакета: granite</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15141,7 +15140,7 @@ URL          : https://github.com/elementary/granite
 </details>
 
 <details>
-<summary>graphene</summary>
+<summary>Имя пакета: graphene</summary>
 
 ```
 Из репозитор : anaconda
@@ -15155,7 +15154,7 @@ URL          : https://github.com/ebassi/graphene
 </details>
 
 <details>
-<summary>graphene</summary>
+<summary>Имя пакета: graphene</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15169,7 +15168,7 @@ URL          : https://github.com/ebassi/graphene
 </details>
 
 <details>
-<summary>graphite2</summary>
+<summary>Имя пакета: graphite2</summary>
 
 ```
 Из репозитор : anaconda
@@ -15187,7 +15186,7 @@ URL          : https://sourceforge.net/projects/silgraphite/
 </details>
 
 <details>
-<summary>graphite2-devel</summary>
+<summary>Имя пакета: graphite2-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -15200,7 +15199,7 @@ URL          : https://sourceforge.net/projects/silgraphite/
 </details>
 
 <details>
-<summary>graphviz</summary>
+<summary>Имя пакета: graphviz</summary>
 
 ```
 Из репозитор : fedora
@@ -15214,7 +15213,7 @@ URL          : http://www.graphviz.org/
 </details>
 
 <details>
-<summary>graphviz-devel</summary>
+<summary>Имя пакета: graphviz-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -15229,7 +15228,7 @@ URL          : http://www.graphviz.org/
 </details>
 
 <details>
-<summary>graphviz-devil</summary>
+<summary>Имя пакета: graphviz-devil</summary>
 
 ```
 Из репозитор : fedora
@@ -15244,7 +15243,7 @@ URL          : http://www.graphviz.org/
 </details>
 
 <details>
-<summary>graphviz-gd</summary>
+<summary>Имя пакета: graphviz-gd</summary>
 
 ```
 Из репозитор : fedora
@@ -15259,7 +15258,7 @@ URL          : http://www.graphviz.org/
 </details>
 
 <details>
-<summary>grep</summary>
+<summary>Имя пакета: grep</summary>
 
 ```
 Из репозитор : anaconda
@@ -15276,7 +15275,7 @@ URL          : https://www.gnu.org/software/grep/
 </details>
 
 <details>
-<summary>grilo</summary>
+<summary>Имя пакета: grilo</summary>
 
 ```
 Из репозитор : anaconda
@@ -15291,7 +15290,7 @@ URL          : https://wiki.gnome.org/Projects/Grilo
 </details>
 
 <details>
-<summary>grilo-plugins</summary>
+<summary>Имя пакета: grilo-plugins</summary>
 
 ```
 Из репозитор : anaconda
@@ -15326,7 +15325,7 @@ URL          : https://wiki.gnome.org/Projects/Grilo
 </details>
 
 <details>
-<summary>grilo-plugins</summary>
+<summary>Имя пакета: grilo-plugins</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15359,7 +15358,7 @@ URL          : https://wiki.gnome.org/Projects/Grilo
 </details>
 
 <details>
-<summary>grim</summary>
+<summary>Имя пакета: grim</summary>
 
 ```
 Из репозитор : fedora
@@ -15372,7 +15371,7 @@ URL          : https://github.com/emersion/grim
 </details>
 
 <details>
-<summary>groff-base</summary>
+<summary>Имя пакета: groff-base</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15387,7 +15386,7 @@ URL          : http://www.gnu.org/software/groff/
 </details>
 
 <details>
-<summary>grsync</summary>
+<summary>Имя пакета: grsync</summary>
 
 ```
 Из репозитор : fedora
@@ -15406,7 +15405,7 @@ URL          : http://www.opbyte.it/grsync/
 </details>
 
 <details>
-<summary>grub2-common</summary>
+<summary>Имя пакета: grub2-common</summary>
 
 ```
 Эпоха        : 1
@@ -15421,7 +15420,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-efi-ia32</summary>
+<summary>Имя пакета: grub2-efi-ia32</summary>
 
 ```
 Эпоха        : 1
@@ -15441,7 +15440,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-efi-ia32-cdboot</summary>
+<summary>Имя пакета: grub2-efi-ia32-cdboot</summary>
 
 ```
 Эпоха        : 1
@@ -15461,7 +15460,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-efi-x64</summary>
+<summary>Имя пакета: grub2-efi-x64</summary>
 
 ```
 Эпоха        : 1
@@ -15481,7 +15480,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-efi-x64-cdboot</summary>
+<summary>Имя пакета: grub2-efi-x64-cdboot</summary>
 
 ```
 Эпоха        : 1
@@ -15501,7 +15500,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-pc</summary>
+<summary>Имя пакета: grub2-pc</summary>
 
 ```
 Эпоха        : 1
@@ -15521,7 +15520,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-pc-modules</summary>
+<summary>Имя пакета: grub2-pc-modules</summary>
 
 ```
 Эпоха        : 1
@@ -15541,7 +15540,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-tools</summary>
+<summary>Имя пакета: grub2-tools</summary>
 
 ```
 Эпоха        : 1
@@ -15561,7 +15560,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-tools-efi</summary>
+<summary>Имя пакета: grub2-tools-efi</summary>
 
 ```
 Эпоха        : 1
@@ -15581,7 +15580,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-tools-extra</summary>
+<summary>Имя пакета: grub2-tools-extra</summary>
 
 ```
 Эпоха        : 1
@@ -15601,7 +15600,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grub2-tools-minimal</summary>
+<summary>Имя пакета: grub2-tools-minimal</summary>
 
 ```
 Эпоха        : 1
@@ -15621,7 +15620,7 @@ URL          : http://www.gnu.org/software/grub/
 </details>
 
 <details>
-<summary>grubby</summary>
+<summary>Имя пакета: grubby</summary>
 
 ```
 Из репозитор : anaconda
@@ -15636,7 +15635,7 @@ URL          : https://github.com/rhinstaller/grubby
 </details>
 
 <details>
-<summary>gsettings-desktop-schemas</summary>
+<summary>Имя пакета: gsettings-desktop-schemas</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15650,7 +15649,7 @@ URL          : https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas
 </details>
 
 <details>
-<summary>gsettings-desktop-schemas</summary>
+<summary>Имя пакета: gsettings-desktop-schemas</summary>
 
 ```
 Из репозитор : anaconda
@@ -15664,7 +15663,7 @@ URL          : https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas
 </details>
 
 <details>
-<summary>gsl</summary>
+<summary>Имя пакета: gsl</summary>
 
 ```
 Из репозитор : fedora
@@ -15678,7 +15677,7 @@ URL          : http://www.gnu.org/software/gsl/
 </details>
 
 <details>
-<summary>gsm</summary>
+<summary>Имя пакета: gsm</summary>
 
 ```
 Из репозитор : anaconda
@@ -15707,7 +15706,7 @@ URL          : http://www.quut.com/gsm/
 </details>
 
 <details>
-<summary>gsound</summary>
+<summary>Имя пакета: gsound</summary>
 
 ```
 Из репозитор : anaconda
@@ -15722,7 +15721,7 @@ URL          : https://wiki.gnome.org/Projects/GSound
 </details>
 
 <details>
-<summary>gspell</summary>
+<summary>Имя пакета: gspell</summary>
 
 ```
 Из репозитор : anaconda
@@ -15736,7 +15735,7 @@ URL          : https://wiki.gnome.org/Projects/gspell
 </details>
 
 <details>
-<summary>gssdp</summary>
+<summary>Имя пакета: gssdp</summary>
 
 ```
 Из репозитор : anaconda
@@ -15752,7 +15751,7 @@ URL          : http://www.gupnp.org/
 </details>
 
 <details>
-<summary>gssproxy</summary>
+<summary>Имя пакета: gssproxy</summary>
 
 ```
 Из репозитор : anaconda
@@ -15765,7 +15764,7 @@ URL          : https://github.com/gssapi/gssproxy
 </details>
 
 <details>
-<summary>gst-editing-services</summary>
+<summary>Имя пакета: gst-editing-services</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15779,7 +15778,7 @@ URL          : http://cgit.freedesktop.org/gstreamer/gst-editing-services/
 </details>
 
 <details>
-<summary>gstreamer1</summary>
+<summary>Имя пакета: gstreamer1</summary>
 
 ```
 Из репозитор : anaconda
@@ -15797,7 +15796,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1</summary>
+<summary>Имя пакета: gstreamer1</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15815,7 +15814,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-libav</summary>
+<summary>Имя пакета: gstreamer1-libav</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -15835,7 +15834,7 @@ URL          : https://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugin-openh264</summary>
+<summary>Имя пакета: gstreamer1-plugin-openh264</summary>
 
 ```
 Из репозитор : fedora-cisco-openh264
@@ -15851,7 +15850,7 @@ URL          : http://www.openh264.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-bad-free</summary>
+<summary>Имя пакета: gstreamer1-plugins-bad-free</summary>
 
 ```
 Из репозитор : anaconda
@@ -15868,7 +15867,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-bad-free</summary>
+<summary>Имя пакета: gstreamer1-plugins-bad-free</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15885,7 +15884,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-bad-freeworld</summary>
+<summary>Имя пакета: gstreamer1-plugins-bad-freeworld</summary>
 
 ```
 Из репозитор : rpmfusion-free-updates-testing
@@ -15902,7 +15901,7 @@ URL          : https://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-base</summary>
+<summary>Имя пакета: gstreamer1-plugins-base</summary>
 
 ```
 Из репозитор : anaconda
@@ -15922,7 +15921,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-base</summary>
+<summary>Имя пакета: gstreamer1-plugins-base</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15942,7 +15941,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-base-tools</summary>
+<summary>Имя пакета: gstreamer1-plugins-base-tools</summary>
 
 ```
 Из репозитор : updates-testing
@@ -15965,7 +15964,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-entrans</summary>
+<summary>Имя пакета: gstreamer1-plugins-entrans</summary>
 
 ```
 Из репозитор : fedora
@@ -15982,7 +15981,7 @@ URL          : http://gentrans.sourceforge.net/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-fc</summary>
+<summary>Имя пакета: gstreamer1-plugins-fc</summary>
 
 ```
 Из репозитор : fedora
@@ -15996,7 +15995,7 @@ URL          : http://xmms-fc.sourceforge.net
 </details>
 
 <details>
-<summary>gstreamer1-plugins-good</summary>
+<summary>Имя пакета: gstreamer1-plugins-good</summary>
 
 ```
 Из репозитор : anaconda
@@ -16017,7 +16016,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-good</summary>
+<summary>Имя пакета: gstreamer1-plugins-good</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16038,7 +16037,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-good-extras</summary>
+<summary>Имя пакета: gstreamer1-plugins-good-extras</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16059,7 +16058,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-good-gtk</summary>
+<summary>Имя пакета: gstreamer1-plugins-good-gtk</summary>
 
 ```
 Из репозитор : anaconda
@@ -16078,7 +16077,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-good-gtk</summary>
+<summary>Имя пакета: gstreamer1-plugins-good-gtk</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16097,7 +16096,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-good-qt</summary>
+<summary>Имя пакета: gstreamer1-plugins-good-qt</summary>
 
 ```
 Из репозитор : anaconda
@@ -16116,7 +16115,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-good-qt</summary>
+<summary>Имя пакета: gstreamer1-plugins-good-qt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16135,7 +16134,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-ugly</summary>
+<summary>Имя пакета: gstreamer1-plugins-ugly</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -16155,7 +16154,7 @@ URL          : https://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-ugly-free</summary>
+<summary>Имя пакета: gstreamer1-plugins-ugly-free</summary>
 
 ```
 Из репозитор : anaconda
@@ -16171,7 +16170,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-plugins-ugly-free</summary>
+<summary>Имя пакета: gstreamer1-plugins-ugly-free</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16187,7 +16186,7 @@ URL          : http://gstreamer.freedesktop.org/
 </details>
 
 <details>
-<summary>gstreamer1-svt-av1</summary>
+<summary>Имя пакета: gstreamer1-svt-av1</summary>
 
 ```
 Из репозитор : fedora
@@ -16200,7 +16199,7 @@ URL          : https://github.com/AOMediaCodec/SVT-AV1
 </details>
 
 <details>
-<summary>gstreamer1-vaapi</summary>
+<summary>Имя пакета: gstreamer1-vaapi</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16217,7 +16216,7 @@ URL          : https://cgit.freedesktop.org/gstreamer/gstreamer-vaapi
 </details>
 
 <details>
-<summary>gtk+</summary>
+<summary>Имя пакета: gtk+</summary>
 
 ```
 Эпоха        : 1
@@ -16235,7 +16234,7 @@ URL          : http://www.gtk.org/
 </details>
 
 <details>
-<summary>gtk+-devel</summary>
+<summary>Имя пакета: gtk+-devel</summary>
 
 ```
 Эпоха        : 1
@@ -16250,7 +16249,7 @@ URL          : http://www.gtk.org/
 </details>
 
 <details>
-<summary>gtk-murrine-engine</summary>
+<summary>Имя пакета: gtk-murrine-engine</summary>
 
 ```
 Из репозитор : fedora
@@ -16265,7 +16264,7 @@ URL          : http://www.cimitan.com/murrine/
 </details>
 
 <details>
-<summary>gtk-update-icon-cache</summary>
+<summary>Имя пакета: gtk-update-icon-cache</summary>
 
 ```
 Из репозитор : anaconda
@@ -16281,7 +16280,7 @@ URL          : http://www.gtk.org
 </details>
 
 <details>
-<summary>gtk-update-icon-cache</summary>
+<summary>Имя пакета: gtk-update-icon-cache</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16297,7 +16296,7 @@ URL          : http://www.gtk.org
 </details>
 
 <details>
-<summary>gtk-vnc2</summary>
+<summary>Имя пакета: gtk-vnc2</summary>
 
 ```
 Из репозитор : anaconda
@@ -16311,7 +16310,7 @@ URL          : https://wiki.gnome.org/Projects/gtk-vnc
 </details>
 
 <details>
-<summary>gtk2</summary>
+<summary>Имя пакета: gtk2</summary>
 
 ```
 Из репозитор : fedora
@@ -16327,7 +16326,7 @@ URL          : http://www.gtk.org
 </details>
 
 <details>
-<summary>gtk2-devel</summary>
+<summary>Имя пакета: gtk2-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -16343,7 +16342,7 @@ URL          : http://www.gtk.org
 </details>
 
 <details>
-<summary>gtk3</summary>
+<summary>Имя пакета: gtk3</summary>
 
 ```
 Из репозитор : anaconda
@@ -16361,7 +16360,7 @@ URL          : http://www.gtk.org
 </details>
 
 <details>
-<summary>gtk3</summary>
+<summary>Имя пакета: gtk3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16379,7 +16378,7 @@ URL          : http://www.gtk.org
 </details>
 
 <details>
-<summary>gtk4</summary>
+<summary>Имя пакета: gtk4</summary>
 
 ```
 Из репозитор : anaconda
@@ -16397,7 +16396,7 @@ URL          : https://www.gtk.org
 </details>
 
 <details>
-<summary>gtk4</summary>
+<summary>Имя пакета: gtk4</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16415,7 +16414,7 @@ URL          : https://www.gtk.org
 </details>
 
 <details>
-<summary>gtkhash</summary>
+<summary>Имя пакета: gtkhash</summary>
 
 ```
 Из репозитор : fedora
@@ -16438,7 +16437,7 @@ URL          : https://github.com/tristanheaven/gtkhash
 </details>
 
 <details>
-<summary>gtkimageview</summary>
+<summary>Имя пакета: gtkimageview</summary>
 
 ```
 Из репозитор : fedora
@@ -16452,7 +16451,7 @@ URL          : http://trac.bjourne.webfactional.com
 </details>
 
 <details>
-<summary>gtkmm30</summary>
+<summary>Имя пакета: gtkmm30</summary>
 
 ```
 Из репозитор : anaconda
@@ -16467,7 +16466,7 @@ URL          : https://www.gtkmm.org/
 </details>
 
 <details>
-<summary>gtksourceview3</summary>
+<summary>Имя пакета: gtksourceview3</summary>
 
 ```
 Из репозитор : fedora
@@ -16486,7 +16485,7 @@ URL          : https://wiki.gnome.org/Projects/GtkSourceView
 </details>
 
 <details>
-<summary>gtksourceview4</summary>
+<summary>Имя пакета: gtksourceview4</summary>
 
 ```
 Из репозитор : anaconda
@@ -16505,7 +16504,7 @@ URL          : https://wiki.gnome.org/Projects/GtkSourceView
 </details>
 
 <details>
-<summary>gtksourceview4</summary>
+<summary>Имя пакета: gtksourceview4</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16524,7 +16523,7 @@ URL          : https://wiki.gnome.org/Projects/GtkSourceView
 </details>
 
 <details>
-<summary>gtkspell3</summary>
+<summary>Имя пакета: gtkspell3</summary>
 
 ```
 Из репозитор : fedora
@@ -16539,7 +16538,7 @@ URL          : http://gtkspell.sourceforge.net/
 </details>
 
 <details>
-<summary>gtrayicon</summary>
+<summary>Имя пакета: gtrayicon</summary>
 
 ```
 Из репозитор : fedora
@@ -16556,7 +16555,7 @@ URL          : http://gtrayicon.sourceforge.net/
 </details>
 
 <details>
-<summary>gts</summary>
+<summary>Имя пакета: gts</summary>
 
 ```
 Из репозитор : fedora
@@ -16572,7 +16571,7 @@ URL          : http://gts.sourceforge.net/index.html
 </details>
 
 <details>
-<summary>guake</summary>
+<summary>Имя пакета: guake</summary>
 
 ```
 Из репозитор : fedora
@@ -16587,7 +16586,7 @@ URL          : http://guake-project.org/
 </details>
 
 <details>
-<summary>guile</summary>
+<summary>Имя пакета: guile</summary>
 
 ```
 Эпоха        : 5
@@ -16607,7 +16606,7 @@ URL          : http://www.gnu.org/software/guile/
 </details>
 
 <details>
-<summary>guile22</summary>
+<summary>Имя пакета: guile22</summary>
 
 ```
 Из репозитор : anaconda
@@ -16626,7 +16625,7 @@ URL          : http://www.gnu.org/software/guile/
 </details>
 
 <details>
-<summary>gupnp</summary>
+<summary>Имя пакета: gupnp</summary>
 
 ```
 Из репозитор : anaconda
@@ -16641,7 +16640,7 @@ URL          : http://www.gupnp.org/
 </details>
 
 <details>
-<summary>gupnp-av</summary>
+<summary>Имя пакета: gupnp-av</summary>
 
 ```
 Из репозитор : anaconda
@@ -16659,7 +16658,7 @@ URL          : http://www.gupnp.org/
 </details>
 
 <details>
-<summary>gupnp-dlna</summary>
+<summary>Имя пакета: gupnp-dlna</summary>
 
 ```
 Из репозитор : anaconda
@@ -16677,7 +16676,7 @@ URL          : http://www.gupnp.org/
 </details>
 
 <details>
-<summary>gupnp-igd</summary>
+<summary>Имя пакета: gupnp-igd</summary>
 
 ```
 Из репозитор : anaconda
@@ -16690,7 +16689,7 @@ URL          : https://wiki.gnome.org/Projects/GUPnP
 </details>
 
 <details>
-<summary>gutenprint</summary>
+<summary>Имя пакета: gutenprint</summary>
 
 ```
 Из репозитор : anaconda
@@ -16705,7 +16704,7 @@ URL          : http://gimp-print.sourceforge.net/
 </details>
 
 <details>
-<summary>gutenprint-cups</summary>
+<summary>Имя пакета: gutenprint-cups</summary>
 
 ```
 Из репозитор : anaconda
@@ -16719,7 +16718,7 @@ URL          : http://gimp-print.sourceforge.net/
 </details>
 
 <details>
-<summary>gutenprint-libs</summary>
+<summary>Имя пакета: gutenprint-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -16732,7 +16731,7 @@ URL          : http://gimp-print.sourceforge.net/
 </details>
 
 <details>
-<summary>gutenprint-libs-ui</summary>
+<summary>Имя пакета: gutenprint-libs-ui</summary>
 
 ```
 Из репозитор : fedora
@@ -16746,7 +16745,7 @@ URL          : http://gimp-print.sourceforge.net/
 </details>
 
 <details>
-<summary>gutenprint-plugin</summary>
+<summary>Имя пакета: gutenprint-plugin</summary>
 
 ```
 Из репозитор : fedora
@@ -16759,7 +16758,7 @@ URL          : http://gimp-print.sourceforge.net/
 </details>
 
 <details>
-<summary>gv</summary>
+<summary>Имя пакета: gv</summary>
 
 ```
 Из репозитор : fedora
@@ -16773,7 +16772,7 @@ URL          : http://www.gnu.org/software/gv/
 </details>
 
 <details>
-<summary>gvfs</summary>
+<summary>Имя пакета: gvfs</summary>
 
 ```
 Из репозитор : anaconda
@@ -16787,7 +16786,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs</summary>
+<summary>Имя пакета: gvfs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16801,7 +16800,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-afc</summary>
+<summary>Имя пакета: gvfs-afc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16815,7 +16814,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-afp</summary>
+<summary>Имя пакета: gvfs-afp</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16830,7 +16829,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-archive</summary>
+<summary>Имя пакета: gvfs-archive</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16844,7 +16843,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-client</summary>
+<summary>Имя пакета: gvfs-client</summary>
 
 ```
 Из репозитор : anaconda
@@ -16858,7 +16857,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-client</summary>
+<summary>Имя пакета: gvfs-client</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16872,7 +16871,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-devel</summary>
+<summary>Имя пакета: gvfs-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16886,7 +16885,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-fuse</summary>
+<summary>Имя пакета: gvfs-fuse</summary>
 
 ```
 Из репозитор : anaconda
@@ -16900,7 +16899,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-fuse</summary>
+<summary>Имя пакета: gvfs-fuse</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16914,7 +16913,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-goa</summary>
+<summary>Имя пакета: gvfs-goa</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16928,7 +16927,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-gphoto2</summary>
+<summary>Имя пакета: gvfs-gphoto2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16943,7 +16942,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-mtp</summary>
+<summary>Имя пакета: gvfs-mtp</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16957,7 +16956,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-nfs</summary>
+<summary>Имя пакета: gvfs-nfs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16971,7 +16970,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-smb</summary>
+<summary>Имя пакета: gvfs-smb</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16985,7 +16984,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvfs-tests</summary>
+<summary>Имя пакета: gvfs-tests</summary>
 
 ```
 Из репозитор : updates-testing
@@ -16999,7 +16998,7 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 </details>
 
 <details>
-<summary>gvnc</summary>
+<summary>Имя пакета: gvnc</summary>
 
 ```
 Из репозитор : anaconda
@@ -17014,7 +17013,7 @@ URL          : https://wiki.gnome.org/Projects/gtk-vnc
 </details>
 
 <details>
-<summary>gzip</summary>
+<summary>Имя пакета: gzip</summary>
 
 ```
 Из репозитор : anaconda
@@ -17031,7 +17030,7 @@ URL          : http://www.gzip.org/
 </details>
 
 <details>
-<summary>hamlib</summary>
+<summary>Имя пакета: hamlib</summary>
 
 ```
 Из репозитор : fedora
@@ -17049,7 +17048,7 @@ URL          : http://www.hamlib.org
 </details>
 
 <details>
-<summary>harfbuzz</summary>
+<summary>Имя пакета: harfbuzz</summary>
 
 ```
 Из репозитор : anaconda
@@ -17062,7 +17061,7 @@ URL          : https://harfbuzz.github.io/
 </details>
 
 <details>
-<summary>harfbuzz-devel</summary>
+<summary>Имя пакета: harfbuzz-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -17076,7 +17075,7 @@ URL          : https://harfbuzz.github.io/
 </details>
 
 <details>
-<summary>harfbuzz-icu</summary>
+<summary>Имя пакета: harfbuzz-icu</summary>
 
 ```
 Из репозитор : anaconda
@@ -17089,7 +17088,7 @@ URL          : https://harfbuzz.github.io/
 </details>
 
 <details>
-<summary>hashcat</summary>
+<summary>Имя пакета: hashcat</summary>
 
 ```
 Из репозитор : fedora
@@ -17107,7 +17106,7 @@ URL          : https://github.com/hashcat/hashcat
 </details>
 
 <details>
-<summary>hashcat-doc</summary>
+<summary>Имя пакета: hashcat-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -17120,7 +17119,7 @@ URL          : https://github.com/hashcat/hashcat
 </details>
 
 <details>
-<summary>hdf-libs</summary>
+<summary>Имя пакета: hdf-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -17133,7 +17132,7 @@ URL          : https://portal.hdfgroup.org/
 </details>
 
 <details>
-<summary>hdf5</summary>
+<summary>Имя пакета: hdf5</summary>
 
 ```
 Из репозитор : fedora
@@ -17152,7 +17151,7 @@ URL          : https://portal.hdfgroup.org/display/HDF5/HDF5
 </details>
 
 <details>
-<summary>hexedit</summary>
+<summary>Имя пакета: hexedit</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17167,7 +17166,7 @@ URL          : http://rigaux.org/hexedit.html
 </details>
 
 <details>
-<summary>hexer</summary>
+<summary>Имя пакета: hexer</summary>
 
 ```
 Из репозитор : fedora
@@ -17183,7 +17182,7 @@ URL          : http://devel.ringlet.net/editors/hexer/
 </details>
 
 <details>
-<summary>hfsplus-tools</summary>
+<summary>Имя пакета: hfsplus-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -17209,7 +17208,7 @@ URL          : http://gentoo-wiki.com/HOWTO_hfsplus
 </details>
 
 <details>
-<summary>hicolor-icon-theme</summary>
+<summary>Имя пакета: hicolor-icon-theme</summary>
 
 ```
 Из репозитор : anaconda
@@ -17222,7 +17221,7 @@ URL          : https://www.freedesktop.org/wiki/Software/icon-theme/
 </details>
 
 <details>
-<summary>hiera</summary>
+<summary>Имя пакета: hiera</summary>
 
 ```
 Из репозитор : fedora
@@ -17235,7 +17234,7 @@ URL          : http://projects.puppetlabs.com/projects/hiera/
 </details>
 
 <details>
-<summary>highcontrast-icon-theme</summary>
+<summary>Имя пакета: highcontrast-icon-theme</summary>
 
 ```
 Из репозитор : anaconda
@@ -17248,7 +17247,7 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-themes-extra
 </details>
 
 <details>
-<summary>hivex</summary>
+<summary>Имя пакета: hivex</summary>
 
 ```
 Из репозитор : fedora
@@ -17288,7 +17287,7 @@ URL          : http://libguestfs.org/
 </details>
 
 <details>
-<summary>hostname</summary>
+<summary>Имя пакета: hostname</summary>
 
 ```
 Из репозитор : anaconda
@@ -17302,7 +17301,7 @@ URL          : http://packages.qa.debian.org/h/hostname.html
 </details>
 
 <details>
-<summary>hplip</summary>
+<summary>Имя пакета: hplip</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17316,7 +17315,7 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 </details>
 
 <details>
-<summary>hplip-common</summary>
+<summary>Имя пакета: hplip-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -17329,7 +17328,7 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 </details>
 
 <details>
-<summary>hplip-common</summary>
+<summary>Имя пакета: hplip-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17342,7 +17341,7 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 </details>
 
 <details>
-<summary>hplip-libs</summary>
+<summary>Имя пакета: hplip-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -17355,7 +17354,7 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 </details>
 
 <details>
-<summary>hplip-libs</summary>
+<summary>Имя пакета: hplip-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17368,7 +17367,7 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 </details>
 
 <details>
-<summary>hsa-rocr-dev</summary>
+<summary>Имя пакета: hsa-rocr-dev</summary>
 
 ```
 Из репозитор : ROCm
@@ -17383,7 +17382,7 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 </details>
 
 <details>
-<summary>hsakmt</summary>
+<summary>Имя пакета: hsakmt</summary>
 
 ```
 Из репозитор : fedora
@@ -17397,7 +17396,7 @@ URL          : https://github.com/RadeonOpenCompute/ROCm
 </details>
 
 <details>
-<summary>ht-caladea-fonts</summary>
+<summary>Имя пакета: ht-caladea-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -17420,7 +17419,7 @@ URL          : https://github.com/huertatipografica/Caladea
 </details>
 
 <details>
-<summary>htop</summary>
+<summary>Имя пакета: htop</summary>
 
 ```
 Из репозитор : fedora
@@ -17434,7 +17433,7 @@ URL          : http://hisham.hm/htop/
 </details>
 
 <details>
-<summary>http-parser</summary>
+<summary>Имя пакета: http-parser</summary>
 
 ```
 Из репозитор : fedora
@@ -17452,7 +17451,7 @@ URL          : https://github.com/nodejs/http-parser
 </details>
 
 <details>
-<summary>httpd</summary>
+<summary>Имя пакета: httpd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17466,7 +17465,7 @@ URL          : https://httpd.apache.org/
 </details>
 
 <details>
-<summary>httpd</summary>
+<summary>Имя пакета: httpd</summary>
 
 ```
 Из репозитор : anaconda
@@ -17480,7 +17479,7 @@ URL          : https://httpd.apache.org/
 </details>
 
 <details>
-<summary>httpd-filesystem</summary>
+<summary>Имя пакета: httpd-filesystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17495,7 +17494,7 @@ URL          : https://httpd.apache.org/
 </details>
 
 <details>
-<summary>httpd-filesystem</summary>
+<summary>Имя пакета: httpd-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -17510,7 +17509,7 @@ URL          : https://httpd.apache.org/
 </details>
 
 <details>
-<summary>httpd-tools</summary>
+<summary>Имя пакета: httpd-tools</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17524,7 +17523,7 @@ URL          : https://httpd.apache.org/
 </details>
 
 <details>
-<summary>httpd-tools</summary>
+<summary>Имя пакета: httpd-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -17538,7 +17537,7 @@ URL          : https://httpd.apache.org/
 </details>
 
 <details>
-<summary>humanity-icon-theme</summary>
+<summary>Имя пакета: humanity-icon-theme</summary>
 
 ```
 Из репозитор : fedora
@@ -17552,7 +17551,7 @@ URL          : https://launchpad.net/humanity/
 </details>
 
 <details>
-<summary>hunspell</summary>
+<summary>Имя пакета: hunspell</summary>
 
 ```
 Из репозитор : anaconda
@@ -17568,7 +17567,7 @@ URL          : https://github.com/hunspell/hunspell
 </details>
 
 <details>
-<summary>hunspell-en</summary>
+<summary>Имя пакета: hunspell-en</summary>
 
 ```
 Из репозитор : anaconda
@@ -17581,7 +17580,7 @@ URL          : http://wordlist.sourceforge.net/
 </details>
 
 <details>
-<summary>hunspell-en-GB</summary>
+<summary>Имя пакета: hunspell-en-GB</summary>
 
 ```
 Из репозитор : anaconda
@@ -17594,7 +17593,7 @@ URL          : http://wordlist.sourceforge.net/
 </details>
 
 <details>
-<summary>hunspell-en-US</summary>
+<summary>Имя пакета: hunspell-en-US</summary>
 
 ```
 Из репозитор : anaconda
@@ -17607,7 +17606,7 @@ URL          : http://wordlist.sourceforge.net/
 </details>
 
 <details>
-<summary>hunspell-filesystem</summary>
+<summary>Имя пакета: hunspell-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -17621,7 +17620,7 @@ URL          : https://github.com/hunspell/hunspell
 </details>
 
 <details>
-<summary>hunspell-ru</summary>
+<summary>Имя пакета: hunspell-ru</summary>
 
 ```
 Эпоха        : 1
@@ -17635,7 +17634,7 @@ URL          : http://scon155.phys.msu.su/eng/lebedev.html
 </details>
 
 <details>
-<summary>hwdata</summary>
+<summary>Имя пакета: hwdata</summary>
 
 ```
 Из репозитор : anaconda
@@ -17649,7 +17648,7 @@ URL          : https://github.com/vcrhonek/hwdata
 </details>
 
 <details>
-<summary>hwdata</summary>
+<summary>Имя пакета: hwdata</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17663,7 +17662,7 @@ URL          : https://github.com/vcrhonek/hwdata
 </details>
 
 <details>
-<summary>hwinfo</summary>
+<summary>Имя пакета: hwinfo</summary>
 
 ```
 Из репозитор : fedora
@@ -17677,7 +17676,7 @@ URL          : https://github.com/openSUSE/hwinfo
 </details>
 
 <details>
-<summary>hwinfo-libs</summary>
+<summary>Имя пакета: hwinfo-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -17690,7 +17689,7 @@ URL          : https://github.com/openSUSE/hwinfo
 </details>
 
 <details>
-<summary>hwloc-libs</summary>
+<summary>Имя пакета: hwloc-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -17703,7 +17702,7 @@ URL          : http://www.open-mpi.org/projects/hwloc/
 </details>
 
 <details>
-<summary>hyperv-daemons</summary>
+<summary>Имя пакета: hyperv-daemons</summary>
 
 ```
 Из репозитор : anaconda
@@ -17717,7 +17716,7 @@ URL          : http://www.kernel.org
 </details>
 
 <details>
-<summary>hyperv-daemons-license</summary>
+<summary>Имя пакета: hyperv-daemons-license</summary>
 
 ```
 Из репозитор : anaconda
@@ -17730,7 +17729,7 @@ URL          : http://www.kernel.org
 </details>
 
 <details>
-<summary>hypervfcopyd</summary>
+<summary>Имя пакета: hypervfcopyd</summary>
 
 ```
 Из репозитор : anaconda
@@ -17747,7 +17746,7 @@ URL          : http://www.kernel.org
 </details>
 
 <details>
-<summary>hypervkvpd</summary>
+<summary>Имя пакета: hypervkvpd</summary>
 
 ```
 Из репозитор : anaconda
@@ -17764,7 +17763,7 @@ URL          : http://www.kernel.org
 </details>
 
 <details>
-<summary>hypervvssd</summary>
+<summary>Имя пакета: hypervvssd</summary>
 
 ```
 Из репозитор : anaconda
@@ -17782,7 +17781,7 @@ URL          : http://www.kernel.org
 </details>
 
 <details>
-<summary>hyphen</summary>
+<summary>Имя пакета: hyphen</summary>
 
 ```
 Из репозитор : anaconda
@@ -17795,7 +17794,7 @@ URL          : http://hunspell.sf.net
 </details>
 
 <details>
-<summary>hyphen-en</summary>
+<summary>Имя пакета: hyphen-en</summary>
 
 ```
 Из репозитор : anaconda
@@ -17808,7 +17807,7 @@ URL          : http://hunspell.sf.net
 </details>
 
 <details>
-<summary>hyphen-ru</summary>
+<summary>Имя пакета: hyphen-ru</summary>
 
 ```
 Из репозитор : fedora
@@ -17821,7 +17820,7 @@ URL          : https://ctan.org/tex-archive/language/hyph-utf8
 </details>
 
 <details>
-<summary>i3</summary>
+<summary>Имя пакета: i3</summary>
 
 ```
 Из репозитор : fedora
@@ -17839,7 +17838,7 @@ URL          : https://i3wm.org
 </details>
 
 <details>
-<summary>i3lock</summary>
+<summary>Имя пакета: i3lock</summary>
 
 ```
 Из репозитор : fedora
@@ -17868,7 +17867,7 @@ URL          : https://i3wm.org/i3lock/
 </details>
 
 <details>
-<summary>i3status</summary>
+<summary>Имя пакета: i3status</summary>
 
 ```
 Из репозитор : fedora
@@ -17885,7 +17884,7 @@ URL          : https://i3wm.org/i3status/
 </details>
 
 <details>
-<summary>iaxclient</summary>
+<summary>Имя пакета: iaxclient</summary>
 
 ```
 Из репозитор : fedora
@@ -17906,7 +17905,7 @@ URL          : http://iaxclient.wiki.sourceforge.net/
 </details>
 
 <details>
-<summary>iaxclient-libiax</summary>
+<summary>Имя пакета: iaxclient-libiax</summary>
 
 ```
 Из репозитор : fedora
@@ -17920,7 +17919,7 @@ URL          : http://iaxclient.wiki.sourceforge.net/
 </details>
 
 <details>
-<summary>ibus</summary>
+<summary>Имя пакета: ibus</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17933,7 +17932,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-anthy</summary>
+<summary>Имя пакета: ibus-anthy</summary>
 
 ```
 Из репозитор : anaconda
@@ -17947,7 +17946,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-anthy</summary>
+<summary>Имя пакета: ibus-anthy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17961,7 +17960,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-anthy-python</summary>
+<summary>Имя пакета: ibus-anthy-python</summary>
 
 ```
 Из репозитор : anaconda
@@ -17974,7 +17973,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-anthy-python</summary>
+<summary>Имя пакета: ibus-anthy-python</summary>
 
 ```
 Из репозитор : updates-testing
@@ -17987,7 +17986,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-gtk2</summary>
+<summary>Имя пакета: ibus-gtk2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18000,7 +17999,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-gtk3</summary>
+<summary>Имя пакета: ibus-gtk3</summary>
 
 ```
 Из репозитор : anaconda
@@ -18013,7 +18012,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-gtk3</summary>
+<summary>Имя пакета: ibus-gtk3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18026,7 +18025,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-hangul</summary>
+<summary>Имя пакета: ibus-hangul</summary>
 
 ```
 Из репозитор : anaconda
@@ -18040,7 +18039,7 @@ URL          : https://github.com/libhangul/ibus-hangul
 </details>
 
 <details>
-<summary>ibus-libpinyin</summary>
+<summary>Имя пакета: ibus-libpinyin</summary>
 
 ```
 Из репозитор : anaconda
@@ -18054,7 +18053,7 @@ URL          : https://github.com/libpinyin/ibus-libpinyin
 </details>
 
 <details>
-<summary>ibus-libs</summary>
+<summary>Имя пакета: ibus-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -18067,7 +18066,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-libs</summary>
+<summary>Имя пакета: ibus-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18080,7 +18079,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-libzhuyin</summary>
+<summary>Имя пакета: ibus-libzhuyin</summary>
 
 ```
 Из репозитор : anaconda
@@ -18094,7 +18093,7 @@ URL          : https://github.com/libzhuyin/ibus-libzhuyin
 </details>
 
 <details>
-<summary>ibus-m17n</summary>
+<summary>Имя пакета: ibus-m17n</summary>
 
 ```
 Из репозитор : anaconda
@@ -18108,7 +18107,7 @@ URL          : https://github.com/ibus/ibus-m17n
 </details>
 
 <details>
-<summary>ibus-m17n</summary>
+<summary>Имя пакета: ibus-m17n</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18122,7 +18121,7 @@ URL          : https://github.com/ibus/ibus-m17n
 </details>
 
 <details>
-<summary>ibus-setup</summary>
+<summary>Имя пакета: ibus-setup</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18135,7 +18134,7 @@ URL          : https://github.com/ibus/ibus/wiki
 </details>
 
 <details>
-<summary>ibus-typing-booster</summary>
+<summary>Имя пакета: ibus-typing-booster</summary>
 
 ```
 Из репозитор : anaconda
@@ -18149,7 +18148,7 @@ URL          : https://mike-fabian.github.io/ibus-typing-booster/
 </details>
 
 <details>
-<summary>ibus-typing-booster</summary>
+<summary>Имя пакета: ibus-typing-booster</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18163,7 +18162,7 @@ URL          : https://mike-fabian.github.io/ibus-typing-booster/
 </details>
 
 <details>
-<summary>iceauth</summary>
+<summary>Имя пакета: iceauth</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18178,7 +18177,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>iftop</summary>
+<summary>Имя пакета: iftop</summary>
 
 ```
 Из репозитор : fedora
@@ -18194,7 +18193,7 @@ URL          : http://www.ex-parrot.com/~pdw/iftop/
 </details>
 
 <details>
-<summary>iio-sensor-proxy</summary>
+<summary>Имя пакета: iio-sensor-proxy</summary>
 
 ```
 Из репозитор : anaconda
@@ -18207,7 +18206,7 @@ URL          : https://github.com/hadess/iio-sensor-proxy
 </details>
 
 <details>
-<summary>ilbc</summary>
+<summary>Имя пакета: ilbc</summary>
 
 ```
 Из репозитор : fedora
@@ -18226,7 +18225,7 @@ URL          : https://github.com/TimothyGu/libilbc
 </details>
 
 <details>
-<summary>ima-evm-utils</summary>
+<summary>Имя пакета: ima-evm-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -18244,7 +18243,7 @@ URL          : http://linux-ima.sourceforge.net/
 </details>
 
 <details>
-<summary>imlib2</summary>
+<summary>Имя пакета: imlib2</summary>
 
 ```
 Из репозитор : fedora
@@ -18263,7 +18262,7 @@ URL          : http://docs.enlightenment.org/api/imlib2/html/
 </details>
 
 <details>
-<summary>incron</summary>
+<summary>Имя пакета: incron</summary>
 
 ```
 Из репозитор : fedora
@@ -18280,7 +18279,7 @@ URL          : https://github.com/ar-/incron
 </details>
 
 <details>
-<summary>info</summary>
+<summary>Имя пакета: info</summary>
 
 ```
 Из репозитор : fedora
@@ -18295,7 +18294,7 @@ URL          : http://www.gnu.org/software/texinfo/
 </details>
 
 <details>
-<summary>inih</summary>
+<summary>Имя пакета: inih</summary>
 
 ```
 Из репозитор : anaconda
@@ -18310,7 +18309,7 @@ URL          : https://github.com/benhoyt/inih
 </details>
 
 <details>
-<summary>initscripts</summary>
+<summary>Имя пакета: initscripts</summary>
 
 ```
 Из репозитор : anaconda
@@ -18324,7 +18323,7 @@ URL          : https://github.com/fedora-sysv/initscripts
 </details>
 
 <details>
-<summary>inkscape</summary>
+<summary>Имя пакета: inkscape</summary>
 
 ```
 Из репозитор : fedora
@@ -18345,7 +18344,7 @@ URL          : https://inkscape.org/
 </details>
 
 <details>
-<summary>inkscape-docs</summary>
+<summary>Имя пакета: inkscape-docs</summary>
 
 ```
 Из репозитор : fedora
@@ -18359,7 +18358,7 @@ URL          : https://inkscape.org/
 </details>
 
 <details>
-<summary>inkscape-psd</summary>
+<summary>Имя пакета: inkscape-psd</summary>
 
 ```
 Из репозитор : fedora
@@ -18372,7 +18371,7 @@ URL          : http://pernsteiner.org/inkscape/psd_import/
 </details>
 
 <details>
-<summary>inkscape-view</summary>
+<summary>Имя пакета: inkscape-view</summary>
 
 ```
 Из репозитор : fedora
@@ -18386,7 +18385,7 @@ URL          : https://inkscape.org/
 </details>
 
 <details>
-<summary>intel-mediasdk</summary>
+<summary>Имя пакета: intel-mediasdk</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18405,7 +18404,7 @@ URL          : http://mediasdk.intel.com
 </details>
 
 <details>
-<summary>iotop</summary>
+<summary>Имя пакета: iotop</summary>
 
 ```
 Из репозитор : fedora
@@ -18421,7 +18420,7 @@ URL          : http://guichaz.free.fr/iotop/
 </details>
 
 <details>
-<summary>ipcalc</summary>
+<summary>Имя пакета: ipcalc</summary>
 
 ```
 Из репозитор : anaconda
@@ -18438,7 +18437,7 @@ URL          : https://gitlab.com/ipcalc/ipcalc
 </details>
 
 <details>
-<summary>iproute</summary>
+<summary>Имя пакета: iproute</summary>
 
 ```
 Из репозитор : anaconda
@@ -18453,7 +18452,7 @@ URL          : http://kernel.org/pub/linux/utils/net/iproute2/
 </details>
 
 <details>
-<summary>iproute-tc</summary>
+<summary>Имя пакета: iproute-tc</summary>
 
 ```
 Из репозитор : anaconda
@@ -18468,7 +18467,7 @@ URL          : http://kernel.org/pub/linux/utils/net/iproute2/
 </details>
 
 <details>
-<summary>ipset</summary>
+<summary>Имя пакета: ipset</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18494,7 +18493,7 @@ URL          : http://ipset.netfilter.org/
 </details>
 
 <details>
-<summary>ipset-libs</summary>
+<summary>Имя пакета: ipset-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -18507,7 +18506,7 @@ URL          : http://ipset.netfilter.org/
 </details>
 
 <details>
-<summary>ipset-libs</summary>
+<summary>Имя пакета: ipset-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18520,7 +18519,7 @@ URL          : http://ipset.netfilter.org/
 </details>
 
 <details>
-<summary>iptables-compat</summary>
+<summary>Имя пакета: iptables-compat</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18535,7 +18534,7 @@ URL          : https://www.netfilter.org/projects/iptables
 </details>
 
 <details>
-<summary>iptables-legacy</summary>
+<summary>Имя пакета: iptables-legacy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18552,7 +18551,7 @@ URL          : https://www.netfilter.org/projects/iptables
 </details>
 
 <details>
-<summary>iptables-legacy-libs</summary>
+<summary>Имя пакета: iptables-legacy-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18571,7 +18570,7 @@ URL          : https://www.netfilter.org/projects/iptables
 </details>
 
 <details>
-<summary>iptables-libs</summary>
+<summary>Имя пакета: iptables-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -18590,7 +18589,7 @@ URL          : http://www.netfilter.org/projects/iptables
 </details>
 
 <details>
-<summary>iptables-libs</summary>
+<summary>Имя пакета: iptables-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18606,7 +18605,7 @@ URL          : https://www.netfilter.org/projects/iptables
 </details>
 
 <details>
-<summary>iptables-nft</summary>
+<summary>Имя пакета: iptables-nft</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18619,7 +18618,7 @@ URL          : https://www.netfilter.org/projects/iptables
 </details>
 
 <details>
-<summary>iptables-services</summary>
+<summary>Имя пакета: iptables-services</summary>
 
 ```
 Из репозитор : fedora
@@ -18635,7 +18634,7 @@ URL          : http://www.netfilter.org/projects/iptables
 </details>
 
 <details>
-<summary>iptables-utils</summary>
+<summary>Имя пакета: iptables-utils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18652,7 +18651,7 @@ URL          : https://www.netfilter.org/projects/iptables
 </details>
 
 <details>
-<summary>iptstate</summary>
+<summary>Имя пакета: iptstate</summary>
 
 ```
 Из репозитор : anaconda
@@ -18683,7 +18682,7 @@ URL          : http://www.phildev.net/iptstate/
 </details>
 
 <details>
-<summary>iputils</summary>
+<summary>Имя пакета: iputils</summary>
 
 ```
 Из репозитор : anaconda
@@ -18699,7 +18698,7 @@ URL          : https://github.com/iputils/iputils
 </details>
 
 <details>
-<summary>iputils</summary>
+<summary>Имя пакета: iputils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18715,7 +18714,7 @@ URL          : https://github.com/iputils/iputils
 </details>
 
 <details>
-<summary>ipw2100-firmware</summary>
+<summary>Имя пакета: ipw2100-firmware</summary>
 
 ```
 Из репозитор : anaconda
@@ -18730,7 +18729,7 @@ URL          : http://ipw2100.sourceforge.net/firmware.php
 </details>
 
 <details>
-<summary>ipw2200-firmware</summary>
+<summary>Имя пакета: ipw2200-firmware</summary>
 
 ```
 Из репозитор : anaconda
@@ -18745,7 +18744,7 @@ URL          : http://ipw2200.sourceforge.net/firmware.php
 </details>
 
 <details>
-<summary>ipxe-roms-qemu</summary>
+<summary>Имя пакета: ipxe-roms-qemu</summary>
 
 ```
 Из репозитор : anaconda
@@ -18763,7 +18762,7 @@ URL          : http://ipxe.org/
 </details>
 
 <details>
-<summary>iscsi-initiator-utils</summary>
+<summary>Имя пакета: iscsi-initiator-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -18779,7 +18778,7 @@ URL          : http://www.open-iscsi.org
 </details>
 
 <details>
-<summary>iscsi-initiator-utils-iscsiuio</summary>
+<summary>Имя пакета: iscsi-initiator-utils-iscsiuio</summary>
 
 ```
 Из репозитор : anaconda
@@ -18793,7 +18792,7 @@ URL          : http://www.open-iscsi.org
 </details>
 
 <details>
-<summary>isl</summary>
+<summary>Имя пакета: isl</summary>
 
 ```
 Из репозитор : anaconda
@@ -18813,7 +18812,7 @@ URL          : http://isl.gforge.inria.fr/
 </details>
 
 <details>
-<summary>isns-utils-libs</summary>
+<summary>Имя пакета: isns-utils-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -18826,7 +18825,7 @@ URL          : https://github.com/open-iscsi/open-isns
 </details>
 
 <details>
-<summary>iso-codes</summary>
+<summary>Имя пакета: iso-codes</summary>
 
 ```
 Из репозитор : anaconda
@@ -18841,7 +18840,7 @@ URL          : https://salsa.debian.org/iso-codes-team/iso-codes
 </details>
 
 <details>
-<summary>iso-codes</summary>
+<summary>Имя пакета: iso-codes</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18856,7 +18855,7 @@ URL          : https://salsa.debian.org/iso-codes-team/iso-codes
 </details>
 
 <details>
-<summary>isomd5sum</summary>
+<summary>Имя пакета: isomd5sum</summary>
 
 ```
 Эпоха        : 1
@@ -18871,7 +18870,7 @@ URL          : https://github.com/rhinstaller/isomd5sum
 </details>
 
 <details>
-<summary>itcl</summary>
+<summary>Имя пакета: itcl</summary>
 
 ```
 Из репозитор : fedora
@@ -18885,7 +18884,7 @@ URL          : http://incrtcl.sourceforge.net/itcl/
 </details>
 
 <details>
-<summary>itop</summary>
+<summary>Имя пакета: itop</summary>
 
 ```
 Из репозитор : fedora
@@ -18898,7 +18897,7 @@ URL          : https://github.com/kargig/itop
 </details>
 
 <details>
-<summary>iw</summary>
+<summary>Имя пакета: iw</summary>
 
 ```
 Из репозитор : anaconda
@@ -18914,7 +18913,7 @@ URL          : http://wireless.kernel.org/en/users/Documentation/iw
 </details>
 
 <details>
-<summary>iwl100-firmware</summary>
+<summary>Имя пакета: iwl100-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18930,7 +18929,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl1000-firmware</summary>
+<summary>Имя пакета: iwl1000-firmware</summary>
 
 ```
 Эпоха        : 1
@@ -18947,7 +18946,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl105-firmware</summary>
+<summary>Имя пакета: iwl105-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18963,7 +18962,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl135-firmware</summary>
+<summary>Имя пакета: iwl135-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18979,7 +18978,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl2000-firmware</summary>
+<summary>Имя пакета: iwl2000-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -18995,7 +18994,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl2030-firmware</summary>
+<summary>Имя пакета: iwl2030-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19011,7 +19010,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl3160-firmware</summary>
+<summary>Имя пакета: iwl3160-firmware</summary>
 
 ```
 Эпоха        : 1
@@ -19027,7 +19026,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl3945-firmware</summary>
+<summary>Имя пакета: iwl3945-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19042,7 +19041,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl4965-firmware</summary>
+<summary>Имя пакета: iwl4965-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19057,7 +19056,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl5000-firmware</summary>
+<summary>Имя пакета: iwl5000-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19072,7 +19071,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl5150-firmware</summary>
+<summary>Имя пакета: iwl5150-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19087,7 +19086,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl6000-firmware</summary>
+<summary>Имя пакета: iwl6000-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19102,7 +19101,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl6000g2a-firmware</summary>
+<summary>Имя пакета: iwl6000g2a-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19117,7 +19116,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl6000g2b-firmware</summary>
+<summary>Имя пакета: iwl6000g2b-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19132,7 +19131,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl6050-firmware</summary>
+<summary>Имя пакета: iwl6050-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19147,7 +19146,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>iwl7260-firmware</summary>
+<summary>Имя пакета: iwl7260-firmware</summary>
 
 ```
 Эпоха        : 1
@@ -19163,7 +19162,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>jacop</summary>
+<summary>Имя пакета: jacop</summary>
 
 ```
 Из репозитор : fedora
@@ -19180,7 +19179,7 @@ URL          : http://jacop.osolpro.com/
 </details>
 
 <details>
-<summary>jansson</summary>
+<summary>Имя пакета: jansson</summary>
 
 ```
 Из репозитор : anaconda
@@ -19193,7 +19192,7 @@ URL          : http://www.digip.org/jansson/
 </details>
 
 <details>
-<summary>jasper-libs</summary>
+<summary>Имя пакета: jasper-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -19206,7 +19205,7 @@ URL          : http://www.ece.uvic.ca/~frodo/jasper/
 </details>
 
 <details>
-<summary>jasper-libs</summary>
+<summary>Имя пакета: jasper-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19219,7 +19218,7 @@ URL          : http://www.ece.uvic.ca/~frodo/jasper/
 </details>
 
 <details>
-<summary>java-11-openjdk-headless</summary>
+<summary>Имя пакета: java-11-openjdk-headless</summary>
 
 ```
 Эпоха        : 1
@@ -19233,7 +19232,7 @@ URL          : http://openjdk.java.net/
 </details>
 
 <details>
-<summary>javapackages-filesystem</summary>
+<summary>Имя пакета: javapackages-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -19247,7 +19246,7 @@ URL          : https://github.com/fedora-java/javapackages
 </details>
 
 <details>
-<summary>javapackages-tools</summary>
+<summary>Имя пакета: javapackages-tools</summary>
 
 ```
 Из репозитор : fedora
@@ -19260,7 +19259,7 @@ URL          : https://github.com/fedora-java/javapackages
 </details>
 
 <details>
-<summary>jbig2dec-libs</summary>
+<summary>Имя пакета: jbig2dec-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -19279,7 +19278,7 @@ URL          : http://jbig2dec.sourceforge.net/
 </details>
 
 <details>
-<summary>jbigkit-libs</summary>
+<summary>Имя пакета: jbigkit-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -19303,7 +19302,7 @@ URL          : http://www.cl.cam.ac.uk/~mgk25/jbigkit/
 </details>
 
 <details>
-<summary>jline-reader</summary>
+<summary>Имя пакета: jline-reader</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19324,7 +19323,7 @@ URL          : https://github.com/jline/jline3
 </details>
 
 <details>
-<summary>jline-style</summary>
+<summary>Имя пакета: jline-style</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19345,7 +19344,7 @@ URL          : https://github.com/jline/jline3
 </details>
 
 <details>
-<summary>jline-terminal</summary>
+<summary>Имя пакета: jline-terminal</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19365,7 +19364,7 @@ URL          : https://github.com/jline/jline3
 </details>
 
 <details>
-<summary>jline-terminal-jna</summary>
+<summary>Имя пакета: jline-terminal-jna</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19385,7 +19384,7 @@ URL          : https://github.com/jline/jline3
 </details>
 
 <details>
-<summary>jna</summary>
+<summary>Имя пакета: jna</summary>
 
 ```
 Из репозитор : fedora
@@ -19403,7 +19402,7 @@ URL          : https://github.com/java-native-access/jna/
 </details>
 
 <details>
-<summary>john</summary>
+<summary>Имя пакета: john</summary>
 
 ```
 Из репозитор : fedora
@@ -19418,7 +19417,7 @@ URL          : http://www.openwall.com/john
 </details>
 
 <details>
-<summary>jomolhari-fonts</summary>
+<summary>Имя пакета: jomolhari-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -19433,7 +19432,7 @@ URL          : http://www.openwall.com/john
 </details>
 
 <details>
-<summary>jq</summary>
+<summary>Имя пакета: jq</summary>
 
 ```
 Из репозитор : anaconda
@@ -19459,7 +19458,7 @@ URL          : http://stedolan.github.io/jq/
 </details>
 
 <details>
-<summary>js-backbone</summary>
+<summary>Имя пакета: js-backbone</summary>
 
 ```
 Из репозитор : fedora
@@ -19475,7 +19474,7 @@ URL          : http://backbonejs.org/
 </details>
 
 <details>
-<summary>js-jquery</summary>
+<summary>Имя пакета: js-jquery</summary>
 
 ```
 Из репозитор : anaconda
@@ -19492,7 +19491,7 @@ URL          : https://jquery.com/
 </details>
 
 <details>
-<summary>js-marked</summary>
+<summary>Имя пакета: js-marked</summary>
 
 ```
 Из репозитор : fedora
@@ -19517,7 +19516,7 @@ URL          : https://github.com/markedjs/marked
 </details>
 
 <details>
-<summary>js-underscore</summary>
+<summary>Имя пакета: js-underscore</summary>
 
 ```
 Из репозитор : fedora
@@ -19532,7 +19531,7 @@ URL          : http://underscorejs.org/
 </details>
 
 <details>
-<summary>json-c</summary>
+<summary>Имя пакета: json-c</summary>
 
 ```
 Из репозитор : anaconda
@@ -19548,7 +19547,7 @@ URL          : https://github.com/json-c/json-c
 </details>
 
 <details>
-<summary>json-glib</summary>
+<summary>Имя пакета: json-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -19562,7 +19561,7 @@ URL          : https://wiki.gnome.org/Projects/JsonGlib
 </details>
 
 <details>
-<summary>json-glib-devel</summary>
+<summary>Имя пакета: json-glib-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -19576,7 +19575,7 @@ URL          : https://wiki.gnome.org/Projects/JsonGlib
 </details>
 
 <details>
-<summary>jsoncpp</summary>
+<summary>Имя пакета: jsoncpp</summary>
 
 ```
 Из репозитор : fedora
@@ -19592,7 +19591,7 @@ URL          : https://github.com/open-source-parsers/jsoncpp
 </details>
 
 <details>
-<summary>jsonrpc-glib</summary>
+<summary>Имя пакета: jsonrpc-glib</summary>
 
 ```
 Из репозитор : fedora
@@ -19607,7 +19606,7 @@ URL          : https://git.gnome.org/browse/jsonrpc-glib/
 </details>
 
 <details>
-<summary>julietaula-montserrat-base-web-fonts</summary>
+<summary>Имя пакета: julietaula-montserrat-base-web-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -19624,7 +19623,7 @@ URL          : https://github.com/JulietaUla/Montserrat
 </details>
 
 <details>
-<summary>julietaula-montserrat-fonts</summary>
+<summary>Имя пакета: julietaula-montserrat-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -19640,7 +19639,7 @@ URL          : https://github.com/JulietaUla/Montserrat
 </details>
 
 <details>
-<summary>julietaula-montserrat-fonts-common</summary>
+<summary>Имя пакета: julietaula-montserrat-fonts-common</summary>
 
 ```
 Эпоха        : 1
@@ -19657,7 +19656,7 @@ URL          : https://github.com/JulietaUla/Montserrat
 </details>
 
 <details>
-<summary>jwhois</summary>
+<summary>Имя пакета: jwhois</summary>
 
 ```
 Из репозитор : anaconda
@@ -19670,7 +19669,7 @@ URL          : http://www.gnu.org/software/jwhois/
 </details>
 
 <details>
-<summary>jxrlib</summary>
+<summary>Имя пакета: jxrlib</summary>
 
 ```
 Из репозитор : fedora
@@ -19683,7 +19682,7 @@ URL          : https://jxrlib.codeplex.com/
 </details>
 
 <details>
-<summary>kasumi-common</summary>
+<summary>Имя пакета: kasumi-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -19696,7 +19695,7 @@ URL          : http://kasumi.sourceforge.jp/
 </details>
 
 <details>
-<summary>kasumi-common</summary>
+<summary>Имя пакета: kasumi-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19709,7 +19708,7 @@ URL          : http://kasumi.sourceforge.jp/
 </details>
 
 <details>
-<summary>kasumi-unicode</summary>
+<summary>Имя пакета: kasumi-unicode</summary>
 
 ```
 Из репозитор : anaconda
@@ -19722,7 +19721,7 @@ URL          : http://kasumi.sourceforge.jp/
 </details>
 
 <details>
-<summary>kasumi-unicode</summary>
+<summary>Имя пакета: kasumi-unicode</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19735,7 +19734,7 @@ URL          : http://kasumi.sourceforge.jp/
 </details>
 
 <details>
-<summary>kbd</summary>
+<summary>Имя пакета: kbd</summary>
 
 ```
 Из репозитор : anaconda
@@ -19750,7 +19749,7 @@ URL          : http://www.kbd-project.org/
 </details>
 
 <details>
-<summary>kbd-misc</summary>
+<summary>Имя пакета: kbd-misc</summary>
 
 ```
 Из репозитор : anaconda
@@ -19764,7 +19763,7 @@ URL          : http://www.kbd-project.org/
 </details>
 
 <details>
-<summary>kcolorpicker</summary>
+<summary>Имя пакета: kcolorpicker</summary>
 
 ```
 Из репозитор : fedora
@@ -19780,7 +19779,7 @@ URL          : https://github.com/ksnip/kColorPicker
 </details>
 
 <details>
-<summary>kde-filesystem</summary>
+<summary>Имя пакета: kde-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -19792,7 +19791,7 @@ URL          : https://github.com/ksnip/kColorPicker
 </details>
 
 <details>
-<summary>kde-settings</summary>
+<summary>Имя пакета: kde-settings</summary>
 
 ```
 Из репозитор : fedora
@@ -19805,7 +19804,7 @@ URL          : https://pagure.io/fedora-kde/kde-settings
 </details>
 
 <details>
-<summary>kdump-anaconda-addon</summary>
+<summary>Имя пакета: kdump-anaconda-addon</summary>
 
 ```
 Из репозитор : anaconda
@@ -19818,7 +19817,7 @@ URL          : https://github.com/daveyoung/kdump-anaconda-addon
 </details>
 
 <details>
-<summary>keepassxc</summary>
+<summary>Имя пакета: keepassxc</summary>
 
 ```
 Из репозитор : fedora
@@ -19845,7 +19844,7 @@ URL          : http://www.keepassxc.org/
 </details>
 
 <details>
-<summary>kernel</summary>
+<summary>Имя пакета: kernel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19858,7 +19857,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel</summary>
+<summary>Имя пакета: kernel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19871,7 +19870,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel</summary>
+<summary>Имя пакета: kernel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19884,7 +19883,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-core</summary>
+<summary>Имя пакета: kernel-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19900,7 +19899,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-core</summary>
+<summary>Имя пакета: kernel-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19916,7 +19915,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-core</summary>
+<summary>Имя пакета: kernel-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19932,7 +19931,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-devel</summary>
+<summary>Имя пакета: kernel-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19946,7 +19945,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-devel</summary>
+<summary>Имя пакета: kernel-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19960,7 +19959,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-devel</summary>
+<summary>Имя пакета: kernel-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19974,7 +19973,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-headers</summary>
+<summary>Имя пакета: kernel-headers</summary>
 
 ```
 Из репозитор : updates-testing
@@ -19991,7 +19990,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-modules</summary>
+<summary>Имя пакета: kernel-modules</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20004,7 +20003,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-modules</summary>
+<summary>Имя пакета: kernel-modules</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20017,7 +20016,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-modules</summary>
+<summary>Имя пакета: kernel-modules</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20030,7 +20029,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-modules-extra</summary>
+<summary>Имя пакета: kernel-modules-extra</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20043,7 +20042,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-modules-extra</summary>
+<summary>Имя пакета: kernel-modules-extra</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20056,7 +20055,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-modules-extra</summary>
+<summary>Имя пакета: kernel-modules-extra</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20069,7 +20068,7 @@ URL          : https://www.kernel.org/
 </details>
 
 <details>
-<summary>kernel-srpm-macros</summary>
+<summary>Имя пакета: kernel-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -20084,7 +20083,7 @@ URL          : https://src.fedoraproject.org/rpms/kernel-srpm-macros
 </details>
 
 <details>
-<summary>kexec-tools</summary>
+<summary>Имя пакета: kexec-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -20100,7 +20099,7 @@ URL          : https://src.fedoraproject.org/rpms/kernel-srpm-macros
 </details>
 
 <details>
-<summary>keybinder3</summary>
+<summary>Имя пакета: keybinder3</summary>
 
 ```
 Из репозитор : anaconda
@@ -20118,7 +20117,7 @@ URL          : https://github.com/kupferlauncher/keybinder
 </details>
 
 <details>
-<summary>keychain</summary>
+<summary>Имя пакета: keychain</summary>
 
 ```
 Из репозитор : fedora
@@ -20136,7 +20135,7 @@ URL          : https://www.funtoo.org/Keychain
 </details>
 
 <details>
-<summary>keyutils</summary>
+<summary>Имя пакета: keyutils</summary>
 
 ```
 Из репозитор : anaconda
@@ -20151,7 +20150,7 @@ URL          : http://people.redhat.com/~dhowells/keyutils/
 </details>
 
 <details>
-<summary>keyutils-libs</summary>
+<summary>Имя пакета: keyutils-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -20165,7 +20164,7 @@ URL          : http://people.redhat.com/~dhowells/keyutils/
 </details>
 
 <details>
-<summary>keyutils-libs-devel</summary>
+<summary>Имя пакета: keyutils-libs-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -20178,7 +20177,7 @@ URL          : http://people.redhat.com/~dhowells/keyutils/
 </details>
 
 <details>
-<summary>kf5-attica</summary>
+<summary>Имя пакета: kf5-attica</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20192,7 +20191,7 @@ URL          : https://invent.kde.org/frameworks/attica
 </details>
 
 <details>
-<summary>kf5-filesystem</summary>
+<summary>Имя пакета: kf5-filesystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20205,7 +20204,7 @@ URL          : http://www.kde.org
 </details>
 
 <details>
-<summary>kf5-karchive</summary>
+<summary>Имя пакета: kf5-karchive</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20218,7 +20217,7 @@ URL          : https://invent.kde.org/frameworks/karchive
 </details>
 
 <details>
-<summary>kf5-kauth</summary>
+<summary>Имя пакета: kf5-kauth</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20231,7 +20230,7 @@ URL          : https://invent.kde.org/frameworks/kauth
 </details>
 
 <details>
-<summary>kf5-kbookmarks</summary>
+<summary>Имя пакета: kf5-kbookmarks</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20245,7 +20244,7 @@ URL          : https://invent.kde.org/frameworks/kbookmarks
 </details>
 
 <details>
-<summary>kf5-kcmutils</summary>
+<summary>Имя пакета: kf5-kcmutils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20259,7 +20258,7 @@ URL          : https://invent.kde.org/frameworks/kcmutils
 </details>
 
 <details>
-<summary>kf5-kcodecs</summary>
+<summary>Имя пакета: kf5-kcodecs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20272,7 +20271,7 @@ URL          : https://invent.kde.org/frameworks/kcodecs
 </details>
 
 <details>
-<summary>kf5-kcompletion</summary>
+<summary>Имя пакета: kf5-kcompletion</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20286,7 +20285,7 @@ URL          : https://invent.kde.org/frameworks/kcompletion
 </details>
 
 <details>
-<summary>kf5-kconfig-core</summary>
+<summary>Имя пакета: kf5-kconfig-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20300,7 +20299,7 @@ URL          : https://invent.kde.org/frameworks/kconfig
 </details>
 
 <details>
-<summary>kf5-kconfig-gui</summary>
+<summary>Имя пакета: kf5-kconfig-gui</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20315,7 +20314,7 @@ URL          : https://invent.kde.org/frameworks/kconfig
 </details>
 
 <details>
-<summary>kf5-kconfigwidgets</summary>
+<summary>Имя пакета: kf5-kconfigwidgets</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20329,7 +20328,7 @@ URL          : https://invent.kde.org/frameworks/kconfigwidgets
 </details>
 
 <details>
-<summary>kf5-kcoreaddons</summary>
+<summary>Имя пакета: kf5-kcoreaddons</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20345,7 +20344,7 @@ URL          : https://invent.kde.org/frameworks/kcoreaddons
 </details>
 
 <details>
-<summary>kf5-kcrash</summary>
+<summary>Имя пакета: kf5-kcrash</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20358,7 +20357,7 @@ URL          : https://invent.kde.org/frameworks/kcrash
 </details>
 
 <details>
-<summary>kf5-kdbusaddons</summary>
+<summary>Имя пакета: kf5-kdbusaddons</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20372,7 +20371,7 @@ URL          : https://invent.kde.org/frameworks/kdbusaddons
 </details>
 
 <details>
-<summary>kf5-kdeclarative</summary>
+<summary>Имя пакета: kf5-kdeclarative</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20385,7 +20384,7 @@ URL          : https://invent.kde.org/frameworks/kdeclarative
 </details>
 
 <details>
-<summary>kf5-kdoctools</summary>
+<summary>Имя пакета: kf5-kdoctools</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20398,7 +20397,7 @@ URL          : https://invent.kde.org/frameworks/kdoctools
 </details>
 
 <details>
-<summary>kf5-kglobalaccel</summary>
+<summary>Имя пакета: kf5-kglobalaccel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20411,7 +20410,7 @@ URL          : https://invent.kde.org/frameworks/kglobalaccel
 </details>
 
 <details>
-<summary>kf5-kglobalaccel-libs</summary>
+<summary>Имя пакета: kf5-kglobalaccel-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20424,7 +20423,7 @@ URL          : https://invent.kde.org/frameworks/kglobalaccel
 </details>
 
 <details>
-<summary>kf5-kguiaddons</summary>
+<summary>Имя пакета: kf5-kguiaddons</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20437,7 +20436,7 @@ URL          : https://invent.kde.org/frameworks/kguiaddons
 </details>
 
 <details>
-<summary>kf5-ki18n</summary>
+<summary>Имя пакета: kf5-ki18n</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20450,7 +20449,7 @@ URL          : https://invent.kde.org/frameworks/ki18n
 </details>
 
 <details>
-<summary>kf5-kiconthemes</summary>
+<summary>Имя пакета: kf5-kiconthemes</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20463,7 +20462,7 @@ URL          : https://api.kde.org/frameworks/kiconthemes/
 </details>
 
 <details>
-<summary>kf5-kinit</summary>
+<summary>Имя пакета: kf5-kinit</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20480,7 +20479,7 @@ URL          : https://invent.kde.org/frameworks/kinit
 </details>
 
 <details>
-<summary>kf5-kio-core</summary>
+<summary>Имя пакета: kf5-kio-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20493,7 +20492,7 @@ URL          : https://invent.kde.org/frameworks/kio
 </details>
 
 <details>
-<summary>kf5-kio-core-libs</summary>
+<summary>Имя пакета: kf5-kio-core-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20506,7 +20505,7 @@ URL          : https://invent.kde.org/frameworks/kio
 </details>
 
 <details>
-<summary>kf5-kio-doc</summary>
+<summary>Имя пакета: kf5-kio-doc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20519,7 +20518,7 @@ URL          : https://invent.kde.org/frameworks/kio
 </details>
 
 <details>
-<summary>kf5-kio-file-widgets</summary>
+<summary>Имя пакета: kf5-kio-file-widgets</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20533,7 +20532,7 @@ URL          : https://invent.kde.org/frameworks/kio
 </details>
 
 <details>
-<summary>kf5-kio-gui</summary>
+<summary>Имя пакета: kf5-kio-gui</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20546,7 +20545,7 @@ URL          : https://invent.kde.org/frameworks/kio
 </details>
 
 <details>
-<summary>kf5-kio-ntlm</summary>
+<summary>Имя пакета: kf5-kio-ntlm</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20559,7 +20558,7 @@ URL          : https://invent.kde.org/frameworks/kio
 </details>
 
 <details>
-<summary>kf5-kio-widgets</summary>
+<summary>Имя пакета: kf5-kio-widgets</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20573,7 +20572,7 @@ URL          : https://invent.kde.org/frameworks/kio
 </details>
 
 <details>
-<summary>kf5-kio-widgets-libs</summary>
+<summary>Имя пакета: kf5-kio-widgets-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20586,7 +20585,7 @@ URL          : https://invent.kde.org/frameworks/kio
 </details>
 
 <details>
-<summary>kf5-kitemviews</summary>
+<summary>Имя пакета: kf5-kitemviews</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20599,7 +20598,7 @@ URL          : https://invent.kde.org/frameworks/kitemviews
 </details>
 
 <details>
-<summary>kf5-kjobwidgets</summary>
+<summary>Имя пакета: kf5-kjobwidgets</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20612,7 +20611,7 @@ URL          : https://invent.kde.org/frameworks/kjobwidgets
 </details>
 
 <details>
-<summary>kf5-knewstuff</summary>
+<summary>Имя пакета: kf5-knewstuff</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20626,7 +20625,7 @@ URL          : https://invent.kde.org/frameworks/knewstuff
 </details>
 
 <details>
-<summary>kf5-knotifications</summary>
+<summary>Имя пакета: kf5-knotifications</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20640,7 +20639,7 @@ URL          : https://invent.kde.org/frameworks/knotifications
 </details>
 
 <details>
-<summary>kf5-kpackage</summary>
+<summary>Имя пакета: kf5-kpackage</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20654,7 +20653,7 @@ URL          : https://invent.kde.org/frameworks/kpackage
 </details>
 
 <details>
-<summary>kf5-kparts</summary>
+<summary>Имя пакета: kf5-kparts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20667,7 +20666,7 @@ URL          : https://invent.kde.org/frameworks/kparts
 </details>
 
 <details>
-<summary>kf5-kservice</summary>
+<summary>Имя пакета: kf5-kservice</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20681,7 +20680,7 @@ URL          : https://invent.kde.org/frameworks/kservice
 </details>
 
 <details>
-<summary>kf5-ktextwidgets</summary>
+<summary>Имя пакета: kf5-ktextwidgets</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20694,7 +20693,7 @@ URL          : https://invent.kde.org/frameworks/ktextwidgets
 </details>
 
 <details>
-<summary>kf5-kwallet</summary>
+<summary>Имя пакета: kf5-kwallet</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20707,7 +20706,7 @@ URL          : https://invent.kde.org/frameworks/kwallet
 </details>
 
 <details>
-<summary>kf5-kwallet-libs</summary>
+<summary>Имя пакета: kf5-kwallet-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20720,7 +20719,7 @@ URL          : https://invent.kde.org/frameworks/kwallet
 </details>
 
 <details>
-<summary>kf5-kwidgetsaddons</summary>
+<summary>Имя пакета: kf5-kwidgetsaddons</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20733,7 +20732,7 @@ URL          : https://invent.kde.org/frameworks/kwidgetsaddons
 </details>
 
 <details>
-<summary>kf5-kwindowsystem</summary>
+<summary>Имя пакета: kf5-kwindowsystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20747,7 +20746,7 @@ URL          : https://invent.kde.org/frameworks/kwindowsystem
 </details>
 
 <details>
-<summary>kf5-kxmlgui</summary>
+<summary>Имя пакета: kf5-kxmlgui</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20760,7 +20759,7 @@ URL          : https://invent.kde.org/frameworks/kxmlgui
 </details>
 
 <details>
-<summary>kf5-solid</summary>
+<summary>Имя пакета: kf5-solid</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20776,7 +20775,7 @@ URL          : https://solid.kde.org/
 </details>
 
 <details>
-<summary>kf5-sonnet-core</summary>
+<summary>Имя пакета: kf5-sonnet-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20789,7 +20788,7 @@ URL          : https://invent.kde.org/frameworks/sonnet
 </details>
 
 <details>
-<summary>kf5-sonnet-ui</summary>
+<summary>Имя пакета: kf5-sonnet-ui</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20802,7 +20801,7 @@ URL          : https://invent.kde.org/frameworks/sonnet
 </details>
 
 <details>
-<summary>khmer-os-system-fonts</summary>
+<summary>Имя пакета: khmer-os-system-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -20822,7 +20821,7 @@ URL          : http://www.khmeros.info/en/fonts
 </details>
 
 <details>
-<summary>kmod</summary>
+<summary>Имя пакета: kmod</summary>
 
 ```
 Из репозитор : anaconda
@@ -20838,7 +20837,7 @@ URL          : http://git.kernel.org/?p=utils/kernel/kmod/kmod.git;a=summary
 </details>
 
 <details>
-<summary>kmod-libs</summary>
+<summary>Имя пакета: kmod-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -20852,7 +20851,7 @@ URL          : http://git.kernel.org/?p=utils/kernel/kmod/kmod.git;a=summary
 </details>
 
 <details>
-<summary>kmodtool</summary>
+<summary>Имя пакета: kmodtool</summary>
 
 ```
 Из репозитор : fedora
@@ -20866,7 +20865,7 @@ URL          : http://rpmfusion.org/Packaging/KernelModules/Kmods2
 </details>
 
 <details>
-<summary>koji</summary>
+<summary>Имя пакета: koji</summary>
 
 ```
 Из репозитор : fedora
@@ -20880,7 +20879,7 @@ URL          : https://pagure.io/koji/
 </details>
 
 <details>
-<summary>kpartx</summary>
+<summary>Имя пакета: kpartx</summary>
 
 ```
 Из репозитор : anaconda
@@ -20893,7 +20892,7 @@ URL          : http://christophe.varoqui.free.fr/
 </details>
 
 <details>
-<summary>krb5-devel</summary>
+<summary>Имя пакета: krb5-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20909,7 +20908,7 @@ URL          : https://web.mit.edu/kerberos/www/
 </details>
 
 <details>
-<summary>krb5-libs</summary>
+<summary>Имя пакета: krb5-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -20924,7 +20923,7 @@ URL          : https://web.mit.edu/kerberos/www/
 </details>
 
 <details>
-<summary>krb5-libs</summary>
+<summary>Имя пакета: krb5-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -20939,7 +20938,7 @@ URL          : https://web.mit.edu/kerberos/www/
 </details>
 
 <details>
-<summary>krb5-pkinit</summary>
+<summary>Имя пакета: krb5-pkinit</summary>
 
 ```
 Из репозитор : fedora
@@ -20955,7 +20954,7 @@ URL          : https://web.mit.edu/kerberos/www/
 </details>
 
 <details>
-<summary>krb5-workstation</summary>
+<summary>Имя пакета: krb5-workstation</summary>
 
 ```
 Из репозитор : fedora
@@ -20971,7 +20970,7 @@ URL          : https://web.mit.edu/kerberos/www/
 </details>
 
 <details>
-<summary>ladspa</summary>
+<summary>Имя пакета: ladspa</summary>
 
 ```
 Из репозитор : anaconda
@@ -20990,7 +20989,7 @@ URL          : http://www.ladspa.org/
 </details>
 
 <details>
-<summary>lame-libs</summary>
+<summary>Имя пакета: lame-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -21003,7 +21002,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langpacks-core-en</summary>
+<summary>Имя пакета: langpacks-core-en</summary>
 
 ```
 Из репозитор : anaconda
@@ -21015,7 +21014,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langpacks-core-en</summary>
+<summary>Имя пакета: langpacks-core-en</summary>
 
 ```
 Из репозитор : updates-testing
@@ -21027,7 +21026,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langpacks-core-font-en</summary>
+<summary>Имя пакета: langpacks-core-font-en</summary>
 
 ```
 Из репозитор : anaconda
@@ -21039,7 +21038,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langpacks-core-font-en</summary>
+<summary>Имя пакета: langpacks-core-font-en</summary>
 
 ```
 Из репозитор : updates-testing
@@ -21051,7 +21050,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langpacks-core-font-ru</summary>
+<summary>Имя пакета: langpacks-core-font-ru</summary>
 
 ```
 Из репозитор : updates-testing
@@ -21063,7 +21062,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langpacks-core-ru</summary>
+<summary>Имя пакета: langpacks-core-ru</summary>
 
 ```
 Из репозитор : updates-testing
@@ -21075,7 +21074,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langpacks-en</summary>
+<summary>Имя пакета: langpacks-en</summary>
 
 ```
 Из репозитор : anaconda
@@ -21087,7 +21086,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langpacks-en</summary>
+<summary>Имя пакета: langpacks-en</summary>
 
 ```
 Из репозитор : updates-testing
@@ -21099,7 +21098,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langpacks-ru</summary>
+<summary>Имя пакета: langpacks-ru</summary>
 
 ```
 Из репозитор : updates-testing
@@ -21111,7 +21110,7 @@ URL          : http://lame.sourceforge.net/
 </details>
 
 <details>
-<summary>langtable</summary>
+<summary>Имя пакета: langtable</summary>
 
 ```
 Из репозитор : anaconda
@@ -21128,7 +21127,7 @@ URL          : https://github.com/mike-fabian/langtable
 </details>
 
 <details>
-<summary>lasi</summary>
+<summary>Имя пакета: lasi</summary>
 
 ```
 Из репозитор : fedora
@@ -21155,7 +21154,7 @@ URL          : http://www.unifont.org/lasi/
 </details>
 
 <details>
-<summary>latencytop</summary>
+<summary>Имя пакета: latencytop</summary>
 
 ```
 Из репозитор : fedora
@@ -21173,7 +21172,7 @@ URL          : http://www.latencytop.org/
 </details>
 
 <details>
-<summary>latencytop-common</summary>
+<summary>Имя пакета: latencytop-common</summary>
 
 ```
 Из репозитор : fedora
@@ -21190,7 +21189,7 @@ URL          : http://www.latencytop.org/
 </details>
 
 <details>
-<summary>lato-fonts</summary>
+<summary>Имя пакета: lato-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -21223,7 +21222,7 @@ URL          : http://www.latofonts.com/
 </details>
 
 <details>
-<summary>lcms2</summary>
+<summary>Имя пакета: lcms2</summary>
 
 ```
 Из репозитор : anaconda
@@ -21238,7 +21237,7 @@ URL          : http://www.littlecms.com/
 </details>
 
 <details>
-<summary>lcms2-devel</summary>
+<summary>Имя пакета: lcms2-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21251,7 +21250,7 @@ URL          : http://www.littlecms.com/
 </details>
 
 <details>
-<summary>leatherman</summary>
+<summary>Имя пакета: leatherman</summary>
 
 ```
 Из репозитор : fedora
@@ -21264,7 +21263,7 @@ URL          : https://github.com/puppetlabs/leatherman
 </details>
 
 <details>
-<summary>lensfun</summary>
+<summary>Имя пакета: lensfun</summary>
 
 ```
 Из репозитор : fedora
@@ -21282,7 +21281,7 @@ URL          : https://lensfun.github.io/
 </details>
 
 <details>
-<summary>leptonica</summary>
+<summary>Имя пакета: leptonica</summary>
 
 ```
 Из репозитор : fedora
@@ -21310,7 +21309,7 @@ URL          : https://github.com/danbloomberg/leptonica
 </details>
 
 <details>
-<summary>less</summary>
+<summary>Имя пакета: less</summary>
 
 ```
 Из репозитор : anaconda
@@ -21330,7 +21329,7 @@ URL          : https://www.greenwoodsoftware.com/less/
 </details>
 
 <details>
-<summary>lha</summary>
+<summary>Имя пакета: lha</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -21343,7 +21342,7 @@ URL          : https://github.com/jca02266/lha
 </details>
 
 <details>
-<summary>lib3ds</summary>
+<summary>Имя пакета: lib3ds</summary>
 
 ```
 Из репозитор : fedora
@@ -21365,7 +21364,7 @@ URL          : http://lib3ds.sourceforge.net
 </details>
 
 <details>
-<summary>libGLEW</summary>
+<summary>Имя пакета: libGLEW</summary>
 
 ```
 Из репозитор : fedora
@@ -21378,7 +21377,7 @@ URL          : http://glew.sourceforge.net
 </details>
 
 <details>
-<summary>libICE</summary>
+<summary>Имя пакета: libICE</summary>
 
 ```
 Из репозитор : anaconda
@@ -21391,7 +21390,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libICE-devel</summary>
+<summary>Имя пакета: libICE-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21404,7 +21403,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libIDL</summary>
+<summary>Имя пакета: libIDL</summary>
 
 ```
 Из репозитор : fedora
@@ -21418,7 +21417,7 @@ URL          : https://download.gnome.org/sources/libIDL/0.8/
 </details>
 
 <details>
-<summary>libSM</summary>
+<summary>Имя пакета: libSM</summary>
 
 ```
 Из репозитор : anaconda
@@ -21431,7 +21430,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libSM-devel</summary>
+<summary>Имя пакета: libSM-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21444,7 +21443,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libX11</summary>
+<summary>Имя пакета: libX11</summary>
 
 ```
 Из репозитор : anaconda
@@ -21457,7 +21456,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libX11-common</summary>
+<summary>Имя пакета: libX11-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -21470,7 +21469,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libX11-devel</summary>
+<summary>Имя пакета: libX11-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21483,7 +21482,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libX11-xcb</summary>
+<summary>Имя пакета: libX11-xcb</summary>
 
 ```
 Из репозитор : anaconda
@@ -21496,7 +21495,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXScrnSaver</summary>
+<summary>Имя пакета: libXScrnSaver</summary>
 
 ```
 Из репозитор : anaconda
@@ -21509,7 +21508,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXau</summary>
+<summary>Имя пакета: libXau</summary>
 
 ```
 Из репозитор : anaconda
@@ -21526,7 +21525,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXau-devel</summary>
+<summary>Имя пакета: libXau-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21539,7 +21538,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXaw</summary>
+<summary>Имя пакета: libXaw</summary>
 
 ```
 Из репозитор : fedora
@@ -21552,7 +21551,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXcomp</summary>
+<summary>Имя пакета: libXcomp</summary>
 
 ```
 Из репозитор : fedora
@@ -21569,7 +21568,7 @@ URL          : https://github.com/ArcticaProject/nx-libs
 </details>
 
 <details>
-<summary>libXcomposite</summary>
+<summary>Имя пакета: libXcomposite</summary>
 
 ```
 Из репозитор : anaconda
@@ -21582,7 +21581,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXcomposite-devel</summary>
+<summary>Имя пакета: libXcomposite-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21595,7 +21594,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXcursor</summary>
+<summary>Имя пакета: libXcursor</summary>
 
 ```
 Из репозитор : anaconda
@@ -21611,7 +21610,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXcursor-devel</summary>
+<summary>Имя пакета: libXcursor-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21624,7 +21623,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXdamage</summary>
+<summary>Имя пакета: libXdamage</summary>
 
 ```
 Из репозитор : anaconda
@@ -21637,7 +21636,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXdmcp</summary>
+<summary>Имя пакета: libXdmcp</summary>
 
 ```
 Из репозитор : anaconda
@@ -21650,7 +21649,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXext</summary>
+<summary>Имя пакета: libXext</summary>
 
 ```
 Из репозитор : anaconda
@@ -21663,7 +21662,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXext-devel</summary>
+<summary>Имя пакета: libXext-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21676,7 +21675,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXfixes</summary>
+<summary>Имя пакета: libXfixes</summary>
 
 ```
 Из репозитор : anaconda
@@ -21689,7 +21688,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXfixes-devel</summary>
+<summary>Имя пакета: libXfixes-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21702,7 +21701,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXfont2</summary>
+<summary>Имя пакета: libXfont2</summary>
 
 ```
 Из репозитор : anaconda
@@ -21715,7 +21714,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXft</summary>
+<summary>Имя пакета: libXft</summary>
 
 ```
 Из репозитор : anaconda
@@ -21728,7 +21727,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXft-devel</summary>
+<summary>Имя пакета: libXft-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21741,7 +21740,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXi</summary>
+<summary>Имя пакета: libXi</summary>
 
 ```
 Из репозитор : anaconda
@@ -21754,7 +21753,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXi-devel</summary>
+<summary>Имя пакета: libXi-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21767,7 +21766,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXinerama</summary>
+<summary>Имя пакета: libXinerama</summary>
 
 ```
 Из репозитор : anaconda
@@ -21780,7 +21779,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXinerama-devel</summary>
+<summary>Имя пакета: libXinerama-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21793,7 +21792,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXmu</summary>
+<summary>Имя пакета: libXmu</summary>
 
 ```
 Из репозитор : anaconda
@@ -21806,7 +21805,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXmu-devel</summary>
+<summary>Имя пакета: libXmu-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21819,7 +21818,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXp</summary>
+<summary>Имя пакета: libXp</summary>
 
 ```
 Из репозитор : fedora
@@ -21832,7 +21831,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXpm</summary>
+<summary>Имя пакета: libXpm</summary>
 
 ```
 Из репозитор : anaconda
@@ -21845,7 +21844,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXpm-devel</summary>
+<summary>Имя пакета: libXpm-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21858,7 +21857,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXrandr</summary>
+<summary>Имя пакета: libXrandr</summary>
 
 ```
 Из репозитор : anaconda
@@ -21871,7 +21870,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXrandr-devel</summary>
+<summary>Имя пакета: libXrandr-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21884,7 +21883,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXrender</summary>
+<summary>Имя пакета: libXrender</summary>
 
 ```
 Из репозитор : anaconda
@@ -21897,7 +21896,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXrender-devel</summary>
+<summary>Имя пакета: libXrender-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21910,7 +21909,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXres</summary>
+<summary>Имя пакета: libXres</summary>
 
 ```
 Из репозитор : anaconda
@@ -21924,7 +21923,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXt</summary>
+<summary>Имя пакета: libXt</summary>
 
 ```
 Из репозитор : anaconda
@@ -21937,7 +21936,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>libXt-devel</summary>
+<summary>Имя пакета: libXt-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -21950,7 +21949,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>libXtst</summary>
+<summary>Имя пакета: libXtst</summary>
 
 ```
 Из репозитор : anaconda
@@ -21963,7 +21962,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXv</summary>
+<summary>Имя пакета: libXv</summary>
 
 ```
 Из репозитор : anaconda
@@ -21976,7 +21975,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXvMC</summary>
+<summary>Имя пакета: libXvMC</summary>
 
 ```
 Из репозитор : anaconda
@@ -21989,7 +21988,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXxf86dga</summary>
+<summary>Имя пакета: libXxf86dga</summary>
 
 ```
 Из репозитор : anaconda
@@ -22002,7 +22001,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libXxf86vm</summary>
+<summary>Имя пакета: libXxf86vm</summary>
 
 ```
 Из репозитор : anaconda
@@ -22015,7 +22014,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>liba52</summary>
+<summary>Имя пакета: liba52</summary>
 
 ```
 Из репозитор : anaconda
@@ -22030,7 +22029,7 @@ URL          : http://liba52.sourceforge.net
 </details>
 
 <details>
-<summary>libabw</summary>
+<summary>Имя пакета: libabw</summary>
 
 ```
 Из репозитор : anaconda
@@ -22043,7 +22042,7 @@ URL          : https://wiki.documentfoundation.org/DLP/Libraries/libabw
 </details>
 
 <details>
-<summary>libacl</summary>
+<summary>Имя пакета: libacl</summary>
 
 ```
 Из репозитор : anaconda
@@ -22058,7 +22057,7 @@ URL          : https://savannah.nongnu.org/projects/acl
 </details>
 
 <details>
-<summary>libacl</summary>
+<summary>Имя пакета: libacl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -22073,7 +22072,7 @@ URL          : https://savannah.nongnu.org/projects/acl
 </details>
 
 <details>
-<summary>libadwaita-qt5</summary>
+<summary>Имя пакета: libadwaita-qt5</summary>
 
 ```
 Из репозитор : anaconda
@@ -22086,7 +22085,7 @@ URL          : https://github.com/FedoraQt/adwaita-qt
 </details>
 
 <details>
-<summary>libadwaita-qt5</summary>
+<summary>Имя пакета: libadwaita-qt5</summary>
 
 ```
 Из репозитор : updates-testing
@@ -22099,7 +22098,7 @@ URL          : https://github.com/FedoraQt/adwaita-qt
 </details>
 
 <details>
-<summary>libaec</summary>
+<summary>Имя пакета: libaec</summary>
 
 ```
 Из репозитор : fedora
@@ -22124,7 +22123,7 @@ URL          : https://gitlab.dkrz.de/k202009/libaec
 </details>
 
 <details>
-<summary>libaio</summary>
+<summary>Имя пакета: libaio</summary>
 
 ```
 Из репозитор : anaconda
@@ -22141,7 +22140,7 @@ URL          : https://gitlab.dkrz.de/k202009/libaec
 </details>
 
 <details>
-<summary>libao</summary>
+<summary>Имя пакета: libao</summary>
 
 ```
 Из репозитор : anaconda
@@ -22155,7 +22154,7 @@ URL          : http://xiph.org/ao/
 </details>
 
 <details>
-<summary>libaom</summary>
+<summary>Имя пакета: libaom</summary>
 
 ```
 Из репозитор : fedora
@@ -22169,7 +22168,7 @@ URL          : http://aomedia.org/
 </details>
 
 <details>
-<summary>libappindicator</summary>
+<summary>Имя пакета: libappindicator</summary>
 
 ```
 Из репозитор : fedora
@@ -22184,7 +22183,7 @@ URL          : https://launchpad.net/libappindicator
 </details>
 
 <details>
-<summary>libappindicator-gtk3</summary>
+<summary>Имя пакета: libappindicator-gtk3</summary>
 
 ```
 Из репозитор : fedora
@@ -22201,7 +22200,7 @@ URL          : https://launchpad.net/libappindicator
 </details>
 
 <details>
-<summary>libappstream-glib</summary>
+<summary>Имя пакета: libappstream-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -22217,7 +22216,7 @@ URL          : http://people.freedesktop.org/~hughsient/appstream-glib/
 </details>
 
 <details>
-<summary>libarchive</summary>
+<summary>Имя пакета: libarchive</summary>
 
 ```
 Из репозитор : anaconda
@@ -22233,7 +22232,7 @@ URL          : https://www.libarchive.org/
 </details>
 
 <details>
-<summary>libargon2</summary>
+<summary>Имя пакета: libargon2</summary>
 
 ```
 Из репозитор : anaconda
@@ -22248,7 +22247,7 @@ URL          : https://github.com/P-H-C/phc-winner-argon2
 </details>
 
 <details>
-<summary>libart_lgpl</summary>
+<summary>Имя пакета: libart_lgpl</summary>
 
 ```
 Из репозитор : fedora
@@ -22262,7 +22261,7 @@ URL          : http://www.gnome.org/
 </details>
 
 <details>
-<summary>libass</summary>
+<summary>Имя пакета: libass</summary>
 
 ```
 Из репозитор : fedora
@@ -22275,7 +22274,7 @@ URL          : https://github.com/libass
 </details>
 
 <details>
-<summary>libassuan</summary>
+<summary>Имя пакета: libassuan</summary>
 
 ```
 Из репозитор : anaconda
@@ -22289,7 +22288,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>libassuan</summary>
+<summary>Имя пакета: libassuan</summary>
 
 ```
 Из репозитор : updates-testing
@@ -22303,7 +22302,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>libasyncns</summary>
+<summary>Имя пакета: libasyncns</summary>
 
 ```
 Из репозитор : anaconda
@@ -22317,7 +22316,7 @@ URL          : http://0pointer.de/lennart/projects/libasyncns/
 </details>
 
 <details>
-<summary>libatasmart</summary>
+<summary>Имя пакета: libatasmart</summary>
 
 ```
 Из репозитор : anaconda
@@ -22331,7 +22330,7 @@ URL          : http://git.0pointer.de/?p=libatasmart.git;a=summary
 </details>
 
 <details>
-<summary>libattr</summary>
+<summary>Имя пакета: libattr</summary>
 
 ```
 Из репозитор : anaconda
@@ -22345,7 +22344,7 @@ URL          : https://savannah.nongnu.org/projects/attr
 </details>
 
 <details>
-<summary>libattr</summary>
+<summary>Имя пакета: libattr</summary>
 
 ```
 Из репозитор : updates-testing
@@ -22359,7 +22358,7 @@ URL          : https://savannah.nongnu.org/projects/attr
 </details>
 
 <details>
-<summary>libavc1394</summary>
+<summary>Имя пакета: libavc1394</summary>
 
 ```
 Из репозитор : anaconda
@@ -22374,7 +22373,7 @@ URL          : http://sourceforge.net/projects/libavc1394/
 </details>
 
 <details>
-<summary>libavif</summary>
+<summary>Имя пакета: libavif</summary>
 
 ```
 Из репозитор : updates-testing
@@ -22390,7 +22389,7 @@ URL          : https://github.com/AOMediaCodec/libavif
 </details>
 
 <details>
-<summary>libavif-devel</summary>
+<summary>Имя пакета: libavif-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -22403,7 +22402,7 @@ URL          : https://github.com/AOMediaCodec/libavif
 </details>
 
 <details>
-<summary>libb2</summary>
+<summary>Имя пакета: libb2</summary>
 
 ```
 Из репозитор : fedora
@@ -22419,7 +22418,7 @@ URL          : https://blake2.net/
 </details>
 
 <details>
-<summary>libbabeltrace</summary>
+<summary>Имя пакета: libbabeltrace</summary>
 
 ```
 Из репозитор : anaconda
@@ -22434,7 +22433,7 @@ URL          : https://www.efficios.com/babeltrace
 </details>
 
 <details>
-<summary>libbasicobjects</summary>
+<summary>Имя пакета: libbasicobjects</summary>
 
 ```
 Из репозитор : anaconda
@@ -22447,7 +22446,7 @@ URL          : https://pagure.io/SSSD/ding-libs
 </details>
 
 <details>
-<summary>libblkid</summary>
+<summary>Имя пакета: libblkid</summary>
 
 ```
 Из репозитор : anaconda
@@ -22460,7 +22459,7 @@ URL          : http://en.wikipedia.org/wiki/Util-linux
 </details>
 
 <details>
-<summary>libblkid-devel</summary>
+<summary>Имя пакета: libblkid-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22474,7 +22473,7 @@ URL          : http://en.wikipedia.org/wiki/Util-linux
 </details>
 
 <details>
-<summary>libblockdev</summary>
+<summary>Имя пакета: libblockdev</summary>
 
 ```
 Из репозитор : anaconda
@@ -22493,7 +22492,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-btrfs</summary>
+<summary>Имя пакета: libblockdev-btrfs</summary>
 
 ```
 Из репозитор : anaconda
@@ -22507,7 +22506,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-btrfs-devel</summary>
+<summary>Имя пакета: libblockdev-btrfs-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22521,7 +22520,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-crypto</summary>
+<summary>Имя пакета: libblockdev-crypto</summary>
 
 ```
 Из репозитор : anaconda
@@ -22535,7 +22534,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-crypto-devel</summary>
+<summary>Имя пакета: libblockdev-crypto-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22549,7 +22548,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-devel</summary>
+<summary>Имя пакета: libblockdev-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22563,7 +22562,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-dm</summary>
+<summary>Имя пакета: libblockdev-dm</summary>
 
 ```
 Из репозитор : anaconda
@@ -22577,7 +22576,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-dm-devel</summary>
+<summary>Имя пакета: libblockdev-dm-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22591,7 +22590,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-fs</summary>
+<summary>Имя пакета: libblockdev-fs</summary>
 
 ```
 Из репозитор : anaconda
@@ -22605,7 +22604,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-fs-devel</summary>
+<summary>Имя пакета: libblockdev-fs-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22619,7 +22618,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-kbd</summary>
+<summary>Имя пакета: libblockdev-kbd</summary>
 
 ```
 Из репозитор : anaconda
@@ -22634,7 +22633,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-kbd-devel</summary>
+<summary>Имя пакета: libblockdev-kbd-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22648,7 +22647,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-loop</summary>
+<summary>Имя пакета: libblockdev-loop</summary>
 
 ```
 Из репозитор : anaconda
@@ -22662,7 +22661,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-loop-devel</summary>
+<summary>Имя пакета: libblockdev-loop-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22676,7 +22675,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-lvm</summary>
+<summary>Имя пакета: libblockdev-lvm</summary>
 
 ```
 Из репозитор : anaconda
@@ -22690,7 +22689,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-lvm-dbus</summary>
+<summary>Имя пакета: libblockdev-lvm-dbus</summary>
 
 ```
 Из репозитор : fedora
@@ -22704,7 +22703,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-lvm-dbus-devel</summary>
+<summary>Имя пакета: libblockdev-lvm-dbus-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22718,7 +22717,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-lvm-devel</summary>
+<summary>Имя пакета: libblockdev-lvm-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22732,7 +22731,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-mdraid</summary>
+<summary>Имя пакета: libblockdev-mdraid</summary>
 
 ```
 Из репозитор : anaconda
@@ -22746,7 +22745,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-mdraid-devel</summary>
+<summary>Имя пакета: libblockdev-mdraid-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22760,7 +22759,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-mpath</summary>
+<summary>Имя пакета: libblockdev-mpath</summary>
 
 ```
 Из репозитор : anaconda
@@ -22774,7 +22773,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-mpath-devel</summary>
+<summary>Имя пакета: libblockdev-mpath-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22788,7 +22787,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-nvdimm</summary>
+<summary>Имя пакета: libblockdev-nvdimm</summary>
 
 ```
 Из репозитор : anaconda
@@ -22802,7 +22801,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-nvdimm-devel</summary>
+<summary>Имя пакета: libblockdev-nvdimm-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22816,7 +22815,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-part</summary>
+<summary>Имя пакета: libblockdev-part</summary>
 
 ```
 Из репозитор : anaconda
@@ -22830,7 +22829,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-part-devel</summary>
+<summary>Имя пакета: libblockdev-part-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22844,7 +22843,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-plugins-all</summary>
+<summary>Имя пакета: libblockdev-plugins-all</summary>
 
 ```
 Из репозитор : anaconda
@@ -22857,7 +22856,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-swap</summary>
+<summary>Имя пакета: libblockdev-swap</summary>
 
 ```
 Из репозитор : anaconda
@@ -22871,7 +22870,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-swap-devel</summary>
+<summary>Имя пакета: libblockdev-swap-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22885,7 +22884,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-tools</summary>
+<summary>Имя пакета: libblockdev-tools</summary>
 
 ```
 Из репозитор : fedora
@@ -22898,7 +22897,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-utils</summary>
+<summary>Имя пакета: libblockdev-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -22912,7 +22911,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libblockdev-utils-devel</summary>
+<summary>Имя пакета: libblockdev-utils-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -22926,7 +22925,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>libbluray</summary>
+<summary>Имя пакета: libbluray</summary>
 
 ```
 Из репозитор : anaconda
@@ -22943,7 +22942,7 @@ URL          : http://www.videolan.org/developers/libbluray.html
 </details>
 
 <details>
-<summary>libbluray</summary>
+<summary>Имя пакета: libbluray</summary>
 
 ```
 Из репозитор : updates-testing
@@ -22960,7 +22959,7 @@ URL          : https://www.videolan.org/developers/libbluray.html
 </details>
 
 <details>
-<summary>libbonobo</summary>
+<summary>Имя пакета: libbonobo</summary>
 
 ```
 Из репозитор : fedora
@@ -22973,7 +22972,7 @@ URL          : http://ftp.gnome.org
 </details>
 
 <details>
-<summary>libbonoboui</summary>
+<summary>Имя пакета: libbonoboui</summary>
 
 ```
 Из репозитор : fedora
@@ -22989,7 +22988,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>libbrotli</summary>
+<summary>Имя пакета: libbrotli</summary>
 
 ```
 Из репозитор : anaconda
@@ -23006,7 +23005,7 @@ URL          : https://github.com/google/brotli
 </details>
 
 <details>
-<summary>libbsd</summary>
+<summary>Имя пакета: libbsd</summary>
 
 ```
 Из репозитор : anaconda
@@ -23022,7 +23021,7 @@ URL          : http://libbsd.freedesktop.org/
 </details>
 
 <details>
-<summary>libbtrfs</summary>
+<summary>Имя пакета: libbtrfs</summary>
 
 ```
 Из репозитор : fedora
@@ -23036,7 +23035,7 @@ URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 </details>
 
 <details>
-<summary>libbtrfsutil</summary>
+<summary>Имя пакета: libbtrfsutil</summary>
 
 ```
 Из репозитор : fedora
@@ -23050,7 +23049,7 @@ URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 </details>
 
 <details>
-<summary>libbytesize</summary>
+<summary>Имя пакета: libbytesize</summary>
 
 ```
 Из репозитор : anaconda
@@ -23066,7 +23065,7 @@ URL          : https://github.com/storaged-project/libbytesize
 </details>
 
 <details>
-<summary>libbytesize-devel</summary>
+<summary>Имя пакета: libbytesize-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -23080,7 +23079,7 @@ URL          : https://github.com/storaged-project/libbytesize
 </details>
 
 <details>
-<summary>libbytesize-tools</summary>
+<summary>Имя пакета: libbytesize-tools</summary>
 
 ```
 Из репозитор : fedora
@@ -23094,7 +23093,7 @@ URL          : https://github.com/storaged-project/libbytesize
 </details>
 
 <details>
-<summary>libcaca</summary>
+<summary>Имя пакета: libcaca</summary>
 
 ```
 Из репозитор : fedora
@@ -23109,7 +23108,7 @@ URL          : http://caca.zoy.org/wiki/libcaca
 </details>
 
 <details>
-<summary>libcacard</summary>
+<summary>Имя пакета: libcacard</summary>
 
 ```
 Эпоха        : 3
@@ -23127,7 +23126,7 @@ URL          : https://gitlab.freedesktop.org/spice/libcacard
 </details>
 
 <details>
-<summary>libcanberra</summary>
+<summary>Имя пакета: libcanberra</summary>
 
 ```
 Из репозитор : anaconda
@@ -23141,7 +23140,7 @@ URL          : http://git.0pointer.de/?p=libcanberra.git;a=summary
 </details>
 
 <details>
-<summary>libcanberra-gtk2</summary>
+<summary>Имя пакета: libcanberra-gtk2</summary>
 
 ```
 Из репозитор : fedora
@@ -23154,7 +23153,7 @@ URL          : http://git.0pointer.de/?p=libcanberra.git;a=summary
 </details>
 
 <details>
-<summary>libcanberra-gtk3</summary>
+<summary>Имя пакета: libcanberra-gtk3</summary>
 
 ```
 Из репозитор : anaconda
@@ -23167,7 +23166,7 @@ URL          : http://git.0pointer.de/?p=libcanberra.git;a=summary
 </details>
 
 <details>
-<summary>libcap</summary>
+<summary>Имя пакета: libcap</summary>
 
 ```
 Из репозитор : anaconda
@@ -23181,7 +23180,7 @@ URL          : https://sites.google.com/site/fullycapable/
 </details>
 
 <details>
-<summary>libcap-ng</summary>
+<summary>Имя пакета: libcap-ng</summary>
 
 ```
 Из репозитор : anaconda
@@ -23194,7 +23193,7 @@ URL          : https://people.redhat.com/sgrubb/libcap-ng/
 </details>
 
 <details>
-<summary>libcbor</summary>
+<summary>Имя пакета: libcbor</summary>
 
 ```
 Из репозитор : anaconda
@@ -23207,7 +23206,7 @@ URL          : http://libcbor.org
 </details>
 
 <details>
-<summary>libcdio</summary>
+<summary>Имя пакета: libcdio</summary>
 
 ```
 Из репозитор : anaconda
@@ -23222,7 +23221,7 @@ URL          : http://www.gnu.org/software/libcdio/
 </details>
 
 <details>
-<summary>libcdio-paranoia</summary>
+<summary>Имя пакета: libcdio-paranoia</summary>
 
 ```
 Из репозитор : anaconda
@@ -23240,7 +23239,7 @@ URL          : http://www.gnu.org/software/libcdio/
 </details>
 
 <details>
-<summary>libcdr</summary>
+<summary>Имя пакета: libcdr</summary>
 
 ```
 Из репозитор : anaconda
@@ -23255,7 +23254,7 @@ URL          : http://wiki.documentfoundation.org/DLP/Libraries/libcdr
 </details>
 
 <details>
-<summary>libcdr</summary>
+<summary>Имя пакета: libcdr</summary>
 
 ```
 Из репозитор : updates-testing
@@ -23270,7 +23269,7 @@ URL          : http://wiki.documentfoundation.org/DLP/Libraries/libcdr
 </details>
 
 <details>
-<summary>libchamplain</summary>
+<summary>Имя пакета: libchamplain</summary>
 
 ```
 Из репозитор : anaconda
@@ -23284,7 +23283,7 @@ URL          : https://wiki.gnome.org/Projects/libchamplain
 </details>
 
 <details>
-<summary>libchamplain-gtk</summary>
+<summary>Имя пакета: libchamplain-gtk</summary>
 
 ```
 Из репозитор : anaconda
@@ -23298,7 +23297,7 @@ URL          : https://wiki.gnome.org/Projects/libchamplain
 </details>
 
 <details>
-<summary>libclc</summary>
+<summary>Имя пакета: libclc</summary>
 
 ```
 Из репозитор : fedora
@@ -23334,7 +23333,7 @@ URL          : https://libclc.llvm.org
 </details>
 
 <details>
-<summary>libcmis</summary>
+<summary>Имя пакета: libcmis</summary>
 
 ```
 Из репозитор : updates-testing
@@ -23351,7 +23350,7 @@ URL          : https://github.com/tdf/libcmis
 </details>
 
 <details>
-<summary>libcmis</summary>
+<summary>Имя пакета: libcmis</summary>
 
 ```
 Из репозитор : anaconda
@@ -23368,7 +23367,7 @@ URL          : https://github.com/tdf/libcmis
 </details>
 
 <details>
-<summary>libcollection</summary>
+<summary>Имя пакета: libcollection</summary>
 
 ```
 Из репозитор : anaconda
@@ -23382,7 +23381,7 @@ URL          : https://pagure.io/SSSD/ding-libs
 </details>
 
 <details>
-<summary>libcom_err</summary>
+<summary>Имя пакета: libcom_err</summary>
 
 ```
 Из репозитор : anaconda
@@ -23397,7 +23396,7 @@ URL          : http://e2fsprogs.sourceforge.net/
 </details>
 
 <details>
-<summary>libcom_err-devel</summary>
+<summary>Имя пакета: libcom_err-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -23415,7 +23414,7 @@ URL          : http://e2fsprogs.sourceforge.net/
 </details>
 
 <details>
-<summary>libcomps</summary>
+<summary>Имя пакета: libcomps</summary>
 
 ```
 Из репозитор : anaconda
@@ -23429,7 +23428,7 @@ URL          : https://github.com/rpm-software-management/libcomps
 </details>
 
 <details>
-<summary>libconfig</summary>
+<summary>Имя пакета: libconfig</summary>
 
 ```
 Из репозитор : fedora
@@ -23445,7 +23444,7 @@ URL          : http://www.hyperrealm.com/libconfig/
 </details>
 
 <details>
-<summary>libconfuse</summary>
+<summary>Имя пакета: libconfuse</summary>
 
 ```
 Из репозитор : fedora
@@ -23469,7 +23468,7 @@ URL          : https://github.com/martinh/libconfuse
 </details>
 
 <details>
-<summary>libcpuid</summary>
+<summary>Имя пакета: libcpuid</summary>
 
 ```
 Из репозитор : fedora
@@ -23482,7 +23481,7 @@ URL          : https://github.com/anrieff/libcpuid
 </details>
 
 <details>
-<summary>libcue</summary>
+<summary>Имя пакета: libcue</summary>
 
 ```
 Из репозитор : anaconda
@@ -23496,7 +23495,7 @@ URL          : https://github.com/lipnitsk/libcue
 </details>
 
 <details>
-<summary>libcurl</summary>
+<summary>Имя пакета: libcurl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -23514,7 +23513,7 @@ URL          : https://curl.se/
 </details>
 
 <details>
-<summary>libdaemon</summary>
+<summary>Имя пакета: libdaemon</summary>
 
 ```
 Из репозитор : anaconda
@@ -23537,7 +23536,7 @@ URL          : http://0pointer.de/lennart/projects/libdaemon/
 </details>
 
 <details>
-<summary>libdap</summary>
+<summary>Имя пакета: libdap</summary>
 
 ```
 Из репозитор : fedora
@@ -23554,7 +23553,7 @@ URL          : http://www.opendap.org/
 </details>
 
 <details>
-<summary>libdatrie</summary>
+<summary>Имя пакета: libdatrie</summary>
 
 ```
 Из репозитор : anaconda
@@ -23574,7 +23573,7 @@ URL          : http://linux.thai.net/projects/datrie
 </details>
 
 <details>
-<summary>libdatrie-devel</summary>
+<summary>Имя пакета: libdatrie-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -23588,7 +23587,7 @@ URL          : http://linux.thai.net/projects/datrie
 </details>
 
 <details>
-<summary>libdav1d</summary>
+<summary>Имя пакета: libdav1d</summary>
 
 ```
 Из репозитор : updates-testing
@@ -23601,7 +23600,7 @@ URL          : https://code.videolan.org/videolan/dav1d
 </details>
 
 <details>
-<summary>libdazzle</summary>
+<summary>Имя пакета: libdazzle</summary>
 
 ```
 Из репозитор : anaconda
@@ -23617,7 +23616,7 @@ URL          : https://git.gnome.org/browse/libdazzle/
 </details>
 
 <details>
-<summary>libdazzle</summary>
+<summary>Имя пакета: libdazzle</summary>
 
 ```
 Из репозитор : updates-testing
@@ -23633,7 +23632,7 @@ URL          : https://gitlab.gnome.org/GNOME/libdazzle
 </details>
 
 <details>
-<summary>libdb</summary>
+<summary>Имя пакета: libdb</summary>
 
 ```
 Из репозитор : anaconda
@@ -23653,7 +23652,7 @@ URL          : http://www.oracle.com/database/berkeley-db/
 </details>
 
 <details>
-<summary>libdbusmenu</summary>
+<summary>Имя пакета: libdbusmenu</summary>
 
 ```
 Из репозитор : fedora
@@ -23668,7 +23667,7 @@ URL          : https://launchpad.net/libdbusmenu
 </details>
 
 <details>
-<summary>libdbusmenu-gtk2</summary>
+<summary>Имя пакета: libdbusmenu-gtk2</summary>
 
 ```
 Из репозитор : fedora
@@ -23681,7 +23680,7 @@ URL          : https://launchpad.net/libdbusmenu
 </details>
 
 <details>
-<summary>libdbusmenu-gtk3</summary>
+<summary>Имя пакета: libdbusmenu-gtk3</summary>
 
 ```
 Из репозитор : fedora
@@ -23694,7 +23693,7 @@ URL          : https://launchpad.net/libdbusmenu
 </details>
 
 <details>
-<summary>libdc1394</summary>
+<summary>Имя пакета: libdc1394</summary>
 
 ```
 Из репозитор : fedora
@@ -23709,7 +23708,7 @@ URL          : http://sourceforge.net/projects/libdc1394/
 </details>
 
 <details>
-<summary>libdca</summary>
+<summary>Имя пакета: libdca</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -23725,7 +23724,7 @@ URL          : https://code.videolan.org/videolan/libdca
 </details>
 
 <details>
-<summary>libde265</summary>
+<summary>Имя пакета: libde265</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -23740,7 +23739,7 @@ URL          : https://www.libde265.org/
 </details>
 
 <details>
-<summary>libdhash</summary>
+<summary>Имя пакета: libdhash</summary>
 
 ```
 Из репозитор : anaconda
@@ -23754,7 +23753,7 @@ URL          : https://pagure.io/SSSD/ding-libs
 </details>
 
 <details>
-<summary>libdmapsharing</summary>
+<summary>Имя пакета: libdmapsharing</summary>
 
 ```
 Из репозитор : anaconda
@@ -23768,7 +23767,7 @@ URL          : http://www.flyn.org/projects/libdmapsharing/
 </details>
 
 <details>
-<summary>libdmx</summary>
+<summary>Имя пакета: libdmx</summary>
 
 ```
 Из репозитор : anaconda
@@ -23781,7 +23780,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libdnf</summary>
+<summary>Имя пакета: libdnf</summary>
 
 ```
 Из репозитор : anaconda
@@ -23794,7 +23793,7 @@ URL          : https://github.com/rpm-software-management/libdnf
 </details>
 
 <details>
-<summary>libdnf</summary>
+<summary>Имя пакета: libdnf</summary>
 
 ```
 Из репозитор : updates-testing
@@ -23807,7 +23806,7 @@ URL          : https://github.com/rpm-software-management/libdnf
 </details>
 
 <details>
-<summary>libdrm</summary>
+<summary>Имя пакета: libdrm</summary>
 
 ```
 Из репозитор : anaconda
@@ -23820,7 +23819,7 @@ URL          : https://dri.freedesktop.org
 </details>
 
 <details>
-<summary>libdrm-devel</summary>
+<summary>Имя пакета: libdrm-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -23833,7 +23832,7 @@ URL          : https://dri.freedesktop.org
 </details>
 
 <details>
-<summary>libdv</summary>
+<summary>Имя пакета: libdv</summary>
 
 ```
 Из репозитор : anaconda
@@ -23850,7 +23849,7 @@ URL          : http://libdv.sourceforge.net/
 </details>
 
 <details>
-<summary>libdvdnav</summary>
+<summary>Имя пакета: libdvdnav</summary>
 
 ```
 Из репозитор : anaconda
@@ -23864,7 +23863,7 @@ URL          : http://dvdnav.mplayerhq.hu/
 </details>
 
 <details>
-<summary>libdvdread</summary>
+<summary>Имя пакета: libdvdread</summary>
 
 ```
 Из репозитор : anaconda
@@ -23878,7 +23877,7 @@ URL          : http://dvdnav.mplayerhq.hu/
 </details>
 
 <details>
-<summary>libe-book</summary>
+<summary>Имя пакета: libe-book</summary>
 
 ```
 Из репозитор : anaconda
@@ -23893,7 +23892,7 @@ URL          : https://sourceforge.net/projects/libebook/
 </details>
 
 <details>
-<summary>libeconf</summary>
+<summary>Имя пакета: libeconf</summary>
 
 ```
 Из репозитор : anaconda
@@ -23908,7 +23907,7 @@ URL          : https://github.com/openSUSE/libeconf
 </details>
 
 <details>
-<summary>libedit</summary>
+<summary>Имя пакета: libedit</summary>
 
 ```
 Из репозитор : anaconda
@@ -23923,7 +23922,7 @@ URL          : https://www.thrysoee.dk/editline/
 </details>
 
 <details>
-<summary>libeot</summary>
+<summary>Имя пакета: libeot</summary>
 
 ```
 Из репозитор : anaconda
@@ -23937,7 +23936,7 @@ URL          : https://github.com/umanwizard/libeot
 </details>
 
 <details>
-<summary>libepoxy</summary>
+<summary>Имя пакета: libepoxy</summary>
 
 ```
 Из репозитор : anaconda
@@ -23950,7 +23949,7 @@ URL          : https://github.com/anholt/libepoxy
 </details>
 
 <details>
-<summary>libepubgen</summary>
+<summary>Имя пакета: libepubgen</summary>
 
 ```
 Из репозитор : anaconda
@@ -23964,7 +23963,7 @@ URL          : https://sourceforge.net/projects/libepubgen/
 </details>
 
 <details>
-<summary>liberation-fonts</summary>
+<summary>Имя пакета: liberation-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -23982,7 +23981,7 @@ URL          : https://github.com/liberationfonts/liberation-fonts
 </details>
 
 <details>
-<summary>liberation-fonts-common</summary>
+<summary>Имя пакета: liberation-fonts-common</summary>
 
 ```
 Эпоха        : 1
@@ -23999,7 +23998,7 @@ URL          : https://github.com/liberationfonts/liberation-fonts
 </details>
 
 <details>
-<summary>liberation-fonts-common</summary>
+<summary>Имя пакета: liberation-fonts-common</summary>
 
 ```
 Эпоха        : 1
@@ -24016,7 +24015,7 @@ URL          : https://github.com/liberationfonts/liberation-fonts
 </details>
 
 <details>
-<summary>liberation-mono-fonts</summary>
+<summary>Имя пакета: liberation-mono-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -24034,7 +24033,7 @@ URL          : https://github.com/liberationfonts/liberation-fonts
 </details>
 
 <details>
-<summary>liberation-mono-fonts</summary>
+<summary>Имя пакета: liberation-mono-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -24052,7 +24051,7 @@ URL          : https://github.com/liberationfonts/liberation-fonts
 </details>
 
 <details>
-<summary>liberation-sans-fonts</summary>
+<summary>Имя пакета: liberation-sans-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -24070,7 +24069,7 @@ URL          : https://github.com/liberationfonts/liberation-fonts
 </details>
 
 <details>
-<summary>liberation-sans-fonts</summary>
+<summary>Имя пакета: liberation-sans-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -24088,7 +24087,7 @@ URL          : https://github.com/liberationfonts/liberation-fonts
 </details>
 
 <details>
-<summary>liberation-serif-fonts</summary>
+<summary>Имя пакета: liberation-serif-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -24106,7 +24105,7 @@ URL          : https://github.com/liberationfonts/liberation-fonts
 </details>
 
 <details>
-<summary>liberation-serif-fonts</summary>
+<summary>Имя пакета: liberation-serif-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -24124,7 +24123,7 @@ URL          : https://github.com/liberationfonts/liberation-fonts
 </details>
 
 <details>
-<summary>libertas-usb8388-firmware</summary>
+<summary>Имя пакета: libertas-usb8388-firmware</summary>
 
 ```
 Эпоха        : 2
@@ -24138,7 +24137,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>libesmtp</summary>
+<summary>Имя пакета: libesmtp</summary>
 
 ```
 Из репозитор : fedora
@@ -24155,7 +24154,7 @@ URL          : http://www.stafford.uklinux.net/libesmtp/
 </details>
 
 <details>
-<summary>libetonyek</summary>
+<summary>Имя пакета: libetonyek</summary>
 
 ```
 Из репозитор : anaconda
@@ -24169,7 +24168,7 @@ URL          : http://wiki.documentfoundation.org/DLP/Libraries/libetonyek
 </details>
 
 <details>
-<summary>libev</summary>
+<summary>Имя пакета: libev</summary>
 
 ```
 Из репозитор : anaconda
@@ -24184,7 +24183,7 @@ URL          : http://software.schmorp.de/pkg/libev.html
 </details>
 
 <details>
-<summary>libevdev</summary>
+<summary>Имя пакета: libevdev</summary>
 
 ```
 Из репозитор : anaconda
@@ -24198,7 +24197,7 @@ URL          : http://www.freedesktop.org/wiki/Software/libevdev
 </details>
 
 <details>
-<summary>libevent</summary>
+<summary>Имя пакета: libevent</summary>
 
 ```
 Из репозитор : anaconda
@@ -24216,7 +24215,7 @@ URL          : http://libevent.org/
 </details>
 
 <details>
-<summary>libewf</summary>
+<summary>Имя пакета: libewf</summary>
 
 ```
 Из репозитор : fedora
@@ -24231,7 +24230,7 @@ URL          : http://sourceforge.net/projects/libewf/
 </details>
 
 <details>
-<summary>libexif</summary>
+<summary>Имя пакета: libexif</summary>
 
 ```
 Из репозитор : anaconda
@@ -24246,7 +24245,7 @@ URL          : https://libexif.github.io/
 </details>
 
 <details>
-<summary>libexttextcat</summary>
+<summary>Имя пакета: libexttextcat</summary>
 
 ```
 Из репозитор : anaconda
@@ -24260,7 +24259,7 @@ URL          : https://wiki.documentfoundation.org/Libexttextcat
 </details>
 
 <details>
-<summary>libfbclient2</summary>
+<summary>Имя пакета: libfbclient2</summary>
 
 ```
 Из репозитор : fedora
@@ -24279,7 +24278,7 @@ URL          : http://www.firebirdsql.org/
 </details>
 
 <details>
-<summary>libfc14audiodecoder</summary>
+<summary>Имя пакета: libfc14audiodecoder</summary>
 
 ```
 Из репозитор : fedora
@@ -24294,7 +24293,7 @@ URL          : http://xmms-fc.sourceforge.net
 </details>
 
 <details>
-<summary>libfdisk</summary>
+<summary>Имя пакета: libfdisk</summary>
 
 ```
 Из репозитор : anaconda
@@ -24307,7 +24306,7 @@ URL          : http://en.wikipedia.org/wiki/Util-linux
 </details>
 
 <details>
-<summary>libfdt</summary>
+<summary>Имя пакета: libfdt</summary>
 
 ```
 Из репозитор : anaconda
@@ -24321,7 +24320,7 @@ URL          : https://devicetree.org/
 </details>
 
 <details>
-<summary>libffi</summary>
+<summary>Имя пакета: libffi</summary>
 
 ```
 Из репозитор : anaconda
@@ -24358,7 +24357,7 @@ URL          : http://sourceware.org/libffi
 </details>
 
 <details>
-<summary>libffi-devel</summary>
+<summary>Имя пакета: libffi-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -24372,7 +24371,7 @@ URL          : http://sourceware.org/libffi
 </details>
 
 <details>
-<summary>libfido2</summary>
+<summary>Имя пакета: libfido2</summary>
 
 ```
 Из репозитор : anaconda
@@ -24390,7 +24389,7 @@ URL          : https://github.com/Yubico/libfido2
 </details>
 
 <details>
-<summary>libfontenc</summary>
+<summary>Имя пакета: libfontenc</summary>
 
 ```
 Из репозитор : anaconda
@@ -24403,7 +24402,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libfprint</summary>
+<summary>Имя пакета: libfprint</summary>
 
 ```
 Из репозитор : anaconda
@@ -24416,7 +24415,7 @@ URL          : http://www.freedesktop.org/wiki/Software/fprint/libfprint
 </details>
 
 <details>
-<summary>libfreehand</summary>
+<summary>Имя пакета: libfreehand</summary>
 
 ```
 Из репозитор : anaconda
@@ -24430,7 +24429,7 @@ URL          : http://wiki.documentfoundation.org/DLP/Libraries/libfreehand
 </details>
 
 <details>
-<summary>libftdi</summary>
+<summary>Имя пакета: libftdi</summary>
 
 ```
 Из репозитор : anaconda
@@ -24444,7 +24443,7 @@ URL          : http://www.intra2net.com/de/produkte/opensource/ftdi/
 </details>
 
 <details>
-<summary>libgcab1</summary>
+<summary>Имя пакета: libgcab1</summary>
 
 ```
 Из репозитор : anaconda
@@ -24457,7 +24456,7 @@ URL          : http://ftp.gnome.org/pub/GNOME/sources/gcab
 </details>
 
 <details>
-<summary>libgcc</summary>
+<summary>Имя пакета: libgcc</summary>
 
 ```
 Из репозитор : anaconda
@@ -24471,7 +24470,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libgcc</summary>
+<summary>Имя пакета: libgcc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24485,7 +24484,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libgcrypt</summary>
+<summary>Имя пакета: libgcrypt</summary>
 
 ```
 Из репозитор : anaconda
@@ -24499,7 +24498,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>libgcrypt</summary>
+<summary>Имя пакета: libgcrypt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24513,7 +24512,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>libgdata</summary>
+<summary>Имя пакета: libgdata</summary>
 
 ```
 Из репозитор : anaconda
@@ -24528,7 +24527,7 @@ URL          : https://wiki.gnome.org/Projects/libgdata
 </details>
 
 <details>
-<summary>libgdata</summary>
+<summary>Имя пакета: libgdata</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24543,7 +24542,7 @@ URL          : https://wiki.gnome.org/Projects/libgdata
 </details>
 
 <details>
-<summary>libgdither</summary>
+<summary>Имя пакета: libgdither</summary>
 
 ```
 Из репозитор : anaconda
@@ -24559,7 +24558,7 @@ URL          : http://plugin.org.uk/libgdither/README
 </details>
 
 <details>
-<summary>libgdl</summary>
+<summary>Имя пакета: libgdl</summary>
 
 ```
 Эпоха        : 1
@@ -24575,7 +24574,7 @@ URL          : http://www.gnome.org/
 </details>
 
 <details>
-<summary>libgee</summary>
+<summary>Имя пакета: libgee</summary>
 
 ```
 Из репозитор : anaconda
@@ -24623,7 +24622,7 @@ URL          : https://wiki.gnome.org/Projects/Libgee
 </details>
 
 <details>
-<summary>libgee</summary>
+<summary>Имя пакета: libgee</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24671,7 +24670,7 @@ URL          : https://wiki.gnome.org/Projects/Libgee
 </details>
 
 <details>
-<summary>libgeotiff</summary>
+<summary>Имя пакета: libgeotiff</summary>
 
 ```
 Из репозитор : fedora
@@ -24687,7 +24686,7 @@ URL          : http://trac.osgeo.org/geotiff/
 </details>
 
 <details>
-<summary>libgexiv2</summary>
+<summary>Имя пакета: libgexiv2</summary>
 
 ```
 Из репозитор : anaconda
@@ -24701,7 +24700,7 @@ URL          : https://wiki.gnome.org/Projects/gexiv2
 </details>
 
 <details>
-<summary>libgfapi0</summary>
+<summary>Имя пакета: libgfapi0</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24721,7 +24720,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>libgfortran</summary>
+<summary>Имя пакета: libgfortran</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24735,7 +24734,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libgfrpc0</summary>
+<summary>Имя пакета: libgfrpc0</summary>
 
 ```
 Из репозитор : anaconda
@@ -24755,7 +24754,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>libgfrpc0</summary>
+<summary>Имя пакета: libgfrpc0</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24775,7 +24774,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>libgfxdr0</summary>
+<summary>Имя пакета: libgfxdr0</summary>
 
 ```
 Из репозитор : anaconda
@@ -24795,7 +24794,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>libgfxdr0</summary>
+<summary>Имя пакета: libgfxdr0</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24815,7 +24814,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>libgit2</summary>
+<summary>Имя пакета: libgit2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24831,7 +24830,7 @@ URL          : https://libgit2.org/
 </details>
 
 <details>
-<summary>libgit2-glib</summary>
+<summary>Имя пакета: libgit2-glib</summary>
 
 ```
 Из репозитор : fedora
@@ -24844,7 +24843,7 @@ URL          : https://wiki.gnome.org/Projects/Libgit2-glib
 </details>
 
 <details>
-<summary>libglade2</summary>
+<summary>Имя пакета: libglade2</summary>
 
 ```
 Из репозитор : fedora
@@ -24866,7 +24865,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>libgle</summary>
+<summary>Имя пакета: libgle</summary>
 
 ```
 Из репозитор : fedora
@@ -24884,7 +24883,7 @@ URL          : http://www.linas.org/gle/
 </details>
 
 <details>
-<summary>libglpng</summary>
+<summary>Имя пакета: libglpng</summary>
 
 ```
 Из репозитор : fedora
@@ -24898,7 +24897,7 @@ URL          : https://admin.fedoraproject.org/pkgdb/packages/name/libglpng
 </details>
 
 <details>
-<summary>libglusterd0</summary>
+<summary>Имя пакета: libglusterd0</summary>
 
 ```
 Из репозитор : anaconda
@@ -24918,7 +24917,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>libglusterd0</summary>
+<summary>Имя пакета: libglusterd0</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24938,7 +24937,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>libglusterfs0</summary>
+<summary>Имя пакета: libglusterfs0</summary>
 
 ```
 Из репозитор : anaconda
@@ -24958,7 +24957,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>libglusterfs0</summary>
+<summary>Имя пакета: libglusterfs0</summary>
 
 ```
 Из репозитор : updates-testing
@@ -24978,7 +24977,7 @@ URL          : http://docs.gluster.org/
 </details>
 
 <details>
-<summary>libglvnd</summary>
+<summary>Имя пакета: libglvnd</summary>
 
 ```
 Эпоха        : 1
@@ -24993,7 +24992,7 @@ URL          : https://github.com/NVIDIA/libglvnd
 </details>
 
 <details>
-<summary>libglvnd-core-devel</summary>
+<summary>Имя пакета: libglvnd-core-devel</summary>
 
 ```
 Эпоха        : 1
@@ -25010,7 +25009,7 @@ URL          : https://github.com/NVIDIA/libglvnd
 </details>
 
 <details>
-<summary>libglvnd-devel</summary>
+<summary>Имя пакета: libglvnd-devel</summary>
 
 ```
 Эпоха        : 1
@@ -25025,7 +25024,7 @@ URL          : https://github.com/NVIDIA/libglvnd
 </details>
 
 <details>
-<summary>libglvnd-egl</summary>
+<summary>Имя пакета: libglvnd-egl</summary>
 
 ```
 Эпоха        : 1
@@ -25039,7 +25038,7 @@ URL          : https://github.com/NVIDIA/libglvnd
 </details>
 
 <details>
-<summary>libglvnd-gles</summary>
+<summary>Имя пакета: libglvnd-gles</summary>
 
 ```
 Эпоха        : 1
@@ -25053,7 +25052,7 @@ URL          : https://github.com/NVIDIA/libglvnd
 </details>
 
 <details>
-<summary>libglvnd-glx</summary>
+<summary>Имя пакета: libglvnd-glx</summary>
 
 ```
 Эпоха        : 1
@@ -25067,7 +25066,7 @@ URL          : https://github.com/NVIDIA/libglvnd
 </details>
 
 <details>
-<summary>libglvnd-opengl</summary>
+<summary>Имя пакета: libglvnd-opengl</summary>
 
 ```
 Эпоха        : 1
@@ -25081,7 +25080,7 @@ URL          : https://github.com/NVIDIA/libglvnd
 </details>
 
 <details>
-<summary>libgnome</summary>
+<summary>Имя пакета: libgnome</summary>
 
 ```
 Из репозитор : fedora
@@ -25098,7 +25097,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>libgnome-keyring</summary>
+<summary>Имя пакета: libgnome-keyring</summary>
 
 ```
 Из репозитор : fedora
@@ -25113,7 +25112,7 @@ URL          : http://live.gnome.org/GnomeKeyring
 </details>
 
 <details>
-<summary>libgnomecanvas</summary>
+<summary>Имя пакета: libgnomecanvas</summary>
 
 ```
 Из репозитор : fedora
@@ -25128,7 +25127,7 @@ URL          : http://www.gnome.org/
 </details>
 
 <details>
-<summary>libgnomekbd</summary>
+<summary>Имя пакета: libgnomekbd</summary>
 
 ```
 Из репозитор : anaconda
@@ -25143,7 +25142,7 @@ URL          : http://gswitchit.sourceforge.net
 </details>
 
 <details>
-<summary>libgnomeui</summary>
+<summary>Имя пакета: libgnomeui</summary>
 
 ```
 Из репозитор : fedora
@@ -25161,7 +25160,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>libgomp</summary>
+<summary>Имя пакета: libgomp</summary>
 
 ```
 Из репозитор : anaconda
@@ -25175,7 +25174,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libgomp</summary>
+<summary>Имя пакета: libgomp</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25189,7 +25188,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libgpg-error</summary>
+<summary>Имя пакета: libgpg-error</summary>
 
 ```
 Из репозитор : anaconda
@@ -25204,7 +25203,7 @@ URL          : https://www.gnupg.org/related_software/libgpg-error/
 </details>
 
 <details>
-<summary>libgpg-error</summary>
+<summary>Имя пакета: libgpg-error</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25219,7 +25218,7 @@ URL          : https://www.gnupg.org/related_software/libgpg-error/
 </details>
 
 <details>
-<summary>libgpg-error-devel</summary>
+<summary>Имя пакета: libgpg-error-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25235,7 +25234,7 @@ URL          : https://www.gnupg.org/related_software/libgpg-error/
 </details>
 
 <details>
-<summary>libgphoto2</summary>
+<summary>Имя пакета: libgphoto2</summary>
 
 ```
 Из репозитор : anaconda
@@ -25251,7 +25250,7 @@ URL          : http://www.gphoto.org/
 </details>
 
 <details>
-<summary>libgphoto2</summary>
+<summary>Имя пакета: libgphoto2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25267,7 +25266,7 @@ URL          : http://www.gphoto.org/
 </details>
 
 <details>
-<summary>libgpod</summary>
+<summary>Имя пакета: libgpod</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25281,7 +25280,7 @@ URL          : http://www.gtkpod.org/libgpod.html
 </details>
 
 <details>
-<summary>libgpuarray</summary>
+<summary>Имя пакета: libgpuarray</summary>
 
 ```
 Из репозитор : fedora
@@ -25296,7 +25295,7 @@ URL          : http://deeplearning.net/software/libgpuarray/
 </details>
 
 <details>
-<summary>libgrss</summary>
+<summary>Имя пакета: libgrss</summary>
 
 ```
 Из репозитор : anaconda
@@ -25309,7 +25308,7 @@ URL          : https://wiki.gnome.org/Projects/Libgrss
 </details>
 
 <details>
-<summary>libgs</summary>
+<summary>Имя пакета: libgs</summary>
 
 ```
 Из репозитор : anaconda
@@ -25323,7 +25322,7 @@ URL          : https://ghostscript.com/
 </details>
 
 <details>
-<summary>libgsf</summary>
+<summary>Имя пакета: libgsf</summary>
 
 ```
 Из репозитор : anaconda
@@ -25336,7 +25335,7 @@ URL          : http://www.gnome.org/projects/libgsf/
 </details>
 
 <details>
-<summary>libgta</summary>
+<summary>Имя пакета: libgta</summary>
 
 ```
 Из репозитор : fedora
@@ -25350,7 +25349,7 @@ URL          : https://marlam.de/gta/
 </details>
 
 <details>
-<summary>libgtop2</summary>
+<summary>Имя пакета: libgtop2</summary>
 
 ```
 Из репозитор : anaconda
@@ -25364,7 +25363,7 @@ URL          : http://download.gnome.org/sources/libgtop
 </details>
 
 <details>
-<summary>libgudev</summary>
+<summary>Имя пакета: libgudev</summary>
 
 ```
 Из репозитор : anaconda
@@ -25380,7 +25379,7 @@ URL          : https://wiki.gnome.org/Projects/libgudev
 </details>
 
 <details>
-<summary>libgudev</summary>
+<summary>Имя пакета: libgudev</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25396,7 +25395,7 @@ URL          : https://wiki.gnome.org/Projects/libgudev
 </details>
 
 <details>
-<summary>libguestfs</summary>
+<summary>Имя пакета: libguestfs</summary>
 
 ```
 Эпоха        : 1
@@ -25455,7 +25454,7 @@ URL          : http://libguestfs.org/
 </details>
 
 <details>
-<summary>libguestfs-devel</summary>
+<summary>Имя пакета: libguestfs-devel</summary>
 
 ```
 Эпоха        : 1
@@ -25470,7 +25469,7 @@ URL          : http://libguestfs.org/
 </details>
 
 <details>
-<summary>libguestfs-vala</summary>
+<summary>Имя пакета: libguestfs-vala</summary>
 
 ```
 Эпоха        : 1
@@ -25484,7 +25483,7 @@ URL          : http://libguestfs.org/
 </details>
 
 <details>
-<summary>libgusb</summary>
+<summary>Имя пакета: libgusb</summary>
 
 ```
 Из репозитор : anaconda
@@ -25499,7 +25498,7 @@ URL          : https://github.com/hughsie/libgusb
 </details>
 
 <details>
-<summary>libgusb</summary>
+<summary>Имя пакета: libgusb</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25514,7 +25513,7 @@ URL          : https://github.com/hughsie/libgusb
 </details>
 
 <details>
-<summary>libgweather</summary>
+<summary>Имя пакета: libgweather</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25528,7 +25527,7 @@ URL          : https://wiki.gnome.org/Projects/LibGWeather
 </details>
 
 <details>
-<summary>libgweather</summary>
+<summary>Имя пакета: libgweather</summary>
 
 ```
 Из репозитор : anaconda
@@ -25542,7 +25541,7 @@ URL          : https://wiki.gnome.org/Projects/LibGWeather
 </details>
 
 <details>
-<summary>libgxps</summary>
+<summary>Имя пакета: libgxps</summary>
 
 ```
 Из репозитор : anaconda
@@ -25556,7 +25555,7 @@ URL          : https://wiki.gnome.org/Projects/libgxps
 </details>
 
 <details>
-<summary>libgxps</summary>
+<summary>Имя пакета: libgxps</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25570,7 +25569,7 @@ URL          : https://wiki.gnome.org/Projects/libgxps
 </details>
 
 <details>
-<summary>libhandy</summary>
+<summary>Имя пакета: libhandy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25584,7 +25583,7 @@ URL          : https://gitlab.gnome.org/GNOME/libhandy
 </details>
 
 <details>
-<summary>libhangul</summary>
+<summary>Имя пакета: libhangul</summary>
 
 ```
 Из репозитор : anaconda
@@ -25597,7 +25596,7 @@ URL          : https://github.com/libhangul/libhangul
 </details>
 
 <details>
-<summary>libharu</summary>
+<summary>Имя пакета: libharu</summary>
 
 ```
 Из репозитор : fedora
@@ -25611,7 +25610,7 @@ URL          : http://libharu.org
 </details>
 
 <details>
-<summary>libheif</summary>
+<summary>Имя пакета: libheif</summary>
 
 ```
 Из репозитор : rpmfusion-free-updates-testing
@@ -25626,7 +25625,7 @@ URL          : https://github.com/strukturag/libheif
 </details>
 
 <details>
-<summary>libibverbs</summary>
+<summary>Имя пакета: libibverbs</summary>
 
 ```
 Из репозитор : anaconda
@@ -25660,7 +25659,7 @@ URL          : https://github.com/linux-rdma/rdma-core
 </details>
 
 <details>
-<summary>libibverbs</summary>
+<summary>Имя пакета: libibverbs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25694,7 +25693,7 @@ URL          : https://github.com/linux-rdma/rdma-core
 </details>
 
 <details>
-<summary>libical</summary>
+<summary>Имя пакета: libical</summary>
 
 ```
 Из репозитор : anaconda
@@ -25708,7 +25707,7 @@ URL          : https://libical.github.io/libical/
 </details>
 
 <details>
-<summary>libical-glib</summary>
+<summary>Имя пакета: libical-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -25722,7 +25721,7 @@ URL          : https://libical.github.io/libical/
 </details>
 
 <details>
-<summary>libicu</summary>
+<summary>Имя пакета: libicu</summary>
 
 ```
 Из репозитор : anaconda
@@ -25744,7 +25743,7 @@ URL          : http://site.icu-project.org/
 </details>
 
 <details>
-<summary>libicu</summary>
+<summary>Имя пакета: libicu</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25766,7 +25765,7 @@ URL          : http://site.icu-project.org/
 </details>
 
 <details>
-<summary>libicu-devel</summary>
+<summary>Имя пакета: libicu-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25779,7 +25778,7 @@ URL          : http://site.icu-project.org/
 </details>
 
 <details>
-<summary>libid3tag</summary>
+<summary>Имя пакета: libid3tag</summary>
 
 ```
 Из репозитор : fedora
@@ -25793,7 +25792,7 @@ URL          : http://www.underbit.com/products/mad/
 </details>
 
 <details>
-<summary>libidn2</summary>
+<summary>Имя пакета: libidn2</summary>
 
 ```
 Из репозитор : anaconda
@@ -25808,7 +25807,7 @@ URL          : https://www.gnu.org/software/libidn/#libidn2
 </details>
 
 <details>
-<summary>libiec61883</summary>
+<summary>Имя пакета: libiec61883</summary>
 
 ```
 Из репозитор : anaconda
@@ -25825,7 +25824,7 @@ URL          : http://ieee1394.wiki.kernel.org/index.php/Libraries#libiec61883
 </details>
 
 <details>
-<summary>libieee1284</summary>
+<summary>Имя пакета: libieee1284</summary>
 
 ```
 Из репозитор : anaconda
@@ -25838,7 +25837,7 @@ URL          : http://cyberelk.net/tim/libieee1284/
 </details>
 
 <details>
-<summary>libieee1284-devel</summary>
+<summary>Имя пакета: libieee1284-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -25852,7 +25851,7 @@ URL          : http://cyberelk.net/tim/libieee1284/
 </details>
 
 <details>
-<summary>libijs</summary>
+<summary>Имя пакета: libijs</summary>
 
 ```
 Из репозитор : anaconda
@@ -25869,7 +25868,7 @@ URL          : https://ghostscript.com/
 </details>
 
 <details>
-<summary>libimagequant</summary>
+<summary>Имя пакета: libimagequant</summary>
 
 ```
 Из репозитор : anaconda
@@ -25883,7 +25882,7 @@ URL          : https://github.com/ImageOptim/libimagequant
 </details>
 
 <details>
-<summary>libimagequant</summary>
+<summary>Имя пакета: libimagequant</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25897,7 +25896,7 @@ URL          : https://github.com/ImageOptim/libimagequant
 </details>
 
 <details>
-<summary>libimagequant-devel</summary>
+<summary>Имя пакета: libimagequant-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -25911,7 +25910,7 @@ URL          : https://github.com/ImageOptim/libimagequant
 </details>
 
 <details>
-<summary>libimobiledevice</summary>
+<summary>Имя пакета: libimobiledevice</summary>
 
 ```
 Из репозитор : anaconda
@@ -25925,7 +25924,7 @@ URL          : http://www.libimobiledevice.org/
 </details>
 
 <details>
-<summary>libindicator</summary>
+<summary>Имя пакета: libindicator</summary>
 
 ```
 Из репозитор : fedora
@@ -25939,7 +25938,7 @@ URL          : https://launchpad.net/libindicator
 </details>
 
 <details>
-<summary>libindicator-gtk3</summary>
+<summary>Имя пакета: libindicator-gtk3</summary>
 
 ```
 Из репозитор : fedora
@@ -25954,7 +25953,7 @@ URL          : https://launchpad.net/libindicator
 </details>
 
 <details>
-<summary>libini_config</summary>
+<summary>Имя пакета: libini_config</summary>
 
 ```
 Из репозитор : anaconda
@@ -25968,7 +25967,7 @@ URL          : https://pagure.io/SSSD/ding-libs
 </details>
 
 <details>
-<summary>libinput</summary>
+<summary>Имя пакета: libinput</summary>
 
 ```
 Из репозитор : anaconda
@@ -25986,7 +25985,7 @@ URL          : http://www.freedesktop.org/wiki/Software/libinput/
 </details>
 
 <details>
-<summary>libinput</summary>
+<summary>Имя пакета: libinput</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26004,7 +26003,7 @@ URL          : http://www.freedesktop.org/wiki/Software/libinput/
 </details>
 
 <details>
-<summary>libinsane</summary>
+<summary>Имя пакета: libinsane</summary>
 
 ```
 Из репозитор : fedora
@@ -26019,7 +26018,7 @@ URL          : https://doc.openpaper.work/libinsane/latest/
 </details>
 
 <details>
-<summary>libinsane-devel</summary>
+<summary>Имя пакета: libinsane-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -26032,7 +26031,7 @@ URL          : https://doc.openpaper.work/libinsane/latest/
 </details>
 
 <details>
-<summary>libinsane-gobject</summary>
+<summary>Имя пакета: libinsane-gobject</summary>
 
 ```
 Из репозитор : fedora
@@ -26049,7 +26048,7 @@ URL          : https://doc.openpaper.work/libinsane/latest/
 </details>
 
 <details>
-<summary>libinsane-gobject-devel</summary>
+<summary>Имя пакета: libinsane-gobject-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -26062,7 +26061,7 @@ URL          : https://doc.openpaper.work/libinsane/latest/
 </details>
 
 <details>
-<summary>libinsane-vala</summary>
+<summary>Имя пакета: libinsane-vala</summary>
 
 ```
 Из репозитор : fedora
@@ -26075,7 +26074,7 @@ URL          : https://doc.openpaper.work/libinsane/latest/
 </details>
 
 <details>
-<summary>libipa_hbac</summary>
+<summary>Имя пакета: libipa_hbac</summary>
 
 ```
 Из репозитор : anaconda
@@ -26088,7 +26087,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libipa_hbac</summary>
+<summary>Имя пакета: libipa_hbac</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26101,7 +26100,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libipt</summary>
+<summary>Имя пакета: libipt</summary>
 
 ```
 Из репозитор : anaconda
@@ -26116,7 +26115,7 @@ URL          : https://github.com/intel/libipt
 </details>
 
 <details>
-<summary>libipt</summary>
+<summary>Имя пакета: libipt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26131,7 +26130,7 @@ URL          : https://github.com/intel/libipt
 </details>
 
 <details>
-<summary>libiptcdata</summary>
+<summary>Имя пакета: libiptcdata</summary>
 
 ```
 Из репозитор : anaconda
@@ -26148,7 +26147,7 @@ URL          : https://github.com/ianw/libiptcdata
 </details>
 
 <details>
-<summary>libiscsi</summary>
+<summary>Имя пакета: libiscsi</summary>
 
 ```
 Из репозитор : anaconda
@@ -26162,7 +26161,7 @@ URL          : https://github.com/sahlberg/libiscsi
 </details>
 
 <details>
-<summary>libjaylink</summary>
+<summary>Имя пакета: libjaylink</summary>
 
 ```
 Из репозитор : anaconda
@@ -26176,7 +26175,7 @@ URL          : https://gitlab.zapb.de/libjaylink/libjaylink
 </details>
 
 <details>
-<summary>libjcat</summary>
+<summary>Имя пакета: libjcat</summary>
 
 ```
 Из репозитор : anaconda
@@ -26193,7 +26192,7 @@ URL          : https://github.com/hughsie/libjcat
 </details>
 
 <details>
-<summary>libjpeg-turbo</summary>
+<summary>Имя пакета: libjpeg-turbo</summary>
 
 ```
 Из репозитор : anaconda
@@ -26207,7 +26206,7 @@ URL          : http://sourceforge.net/projects/libjpeg-turbo
 </details>
 
 <details>
-<summary>libjpeg-turbo</summary>
+<summary>Имя пакета: libjpeg-turbo</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26221,7 +26220,7 @@ URL          : http://sourceforge.net/projects/libjpeg-turbo
 </details>
 
 <details>
-<summary>libjpeg-turbo-devel</summary>
+<summary>Имя пакета: libjpeg-turbo-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26235,7 +26234,7 @@ URL          : http://sourceforge.net/projects/libjpeg-turbo
 </details>
 
 <details>
-<summary>libkadm5</summary>
+<summary>Имя пакета: libkadm5</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26250,7 +26249,7 @@ URL          : https://web.mit.edu/kerberos/www/
 </details>
 
 <details>
-<summary>libkcapi</summary>
+<summary>Имя пакета: libkcapi</summary>
 
 ```
 Из репозитор : anaconda
@@ -26274,7 +26273,7 @@ URL          : http://www.chronox.de/libkcapi.html
 </details>
 
 <details>
-<summary>libkcapi</summary>
+<summary>Имя пакета: libkcapi</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26298,7 +26297,7 @@ URL          : https://www.chronox.de/libkcapi.html
 </details>
 
 <details>
-<summary>libkcapi-hmaccalc</summary>
+<summary>Имя пакета: libkcapi-hmaccalc</summary>
 
 ```
 Из репозитор : anaconda
@@ -26312,7 +26311,7 @@ URL          : http://www.chronox.de/libkcapi.html
 </details>
 
 <details>
-<summary>libkcapi-hmaccalc</summary>
+<summary>Имя пакета: libkcapi-hmaccalc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26326,7 +26325,7 @@ URL          : https://www.chronox.de/libkcapi.html
 </details>
 
 <details>
-<summary>libkml</summary>
+<summary>Имя пакета: libkml</summary>
 
 ```
 Из репозитор : fedora
@@ -26341,7 +26340,7 @@ URL          : https://github.com/libkml/libkml
 </details>
 
 <details>
-<summary>libksba</summary>
+<summary>Имя пакета: libksba</summary>
 
 ```
 Из репозитор : anaconda
@@ -26356,7 +26355,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>liblangtag</summary>
+<summary>Имя пакета: liblangtag</summary>
 
 ```
 Из репозитор : anaconda
@@ -26385,7 +26384,7 @@ URL          : http://tagoh.bitbucket.org/liblangtag/
 </details>
 
 <details>
-<summary>liblangtag-data</summary>
+<summary>Имя пакета: liblangtag-data</summary>
 
 ```
 Из репозитор : anaconda
@@ -26398,7 +26397,7 @@ URL          : http://tagoh.bitbucket.org/liblangtag/
 </details>
 
 <details>
-<summary>libldac</summary>
+<summary>Имя пакета: libldac</summary>
 
 ```
 Из репозитор : anaconda
@@ -26413,7 +26412,7 @@ URL          : https://github.com/EHfive/ldacBT
 </details>
 
 <details>
-<summary>libldb</summary>
+<summary>Имя пакета: libldb</summary>
 
 ```
 Из репозитор : anaconda
@@ -26427,7 +26426,7 @@ URL          : http://ldb.samba.org/
 </details>
 
 <details>
-<summary>libldb</summary>
+<summary>Имя пакета: libldb</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26441,7 +26440,7 @@ URL          : http://ldb.samba.org/
 </details>
 
 <details>
-<summary>liblockfile</summary>
+<summary>Имя пакета: liblockfile</summary>
 
 ```
 Из репозитор : fedora
@@ -26459,7 +26458,7 @@ URL          : http://packages.qa.debian.org/libl/liblockfile.html
 </details>
 
 <details>
-<summary>liblouis</summary>
+<summary>Имя пакета: liblouis</summary>
 
 ```
 Из репозитор : anaconda
@@ -26484,7 +26483,7 @@ URL          : http://liblouis.org
 </details>
 
 <details>
-<summary>liblqr-1</summary>
+<summary>Имя пакета: liblqr-1</summary>
 
 ```
 Из репозитор : fedora
@@ -26499,7 +26498,7 @@ URL          : http://liquidrescale.wikidot.com/
 </details>
 
 <details>
-<summary>liblrdf</summary>
+<summary>Имя пакета: liblrdf</summary>
 
 ```
 Из репозитор : anaconda
@@ -26513,7 +26512,7 @@ URL          : https://github.com/swh/LRDF
 </details>
 
 <details>
-<summary>libmad</summary>
+<summary>Имя пакета: libmad</summary>
 
 ```
 Из репозитор : fedora
@@ -26529,7 +26528,7 @@ URL          : http://www.underbit.com/products/mad/
 </details>
 
 <details>
-<summary>libmarkdown</summary>
+<summary>Имя пакета: libmarkdown</summary>
 
 ```
 Из репозитор : fedora
@@ -26543,7 +26542,7 @@ URL          : http://www.pell.portland.or.us/~orc/Code/discount
 </details>
 
 <details>
-<summary>libmaxminddb</summary>
+<summary>Имя пакета: libmaxminddb</summary>
 
 ```
 Из репозитор : anaconda
@@ -26556,7 +26555,7 @@ URL          : https://maxmind.github.io/libmaxminddb
 </details>
 
 <details>
-<summary>libmaxminddb</summary>
+<summary>Имя пакета: libmaxminddb</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26569,7 +26568,7 @@ URL          : https://maxmind.github.io/libmaxminddb
 </details>
 
 <details>
-<summary>libmaxminddb-devel</summary>
+<summary>Имя пакета: libmaxminddb-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -26583,7 +26582,7 @@ URL          : https://maxmind.github.io/libmaxminddb
 </details>
 
 <details>
-<summary>libmbim</summary>
+<summary>Имя пакета: libmbim</summary>
 
 ```
 Из репозитор : anaconda
@@ -26597,7 +26596,7 @@ URL          : http://freedesktop.org/software/libmbim
 </details>
 
 <details>
-<summary>libmbim-utils</summary>
+<summary>Имя пакета: libmbim-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -26611,7 +26610,7 @@ URL          : http://freedesktop.org/software/libmbim
 </details>
 
 <details>
-<summary>libmcpp</summary>
+<summary>Имя пакета: libmcpp</summary>
 
 ```
 Из репозитор : anaconda
@@ -26624,7 +26623,7 @@ URL          : http://mcpp.sourceforge.net/
 </details>
 
 <details>
-<summary>libmediaart</summary>
+<summary>Имя пакета: libmediaart</summary>
 
 ```
 Из репозитор : anaconda
@@ -26637,7 +26636,7 @@ URL          : https://gitlab.gnome.org/GNOME/libmediaart
 </details>
 
 <details>
-<summary>libmemcached-libs</summary>
+<summary>Имя пакета: libmemcached-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -26650,7 +26649,7 @@ URL          : http://libmemcached.org/
 </details>
 
 <details>
-<summary>libmetalink</summary>
+<summary>Имя пакета: libmetalink</summary>
 
 ```
 Из репозитор : anaconda
@@ -26664,7 +26663,7 @@ URL          : https://launchpad.net/libmetalink
 </details>
 
 <details>
-<summary>libmicrodns</summary>
+<summary>Имя пакета: libmicrodns</summary>
 
 ```
 Из репозитор : anaconda
@@ -26677,7 +26676,7 @@ URL          : https://github.com/videolabs/libmicrodns
 </details>
 
 <details>
-<summary>libmikmod</summary>
+<summary>Имя пакета: libmikmod</summary>
 
 ```
 Из репозитор : fedora
@@ -26692,7 +26691,7 @@ URL          : http://mikmod.sourceforge.net/
 </details>
 
 <details>
-<summary>libmms</summary>
+<summary>Имя пакета: libmms</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -26709,7 +26708,7 @@ URL          : http://www.sf.net/projects/libmms
 </details>
 
 <details>
-<summary>libmng</summary>
+<summary>Имя пакета: libmng</summary>
 
 ```
 Из репозитор : fedora
@@ -26725,7 +26724,7 @@ URL          : http://www.libmng.com/
 </details>
 
 <details>
-<summary>libmnl</summary>
+<summary>Имя пакета: libmnl</summary>
 
 ```
 Из репозитор : anaconda
@@ -26742,7 +26741,7 @@ URL          : http://netfilter.org/projects/libmnl
 </details>
 
 <details>
-<summary>libmnl-devel</summary>
+<summary>Имя пакета: libmnl-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -26756,7 +26755,7 @@ URL          : http://netfilter.org/projects/libmnl
 </details>
 
 <details>
-<summary>libmodplug</summary>
+<summary>Имя пакета: libmodplug</summary>
 
 ```
 Эпоха        : 1
@@ -26770,7 +26769,7 @@ URL          : http://modplug-xmms.sourceforge.net/
 </details>
 
 <details>
-<summary>libmodulemd</summary>
+<summary>Имя пакета: libmodulemd</summary>
 
 ```
 Из репозитор : anaconda
@@ -26785,7 +26784,7 @@ URL          : https://github.com/fedora-modularity/libmodulemd
 </details>
 
 <details>
-<summary>libmount</summary>
+<summary>Имя пакета: libmount</summary>
 
 ```
 Из репозитор : anaconda
@@ -26798,7 +26797,7 @@ URL          : http://en.wikipedia.org/wiki/Util-linux
 </details>
 
 <details>
-<summary>libmount-devel</summary>
+<summary>Имя пакета: libmount-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -26812,7 +26811,7 @@ URL          : http://en.wikipedia.org/wiki/Util-linux
 </details>
 
 <details>
-<summary>libmp3splt</summary>
+<summary>Имя пакета: libmp3splt</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -26838,7 +26837,7 @@ URL          : http://mp3splt.sourceforge.net/
 </details>
 
 <details>
-<summary>libmp4v2</summary>
+<summary>Имя пакета: libmp4v2</summary>
 
 ```
 Из репозитор : fedora
@@ -26853,7 +26852,7 @@ URL          : http://code.google.com/p/mp4v2
 </details>
 
 <details>
-<summary>libmpc</summary>
+<summary>Имя пакета: libmpc</summary>
 
 ```
 Из репозитор : anaconda
@@ -26868,7 +26867,7 @@ URL          : http://www.multiprecision.org/mpc/
 </details>
 
 <details>
-<summary>libmpcdec</summary>
+<summary>Имя пакета: libmpcdec</summary>
 
 ```
 Из репозитор : fedora
@@ -26887,7 +26886,7 @@ URL          : http://www.musepack.net/
 </details>
 
 <details>
-<summary>libmpeg2</summary>
+<summary>Имя пакета: libmpeg2</summary>
 
 ```
 Из репозитор : anaconda
@@ -26901,7 +26900,7 @@ URL          : http://libmpeg2.sourceforge.net
 </details>
 
 <details>
-<summary>libmpeg3</summary>
+<summary>Имя пакета: libmpeg3</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -26923,7 +26922,7 @@ URL          : http://heroinewarrior.com/libmpeg3.php3
 </details>
 
 <details>
-<summary>libmpeg3-utils</summary>
+<summary>Имя пакета: libmpeg3-utils</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -26939,7 +26938,7 @@ URL          : http://heroinewarrior.com/libmpeg3.php3
 </details>
 
 <details>
-<summary>libmspack</summary>
+<summary>Имя пакета: libmspack</summary>
 
 ```
 Из репозитор : anaconda
@@ -26953,7 +26952,7 @@ URL          : http://www.cabextract.org.uk/libmspack/
 </details>
 
 <details>
-<summary>libmspub</summary>
+<summary>Имя пакета: libmspub</summary>
 
 ```
 Из репозитор : anaconda
@@ -26968,7 +26967,7 @@ URL          : http://wiki.documentfoundation.org/DLP/Libraries/libmspub
 </details>
 
 <details>
-<summary>libmtp</summary>
+<summary>Имя пакета: libmtp</summary>
 
 ```
 Из репозитор : anaconda
@@ -26983,7 +26982,7 @@ URL          : http://libmtp.sourceforge.net/
 </details>
 
 <details>
-<summary>libmusicbrainz5</summary>
+<summary>Имя пакета: libmusicbrainz5</summary>
 
 ```
 Из репозитор : anaconda
@@ -26998,7 +26997,7 @@ URL          : http://www.musicbrainz.org/
 </details>
 
 <details>
-<summary>libmwaw</summary>
+<summary>Имя пакета: libmwaw</summary>
 
 ```
 Из репозитор : anaconda
@@ -27016,7 +27015,7 @@ URL          : http://sourceforge.net/projects/libmwaw/
 </details>
 
 <details>
-<summary>libmwaw</summary>
+<summary>Имя пакета: libmwaw</summary>
 
 ```
 Из репозитор : updates-testing
@@ -27034,7 +27033,7 @@ URL          : http://sourceforge.net/projects/libmwaw/
 </details>
 
 <details>
-<summary>libmypaint</summary>
+<summary>Имя пакета: libmypaint</summary>
 
 ```
 Из репозитор : fedora
@@ -27047,7 +27046,7 @@ URL          : https://github.com/mypaint/libmypaint
 </details>
 
 <details>
-<summary>libmysofa</summary>
+<summary>Имя пакета: libmysofa</summary>
 
 ```
 Из репозитор : fedora
@@ -27061,7 +27060,7 @@ URL          : https://github.com/hoene/libmysofa
 </details>
 
 <details>
-<summary>libnauty</summary>
+<summary>Имя пакета: libnauty</summary>
 
 ```
 Из репозитор : fedora
@@ -27076,7 +27075,7 @@ URL          : http://pallini.di.uniroma1.it/
 </details>
 
 <details>
-<summary>libndp</summary>
+<summary>Имя пакета: libndp</summary>
 
 ```
 Из репозитор : anaconda
@@ -27091,7 +27090,7 @@ URL          : http://www.libndp.org/
 </details>
 
 <details>
-<summary>libnet</summary>
+<summary>Имя пакета: libnet</summary>
 
 ```
 Из репозитор : anaconda
@@ -27109,7 +27108,7 @@ URL          : https://github.com/libnet/libnet
 </details>
 
 <details>
-<summary>libnet-devel</summary>
+<summary>Имя пакета: libnet-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27125,7 +27124,7 @@ URL          : https://github.com/libnet/libnet
 </details>
 
 <details>
-<summary>libnet-doc</summary>
+<summary>Имя пакета: libnet-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -27141,7 +27140,7 @@ URL          : https://github.com/libnet/libnet
 </details>
 
 <details>
-<summary>libnet10</summary>
+<summary>Имя пакета: libnet10</summary>
 
 ```
 Из репозитор : fedora
@@ -27165,7 +27164,7 @@ URL          : http://www.packetfactory.net/libnet/
 </details>
 
 <details>
-<summary>libnet10-devel</summary>
+<summary>Имя пакета: libnet10-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27186,7 +27185,7 @@ URL          : http://www.packetfactory.net/libnet/
 </details>
 
 <details>
-<summary>libnetfilter_acct</summary>
+<summary>Имя пакета: libnetfilter_acct</summary>
 
 ```
 Из репозитор : fedora
@@ -27202,7 +27201,7 @@ URL          : http://www.netfilter.org/projects/libnetfilter_acct/index.html
 </details>
 
 <details>
-<summary>libnetfilter_acct-devel</summary>
+<summary>Имя пакета: libnetfilter_acct-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27216,7 +27215,7 @@ URL          : http://www.netfilter.org/projects/libnetfilter_acct/index.html
 </details>
 
 <details>
-<summary>libnetfilter_conntrack</summary>
+<summary>Имя пакета: libnetfilter_conntrack</summary>
 
 ```
 Из репозитор : anaconda
@@ -27230,7 +27229,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnetfilter_conntrack-devel</summary>
+<summary>Имя пакета: libnetfilter_conntrack-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27244,7 +27243,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnetfilter_cthelper</summary>
+<summary>Имя пакета: libnetfilter_cthelper</summary>
 
 ```
 Из репозитор : fedora
@@ -27258,7 +27257,7 @@ URL          : http://www.netfilter.org/projects/libnetfilter_cthelper/index.htm
 </details>
 
 <details>
-<summary>libnetfilter_cthelper-devel</summary>
+<summary>Имя пакета: libnetfilter_cthelper-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27272,7 +27271,7 @@ URL          : http://www.netfilter.org/projects/libnetfilter_cthelper/index.htm
 </details>
 
 <details>
-<summary>libnetfilter_cttimeout</summary>
+<summary>Имя пакета: libnetfilter_cttimeout</summary>
 
 ```
 Из репозитор : fedora
@@ -27290,7 +27289,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnetfilter_cttimeout-devel</summary>
+<summary>Имя пакета: libnetfilter_cttimeout-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27308,7 +27307,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnetfilter_log</summary>
+<summary>Имя пакета: libnetfilter_log</summary>
 
 ```
 Из репозитор : fedora
@@ -27327,7 +27326,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnetfilter_log-devel</summary>
+<summary>Имя пакета: libnetfilter_log-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27346,7 +27345,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnetfilter_queue</summary>
+<summary>Имя пакета: libnetfilter_queue</summary>
 
 ```
 Из репозитор : fedora
@@ -27363,7 +27362,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnetfilter_queue-devel</summary>
+<summary>Имя пакета: libnetfilter_queue-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27380,7 +27379,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnfnetlink</summary>
+<summary>Имя пакета: libnfnetlink</summary>
 
 ```
 Из репозитор : anaconda
@@ -27396,7 +27395,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnfnetlink-devel</summary>
+<summary>Имя пакета: libnfnetlink-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27412,7 +27411,7 @@ URL          : http://netfilter.org
 </details>
 
 <details>
-<summary>libnfs</summary>
+<summary>Имя пакета: libnfs</summary>
 
 ```
 Из репозитор : anaconda
@@ -27429,7 +27428,7 @@ URL          : https://github.com/sahlberg/libnfs
 </details>
 
 <details>
-<summary>libnfsidmap</summary>
+<summary>Имя пакета: libnfsidmap</summary>
 
 ```
 Эпоха        : 1
@@ -27443,7 +27442,7 @@ URL          : http://linux-nfs.org/
 </details>
 
 <details>
-<summary>libnftnl</summary>
+<summary>Имя пакета: libnftnl</summary>
 
 ```
 Из репозитор : anaconda
@@ -27456,7 +27455,7 @@ URL          : https://netfilter.org/projects/libnftnl/
 </details>
 
 <details>
-<summary>libnghttp2</summary>
+<summary>Имя пакета: libnghttp2</summary>
 
 ```
 Из репозитор : anaconda
@@ -27470,7 +27469,7 @@ URL          : https://nghttp2.org/
 </details>
 
 <details>
-<summary>libnghttp2</summary>
+<summary>Имя пакета: libnghttp2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -27484,7 +27483,7 @@ URL          : https://nghttp2.org/
 </details>
 
 <details>
-<summary>libnice</summary>
+<summary>Имя пакета: libnice</summary>
 
 ```
 Из репозитор : anaconda
@@ -27502,7 +27501,7 @@ URL          : https://nice.freedesktop.org/wiki/
 </details>
 
 <details>
-<summary>libnl3</summary>
+<summary>Имя пакета: libnl3</summary>
 
 ```
 Из репозитор : anaconda
@@ -27517,7 +27516,7 @@ URL          : http://www.infradead.org/~tgr/libnl/
 </details>
 
 <details>
-<summary>libnl3-cli</summary>
+<summary>Имя пакета: libnl3-cli</summary>
 
 ```
 Из репозитор : anaconda
@@ -27531,7 +27530,7 @@ URL          : http://www.infradead.org/~tgr/libnl/
 </details>
 
 <details>
-<summary>libnma</summary>
+<summary>Имя пакета: libnma</summary>
 
 ```
 Из репозитор : anaconda
@@ -27545,7 +27544,7 @@ URL          : https://gitlab.gnome.org/GNOME/libnma/
 </details>
 
 <details>
-<summary>libnotify</summary>
+<summary>Имя пакета: libnotify</summary>
 
 ```
 Из репозитор : anaconda
@@ -27561,7 +27560,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>libnsl2</summary>
+<summary>Имя пакета: libnsl2</summary>
 
 ```
 Из репозитор : anaconda
@@ -27577,7 +27576,7 @@ URL          : https://github.com/thkukuk/libnsl
 </details>
 
 <details>
-<summary>libnumbertext</summary>
+<summary>Имя пакета: libnumbertext</summary>
 
 ```
 Из репозитор : anaconda
@@ -27590,7 +27589,7 @@ URL          : https://github.com/Numbertext/libnumbertext
 </details>
 
 <details>
-<summary>liboauth</summary>
+<summary>Имя пакета: liboauth</summary>
 
 ```
 Из репозитор : anaconda
@@ -27607,7 +27606,7 @@ URL          : http://liboauth.sourceforge.net/
 </details>
 
 <details>
-<summary>libobjc</summary>
+<summary>Имя пакета: libobjc</summary>
 
 ```
 Из репозитор : fedora
@@ -27621,7 +27620,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libodfgen</summary>
+<summary>Имя пакета: libodfgen</summary>
 
 ```
 Из репозитор : anaconda
@@ -27636,7 +27635,7 @@ URL          : https://sourceforge.net/p/libwpd/wiki/libodfgen/
 </details>
 
 <details>
-<summary>libogg</summary>
+<summary>Имя пакета: libogg</summary>
 
 ```
 Эпоха        : 2
@@ -27652,7 +27651,7 @@ URL          : http://www.xiph.org/
 </details>
 
 <details>
-<summary>libomp</summary>
+<summary>Имя пакета: libomp</summary>
 
 ```
 Из репозитор : updates-testing
@@ -27665,7 +27664,7 @@ URL          : http://openmp.llvm.org
 </details>
 
 <details>
-<summary>libomp-devel</summary>
+<summary>Имя пакета: libomp-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -27678,7 +27677,7 @@ URL          : http://openmp.llvm.org
 </details>
 
 <details>
-<summary>libomxil-bellagio</summary>
+<summary>Имя пакета: libomxil-bellagio</summary>
 
 ```
 Из репозитор : fedora
@@ -27697,7 +27696,7 @@ URL          : http://omxil.sourceforge.net
 </details>
 
 <details>
-<summary>libopenmpt</summary>
+<summary>Имя пакета: libopenmpt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -27715,7 +27714,7 @@ URL          : https://lib.openmpt.org/libopenmpt/
 </details>
 
 <details>
-<summary>liborcus</summary>
+<summary>Имя пакета: liborcus</summary>
 
 ```
 Из репозитор : anaconda
@@ -27730,7 +27729,7 @@ URL          : https://gitlab.com/orcus/orcus
 </details>
 
 <details>
-<summary>libosinfo</summary>
+<summary>Имя пакета: libosinfo</summary>
 
 ```
 Из репозитор : anaconda
@@ -27745,7 +27744,7 @@ URL          : https://libosinfo.org/
 </details>
 
 <details>
-<summary>libosinfo-devel</summary>
+<summary>Имя пакета: libosinfo-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -27762,7 +27761,7 @@ URL          : https://libosinfo.org/
 </details>
 
 <details>
-<summary>libpagemaker</summary>
+<summary>Имя пакета: libpagemaker</summary>
 
 ```
 Из репозитор : anaconda
@@ -27776,7 +27775,7 @@ URL          : http://wiki.documentfoundation.org/DLP/Libraries/libpagemaker
 </details>
 
 <details>
-<summary>libpaper</summary>
+<summary>Имя пакета: libpaper</summary>
 
 ```
 Из репозитор : anaconda
@@ -27794,7 +27793,7 @@ URL          : http://packages.qa.debian.org/libp/libpaper.html
 </details>
 
 <details>
-<summary>libpasswdqc</summary>
+<summary>Имя пакета: libpasswdqc</summary>
 
 ```
 Из репозитор : anaconda
@@ -27813,7 +27812,7 @@ URL          : https://www.openwall.com/passwdqc/
 </details>
 
 <details>
-<summary>libpath_utils</summary>
+<summary>Имя пакета: libpath_utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -27826,7 +27825,7 @@ URL          : https://pagure.io/SSSD/ding-libs
 </details>
 
 <details>
-<summary>libpcap</summary>
+<summary>Имя пакета: libpcap</summary>
 
 ```
 Эпоха        : 14
@@ -27849,7 +27848,7 @@ URL          : https://www.tcpdump.org/
 </details>
 
 <details>
-<summary>libpciaccess</summary>
+<summary>Имя пакета: libpciaccess</summary>
 
 ```
 Из репозитор : anaconda
@@ -27863,7 +27862,7 @@ URL          : https://www.x.org/
 </details>
 
 <details>
-<summary>libpeas</summary>
+<summary>Имя пакета: libpeas</summary>
 
 ```
 Из репозитор : anaconda
@@ -27877,7 +27876,7 @@ URL          : https://wiki.gnome.org/Projects/Libpeas
 </details>
 
 <details>
-<summary>libpeas</summary>
+<summary>Имя пакета: libpeas</summary>
 
 ```
 Из репозитор : updates-testing
@@ -27891,7 +27890,7 @@ URL          : https://wiki.gnome.org/Projects/Libpeas
 </details>
 
 <details>
-<summary>libpeas-gtk</summary>
+<summary>Имя пакета: libpeas-gtk</summary>
 
 ```
 Из репозитор : anaconda
@@ -27905,7 +27904,7 @@ URL          : https://wiki.gnome.org/Projects/Libpeas
 </details>
 
 <details>
-<summary>libpeas-gtk</summary>
+<summary>Имя пакета: libpeas-gtk</summary>
 
 ```
 Из репозитор : updates-testing
@@ -27919,7 +27918,7 @@ URL          : https://wiki.gnome.org/Projects/Libpeas
 </details>
 
 <details>
-<summary>libpeas-loader-python3</summary>
+<summary>Имя пакета: libpeas-loader-python3</summary>
 
 ```
 Из репозитор : anaconda
@@ -27933,7 +27932,7 @@ URL          : https://wiki.gnome.org/Projects/Libpeas
 </details>
 
 <details>
-<summary>libpeas-loader-python3</summary>
+<summary>Имя пакета: libpeas-loader-python3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -27947,7 +27946,7 @@ URL          : https://wiki.gnome.org/Projects/Libpeas
 </details>
 
 <details>
-<summary>libphodav</summary>
+<summary>Имя пакета: libphodav</summary>
 
 ```
 Из репозитор : anaconda
@@ -27961,7 +27960,7 @@ URL          : https://wiki.gnome.org/phodav
 </details>
 
 <details>
-<summary>libphonenumber</summary>
+<summary>Имя пакета: libphonenumber</summary>
 
 ```
 Из репозитор : anaconda
@@ -27975,7 +27974,7 @@ URL          : https://github.com/google/libphonenumber/
 </details>
 
 <details>
-<summary>libphonenumber</summary>
+<summary>Имя пакета: libphonenumber</summary>
 
 ```
 Из репозитор : updates-testing
@@ -27989,7 +27988,7 @@ URL          : https://github.com/google/libphonenumber/
 </details>
 
 <details>
-<summary>libpinyin</summary>
+<summary>Имя пакета: libpinyin</summary>
 
 ```
 Из репозитор : anaconda
@@ -28003,7 +28002,7 @@ URL          : https://github.com/libpinyin/libpinyin
 </details>
 
 <details>
-<summary>libpinyin-data</summary>
+<summary>Имя пакета: libpinyin-data</summary>
 
 ```
 Из репозитор : anaconda
@@ -28016,7 +28015,7 @@ URL          : https://github.com/libpinyin/libpinyin
 </details>
 
 <details>
-<summary>libpipeline</summary>
+<summary>Имя пакета: libpipeline</summary>
 
 ```
 Из репозитор : anaconda
@@ -28033,7 +28032,7 @@ URL          : http://libpipeline.nongnu.org/
 </details>
 
 <details>
-<summary>libpkgconf</summary>
+<summary>Имя пакета: libpkgconf</summary>
 
 ```
 Из репозитор : anaconda
@@ -28047,7 +28046,7 @@ URL          : http://pkgconf.org/
 </details>
 
 <details>
-<summary>libplist</summary>
+<summary>Имя пакета: libplist</summary>
 
 ```
 Из репозитор : anaconda
@@ -28060,7 +28059,7 @@ URL          : http://www.libimobiledevice.org/
 </details>
 
 <details>
-<summary>libpmem</summary>
+<summary>Имя пакета: libpmem</summary>
 
 ```
 Из репозитор : anaconda
@@ -28075,7 +28074,7 @@ URL          : http://pmem.io/pmdk
 </details>
 
 <details>
-<summary>libpmemobj</summary>
+<summary>Имя пакета: libpmemobj</summary>
 
 ```
 Из репозитор : fedora
@@ -28090,7 +28089,7 @@ URL          : http://pmem.io/pmdk
 </details>
 
 <details>
-<summary>libpng</summary>
+<summary>Имя пакета: libpng</summary>
 
 ```
 Эпоха        : 2
@@ -28111,7 +28110,7 @@ URL          : http://www.libpng.org/pub/png/
 </details>
 
 <details>
-<summary>libpng</summary>
+<summary>Имя пакета: libpng</summary>
 
 ```
 Эпоха        : 2
@@ -28132,7 +28131,7 @@ URL          : http://www.libpng.org/pub/png/
 </details>
 
 <details>
-<summary>libpng-devel</summary>
+<summary>Имя пакета: libpng-devel</summary>
 
 ```
 Эпоха        : 2
@@ -28151,7 +28150,7 @@ URL          : http://www.libpng.org/pub/png/
 </details>
 
 <details>
-<summary>libportal</summary>
+<summary>Имя пакета: libportal</summary>
 
 ```
 Из репозитор : updates-testing
@@ -28164,7 +28163,7 @@ URL          : https://github.com/flatpak/libportal
 </details>
 
 <details>
-<summary>libpq</summary>
+<summary>Имя пакета: libpq</summary>
 
 ```
 Из репозитор : fedora
@@ -28180,7 +28179,7 @@ URL          : http://www.postgresql.org/
 </details>
 
 <details>
-<summary>libprelude</summary>
+<summary>Имя пакета: libprelude</summary>
 
 ```
 Из репозитор : fedora
@@ -28201,7 +28200,7 @@ URL          : https://www.prelude-siem.org/
 </details>
 
 <details>
-<summary>libproxy</summary>
+<summary>Имя пакета: libproxy</summary>
 
 ```
 Из репозитор : anaconda
@@ -28222,7 +28221,7 @@ URL          : https://libproxy.github.io/libproxy/
 </details>
 
 <details>
-<summary>libproxy-webkitgtk4</summary>
+<summary>Имя пакета: libproxy-webkitgtk4</summary>
 
 ```
 Из репозитор : anaconda
@@ -28236,7 +28235,7 @@ URL          : https://libproxy.github.io/libproxy/
 </details>
 
 <details>
-<summary>libpskc</summary>
+<summary>Имя пакета: libpskc</summary>
 
 ```
 Из репозитор : anaconda
@@ -28250,7 +28249,7 @@ URL          : https://www.nongnu.org/oath-toolkit/
 </details>
 
 <details>
-<summary>libpsl</summary>
+<summary>Имя пакета: libpsl</summary>
 
 ```
 Из репозитор : anaconda
@@ -28283,7 +28282,7 @@ URL          : https://rockdaboot.github.io/libpsl
 </details>
 
 <details>
-<summary>libpwquality</summary>
+<summary>Имя пакета: libpwquality</summary>
 
 ```
 Из репозитор : anaconda
@@ -28299,7 +28298,7 @@ URL          : https://github.com/libpwquality/libpwquality/
 </details>
 
 <details>
-<summary>libqb</summary>
+<summary>Имя пакета: libqb</summary>
 
 ```
 Из репозитор : anaconda
@@ -28314,7 +28313,7 @@ URL          : https://github.com/ClusterLabs/libqb
 </details>
 
 <details>
-<summary>libqb</summary>
+<summary>Имя пакета: libqb</summary>
 
 ```
 Из репозитор : updates-testing
@@ -28329,7 +28328,7 @@ URL          : https://github.com/ClusterLabs/libqb
 </details>
 
 <details>
-<summary>libqhull_r</summary>
+<summary>Имя пакета: libqhull_r</summary>
 
 ```
 Эпоха        : 1
@@ -28343,7 +28342,7 @@ URL          : http://www.qhull.org
 </details>
 
 <details>
-<summary>libqmi</summary>
+<summary>Имя пакета: libqmi</summary>
 
 ```
 Из репозитор : anaconda
@@ -28357,7 +28356,7 @@ URL          : http://freedesktop.org/software/libqmi
 </details>
 
 <details>
-<summary>libqmi-utils</summary>
+<summary>Имя пакета: libqmi-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -28371,7 +28370,7 @@ URL          : http://freedesktop.org/software/libqmi
 </details>
 
 <details>
-<summary>libqrcodegencpp</summary>
+<summary>Имя пакета: libqrcodegencpp</summary>
 
 ```
 Из репозитор : anaconda
@@ -28389,7 +28388,7 @@ URL          : https://github.com/nayuki/QR-Code-generator
 </details>
 
 <details>
-<summary>libquadmath</summary>
+<summary>Имя пакета: libquadmath</summary>
 
 ```
 Из репозитор : anaconda
@@ -28403,7 +28402,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libquadmath</summary>
+<summary>Имя пакета: libquadmath</summary>
 
 ```
 Из репозитор : updates-testing
@@ -28417,7 +28416,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libquadmath-devel</summary>
+<summary>Имя пакета: libquadmath-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -28431,7 +28430,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libqxp</summary>
+<summary>Имя пакета: libqxp</summary>
 
 ```
 Из репозитор : anaconda
@@ -28446,7 +28445,7 @@ URL          : http://wiki.documentfoundation.org/DLP/Libraries/libqxp
 </details>
 
 <details>
-<summary>librados2</summary>
+<summary>Имя пакета: librados2</summary>
 
 ```
 Эпоха        : 2
@@ -28463,7 +28462,7 @@ URL          : http://ceph.com/
 </details>
 
 <details>
-<summary>libraqm</summary>
+<summary>Имя пакета: libraqm</summary>
 
 ```
 Из репозитор : anaconda
@@ -28477,7 +28476,7 @@ URL          : https://github.com/HOST-Oman/libraqm
 </details>
 
 <details>
-<summary>libraqm-devel</summary>
+<summary>Имя пакета: libraqm-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -28491,7 +28490,7 @@ URL          : https://github.com/HOST-Oman/libraqm
 </details>
 
 <details>
-<summary>libraw1394</summary>
+<summary>Имя пакета: libraw1394</summary>
 
 ```
 Из репозитор : anaconda
@@ -28506,7 +28505,7 @@ URL          : http://www.dennedy.org/libraw1394/
 </details>
 
 <details>
-<summary>librbd1</summary>
+<summary>Имя пакета: librbd1</summary>
 
 ```
 Эпоха        : 2
@@ -28523,7 +28522,7 @@ URL          : http://ceph.com/
 </details>
 
 <details>
-<summary>librdmacm</summary>
+<summary>Имя пакета: librdmacm</summary>
 
 ```
 Из репозитор : anaconda
@@ -28536,7 +28535,7 @@ URL          : https://github.com/linux-rdma/rdma-core
 </details>
 
 <details>
-<summary>librdmacm</summary>
+<summary>Имя пакета: librdmacm</summary>
 
 ```
 Из репозитор : updates-testing
@@ -28549,7 +28548,7 @@ URL          : https://github.com/linux-rdma/rdma-core
 </details>
 
 <details>
-<summary>libref_array</summary>
+<summary>Имя пакета: libref_array</summary>
 
 ```
 Из репозитор : anaconda
@@ -28562,7 +28561,7 @@ URL          : https://pagure.io/SSSD/ding-libs
 </details>
 
 <details>
-<summary>libreoffice-calc</summary>
+<summary>Имя пакета: libreoffice-calc</summary>
 
 ```
 Эпоха        : 1
@@ -28576,7 +28575,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-core</summary>
+<summary>Имя пакета: libreoffice-core</summary>
 
 ```
 Эпоха        : 1
@@ -28590,7 +28589,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-data</summary>
+<summary>Имя пакета: libreoffice-data</summary>
 
 ```
 Эпоха        : 1
@@ -28604,7 +28603,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-emailmerge</summary>
+<summary>Имя пакета: libreoffice-emailmerge</summary>
 
 ```
 Эпоха        : 1
@@ -28618,7 +28617,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-filters</summary>
+<summary>Имя пакета: libreoffice-filters</summary>
 
 ```
 Эпоха        : 1
@@ -28633,7 +28632,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-graphicfilter</summary>
+<summary>Имя пакета: libreoffice-graphicfilter</summary>
 
 ```
 Эпоха        : 1
@@ -28647,7 +28646,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-gtk3</summary>
+<summary>Имя пакета: libreoffice-gtk3</summary>
 
 ```
 Эпоха        : 1
@@ -28661,7 +28660,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-help-en</summary>
+<summary>Имя пакета: libreoffice-help-en</summary>
 
 ```
 Эпоха        : 1
@@ -28675,7 +28674,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-help-ru</summary>
+<summary>Имя пакета: libreoffice-help-ru</summary>
 
 ```
 Эпоха        : 1
@@ -28689,7 +28688,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-impress</summary>
+<summary>Имя пакета: libreoffice-impress</summary>
 
 ```
 Эпоха        : 1
@@ -28703,7 +28702,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-langpack-en</summary>
+<summary>Имя пакета: libreoffice-langpack-en</summary>
 
 ```
 Эпоха        : 1
@@ -28717,7 +28716,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-langpack-ru</summary>
+<summary>Имя пакета: libreoffice-langpack-ru</summary>
 
 ```
 Эпоха        : 1
@@ -28731,7 +28730,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-ogltrans</summary>
+<summary>Имя пакета: libreoffice-ogltrans</summary>
 
 ```
 Эпоха        : 1
@@ -28746,7 +28745,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-opensymbol-fonts</summary>
+<summary>Имя пакета: libreoffice-opensymbol-fonts</summary>
 
 ```
 Эпоха        : 1
@@ -28761,7 +28760,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-pdfimport</summary>
+<summary>Имя пакета: libreoffice-pdfimport</summary>
 
 ```
 Эпоха        : 1
@@ -28776,7 +28775,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-pyuno</summary>
+<summary>Имя пакета: libreoffice-pyuno</summary>
 
 ```
 Эпоха        : 1
@@ -28792,7 +28791,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-ure</summary>
+<summary>Имя пакета: libreoffice-ure</summary>
 
 ```
 Эпоха        : 1
@@ -28811,7 +28810,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-ure-common</summary>
+<summary>Имя пакета: libreoffice-ure-common</summary>
 
 ```
 Эпоха        : 1
@@ -28825,7 +28824,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-writer</summary>
+<summary>Имя пакета: libreoffice-writer</summary>
 
 ```
 Эпоха        : 1
@@ -28839,7 +28838,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-x11</summary>
+<summary>Имя пакета: libreoffice-x11</summary>
 
 ```
 Эпоха        : 1
@@ -28853,7 +28852,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>libreoffice-xsltfilter</summary>
+<summary>Имя пакета: libreoffice-xsltfilter</summary>
 
 ```
 Эпоха        : 1
@@ -28868,7 +28867,7 @@ URL          : http://www.libreoffice.org/
 </details>
 
 <details>
-<summary>librepo</summary>
+<summary>Имя пакета: librepo</summary>
 
 ```
 Из репозитор : anaconda
@@ -28882,7 +28881,7 @@ URL          : https://github.com/rpm-software-management/librepo
 </details>
 
 <details>
-<summary>librepo</summary>
+<summary>Имя пакета: librepo</summary>
 
 ```
 Из репозитор : updates-testing
@@ -28896,7 +28895,7 @@ URL          : https://github.com/rpm-software-management/librepo
 </details>
 
 <details>
-<summary>libreport</summary>
+<summary>Имя пакета: libreport</summary>
 
 ```
 Из репозитор : anaconda
@@ -28910,7 +28909,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-anaconda</summary>
+<summary>Имя пакета: libreport-anaconda</summary>
 
 ```
 Из репозитор : anaconda
@@ -28924,7 +28923,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-cli</summary>
+<summary>Имя пакета: libreport-cli</summary>
 
 ```
 Из репозитор : anaconda
@@ -28938,7 +28937,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-fedora</summary>
+<summary>Имя пакета: libreport-fedora</summary>
 
 ```
 Из репозитор : anaconda
@@ -28953,7 +28952,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-filesystem</summary>
+<summary>Имя пакета: libreport-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -28966,7 +28965,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-gtk</summary>
+<summary>Имя пакета: libreport-gtk</summary>
 
 ```
 Из репозитор : anaconda
@@ -28979,7 +28978,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-plugin-bugzilla</summary>
+<summary>Имя пакета: libreport-plugin-bugzilla</summary>
 
 ```
 Из репозитор : anaconda
@@ -28992,7 +28991,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-plugin-kerneloops</summary>
+<summary>Имя пакета: libreport-plugin-kerneloops</summary>
 
 ```
 Из репозитор : anaconda
@@ -29006,7 +29005,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-plugin-logger</summary>
+<summary>Имя пакета: libreport-plugin-logger</summary>
 
 ```
 Из репозитор : anaconda
@@ -29019,7 +29018,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-plugin-reportuploader</summary>
+<summary>Имя пакета: libreport-plugin-reportuploader</summary>
 
 ```
 Из репозитор : anaconda
@@ -29032,7 +29031,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-plugin-systemd-journal</summary>
+<summary>Имя пакета: libreport-plugin-systemd-journal</summary>
 
 ```
 Из репозитор : anaconda
@@ -29045,7 +29044,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-plugin-ureport</summary>
+<summary>Имя пакета: libreport-plugin-ureport</summary>
 
 ```
 Из репозитор : anaconda
@@ -29058,7 +29057,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>libreport-web</summary>
+<summary>Имя пакета: libreport-web</summary>
 
 ```
 Из репозитор : anaconda
@@ -29071,7 +29070,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>librevenge</summary>
+<summary>Имя пакета: librevenge</summary>
 
 ```
 Из репозитор : anaconda
@@ -29086,7 +29085,7 @@ URL          : http://sourceforge.net/p/libwpd/wiki/librevenge/
 </details>
 
 <details>
-<summary>librs232</summary>
+<summary>Имя пакета: librs232</summary>
 
 ```
 Из репозитор : fedora
@@ -29100,7 +29099,7 @@ URL          : https://github.com/srdgame/librs232/
 </details>
 
 <details>
-<summary>librsvg2</summary>
+<summary>Имя пакета: librsvg2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29113,7 +29112,7 @@ URL          : https://wiki.gnome.org/Projects/LibRsvg
 </details>
 
 <details>
-<summary>librsync</summary>
+<summary>Имя пакета: librsync</summary>
 
 ```
 Из репозитор : fedora
@@ -29135,7 +29134,7 @@ URL          : https://librsync.github.io/
 </details>
 
 <details>
-<summary>librtmp</summary>
+<summary>Имя пакета: librtmp</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -29149,7 +29148,7 @@ URL          : http://rtmpdump.mplayerhq.hu/
 </details>
 
 <details>
-<summary>librttopo</summary>
+<summary>Имя пакета: librttopo</summary>
 
 ```
 Из репозитор : fedora
@@ -29163,7 +29162,7 @@ URL          : https://git.osgeo.org/gitea/rttopo/librttopo
 </details>
 
 <details>
-<summary>libsamplerate</summary>
+<summary>Имя пакета: libsamplerate</summary>
 
 ```
 Из репозитор : anaconda
@@ -29180,7 +29179,7 @@ URL          : http://www.mega-nerd.com/SRC/
 </details>
 
 <details>
-<summary>libsane-airscan</summary>
+<summary>Имя пакета: libsane-airscan</summary>
 
 ```
 Из репозитор : anaconda
@@ -29195,7 +29194,7 @@ URL          : https://github.com/alexpevzner/sane-airscan
 </details>
 
 <details>
-<summary>libsane-hpaio</summary>
+<summary>Имя пакета: libsane-hpaio</summary>
 
 ```
 Из репозитор : anaconda
@@ -29208,7 +29207,7 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 </details>
 
 <details>
-<summary>libsane-hpaio</summary>
+<summary>Имя пакета: libsane-hpaio</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29221,7 +29220,7 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 </details>
 
 <details>
-<summary>libsbc</summary>
+<summary>Имя пакета: libsbc</summary>
 
 ```
 Из репозитор : anaconda
@@ -29237,7 +29236,7 @@ URL          : http://www.bluez.org
 </details>
 
 <details>
-<summary>libseccomp</summary>
+<summary>Имя пакета: libseccomp</summary>
 
 ```
 Из репозитор : anaconda
@@ -29254,7 +29253,7 @@ URL          : https://github.com/seccomp/libseccomp
 </details>
 
 <details>
-<summary>libsecret</summary>
+<summary>Имя пакета: libsecret</summary>
 
 ```
 Из репозитор : anaconda
@@ -29269,7 +29268,7 @@ URL          : https://wiki.gnome.org/Projects/Libsecret
 </details>
 
 <details>
-<summary>libselinux</summary>
+<summary>Имя пакета: libselinux</summary>
 
 ```
 Из репозитор : anaconda
@@ -29294,7 +29293,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libselinux</summary>
+<summary>Имя пакета: libselinux</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29319,7 +29318,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libselinux-devel</summary>
+<summary>Имя пакета: libselinux-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29333,7 +29332,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libselinux-ruby</summary>
+<summary>Имя пакета: libselinux-ruby</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29347,7 +29346,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libselinux-utils</summary>
+<summary>Имя пакета: libselinux-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -29360,7 +29359,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libselinux-utils</summary>
+<summary>Имя пакета: libselinux-utils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29373,7 +29372,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libsemanage</summary>
+<summary>Имя пакета: libsemanage</summary>
 
 ```
 Из репозитор : anaconda
@@ -29399,7 +29398,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libsemanage</summary>
+<summary>Имя пакета: libsemanage</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29425,7 +29424,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libsepol</summary>
+<summary>Имя пакета: libsepol</summary>
 
 ```
 Из репозитор : anaconda
@@ -29451,7 +29450,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libsepol</summary>
+<summary>Имя пакета: libsepol</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29477,7 +29476,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libsepol-devel</summary>
+<summary>Имя пакета: libsepol-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29491,7 +29490,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>libserf</summary>
+<summary>Имя пакета: libserf</summary>
 
 ```
 Из репозитор : fedora
@@ -29507,7 +29506,7 @@ URL          : http://serf.apache.org/
 </details>
 
 <details>
-<summary>libshout</summary>
+<summary>Имя пакета: libshout</summary>
 
 ```
 Из репозитор : anaconda
@@ -29522,7 +29521,7 @@ URL          : https://www.icecast.org/
 </details>
 
 <details>
-<summary>libsigc++20</summary>
+<summary>Имя пакета: libsigc++20</summary>
 
 ```
 Из репозитор : anaconda
@@ -29541,7 +29540,7 @@ URL          : https://github.com/libsigcplusplus/libsigcplusplus
 </details>
 
 <details>
-<summary>libsigsegv</summary>
+<summary>Имя пакета: libsigsegv</summary>
 
 ```
 Из репозитор : anaconda
@@ -29562,7 +29561,7 @@ URL          : https://www.gnu.org/software/libsigsegv/
 </details>
 
 <details>
-<summary>libslirp</summary>
+<summary>Имя пакета: libslirp</summary>
 
 ```
 Из репозитор : anaconda
@@ -29576,7 +29575,7 @@ URL          : https://gitlab.freedesktop.org/slirp/libslirp
 </details>
 
 <details>
-<summary>libsmartcols</summary>
+<summary>Имя пакета: libsmartcols</summary>
 
 ```
 Из репозитор : anaconda
@@ -29589,7 +29588,7 @@ URL          : http://en.wikipedia.org/wiki/Util-linux
 </details>
 
 <details>
-<summary>libsmbclient</summary>
+<summary>Имя пакета: libsmbclient</summary>
 
 ```
 Эпоха        : 2
@@ -29603,7 +29602,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>libsmbclient</summary>
+<summary>Имя пакета: libsmbclient</summary>
 
 ```
 Эпоха        : 2
@@ -29617,7 +29616,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>libsmbios</summary>
+<summary>Имя пакета: libsmbios</summary>
 
 ```
 Из репозитор : anaconda
@@ -29633,7 +29632,7 @@ URL          : https://github.com/dell/libsmbios
 </details>
 
 <details>
-<summary>libsmi</summary>
+<summary>Имя пакета: libsmi</summary>
 
 ```
 Из репозитор : fedora
@@ -29652,7 +29651,7 @@ URL          : http://www.ibr.cs.tu-bs.de/projects/libsmi/index.html
 </details>
 
 <details>
-<summary>libsndfile</summary>
+<summary>Имя пакета: libsndfile</summary>
 
 ```
 Из репозитор : anaconda
@@ -29669,7 +29668,7 @@ URL          : http://libsndfile.github.io/libsndfile/
 </details>
 
 <details>
-<summary>libsodium</summary>
+<summary>Имя пакета: libsodium</summary>
 
 ```
 Из репозитор : fedora
@@ -29692,7 +29691,7 @@ URL          : http://libsodium.org/
 </details>
 
 <details>
-<summary>libsolv</summary>
+<summary>Имя пакета: libsolv</summary>
 
 ```
 Из репозитор : anaconda
@@ -29712,7 +29711,7 @@ URL          : https://github.com/openSUSE/libsolv
 </details>
 
 <details>
-<summary>libsoup</summary>
+<summary>Имя пакета: libsoup</summary>
 
 ```
 Из репозитор : anaconda
@@ -29733,7 +29732,7 @@ URL          : https://wiki.gnome.org/Projects/libsoup
 </details>
 
 <details>
-<summary>libsoup</summary>
+<summary>Имя пакета: libsoup</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29754,7 +29753,7 @@ URL          : https://wiki.gnome.org/Projects/libsoup
 </details>
 
 <details>
-<summary>libspatialite</summary>
+<summary>Имя пакета: libspatialite</summary>
 
 ```
 Из репозитор : fedora
@@ -29769,7 +29768,7 @@ URL          : https://www.gaia-gis.it/fossil/libspatialite
 </details>
 
 <details>
-<summary>libspectre</summary>
+<summary>Имя пакета: libspectre</summary>
 
 ```
 Из репозитор : anaconda
@@ -29784,7 +29783,7 @@ URL          : http://libspectre.freedesktop.org
 </details>
 
 <details>
-<summary>libsphinxclient</summary>
+<summary>Имя пакета: libsphinxclient</summary>
 
 ```
 Из репозитор : fedora
@@ -29798,7 +29797,7 @@ URL          : http://sphinxsearch.com
 </details>
 
 <details>
-<summary>libsrtp</summary>
+<summary>Имя пакета: libsrtp</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29813,7 +29812,7 @@ URL          : https://github.com/cisco/libsrtp
 </details>
 
 <details>
-<summary>libss</summary>
+<summary>Имя пакета: libss</summary>
 
 ```
 Из репозитор : anaconda
@@ -29832,7 +29831,7 @@ URL          : http://e2fsprogs.sourceforge.net/
 </details>
 
 <details>
-<summary>libssh</summary>
+<summary>Имя пакета: libssh</summary>
 
 ```
 Из репозитор : anaconda
@@ -29850,7 +29849,7 @@ URL          : http://www.libssh.org
 </details>
 
 <details>
-<summary>libssh-config</summary>
+<summary>Имя пакета: libssh-config</summary>
 
 ```
 Из репозитор : anaconda
@@ -29863,7 +29862,7 @@ URL          : http://www.libssh.org
 </details>
 
 <details>
-<summary>libssh2</summary>
+<summary>Имя пакета: libssh2</summary>
 
 ```
 Из репозитор : anaconda
@@ -29879,7 +29878,7 @@ URL          : https://www.libssh2.org/
 </details>
 
 <details>
-<summary>libssh2-devel</summary>
+<summary>Имя пакета: libssh2-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -29893,7 +29892,7 @@ URL          : https://www.libssh2.org/
 </details>
 
 <details>
-<summary>libsss_autofs</summary>
+<summary>Имя пакета: libsss_autofs</summary>
 
 ```
 Из репозитор : anaconda
@@ -29906,7 +29905,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libsss_autofs</summary>
+<summary>Имя пакета: libsss_autofs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29919,7 +29918,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libsss_certmap</summary>
+<summary>Имя пакета: libsss_certmap</summary>
 
 ```
 Из репозитор : anaconda
@@ -29932,7 +29931,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libsss_certmap</summary>
+<summary>Имя пакета: libsss_certmap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29945,7 +29944,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libsss_idmap</summary>
+<summary>Имя пакета: libsss_idmap</summary>
 
 ```
 Из репозитор : anaconda
@@ -29958,7 +29957,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libsss_idmap</summary>
+<summary>Имя пакета: libsss_idmap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29971,7 +29970,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libsss_nss_idmap</summary>
+<summary>Имя пакета: libsss_nss_idmap</summary>
 
 ```
 Из репозитор : anaconda
@@ -29984,7 +29983,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libsss_nss_idmap</summary>
+<summary>Имя пакета: libsss_nss_idmap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -29997,7 +29996,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libsss_sudo</summary>
+<summary>Имя пакета: libsss_sudo</summary>
 
 ```
 Из репозитор : anaconda
@@ -30010,7 +30009,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libsss_sudo</summary>
+<summary>Имя пакета: libsss_sudo</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30023,7 +30022,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>libstaroffice</summary>
+<summary>Имя пакета: libstaroffice</summary>
 
 ```
 Из репозитор : anaconda
@@ -30036,7 +30035,7 @@ URL          : https://github.com/fosnola/libstaroffice/wiki
 </details>
 
 <details>
-<summary>libstatgrab</summary>
+<summary>Имя пакета: libstatgrab</summary>
 
 ```
 Эпоха        : 1
@@ -30057,7 +30056,7 @@ URL          : http://www.i-scream.org/libstatgrab
 </details>
 
 <details>
-<summary>libstdc++</summary>
+<summary>Имя пакета: libstdc++</summary>
 
 ```
 Из репозитор : anaconda
@@ -30071,7 +30070,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libstdc++</summary>
+<summary>Имя пакета: libstdc++</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30085,7 +30084,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libstdc++-devel</summary>
+<summary>Имя пакета: libstdc++-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30100,7 +30099,7 @@ URL          : http://gcc.gnu.org
 </details>
 
 <details>
-<summary>libstemmer</summary>
+<summary>Имя пакета: libstemmer</summary>
 
 ```
 Из репозитор : anaconda
@@ -30126,7 +30125,7 @@ URL          : http://snowball.tartarus.org
 </details>
 
 <details>
-<summary>libstoragemgmt</summary>
+<summary>Имя пакета: libstoragemgmt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30143,7 +30142,7 @@ URL          : https://github.com/libstorage/libstoragemgmt
 </details>
 
 <details>
-<summary>libsysprof</summary>
+<summary>Имя пакета: libsysprof</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30156,7 +30155,7 @@ URL          : http://www.sysprof.com
 </details>
 
 <details>
-<summary>libsysprof-ui</summary>
+<summary>Имя пакета: libsysprof-ui</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30169,7 +30168,7 @@ URL          : http://www.sysprof.com
 </details>
 
 <details>
-<summary>libtalloc</summary>
+<summary>Имя пакета: libtalloc</summary>
 
 ```
 Из репозитор : anaconda
@@ -30182,7 +30181,7 @@ URL          : https://talloc.samba.org/
 </details>
 
 <details>
-<summary>libtar</summary>
+<summary>Имя пакета: libtar</summary>
 
 ```
 Из репозитор : anaconda
@@ -30197,7 +30196,7 @@ URL          : http://repo.or.cz/libtar.git
 </details>
 
 <details>
-<summary>libtasn1</summary>
+<summary>Имя пакета: libtasn1</summary>
 
 ```
 Из репозитор : anaconda
@@ -30212,7 +30211,7 @@ URL          : http://www.gnu.org/software/libtasn1/
 </details>
 
 <details>
-<summary>libtdb</summary>
+<summary>Имя пакета: libtdb</summary>
 
 ```
 Из репозитор : anaconda
@@ -30225,7 +30224,7 @@ URL          : http://tdb.samba.org/
 </details>
 
 <details>
-<summary>libteam</summary>
+<summary>Имя пакета: libteam</summary>
 
 ```
 Из репозитор : anaconda
@@ -30240,7 +30239,7 @@ URL          : http://www.libteam.org
 </details>
 
 <details>
-<summary>libtevent</summary>
+<summary>Имя пакета: libtevent</summary>
 
 ```
 Из репозитор : anaconda
@@ -30257,7 +30256,7 @@ URL          : http://tevent.samba.org/
 </details>
 
 <details>
-<summary>libtextstyle</summary>
+<summary>Имя пакета: libtextstyle</summary>
 
 ```
 Из репозитор : anaconda
@@ -30271,7 +30270,7 @@ URL          : http://www.gnu.org/software/gettext/
 </details>
 
 <details>
-<summary>libthai</summary>
+<summary>Имя пакета: libthai</summary>
 
 ```
 Из репозитор : anaconda
@@ -30287,7 +30286,7 @@ URL          : http://linux.thai.net
 </details>
 
 <details>
-<summary>libthai-devel</summary>
+<summary>Имя пакета: libthai-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -30304,7 +30303,7 @@ URL          : http://linux.thai.net
 </details>
 
 <details>
-<summary>libtheora</summary>
+<summary>Имя пакета: libtheora</summary>
 
 ```
 Эпоха        : 1
@@ -30323,7 +30322,7 @@ URL          : http://www.theora.org
 </details>
 
 <details>
-<summary>libtiff</summary>
+<summary>Имя пакета: libtiff</summary>
 
 ```
 Из репозитор : anaconda
@@ -30342,7 +30341,7 @@ URL          : http://www.simplesystems.org/libtiff/
 </details>
 
 <details>
-<summary>libtiff-devel</summary>
+<summary>Имя пакета: libtiff-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -30361,7 +30360,7 @@ URL          : http://www.simplesystems.org/libtiff/
 </details>
 
 <details>
-<summary>libtimezonemap</summary>
+<summary>Имя пакета: libtimezonemap</summary>
 
 ```
 Из репозитор : anaconda
@@ -30379,7 +30378,7 @@ URL          : https://launchpad.net/timezonemap
 </details>
 
 <details>
-<summary>libtirpc</summary>
+<summary>Имя пакета: libtirpc</summary>
 
 ```
 Из репозитор : anaconda
@@ -30401,7 +30400,7 @@ URL          : http://git.linux-nfs.org/?p=steved/libtirpc.git;a=summary
 </details>
 
 <details>
-<summary>libtirpc</summary>
+<summary>Имя пакета: libtirpc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30423,7 +30422,7 @@ URL          : http://git.linux-nfs.org/?p=steved/libtirpc.git;a=summary
 </details>
 
 <details>
-<summary>libtomcrypt</summary>
+<summary>Имя пакета: libtomcrypt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30444,7 +30443,7 @@ URL          : http://www.libtom.net/
 </details>
 
 <details>
-<summary>libtommath</summary>
+<summary>Имя пакета: libtommath</summary>
 
 ```
 Из репозитор : anaconda
@@ -30460,7 +30459,7 @@ URL          : http://www.libtom.net/
 </details>
 
 <details>
-<summary>libtool</summary>
+<summary>Имя пакета: libtool</summary>
 
 ```
 Из репозитор : fedora
@@ -30485,7 +30484,7 @@ URL          : http://www.gnu.org/software/libtool/
 </details>
 
 <details>
-<summary>libtool-ltdl</summary>
+<summary>Имя пакета: libtool-ltdl</summary>
 
 ```
 Из репозитор : anaconda
@@ -30504,7 +30503,7 @@ URL          : http://www.gnu.org/software/libtool/
 </details>
 
 <details>
-<summary>libtpms</summary>
+<summary>Имя пакета: libtpms</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30518,7 +30517,7 @@ URL          : http://github.com/stefanberger/libtpms
 </details>
 
 <details>
-<summary>libtracker-control</summary>
+<summary>Имя пакета: libtracker-control</summary>
 
 ```
 Из репозитор : anaconda
@@ -30531,7 +30530,7 @@ URL          : https://wiki.gnome.org/Projects/Tracker
 </details>
 
 <details>
-<summary>libtracker-miner</summary>
+<summary>Имя пакета: libtracker-miner</summary>
 
 ```
 Из репозитор : anaconda
@@ -30544,7 +30543,7 @@ URL          : https://wiki.gnome.org/Projects/Tracker
 </details>
 
 <details>
-<summary>libtracker-sparql</summary>
+<summary>Имя пакета: libtracker-sparql</summary>
 
 ```
 Из репозитор : anaconda
@@ -30557,7 +30556,7 @@ URL          : https://wiki.gnome.org/Projects/Tracker
 </details>
 
 <details>
-<summary>libtracker-sparql</summary>
+<summary>Имя пакета: libtracker-sparql</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30570,7 +30569,7 @@ URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 </details>
 
 <details>
-<summary>libtracker-sparql3</summary>
+<summary>Имя пакета: libtracker-sparql3</summary>
 
 ```
 Из репозитор : anaconda
@@ -30583,7 +30582,7 @@ URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 </details>
 
 <details>
-<summary>libudfread</summary>
+<summary>Имя пакета: libudfread</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30598,7 +30597,7 @@ URL          : https://code.videolan.org/videolan/libudfread
 </details>
 
 <details>
-<summary>libudisks2</summary>
+<summary>Имя пакета: libudisks2</summary>
 
 ```
 Из репозитор : anaconda
@@ -30612,7 +30611,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>libudisks2</summary>
+<summary>Имя пакета: libudisks2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30626,7 +30625,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>libunistring</summary>
+<summary>Имя пакета: libunistring</summary>
 
 ```
 Из репозитор : anaconda
@@ -30643,7 +30642,7 @@ URL          : https://www.gnu.org/software/libunistring/
 </details>
 
 <details>
-<summary>libunwind</summary>
+<summary>Имя пакета: libunwind</summary>
 
 ```
 Из репозитор : anaconda
@@ -30656,7 +30655,7 @@ URL          : http://savannah.nongnu.org/projects/libunwind
 </details>
 
 <details>
-<summary>liburing</summary>
+<summary>Имя пакета: liburing</summary>
 
 ```
 Из репозитор : anaconda
@@ -30670,7 +30669,7 @@ URL          : https://git.kernel.dk/cgit/liburing/
 </details>
 
 <details>
-<summary>libusal</summary>
+<summary>Имя пакета: libusal</summary>
 
 ```
 Из репозитор : anaconda
@@ -30685,7 +30684,7 @@ URL          : http://cdrkit.org/
 </details>
 
 <details>
-<summary>libusbmuxd</summary>
+<summary>Имя пакета: libusbmuxd</summary>
 
 ```
 Из репозитор : anaconda
@@ -30700,7 +30699,7 @@ URL          : http://www.libimobiledevice.org/
 </details>
 
 <details>
-<summary>libusbx</summary>
+<summary>Имя пакета: libusbx</summary>
 
 ```
 Из репозитор : anaconda
@@ -30721,7 +30720,7 @@ URL          : http://libusb.info
 </details>
 
 <details>
-<summary>libusbx-devel</summary>
+<summary>Имя пакета: libusbx-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -30735,7 +30734,7 @@ URL          : http://libusb.info
 </details>
 
 <details>
-<summary>libuser</summary>
+<summary>Имя пакета: libuser</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30753,7 +30752,7 @@ URL          : https://pagure.io/libuser
 </details>
 
 <details>
-<summary>libutempter</summary>
+<summary>Имя пакета: libutempter</summary>
 
 ```
 Из репозитор : anaconda
@@ -30767,7 +30766,7 @@ URL          : ftp://ftp.altlinux.org/pub/people/ldv/utempter
 </details>
 
 <details>
-<summary>libuuid</summary>
+<summary>Имя пакета: libuuid</summary>
 
 ```
 Из репозитор : anaconda
@@ -30789,7 +30788,7 @@ URL          : http://en.wikipedia.org/wiki/Util-linux
 </details>
 
 <details>
-<summary>libuv</summary>
+<summary>Имя пакета: libuv</summary>
 
 ```
 Эпоха        : 1
@@ -30805,7 +30804,7 @@ URL          : http://libuv.org/
 </details>
 
 <details>
-<summary>libuv</summary>
+<summary>Имя пакета: libuv</summary>
 
 ```
 Эпоха        : 1
@@ -30821,7 +30820,7 @@ URL          : http://libuv.org/
 </details>
 
 <details>
-<summary>libv4l</summary>
+<summary>Имя пакета: libv4l</summary>
 
 ```
 Из репозитор : anaconda
@@ -30848,7 +30847,7 @@ URL          : http://hansdegoede.livejournal.com/3636.html
 </details>
 
 <details>
-<summary>libva</summary>
+<summary>Имя пакета: libva</summary>
 
 ```
 Из репозитор : anaconda
@@ -30861,7 +30860,7 @@ URL          : https://github.com/intel/libva
 </details>
 
 <details>
-<summary>libva</summary>
+<summary>Имя пакета: libva</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30874,7 +30873,7 @@ URL          : https://github.com/intel/libva
 </details>
 
 <details>
-<summary>libva-utils</summary>
+<summary>Имя пакета: libva-utils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30889,7 +30888,7 @@ URL          : https://github.com/intel/libva-utils
 </details>
 
 <details>
-<summary>libva-vdpau-driver</summary>
+<summary>Имя пакета: libva-vdpau-driver</summary>
 
 ```
 Из репозитор : fedora
@@ -30902,7 +30901,7 @@ URL          : http://cgit.freedesktop.org/vaapi/vdpau-driver
 </details>
 
 <details>
-<summary>libvala</summary>
+<summary>Имя пакета: libvala</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30920,7 +30919,7 @@ URL          : https://wiki.gnome.org/Projects/Vala
 </details>
 
 <details>
-<summary>libvala-devel</summary>
+<summary>Имя пакета: libvala-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -30939,7 +30938,7 @@ URL          : https://wiki.gnome.org/Projects/Vala
 </details>
 
 <details>
-<summary>libvdpau</summary>
+<summary>Имя пакета: libvdpau</summary>
 
 ```
 Из репозитор : fedora
@@ -30954,7 +30953,7 @@ URL          : https://freedesktop.org/wiki/Software/VDPAU/
 </details>
 
 <details>
-<summary>libverto</summary>
+<summary>Имя пакета: libverto</summary>
 
 ```
 Из репозитор : anaconda
@@ -30977,7 +30976,7 @@ URL          : https://github.com/latchset/libverto
 </details>
 
 <details>
-<summary>libverto</summary>
+<summary>Имя пакета: libverto</summary>
 
 ```
 Из репозитор : updates-testing
@@ -31000,7 +30999,7 @@ URL          : https://github.com/latchset/libverto
 </details>
 
 <details>
-<summary>libverto-devel</summary>
+<summary>Имя пакета: libverto-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -31014,7 +31013,7 @@ URL          : https://github.com/latchset/libverto
 </details>
 
 <details>
-<summary>libverto-libev</summary>
+<summary>Имя пакета: libverto-libev</summary>
 
 ```
 Из репозитор : updates-testing
@@ -31030,7 +31029,7 @@ URL          : https://github.com/latchset/libverto
 </details>
 
 <details>
-<summary>libvidcap</summary>
+<summary>Имя пакета: libvidcap</summary>
 
 ```
 Из репозитор : fedora
@@ -31044,7 +31043,7 @@ URL          : http://libvidcap.sourceforge.net/
 </details>
 
 <details>
-<summary>libvirt-daemon</summary>
+<summary>Имя пакета: libvirt-daemon</summary>
 
 ```
 Из репозитор : anaconda
@@ -31059,7 +31058,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-config-network</summary>
+<summary>Имя пакета: libvirt-daemon-config-network</summary>
 
 ```
 Из репозитор : fedora
@@ -31072,7 +31071,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-interface</summary>
+<summary>Имя пакета: libvirt-daemon-driver-interface</summary>
 
 ```
 Из репозитор : anaconda
@@ -31086,7 +31085,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-network</summary>
+<summary>Имя пакета: libvirt-daemon-driver-network</summary>
 
 ```
 Из репозитор : anaconda
@@ -31101,7 +31100,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-nodedev</summary>
+<summary>Имя пакета: libvirt-daemon-driver-nodedev</summary>
 
 ```
 Из репозитор : anaconda
@@ -31116,7 +31115,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-nwfilter</summary>
+<summary>Имя пакета: libvirt-daemon-driver-nwfilter</summary>
 
 ```
 Из репозитор : anaconda
@@ -31131,7 +31130,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-qemu</summary>
+<summary>Имя пакета: libvirt-daemon-driver-qemu</summary>
 
 ```
 Из репозитор : anaconda
@@ -31146,7 +31145,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-secret</summary>
+<summary>Имя пакета: libvirt-daemon-driver-secret</summary>
 
 ```
 Из репозитор : anaconda
@@ -31160,7 +31159,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage</summary>
 
 ```
 Из репозитор : anaconda
@@ -31175,7 +31174,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-core</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-core</summary>
 
 ```
 Из репозитор : anaconda
@@ -31190,7 +31189,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-disk</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-disk</summary>
 
 ```
 Из репозитор : anaconda
@@ -31204,7 +31203,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-gluster</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-gluster</summary>
 
 ```
 Из репозитор : anaconda
@@ -31218,7 +31217,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-iscsi</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-iscsi</summary>
 
 ```
 Из репозитор : anaconda
@@ -31232,7 +31231,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-iscsi-direct</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-iscsi-direct</summary>
 
 ```
 Из репозитор : anaconda
@@ -31246,7 +31245,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-logical</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-logical</summary>
 
 ```
 Из репозитор : anaconda
@@ -31260,7 +31259,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-mpath</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-mpath</summary>
 
 ```
 Из репозитор : anaconda
@@ -31274,7 +31273,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-rbd</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-rbd</summary>
 
 ```
 Из репозитор : anaconda
@@ -31288,7 +31287,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-scsi</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-scsi</summary>
 
 ```
 Из репозитор : anaconda
@@ -31302,7 +31301,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-sheepdog</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-sheepdog</summary>
 
 ```
 Из репозитор : anaconda
@@ -31316,7 +31315,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-driver-storage-zfs</summary>
+<summary>Имя пакета: libvirt-daemon-driver-storage-zfs</summary>
 
 ```
 Из репозитор : anaconda
@@ -31330,7 +31329,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-daemon-kvm</summary>
+<summary>Имя пакета: libvirt-daemon-kvm</summary>
 
 ```
 Из репозитор : anaconda
@@ -31344,7 +31343,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-designer-libs</summary>
+<summary>Имя пакета: libvirt-designer-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -31358,7 +31357,7 @@ URL          : http://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-designer-vala</summary>
+<summary>Имя пакета: libvirt-designer-vala</summary>
 
 ```
 Из репозитор : fedora
@@ -31372,7 +31371,7 @@ URL          : http://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-gconfig</summary>
+<summary>Имя пакета: libvirt-gconfig</summary>
 
 ```
 Из репозитор : anaconda
@@ -31386,7 +31385,7 @@ URL          : http://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-gconfig</summary>
+<summary>Имя пакета: libvirt-gconfig</summary>
 
 ```
 Из репозитор : updates-testing
@@ -31400,7 +31399,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-glib</summary>
+<summary>Имя пакета: libvirt-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -31414,7 +31413,7 @@ URL          : http://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-glib</summary>
+<summary>Имя пакета: libvirt-glib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -31428,7 +31427,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-gobject</summary>
+<summary>Имя пакета: libvirt-gobject</summary>
 
 ```
 Из репозитор : anaconda
@@ -31442,7 +31441,7 @@ URL          : http://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-gobject</summary>
+<summary>Имя пакета: libvirt-gobject</summary>
 
 ```
 Из репозитор : updates-testing
@@ -31456,7 +31455,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvirt-libs</summary>
+<summary>Имя пакета: libvirt-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -31469,7 +31468,7 @@ URL          : https://libvirt.org/
 </details>
 
 <details>
-<summary>libvisio</summary>
+<summary>Имя пакета: libvisio</summary>
 
 ```
 Из репозитор : anaconda
@@ -31484,7 +31483,7 @@ URL          : http://wiki.documentfoundation.org/DLP/Libraries/libvisio
 </details>
 
 <details>
-<summary>libvisual</summary>
+<summary>Имя пакета: libvisual</summary>
 
 ```
 Эпоха        : 1
@@ -31508,7 +31507,7 @@ URL          : http://libvisual.sf.net
 </details>
 
 <details>
-<summary>libvmaf</summary>
+<summary>Имя пакета: libvmaf</summary>
 
 ```
 Из репозитор : fedora
@@ -31521,7 +31520,7 @@ URL          : https://github.com/netflix/vmaf
 </details>
 
 <details>
-<summary>libvncserver</summary>
+<summary>Имя пакета: libvncserver</summary>
 
 ```
 Из репозитор : anaconda
@@ -31538,7 +31537,7 @@ URL          : http://libvnc.github.io/
 </details>
 
 <details>
-<summary>libvorbis</summary>
+<summary>Имя пакета: libvorbis</summary>
 
 ```
 Эпоха        : 1
@@ -31557,7 +31556,7 @@ URL          : https://www.xiph.org/
 </details>
 
 <details>
-<summary>libvpx</summary>
+<summary>Имя пакета: libvpx</summary>
 
 ```
 Из репозитор : anaconda
@@ -31572,7 +31571,7 @@ URL          : http://www.webmproject.org/code/
 </details>
 
 <details>
-<summary>libwacom</summary>
+<summary>Имя пакета: libwacom</summary>
 
 ```
 Из репозитор : anaconda
@@ -31587,7 +31586,7 @@ URL          : https://github.com/linuxwacom/libwacom
 </details>
 
 <details>
-<summary>libwacom</summary>
+<summary>Имя пакета: libwacom</summary>
 
 ```
 Из репозитор : updates-testing
@@ -31602,7 +31601,7 @@ URL          : https://github.com/linuxwacom/libwacom
 </details>
 
 <details>
-<summary>libwacom-data</summary>
+<summary>Имя пакета: libwacom-data</summary>
 
 ```
 Из репозитор : anaconda
@@ -31615,7 +31614,7 @@ URL          : https://github.com/linuxwacom/libwacom
 </details>
 
 <details>
-<summary>libwacom-data</summary>
+<summary>Имя пакета: libwacom-data</summary>
 
 ```
 Из репозитор : updates-testing
@@ -31628,7 +31627,7 @@ URL          : https://github.com/linuxwacom/libwacom
 </details>
 
 <details>
-<summary>libwayland-client</summary>
+<summary>Имя пакета: libwayland-client</summary>
 
 ```
 Из репозитор : anaconda
@@ -31641,7 +31640,7 @@ URL          : http://wayland.freedesktop.org/
 </details>
 
 <details>
-<summary>libwayland-cursor</summary>
+<summary>Имя пакета: libwayland-cursor</summary>
 
 ```
 Из репозитор : anaconda
@@ -31654,7 +31653,7 @@ URL          : http://wayland.freedesktop.org/
 </details>
 
 <details>
-<summary>libwayland-egl</summary>
+<summary>Имя пакета: libwayland-egl</summary>
 
 ```
 Из репозитор : anaconda
@@ -31667,7 +31666,7 @@ URL          : http://wayland.freedesktop.org/
 </details>
 
 <details>
-<summary>libwayland-server</summary>
+<summary>Имя пакета: libwayland-server</summary>
 
 ```
 Из репозитор : anaconda
@@ -31680,7 +31679,7 @@ URL          : http://wayland.freedesktop.org/
 </details>
 
 <details>
-<summary>libwbclient</summary>
+<summary>Имя пакета: libwbclient</summary>
 
 ```
 Эпоха        : 2
@@ -31695,7 +31694,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>libwbclient</summary>
+<summary>Имя пакета: libwbclient</summary>
 
 ```
 Эпоха        : 2
@@ -31710,7 +31709,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>libwebp</summary>
+<summary>Имя пакета: libwebp</summary>
 
 ```
 Из репозитор : anaconda
@@ -31727,7 +31726,7 @@ URL          : http://webmproject.org/
 </details>
 
 <details>
-<summary>libwebp-devel</summary>
+<summary>Имя пакета: libwebp-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -31744,7 +31743,7 @@ URL          : http://webmproject.org/
 </details>
 
 <details>
-<summary>libwebsockets</summary>
+<summary>Имя пакета: libwebsockets</summary>
 
 ```
 Из репозитор : fedora
@@ -31758,7 +31757,7 @@ URL          : http://libwebsockets.org
 </details>
 
 <details>
-<summary>libwinpr</summary>
+<summary>Имя пакета: libwinpr</summary>
 
 ```
 Эпоха        : 2
@@ -31774,7 +31773,7 @@ URL          : http://www.freerdp.com/
 </details>
 
 <details>
-<summary>libwinpr</summary>
+<summary>Имя пакета: libwinpr</summary>
 
 ```
 Эпоха        : 2
@@ -31790,7 +31789,7 @@ URL          : http://www.freerdp.com/
 </details>
 
 <details>
-<summary>libwmf</summary>
+<summary>Имя пакета: libwmf</summary>
 
 ```
 Из репозитор : fedora
@@ -31803,7 +31802,7 @@ URL          : https://github.com/caolanm/libwmf
 </details>
 
 <details>
-<summary>libwmf-lite</summary>
+<summary>Имя пакета: libwmf-lite</summary>
 
 ```
 Из репозитор : fedora
@@ -31816,7 +31815,7 @@ URL          : https://github.com/caolanm/libwmf
 </details>
 
 <details>
-<summary>libwnck</summary>
+<summary>Имя пакета: libwnck</summary>
 
 ```
 Из репозитор : fedora
@@ -31831,7 +31830,7 @@ URL          : http://download.gnome.org/sources/libwnck/
 </details>
 
 <details>
-<summary>libwnck3</summary>
+<summary>Имя пакета: libwnck3</summary>
 
 ```
 Из репозитор : anaconda
@@ -31846,7 +31845,7 @@ URL          : http://download.gnome.org/sources/libwnck/
 </details>
 
 <details>
-<summary>libwpd</summary>
+<summary>Имя пакета: libwpd</summary>
 
 ```
 Из репозитор : anaconda
@@ -31859,7 +31858,7 @@ URL          : http://libwpd.sf.net/
 </details>
 
 <details>
-<summary>libwpe</summary>
+<summary>Имя пакета: libwpe</summary>
 
 ```
 Из репозитор : updates-testing
@@ -31872,7 +31871,7 @@ URL          : https://github.com/WebPlatformForEmbedded/libwpe
 </details>
 
 <details>
-<summary>libwpe</summary>
+<summary>Имя пакета: libwpe</summary>
 
 ```
 Из репозитор : anaconda
@@ -31885,7 +31884,7 @@ URL          : https://github.com/WebPlatformForEmbedded/libwpe
 </details>
 
 <details>
-<summary>libwpg</summary>
+<summary>Имя пакета: libwpg</summary>
 
 ```
 Из репозитор : anaconda
@@ -31900,7 +31899,7 @@ URL          : http://libwpg.sourceforge.net/
 </details>
 
 <details>
-<summary>libwps</summary>
+<summary>Имя пакета: libwps</summary>
 
 ```
 Из репозитор : anaconda
@@ -31916,7 +31915,7 @@ URL          : http://libwps.sourceforge.net/
 </details>
 
 <details>
-<summary>libwsman1</summary>
+<summary>Имя пакета: libwsman1</summary>
 
 ```
 Из репозитор : anaconda
@@ -31929,7 +31928,7 @@ URL          : http://www.openwsman.org/
 </details>
 
 <details>
-<summary>libx86emu</summary>
+<summary>Имя пакета: libx86emu</summary>
 
 ```
 Из репозитор : fedora
@@ -31944,7 +31943,7 @@ URL          : https://github.com/wfeldt/libx86emu
 </details>
 
 <details>
-<summary>libxcb</summary>
+<summary>Имя пакета: libxcb</summary>
 
 ```
 Из репозитор : anaconda
@@ -31959,7 +31958,7 @@ URL          : http://xcb.freedesktop.org/
 </details>
 
 <details>
-<summary>libxcb-devel</summary>
+<summary>Имя пакета: libxcb-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -31973,7 +31972,7 @@ URL          : http://xcb.freedesktop.org/
 </details>
 
 <details>
-<summary>libxcrypt</summary>
+<summary>Имя пакета: libxcrypt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32003,7 +32002,7 @@ URL          : https://github.com/besser82/libxcrypt
 </details>
 
 <details>
-<summary>libxcrypt-compat</summary>
+<summary>Имя пакета: libxcrypt-compat</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32024,7 +32023,7 @@ URL          : https://github.com/besser82/libxcrypt
 </details>
 
 <details>
-<summary>libxcrypt-devel</summary>
+<summary>Имя пакета: libxcrypt-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32038,7 +32037,7 @@ URL          : https://github.com/besser82/libxcrypt
 </details>
 
 <details>
-<summary>libxdg-basedir</summary>
+<summary>Имя пакета: libxdg-basedir</summary>
 
 ```
 Из репозитор : fedora
@@ -32056,7 +32055,7 @@ URL          : https://github.com/devnev/libxdg-basedir
 </details>
 
 <details>
-<summary>libxkbcommon</summary>
+<summary>Имя пакета: libxkbcommon</summary>
 
 ```
 Из репозитор : anaconda
@@ -32070,7 +32069,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libxkbcommon-x11</summary>
+<summary>Имя пакета: libxkbcommon-x11</summary>
 
 ```
 Из репозитор : anaconda
@@ -32084,7 +32083,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libxkbfile</summary>
+<summary>Имя пакета: libxkbfile</summary>
 
 ```
 Из репозитор : anaconda
@@ -32097,7 +32096,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>libxklavier</summary>
+<summary>Имя пакета: libxklavier</summary>
 
 ```
 Из репозитор : anaconda
@@ -32113,7 +32112,7 @@ URL          : http://www.freedesktop.org/wiki/Software/LibXklavier
 </details>
 
 <details>
-<summary>libxml2</summary>
+<summary>Имя пакета: libxml2</summary>
 
 ```
 Из репозитор : anaconda
@@ -32134,7 +32133,7 @@ URL          : http://xmlsoft.org/
 </details>
 
 <details>
-<summary>libxml2-devel</summary>
+<summary>Имя пакета: libxml2-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -32156,7 +32155,7 @@ URL          : http://xmlsoft.org/
 </details>
 
 <details>
-<summary>libxmlb</summary>
+<summary>Имя пакета: libxmlb</summary>
 
 ```
 Из репозитор : anaconda
@@ -32176,7 +32175,7 @@ URL          : https://github.com/hughsie/libxmlb
 </details>
 
 <details>
-<summary>libxmlb</summary>
+<summary>Имя пакета: libxmlb</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32196,7 +32195,7 @@ URL          : https://github.com/hughsie/libxmlb
 </details>
 
 <details>
-<summary>libxshmfence</summary>
+<summary>Имя пакета: libxshmfence</summary>
 
 ```
 Из репозитор : anaconda
@@ -32209,7 +32208,7 @@ URL          : https://www.x.org/
 </details>
 
 <details>
-<summary>libxslt</summary>
+<summary>Имя пакета: libxslt</summary>
 
 ```
 Из репозитор : anaconda
@@ -32225,7 +32224,7 @@ URL          : http://xmlsoft.org/XSLT
 </details>
 
 <details>
-<summary>libxslt-devel</summary>
+<summary>Имя пакета: libxslt-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -32239,7 +32238,7 @@ URL          : http://xmlsoft.org/XSLT
 </details>
 
 <details>
-<summary>libyaml</summary>
+<summary>Имя пакета: libyaml</summary>
 
 ```
 Из репозитор : anaconda
@@ -32254,7 +32253,7 @@ URL          : https://github.com/yaml/libyaml
 </details>
 
 <details>
-<summary>libyaml-devel</summary>
+<summary>Имя пакета: libyaml-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -32268,7 +32267,7 @@ URL          : https://github.com/yaml/libyaml
 </details>
 
 <details>
-<summary>libyubikey</summary>
+<summary>Имя пакета: libyubikey</summary>
 
 ```
 Из репозитор : fedora
@@ -32282,7 +32281,7 @@ URL          : http://opensource.yubico.com/yubico-c
 </details>
 
 <details>
-<summary>libzapojit</summary>
+<summary>Имя пакета: libzapojit</summary>
 
 ```
 Из репозитор : anaconda
@@ -32300,7 +32299,7 @@ URL          : https://wiki.gnome.org/Projects/Zapojit
 </details>
 
 <details>
-<summary>libzhuyin</summary>
+<summary>Имя пакета: libzhuyin</summary>
 
 ```
 Из репозитор : anaconda
@@ -32313,7 +32312,7 @@ URL          : https://github.com/libpinyin/libpinyin
 </details>
 
 <details>
-<summary>libzip</summary>
+<summary>Имя пакета: libzip</summary>
 
 ```
 Из репозитор : fedora
@@ -32329,7 +32328,7 @@ URL          : https://libzip.org/
 </details>
 
 <details>
-<summary>libzmf</summary>
+<summary>Имя пакета: libzmf</summary>
 
 ```
 Из репозитор : anaconda
@@ -32344,7 +32343,7 @@ URL          : http://wiki.documentfoundation.org/DLP/Libraries/libzmf
 </details>
 
 <details>
-<summary>libzstd</summary>
+<summary>Имя пакета: libzstd</summary>
 
 ```
 Из репозитор : anaconda
@@ -32357,7 +32356,7 @@ URL          : https://github.com/facebook/zstd
 </details>
 
 <details>
-<summary>libzstd</summary>
+<summary>Имя пакета: libzstd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32370,7 +32369,7 @@ URL          : https://github.com/facebook/zstd
 </details>
 
 <details>
-<summary>lilv</summary>
+<summary>Имя пакета: lilv</summary>
 
 ```
 Из репозитор : anaconda
@@ -32385,7 +32384,7 @@ URL          : http://drobilla.net/software/lilv/
 </details>
 
 <details>
-<summary>links</summary>
+<summary>Имя пакета: links</summary>
 
 ```
 Эпоха        : 1
@@ -32403,7 +32402,7 @@ URL          : http://links.twibright.com/
 </details>
 
 <details>
-<summary>linux-atm-libs</summary>
+<summary>Имя пакета: linux-atm-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -32416,7 +32415,7 @@ URL          : http://linux-atm.sourceforge.net/
 </details>
 
 <details>
-<summary>linux-driver-management</summary>
+<summary>Имя пакета: linux-driver-management</summary>
 
 ```
 Из репозитор : fedora
@@ -32435,7 +32434,7 @@ URL          : https://github.com/solus-project/linux-driver-management
 </details>
 
 <details>
-<summary>linux-driver-management-doc</summary>
+<summary>Имя пакета: linux-driver-management-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -32449,7 +32448,7 @@ URL          : https://github.com/solus-project/linux-driver-management
 </details>
 
 <details>
-<summary>linux-driver-management-libs</summary>
+<summary>Имя пакета: linux-driver-management-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -32463,7 +32462,7 @@ URL          : https://github.com/solus-project/linux-driver-management
 </details>
 
 <details>
-<summary>linux-firmware</summary>
+<summary>Имя пакета: linux-firmware</summary>
 
 ```
 Из репозитор : anaconda
@@ -32477,7 +32476,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>linux-firmware</summary>
+<summary>Имя пакета: linux-firmware</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32491,7 +32490,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>linux-firmware-whence</summary>
+<summary>Имя пакета: linux-firmware-whence</summary>
 
 ```
 Из репозитор : anaconda
@@ -32504,7 +32503,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>linux-firmware-whence</summary>
+<summary>Имя пакета: linux-firmware-whence</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32517,7 +32516,7 @@ URL          : http://www.kernel.org/
 </details>
 
 <details>
-<summary>lksctp-tools</summary>
+<summary>Имя пакета: lksctp-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -32539,7 +32538,7 @@ URL          : http://lksctp.sourceforge.net
 </details>
 
 <details>
-<summary>lldpad</summary>
+<summary>Имя пакета: lldpad</summary>
 
 ```
 Из репозитор : fedora
@@ -32553,7 +32552,7 @@ URL          : http://open-lldp.org/
 </details>
 
 <details>
-<summary>llvm-libs</summary>
+<summary>Имя пакета: llvm-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32566,7 +32565,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>llvm11-libs</summary>
+<summary>Имя пакета: llvm11-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32579,7 +32578,7 @@ URL          : http://llvm.org
 </details>
 
 <details>
-<summary>lm_sensors</summary>
+<summary>Имя пакета: lm_sensors</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32593,7 +32592,7 @@ URL          : http://github.com/lm-sensors/lm-sensors/
 </details>
 
 <details>
-<summary>lm_sensors-libs</summary>
+<summary>Имя пакета: lm_sensors-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32606,7 +32605,7 @@ URL          : http://github.com/lm-sensors/lm-sensors/
 </details>
 
 <details>
-<summary>lmdb-libs</summary>
+<summary>Имя пакета: lmdb-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -32620,7 +32619,7 @@ URL          : http://symas.com/mdb
 </details>
 
 <details>
-<summary>lmdb-libs</summary>
+<summary>Имя пакета: lmdb-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -32634,7 +32633,7 @@ URL          : http://symas.com/mdb
 </details>
 
 <details>
-<summary>lockdev</summary>
+<summary>Имя пакета: lockdev</summary>
 
 ```
 Из репозитор : anaconda
@@ -32648,7 +32647,7 @@ URL          : https://alioth.debian.org/projects/lockdev/
 </details>
 
 <details>
-<summary>log4cplus</summary>
+<summary>Имя пакета: log4cplus</summary>
 
 ```
 Из репозитор : fedora
@@ -32663,7 +32662,7 @@ URL          : http://sourceforge.net/projects/log4cplus
 </details>
 
 <details>
-<summary>logrotate</summary>
+<summary>Имя пакета: logrotate</summary>
 
 ```
 Из репозитор : anaconda
@@ -32683,7 +32682,7 @@ URL          : https://github.com/logrotate/logrotate
 </details>
 
 <details>
-<summary>lohit-assamese-fonts</summary>
+<summary>Имя пакета: lohit-assamese-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -32696,7 +32695,7 @@ URL          : https://pagure.io/lohit
 </details>
 
 <details>
-<summary>lohit-bengali-fonts</summary>
+<summary>Имя пакета: lohit-bengali-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -32709,7 +32708,7 @@ URL          : https://pagure.io/lohit
 </details>
 
 <details>
-<summary>lohit-devanagari-fonts</summary>
+<summary>Имя пакета: lohit-devanagari-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -32722,7 +32721,7 @@ URL          : https://pagure.io/lohit
 </details>
 
 <details>
-<summary>lohit-gujarati-fonts</summary>
+<summary>Имя пакета: lohit-gujarati-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -32735,7 +32734,7 @@ URL          : https://pagure.io/lohit
 </details>
 
 <details>
-<summary>lohit-kannada-fonts</summary>
+<summary>Имя пакета: lohit-kannada-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -32748,7 +32747,7 @@ URL          : https://pagure.io/lohit
 </details>
 
 <details>
-<summary>lohit-odia-fonts</summary>
+<summary>Имя пакета: lohit-odia-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -32761,7 +32760,7 @@ URL          : https://pagure.io/lohit
 </details>
 
 <details>
-<summary>lohit-tamil-fonts</summary>
+<summary>Имя пакета: lohit-tamil-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -32774,7 +32773,7 @@ URL          : https://pagure.io/lohit/
 </details>
 
 <details>
-<summary>lohit-telugu-fonts</summary>
+<summary>Имя пакета: lohit-telugu-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -32787,7 +32786,7 @@ URL          : https://pagure.io/lohit
 </details>
 
 <details>
-<summary>low-memory-monitor</summary>
+<summary>Имя пакета: low-memory-monitor</summary>
 
 ```
 Из репозитор : anaconda
@@ -32803,7 +32802,7 @@ URL          : https://gitlab.freedesktop.org/hadess/low-memory-monitor
 </details>
 
 <details>
-<summary>lpsolve</summary>
+<summary>Имя пакета: lpsolve</summary>
 
 ```
 Из репозитор : anaconda
@@ -32817,7 +32816,7 @@ URL          : http://sourceforge.net/projects/lpsolve
 </details>
 
 <details>
-<summary>lrzsz</summary>
+<summary>Имя пакета: lrzsz</summary>
 
 ```
 Из репозитор : anaconda
@@ -32833,7 +32832,7 @@ URL          : http://www.ohse.de/uwe/software/lrzsz.html
 </details>
 
 <details>
-<summary>lsof</summary>
+<summary>Имя пакета: lsof</summary>
 
 ```
 Из репозитор : anaconda
@@ -32847,7 +32846,7 @@ URL          : https://github.com/lsof-org/lsof
 </details>
 
 <details>
-<summary>lsscsi</summary>
+<summary>Имя пакета: lsscsi</summary>
 
 ```
 Из репозитор : fedora
@@ -32867,7 +32866,7 @@ URL          : http://sg.danny.cz/scsi/lsscsi.html
 </details>
 
 <details>
-<summary>lttng-ust</summary>
+<summary>Имя пакета: lttng-ust</summary>
 
 ```
 Из репозитор : anaconda
@@ -32881,7 +32880,7 @@ URL          : https://lttng.org
 </details>
 
 <details>
-<summary>lua</summary>
+<summary>Имя пакета: lua</summary>
 
 ```
 Из репозитор : anaconda
@@ -32901,7 +32900,7 @@ URL          : http://www.lua.org/
 </details>
 
 <details>
-<summary>lua-alt-getopt</summary>
+<summary>Имя пакета: lua-alt-getopt</summary>
 
 ```
 Из репозитор : fedora
@@ -32917,7 +32916,7 @@ URL          : https://github.com/cheusov/lua-alt-getopt
 </details>
 
 <details>
-<summary>lua-argparse</summary>
+<summary>Имя пакета: lua-argparse</summary>
 
 ```
 Из репозитор : fedora
@@ -32935,7 +32934,7 @@ URL          : https://github.com/mpeterv/argparse
 </details>
 
 <details>
-<summary>lua-argparse-doc</summary>
+<summary>Имя пакета: lua-argparse-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -32948,7 +32947,7 @@ URL          : https://github.com/mpeterv/argparse
 </details>
 
 <details>
-<summary>lua-cyrussasl</summary>
+<summary>Имя пакета: lua-cyrussasl</summary>
 
 ```
 Из репозитор : fedora
@@ -32961,7 +32960,7 @@ URL          : https://github.com/JorjBauer/lua-cyrussasl
 </details>
 
 <details>
-<summary>lua-dbi</summary>
+<summary>Имя пакета: lua-dbi</summary>
 
 ```
 Из репозитор : fedora
@@ -32980,7 +32979,7 @@ URL          : https://github.com/mwild1/luadbi
 </details>
 
 <details>
-<summary>lua-devel</summary>
+<summary>Имя пакета: lua-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -32993,7 +32992,7 @@ URL          : http://www.lua.org/
 </details>
 
 <details>
-<summary>lua-event</summary>
+<summary>Имя пакета: lua-event</summary>
 
 ```
 Из репозитор : fedora
@@ -33008,7 +33007,7 @@ URL          : https://github.com/harningt/luaevent/
 </details>
 
 <details>
-<summary>lua-event-doc</summary>
+<summary>Имя пакета: lua-event-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -33024,7 +33023,7 @@ URL          : https://github.com/harningt/luaevent/
 </details>
 
 <details>
-<summary>lua-expat</summary>
+<summary>Имя пакета: lua-expat</summary>
 
 ```
 Из репозитор : fedora
@@ -33037,7 +33036,7 @@ URL          : https://matthewwild.co.uk/projects/luaexpat/
 </details>
 
 <details>
-<summary>lua-filesystem</summary>
+<summary>Имя пакета: lua-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -33054,7 +33053,7 @@ URL          : https://keplerproject.github.io/luafilesystem/
 </details>
 
 <details>
-<summary>lua-fun</summary>
+<summary>Имя пакета: lua-fun</summary>
 
 ```
 Из репозитор : fedora
@@ -33075,7 +33074,7 @@ URL          : https://github.com/rtsisyk/luafun
 </details>
 
 <details>
-<summary>lua-guestfs</summary>
+<summary>Имя пакета: lua-guestfs</summary>
 
 ```
 Эпоха        : 1
@@ -33089,7 +33088,7 @@ URL          : http://libguestfs.org/
 </details>
 
 <details>
-<summary>lua-inotify</summary>
+<summary>Имя пакета: lua-inotify</summary>
 
 ```
 Эпоха        : 1
@@ -33103,7 +33102,7 @@ URL          : http://hoelz.ro/projects/linotify
 </details>
 
 <details>
-<summary>lua-json</summary>
+<summary>Имя пакета: lua-json</summary>
 
 ```
 Из репозитор : fedora
@@ -33116,7 +33115,7 @@ URL          : http://luaforge.net/projects/luajson/
 </details>
 
 <details>
-<summary>lua-ldap</summary>
+<summary>Имя пакета: lua-ldap</summary>
 
 ```
 Из репозитор : fedora
@@ -33133,7 +33132,7 @@ URL          : http://www.keplerproject.org/lualdap/
 </details>
 
 <details>
-<summary>lua-ldap-compat</summary>
+<summary>Имя пакета: lua-ldap-compat</summary>
 
 ```
 Из репозитор : fedora
@@ -33150,7 +33149,7 @@ URL          : http://www.keplerproject.org/lualdap/
 </details>
 
 <details>
-<summary>lua-ldoc</summary>
+<summary>Имя пакета: lua-ldoc</summary>
 
 ```
 Из репозитор : fedora
@@ -33167,7 +33166,7 @@ URL          : https://github.com/stevedonovan/ldoc
 </details>
 
 <details>
-<summary>lua-ldoc-doc</summary>
+<summary>Имя пакета: lua-ldoc-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -33180,7 +33179,7 @@ URL          : https://github.com/stevedonovan/ldoc
 </details>
 
 <details>
-<summary>lua-lgi</summary>
+<summary>Имя пакета: lua-lgi</summary>
 
 ```
 Из репозитор : fedora
@@ -33195,7 +33194,7 @@ URL          : https://github.com/pavouk/lgi
 </details>
 
 <details>
-<summary>lua-lgi-compat</summary>
+<summary>Имя пакета: lua-lgi-compat</summary>
 
 ```
 Из репозитор : fedora
@@ -33210,7 +33209,7 @@ URL          : https://github.com/pavouk/lgi
 </details>
 
 <details>
-<summary>lua-lgi-samples</summary>
+<summary>Имя пакета: lua-lgi-samples</summary>
 
 ```
 Из репозитор : fedora
@@ -33223,7 +33222,7 @@ URL          : https://github.com/pavouk/lgi
 </details>
 
 <details>
-<summary>lua-librs232</summary>
+<summary>Имя пакета: lua-librs232</summary>
 
 ```
 Из репозитор : fedora
@@ -33237,7 +33236,7 @@ URL          : https://github.com/srdgame/librs232/
 </details>
 
 <details>
-<summary>lua-libs</summary>
+<summary>Имя пакета: lua-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -33250,7 +33249,7 @@ URL          : http://www.lua.org/
 </details>
 
 <details>
-<summary>lua-loop</summary>
+<summary>Имя пакета: lua-loop</summary>
 
 ```
 Из репозитор : fedora
@@ -33272,7 +33271,7 @@ URL          : http://loop.luaforge.net/
 </details>
 
 <details>
-<summary>lua-loop-doc</summary>
+<summary>Имя пакета: lua-loop-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -33289,7 +33288,7 @@ URL          : http://loop.luaforge.net/
 </details>
 
 <details>
-<summary>lua-lpeg</summary>
+<summary>Имя пакета: lua-lpeg</summary>
 
 ```
 Из репозитор : fedora
@@ -33303,7 +33302,7 @@ URL          : http://www.inf.puc-rio.br/~roberto/lpeg/
 </details>
 
 <details>
-<summary>lua-lpeg-patterns</summary>
+<summary>Имя пакета: lua-lpeg-patterns</summary>
 
 ```
 Из репозитор : fedora
@@ -33316,7 +33315,7 @@ URL          : https://github.com/daurnimator/lpeg_patterns
 </details>
 
 <details>
-<summary>lua-luaossl</summary>
+<summary>Имя пакета: lua-luaossl</summary>
 
 ```
 Из репозитор : fedora
@@ -33329,7 +33328,7 @@ URL          : https://github.com/wahern/luaossl
 </details>
 
 <details>
-<summary>lua-luaossl-doc</summary>
+<summary>Имя пакета: lua-luaossl-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -33343,7 +33342,7 @@ URL          : https://github.com/wahern/luaossl
 </details>
 
 <details>
-<summary>lua-lunitx</summary>
+<summary>Имя пакета: lua-lunitx</summary>
 
 ```
 Из репозитор : fedora
@@ -33359,7 +33358,7 @@ URL          : https://github.com/dcurrie/lunit/
 </details>
 
 <details>
-<summary>lua-luv</summary>
+<summary>Имя пакета: lua-luv</summary>
 
 ```
 Из репозитор : fedora
@@ -33382,7 +33381,7 @@ URL          : https://github.com/luvit/luv
 </details>
 
 <details>
-<summary>lua-lxc</summary>
+<summary>Имя пакета: lua-lxc</summary>
 
 ```
 Из репозитор : fedora
@@ -33398,7 +33397,7 @@ URL          : https://linuxcontainers.org/lxc
 </details>
 
 <details>
-<summary>lua-markdown</summary>
+<summary>Имя пакета: lua-markdown</summary>
 
 ```
 Из репозитор : fedora
@@ -33413,7 +33412,7 @@ URL          : http://www.frykholm.se/files/markdown.lua
 </details>
 
 <details>
-<summary>lua-md5</summary>
+<summary>Имя пакета: lua-md5</summary>
 
 ```
 Из репозитор : fedora
@@ -33428,7 +33427,7 @@ URL          : https://github.com/keplerproject/md5
 </details>
 
 <details>
-<summary>lua-moonscript</summary>
+<summary>Имя пакета: lua-moonscript</summary>
 
 ```
 Из репозитор : fedora
@@ -33454,7 +33453,7 @@ URL          : http://moonscript.org/
 </details>
 
 <details>
-<summary>lua-mosquitto</summary>
+<summary>Имя пакета: lua-mosquitto</summary>
 
 ```
 Из репозитор : fedora
@@ -33468,7 +33467,7 @@ URL          : https://github.com/flukso/lua-mosquitto/
 </details>
 
 <details>
-<summary>lua-mpack</summary>
+<summary>Имя пакета: lua-mpack</summary>
 
 ```
 Из репозитор : fedora
@@ -33482,7 +33481,7 @@ URL          : https://github.com/libmpack/libmpack-lua
 </details>
 
 <details>
-<summary>lua-penlight</summary>
+<summary>Имя пакета: lua-penlight</summary>
 
 ```
 Из репозитор : fedora
@@ -33498,7 +33497,7 @@ URL          : https://github.com/lunarmodules/Penlight
 </details>
 
 <details>
-<summary>lua-penlight-doc</summary>
+<summary>Имя пакета: lua-penlight-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -33511,7 +33510,7 @@ URL          : https://github.com/lunarmodules/Penlight
 </details>
 
 <details>
-<summary>lua-penlight-examples</summary>
+<summary>Имя пакета: lua-penlight-examples</summary>
 
 ```
 Из репозитор : fedora
@@ -33524,7 +33523,7 @@ URL          : https://github.com/lunarmodules/Penlight
 </details>
 
 <details>
-<summary>lua-posix</summary>
+<summary>Имя пакета: lua-posix</summary>
 
 ```
 Из репозитор : anaconda
@@ -33538,7 +33537,7 @@ URL          : http://luaforge.net/projects/luaposix/
 </details>
 
 <details>
-<summary>lua-prelude</summary>
+<summary>Имя пакета: lua-prelude</summary>
 
 ```
 Из репозитор : fedora
@@ -33551,7 +33550,7 @@ URL          : https://www.prelude-siem.org/
 </details>
 
 <details>
-<summary>lua-rpm-macros</summary>
+<summary>Имя пакета: lua-rpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -33565,7 +33564,7 @@ URL          : https://www.prelude-siem.org/
 </details>
 
 <details>
-<summary>lua-sec</summary>
+<summary>Имя пакета: lua-sec</summary>
 
 ```
 Из репозитор : fedora
@@ -33580,7 +33579,7 @@ URL          : https://github.com/brunoos/luasec
 </details>
 
 <details>
-<summary>lua-socket</summary>
+<summary>Имя пакета: lua-socket</summary>
 
 ```
 Из репозитор : fedora
@@ -33599,7 +33598,7 @@ URL          : http://www.tecgraf.puc-rio.br/~diego/professional/luasocket/
 </details>
 
 <details>
-<summary>lua-socket-devel</summary>
+<summary>Имя пакета: lua-socket-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -33613,7 +33612,7 @@ URL          : http://www.tecgraf.puc-rio.br/~diego/professional/luasocket/
 </details>
 
 <details>
-<summary>lua-sql</summary>
+<summary>Имя пакета: lua-sql</summary>
 
 ```
 Из репозитор : fedora
@@ -33628,7 +33627,7 @@ URL          : https://keplerproject.github.io/luasql/
 </details>
 
 <details>
-<summary>lua-sql-doc</summary>
+<summary>Имя пакета: lua-sql-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -33642,7 +33641,7 @@ URL          : https://keplerproject.github.io/luasql/
 </details>
 
 <details>
-<summary>lua-sql-mysql</summary>
+<summary>Имя пакета: lua-sql-mysql</summary>
 
 ```
 Из репозитор : fedora
@@ -33656,7 +33655,7 @@ URL          : https://keplerproject.github.io/luasql/
 </details>
 
 <details>
-<summary>lua-sql-postgresql</summary>
+<summary>Имя пакета: lua-sql-postgresql</summary>
 
 ```
 Из репозитор : fedora
@@ -33670,7 +33669,7 @@ URL          : https://keplerproject.github.io/luasql/
 </details>
 
 <details>
-<summary>lua-sql-sqlite</summary>
+<summary>Имя пакета: lua-sql-sqlite</summary>
 
 ```
 Из репозитор : fedora
@@ -33684,7 +33683,7 @@ URL          : https://keplerproject.github.io/luasql/
 </details>
 
 <details>
-<summary>lua-srpm-macros</summary>
+<summary>Имя пакета: lua-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -33696,7 +33695,7 @@ URL          : https://keplerproject.github.io/luasql/
 </details>
 
 <details>
-<summary>lua-static</summary>
+<summary>Имя пакета: lua-static</summary>
 
 ```
 Из репозитор : fedora
@@ -33709,7 +33708,7 @@ URL          : http://www.lua.org/
 </details>
 
 <details>
-<summary>lua-term</summary>
+<summary>Имя пакета: lua-term</summary>
 
 ```
 Из репозитор : fedora
@@ -33722,7 +33721,7 @@ URL          : https://github.com/hoelzro/lua-term
 </details>
 
 <details>
-<summary>lua5.1-filesystem</summary>
+<summary>Имя пакета: lua5.1-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -33739,7 +33738,7 @@ URL          : https://keplerproject.github.io/luafilesystem/
 </details>
 
 <details>
-<summary>lua5.1-luaossl</summary>
+<summary>Имя пакета: lua5.1-luaossl</summary>
 
 ```
 Из репозитор : fedora
@@ -33752,7 +33751,7 @@ URL          : https://github.com/wahern/luaossl
 </details>
 
 <details>
-<summary>lua5.1-socket</summary>
+<summary>Имя пакета: lua5.1-socket</summary>
 
 ```
 Из репозитор : fedora
@@ -33771,7 +33770,7 @@ URL          : http://www.tecgraf.puc-rio.br/~diego/professional/luasocket/
 </details>
 
 <details>
-<summary>luabind</summary>
+<summary>Имя пакета: luabind</summary>
 
 ```
 Из репозитор : fedora
@@ -33789,7 +33788,7 @@ URL          : http://www.rasterbar.com/products/luabind.html
 </details>
 
 <details>
-<summary>luabind-devel</summary>
+<summary>Имя пакета: luabind-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -33802,7 +33801,7 @@ URL          : http://www.rasterbar.com/products/luabind.html
 </details>
 
 <details>
-<summary>luajit</summary>
+<summary>Имя пакета: luajit</summary>
 
 ```
 Из репозитор : fedora
@@ -33817,7 +33816,7 @@ URL          : http://luajit.org/
 </details>
 
 <details>
-<summary>luajit-devel</summary>
+<summary>Имя пакета: luajit-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -33830,7 +33829,7 @@ URL          : http://luajit.org/
 </details>
 
 <details>
-<summary>luarocks</summary>
+<summary>Имя пакета: luarocks</summary>
 
 ```
 Из репозитор : fedora
@@ -33849,7 +33848,7 @@ URL          : http://luarocks.org
 </details>
 
 <details>
-<summary>lv2</summary>
+<summary>Имя пакета: lv2</summary>
 
 ```
 Из репозитор : anaconda
@@ -33873,7 +33872,7 @@ URL          : http://lv2plug.in
 </details>
 
 <details>
-<summary>lvm2</summary>
+<summary>Имя пакета: lvm2</summary>
 
 ```
 Из репозитор : anaconda
@@ -33891,7 +33890,7 @@ URL          : http://sourceware.org/lvm2
 </details>
 
 <details>
-<summary>lvm2-dbusd</summary>
+<summary>Имя пакета: lvm2-dbusd</summary>
 
 ```
 Из репозитор : fedora
@@ -33905,7 +33904,7 @@ URL          : http://sourceware.org/lvm2
 </details>
 
 <details>
-<summary>lvm2-libs</summary>
+<summary>Имя пакета: lvm2-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -33918,7 +33917,7 @@ URL          : http://sourceware.org/lvm2
 </details>
 
 <details>
-<summary>lxc-libs</summary>
+<summary>Имя пакета: lxc-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -33934,7 +33933,7 @@ URL          : http://linuxcontainers.org/lxc
 </details>
 
 <details>
-<summary>lz4-libs</summary>
+<summary>Имя пакета: lz4-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -33947,7 +33946,7 @@ URL          : https://lz4.github.io/lz4/
 </details>
 
 <details>
-<summary>lzma-sdk</summary>
+<summary>Имя пакета: lzma-sdk</summary>
 
 ```
 Из репозитор : fedora
@@ -33970,7 +33969,7 @@ URL          : http://sourceforge.net/projects/sevenzip/
 </details>
 
 <details>
-<summary>lzo</summary>
+<summary>Имя пакета: lzo</summary>
 
 ```
 Из репозитор : anaconda
@@ -33987,7 +33986,7 @@ URL          : http://www.oberhumer.com/opensource/lzo/
 </details>
 
 <details>
-<summary>lzop</summary>
+<summary>Имя пакета: lzop</summary>
 
 ```
 Из репозитор : anaconda
@@ -34005,7 +34004,7 @@ URL          : https://www.lzop.org/
 </details>
 
 <details>
-<summary>m17n-db</summary>
+<summary>Имя пакета: m17n-db</summary>
 
 ```
 Из репозитор : anaconda
@@ -34020,7 +34019,7 @@ URL          : http://www.nongnu.org/m17n
 </details>
 
 <details>
-<summary>m17n-lib</summary>
+<summary>Имя пакета: m17n-lib</summary>
 
 ```
 Из репозитор : anaconda
@@ -34036,7 +34035,7 @@ URL          : http://www.nongnu.org/m17n/
 </details>
 
 <details>
-<summary>m4</summary>
+<summary>Имя пакета: m4</summary>
 
 ```
 Из репозитор : fedora
@@ -34056,7 +34055,7 @@ URL          : https://www.gnu.org/software/m4/
 </details>
 
 <details>
-<summary>macchanger</summary>
+<summary>Имя пакета: macchanger</summary>
 
 ```
 Из репозитор : fedora
@@ -34075,7 +34074,7 @@ URL          : https://github.com/alobbs/macchanger
 </details>
 
 <details>
-<summary>mactel-boot</summary>
+<summary>Имя пакета: mactel-boot</summary>
 
 ```
 Из репозитор : anaconda
@@ -34088,7 +34087,7 @@ URL          : http://www.codon.org.uk/~mjg59/mactel-boot/
 </details>
 
 <details>
-<summary>mailcap</summary>
+<summary>Имя пакета: mailcap</summary>
 
 ```
 Из репозитор : anaconda
@@ -34110,7 +34109,7 @@ URL          : https://pagure.io/mailcap
 </details>
 
 <details>
-<summary>make</summary>
+<summary>Имя пакета: make</summary>
 
 ```
 Эпоха        : 1
@@ -34129,7 +34128,7 @@ URL          : http://www.gnu.org/software/make/
 </details>
 
 <details>
-<summary>man-db</summary>
+<summary>Имя пакета: man-db</summary>
 
 ```
 Из репозитор : anaconda
@@ -34147,7 +34146,7 @@ URL          : http://www.nongnu.org/man-db/
 </details>
 
 <details>
-<summary>man-pages</summary>
+<summary>Имя пакета: man-pages</summary>
 
 ```
 Из репозитор : anaconda
@@ -34160,7 +34159,7 @@ URL          : http://www.kernel.org/doc/man-pages/
 </details>
 
 <details>
-<summary>man-pages-ru</summary>
+<summary>Имя пакета: man-pages-ru</summary>
 
 ```
 Из репозитор : fedora
@@ -34174,7 +34173,7 @@ URL          : http://sourceforge.net/projects/man-pages-ru/
 </details>
 
 <details>
-<summary>mariadb</summary>
+<summary>Имя пакета: mariadb</summary>
 
 ```
 Эпоха        : 3
@@ -34192,7 +34191,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-backup</summary>
+<summary>Имя пакета: mariadb-backup</summary>
 
 ```
 Эпоха        : 3
@@ -34208,7 +34207,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-common</summary>
+<summary>Имя пакета: mariadb-common</summary>
 
 ```
 Эпоха        : 3
@@ -34223,7 +34222,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-connect-engine</summary>
+<summary>Имя пакета: mariadb-connect-engine</summary>
 
 ```
 Эпоха        : 3
@@ -34241,7 +34240,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-connector-c</summary>
+<summary>Имя пакета: mariadb-connector-c</summary>
 
 ```
 Из репозитор : anaconda
@@ -34255,7 +34254,7 @@ URL          : http://mariadb.org/
 </details>
 
 <details>
-<summary>mariadb-connector-c</summary>
+<summary>Имя пакета: mariadb-connector-c</summary>
 
 ```
 Из репозитор : updates-testing
@@ -34269,7 +34268,7 @@ URL          : http://mariadb.org/
 </details>
 
 <details>
-<summary>mariadb-connector-c-config</summary>
+<summary>Имя пакета: mariadb-connector-c-config</summary>
 
 ```
 Из репозитор : anaconda
@@ -34285,7 +34284,7 @@ URL          : http://mariadb.org/
 </details>
 
 <details>
-<summary>mariadb-connector-c-config</summary>
+<summary>Имя пакета: mariadb-connector-c-config</summary>
 
 ```
 Из репозитор : updates-testing
@@ -34301,7 +34300,7 @@ URL          : http://mariadb.org/
 </details>
 
 <details>
-<summary>mariadb-connector-c-test</summary>
+<summary>Имя пакета: mariadb-connector-c-test</summary>
 
 ```
 Из репозитор : updates-testing
@@ -34316,7 +34315,7 @@ URL          : http://mariadb.org/
 </details>
 
 <details>
-<summary>mariadb-connector-odbc</summary>
+<summary>Имя пакета: mariadb-connector-odbc</summary>
 
 ```
 Из репозитор : fedora
@@ -34332,7 +34331,7 @@ URL          : https://mariadb.org/en/
 </details>
 
 <details>
-<summary>mariadb-cracklib-password-check</summary>
+<summary>Имя пакета: mariadb-cracklib-password-check</summary>
 
 ```
 Эпоха        : 3
@@ -34350,7 +34349,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-errmsg</summary>
+<summary>Имя пакета: mariadb-errmsg</summary>
 
 ```
 Эпоха        : 3
@@ -34366,7 +34365,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-gssapi-server</summary>
+<summary>Имя пакета: mariadb-gssapi-server</summary>
 
 ```
 Эпоха        : 3
@@ -34381,7 +34380,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-java-client</summary>
+<summary>Имя пакета: mariadb-java-client</summary>
 
 ```
 Из репозитор : fedora
@@ -34396,7 +34395,7 @@ URL          : https://mariadb.com/kb/en/mariadb/about-mariadb-connector-j/
 </details>
 
 <details>
-<summary>mariadb-java-client-javadoc</summary>
+<summary>Имя пакета: mariadb-java-client-javadoc</summary>
 
 ```
 Из репозитор : fedora
@@ -34409,7 +34408,7 @@ URL          : https://mariadb.com/kb/en/mariadb/about-mariadb-connector-j/
 </details>
 
 <details>
-<summary>mariadb-oqgraph-engine</summary>
+<summary>Имя пакета: mariadb-oqgraph-engine</summary>
 
 ```
 Эпоха        : 3
@@ -34427,7 +34426,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-pam</summary>
+<summary>Имя пакета: mariadb-pam</summary>
 
 ```
 Эпоха        : 3
@@ -34441,7 +34440,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-rocksdb-engine</summary>
+<summary>Имя пакета: mariadb-rocksdb-engine</summary>
 
 ```
 Эпоха        : 3
@@ -34455,7 +34454,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-s3-engine</summary>
+<summary>Имя пакета: mariadb-s3-engine</summary>
 
 ```
 Эпоха        : 3
@@ -34471,7 +34470,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-server</summary>
+<summary>Имя пакета: mariadb-server</summary>
 
 ```
 Эпоха        : 3
@@ -34489,7 +34488,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-server-utils</summary>
+<summary>Имя пакета: mariadb-server-utils</summary>
 
 ```
 Эпоха        : 3
@@ -34505,7 +34504,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>mariadb-sphinx-engine</summary>
+<summary>Имя пакета: mariadb-sphinx-engine</summary>
 
 ```
 Эпоха        : 3
@@ -34519,7 +34518,7 @@ URL          : http://mariadb.org
 </details>
 
 <details>
-<summary>material-icons-fonts</summary>
+<summary>Имя пакета: material-icons-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -34533,7 +34532,7 @@ URL          : https://google.github.io/material-design-icons/
 </details>
 
 <details>
-<summary>mathjax</summary>
+<summary>Имя пакета: mathjax</summary>
 
 ```
 Из репозитор : fedora
@@ -34552,7 +34551,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-ams-fonts</summary>
+<summary>Имя пакета: mathjax-ams-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34565,7 +34564,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-caligraphic-fonts</summary>
+<summary>Имя пакета: mathjax-caligraphic-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34578,7 +34577,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-fraktur-fonts</summary>
+<summary>Имя пакета: mathjax-fraktur-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34591,7 +34590,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-main-fonts</summary>
+<summary>Имя пакета: mathjax-main-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34604,7 +34603,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-math-fonts</summary>
+<summary>Имя пакета: mathjax-math-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34617,7 +34616,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-sansserif-fonts</summary>
+<summary>Имя пакета: mathjax-sansserif-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34630,7 +34629,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-script-fonts</summary>
+<summary>Имя пакета: mathjax-script-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34643,7 +34642,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-size1-fonts</summary>
+<summary>Имя пакета: mathjax-size1-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34656,7 +34655,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-size2-fonts</summary>
+<summary>Имя пакета: mathjax-size2-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34669,7 +34668,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-size3-fonts</summary>
+<summary>Имя пакета: mathjax-size3-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34682,7 +34681,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-size4-fonts</summary>
+<summary>Имя пакета: mathjax-size4-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34695,7 +34694,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-stixweb-fonts</summary>
+<summary>Имя пакета: mathjax-stixweb-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34708,7 +34707,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-typewriter-fonts</summary>
+<summary>Имя пакета: mathjax-typewriter-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34721,7 +34720,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-vector-fonts</summary>
+<summary>Имя пакета: mathjax-vector-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34734,7 +34733,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-winchrome-fonts</summary>
+<summary>Имя пакета: mathjax-winchrome-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34747,7 +34746,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mathjax-winie6-fonts</summary>
+<summary>Имя пакета: mathjax-winie6-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -34760,7 +34759,7 @@ URL          : http://mathjax.org
 </details>
 
 <details>
-<summary>mbedtls</summary>
+<summary>Имя пакета: mbedtls</summary>
 
 ```
 Из репозитор : fedora
@@ -34777,7 +34776,7 @@ URL          : https://tls.mbed.org/
 </details>
 
 <details>
-<summary>mc</summary>
+<summary>Имя пакета: mc</summary>
 
 ```
 Эпоха        : 1
@@ -34794,7 +34793,7 @@ URL          : http://www.midnight-commander.org/
 </details>
 
 <details>
-<summary>mcelog</summary>
+<summary>Имя пакета: mcelog</summary>
 
 ```
 Эпоха        : 3
@@ -34809,7 +34808,7 @@ URL          : https://github.com/andikleen/mcelog
 </details>
 
 <details>
-<summary>mcpp</summary>
+<summary>Имя пакета: mcpp</summary>
 
 ```
 Из репозитор : anaconda
@@ -34833,7 +34832,7 @@ URL          : http://mcpp.sourceforge.net/
 </details>
 
 <details>
-<summary>md5deep</summary>
+<summary>Имя пакета: md5deep</summary>
 
 ```
 Из репозитор : fedora
@@ -34851,7 +34850,7 @@ URL          : http://md5deep.sf.net/
 </details>
 
 <details>
-<summary>mdadm</summary>
+<summary>Имя пакета: mdadm</summary>
 
 ```
 Из репозитор : anaconda
@@ -34868,7 +34867,7 @@ URL          : http://www.kernel.org/pub/linux/utils/raid/mdadm/
 </details>
 
 <details>
-<summary>mdevctl</summary>
+<summary>Имя пакета: mdevctl</summary>
 
 ```
 Из репозитор : anaconda
@@ -34885,7 +34884,7 @@ URL          : https://github.com/mdevctl/mdevctl
 </details>
 
 <details>
-<summary>media-player-info</summary>
+<summary>Имя пакета: media-player-info</summary>
 
 ```
 Из репозитор : anaconda
@@ -34903,7 +34902,7 @@ URL          : http://www.freedesktop.org/wiki/Software/media-player-info
 </details>
 
 <details>
-<summary>memcached</summary>
+<summary>Имя пакета: memcached</summary>
 
 ```
 Из репозитор : fedora
@@ -34918,7 +34917,7 @@ URL          : https://www.memcached.org/
 </details>
 
 <details>
-<summary>memcached-selinux</summary>
+<summary>Имя пакета: memcached-selinux</summary>
 
 ```
 Из репозитор : fedora
@@ -34932,7 +34931,7 @@ URL          : https://www.memcached.org/
 </details>
 
 <details>
-<summary>memstrack</summary>
+<summary>Имя пакета: memstrack</summary>
 
 ```
 Из репозитор : anaconda
@@ -34945,7 +34944,7 @@ URL          : https://github.com/ryncsn/memstrack
 </details>
 
 <details>
-<summary>memtest86+</summary>
+<summary>Имя пакета: memtest86+</summary>
 
 ```
 Из репозитор : anaconda
@@ -34970,7 +34969,7 @@ URL          : http://www.memtest.org
 </details>
 
 <details>
-<summary>mesa-demos</summary>
+<summary>Имя пакета: mesa-demos</summary>
 
 ```
 Из репозитор : fedora
@@ -34983,7 +34982,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-dri-drivers</summary>
+<summary>Имя пакета: mesa-dri-drivers</summary>
 
 ```
 Из репозитор : fedora
@@ -34996,7 +34995,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-filesystem</summary>
+<summary>Имя пакета: mesa-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -35009,7 +35008,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libEGL</summary>
+<summary>Имя пакета: mesa-libEGL</summary>
 
 ```
 Из репозитор : fedora
@@ -35022,7 +35021,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libEGL-devel</summary>
+<summary>Имя пакета: mesa-libEGL-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -35035,7 +35034,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libGL</summary>
+<summary>Имя пакета: mesa-libGL</summary>
 
 ```
 Из репозитор : fedora
@@ -35048,7 +35047,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libGL-devel</summary>
+<summary>Имя пакета: mesa-libGL-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -35061,7 +35060,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libGLU</summary>
+<summary>Имя пакета: mesa-libGLU</summary>
 
 ```
 Из репозитор : fedora
@@ -35074,7 +35073,7 @@ URL          : http://mesa3d.org/
 </details>
 
 <details>
-<summary>mesa-libGLU-devel</summary>
+<summary>Имя пакета: mesa-libGLU-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -35088,7 +35087,7 @@ URL          : http://mesa3d.org/
 </details>
 
 <details>
-<summary>mesa-libGLw</summary>
+<summary>Имя пакета: mesa-libGLw</summary>
 
 ```
 Из репозитор : fedora
@@ -35101,7 +35100,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libOSMesa</summary>
+<summary>Имя пакета: mesa-libOSMesa</summary>
 
 ```
 Из репозитор : fedora
@@ -35114,7 +35113,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libOpenCL</summary>
+<summary>Имя пакета: mesa-libOpenCL</summary>
 
 ```
 Из репозитор : fedora
@@ -35127,7 +35126,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libd3d</summary>
+<summary>Имя пакета: mesa-libd3d</summary>
 
 ```
 Из репозитор : fedora
@@ -35140,7 +35139,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libgbm</summary>
+<summary>Имя пакета: mesa-libgbm</summary>
 
 ```
 Из репозитор : fedora
@@ -35153,7 +35152,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libglapi</summary>
+<summary>Имя пакета: mesa-libglapi</summary>
 
 ```
 Из репозитор : fedora
@@ -35166,7 +35165,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-libxatracker</summary>
+<summary>Имя пакета: mesa-libxatracker</summary>
 
 ```
 Из репозитор : fedora
@@ -35179,7 +35178,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-omx-drivers</summary>
+<summary>Имя пакета: mesa-omx-drivers</summary>
 
 ```
 Из репозитор : fedora
@@ -35192,7 +35191,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-vdpau-drivers</summary>
+<summary>Имя пакета: mesa-vdpau-drivers</summary>
 
 ```
 Из репозитор : fedora
@@ -35205,7 +35204,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>mesa-vulkan-drivers</summary>
+<summary>Имя пакета: mesa-vulkan-drivers</summary>
 
 ```
 Из репозитор : fedora
@@ -35218,7 +35217,7 @@ URL          : http://www.mesa3d.org
 </details>
 
 <details>
-<summary>meson</summary>
+<summary>Имя пакета: meson</summary>
 
 ```
 Из репозитор : fedora
@@ -35234,7 +35233,7 @@ URL          : https://mesonbuild.com/
 </details>
 
 <details>
-<summary>metis</summary>
+<summary>Имя пакета: metis</summary>
 
 ```
 Из репозитор : fedora
@@ -35253,7 +35252,7 @@ URL          : http://glaros.dtc.umn.edu/gkhome/views/metis
 </details>
 
 <details>
-<summary>microcode_ctl</summary>
+<summary>Имя пакета: microcode_ctl</summary>
 
 ```
 Эпоха        : 2
@@ -35272,7 +35271,7 @@ URL          : https://pagure.io/microcode_ctl
 </details>
 
 <details>
-<summary>minder</summary>
+<summary>Имя пакета: minder</summary>
 
 ```
 Из репозитор : fedora
@@ -35294,7 +35293,7 @@ URL          : https://github.com/phase1geo/Minder
 </details>
 
 <details>
-<summary>ming</summary>
+<summary>Имя пакета: ming</summary>
 
 ```
 Из репозитор : fedora
@@ -35308,7 +35307,7 @@ URL          : http://www.libming.org/
 </details>
 
 <details>
-<summary>minizip</summary>
+<summary>Имя пакета: minizip</summary>
 
 ```
 Из репозитор : fedora
@@ -35325,7 +35324,7 @@ URL          : https://github.com/nmoinvaz/minizip
 </details>
 
 <details>
-<summary>minizip-compat</summary>
+<summary>Имя пакета: minizip-compat</summary>
 
 ```
 Из репозитор : fedora
@@ -35338,7 +35337,7 @@ URL          : https://www.zlib.net/
 </details>
 
 <details>
-<summary>mjpegtools-libs</summary>
+<summary>Имя пакета: mjpegtools-libs</summary>
 
 ```
 Из репозитор : rpmfusion-free-updates-testing
@@ -35354,7 +35353,7 @@ URL          : https://mjpeg.sourceforge.net/
 </details>
 
 <details>
-<summary>mkfontscale</summary>
+<summary>Имя пакета: mkfontscale</summary>
 
 ```
 Из репозитор : updates-testing
@@ -35369,7 +35368,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>mkpasswd</summary>
+<summary>Имя пакета: mkpasswd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -35383,7 +35382,7 @@ URL          : http://www.linux.it/~md/software/
 </details>
 
 <details>
-<summary>mlocate</summary>
+<summary>Имя пакета: mlocate</summary>
 
 ```
 Из репозитор : anaconda
@@ -35401,7 +35400,7 @@ URL          : https://fedorahosted.org/mlocate/
 </details>
 
 <details>
-<summary>mmv</summary>
+<summary>Имя пакета: mmv</summary>
 
 ```
 Из репозитор : fedora
@@ -35421,7 +35420,7 @@ URL          : http://packages.qa.debian.org/m/mmv.html
 </details>
 
 <details>
-<summary>mobile-broadband-provider-info</summary>
+<summary>Имя пакета: mobile-broadband-provider-info</summary>
 
 ```
 Из репозитор : anaconda
@@ -35435,7 +35434,7 @@ URL          : https://wiki.gnome.org/Projects/NetworkManager/MobileBroadband/Se
 </details>
 
 <details>
-<summary>mock</summary>
+<summary>Имя пакета: mock</summary>
 
 ```
 Из репозитор : fedora
@@ -35448,7 +35447,7 @@ URL          : https://github.com/rpm-software-management/mock/
 </details>
 
 <details>
-<summary>mock-core-configs</summary>
+<summary>Имя пакета: mock-core-configs</summary>
 
 ```
 Из репозитор : fedora
@@ -35466,7 +35465,7 @@ URL          : https://github.com/rpm-software-management/mock/
 </details>
 
 <details>
-<summary>mock-filesystem</summary>
+<summary>Имя пакета: mock-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -35479,7 +35478,7 @@ URL          : https://github.com/rpm-software-management/mock/
 </details>
 
 <details>
-<summary>mock-scm</summary>
+<summary>Имя пакета: mock-scm</summary>
 
 ```
 Из репозитор : fedora
@@ -35492,7 +35491,7 @@ URL          : https://github.com/rpm-software-management/mock/
 </details>
 
 <details>
-<summary>mockito</summary>
+<summary>Имя пакета: mockito</summary>
 
 ```
 Из репозитор : fedora
@@ -35508,7 +35507,7 @@ URL          : https://site.mockito.org/
 </details>
 
 <details>
-<summary>mod_dnssd</summary>
+<summary>Имя пакета: mod_dnssd</summary>
 
 ```
 Из репозитор : anaconda
@@ -35522,7 +35521,7 @@ URL          : http://0pointer.de/lennart/projects/mod_dnssd/
 </details>
 
 <details>
-<summary>mod_http2</summary>
+<summary>Имя пакета: mod_http2</summary>
 
 ```
 Из репозитор : anaconda
@@ -35536,7 +35535,7 @@ URL          : https://icing.github.io/mod_h2/
 </details>
 
 <details>
-<summary>mod_lua</summary>
+<summary>Имя пакета: mod_lua</summary>
 
 ```
 Из репозитор : updates-testing
@@ -35550,7 +35549,7 @@ URL          : https://httpd.apache.org/
 </details>
 
 <details>
-<summary>mod_lua</summary>
+<summary>Имя пакета: mod_lua</summary>
 
 ```
 Из репозитор : anaconda
@@ -35564,7 +35563,7 @@ URL          : https://httpd.apache.org/
 </details>
 
 <details>
-<summary>mod_ssl</summary>
+<summary>Имя пакета: mod_ssl</summary>
 
 ```
 Эпоха        : 1
@@ -35580,7 +35579,7 @@ URL          : https://httpd.apache.org/
 </details>
 
 <details>
-<summary>module-build-service</summary>
+<summary>Имя пакета: module-build-service</summary>
 
 ```
 Из репозитор : fedora
@@ -35604,7 +35603,7 @@ URL          : https://pagure.io/fm-orchestrator
 </details>
 
 <details>
-<summary>mokutil</summary>
+<summary>Имя пакета: mokutil</summary>
 
 ```
 Эпоха        : 2
@@ -35619,7 +35618,7 @@ URL          : https://github.com/lcp/mokutil
 </details>
 
 <details>
-<summary>mokutil</summary>
+<summary>Имя пакета: mokutil</summary>
 
 ```
 Эпоха        : 2
@@ -35634,7 +35633,7 @@ URL          : https://github.com/lcp/mokutil
 </details>
 
 <details>
-<summary>mosquitto</summary>
+<summary>Имя пакета: mosquitto</summary>
 
 ```
 Из репозитор : updates-testing
@@ -35652,7 +35651,7 @@ URL          : http://mosquitto.org/
 </details>
 
 <details>
-<summary>motif</summary>
+<summary>Имя пакета: motif</summary>
 
 ```
 Из репозитор : fedora
@@ -35667,7 +35666,7 @@ URL          : http://www.motifzone.net/
 </details>
 
 <details>
-<summary>mozilla-filesystem</summary>
+<summary>Имя пакета: mozilla-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -35680,7 +35679,7 @@ URL          : http://www.motifzone.net/
 </details>
 
 <details>
-<summary>mozilla-openh264</summary>
+<summary>Имя пакета: mozilla-openh264</summary>
 
 ```
 Из репозитор : fedora-cisco-openh264
@@ -35694,7 +35693,7 @@ URL          : http://www.openh264.org/
 </details>
 
 <details>
-<summary>mozjs78</summary>
+<summary>Имя пакета: mozjs78</summary>
 
 ```
 Из репозитор : anaconda
@@ -35709,7 +35708,7 @@ URL          : https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderM
 </details>
 
 <details>
-<summary>mozjs78</summary>
+<summary>Имя пакета: mozjs78</summary>
 
 ```
 Из репозитор : updates-testing
@@ -35724,7 +35723,7 @@ URL          : https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderM
 </details>
 
 <details>
-<summary>mp</summary>
+<summary>Имя пакета: mp</summary>
 
 ```
 Из репозитор : fedora
@@ -35762,7 +35761,7 @@ URL          : https://github.com/ampl/mp
 </details>
 
 <details>
-<summary>mpage</summary>
+<summary>Имя пакета: mpage</summary>
 
 ```
 Из репозитор : anaconda
@@ -35780,7 +35779,7 @@ URL          : http://www.mesa.nl/pub/mpage/
 </details>
 
 <details>
-<summary>mpfr</summary>
+<summary>Имя пакета: mpfr</summary>
 
 ```
 Из репозитор : updates-testing
@@ -35797,7 +35796,7 @@ URL          : https://www.mpfr.org/
 </details>
 
 <details>
-<summary>mpg123-libs</summary>
+<summary>Имя пакета: mpg123-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -35812,7 +35811,7 @@ URL          : http://mpg123.org
 </details>
 
 <details>
-<summary>mrtg</summary>
+<summary>Имя пакета: mrtg</summary>
 
 ```
 Из репозитор : fedora
@@ -35827,7 +35826,7 @@ URL          : http://oss.oetiker.ch/mrtg/
 </details>
 
 <details>
-<summary>mtdev</summary>
+<summary>Имя пакета: mtdev</summary>
 
 ```
 Из репозитор : anaconda
@@ -35843,7 +35842,7 @@ URL          : http://bitmath.org/code/mtdev/
 </details>
 
 <details>
-<summary>mtools</summary>
+<summary>Имя пакета: mtools</summary>
 
 ```
 Из репозитор : anaconda
@@ -35861,7 +35860,7 @@ URL          : https://www.gnu.org/software/mtools/
 </details>
 
 <details>
-<summary>mtr</summary>
+<summary>Имя пакета: mtr</summary>
 
 ```
 Эпоха        : 2
@@ -35887,7 +35886,7 @@ URL          : https://www.bitwizard.nl/mtr/
 </details>
 
 <details>
-<summary>mutter</summary>
+<summary>Имя пакета: mutter</summary>
 
 ```
 Из репозитор : updates-testing
@@ -35909,7 +35908,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>mutter</summary>
+<summary>Имя пакета: mutter</summary>
 
 ```
 Из репозитор : anaconda
@@ -35931,7 +35930,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>mypaint</summary>
+<summary>Имя пакета: mypaint</summary>
 
 ```
 Из репозитор : updates-testing
@@ -35946,7 +35945,7 @@ URL          : http://mypaint.org
 </details>
 
 <details>
-<summary>mypaint-brushes</summary>
+<summary>Имя пакета: mypaint-brushes</summary>
 
 ```
 Из репозитор : fedora
@@ -35959,7 +35958,7 @@ URL          : https://github.com/mypaint/mypaint-brushes
 </details>
 
 <details>
-<summary>mypaint-data</summary>
+<summary>Имя пакета: mypaint-data</summary>
 
 ```
 Из репозитор : updates-testing
@@ -35972,7 +35971,7 @@ URL          : http://mypaint.org
 </details>
 
 <details>
-<summary>mypaint2-brushes</summary>
+<summary>Имя пакета: mypaint2-brushes</summary>
 
 ```
 Из репозитор : fedora
@@ -35985,7 +35984,7 @@ URL          : https://github.com/mypaint/mypaint-brushes
 </details>
 
 <details>
-<summary>mysql-selinux</summary>
+<summary>Имя пакета: mysql-selinux</summary>
 
 ```
 Из репозитор : fedora
@@ -35998,7 +35997,7 @@ URL          : https://github.com/devexp-db/mysql-selinux
 </details>
 
 <details>
-<summary>mythes</summary>
+<summary>Имя пакета: mythes</summary>
 
 ```
 Из репозитор : anaconda
@@ -36013,7 +36012,7 @@ URL          : http://hunspell.sourceforge.net/
 </details>
 
 <details>
-<summary>mythes-en</summary>
+<summary>Имя пакета: mythes-en</summary>
 
 ```
 Из репозитор : anaconda
@@ -36026,7 +36025,7 @@ URL          : http://www.danielnaber.de/wn2ooo/
 </details>
 
 <details>
-<summary>mythes-ru</summary>
+<summary>Имя пакета: mythes-ru</summary>
 
 ```
 Из репозитор : fedora
@@ -36039,7 +36038,7 @@ URL          : http://wiki.services.openoffice.org/wiki/Dictionaries
 </details>
 
 <details>
-<summary>mytop</summary>
+<summary>Имя пакета: mytop</summary>
 
 ```
 Из репозитор : fedora
@@ -36054,7 +36053,7 @@ URL          : http://jeremy.zawodny.com/mysql/mytop
 </details>
 
 <details>
-<summary>nano</summary>
+<summary>Имя пакета: nano</summary>
 
 ```
 Из репозитор : anaconda
@@ -36067,7 +36066,7 @@ URL          : https://www.nano-editor.org
 </details>
 
 <details>
-<summary>nano</summary>
+<summary>Имя пакета: nano</summary>
 
 ```
 Из репозитор : updates-testing
@@ -36080,7 +36079,7 @@ URL          : https://www.nano-editor.org
 </details>
 
 <details>
-<summary>nano-default-editor</summary>
+<summary>Имя пакета: nano-default-editor</summary>
 
 ```
 Из репозитор : updates-testing
@@ -36094,7 +36093,7 @@ URL          : https://www.nano-editor.org
 </details>
 
 <details>
-<summary>nautilus</summary>
+<summary>Имя пакета: nautilus</summary>
 
 ```
 Из репозитор : updates-testing
@@ -36111,7 +36110,7 @@ URL          : https://wiki.gnome.org/Apps/Nautilus
 </details>
 
 <details>
-<summary>nautilus</summary>
+<summary>Имя пакета: nautilus</summary>
 
 ```
 Из репозитор : anaconda
@@ -36128,7 +36127,7 @@ URL          : https://wiki.gnome.org/Apps/Nautilus
 </details>
 
 <details>
-<summary>nautilus-extensions</summary>
+<summary>Имя пакета: nautilus-extensions</summary>
 
 ```
 Из репозитор : updates-testing
@@ -36141,7 +36140,7 @@ URL          : https://wiki.gnome.org/Apps/Nautilus
 </details>
 
 <details>
-<summary>nautilus-extensions</summary>
+<summary>Имя пакета: nautilus-extensions</summary>
 
 ```
 Из репозитор : anaconda
@@ -36154,7 +36153,7 @@ URL          : https://wiki.gnome.org/Apps/Nautilus
 </details>
 
 <details>
-<summary>ncurses</summary>
+<summary>Имя пакета: ncurses</summary>
 
 ```
 Из репозитор : anaconda
@@ -36174,7 +36173,7 @@ URL          : https://invisible-island.net/ncurses/ncurses.html
 </details>
 
 <details>
-<summary>ncurses-base</summary>
+<summary>Имя пакета: ncurses-base</summary>
 
 ```
 Из репозитор : anaconda
@@ -36188,7 +36187,7 @@ URL          : https://invisible-island.net/ncurses/ncurses.html
 </details>
 
 <details>
-<summary>ncurses-libs</summary>
+<summary>Имя пакета: ncurses-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -36206,7 +36205,7 @@ URL          : https://invisible-island.net/ncurses/ncurses.html
 </details>
 
 <details>
-<summary>ndctl</summary>
+<summary>Имя пакета: ndctl</summary>
 
 ```
 Из репозитор : anaconda
@@ -36222,7 +36221,7 @@ URL          : https://github.com/pmem/ndctl
 </details>
 
 <details>
-<summary>ndctl-libs</summary>
+<summary>Имя пакета: ndctl-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -36235,7 +36234,7 @@ URL          : https://github.com/pmem/ndctl
 </details>
 
 <details>
-<summary>neofetch</summary>
+<summary>Имя пакета: neofetch</summary>
 
 ```
 Из репозитор : fedora
@@ -36251,7 +36250,7 @@ URL          : https://github.com/dylanaraps/neofetch
 </details>
 
 <details>
-<summary>neon</summary>
+<summary>Имя пакета: neon</summary>
 
 ```
 Из репозитор : anaconda
@@ -36268,7 +36267,7 @@ URL          : https://notroj.github.io/neon/
 </details>
 
 <details>
-<summary>net-snmp-libs</summary>
+<summary>Имя пакета: net-snmp-libs</summary>
 
 ```
 Эпоха        : 1
@@ -36283,7 +36282,7 @@ URL          : http://net-snmp.sourceforge.net/
 </details>
 
 <details>
-<summary>net-snmp-libs</summary>
+<summary>Имя пакета: net-snmp-libs</summary>
 
 ```
 Эпоха        : 1
@@ -36298,7 +36297,7 @@ URL          : http://net-snmp.sourceforge.net/
 </details>
 
 <details>
-<summary>net-tools</summary>
+<summary>Имя пакета: net-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -36313,7 +36312,7 @@ URL          : http://sourceforge.net/projects/net-tools/
 </details>
 
 <details>
-<summary>netcdf</summary>
+<summary>Имя пакета: netcdf</summary>
 
 ```
 Из репозитор : fedora
@@ -36354,7 +36353,7 @@ URL          : http://www.unidata.ucar.edu/software/netcdf/
 </details>
 
 <details>
-<summary>nethogs</summary>
+<summary>Имя пакета: nethogs</summary>
 
 ```
 Из репозитор : fedora
@@ -36375,7 +36374,7 @@ URL          : https://github.com/raboof/nethogs/
 </details>
 
 <details>
-<summary>netpbm</summary>
+<summary>Имя пакета: netpbm</summary>
 
 ```
 Из репозитор : fedora
@@ -36391,7 +36390,7 @@ URL          : http://netpbm.sourceforge.net/
 </details>
 
 <details>
-<summary>netstat-nat</summary>
+<summary>Имя пакета: netstat-nat</summary>
 
 ```
 Из репозитор : fedora
@@ -36407,7 +36406,7 @@ URL          : http://www.tweegy.nl/projects/netstat-nat/
 </details>
 
 <details>
-<summary>nettle</summary>
+<summary>Имя пакета: nettle</summary>
 
 ```
 Из репозитор : anaconda
@@ -36423,7 +36422,7 @@ URL          : http://www.lysator.liu.se/~nisse/nettle/
 </details>
 
 <details>
-<summary>nettle</summary>
+<summary>Имя пакета: nettle</summary>
 
 ```
 Из репозитор : updates-testing
@@ -36439,7 +36438,7 @@ URL          : http://www.lysator.liu.se/~nisse/nettle/
 </details>
 
 <details>
-<summary>nfs-utils</summary>
+<summary>Имя пакета: nfs-utils</summary>
 
 ```
 Эпоха        : 1
@@ -36462,7 +36461,7 @@ URL          : http://linux-nfs.org/
 </details>
 
 <details>
-<summary>nfswatch</summary>
+<summary>Имя пакета: nfswatch</summary>
 
 ```
 Из репозитор : fedora
@@ -36479,7 +36478,7 @@ URL          : http://nfswatch.sourceforge.net
 </details>
 
 <details>
-<summary>nftables</summary>
+<summary>Имя пакета: nftables</summary>
 
 ```
 Эпоха        : 1
@@ -36493,7 +36492,7 @@ URL          : https://netfilter.org/projects/nftables/
 </details>
 
 <details>
-<summary>nftables-devel</summary>
+<summary>Имя пакета: nftables-devel</summary>
 
 ```
 Эпоха        : 1
@@ -36507,7 +36506,7 @@ URL          : https://netfilter.org/projects/nftables/
 </details>
 
 <details>
-<summary>nginx</summary>
+<summary>Имя пакета: nginx</summary>
 
 ```
 Эпоха        : 1
@@ -36523,7 +36522,7 @@ URL          : https://nginx.org
 </details>
 
 <details>
-<summary>nginx-all-modules</summary>
+<summary>Имя пакета: nginx-all-modules</summary>
 
 ```
 Эпоха        : 1
@@ -36537,7 +36536,7 @@ URL          : https://nginx.org
 </details>
 
 <details>
-<summary>nginx-filesystem</summary>
+<summary>Имя пакета: nginx-filesystem</summary>
 
 ```
 Эпоха        : 1
@@ -36553,7 +36552,7 @@ URL          : https://nginx.org
 </details>
 
 <details>
-<summary>nginx-mimetypes</summary>
+<summary>Имя пакета: nginx-mimetypes</summary>
 
 ```
 Из репозитор : fedora
@@ -36566,7 +36565,7 @@ URL          : https://pagure.io/mailcap
 </details>
 
 <details>
-<summary>nginx-mod-http-image-filter</summary>
+<summary>Имя пакета: nginx-mod-http-image-filter</summary>
 
 ```
 Эпоха        : 1
@@ -36580,7 +36579,7 @@ URL          : https://nginx.org
 </details>
 
 <details>
-<summary>nginx-mod-http-perl</summary>
+<summary>Имя пакета: nginx-mod-http-perl</summary>
 
 ```
 Эпоха        : 1
@@ -36594,7 +36593,7 @@ URL          : https://nginx.org
 </details>
 
 <details>
-<summary>nginx-mod-http-xslt-filter</summary>
+<summary>Имя пакета: nginx-mod-http-xslt-filter</summary>
 
 ```
 Эпоха        : 1
@@ -36608,7 +36607,7 @@ URL          : https://nginx.org
 </details>
 
 <details>
-<summary>nginx-mod-mail</summary>
+<summary>Имя пакета: nginx-mod-mail</summary>
 
 ```
 Эпоха        : 1
@@ -36622,7 +36621,7 @@ URL          : https://nginx.org
 </details>
 
 <details>
-<summary>nginx-mod-stream</summary>
+<summary>Имя пакета: nginx-mod-stream</summary>
 
 ```
 Эпоха        : 1
@@ -36636,7 +36635,7 @@ URL          : https://nginx.org
 </details>
 
 <details>
-<summary>ngrep</summary>
+<summary>Имя пакета: ngrep</summary>
 
 ```
 Из репозитор : fedora
@@ -36655,7 +36654,7 @@ URL          : https://github.com/jpr5/ngrep
 </details>
 
 <details>
-<summary>nim-srpm-macros</summary>
+<summary>Имя пакета: nim-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -36668,7 +36667,7 @@ URL          : https://pagure.io/nim2rpm
 </details>
 
 <details>
-<summary>ninja-build</summary>
+<summary>Имя пакета: ninja-build</summary>
 
 ```
 Из репозитор : fedora
@@ -36684,7 +36683,7 @@ URL          : https://ninja-build.org/
 </details>
 
 <details>
-<summary>nm-connection-editor</summary>
+<summary>Имя пакета: nm-connection-editor</summary>
 
 ```
 Из репозитор : anaconda
@@ -36698,7 +36697,7 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 </details>
 
 <details>
-<summary>nmap</summary>
+<summary>Имя пакета: nmap</summary>
 
 ```
 Эпоха        : 3
@@ -36721,7 +36720,7 @@ URL          : http://nmap.org/
 </details>
 
 <details>
-<summary>nmap-ncat</summary>
+<summary>Имя пакета: nmap-ncat</summary>
 
 ```
 Эпоха        : 3
@@ -36741,7 +36740,7 @@ URL          : http://nmap.org/
 </details>
 
 <details>
-<summary>nodejs</summary>
+<summary>Имя пакета: nodejs</summary>
 
 ```
 Эпоха        : 1
@@ -36759,7 +36758,7 @@ URL          : http://nodejs.org/
 </details>
 
 <details>
-<summary>nodejs-docs</summary>
+<summary>Имя пакета: nodejs-docs</summary>
 
 ```
 Эпоха        : 1
@@ -36773,7 +36772,7 @@ URL          : http://nodejs.org/
 </details>
 
 <details>
-<summary>nodejs-full-i18n</summary>
+<summary>Имя пакета: nodejs-full-i18n</summary>
 
 ```
 Эпоха        : 1
@@ -36788,7 +36787,7 @@ URL          : http://nodejs.org/
 </details>
 
 <details>
-<summary>nodejs-libs</summary>
+<summary>Имя пакета: nodejs-libs</summary>
 
 ```
 Эпоха        : 1
@@ -36802,7 +36801,7 @@ URL          : http://nodejs.org/
 </details>
 
 <details>
-<summary>nodejs-packaging</summary>
+<summary>Имя пакета: nodejs-packaging</summary>
 
 ```
 Из репозитор : fedora
@@ -36816,7 +36815,7 @@ URL          : https://fedoraproject.org/wiki/Node.js/Packagers
 </details>
 
 <details>
-<summary>nomarch</summary>
+<summary>Имя пакета: nomarch</summary>
 
 ```
 Из репозитор : fedora
@@ -36832,7 +36831,7 @@ URL          : https://www.svgalib.org/rus/nomarch.html
 </details>
 
 <details>
-<summary>npm</summary>
+<summary>Имя пакета: npm</summary>
 
 ```
 Эпоха        : 1
@@ -36847,7 +36846,7 @@ URL          : http://nodejs.org/
 </details>
 
 <details>
-<summary>npth</summary>
+<summary>Имя пакета: npth</summary>
 
 ```
 Из репозитор : anaconda
@@ -36864,7 +36863,7 @@ URL          : https://git.gnupg.org/cgi-bin/gitweb.cgi?p=npth.git
 </details>
 
 <details>
-<summary>nspr</summary>
+<summary>Имя пакета: nspr</summary>
 
 ```
 Из репозитор : anaconda
@@ -36880,7 +36879,7 @@ URL          : http://www.mozilla.org/projects/nspr/
 </details>
 
 <details>
-<summary>nspr</summary>
+<summary>Имя пакета: nspr</summary>
 
 ```
 Из репозитор : updates-testing
@@ -36896,7 +36895,7 @@ URL          : http://www.mozilla.org/projects/nspr/
 </details>
 
 <details>
-<summary>nss</summary>
+<summary>Имя пакета: nss</summary>
 
 ```
 Из репозитор : anaconda
@@ -36913,7 +36912,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>nss</summary>
+<summary>Имя пакета: nss</summary>
 
 ```
 Из репозитор : updates-testing
@@ -36930,7 +36929,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>nss-mdns</summary>
+<summary>Имя пакета: nss-mdns</summary>
 
 ```
 Из репозитор : anaconda
@@ -36950,7 +36949,7 @@ URL          : https://github.com/lathiat/nss-mdns
 </details>
 
 <details>
-<summary>nss-mdns</summary>
+<summary>Имя пакета: nss-mdns</summary>
 
 ```
 Из репозитор : updates-testing
@@ -36970,7 +36969,7 @@ URL          : https://github.com/lathiat/nss-mdns
 </details>
 
 <details>
-<summary>nss-softokn</summary>
+<summary>Имя пакета: nss-softokn</summary>
 
 ```
 Из репозитор : anaconda
@@ -36983,7 +36982,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>nss-softokn</summary>
+<summary>Имя пакета: nss-softokn</summary>
 
 ```
 Из репозитор : updates-testing
@@ -36996,7 +36995,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>nss-softokn-freebl</summary>
+<summary>Имя пакета: nss-softokn-freebl</summary>
 
 ```
 Из репозитор : anaconda
@@ -37011,7 +37010,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>nss-softokn-freebl</summary>
+<summary>Имя пакета: nss-softokn-freebl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37026,7 +37025,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>nss-sysinit</summary>
+<summary>Имя пакета: nss-sysinit</summary>
 
 ```
 Из репозитор : anaconda
@@ -37042,7 +37041,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>nss-sysinit</summary>
+<summary>Имя пакета: nss-sysinit</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37058,7 +37057,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>nss-util</summary>
+<summary>Имя пакета: nss-util</summary>
 
 ```
 Из репозитор : anaconda
@@ -37071,7 +37070,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>nss-util</summary>
+<summary>Имя пакета: nss-util</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37084,7 +37083,7 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 </details>
 
 <details>
-<summary>ntfs-3g</summary>
+<summary>Имя пакета: ntfs-3g</summary>
 
 ```
 Эпоха        : 2
@@ -37106,7 +37105,7 @@ URL          : http://www.ntfs-3g.org/
 </details>
 
 <details>
-<summary>ntfs-3g-system-compression</summary>
+<summary>Имя пакета: ntfs-3g-system-compression</summary>
 
 ```
 Из репозитор : anaconda
@@ -37128,7 +37127,7 @@ URL          : https://github.com/ebiggers/ntfs-3g-system-compression
 </details>
 
 <details>
-<summary>ntfs2btrfs</summary>
+<summary>Имя пакета: ntfs2btrfs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37147,7 +37146,7 @@ URL          : https://github.com/maharmstone/ntfs2btrfs
 </details>
 
 <details>
-<summary>ntfsprogs</summary>
+<summary>Имя пакета: ntfsprogs</summary>
 
 ```
 Эпоха        : 2
@@ -37163,7 +37162,7 @@ URL          : http://www.ntfs-3g.org/
 </details>
 
 <details>
-<summary>numactl-libs</summary>
+<summary>Имя пакета: numactl-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -37177,7 +37176,7 @@ URL          : https://github.com/numactl/numactl
 </details>
 
 <details>
-<summary>numad</summary>
+<summary>Имя пакета: numad</summary>
 
 ```
 Из репозитор : anaconda
@@ -37192,7 +37191,7 @@ URL          : https://pagure.io/numad
 </details>
 
 <details>
-<summary>nvme-cli</summary>
+<summary>Имя пакета: nvme-cli</summary>
 
 ```
 Из репозитор : fedora
@@ -37205,7 +37204,7 @@ URL          : https://github.com/linux-nvme/nvme-cli
 </details>
 
 <details>
-<summary>nvmetcli</summary>
+<summary>Имя пакета: nvmetcli</summary>
 
 ```
 Из репозитор : fedora
@@ -37220,7 +37219,7 @@ URL          : ftp://ftp.infradead.org/pub/nvmetcli/
 </details>
 
 <details>
-<summary>nx-libs</summary>
+<summary>Имя пакета: nx-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -37235,7 +37234,7 @@ URL          : https://github.com/ArcticaProject/nx-libs
 </details>
 
 <details>
-<summary>nxproxy</summary>
+<summary>Имя пакета: nxproxy</summary>
 
 ```
 Из репозитор : fedora
@@ -37248,7 +37247,7 @@ URL          : https://github.com/ArcticaProject/nx-libs
 </details>
 
 <details>
-<summary>objectweb-asm</summary>
+<summary>Имя пакета: objectweb-asm</summary>
 
 ```
 Из репозитор : fedora
@@ -37265,7 +37264,7 @@ URL          : http://asm.ow2.org/
 </details>
 
 <details>
-<summary>objenesis</summary>
+<summary>Имя пакета: objenesis</summary>
 
 ```
 Из репозитор : fedora
@@ -37295,7 +37294,7 @@ URL          : http://objenesis.org/
 </details>
 
 <details>
-<summary>ocaml-srpm-macros</summary>
+<summary>Имя пакета: ocaml-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -37308,7 +37307,7 @@ URL          : http://objenesis.org/
 </details>
 
 <details>
-<summary>ocl-icd</summary>
+<summary>Имя пакета: ocl-icd</summary>
 
 ```
 Из репозитор : fedora
@@ -37321,7 +37320,7 @@ URL          : https://github.com/OCL-dev/ocl-icd/
 </details>
 
 <details>
-<summary>oddjob</summary>
+<summary>Имя пакета: oddjob</summary>
 
 ```
 Из репозитор : anaconda
@@ -37335,7 +37334,7 @@ URL          : https://pagure.io/oddjob
 </details>
 
 <details>
-<summary>oddjob-mkhomedir</summary>
+<summary>Имя пакета: oddjob-mkhomedir</summary>
 
 ```
 Из репозитор : anaconda
@@ -37350,7 +37349,7 @@ URL          : https://pagure.io/oddjob
 </details>
 
 <details>
-<summary>ogdi</summary>
+<summary>Имя пакета: ogdi</summary>
 
 ```
 Из репозитор : fedora
@@ -37370,7 +37369,7 @@ URL          : http://ogdi.sourceforge.net/
 </details>
 
 <details>
-<summary>okteta</summary>
+<summary>Имя пакета: okteta</summary>
 
 ```
 Эпоха        : 1
@@ -37384,7 +37383,7 @@ URL          : https://cgit.kde.org/okteta.git
 </details>
 
 <details>
-<summary>okteta-libs</summary>
+<summary>Имя пакета: okteta-libs</summary>
 
 ```
 Эпоха        : 1
@@ -37398,7 +37397,7 @@ URL          : https://cgit.kde.org/okteta.git
 </details>
 
 <details>
-<summary>oniguruma</summary>
+<summary>Имя пакета: oniguruma</summary>
 
 ```
 Из репозитор : anaconda
@@ -37414,7 +37413,7 @@ URL          : https://github.com/kkos/oniguruma/
 </details>
 
 <details>
-<summary>open-sans-fonts</summary>
+<summary>Имя пакета: open-sans-fonts</summary>
 
 ```
 Из репозитор : fedora
@@ -37432,7 +37431,7 @@ URL          : http://www.google.com/fonts/specimen/Open+Sans
 </details>
 
 <details>
-<summary>open-vm-tools</summary>
+<summary>Имя пакета: open-vm-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -37449,7 +37448,7 @@ URL          : https://github.com/vmware/open-vm-tools
 </details>
 
 <details>
-<summary>open-vm-tools</summary>
+<summary>Имя пакета: open-vm-tools</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37466,7 +37465,7 @@ URL          : https://github.com/vmware/open-vm-tools
 </details>
 
 <details>
-<summary>open-vm-tools-desktop</summary>
+<summary>Имя пакета: open-vm-tools-desktop</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37481,7 +37480,7 @@ URL          : https://github.com/vmware/open-vm-tools
 </details>
 
 <details>
-<summary>openal-soft</summary>
+<summary>Имя пакета: openal-soft</summary>
 
 ```
 Из репозитор : fedora
@@ -37502,7 +37501,7 @@ URL          : http://openal-soft.org/
 </details>
 
 <details>
-<summary>openal-soft-qt</summary>
+<summary>Имя пакета: openal-soft-qt</summary>
 
 ```
 Из репозитор : fedora
@@ -37516,7 +37515,7 @@ URL          : http://openal-soft.org/
 </details>
 
 <details>
-<summary>openblas</summary>
+<summary>Имя пакета: openblas</summary>
 
 ```
 Из репозитор : anaconda
@@ -37532,7 +37531,7 @@ URL          : https://github.com/xianyi/OpenBLAS/
 </details>
 
 <details>
-<summary>openblas-openmp</summary>
+<summary>Имя пакета: openblas-openmp</summary>
 
 ```
 Из репозитор : anaconda
@@ -37551,7 +37550,7 @@ URL          : https://github.com/xianyi/OpenBLAS/
 </details>
 
 <details>
-<summary>openblas-openmp64</summary>
+<summary>Имя пакета: openblas-openmp64</summary>
 
 ```
 Из репозитор : fedora
@@ -37570,7 +37569,7 @@ URL          : https://github.com/xianyi/OpenBLAS/
 </details>
 
 <details>
-<summary>openblas-serial</summary>
+<summary>Имя пакета: openblas-serial</summary>
 
 ```
 Из репозитор : fedora
@@ -37589,7 +37588,7 @@ URL          : https://github.com/xianyi/OpenBLAS/
 </details>
 
 <details>
-<summary>openblas-srpm-macros</summary>
+<summary>Имя пакета: openblas-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -37601,7 +37600,7 @@ URL          : https://github.com/xianyi/OpenBLAS/
 </details>
 
 <details>
-<summary>opencl-filesystem</summary>
+<summary>Имя пакета: opencl-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -37614,7 +37613,7 @@ URL          : http://www.khronos.org/registry/cl/
 </details>
 
 <details>
-<summary>opencl-headers</summary>
+<summary>Имя пакета: opencl-headers</summary>
 
 ```
 Из репозитор : fedora
@@ -37627,7 +37626,7 @@ URL          : https://www.khronos.org/registry/cl/
 </details>
 
 <details>
-<summary>opencl-utils</summary>
+<summary>Имя пакета: opencl-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -37644,7 +37643,7 @@ URL          : http://code.google.com/p/opencl-utils
 </details>
 
 <details>
-<summary>openconnect</summary>
+<summary>Имя пакета: openconnect</summary>
 
 ```
 Из репозитор : anaconda
@@ -37659,7 +37658,7 @@ URL          : http://www.infradead.org/openconnect.html
 </details>
 
 <details>
-<summary>opencore-amr</summary>
+<summary>Имя пакета: opencore-amr</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -37673,7 +37672,7 @@ URL          : http://sourceforge.net/projects/opencore-amr/
 </details>
 
 <details>
-<summary>opencryptoki-libs</summary>
+<summary>Имя пакета: opencryptoki-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -37693,7 +37692,7 @@ URL          : https://github.com/opencryptoki/opencryptoki
 </details>
 
 <details>
-<summary>opencv-contrib</summary>
+<summary>Имя пакета: opencv-contrib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37710,7 +37709,7 @@ URL          : https://opencv.org
 </details>
 
 <details>
-<summary>opencv-core</summary>
+<summary>Имя пакета: opencv-core</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37723,7 +37722,7 @@ URL          : https://opencv.org
 </details>
 
 <details>
-<summary>openexr-libs</summary>
+<summary>Имя пакета: openexr-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -37771,7 +37770,7 @@ URL          : https://www.openexr.com/
 </details>
 
 <details>
-<summary>openexr-libs</summary>
+<summary>Имя пакета: openexr-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37819,7 +37818,7 @@ URL          : https://www.openexr.com/
 </details>
 
 <details>
-<summary>openh264</summary>
+<summary>Имя пакета: openh264</summary>
 
 ```
 Из репозитор : fedora-cisco-openh264
@@ -37833,7 +37832,7 @@ URL          : http://www.openh264.org/
 </details>
 
 <details>
-<summary>openjpeg2</summary>
+<summary>Имя пакета: openjpeg2</summary>
 
 ```
 Из репозитор : anaconda
@@ -37853,7 +37852,7 @@ URL          : https://github.com/uclouvain/openjpeg
 </details>
 
 <details>
-<summary>openldap</summary>
+<summary>Имя пакета: openldap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37872,7 +37871,7 @@ URL          : http://www.openldap.org/
 </details>
 
 <details>
-<summary>openpgm</summary>
+<summary>Имя пакета: openpgm</summary>
 
 ```
 Из репозитор : fedora
@@ -37886,7 +37885,7 @@ URL          : https://github.com/steve-o/openpgm
 </details>
 
 <details>
-<summary>opensc</summary>
+<summary>Имя пакета: opensc</summary>
 
 ```
 Из репозитор : anaconda
@@ -37905,7 +37904,7 @@ URL          : https://github.com/OpenSC/OpenSC/wiki
 </details>
 
 <details>
-<summary>openslide</summary>
+<summary>Имя пакета: openslide</summary>
 
 ```
 Из репозитор : fedora
@@ -37919,7 +37918,7 @@ URL          : http://openslide.org/
 </details>
 
 <details>
-<summary>openssh</summary>
+<summary>Имя пакета: openssh</summary>
 
 ```
 Из репозитор : anaconda
@@ -37943,7 +37942,7 @@ URL          : http://www.openssh.com/portable.html
 </details>
 
 <details>
-<summary>openssh</summary>
+<summary>Имя пакета: openssh</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37967,7 +37966,7 @@ URL          : http://www.openssh.com/portable.html
 </details>
 
 <details>
-<summary>openssh-clients</summary>
+<summary>Имя пакета: openssh-clients</summary>
 
 ```
 Из репозитор : anaconda
@@ -37982,7 +37981,7 @@ URL          : http://www.openssh.com/portable.html
 </details>
 
 <details>
-<summary>openssh-clients</summary>
+<summary>Имя пакета: openssh-clients</summary>
 
 ```
 Из репозитор : updates-testing
@@ -37997,7 +37996,7 @@ URL          : http://www.openssh.com/portable.html
 </details>
 
 <details>
-<summary>openssh-server</summary>
+<summary>Имя пакета: openssh-server</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38013,7 +38012,7 @@ URL          : http://www.openssh.com/portable.html
 </details>
 
 <details>
-<summary>openssl</summary>
+<summary>Имя пакета: openssl</summary>
 
 ```
 Эпоха        : 1
@@ -38030,7 +38029,7 @@ URL          : http://www.openssl.org/
 </details>
 
 <details>
-<summary>openssl-devel</summary>
+<summary>Имя пакета: openssl-devel</summary>
 
 ```
 Эпоха        : 1
@@ -38046,7 +38045,7 @@ URL          : http://www.openssl.org/
 </details>
 
 <details>
-<summary>openssl-gost-engine</summary>
+<summary>Имя пакета: openssl-gost-engine</summary>
 
 ```
 Из репозитор : fedora
@@ -38059,7 +38058,7 @@ URL          : https://github.com/gost-engine/engine
 </details>
 
 <details>
-<summary>openssl-ibmpkcs11</summary>
+<summary>Имя пакета: openssl-ibmpkcs11</summary>
 
 ```
 Из репозитор : fedora
@@ -38073,7 +38072,7 @@ URL          : https://github.com/opencryptoki/openssl-ibmpkcs11
 </details>
 
 <details>
-<summary>openssl-libs</summary>
+<summary>Имя пакета: openssl-libs</summary>
 
 ```
 Эпоха        : 1
@@ -38089,7 +38088,7 @@ URL          : http://www.openssl.org/
 </details>
 
 <details>
-<summary>openssl-libs</summary>
+<summary>Имя пакета: openssl-libs</summary>
 
 ```
 Эпоха        : 1
@@ -38105,7 +38104,7 @@ URL          : http://www.openssl.org/
 </details>
 
 <details>
-<summary>openssl-perl</summary>
+<summary>Имя пакета: openssl-perl</summary>
 
 ```
 Эпоха        : 1
@@ -38121,7 +38120,7 @@ URL          : http://www.openssl.org/
 </details>
 
 <details>
-<summary>openssl-pkcs11</summary>
+<summary>Имя пакета: openssl-pkcs11</summary>
 
 ```
 Из репозитор : anaconda
@@ -38138,7 +38137,7 @@ URL          : https://github.com/OpenSC/libp11
 </details>
 
 <details>
-<summary>openssl-static</summary>
+<summary>Имя пакета: openssl-static</summary>
 
 ```
 Эпоха        : 1
@@ -38155,7 +38154,7 @@ URL          : http://www.openssl.org/
 </details>
 
 <details>
-<summary>opentest4j</summary>
+<summary>Имя пакета: opentest4j</summary>
 
 ```
 Из репозитор : fedora
@@ -38175,7 +38174,7 @@ URL          : https://github.com/ota4j-team/opentest4j
 </details>
 
 <details>
-<summary>openvpn</summary>
+<summary>Имя пакета: openvpn</summary>
 
 ```
 Из репозитор : anaconda
@@ -38192,7 +38191,7 @@ URL          : https://community.openvpn.net/
 </details>
 
 <details>
-<summary>openvpn</summary>
+<summary>Имя пакета: openvpn</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38209,7 +38208,7 @@ URL          : https://community.openvpn.net/
 </details>
 
 <details>
-<summary>opus</summary>
+<summary>Имя пакета: opus</summary>
 
 ```
 Из репозитор : anaconda
@@ -38224,7 +38223,7 @@ URL          : https://www.opus-codec.org/
 </details>
 
 <details>
-<summary>orc</summary>
+<summary>Имя пакета: orc</summary>
 
 ```
 Из репозитор : anaconda
@@ -38241,7 +38240,7 @@ URL          : http://cgit.freedesktop.org/gstreamer/orc/
 </details>
 
 <details>
-<summary>orca</summary>
+<summary>Имя пакета: orca</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38257,7 +38256,7 @@ URL          : https://wiki.gnome.org/Projects/Orca
 </details>
 
 <details>
-<summary>os-prober</summary>
+<summary>Имя пакета: os-prober</summary>
 
 ```
 Из репозитор : anaconda
@@ -38272,7 +38271,7 @@ URL          : http://kitenet.net/~joey/code/os-prober/
 </details>
 
 <details>
-<summary>osinfo-db</summary>
+<summary>Имя пакета: osinfo-db</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38287,7 +38286,7 @@ URL          : http://libosinfo.org/
 </details>
 
 <details>
-<summary>osinfo-db-tools</summary>
+<summary>Имя пакета: osinfo-db-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -38301,7 +38300,7 @@ URL          : http://libosinfo.org/
 </details>
 
 <details>
-<summary>ostree</summary>
+<summary>Имя пакета: ostree</summary>
 
 ```
 Из репозитор : anaconda
@@ -38316,7 +38315,7 @@ URL          : https://ostree.readthedocs.io/en/latest/
 </details>
 
 <details>
-<summary>ostree</summary>
+<summary>Имя пакета: ostree</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38331,7 +38330,7 @@ URL          : https://ostree.readthedocs.io/en/latest/
 </details>
 
 <details>
-<summary>ostree-devel</summary>
+<summary>Имя пакета: ostree-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -38344,7 +38343,7 @@ URL          : https://ostree.readthedocs.io/en/latest/
 </details>
 
 <details>
-<summary>ostree-libs</summary>
+<summary>Имя пакета: ostree-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -38357,7 +38356,7 @@ URL          : https://ostree.readthedocs.io/en/latest/
 </details>
 
 <details>
-<summary>ostree-libs</summary>
+<summary>Имя пакета: ostree-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38370,7 +38369,7 @@ URL          : https://ostree.readthedocs.io/en/latest/
 </details>
 
 <details>
-<summary>p11-kit</summary>
+<summary>Имя пакета: p11-kit</summary>
 
 ```
 Из репозитор : anaconda
@@ -38385,7 +38384,7 @@ URL          : http://p11-glue.freedesktop.org/p11-kit.html
 </details>
 
 <details>
-<summary>p11-kit-server</summary>
+<summary>Имя пакета: p11-kit-server</summary>
 
 ```
 Из репозитор : anaconda
@@ -38400,7 +38399,7 @@ URL          : http://p11-glue.freedesktop.org/p11-kit.html
 </details>
 
 <details>
-<summary>p11-kit-trust</summary>
+<summary>Имя пакета: p11-kit-trust</summary>
 
 ```
 Из репозитор : anaconda
@@ -38414,7 +38413,7 @@ URL          : http://p11-glue.freedesktop.org/p11-kit.html
 </details>
 
 <details>
-<summary>p7zip</summary>
+<summary>Имя пакета: p7zip</summary>
 
 ```
 Из репозитор : fedora
@@ -38428,7 +38427,7 @@ URL          : http://p7zip.sourceforge.net/
 </details>
 
 <details>
-<summary>p7zip-doc</summary>
+<summary>Имя пакета: p7zip-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -38442,7 +38441,7 @@ URL          : http://p7zip.sourceforge.net/
 </details>
 
 <details>
-<summary>p7zip-gui</summary>
+<summary>Имя пакета: p7zip-gui</summary>
 
 ```
 Из репозитор : fedora
@@ -38457,7 +38456,7 @@ URL          : http://p7zip.sourceforge.net/
 </details>
 
 <details>
-<summary>p7zip-plugins</summary>
+<summary>Имя пакета: p7zip-plugins</summary>
 
 ```
 Из репозитор : fedora
@@ -38471,7 +38470,7 @@ URL          : http://p7zip.sourceforge.net/
 </details>
 
 <details>
-<summary>pakchois</summary>
+<summary>Имя пакета: pakchois</summary>
 
 ```
 Из репозитор : anaconda
@@ -38488,7 +38487,7 @@ URL          : http://www.manyfish.co.uk/pakchois/
 </details>
 
 <details>
-<summary>paktype-naskh-basic-fonts</summary>
+<summary>Имя пакета: paktype-naskh-basic-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -38502,7 +38501,7 @@ URL          : https://sourceforge.net/projects/paktype/
 </details>
 
 <details>
-<summary>pam</summary>
+<summary>Имя пакета: pam</summary>
 
 ```
 Из репозитор : anaconda
@@ -38517,7 +38516,7 @@ URL          : http://www.linux-pam.org/
 </details>
 
 <details>
-<summary>pam_afs_session</summary>
+<summary>Имя пакета: pam_afs_session</summary>
 
 ```
 Из репозитор : anaconda
@@ -38533,7 +38532,7 @@ URL          : https://www.eyrie.org/~eagle/software/pam-afs-session/
 </details>
 
 <details>
-<summary>pam_passwdqc</summary>
+<summary>Имя пакета: pam_passwdqc</summary>
 
 ```
 Из репозитор : anaconda
@@ -38551,7 +38550,7 @@ URL          : https://www.openwall.com/passwdqc/
 </details>
 
 <details>
-<summary>pandoc</summary>
+<summary>Имя пакета: pandoc</summary>
 
 ```
 Из репозитор : fedora
@@ -38584,7 +38583,7 @@ URL          : https://hackage.haskell.org/package/pandoc
 </details>
 
 <details>
-<summary>pandoc-citeproc</summary>
+<summary>Имя пакета: pandoc-citeproc</summary>
 
 ```
 Из репозитор : fedora
@@ -38605,7 +38604,7 @@ URL          : https://hackage.haskell.org/package/pandoc-citeproc
 </details>
 
 <details>
-<summary>pandoc-citeproc-common</summary>
+<summary>Имя пакета: pandoc-citeproc-common</summary>
 
 ```
 Из репозитор : fedora
@@ -38618,7 +38617,7 @@ URL          : https://hackage.haskell.org/package/pandoc-citeproc
 </details>
 
 <details>
-<summary>pandoc-common</summary>
+<summary>Имя пакета: pandoc-common</summary>
 
 ```
 Из репозитор : fedora
@@ -38631,7 +38630,7 @@ URL          : https://hackage.haskell.org/package/pandoc
 </details>
 
 <details>
-<summary>pango</summary>
+<summary>Имя пакета: pango</summary>
 
 ```
 Из репозитор : anaconda
@@ -38653,7 +38652,7 @@ URL          : http://www.pango.org
 </details>
 
 <details>
-<summary>pango</summary>
+<summary>Имя пакета: pango</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38675,7 +38674,7 @@ URL          : http://www.pango.org
 </details>
 
 <details>
-<summary>pango-devel</summary>
+<summary>Имя пакета: pango-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38689,7 +38688,7 @@ URL          : http://www.pango.org
 </details>
 
 <details>
-<summary>pangomm</summary>
+<summary>Имя пакета: pangomm</summary>
 
 ```
 Из репозитор : anaconda
@@ -38705,7 +38704,7 @@ URL          : https://www.gtkmm.org/
 </details>
 
 <details>
-<summary>paps</summary>
+<summary>Имя пакета: paps</summary>
 
 ```
 Из репозитор : anaconda
@@ -38718,7 +38717,7 @@ URL          : http://paps.sourceforge.net/
 </details>
 
 <details>
-<summary>parted</summary>
+<summary>Имя пакета: parted</summary>
 
 ```
 Из репозитор : anaconda
@@ -38734,7 +38733,7 @@ URL          : http://www.gnu.org/software/parted
 </details>
 
 <details>
-<summary>passwd</summary>
+<summary>Имя пакета: passwd</summary>
 
 ```
 Из репозитор : anaconda
@@ -38749,7 +38748,7 @@ URL          : https://pagure.io/passwd
 </details>
 
 <details>
-<summary>passwdqc</summary>
+<summary>Имя пакета: passwdqc</summary>
 
 ```
 Из репозитор : anaconda
@@ -38776,7 +38775,7 @@ URL          : https://www.openwall.com/passwdqc/
 </details>
 
 <details>
-<summary>passwdqc-utils</summary>
+<summary>Имя пакета: passwdqc-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -38791,7 +38790,7 @@ URL          : https://www.openwall.com/passwdqc/
 </details>
 
 <details>
-<summary>patch</summary>
+<summary>Имя пакета: patch</summary>
 
 ```
 Из репозитор : fedora
@@ -38811,7 +38810,7 @@ URL          : https://savannah.gnu.org/projects/patch/
 </details>
 
 <details>
-<summary>pbzip2</summary>
+<summary>Имя пакета: pbzip2</summary>
 
 ```
 Из репозитор : fedora
@@ -38828,7 +38827,7 @@ URL          : https://launchpad.net/pbzip2
 </details>
 
 <details>
-<summary>pcaudiolib</summary>
+<summary>Имя пакета: pcaudiolib</summary>
 
 ```
 Из репозитор : anaconda
@@ -38842,7 +38841,7 @@ URL          : https://github.com/rhdunn/pcaudiolib
 </details>
 
 <details>
-<summary>pciutils</summary>
+<summary>Имя пакета: pciutils</summary>
 
 ```
 Из репозитор : anaconda
@@ -38856,7 +38855,7 @@ URL          : https://mj.ucw.cz/sw/pciutils/
 </details>
 
 <details>
-<summary>pciutils-libs</summary>
+<summary>Имя пакета: pciutils-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -38870,7 +38869,7 @@ URL          : https://mj.ucw.cz/sw/pciutils/
 </details>
 
 <details>
-<summary>pcp-conf</summary>
+<summary>Имя пакета: pcp-conf</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38883,7 +38882,7 @@ URL          : https://pcp.io
 </details>
 
 <details>
-<summary>pcp-libs</summary>
+<summary>Имя пакета: pcp-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -38896,7 +38895,7 @@ URL          : https://pcp.io
 </details>
 
 <details>
-<summary>pcre</summary>
+<summary>Имя пакета: pcre</summary>
 
 ```
 Из репозитор : anaconda
@@ -38914,7 +38913,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcre-cpp</summary>
+<summary>Имя пакета: pcre-cpp</summary>
 
 ```
 Из репозитор : fedora
@@ -38928,7 +38927,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcre-devel</summary>
+<summary>Имя пакета: pcre-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -38941,7 +38940,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcre-utf16</summary>
+<summary>Имя пакета: pcre-utf16</summary>
 
 ```
 Из репозитор : fedora
@@ -38955,7 +38954,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcre-utf32</summary>
+<summary>Имя пакета: pcre-utf32</summary>
 
 ```
 Из репозитор : fedora
@@ -38969,7 +38968,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcre2</summary>
+<summary>Имя пакета: pcre2</summary>
 
 ```
 Из репозитор : anaconda
@@ -38997,7 +38996,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcre2-devel</summary>
+<summary>Имя пакета: pcre2-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -39012,7 +39011,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcre2-syntax</summary>
+<summary>Имя пакета: pcre2-syntax</summary>
 
 ```
 Из репозитор : anaconda
@@ -39026,7 +39025,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcre2-utf16</summary>
+<summary>Имя пакета: pcre2-utf16</summary>
 
 ```
 Из репозитор : anaconda
@@ -39039,7 +39038,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcre2-utf32</summary>
+<summary>Имя пакета: pcre2-utf32</summary>
 
 ```
 Из репозитор : anaconda
@@ -39052,7 +39051,7 @@ URL          : https://www.pcre.org/
 </details>
 
 <details>
-<summary>pcsc-lite</summary>
+<summary>Имя пакета: pcsc-lite</summary>
 
 ```
 Из репозитор : updates-testing
@@ -39071,7 +39070,7 @@ URL          : https://pcsclite.apdu.fr/
 </details>
 
 <details>
-<summary>pcsc-lite-ccid</summary>
+<summary>Имя пакета: pcsc-lite-ccid</summary>
 
 ```
 Из репозитор : anaconda
@@ -39085,7 +39084,7 @@ URL          : https://ccid.apdu.fr/files
 </details>
 
 <details>
-<summary>pcsc-lite-libs</summary>
+<summary>Имя пакета: pcsc-lite-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -39098,7 +39097,7 @@ URL          : https://pcsclite.apdu.fr/
 </details>
 
 <details>
-<summary>pcsc-lite-libs</summary>
+<summary>Имя пакета: pcsc-lite-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -39111,7 +39110,7 @@ URL          : https://pcsclite.apdu.fr/
 </details>
 
 <details>
-<summary>perl</summary>
+<summary>Имя пакета: perl</summary>
 
 ```
 Эпоха        : 4
@@ -39137,7 +39136,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Algorithm-C3</summary>
+<summary>Имя пакета: perl-Algorithm-C3</summary>
 
 ```
 Из репозитор : fedora
@@ -39153,7 +39152,7 @@ URL          : https://metacpan.org/release/Algorithm-C3
 </details>
 
 <details>
-<summary>perl-Algorithm-Diff</summary>
+<summary>Имя пакета: perl-Algorithm-Diff</summary>
 
 ```
 Из репозитор : fedora
@@ -39169,7 +39168,7 @@ URL          : https://metacpan.org/release/Algorithm-Diff
 </details>
 
 <details>
-<summary>perl-AnyEvent</summary>
+<summary>Имя пакета: perl-AnyEvent</summary>
 
 ```
 Из репозитор : fedora
@@ -39185,7 +39184,7 @@ URL          : https://metacpan.org/release/AnyEvent
 </details>
 
 <details>
-<summary>perl-AnyEvent-I3</summary>
+<summary>Имя пакета: perl-AnyEvent-I3</summary>
 
 ```
 Из репозитор : fedora
@@ -39200,7 +39199,7 @@ URL          : https://metacpan.org/release/anyevent-i3
 </details>
 
 <details>
-<summary>perl-AppConfig</summary>
+<summary>Имя пакета: perl-AppConfig</summary>
 
 ```
 Из репозитор : fedora
@@ -39219,7 +39218,7 @@ URL          : https://metacpan.org/release/AppConfig
 </details>
 
 <details>
-<summary>perl-Archive-Any</summary>
+<summary>Имя пакета: perl-Archive-Any</summary>
 
 ```
 Из репозитор : fedora
@@ -39233,7 +39232,7 @@ URL          : https://metacpan.org/release/Archive-Any
 </details>
 
 <details>
-<summary>perl-Archive-Extract</summary>
+<summary>Имя пакета: perl-Archive-Extract</summary>
 
 ```
 Эпоха        : 1
@@ -39251,7 +39250,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-Z-Compress-Zlib</summary>
+<summary>Имя пакета: perl-Archive-Extract-Z-Compress-Zlib</summary>
 
 ```
 Эпоха        : 1
@@ -39265,7 +39264,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-bz2-IO-Uncompress-Bunzip2</summary>
+<summary>Имя пакета: perl-Archive-Extract-bz2-IO-Uncompress-Bunzip2</summary>
 
 ```
 Эпоха        : 1
@@ -39279,7 +39278,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-gz-Compress-Zlib</summary>
+<summary>Имя пакета: perl-Archive-Extract-gz-Compress-Zlib</summary>
 
 ```
 Эпоха        : 1
@@ -39293,7 +39292,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-lzma-IO-Uncompress-UnLzma</summary>
+<summary>Имя пакета: perl-Archive-Extract-lzma-IO-Uncompress-UnLzma</summary>
 
 ```
 Эпоха        : 1
@@ -39307,7 +39306,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-tar-Archive-Tar</summary>
+<summary>Имя пакета: perl-Archive-Extract-tar-Archive-Tar</summary>
 
 ```
 Эпоха        : 1
@@ -39321,7 +39320,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-tbz-Archive-Tar-IO-Uncompress-Bunzip2</summary>
+<summary>Имя пакета: perl-Archive-Extract-tbz-Archive-Tar-IO-Uncompress-Bunzip2</summary>
 
 ```
 Эпоха        : 1
@@ -39336,7 +39335,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-tgz-Archive-Tar-Compress-Zlib</summary>
+<summary>Имя пакета: perl-Archive-Extract-tgz-Archive-Tar-Compress-Zlib</summary>
 
 ```
 Эпоха        : 1
@@ -39351,7 +39350,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-txz-Archive-Tar-IO-Uncompress-UnXz</summary>
+<summary>Имя пакета: perl-Archive-Extract-txz-Archive-Tar-IO-Uncompress-UnXz</summary>
 
 ```
 Эпоха        : 1
@@ -39366,7 +39365,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-xz-IO-Uncompress-UnXz</summary>
+<summary>Имя пакета: perl-Archive-Extract-xz-IO-Uncompress-UnXz</summary>
 
 ```
 Эпоха        : 1
@@ -39380,7 +39379,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Extract-zip-Archive-Zip</summary>
+<summary>Имя пакета: perl-Archive-Extract-zip-Archive-Zip</summary>
 
 ```
 Эпоха        : 1
@@ -39394,7 +39393,7 @@ URL          : https://metacpan.org/release/Archive-Extract
 </details>
 
 <details>
-<summary>perl-Archive-Tar</summary>
+<summary>Имя пакета: perl-Archive-Tar</summary>
 
 ```
 Из репозитор : fedora
@@ -39411,7 +39410,7 @@ URL          : https://metacpan.org/release/Archive-Tar
 </details>
 
 <details>
-<summary>perl-Archive-Zip</summary>
+<summary>Имя пакета: perl-Archive-Zip</summary>
 
 ```
 Из репозитор : fedora
@@ -39432,7 +39431,7 @@ URL          : https://metacpan.org/release/Archive-Zip
 </details>
 
 <details>
-<summary>perl-Attribute-Handlers</summary>
+<summary>Имя пакета: perl-Attribute-Handlers</summary>
 
 ```
 Из репозитор : updates-testing
@@ -39450,7 +39449,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Authen-DigestMD5</summary>
+<summary>Имя пакета: perl-Authen-DigestMD5</summary>
 
 ```
 Из репозитор : fedora
@@ -39463,7 +39462,7 @@ URL          : https://metacpan.org/release/Authen-DigestMD5
 </details>
 
 <details>
-<summary>perl-Authen-SASL</summary>
+<summary>Имя пакета: perl-Authen-SASL</summary>
 
 ```
 Из репозитор : fedora
@@ -39478,7 +39477,7 @@ URL          : https://metacpan.org/release/Authen-SASL
 </details>
 
 <details>
-<summary>perl-AutoLoader</summary>
+<summary>Имя пакета: perl-AutoLoader</summary>
 
 ```
 Из репозитор : updates-testing
@@ -39493,7 +39492,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-AutoSplit</summary>
+<summary>Имя пакета: perl-AutoSplit</summary>
 
 ```
 Из репозитор : updates-testing
@@ -39508,7 +39507,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-B</summary>
+<summary>Имя пакета: perl-B</summary>
 
 ```
 Из репозитор : updates-testing
@@ -39523,7 +39522,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-B-Hooks-EndOfScope</summary>
+<summary>Имя пакета: perl-B-Hooks-EndOfScope</summary>
 
 ```
 Из репозитор : fedora
@@ -39537,7 +39536,7 @@ URL          : https://metacpan.org/release/B-Hooks-EndOfScope
 </details>
 
 <details>
-<summary>perl-B-Lint</summary>
+<summary>Имя пакета: perl-B-Lint</summary>
 
 ```
 Из репозитор : fedora
@@ -39552,7 +39551,7 @@ URL          : https://metacpan.org/release/B-Lint
 </details>
 
 <details>
-<summary>perl-BSD-Resource</summary>
+<summary>Имя пакета: perl-BSD-Resource</summary>
 
 ```
 Из репозитор : fedora
@@ -39566,7 +39565,7 @@ URL          : https://metacpan.org/release/BSD-Resource
 </details>
 
 <details>
-<summary>perl-BackPAN-Index</summary>
+<summary>Имя пакета: perl-BackPAN-Index</summary>
 
 ```
 Из репозитор : fedora
@@ -39580,7 +39579,7 @@ URL          : https://metacpan.org/release/BackPAN-Index
 </details>
 
 <details>
-<summary>perl-Benchmark</summary>
+<summary>Имя пакета: perl-Benchmark</summary>
 
 ```
 Из репозитор : updates-testing
@@ -39594,7 +39593,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Bit-Vector</summary>
+<summary>Имя пакета: perl-Bit-Vector</summary>
 
 ```
 Из репозитор : fedora
@@ -39613,7 +39612,7 @@ URL          : https://metacpan.org/release/Bit-Vector
 </details>
 
 <details>
-<summary>perl-Business-ISBN</summary>
+<summary>Имя пакета: perl-Business-ISBN</summary>
 
 ```
 Из репозитор : fedora
@@ -39630,7 +39629,7 @@ URL          : https://metacpan.org/release/Business-ISBN
 </details>
 
 <details>
-<summary>perl-Business-ISBN-Data</summary>
+<summary>Имя пакета: perl-Business-ISBN-Data</summary>
 
 ```
 Из репозитор : fedora
@@ -39645,7 +39644,7 @@ URL          : https://metacpan.org/release/Business-ISBN-Data
 </details>
 
 <details>
-<summary>perl-Business-ISMN</summary>
+<summary>Имя пакета: perl-Business-ISMN</summary>
 
 ```
 Из репозитор : updates-testing
@@ -39658,7 +39657,7 @@ URL          : https://metacpan.org/release/Business-ISMN
 </details>
 
 <details>
-<summary>perl-Business-ISSN</summary>
+<summary>Имя пакета: perl-Business-ISSN</summary>
 
 ```
 Из репозитор : fedora
@@ -39671,7 +39670,7 @@ URL          : https://metacpan.org/release/Business-ISSN
 </details>
 
 <details>
-<summary>perl-CGI</summary>
+<summary>Имя пакета: perl-CGI</summary>
 
 ```
 Из репозитор : updates-testing
@@ -39691,7 +39690,7 @@ URL          : https://metacpan.org/release/CGI
 </details>
 
 <details>
-<summary>perl-CGI-Fast</summary>
+<summary>Имя пакета: perl-CGI-Fast</summary>
 
 ```
 Из репозитор : fedora
@@ -39709,7 +39708,7 @@ URL          : https://metacpan.org/release/CGI-Fast
 </details>
 
 <details>
-<summary>perl-CLASS</summary>
+<summary>Имя пакета: perl-CLASS</summary>
 
 ```
 Из репозитор : fedora
@@ -39724,7 +39723,7 @@ URL          : https://metacpan.org/release/CLASS
 </details>
 
 <details>
-<summary>perl-CPAN</summary>
+<summary>Имя пакета: perl-CPAN</summary>
 
 ```
 Из репозитор : fedora
@@ -39740,7 +39739,7 @@ URL          : https://metacpan.org/release/CPAN
 </details>
 
 <details>
-<summary>perl-CPAN-DistnameInfo</summary>
+<summary>Имя пакета: perl-CPAN-DistnameInfo</summary>
 
 ```
 Из репозитор : fedora
@@ -39763,7 +39762,7 @@ URL          : https://metacpan.org/release/CPAN-DistnameInfo
 </details>
 
 <details>
-<summary>perl-CPAN-Meta</summary>
+<summary>Имя пакета: perl-CPAN-Meta</summary>
 
 ```
 Из репозитор : fedora
@@ -39779,7 +39778,7 @@ URL          : https://metacpan.org/release/CPAN-Meta
 </details>
 
 <details>
-<summary>perl-CPAN-Meta-Requirements</summary>
+<summary>Имя пакета: perl-CPAN-Meta-Requirements</summary>
 
 ```
 Из репозитор : fedora
@@ -39798,7 +39797,7 @@ URL          : https://metacpan.org/release/CPAN-Meta-Requirements
 </details>
 
 <details>
-<summary>perl-CPAN-Meta-YAML</summary>
+<summary>Имя пакета: perl-CPAN-Meta-YAML</summary>
 
 ```
 Из репозитор : fedora
@@ -39813,7 +39812,7 @@ URL          : https://metacpan.org/release/CPAN-Meta-YAML
 </details>
 
 <details>
-<summary>perl-CPAN-ParseDistribution</summary>
+<summary>Имя пакета: perl-CPAN-ParseDistribution</summary>
 
 ```
 Из репозитор : fedora
@@ -39827,7 +39826,7 @@ URL          : https://metacpan.org/release/CPAN-ParseDistribution
 </details>
 
 <details>
-<summary>perl-CPANPLUS</summary>
+<summary>Имя пакета: perl-CPANPLUS</summary>
 
 ```
 Из репозитор : fedora
@@ -39841,7 +39840,7 @@ URL          : https://metacpan.org/release/CPANPLUS
 </details>
 
 <details>
-<summary>perl-Cairo</summary>
+<summary>Имя пакета: perl-Cairo</summary>
 
 ```
 Из репозитор : fedora
@@ -39857,7 +39856,7 @@ URL          : https://metacpan.org/release/Cairo
 </details>
 
 <details>
-<summary>perl-Carp</summary>
+<summary>Имя пакета: perl-Carp</summary>
 
 ```
 Из репозитор : anaconda
@@ -39876,7 +39875,7 @@ URL          : https://metacpan.org/release/Carp
 </details>
 
 <details>
-<summary>perl-Carp-Clan</summary>
+<summary>Имя пакета: perl-Carp-Clan</summary>
 
 ```
 Из репозитор : fedora
@@ -39893,7 +39892,7 @@ URL          : https://metacpan.org/release/Carp-Clan
 </details>
 
 <details>
-<summary>perl-Class-Accessor</summary>
+<summary>Имя пакета: perl-Class-Accessor</summary>
 
 ```
 Из репозитор : fedora
@@ -39906,7 +39905,7 @@ URL          : https://metacpan.org/release/Class-Accessor
 </details>
 
 <details>
-<summary>perl-Class-Accessor-Chained</summary>
+<summary>Имя пакета: perl-Class-Accessor-Chained</summary>
 
 ```
 Из репозитор : fedora
@@ -39922,7 +39921,7 @@ URL          : https://metacpan.org/release/Class-Accessor-Chained
 </details>
 
 <details>
-<summary>perl-Class-Accessor-Grouped</summary>
+<summary>Имя пакета: perl-Class-Accessor-Grouped</summary>
 
 ```
 Из репозитор : fedora
@@ -39936,7 +39935,7 @@ URL          : https://metacpan.org/release/Class-Accessor-Grouped
 </details>
 
 <details>
-<summary>perl-Class-C3</summary>
+<summary>Имя пакета: perl-Class-C3</summary>
 
 ```
 Из репозитор : fedora
@@ -39951,7 +39950,7 @@ URL          : https://metacpan.org/release/Class-C3
 </details>
 
 <details>
-<summary>perl-Class-C3-Componentised</summary>
+<summary>Имя пакета: perl-Class-C3-Componentised</summary>
 
 ```
 Из репозитор : fedora
@@ -39969,7 +39968,7 @@ URL          : https://metacpan.org/release/Class-C3-Componentised
 </details>
 
 <details>
-<summary>perl-Class-Data-Inheritable</summary>
+<summary>Имя пакета: perl-Class-Data-Inheritable</summary>
 
 ```
 Из репозитор : fedora
@@ -39985,7 +39984,7 @@ URL          : https://metacpan.org/release/Class-Data-Inheritable
 </details>
 
 <details>
-<summary>perl-Class-ISA</summary>
+<summary>Имя пакета: perl-Class-ISA</summary>
 
 ```
 Из репозитор : fedora
@@ -39999,7 +39998,7 @@ URL          : https://metacpan.org/release/Class-ISA
 </details>
 
 <details>
-<summary>perl-Class-Inspector</summary>
+<summary>Имя пакета: perl-Class-Inspector</summary>
 
 ```
 Из репозитор : fedora
@@ -40016,7 +40015,7 @@ URL          : https://metacpan.org/release/Class-Inspector
 </details>
 
 <details>
-<summary>perl-Class-Load</summary>
+<summary>Имя пакета: perl-Class-Load</summary>
 
 ```
 Из репозитор : fedora
@@ -40039,7 +40038,7 @@ URL          : https://metacpan.org/release/Class-Load
 </details>
 
 <details>
-<summary>perl-Class-Load-XS</summary>
+<summary>Имя пакета: perl-Class-Load-XS</summary>
 
 ```
 Из репозитор : fedora
@@ -40053,7 +40052,7 @@ URL          : https://metacpan.org/release/Class-Load-XS
 </details>
 
 <details>
-<summary>perl-Class-Method-Modifiers</summary>
+<summary>Имя пакета: perl-Class-Method-Modifiers</summary>
 
 ```
 Из репозитор : fedora
@@ -40079,7 +40078,7 @@ URL          : https://metacpan.org/release/Class-Method-Modifiers
 </details>
 
 <details>
-<summary>perl-Class-Singleton</summary>
+<summary>Имя пакета: perl-Class-Singleton</summary>
 
 ```
 Из репозитор : fedora
@@ -40099,7 +40098,7 @@ URL          : https://metacpan.org/release/Class-Singleton
 </details>
 
 <details>
-<summary>perl-Class-Struct</summary>
+<summary>Имя пакета: perl-Class-Struct</summary>
 
 ```
 Из репозитор : anaconda
@@ -40114,7 +40113,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Class-Struct</summary>
+<summary>Имя пакета: perl-Class-Struct</summary>
 
 ```
 Из репозитор : updates-testing
@@ -40129,7 +40128,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Class-Tiny</summary>
+<summary>Имя пакета: perl-Class-Tiny</summary>
 
 ```
 Из репозитор : fedora
@@ -40154,7 +40153,7 @@ URL          : https://metacpan.org/release/Class-Tiny
 </details>
 
 <details>
-<summary>perl-Class-Trigger</summary>
+<summary>Имя пакета: perl-Class-Trigger</summary>
 
 ```
 Из репозитор : fedora
@@ -40167,7 +40166,7 @@ URL          : https://metacpan.org/release/Class-Trigger
 </details>
 
 <details>
-<summary>perl-Class-XSAccessor</summary>
+<summary>Имя пакета: perl-Class-XSAccessor</summary>
 
 ```
 Из репозитор : fedora
@@ -40185,7 +40184,7 @@ URL          : https://metacpan.org/release/Class-XSAccessor
 </details>
 
 <details>
-<summary>perl-Clone</summary>
+<summary>Имя пакета: perl-Clone</summary>
 
 ```
 Из репозитор : fedora
@@ -40204,7 +40203,7 @@ URL          : https://metacpan.org/release/Clone
 </details>
 
 <details>
-<summary>perl-Clone-Choose</summary>
+<summary>Имя пакета: perl-Clone-Choose</summary>
 
 ```
 Из репозитор : fedora
@@ -40217,7 +40216,7 @@ URL          : https://metacpan.org/release/Clone-Choose
 </details>
 
 <details>
-<summary>perl-Compress-Bzip2</summary>
+<summary>Имя пакета: perl-Compress-Bzip2</summary>
 
 ```
 Из репозитор : fedora
@@ -40233,7 +40232,7 @@ URL          : https://metacpan.org/release/Compress-Bzip2
 </details>
 
 <details>
-<summary>perl-Compress-Raw-Bzip2</summary>
+<summary>Имя пакета: perl-Compress-Raw-Bzip2</summary>
 
 ```
 Из репозитор : fedora
@@ -40247,7 +40246,7 @@ URL          : https://metacpan.org/release/Compress-Raw-Bzip2
 </details>
 
 <details>
-<summary>perl-Compress-Raw-Lzma</summary>
+<summary>Имя пакета: perl-Compress-Raw-Lzma</summary>
 
 ```
 Из репозитор : fedora
@@ -40261,7 +40260,7 @@ URL          : https://metacpan.org/release/Compress-Raw-Lzma
 </details>
 
 <details>
-<summary>perl-Compress-Raw-Zlib</summary>
+<summary>Имя пакета: perl-Compress-Raw-Zlib</summary>
 
 ```
 Из репозитор : fedora
@@ -40275,7 +40274,7 @@ URL          : https://metacpan.org/release/Compress-Raw-Zlib
 </details>
 
 <details>
-<summary>perl-Config-Any</summary>
+<summary>Имя пакета: perl-Config-Any</summary>
 
 ```
 Из репозитор : fedora
@@ -40291,7 +40290,7 @@ URL          : https://metacpan.org/release/Config-Any
 </details>
 
 <details>
-<summary>perl-Config-Extensions</summary>
+<summary>Имя пакета: perl-Config-Extensions</summary>
 
 ```
 Из репозитор : updates-testing
@@ -40305,7 +40304,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Config-General</summary>
+<summary>Имя пакета: perl-Config-General</summary>
 
 ```
 Из репозитор : fedora
@@ -40331,7 +40330,7 @@ URL          : https://metacpan.org/release/Config-General
 </details>
 
 <details>
-<summary>perl-Config-Grammar</summary>
+<summary>Имя пакета: perl-Config-Grammar</summary>
 
 ```
 Из репозитор : fedora
@@ -40351,7 +40350,7 @@ URL          : https://metacpan.org/release/Config-Grammar
 </details>
 
 <details>
-<summary>perl-Config-Perl-V</summary>
+<summary>Имя пакета: perl-Config-Perl-V</summary>
 
 ```
 Из репозитор : fedora
@@ -40367,7 +40366,7 @@ URL          : https://metacpan.org/release/Config-Perl-V
 </details>
 
 <details>
-<summary>perl-Config-Tiny</summary>
+<summary>Имя пакета: perl-Config-Tiny</summary>
 
 ```
 Из репозитор : fedora
@@ -40382,7 +40381,7 @@ URL          : https://metacpan.org/release/Config-Tiny
 </details>
 
 <details>
-<summary>perl-Context-Preserve</summary>
+<summary>Имя пакета: perl-Context-Preserve</summary>
 
 ```
 Из репозитор : fedora
@@ -40407,7 +40406,7 @@ URL          : https://metacpan.org/release/Context-Preserve
 </details>
 
 <details>
-<summary>perl-Convert-ASN1</summary>
+<summary>Имя пакета: perl-Convert-ASN1</summary>
 
 ```
 Из репозитор : fedora
@@ -40420,7 +40419,7 @@ URL          : https://metacpan.org/release/Convert-ASN1
 </details>
 
 <details>
-<summary>perl-Cpanel-JSON-XS</summary>
+<summary>Имя пакета: perl-Cpanel-JSON-XS</summary>
 
 ```
 Из репозитор : fedora
@@ -40435,7 +40434,7 @@ URL          : https://metacpan.org/release/Cpanel-JSON-XS
 </details>
 
 <details>
-<summary>perl-Crypt-Cracklib</summary>
+<summary>Имя пакета: perl-Crypt-Cracklib</summary>
 
 ```
 Из репозитор : fedora
@@ -40448,7 +40447,7 @@ URL          : https://metacpan.org/release/Crypt-Cracklib
 </details>
 
 <details>
-<summary>perl-Crypt-RC4</summary>
+<summary>Имя пакета: perl-Crypt-RC4</summary>
 
 ```
 Из репозитор : fedora
@@ -40470,7 +40469,7 @@ URL          : https://metacpan.org/release/Crypt-RC4
 </details>
 
 <details>
-<summary>perl-DBD-MariaDB</summary>
+<summary>Имя пакета: perl-DBD-MariaDB</summary>
 
 ```
 Из репозитор : updates-testing
@@ -40488,7 +40487,7 @@ URL          : https://metacpan.org/release/DBD-MariaDB/
 </details>
 
 <details>
-<summary>perl-DBD-MySQL</summary>
+<summary>Имя пакета: perl-DBD-MySQL</summary>
 
 ```
 Из репозитор : fedora
@@ -40504,7 +40503,7 @@ URL          : https://metacpan.org/release/DBD-mysql
 </details>
 
 <details>
-<summary>perl-DBD-SQLite</summary>
+<summary>Имя пакета: perl-DBD-SQLite</summary>
 
 ```
 Из репозитор : fedora
@@ -40519,7 +40518,7 @@ URL          : https://metacpan.org/release/DBD-SQLite
 </details>
 
 <details>
-<summary>perl-DBI</summary>
+<summary>Имя пакета: perl-DBI</summary>
 
 ```
 Из репозитор : fedora
@@ -40535,7 +40534,7 @@ URL          : http://dbi.perl.org/
 </details>
 
 <details>
-<summary>perl-DBIx-Class</summary>
+<summary>Имя пакета: perl-DBIx-Class</summary>
 
 ```
 Из репозитор : fedora
@@ -40555,7 +40554,7 @@ URL          : https://metacpan.org/release/DBIx-Class
 </details>
 
 <details>
-<summary>perl-DBIx-ContextualFetch</summary>
+<summary>Имя пакета: perl-DBIx-ContextualFetch</summary>
 
 ```
 Из репозитор : fedora
@@ -40568,7 +40567,7 @@ URL          : https://metacpan.org/release/DBIx-ContextualFetch
 </details>
 
 <details>
-<summary>perl-DBIx-Simple</summary>
+<summary>Имя пакета: perl-DBIx-Simple</summary>
 
 ```
 Из репозитор : fedora
@@ -40582,7 +40581,7 @@ URL          : https://metacpan.org/release/DBIx-Simple
 </details>
 
 <details>
-<summary>perl-DBIx-XHTML_Table</summary>
+<summary>Имя пакета: perl-DBIx-XHTML_Table</summary>
 
 ```
 Из репозитор : fedora
@@ -40602,7 +40601,7 @@ URL          : https://metacpan.org/release/DBIx-XHTML_Table
 </details>
 
 <details>
-<summary>perl-DBM_Filter</summary>
+<summary>Имя пакета: perl-DBM_Filter</summary>
 
 ```
 Из репозитор : updates-testing
@@ -40616,7 +40615,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-DB_File</summary>
+<summary>Имя пакета: perl-DB_File</summary>
 
 ```
 Из репозитор : fedora
@@ -40632,7 +40631,7 @@ URL          : https://metacpan.org/release/DB_File
 </details>
 
 <details>
-<summary>perl-Data-Compare</summary>
+<summary>Имя пакета: perl-Data-Compare</summary>
 
 ```
 Из репозитор : fedora
@@ -40646,7 +40645,7 @@ URL          : https://metacpan.org/release/Data-Compare
 </details>
 
 <details>
-<summary>perl-Data-Dump</summary>
+<summary>Имя пакета: perl-Data-Dump</summary>
 
 ```
 Из репозитор : fedora
@@ -40662,7 +40661,7 @@ URL          : https://metacpan.org/release/Data-Dump
 </details>
 
 <details>
-<summary>perl-Data-Dumper</summary>
+<summary>Имя пакета: perl-Data-Dumper</summary>
 
 ```
 Из репозитор : anaconda
@@ -40678,7 +40677,7 @@ URL          : https://metacpan.org/release/Data-Dumper
 </details>
 
 <details>
-<summary>perl-Data-Dumper-Concise</summary>
+<summary>Имя пакета: perl-Data-Dumper-Concise</summary>
 
 ```
 Из репозитор : fedora
@@ -40695,7 +40694,7 @@ URL          : https://metacpan.org/release/Data-Dumper-Concise
 </details>
 
 <details>
-<summary>perl-Data-OptList</summary>
+<summary>Имя пакета: perl-Data-OptList</summary>
 
 ```
 Из репозитор : fedora
@@ -40727,7 +40726,7 @@ URL          : https://metacpan.org/release/Data-OptList
 </details>
 
 <details>
-<summary>perl-Data-Page</summary>
+<summary>Имя пакета: perl-Data-Page</summary>
 
 ```
 Из репозитор : fedora
@@ -40740,7 +40739,7 @@ URL          : https://metacpan.org/release/Data-Page
 </details>
 
 <details>
-<summary>perl-Data-Section</summary>
+<summary>Имя пакета: perl-Data-Section</summary>
 
 ```
 Из репозитор : fedora
@@ -40755,7 +40754,7 @@ URL          : https://metacpan.org/release/Data-Section
 </details>
 
 <details>
-<summary>perl-Data-Uniqid</summary>
+<summary>Имя пакета: perl-Data-Uniqid</summary>
 
 ```
 Из репозитор : fedora
@@ -40770,7 +40769,7 @@ URL          : https://metacpan.org/release/Data-Uniqid
 </details>
 
 <details>
-<summary>perl-Date-Calc</summary>
+<summary>Имя пакета: perl-Date-Calc</summary>
 
 ```
 Из репозитор : fedora
@@ -40786,7 +40785,7 @@ URL          : https://metacpan.org/release/Date-Calc
 </details>
 
 <details>
-<summary>perl-Date-ISO8601</summary>
+<summary>Имя пакета: perl-Date-ISO8601</summary>
 
 ```
 Из репозитор : fedora
@@ -40809,7 +40808,7 @@ URL          : https://metacpan.org/release/Date-ISO8601
 </details>
 
 <details>
-<summary>perl-Date-Manip</summary>
+<summary>Имя пакета: perl-Date-Manip</summary>
 
 ```
 Из репозитор : updates-testing
@@ -40827,7 +40826,7 @@ URL          : https://metacpan.org/release/Date-Manip
 </details>
 
 <details>
-<summary>perl-DateTime</summary>
+<summary>Имя пакета: perl-DateTime</summary>
 
 ```
 Эпоха        : 2
@@ -40846,7 +40845,7 @@ URL          : https://metacpan.org/release/DateTime
 </details>
 
 <details>
-<summary>perl-DateTime-Calendar-Julian</summary>
+<summary>Имя пакета: perl-DateTime-Calendar-Julian</summary>
 
 ```
 Из репозитор : fedora
@@ -40859,7 +40858,7 @@ URL          : https://metacpan.org/release/DateTime-Calendar-Julian
 </details>
 
 <details>
-<summary>perl-DateTime-Format-Builder</summary>
+<summary>Имя пакета: perl-DateTime-Format-Builder</summary>
 
 ```
 Из репозитор : updates-testing
@@ -40880,7 +40879,7 @@ URL          : https://metacpan.org/release/DateTime-Format-Builder
 </details>
 
 <details>
-<summary>perl-DateTime-Format-Strptime</summary>
+<summary>Имя пакета: perl-DateTime-Format-Strptime</summary>
 
 ```
 Эпоха        : 1
@@ -40897,7 +40896,7 @@ URL          : https://metacpan.org/release/DateTime-Format-Strptime
 </details>
 
 <details>
-<summary>perl-DateTime-Locale</summary>
+<summary>Имя пакета: perl-DateTime-Locale</summary>
 
 ```
 Из репозитор : fedora
@@ -40912,7 +40911,7 @@ URL          : https://metacpan.org/release/DateTime-Locale
 </details>
 
 <details>
-<summary>perl-DateTime-TimeZone</summary>
+<summary>Имя пакета: perl-DateTime-TimeZone</summary>
 
 ```
 Из репозитор : fedora
@@ -40927,7 +40926,7 @@ URL          : https://metacpan.org/release/DateTime-TimeZone
 </details>
 
 <details>
-<summary>perl-DateTime-TimeZone-SystemV</summary>
+<summary>Имя пакета: perl-DateTime-TimeZone-SystemV</summary>
 
 ```
 Из репозитор : fedora
@@ -40947,7 +40946,7 @@ URL          : https://metacpan.org/release/DateTime-TimeZone-SystemV
 </details>
 
 <details>
-<summary>perl-DateTime-TimeZone-Tzfile</summary>
+<summary>Имя пакета: perl-DateTime-TimeZone-Tzfile</summary>
 
 ```
 Из репозитор : fedora
@@ -40966,7 +40965,7 @@ URL          : https://metacpan.org/release/DateTime-TimeZone-Tzfile
 </details>
 
 <details>
-<summary>perl-Devel-ArgNames</summary>
+<summary>Имя пакета: perl-Devel-ArgNames</summary>
 
 ```
 Из репозитор : fedora
@@ -40980,7 +40979,7 @@ URL          : https://metacpan.org/release/Devel-ArgNames
 </details>
 
 <details>
-<summary>perl-Devel-CallChecker</summary>
+<summary>Имя пакета: perl-Devel-CallChecker</summary>
 
 ```
 Из репозитор : fedora
@@ -41001,7 +41000,7 @@ URL          : https://metacpan.org/release/Devel-CallChecker
 </details>
 
 <details>
-<summary>perl-Devel-Caller</summary>
+<summary>Имя пакета: perl-Devel-Caller</summary>
 
 ```
 Из репозитор : fedora
@@ -41014,7 +41013,7 @@ URL          : https://metacpan.org/release/Devel-Caller
 </details>
 
 <details>
-<summary>perl-Devel-CheckOS</summary>
+<summary>Имя пакета: perl-Devel-CheckOS</summary>
 
 ```
 Из репозитор : fedora
@@ -41029,7 +41028,7 @@ URL          : https://metacpan.org/release/Devel-CheckOS
 </details>
 
 <details>
-<summary>perl-Devel-GlobalDestruction</summary>
+<summary>Имя пакета: perl-Devel-GlobalDestruction</summary>
 
 ```
 Из репозитор : fedora
@@ -41050,7 +41049,7 @@ URL          : https://metacpan.org/release/Devel-GlobalDestruction
 </details>
 
 <details>
-<summary>perl-Devel-LexAlias</summary>
+<summary>Имя пакета: perl-Devel-LexAlias</summary>
 
 ```
 Из репозитор : fedora
@@ -41064,7 +41063,7 @@ URL          : https://metacpan.org/release/Devel-LexAlias
 </details>
 
 <details>
-<summary>perl-Devel-OverloadInfo</summary>
+<summary>Имя пакета: perl-Devel-OverloadInfo</summary>
 
 ```
 Из репозитор : fedora
@@ -41079,7 +41078,7 @@ URL          : https://metacpan.org/release/Devel-OverloadInfo
 </details>
 
 <details>
-<summary>perl-Devel-PPPort</summary>
+<summary>Имя пакета: perl-Devel-PPPort</summary>
 
 ```
 Из репозитор : fedora
@@ -41097,7 +41096,7 @@ URL          : https://metacpan.org/release/Devel-PPPort
 </details>
 
 <details>
-<summary>perl-Devel-PartialDump</summary>
+<summary>Имя пакета: perl-Devel-PartialDump</summary>
 
 ```
 Из репозитор : fedora
@@ -41110,7 +41109,7 @@ URL          : https://metacpan.org/release/Devel-PartialDump
 </details>
 
 <details>
-<summary>perl-Devel-Peek</summary>
+<summary>Имя пакета: perl-Devel-Peek</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41126,7 +41125,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Devel-SelfStubber</summary>
+<summary>Имя пакета: perl-Devel-SelfStubber</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41142,7 +41141,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Devel-Size</summary>
+<summary>Имя пакета: perl-Devel-Size</summary>
 
 ```
 Из репозитор : fedora
@@ -41158,7 +41157,7 @@ URL          : https://metacpan.org/release/Devel-Size
 </details>
 
 <details>
-<summary>perl-Devel-StackTrace</summary>
+<summary>Имя пакета: perl-Devel-StackTrace</summary>
 
 ```
 Эпоха        : 1
@@ -41179,7 +41178,7 @@ URL          : https://metacpan.org/release/Devel-StackTrace
 </details>
 
 <details>
-<summary>perl-Digest</summary>
+<summary>Имя пакета: perl-Digest</summary>
 
 ```
 Из репозитор : anaconda
@@ -41195,7 +41194,7 @@ URL          : https://metacpan.org/release/Digest
 </details>
 
 <details>
-<summary>perl-Digest-CRC</summary>
+<summary>Имя пакета: perl-Digest-CRC</summary>
 
 ```
 Из репозитор : fedora
@@ -41209,7 +41208,7 @@ URL          : https://metacpan.org/release/Digest-CRC
 </details>
 
 <details>
-<summary>perl-Digest-HMAC</summary>
+<summary>Имя пакета: perl-Digest-HMAC</summary>
 
 ```
 Из репозитор : fedora
@@ -41228,7 +41227,7 @@ URL          : https://metacpan.org/release/Digest-HMAC
 </details>
 
 <details>
-<summary>perl-Digest-MD2</summary>
+<summary>Имя пакета: perl-Digest-MD2</summary>
 
 ```
 Из репозитор : fedora
@@ -41247,7 +41246,7 @@ URL          : https://metacpan.org/release/Digest-MD2
 </details>
 
 <details>
-<summary>perl-Digest-MD4</summary>
+<summary>Имя пакета: perl-Digest-MD4</summary>
 
 ```
 Из репозитор : fedora
@@ -41263,7 +41262,7 @@ URL          : https://metacpan.org/release/Digest-MD4
 </details>
 
 <details>
-<summary>perl-Digest-MD5</summary>
+<summary>Имя пакета: perl-Digest-MD5</summary>
 
 ```
 Из репозитор : anaconda
@@ -41279,7 +41278,7 @@ URL          : https://metacpan.org/release/Digest-MD5
 </details>
 
 <details>
-<summary>perl-Digest-Perl-MD5</summary>
+<summary>Имя пакета: perl-Digest-Perl-MD5</summary>
 
 ```
 Из репозитор : fedora
@@ -41292,7 +41291,7 @@ URL          : https://metacpan.org/release/Digest-Perl-MD5
 </details>
 
 <details>
-<summary>perl-Digest-SHA</summary>
+<summary>Имя пакета: perl-Digest-SHA</summary>
 
 ```
 Эпоха        : 1
@@ -41309,7 +41308,7 @@ URL          : https://metacpan.org/release/Digest-SHA
 </details>
 
 <details>
-<summary>perl-Digest-SHA3</summary>
+<summary>Имя пакета: perl-Digest-SHA3</summary>
 
 ```
 Из репозитор : fedora
@@ -41324,7 +41323,7 @@ URL          : https://metacpan.org/release/Digest-SHA3
 </details>
 
 <details>
-<summary>perl-DirHandle</summary>
+<summary>Имя пакета: perl-DirHandle</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41340,7 +41339,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Dist-CheckConflicts</summary>
+<summary>Имя пакета: perl-Dist-CheckConflicts</summary>
 
 ```
 Из репозитор : fedora
@@ -41368,7 +41367,7 @@ URL          : https://metacpan.org/release/Dist-CheckConflicts
 </details>
 
 <details>
-<summary>perl-Dumpvalue</summary>
+<summary>Имя пакета: perl-Dumpvalue</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41382,7 +41381,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-DynaLoader</summary>
+<summary>Имя пакета: perl-DynaLoader</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41398,7 +41397,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-DynaLoader-Functions</summary>
+<summary>Имя пакета: perl-DynaLoader-Functions</summary>
 
 ```
 Из репозитор : fedora
@@ -41414,7 +41413,7 @@ URL          : https://metacpan.org/release/DynaLoader-Functions
 </details>
 
 <details>
-<summary>perl-Email-Date-Format</summary>
+<summary>Имя пакета: perl-Email-Date-Format</summary>
 
 ```
 Из репозитор : fedora
@@ -41427,7 +41426,7 @@ URL          : https://metacpan.org/release/Email-Date-Format
 </details>
 
 <details>
-<summary>perl-Encode</summary>
+<summary>Имя пакета: perl-Encode</summary>
 
 ```
 Эпоха        : 4
@@ -41442,7 +41441,7 @@ URL          : https://metacpan.org/release/Encode
 </details>
 
 <details>
-<summary>perl-Encode-EUCJPASCII</summary>
+<summary>Имя пакета: perl-Encode-EUCJPASCII</summary>
 
 ```
 Из репозитор : fedora
@@ -41456,7 +41455,7 @@ URL          : https://metacpan.org/release/Encode-EUCJPASCII
 </details>
 
 <details>
-<summary>perl-Encode-HanExtra</summary>
+<summary>Имя пакета: perl-Encode-HanExtra</summary>
 
 ```
 Из репозитор : fedora
@@ -41477,7 +41476,7 @@ URL          : https://metacpan.org/release/Encode-HanExtra
 </details>
 
 <details>
-<summary>perl-Encode-JIS2K</summary>
+<summary>Имя пакета: perl-Encode-JIS2K</summary>
 
 ```
 Из репозитор : fedora
@@ -41491,7 +41490,7 @@ URL          : https://metacpan.org/release/Encode-JIS2K
 </details>
 
 <details>
-<summary>perl-Encode-Locale</summary>
+<summary>Имя пакета: perl-Encode-Locale</summary>
 
 ```
 Из репозитор : fedora
@@ -41508,7 +41507,7 @@ URL          : https://metacpan.org/release/Encode-Locale
 </details>
 
 <details>
-<summary>perl-Encode-devel</summary>
+<summary>Имя пакета: perl-Encode-devel</summary>
 
 ```
 Эпоха        : 4
@@ -41524,7 +41523,7 @@ URL          : https://metacpan.org/release/Encode
 </details>
 
 <details>
-<summary>perl-English</summary>
+<summary>Имя пакета: perl-English</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41538,7 +41537,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Env</summary>
+<summary>Имя пакета: perl-Env</summary>
 
 ```
 Из репозитор : fedora
@@ -41553,7 +41552,7 @@ URL          : https://metacpan.org/release/Env
 </details>
 
 <details>
-<summary>perl-Errno</summary>
+<summary>Имя пакета: perl-Errno</summary>
 
 ```
 Из репозитор : anaconda
@@ -41568,7 +41567,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Errno</summary>
+<summary>Имя пакета: perl-Errno</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41583,7 +41582,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Error</summary>
+<summary>Имя пакета: perl-Error</summary>
 
 ```
 Эпоха        : 1
@@ -41600,7 +41599,7 @@ URL          : https://metacpan.org/release/Error
 </details>
 
 <details>
-<summary>perl-Eval-Closure</summary>
+<summary>Имя пакета: perl-Eval-Closure</summary>
 
 ```
 Из репозитор : fedora
@@ -41626,7 +41625,7 @@ URL          : https://metacpan.org/release/Eval-Closure
 </details>
 
 <details>
-<summary>perl-Exception-Class</summary>
+<summary>Имя пакета: perl-Exception-Class</summary>
 
 ```
 Из репозитор : fedora
@@ -41640,7 +41639,7 @@ URL          : https://metacpan.org/release/Exception-Class
 </details>
 
 <details>
-<summary>perl-Exporter</summary>
+<summary>Имя пакета: perl-Exporter</summary>
 
 ```
 Из репозитор : anaconda
@@ -41657,7 +41656,7 @@ URL          : https://metacpan.org/release/Exporter
 </details>
 
 <details>
-<summary>perl-Exporter-Tiny</summary>
+<summary>Имя пакета: perl-Exporter-Tiny</summary>
 
 ```
 Из репозитор : fedora
@@ -41682,7 +41681,7 @@ URL          : https://metacpan.org/release/Exporter-Tiny
 </details>
 
 <details>
-<summary>perl-ExtUtils-CBuilder</summary>
+<summary>Имя пакета: perl-ExtUtils-CBuilder</summary>
 
 ```
 Эпоха        : 1
@@ -41698,7 +41697,7 @@ URL          : https://metacpan.org/release/ExtUtils-CBuilder
 </details>
 
 <details>
-<summary>perl-ExtUtils-Command</summary>
+<summary>Имя пакета: perl-ExtUtils-Command</summary>
 
 ```
 Эпоха        : 2
@@ -41714,7 +41713,7 @@ URL          : https://metacpan.org/release/ExtUtils-MakeMaker
 </details>
 
 <details>
-<summary>perl-ExtUtils-Constant</summary>
+<summary>Имя пакета: perl-ExtUtils-Constant</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41728,7 +41727,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-ExtUtils-Embed</summary>
+<summary>Имя пакета: perl-ExtUtils-Embed</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41741,7 +41740,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-ExtUtils-Install</summary>
+<summary>Имя пакета: perl-ExtUtils-Install</summary>
 
 ```
 Из репозитор : fedora
@@ -41755,7 +41754,7 @@ URL          : https://metacpan.org/release/ExtUtils-Install
 </details>
 
 <details>
-<summary>perl-ExtUtils-MM-Utils</summary>
+<summary>Имя пакета: perl-ExtUtils-MM-Utils</summary>
 
 ```
 Эпоха        : 2
@@ -41772,7 +41771,7 @@ URL          : https://metacpan.org/release/ExtUtils-MakeMaker
 </details>
 
 <details>
-<summary>perl-ExtUtils-MakeMaker</summary>
+<summary>Имя пакета: perl-ExtUtils-MakeMaker</summary>
 
 ```
 Эпоха        : 2
@@ -41788,7 +41787,7 @@ URL          : https://metacpan.org/release/ExtUtils-MakeMaker
 </details>
 
 <details>
-<summary>perl-ExtUtils-Manifest</summary>
+<summary>Имя пакета: perl-ExtUtils-Manifest</summary>
 
 ```
 Эпоха        : 1
@@ -41802,7 +41801,7 @@ URL          : https://metacpan.org/release/ExtUtils-Manifest
 </details>
 
 <details>
-<summary>perl-ExtUtils-Miniperl</summary>
+<summary>Имя пакета: perl-ExtUtils-Miniperl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41821,7 +41820,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-ExtUtils-ParseXS</summary>
+<summary>Имя пакета: perl-ExtUtils-ParseXS</summary>
 
 ```
 Эпоха        : 1
@@ -41837,7 +41836,7 @@ URL          : https://metacpan.org/release/ExtUtils-ParseXS
 </details>
 
 <details>
-<summary>perl-FCGI</summary>
+<summary>Имя пакета: perl-FCGI</summary>
 
 ```
 Эпоха        : 1
@@ -41851,7 +41850,7 @@ URL          : https://metacpan.org/release/FCGI
 </details>
 
 <details>
-<summary>perl-Fcntl</summary>
+<summary>Имя пакета: perl-Fcntl</summary>
 
 ```
 Из репозитор : anaconda
@@ -41864,7 +41863,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Fcntl</summary>
+<summary>Имя пакета: perl-Fcntl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41877,7 +41876,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-File-Basename</summary>
+<summary>Имя пакета: perl-File-Basename</summary>
 
 ```
 Из репозитор : anaconda
@@ -41891,7 +41890,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-File-Basename</summary>
+<summary>Имя пакета: perl-File-Basename</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41905,7 +41904,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-File-CheckTree</summary>
+<summary>Имя пакета: perl-File-CheckTree</summary>
 
 ```
 Из репозитор : fedora
@@ -41926,7 +41925,7 @@ URL          : https://metacpan.org/release/File-CheckTree
 </details>
 
 <details>
-<summary>perl-File-Compare</summary>
+<summary>Имя пакета: perl-File-Compare</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41940,7 +41939,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-File-Copy</summary>
+<summary>Имя пакета: perl-File-Copy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41954,7 +41953,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-File-Copy-Recursive</summary>
+<summary>Имя пакета: perl-File-Copy-Recursive</summary>
 
 ```
 Из репозитор : fedora
@@ -41968,7 +41967,7 @@ URL          : https://metacpan.org/release/File-Copy-Recursive
 </details>
 
 <details>
-<summary>perl-File-DosGlob</summary>
+<summary>Имя пакета: perl-File-DosGlob</summary>
 
 ```
 Из репозитор : updates-testing
@@ -41983,7 +41982,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-File-Fetch</summary>
+<summary>Имя пакета: perl-File-Fetch</summary>
 
 ```
 Из репозитор : fedora
@@ -41997,7 +41996,7 @@ URL          : https://metacpan.org/release/File-Fetch
 </details>
 
 <details>
-<summary>perl-File-Find</summary>
+<summary>Имя пакета: perl-File-Find</summary>
 
 ```
 Из репозитор : anaconda
@@ -42011,7 +42010,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-File-Find</summary>
+<summary>Имя пакета: perl-File-Find</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42025,7 +42024,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-File-Find-Rule</summary>
+<summary>Имя пакета: perl-File-Find-Rule</summary>
 
 ```
 Из репозитор : fedora
@@ -42039,7 +42038,7 @@ URL          : https://metacpan.org/release/File-Find-Rule
 </details>
 
 <details>
-<summary>perl-File-HomeDir</summary>
+<summary>Имя пакета: perl-File-HomeDir</summary>
 
 ```
 Из репозитор : fedora
@@ -42055,7 +42054,7 @@ URL          : https://metacpan.org/release/File-HomeDir
 </details>
 
 <details>
-<summary>perl-File-Listing</summary>
+<summary>Имя пакета: perl-File-Listing</summary>
 
 ```
 Из репозитор : fedora
@@ -42069,7 +42068,7 @@ URL          : https://metacpan.org/release/File-Listing
 </details>
 
 <details>
-<summary>perl-File-MMagic</summary>
+<summary>Имя пакета: perl-File-MMagic</summary>
 
 ```
 Из репозитор : fedora
@@ -42083,7 +42082,7 @@ URL          : https://metacpan.org/release/File-MMagic
 </details>
 
 <details>
-<summary>perl-File-Path</summary>
+<summary>Имя пакета: perl-File-Path</summary>
 
 ```
 Из репозитор : anaconda
@@ -42097,7 +42096,7 @@ URL          : https://metacpan.org/release/File-Path
 </details>
 
 <details>
-<summary>perl-File-ShareDir</summary>
+<summary>Имя пакета: perl-File-ShareDir</summary>
 
 ```
 Из репозитор : fedora
@@ -42113,7 +42112,7 @@ URL          : https://metacpan.org/release/File-ShareDir
 </details>
 
 <details>
-<summary>perl-File-Slurper</summary>
+<summary>Имя пакета: perl-File-Slurper</summary>
 
 ```
 Из репозитор : fedora
@@ -42127,7 +42126,7 @@ URL          : https://metacpan.org/release/File-Slurper
 </details>
 
 <details>
-<summary>perl-File-Temp</summary>
+<summary>Имя пакета: perl-File-Temp</summary>
 
 ```
 Эпоха        : 1
@@ -42145,7 +42144,7 @@ URL          : https://metacpan.org/release/File-Temp
 </details>
 
 <details>
-<summary>perl-File-Which</summary>
+<summary>Имя пакета: perl-File-Which</summary>
 
 ```
 Из репозитор : fedora
@@ -42160,7 +42159,7 @@ URL          : https://metacpan.org/release/File-Which
 </details>
 
 <details>
-<summary>perl-File-chdir</summary>
+<summary>Имя пакета: perl-File-chdir</summary>
 
 ```
 Из репозитор : fedora
@@ -42181,7 +42180,7 @@ URL          : https://metacpan.org/release/File-chdir
 </details>
 
 <details>
-<summary>perl-File-chmod</summary>
+<summary>Имя пакета: perl-File-chmod</summary>
 
 ```
 Из репозитор : fedora
@@ -42194,7 +42193,7 @@ URL          : https://metacpan.org/release/File-chmod
 </details>
 
 <details>
-<summary>perl-File-stat</summary>
+<summary>Имя пакета: perl-File-stat</summary>
 
 ```
 Из репозитор : anaconda
@@ -42209,7 +42208,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-File-stat</summary>
+<summary>Имя пакета: perl-File-stat</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42224,7 +42223,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-FileCache</summary>
+<summary>Имя пакета: perl-FileCache</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42240,7 +42239,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-FileHandle</summary>
+<summary>Имя пакета: perl-FileHandle</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42254,7 +42253,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Filter</summary>
+<summary>Имя пакета: perl-Filter</summary>
 
 ```
 Эпоха        : 2
@@ -42270,7 +42269,7 @@ URL          : https://metacpan.org/release/Filter
 </details>
 
 <details>
-<summary>perl-Filter-Simple</summary>
+<summary>Имя пакета: perl-Filter-Simple</summary>
 
 ```
 Из репозитор : fedora
@@ -42284,7 +42283,7 @@ URL          : https://metacpan.org/release/Filter-Simple
 </details>
 
 <details>
-<summary>perl-FindBin</summary>
+<summary>Имя пакета: perl-FindBin</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42298,7 +42297,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-GD</summary>
+<summary>Имя пакета: perl-GD</summary>
 
 ```
 Из репозитор : fedora
@@ -42313,7 +42312,7 @@ URL          : https://metacpan.org/release/GD
 </details>
 
 <details>
-<summary>perl-GD-Barcode</summary>
+<summary>Имя пакета: perl-GD-Barcode</summary>
 
 ```
 Из репозитор : fedora
@@ -42327,7 +42326,7 @@ URL          : https://metacpan.org/release/GD-Barcode
 </details>
 
 <details>
-<summary>perl-GDBM_File</summary>
+<summary>Имя пакета: perl-GDBM_File</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42341,7 +42340,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-GSSAPI</summary>
+<summary>Имя пакета: perl-GSSAPI</summary>
 
 ```
 Из репозитор : fedora
@@ -42356,7 +42355,7 @@ URL          : https://metacpan.org/release/GSSAPI
 </details>
 
 <details>
-<summary>perl-Getopt-Long</summary>
+<summary>Имя пакета: perl-Getopt-Long</summary>
 
 ```
 Эпоха        : 1
@@ -42377,7 +42376,7 @@ URL          : https://metacpan.org/release/Getopt-Long
 </details>
 
 <details>
-<summary>perl-Getopt-Long-Descriptive</summary>
+<summary>Имя пакета: perl-Getopt-Long-Descriptive</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42390,7 +42389,7 @@ URL          : https://metacpan.org/release/Getopt-Long-Descriptive
 </details>
 
 <details>
-<summary>perl-Getopt-Std</summary>
+<summary>Имя пакета: perl-Getopt-Std</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42405,7 +42404,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Git</summary>
+<summary>Имя пакета: perl-Git</summary>
 
 ```
 Из репозитор : anaconda
@@ -42418,7 +42417,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>perl-Git</summary>
+<summary>Имя пакета: perl-Git</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42431,7 +42430,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>perl-Git-CPAN-Patch</summary>
+<summary>Имя пакета: perl-Git-CPAN-Patch</summary>
 
 ```
 Из репозитор : fedora
@@ -42450,7 +42449,7 @@ URL          : https://metacpan.org/release/Git-CPAN-Patch
 </details>
 
 <details>
-<summary>perl-Git-Repository</summary>
+<summary>Имя пакета: perl-Git-Repository</summary>
 
 ```
 Из репозитор : fedora
@@ -42466,7 +42465,7 @@ URL          : https://metacpan.org/release/Git-Repository
 </details>
 
 <details>
-<summary>perl-Git-SVN</summary>
+<summary>Имя пакета: perl-Git-SVN</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42479,7 +42478,7 @@ URL          : https://git-scm.com/
 </details>
 
 <details>
-<summary>perl-Git-Version-Compare</summary>
+<summary>Имя пакета: perl-Git-Version-Compare</summary>
 
 ```
 Из репозитор : fedora
@@ -42493,7 +42492,7 @@ URL          : https://metacpan.org/release/Git-Version-Compare
 </details>
 
 <details>
-<summary>perl-Glib</summary>
+<summary>Имя пакета: perl-Glib</summary>
 
 ```
 Из репозитор : fedora
@@ -42511,7 +42510,7 @@ URL          : https://metacpan.org/release/Glib
 </details>
 
 <details>
-<summary>perl-Gnome2</summary>
+<summary>Имя пакета: perl-Gnome2</summary>
 
 ```
 Из репозитор : fedora
@@ -42527,7 +42526,7 @@ URL          : https://metacpan.org/release/Gnome2
 </details>
 
 <details>
-<summary>perl-Gnome2-Canvas</summary>
+<summary>Имя пакета: perl-Gnome2-Canvas</summary>
 
 ```
 Из репозитор : fedora
@@ -42548,7 +42547,7 @@ URL          : https://metacpan.org/release/Gnome2-Canvas
 </details>
 
 <details>
-<summary>perl-Gnome2-VFS</summary>
+<summary>Имя пакета: perl-Gnome2-VFS</summary>
 
 ```
 Из репозитор : fedora
@@ -42566,7 +42565,7 @@ URL          : https://metacpan.org/release/Gnome2-VFS
 </details>
 
 <details>
-<summary>perl-Gnome2-Wnck</summary>
+<summary>Имя пакета: perl-Gnome2-Wnck</summary>
 
 ```
 Из репозитор : fedora
@@ -42588,7 +42587,7 @@ URL          : https://metacpan.org/release/Gnome2-Wnck
 </details>
 
 <details>
-<summary>perl-Goo-Canvas</summary>
+<summary>Имя пакета: perl-Goo-Canvas</summary>
 
 ```
 Из репозитор : fedora
@@ -42604,7 +42603,7 @@ URL          : https://metacpan.org/release/Goo-Canvas
 </details>
 
 <details>
-<summary>perl-Graph</summary>
+<summary>Имя пакета: perl-Graph</summary>
 
 ```
 Из репозитор : fedora
@@ -42624,7 +42623,7 @@ URL          : https://metacpan.org/release/Graph
 </details>
 
 <details>
-<summary>perl-GraphViz</summary>
+<summary>Имя пакета: perl-GraphViz</summary>
 
 ```
 Из репозитор : fedora
@@ -42640,7 +42639,7 @@ URL          : https://metacpan.org/release/GraphViz
 </details>
 
 <details>
-<summary>perl-Gtk2</summary>
+<summary>Имя пакета: perl-Gtk2</summary>
 
 ```
 Из репозитор : fedora
@@ -42656,7 +42655,7 @@ URL          : https://metacpan.org/release/Gtk2
 </details>
 
 <details>
-<summary>perl-Gtk2-AppIndicator</summary>
+<summary>Имя пакета: perl-Gtk2-AppIndicator</summary>
 
 ```
 Из репозитор : fedora
@@ -42669,7 +42668,7 @@ URL          : https://metacpan.org/release/Gtk2-AppIndicator
 </details>
 
 <details>
-<summary>perl-Gtk2-ImageView</summary>
+<summary>Имя пакета: perl-Gtk2-ImageView</summary>
 
 ```
 Из репозитор : fedora
@@ -42685,7 +42684,7 @@ URL          : https://metacpan.org/release/Gtk2-ImageView
 </details>
 
 <details>
-<summary>perl-Gtk2-Unique</summary>
+<summary>Имя пакета: perl-Gtk2-Unique</summary>
 
 ```
 Из репозитор : fedora
@@ -42705,7 +42704,7 @@ URL          : https://metacpan.org/release/Gtk2-Unique
 </details>
 
 <details>
-<summary>perl-Guard</summary>
+<summary>Имя пакета: perl-Guard</summary>
 
 ```
 Из репозитор : fedora
@@ -42719,7 +42718,7 @@ URL          : https://metacpan.org/release/Guard
 </details>
 
 <details>
-<summary>perl-HTML-Form</summary>
+<summary>Имя пакета: perl-HTML-Form</summary>
 
 ```
 Из репозитор : fedora
@@ -42736,7 +42735,7 @@ URL          : https://metacpan.org/release/HTML-Form
 </details>
 
 <details>
-<summary>perl-HTML-Parser</summary>
+<summary>Имя пакета: perl-HTML-Parser</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42751,7 +42750,7 @@ URL          : https://metacpan.org/release/HTML-Parser
 </details>
 
 <details>
-<summary>perl-HTML-Tagset</summary>
+<summary>Имя пакета: perl-HTML-Tagset</summary>
 
 ```
 Из репозитор : fedora
@@ -42765,7 +42764,7 @@ URL          : https://metacpan.org/release/HTML-Tagset
 </details>
 
 <details>
-<summary>perl-HTML-Tree</summary>
+<summary>Имя пакета: perl-HTML-Tree</summary>
 
 ```
 Эпоха        : 1
@@ -42783,7 +42782,7 @@ URL          : https://metacpan.org/release/HTML-Tree
 </details>
 
 <details>
-<summary>perl-HTTP-Cookies</summary>
+<summary>Имя пакета: perl-HTTP-Cookies</summary>
 
 ```
 Из репозитор : fedora
@@ -42798,7 +42797,7 @@ URL          : https://metacpan.org/release/HTTP-Cookies
 </details>
 
 <details>
-<summary>perl-HTTP-Date</summary>
+<summary>Имя пакета: perl-HTTP-Date</summary>
 
 ```
 Из репозитор : fedora
@@ -42813,7 +42812,7 @@ URL          : https://metacpan.org/release/HTTP-Date
 </details>
 
 <details>
-<summary>perl-HTTP-Message</summary>
+<summary>Имя пакета: perl-HTTP-Message</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42828,7 +42827,7 @@ URL          : https://metacpan.org/release/HTTP-Message
 </details>
 
 <details>
-<summary>perl-HTTP-Negotiate</summary>
+<summary>Имя пакета: perl-HTTP-Negotiate</summary>
 
 ```
 Из репозитор : fedora
@@ -42845,7 +42844,7 @@ URL          : https://metacpan.org/release/HTTP-Negotiate
 </details>
 
 <details>
-<summary>perl-HTTP-Tiny</summary>
+<summary>Имя пакета: perl-HTTP-Tiny</summary>
 
 ```
 Из репозитор : anaconda
@@ -42863,7 +42862,7 @@ URL          : https://metacpan.org/release/HTTP-Tiny
 </details>
 
 <details>
-<summary>perl-Hash-Merge</summary>
+<summary>Имя пакета: perl-Hash-Merge</summary>
 
 ```
 Из репозитор : fedora
@@ -42876,7 +42875,7 @@ URL          : https://metacpan.org/release/Hash-Merge
 </details>
 
 <details>
-<summary>perl-Hash-Util</summary>
+<summary>Имя пакета: perl-Hash-Util</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42890,7 +42889,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Hash-Util-FieldHash</summary>
+<summary>Имя пакета: perl-Hash-Util-FieldHash</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42904,7 +42903,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Heap</summary>
+<summary>Имя пакета: perl-Heap</summary>
 
 ```
 Из репозитор : fedora
@@ -42928,7 +42927,7 @@ URL          : https://metacpan.org/release/Heap
 </details>
 
 <details>
-<summary>perl-I18N-Collate</summary>
+<summary>Имя пакета: perl-I18N-Collate</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42943,7 +42942,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-I18N-LangTags</summary>
+<summary>Имя пакета: perl-I18N-LangTags</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42959,7 +42958,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-I18N-Langinfo</summary>
+<summary>Имя пакета: perl-I18N-Langinfo</summary>
 
 ```
 Из репозитор : updates-testing
@@ -42975,7 +42974,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-IO</summary>
+<summary>Имя пакета: perl-IO</summary>
 
 ```
 Из репозитор : anaconda
@@ -42988,7 +42987,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-IO</summary>
+<summary>Имя пакета: perl-IO</summary>
 
 ```
 Из репозитор : updates-testing
@@ -43001,7 +43000,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-IO-Compress</summary>
+<summary>Имя пакета: perl-IO-Compress</summary>
 
 ```
 Из репозитор : updates-testing
@@ -43025,7 +43024,7 @@ URL          : https://metacpan.org/release/IO-Compress
 </details>
 
 <details>
-<summary>perl-IO-Compress-Lzma</summary>
+<summary>Имя пакета: perl-IO-Compress-Lzma</summary>
 
 ```
 Из репозитор : updates-testing
@@ -43039,7 +43038,7 @@ URL          : https://metacpan.org/release/IO-Compress-Lzma
 </details>
 
 <details>
-<summary>perl-IO-HTML</summary>
+<summary>Имя пакета: perl-IO-HTML</summary>
 
 ```
 Из репозитор : fedora
@@ -43054,7 +43053,7 @@ URL          : https://metacpan.org/release/IO-HTML
 </details>
 
 <details>
-<summary>perl-IO-Interactive</summary>
+<summary>Имя пакета: perl-IO-Interactive</summary>
 
 ```
 Из репозитор : fedora
@@ -43068,7 +43067,7 @@ URL          : https://metacpan.org/release/IO-Interactive
 </details>
 
 <details>
-<summary>perl-IO-Socket-INET6</summary>
+<summary>Имя пакета: perl-IO-Socket-INET6</summary>
 
 ```
 Из репозитор : fedora
@@ -43081,7 +43080,7 @@ URL          : https://metacpan.org/release/IO-Socket-INET6
 </details>
 
 <details>
-<summary>perl-IO-Socket-IP</summary>
+<summary>Имя пакета: perl-IO-Socket-IP</summary>
 
 ```
 Из репозитор : anaconda
@@ -43096,7 +43095,7 @@ URL          : https://metacpan.org/release/IO-Socket-IP
 </details>
 
 <details>
-<summary>perl-IO-Socket-SSL</summary>
+<summary>Имя пакета: perl-IO-Socket-SSL</summary>
 
 ```
 Из репозитор : updates-testing
@@ -43115,7 +43114,7 @@ URL          : https://metacpan.org/release/IO-Socket-SSL
 </details>
 
 <details>
-<summary>perl-IO-Socket-Timeout</summary>
+<summary>Имя пакета: perl-IO-Socket-Timeout</summary>
 
 ```
 Из репозитор : fedora
@@ -43129,7 +43128,7 @@ URL          : https://metacpan.org/release/IO-Socket-Timeout
 </details>
 
 <details>
-<summary>perl-IO-String</summary>
+<summary>Имя пакета: perl-IO-String</summary>
 
 ```
 Из репозитор : fedora
@@ -43153,7 +43152,7 @@ URL          : https://metacpan.org/release/IO-String
 </details>
 
 <details>
-<summary>perl-IO-Tty</summary>
+<summary>Имя пакета: perl-IO-Tty</summary>
 
 ```
 Из репозитор : fedora
@@ -43166,7 +43165,7 @@ URL          : https://metacpan.org/release/IO-Tty
 </details>
 
 <details>
-<summary>perl-IO-Zlib</summary>
+<summary>Имя пакета: perl-IO-Zlib</summary>
 
 ```
 Эпоха        : 1
@@ -43182,7 +43181,7 @@ URL          : https://metacpan.org/release/IO-Zlib
 </details>
 
 <details>
-<summary>perl-IO-stringy</summary>
+<summary>Имя пакета: perl-IO-stringy</summary>
 
 ```
 Из репозитор : fedora
@@ -43206,7 +43205,7 @@ URL          : https://metacpan.org/release/IO-stringy
 </details>
 
 <details>
-<summary>perl-IPC-Cmd</summary>
+<summary>Имя пакета: perl-IPC-Cmd</summary>
 
 ```
 Эпоха        : 2
@@ -43221,7 +43220,7 @@ URL          : https://metacpan.org/release/IPC-Cmd
 </details>
 
 <details>
-<summary>perl-IPC-Open3</summary>
+<summary>Имя пакета: perl-IPC-Open3</summary>
 
 ```
 Из репозитор : anaconda
@@ -43236,7 +43235,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-IPC-Open3</summary>
+<summary>Имя пакета: perl-IPC-Open3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -43251,7 +43250,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-IPC-Run</summary>
+<summary>Имя пакета: perl-IPC-Run</summary>
 
 ```
 Из репозитор : fedora
@@ -43270,7 +43269,7 @@ URL          : https://metacpan.org/release/IPC-Run
 </details>
 
 <details>
-<summary>perl-IPC-Run3</summary>
+<summary>Имя пакета: perl-IPC-Run3</summary>
 
 ```
 Из репозитор : fedora
@@ -43286,7 +43285,7 @@ URL          : https://metacpan.org/release/IPC-Run3
 </details>
 
 <details>
-<summary>perl-IPC-SysV</summary>
+<summary>Имя пакета: perl-IPC-SysV</summary>
 
 ```
 Из репозитор : fedora
@@ -43300,7 +43299,7 @@ URL          : https://metacpan.org/release/IPC-SysV
 </details>
 
 <details>
-<summary>perl-IPC-System-Simple</summary>
+<summary>Имя пакета: perl-IPC-System-Simple</summary>
 
 ```
 Из репозитор : fedora
@@ -43323,7 +43322,7 @@ URL          : https://metacpan.org/release/IPC-System-Simple
 </details>
 
 <details>
-<summary>perl-Image-Base</summary>
+<summary>Имя пакета: perl-Image-Base</summary>
 
 ```
 Из репозитор : fedora
@@ -43336,7 +43335,7 @@ URL          : https://metacpan.org/release/Image-Base
 </details>
 
 <details>
-<summary>perl-Image-ExifTool</summary>
+<summary>Имя пакета: perl-Image-ExifTool</summary>
 
 ```
 Из репозитор : fedora
@@ -43359,7 +43358,7 @@ URL          : http://www.sno.phy.queensu.ca/%7Ephil/exiftool/
 </details>
 
 <details>
-<summary>perl-Image-Info</summary>
+<summary>Имя пакета: perl-Image-Info</summary>
 
 ```
 Из репозитор : fedora
@@ -43373,7 +43372,7 @@ URL          : https://metacpan.org/release/Image-Info
 </details>
 
 <details>
-<summary>perl-Image-Xbm</summary>
+<summary>Имя пакета: perl-Image-Xbm</summary>
 
 ```
 Из репозитор : fedora
@@ -43388,7 +43387,7 @@ URL          : https://metacpan.org/release/Image-Xbm
 </details>
 
 <details>
-<summary>perl-Image-Xpm</summary>
+<summary>Имя пакета: perl-Image-Xpm</summary>
 
 ```
 Из репозитор : fedora
@@ -43403,7 +43402,7 @@ URL          : https://metacpan.org/release/Image-Xpm
 </details>
 
 <details>
-<summary>perl-Import-Into</summary>
+<summary>Имя пакета: perl-Import-Into</summary>
 
 ```
 Из репозитор : fedora
@@ -43417,7 +43416,7 @@ URL          : https://metacpan.org/release/Import-Into
 </details>
 
 <details>
-<summary>perl-Importer</summary>
+<summary>Имя пакета: perl-Importer</summary>
 
 ```
 Из репозитор : fedora
@@ -43435,7 +43434,7 @@ URL          : https://metacpan.org/release/Importer
 </details>
 
 <details>
-<summary>perl-JSON</summary>
+<summary>Имя пакета: perl-JSON</summary>
 
 ```
 Из репозитор : fedora
@@ -43449,7 +43448,7 @@ URL          : https://metacpan.org/release/JSON
 </details>
 
 <details>
-<summary>perl-JSON-Any</summary>
+<summary>Имя пакета: perl-JSON-Any</summary>
 
 ```
 Из репозитор : fedora
@@ -43463,7 +43462,7 @@ URL          : https://metacpan.org/release/JSON-Any
 </details>
 
 <details>
-<summary>perl-JSON-MaybeXS</summary>
+<summary>Имя пакета: perl-JSON-MaybeXS</summary>
 
 ```
 Из репозитор : fedora
@@ -43487,7 +43486,7 @@ URL          : https://metacpan.org/release/JSON-MaybeXS
 </details>
 
 <details>
-<summary>perl-JSON-PP</summary>
+<summary>Имя пакета: perl-JSON-PP</summary>
 
 ```
 Эпоха        : 1
@@ -43504,7 +43503,7 @@ URL          : https://metacpan.org/release/JSON-PP
 </details>
 
 <details>
-<summary>perl-JSON-XS</summary>
+<summary>Имя пакета: perl-JSON-XS</summary>
 
 ```
 Эпоха        : 1
@@ -43520,7 +43519,7 @@ URL          : https://metacpan.org/release/JSON-XS
 </details>
 
 <details>
-<summary>perl-Jcode</summary>
+<summary>Имя пакета: perl-Jcode</summary>
 
 ```
 Из репозитор : fedora
@@ -43533,7 +43532,7 @@ URL          : https://metacpan.org/release/Jcode
 </details>
 
 <details>
-<summary>perl-LDAP</summary>
+<summary>Имя пакета: perl-LDAP</summary>
 
 ```
 Эпоха        : 1
@@ -43549,7 +43548,7 @@ URL          : https://metacpan.org/release/perl-ldap
 </details>
 
 <details>
-<summary>perl-LWP-MediaTypes</summary>
+<summary>Имя пакета: perl-LWP-MediaTypes</summary>
 
 ```
 Из репозитор : fedora
@@ -43566,7 +43565,7 @@ URL          : https://metacpan.org/release/LWP-MediaTypes
 </details>
 
 <details>
-<summary>perl-LWP-Protocol-https</summary>
+<summary>Имя пакета: perl-LWP-Protocol-https</summary>
 
 ```
 Из репозитор : fedora
@@ -43582,7 +43581,7 @@ URL          : https://metacpan.org/release/LWP-Protocol-https
 </details>
 
 <details>
-<summary>perl-Lchown</summary>
+<summary>Имя пакета: perl-Lchown</summary>
 
 ```
 Из репозитор : fedora
@@ -43596,7 +43595,7 @@ URL          : https://metacpan.org/release/Lchown
 </details>
 
 <details>
-<summary>perl-Linux-Pid</summary>
+<summary>Имя пакета: perl-Linux-Pid</summary>
 
 ```
 Из репозитор : fedora
@@ -43612,7 +43611,7 @@ URL          : https://metacpan.org/release/Linux-Pid
 </details>
 
 <details>
-<summary>perl-List-AllUtils</summary>
+<summary>Имя пакета: perl-List-AllUtils</summary>
 
 ```
 Из репозитор : fedora
@@ -43628,7 +43627,7 @@ URL          : https://metacpan.org/release/List-AllUtils
 </details>
 
 <details>
-<summary>perl-List-MoreUtils</summary>
+<summary>Имя пакета: perl-List-MoreUtils</summary>
 
 ```
 Из репозитор : fedora
@@ -43642,7 +43641,7 @@ URL          : https://metacpan.org/release/List-MoreUtils
 </details>
 
 <details>
-<summary>perl-List-MoreUtils-XS</summary>
+<summary>Имя пакета: perl-List-MoreUtils-XS</summary>
 
 ```
 Из репозитор : fedora
@@ -43655,7 +43654,7 @@ URL          : https://metacpan.org/release/List-MoreUtils-XS
 </details>
 
 <details>
-<summary>perl-List-Pairwise</summary>
+<summary>Имя пакета: perl-List-Pairwise</summary>
 
 ```
 Из репозитор : fedora
@@ -43669,7 +43668,7 @@ URL          : https://metacpan.org/release/List-Pairwise
 </details>
 
 <details>
-<summary>perl-List-SomeUtils</summary>
+<summary>Имя пакета: perl-List-SomeUtils</summary>
 
 ```
 Из репозитор : fedora
@@ -43683,7 +43682,7 @@ URL          : https://metacpan.org/release/List-SomeUtils
 </details>
 
 <details>
-<summary>perl-List-UtilsBy</summary>
+<summary>Имя пакета: perl-List-UtilsBy</summary>
 
 ```
 Из репозитор : fedora
@@ -43702,7 +43701,7 @@ URL          : https://metacpan.org/release/List-UtilsBy
 </details>
 
 <details>
-<summary>perl-Locale-Codes</summary>
+<summary>Имя пакета: perl-Locale-Codes</summary>
 
 ```
 Из репозитор : updates-testing
@@ -43717,7 +43716,7 @@ URL          : https://metacpan.org/release/Locale-Codes
 </details>
 
 <details>
-<summary>perl-Locale-Maketext</summary>
+<summary>Имя пакета: perl-Locale-Maketext</summary>
 
 ```
 Из репозитор : fedora
@@ -43736,7 +43735,7 @@ URL          : https://metacpan.org/release/Locale-Maketext
 </details>
 
 <details>
-<summary>perl-Locale-Maketext-Simple</summary>
+<summary>Имя пакета: perl-Locale-Maketext-Simple</summary>
 
 ```
 Эпоха        : 1
@@ -43751,7 +43750,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Locale-gettext</summary>
+<summary>Имя пакета: perl-Locale-gettext</summary>
 
 ```
 Из репозитор : fedora
@@ -43766,7 +43765,7 @@ URL          : https://metacpan.org/release/gettext
 </details>
 
 <details>
-<summary>perl-Log-Dispatch</summary>
+<summary>Имя пакета: perl-Log-Dispatch</summary>
 
 ```
 Из репозитор : fedora
@@ -43783,7 +43782,7 @@ URL          : https://metacpan.org/release/Log-Dispatch
 </details>
 
 <details>
-<summary>perl-Log-Dispatch-FileRotate</summary>
+<summary>Имя пакета: perl-Log-Dispatch-FileRotate</summary>
 
 ```
 Из репозитор : fedora
@@ -43799,7 +43798,7 @@ URL          : https://metacpan.org/release/Log-Dispatch-FileRotate
 </details>
 
 <details>
-<summary>perl-Log-Log4perl</summary>
+<summary>Имя пакета: perl-Log-Log4perl</summary>
 
 ```
 Из репозитор : fedora
@@ -43820,7 +43819,7 @@ URL          : https://metacpan.org/release/Log-Log4perl
 </details>
 
 <details>
-<summary>perl-Log-Message</summary>
+<summary>Имя пакета: perl-Log-Message</summary>
 
 ```
 Эпоха        : 1
@@ -43838,7 +43837,7 @@ URL          : https://metacpan.org/release/Log-Message
 </details>
 
 <details>
-<summary>perl-Log-Message-Simple</summary>
+<summary>Имя пакета: perl-Log-Message-Simple</summary>
 
 ```
 Из репозитор : fedora
@@ -43853,7 +43852,7 @@ URL          : https://metacpan.org/release/Log-Message-Simple
 </details>
 
 <details>
-<summary>perl-MIME-Base64</summary>
+<summary>Имя пакета: perl-MIME-Base64</summary>
 
 ```
 Из репозитор : anaconda
@@ -43868,7 +43867,7 @@ URL          : https://metacpan.org/release/MIME-Base64
 </details>
 
 <details>
-<summary>perl-MIME-Charset</summary>
+<summary>Имя пакета: perl-MIME-Charset</summary>
 
 ```
 Из репозитор : fedora
@@ -43882,7 +43881,7 @@ URL          : https://metacpan.org/release/MIME-Charset
 </details>
 
 <details>
-<summary>perl-MIME-Lite</summary>
+<summary>Имя пакета: perl-MIME-Lite</summary>
 
 ```
 Из репозитор : fedora
@@ -43898,7 +43897,7 @@ URL          : https://metacpan.org/release/MIME-Lite
 </details>
 
 <details>
-<summary>perl-MIME-Types</summary>
+<summary>Имя пакета: perl-MIME-Types</summary>
 
 ```
 Из репозитор : fedora
@@ -43917,7 +43916,7 @@ URL          : https://metacpan.org/release/MIME-Types
 </details>
 
 <details>
-<summary>perl-MRO-Compat</summary>
+<summary>Имя пакета: perl-MRO-Compat</summary>
 
 ```
 Из репозитор : fedora
@@ -43941,7 +43940,7 @@ URL          : https://metacpan.org/release/MRO-Compat
 </details>
 
 <details>
-<summary>perl-Mail-Sender</summary>
+<summary>Имя пакета: perl-Mail-Sender</summary>
 
 ```
 Эпоха        : 1
@@ -43955,7 +43954,7 @@ URL          : https://metacpan.org/release/Mail-Sender
 </details>
 
 <details>
-<summary>perl-Mail-Sendmail</summary>
+<summary>Имя пакета: perl-Mail-Sendmail</summary>
 
 ```
 Из репозитор : fedora
@@ -43972,7 +43971,7 @@ URL          : https://metacpan.org/release/Mail-Sendmail
 </details>
 
 <details>
-<summary>perl-MailTools</summary>
+<summary>Имя пакета: perl-MailTools</summary>
 
 ```
 Из репозитор : fedora
@@ -43985,7 +43984,7 @@ URL          : https://metacpan.org/release/MailTools
 </details>
 
 <details>
-<summary>perl-Math-Base36</summary>
+<summary>Имя пакета: perl-Math-Base36</summary>
 
 ```
 Из репозитор : fedora
@@ -43998,7 +43997,7 @@ URL          : https://metacpan.org/release/Math-Base36
 </details>
 
 <details>
-<summary>perl-Math-BigInt</summary>
+<summary>Имя пакета: perl-Math-BigInt</summary>
 
 ```
 Эпоха        : 1
@@ -44012,7 +44011,7 @@ URL          : https://metacpan.org/release/Math-BigInt
 </details>
 
 <details>
-<summary>perl-Math-BigInt-FastCalc</summary>
+<summary>Имя пакета: perl-Math-BigInt-FastCalc</summary>
 
 ```
 Из репозитор : fedora
@@ -44025,7 +44024,7 @@ URL          : https://metacpan.org/release/Math-BigInt-FastCalc
 </details>
 
 <details>
-<summary>perl-Math-BigRat</summary>
+<summary>Имя пакета: perl-Math-BigRat</summary>
 
 ```
 Из репозитор : fedora
@@ -44039,7 +44038,7 @@ URL          : https://metacpan.org/release/Math-BigRat
 </details>
 
 <details>
-<summary>perl-Math-Complex</summary>
+<summary>Имя пакета: perl-Math-Complex</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44055,7 +44054,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Memoize</summary>
+<summary>Имя пакета: perl-Memoize</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44072,7 +44071,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-MetaCPAN-API</summary>
+<summary>Имя пакета: perl-MetaCPAN-API</summary>
 
 ```
 Из репозитор : fedora
@@ -44091,7 +44090,7 @@ URL          : https://metacpan.org/release/MetaCPAN-API
 </details>
 
 <details>
-<summary>perl-MetaCPAN-Client</summary>
+<summary>Имя пакета: perl-MetaCPAN-Client</summary>
 
 ```
 Из репозитор : fedora
@@ -44105,7 +44104,7 @@ URL          : https://github.com/CPAN-API/metacpan-client
 </details>
 
 <details>
-<summary>perl-Mixin-Linewise</summary>
+<summary>Имя пакета: perl-Mixin-Linewise</summary>
 
 ```
 Из репозитор : fedora
@@ -44121,7 +44120,7 @@ URL          : https://metacpan.org/release/Mixin-Linewise
 </details>
 
 <details>
-<summary>perl-Module-Build</summary>
+<summary>Имя пакета: perl-Module-Build</summary>
 
 ```
 Эпоха        : 2
@@ -44143,7 +44142,7 @@ URL          : https://metacpan.org/release/Module-Build
 </details>
 
 <details>
-<summary>perl-Module-CoreList</summary>
+<summary>Имя пакета: perl-Module-CoreList</summary>
 
 ```
 Эпоха        : 1
@@ -44158,7 +44157,7 @@ URL          : https://metacpan.org/release/Module-CoreList
 </details>
 
 <details>
-<summary>perl-Module-CoreList-tools</summary>
+<summary>Имя пакета: perl-Module-CoreList-tools</summary>
 
 ```
 Эпоха        : 1
@@ -44173,7 +44172,7 @@ URL          : https://metacpan.org/release/Module-CoreList
 </details>
 
 <details>
-<summary>perl-Module-Find</summary>
+<summary>Имя пакета: perl-Module-Find</summary>
 
 ```
 Из репозитор : fedora
@@ -44188,7 +44187,7 @@ URL          : https://metacpan.org/release/Module-Find
 </details>
 
 <details>
-<summary>perl-Module-Implementation</summary>
+<summary>Имя пакета: perl-Module-Implementation</summary>
 
 ```
 Из репозитор : fedora
@@ -44209,7 +44208,7 @@ URL          : https://metacpan.org/release/perl-Module-Implementation
 </details>
 
 <details>
-<summary>perl-Module-Load</summary>
+<summary>Имя пакета: perl-Module-Load</summary>
 
 ```
 Эпоха        : 1
@@ -44232,7 +44231,7 @@ URL          : https://metacpan.org/release/Module-Load
 </details>
 
 <details>
-<summary>perl-Module-Load-Conditional</summary>
+<summary>Имя пакета: perl-Module-Load-Conditional</summary>
 
 ```
 Из репозитор : fedora
@@ -44246,7 +44245,7 @@ URL          : https://metacpan.org/release/Module-Load-Conditional
 </details>
 
 <details>
-<summary>perl-Module-Loaded</summary>
+<summary>Имя пакета: perl-Module-Loaded</summary>
 
 ```
 Эпоха        : 1
@@ -44264,7 +44263,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Module-Metadata</summary>
+<summary>Имя пакета: perl-Module-Metadata</summary>
 
 ```
 Из репозитор : fedora
@@ -44278,7 +44277,7 @@ URL          : https://metacpan.org/release/Module-Metadata
 </details>
 
 <details>
-<summary>perl-Module-Pluggable</summary>
+<summary>Имя пакета: perl-Module-Pluggable</summary>
 
 ```
 Эпоха        : 2
@@ -44295,7 +44294,7 @@ URL          : https://metacpan.org/release/Module-Pluggable
 </details>
 
 <details>
-<summary>perl-Module-Runtime</summary>
+<summary>Имя пакета: perl-Module-Runtime</summary>
 
 ```
 Из репозитор : fedora
@@ -44309,7 +44308,7 @@ URL          : https://metacpan.org/release/Module-Runtime
 </details>
 
 <details>
-<summary>perl-Module-Runtime-Conflicts</summary>
+<summary>Имя пакета: perl-Module-Runtime-Conflicts</summary>
 
 ```
 Из репозитор : fedora
@@ -44324,7 +44323,7 @@ URL          : https://metacpan.org/release/Module-Runtime-Conflicts
 </details>
 
 <details>
-<summary>perl-Moo</summary>
+<summary>Имя пакета: perl-Moo</summary>
 
 ```
 Из репозитор : fedora
@@ -44340,7 +44339,7 @@ URL          : https://metacpan.org/release/Moo
 </details>
 
 <details>
-<summary>perl-Moose</summary>
+<summary>Имя пакета: perl-Moose</summary>
 
 ```
 Из репозитор : fedora
@@ -44363,7 +44362,7 @@ URL          : https://metacpan.org/release/Moose
 </details>
 
 <details>
-<summary>perl-MooseX-App</summary>
+<summary>Имя пакета: perl-MooseX-App</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44381,7 +44380,7 @@ URL          : https://metacpan.org/release/MooseX-App
 </details>
 
 <details>
-<summary>perl-MooseX-SemiAffordanceAccessor</summary>
+<summary>Имя пакета: perl-MooseX-SemiAffordanceAccessor</summary>
 
 ```
 Из репозитор : fedora
@@ -44401,7 +44400,7 @@ URL          : https://metacpan.org/release/MooseX-SemiAffordanceAccessor
 </details>
 
 <details>
-<summary>perl-MooseX-Types</summary>
+<summary>Имя пакета: perl-MooseX-Types</summary>
 
 ```
 Из репозитор : fedora
@@ -44424,7 +44423,7 @@ URL          : https://metacpan.org/release/MooseX-Types
 </details>
 
 <details>
-<summary>perl-MooseX-Types-JSON</summary>
+<summary>Имя пакета: perl-MooseX-Types-JSON</summary>
 
 ```
 Из репозитор : fedora
@@ -44437,7 +44436,7 @@ URL          : https://metacpan.org/release/MooseX-Types-JSON
 </details>
 
 <details>
-<summary>perl-MooseX-Types-LoadableClass</summary>
+<summary>Имя пакета: perl-MooseX-Types-LoadableClass</summary>
 
 ```
 Из репозитор : fedora
@@ -44450,7 +44449,7 @@ URL          : https://metacpan.org/release/MooseX-Types-LoadableClass
 </details>
 
 <details>
-<summary>perl-MooseX-Types-Path-Class</summary>
+<summary>Имя пакета: perl-MooseX-Types-Path-Class</summary>
 
 ```
 Из репозитор : fedora
@@ -44469,7 +44468,7 @@ URL          : https://metacpan.org/release/MooseX-Types-Path-Class
 </details>
 
 <details>
-<summary>perl-Mouse</summary>
+<summary>Имя пакета: perl-Mouse</summary>
 
 ```
 Из репозитор : fedora
@@ -44489,7 +44488,7 @@ URL          : https://metacpan.org/release/Mouse
 </details>
 
 <details>
-<summary>perl-Mozilla-CA</summary>
+<summary>Имя пакета: perl-Mozilla-CA</summary>
 
 ```
 Из репозитор : anaconda
@@ -44504,7 +44503,7 @@ URL          : https://metacpan.org/release/Mozilla-CA
 </details>
 
 <details>
-<summary>perl-NDBM_File</summary>
+<summary>Имя пакета: perl-NDBM_File</summary>
 
 ```
 Из репозитор : anaconda
@@ -44520,7 +44519,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-NDBM_File</summary>
+<summary>Имя пакета: perl-NDBM_File</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44536,7 +44535,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-NEXT</summary>
+<summary>Имя пакета: perl-NEXT</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44551,7 +44550,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-NKF</summary>
+<summary>Имя пакета: perl-NKF</summary>
 
 ```
 Эпоха        : 1
@@ -44567,7 +44566,7 @@ URL          : http://nkf.osdn.jp/
 </details>
 
 <details>
-<summary>perl-NTLM</summary>
+<summary>Имя пакета: perl-NTLM</summary>
 
 ```
 Из репозитор : fedora
@@ -44583,7 +44582,7 @@ URL          : https://metacpan.org/release/NTLM
 </details>
 
 <details>
-<summary>perl-Net</summary>
+<summary>Имя пакета: perl-Net</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44597,7 +44596,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Net-DBus</summary>
+<summary>Имя пакета: perl-Net-DBus</summary>
 
 ```
 Из репозитор : fedora
@@ -44613,7 +44612,7 @@ URL          : https://metacpan.org/release/Net-DBus
 </details>
 
 <details>
-<summary>perl-Net-DNS</summary>
+<summary>Имя пакета: perl-Net-DNS</summary>
 
 ```
 Из репозитор : fedora
@@ -44631,7 +44630,7 @@ URL          : https://metacpan.org/release/Net-DNS
 </details>
 
 <details>
-<summary>perl-Net-HTTP</summary>
+<summary>Имя пакета: perl-Net-HTTP</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44647,7 +44646,7 @@ URL          : https://metacpan.org/release/Net-HTTP
 </details>
 
 <details>
-<summary>perl-Net-OAuth</summary>
+<summary>Имя пакета: perl-Net-OAuth</summary>
 
 ```
 Из репозитор : fedora
@@ -44663,7 +44662,7 @@ URL          : https://metacpan.org/release/Net-OAuth
 </details>
 
 <details>
-<summary>perl-Net-Ping</summary>
+<summary>Имя пакета: perl-Net-Ping</summary>
 
 ```
 Из репозитор : fedora
@@ -44677,7 +44676,7 @@ URL          : https://metacpan.org/release/Net-Ping/
 </details>
 
 <details>
-<summary>perl-Net-SMTP-SSL</summary>
+<summary>Имя пакета: perl-Net-SMTP-SSL</summary>
 
 ```
 Из репозитор : fedora
@@ -44691,7 +44690,7 @@ URL          : https://metacpan.org/release/Net-SMTP-SSL
 </details>
 
 <details>
-<summary>perl-Net-SSLeay</summary>
+<summary>Имя пакета: perl-Net-SSLeay</summary>
 
 ```
 Из репозитор : anaconda
@@ -44708,7 +44707,7 @@ URL          : https://metacpan.org/release/Net-SSLeay
 </details>
 
 <details>
-<summary>perl-Net-Telnet</summary>
+<summary>Имя пакета: perl-Net-Telnet</summary>
 
 ```
 Из репозитор : fedora
@@ -44728,7 +44727,7 @@ URL          : https://metacpan.org/release/Net-Telnet
 </details>
 
 <details>
-<summary>perl-Number-Compare</summary>
+<summary>Имя пакета: perl-Number-Compare</summary>
 
 ```
 Из репозитор : fedora
@@ -44742,7 +44741,7 @@ URL          : https://metacpan.org/release/Number-Compare
 </details>
 
 <details>
-<summary>perl-ODBM_File</summary>
+<summary>Имя пакета: perl-ODBM_File</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44758,7 +44757,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-OLE-Storage_Lite</summary>
+<summary>Имя пакета: perl-OLE-Storage_Lite</summary>
 
 ```
 Из репозитор : fedora
@@ -44771,7 +44770,7 @@ URL          : https://metacpan.org/release/OLE-Storage_Lite
 </details>
 
 <details>
-<summary>perl-Object-Accessor</summary>
+<summary>Имя пакета: perl-Object-Accessor</summary>
 
 ```
 Эпоха        : 1
@@ -44786,7 +44785,7 @@ URL          : https://metacpan.org/release/Object-Accessor
 </details>
 
 <details>
-<summary>perl-Object-HashBase</summary>
+<summary>Имя пакета: perl-Object-HashBase</summary>
 
 ```
 Из репозитор : fedora
@@ -44804,7 +44803,7 @@ URL          : https://metacpan.org/release/Object-HashBase
 </details>
 
 <details>
-<summary>perl-Opcode</summary>
+<summary>Имя пакета: perl-Opcode</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44820,7 +44819,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-PCP-LogImport</summary>
+<summary>Имя пакета: perl-PCP-LogImport</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44835,7 +44834,7 @@ URL          : https://pcp.io
 </details>
 
 <details>
-<summary>perl-POSIX</summary>
+<summary>Имя пакета: perl-POSIX</summary>
 
 ```
 Из репозитор : anaconda
@@ -44849,7 +44848,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-POSIX</summary>
+<summary>Имя пакета: perl-POSIX</summary>
 
 ```
 Из репозитор : updates-testing
@@ -44863,7 +44862,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Package-Constants</summary>
+<summary>Имя пакета: perl-Package-Constants</summary>
 
 ```
 Эпоха        : 1
@@ -44879,7 +44878,7 @@ URL          : https://metacpan.org/release/Package-Constants
 </details>
 
 <details>
-<summary>perl-Package-DeprecationManager</summary>
+<summary>Имя пакета: perl-Package-DeprecationManager</summary>
 
 ```
 Из репозитор : fedora
@@ -44896,7 +44895,7 @@ URL          : https://metacpan.org/release/Package-DeprecationManager
 </details>
 
 <details>
-<summary>perl-Package-Generator</summary>
+<summary>Имя пакета: perl-Package-Generator</summary>
 
 ```
 Из репозитор : fedora
@@ -44910,7 +44909,7 @@ URL          : https://metacpan.org/release/Package-Generator
 </details>
 
 <details>
-<summary>perl-Package-Stash</summary>
+<summary>Имя пакета: perl-Package-Stash</summary>
 
 ```
 Из репозитор : fedora
@@ -44925,7 +44924,7 @@ URL          : https://metacpan.org/release/Package-Stash
 </details>
 
 <details>
-<summary>perl-Package-Stash-XS</summary>
+<summary>Имя пакета: perl-Package-Stash-XS</summary>
 
 ```
 Из репозитор : fedora
@@ -44940,7 +44939,7 @@ URL          : https://metacpan.org/release/Package-Stash-XS
 </details>
 
 <details>
-<summary>perl-Package-Variant</summary>
+<summary>Имя пакета: perl-Package-Variant</summary>
 
 ```
 Из репозитор : fedora
@@ -44954,7 +44953,7 @@ URL          : https://metacpan.org/release/Package-Variant
 </details>
 
 <details>
-<summary>perl-PadWalker</summary>
+<summary>Имя пакета: perl-PadWalker</summary>
 
 ```
 Из репозитор : fedora
@@ -44969,7 +44968,7 @@ URL          : https://metacpan.org/release/PadWalker
 </details>
 
 <details>
-<summary>perl-Pango</summary>
+<summary>Имя пакета: perl-Pango</summary>
 
 ```
 Из репозитор : fedora
@@ -44986,7 +44985,7 @@ URL          : https://metacpan.org/release/Pango
 </details>
 
 <details>
-<summary>perl-Parallel-ForkManager</summary>
+<summary>Имя пакета: perl-Parallel-ForkManager</summary>
 
 ```
 Из репозитор : fedora
@@ -45001,7 +45000,7 @@ URL          : https://metacpan.org/release/Parallel-ForkManager
 </details>
 
 <details>
-<summary>perl-Params-Check</summary>
+<summary>Имя пакета: perl-Params-Check</summary>
 
 ```
 Эпоха        : 1
@@ -45017,7 +45016,7 @@ URL          : https://metacpan.org/release/Params-Check
 </details>
 
 <details>
-<summary>perl-Params-Classify</summary>
+<summary>Имя пакета: perl-Params-Classify</summary>
 
 ```
 Из репозитор : fedora
@@ -45034,7 +45033,7 @@ URL          : https://metacpan.org/release/Params-Classify
 </details>
 
 <details>
-<summary>perl-Params-Util</summary>
+<summary>Имя пакета: perl-Params-Util</summary>
 
 ```
 Из репозитор : fedora
@@ -45048,7 +45047,7 @@ URL          : https://metacpan.org/release/Params-Util
 </details>
 
 <details>
-<summary>perl-Params-Validate</summary>
+<summary>Имя пакета: perl-Params-Validate</summary>
 
 ```
 Из репозитор : fedora
@@ -45067,7 +45066,7 @@ URL          : https://metacpan.org/release/Params-Validate
 </details>
 
 <details>
-<summary>perl-Params-ValidationCompiler</summary>
+<summary>Имя пакета: perl-Params-ValidationCompiler</summary>
 
 ```
 Из репозитор : fedora
@@ -45081,7 +45080,7 @@ URL          : https://metacpan.org/release/Params-ValidationCompiler
 </details>
 
 <details>
-<summary>perl-Parse-RecDescent</summary>
+<summary>Имя пакета: perl-Parse-RecDescent</summary>
 
 ```
 Из репозитор : fedora
@@ -45110,7 +45109,7 @@ URL          : https://metacpan.org/release/Parse-RecDescent
 </details>
 
 <details>
-<summary>perl-Path-Class</summary>
+<summary>Имя пакета: perl-Path-Class</summary>
 
 ```
 Из репозитор : fedora
@@ -45127,7 +45126,7 @@ URL          : https://metacpan.org/release/Path-Class
 </details>
 
 <details>
-<summary>perl-Path-Tiny</summary>
+<summary>Имя пакета: perl-Path-Tiny</summary>
 
 ```
 Из репозитор : fedora
@@ -45155,7 +45154,7 @@ URL          : https://metacpan.org/release/Path-Tiny
 </details>
 
 <details>
-<summary>perl-PathTools</summary>
+<summary>Имя пакета: perl-PathTools</summary>
 
 ```
 Из репозитор : anaconda
@@ -45168,7 +45167,7 @@ URL          : https://metacpan.org/release/PathTools
 </details>
 
 <details>
-<summary>perl-Perl-OSType</summary>
+<summary>Имя пакета: perl-Perl-OSType</summary>
 
 ```
 Из репозитор : fedora
@@ -45188,7 +45187,7 @@ URL          : https://metacpan.org/release/Perl-OSType
 </details>
 
 <details>
-<summary>perl-PerlIO-utf8_strict</summary>
+<summary>Имя пакета: perl-PerlIO-utf8_strict</summary>
 
 ```
 Из репозитор : fedora
@@ -45202,7 +45201,7 @@ URL          : https://metacpan.org/release/PerlIO-utf8_strict
 </details>
 
 <details>
-<summary>perl-PerlIO-via-QuotedPrint</summary>
+<summary>Имя пакета: perl-PerlIO-via-QuotedPrint</summary>
 
 ```
 Из репозитор : fedora
@@ -45218,7 +45217,7 @@ URL          : https://metacpan.org/release/PerlIO-via-QuotedPrint
 </details>
 
 <details>
-<summary>perl-PerlIO-via-Timeout</summary>
+<summary>Имя пакета: perl-PerlIO-via-Timeout</summary>
 
 ```
 Из репозитор : fedora
@@ -45233,7 +45232,7 @@ URL          : https://metacpan.org/release/PerlIO-via-Timeout
 </details>
 
 <details>
-<summary>perl-Pod-Checker</summary>
+<summary>Имя пакета: perl-Pod-Checker</summary>
 
 ```
 Эпоха        : 4
@@ -45248,7 +45247,7 @@ URL          : https://metacpan.org/release/Pod-Checker
 </details>
 
 <details>
-<summary>perl-Pod-Elemental</summary>
+<summary>Имя пакета: perl-Pod-Elemental</summary>
 
 ```
 Из репозитор : fedora
@@ -45265,7 +45264,7 @@ URL          : https://metacpan.org/release/Pod-Elemental
 </details>
 
 <details>
-<summary>perl-Pod-Escapes</summary>
+<summary>Имя пакета: perl-Pod-Escapes</summary>
 
 ```
 Эпоха        : 1
@@ -45279,7 +45278,7 @@ URL          : https://metacpan.org/release/Pod-Escapes
 </details>
 
 <details>
-<summary>perl-Pod-Eventual</summary>
+<summary>Имя пакета: perl-Pod-Eventual</summary>
 
 ```
 Из репозитор : fedora
@@ -45304,7 +45303,7 @@ URL          : https://metacpan.org/release/Pod-Eventual
 </details>
 
 <details>
-<summary>perl-Pod-Functions</summary>
+<summary>Имя пакета: perl-Pod-Functions</summary>
 
 ```
 Из репозитор : updates-testing
@@ -45317,7 +45316,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Pod-Html</summary>
+<summary>Имя пакета: perl-Pod-Html</summary>
 
 ```
 Из репозитор : updates-testing
@@ -45332,7 +45331,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Pod-LaTeX</summary>
+<summary>Имя пакета: perl-Pod-LaTeX</summary>
 
 ```
 Из репозитор : fedora
@@ -45346,7 +45345,7 @@ URL          : https://metacpan.org/release/Pod-LaTeX
 </details>
 
 <details>
-<summary>perl-Pod-POM</summary>
+<summary>Имя пакета: perl-Pod-POM</summary>
 
 ```
 Из репозитор : fedora
@@ -45366,7 +45365,7 @@ URL          : https://metacpan.org/release/Pod-POM
 </details>
 
 <details>
-<summary>perl-Pod-Parser</summary>
+<summary>Имя пакета: perl-Pod-Parser</summary>
 
 ```
 Из репозитор : fedora
@@ -45381,7 +45380,7 @@ URL          : https://metacpan.org/release/Pod-Parser
 </details>
 
 <details>
-<summary>perl-Pod-Perldoc</summary>
+<summary>Имя пакета: perl-Pod-Perldoc</summary>
 
 ```
 Из репозитор : anaconda
@@ -45397,7 +45396,7 @@ URL          : https://metacpan.org/release/Pod-Perldoc
 </details>
 
 <details>
-<summary>perl-Pod-Plainer</summary>
+<summary>Имя пакета: perl-Pod-Plainer</summary>
 
 ```
 Из репозитор : fedora
@@ -45413,7 +45412,7 @@ URL          : https://metacpan.org/release/Pod-Plainer
 </details>
 
 <details>
-<summary>perl-Pod-Simple</summary>
+<summary>Имя пакета: perl-Pod-Simple</summary>
 
 ```
 Эпоха        : 1
@@ -45429,7 +45428,7 @@ URL          : https://metacpan.org/release/Pod-Simple
 </details>
 
 <details>
-<summary>perl-Pod-Usage</summary>
+<summary>Имя пакета: perl-Pod-Usage</summary>
 
 ```
 Эпоха        : 4
@@ -45449,7 +45448,7 @@ URL          : https://metacpan.org/release/Pod-Usage
 </details>
 
 <details>
-<summary>perl-Proc-ProcessTable</summary>
+<summary>Имя пакета: perl-Proc-ProcessTable</summary>
 
 ```
 Из репозитор : fedora
@@ -45462,7 +45461,7 @@ URL          : https://metacpan.org/release/Proc-ProcessTable
 </details>
 
 <details>
-<summary>perl-Proc-Simple</summary>
+<summary>Имя пакета: perl-Proc-Simple</summary>
 
 ```
 Из репозитор : fedora
@@ -45477,7 +45476,7 @@ URL          : https://metacpan.org/release/Proc-Simple
 </details>
 
 <details>
-<summary>perl-Readonly</summary>
+<summary>Имя пакета: perl-Readonly</summary>
 
 ```
 Из репозитор : fedora
@@ -45500,7 +45499,7 @@ URL          : https://metacpan.org/release/Readonly
 </details>
 
 <details>
-<summary>perl-Redis</summary>
+<summary>Имя пакета: perl-Redis</summary>
 
 ```
 Из репозитор : fedora
@@ -45513,7 +45512,7 @@ URL          : https://metacpan.org/release/Redis
 </details>
 
 <details>
-<summary>perl-Ref-Util</summary>
+<summary>Имя пакета: perl-Ref-Util</summary>
 
 ```
 Из репозитор : fedora
@@ -45527,7 +45526,7 @@ URL          : https://metacpan.org/release/Ref-Util
 </details>
 
 <details>
-<summary>perl-Ref-Util-XS</summary>
+<summary>Имя пакета: perl-Ref-Util-XS</summary>
 
 ```
 Из репозитор : fedora
@@ -45541,7 +45540,7 @@ URL          : https://metacpan.org/release/Ref-Util-XS
 </details>
 
 <details>
-<summary>perl-Regexp-Common</summary>
+<summary>Имя пакета: perl-Regexp-Common</summary>
 
 ```
 Из репозитор : fedora
@@ -45554,7 +45553,7 @@ URL          : https://metacpan.org/release/Regexp-Common
 </details>
 
 <details>
-<summary>perl-Role-Tiny</summary>
+<summary>Имя пакета: perl-Role-Tiny</summary>
 
 ```
 Из репозитор : fedora
@@ -45567,7 +45566,7 @@ URL          : https://metacpan.org/release/Role-Tiny
 </details>
 
 <details>
-<summary>perl-SNMP_Session</summary>
+<summary>Имя пакета: perl-SNMP_Session</summary>
 
 ```
 Из репозитор : fedora
@@ -45583,7 +45582,7 @@ URL          : http://code.google.com/p/snmp-session/
 </details>
 
 <details>
-<summary>perl-SQL-Abstract</summary>
+<summary>Имя пакета: perl-SQL-Abstract</summary>
 
 ```
 Из репозитор : fedora
@@ -45596,7 +45595,7 @@ URL          : https://metacpan.org/release/SQL-Abstract
 </details>
 
 <details>
-<summary>perl-SQL-Abstract-Classic</summary>
+<summary>Имя пакета: perl-SQL-Abstract-Classic</summary>
 
 ```
 Из репозитор : fedora
@@ -45612,7 +45611,7 @@ URL          : https://metacpan.org/release/SQL-Abstract-Classic/
 </details>
 
 <details>
-<summary>perl-SQL-Interp</summary>
+<summary>Имя пакета: perl-SQL-Interp</summary>
 
 ```
 Из репозитор : fedora
@@ -45629,7 +45628,7 @@ URL          : https://metacpan.org/release/SQL-Interp
 </details>
 
 <details>
-<summary>perl-SQL-Translator</summary>
+<summary>Имя пакета: perl-SQL-Translator</summary>
 
 ```
 Из репозитор : fedora
@@ -45652,7 +45651,7 @@ URL          : https://metacpan.org/release/SQL-Translator
 </details>
 
 <details>
-<summary>perl-Safe</summary>
+<summary>Имя пакета: perl-Safe</summary>
 
 ```
 Из репозитор : updates-testing
@@ -45667,7 +45666,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Safe-Isa</summary>
+<summary>Имя пакета: perl-Safe-Isa</summary>
 
 ```
 Из репозитор : fedora
@@ -45681,7 +45680,7 @@ URL          : https://metacpan.org/release/Safe-Isa
 </details>
 
 <details>
-<summary>perl-Scalar-List-Utils</summary>
+<summary>Имя пакета: perl-Scalar-List-Utils</summary>
 
 ```
 Эпоха        : 4
@@ -45698,7 +45697,7 @@ URL          : https://metacpan.org/release/Scalar-List-Utils
 </details>
 
 <details>
-<summary>perl-Scalar-List-Utils</summary>
+<summary>Имя пакета: perl-Scalar-List-Utils</summary>
 
 ```
 Эпоха        : 4
@@ -45715,7 +45714,7 @@ URL          : https://metacpan.org/release/Scalar-List-Utils
 </details>
 
 <details>
-<summary>perl-Scope-Guard</summary>
+<summary>Имя пакета: perl-Scope-Guard</summary>
 
 ```
 Из репозитор : fedora
@@ -45734,7 +45733,7 @@ URL          : https://metacpan.org/release/Scope-Guard
 </details>
 
 <details>
-<summary>perl-Search-Dict</summary>
+<summary>Имя пакета: perl-Search-Dict</summary>
 
 ```
 Из репозитор : updates-testing
@@ -45748,7 +45747,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-SelectSaver</summary>
+<summary>Имя пакета: perl-SelectSaver</summary>
 
 ```
 Из репозитор : anaconda
@@ -45763,7 +45762,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-SelectSaver</summary>
+<summary>Имя пакета: perl-SelectSaver</summary>
 
 ```
 Из репозитор : updates-testing
@@ -45778,7 +45777,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-SelfLoader</summary>
+<summary>Имя пакета: perl-SelfLoader</summary>
 
 ```
 Из репозитор : updates-testing
@@ -45793,7 +45792,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Set-Object</summary>
+<summary>Имя пакета: perl-Set-Object</summary>
 
 ```
 Из репозитор : fedora
@@ -45810,7 +45809,7 @@ URL          : https://metacpan.org/release/Set-Object
 </details>
 
 <details>
-<summary>perl-Socket</summary>
+<summary>Имя пакета: perl-Socket</summary>
 
 ```
 Эпоха        : 4
@@ -45829,7 +45828,7 @@ URL          : https://metacpan.org/release/Socket
 </details>
 
 <details>
-<summary>perl-Socket6</summary>
+<summary>Имя пакета: perl-Socket6</summary>
 
 ```
 Из репозитор : fedora
@@ -45844,7 +45843,7 @@ URL          : https://metacpan.org/release/Socket6
 </details>
 
 <details>
-<summary>perl-Software-License</summary>
+<summary>Имя пакета: perl-Software-License</summary>
 
 ```
 Из репозитор : fedora
@@ -45857,7 +45856,7 @@ URL          : https://metacpan.org/release/Software-License
 </details>
 
 <details>
-<summary>perl-Sort-Key</summary>
+<summary>Имя пакета: perl-Sort-Key</summary>
 
 ```
 Из репозитор : fedora
@@ -45871,7 +45870,7 @@ URL          : https://metacpan.org/release/Sort-Key
 </details>
 
 <details>
-<summary>perl-Sort-Naturally</summary>
+<summary>Имя пакета: perl-Sort-Naturally</summary>
 
 ```
 Из репозитор : fedora
@@ -45887,7 +45886,7 @@ URL          : https://metacpan.org/release/Sort-Naturally
 </details>
 
 <details>
-<summary>perl-Specio</summary>
+<summary>Имя пакета: perl-Specio</summary>
 
 ```
 Из репозитор : fedora
@@ -45909,7 +45908,7 @@ URL          : https://metacpan.org/release/Specio
 </details>
 
 <details>
-<summary>perl-Spreadsheet-ParseExcel</summary>
+<summary>Имя пакета: perl-Spreadsheet-ParseExcel</summary>
 
 ```
 Из репозитор : fedora
@@ -45923,7 +45922,7 @@ URL          : https://metacpan.org/release/Spreadsheet-ParseExcel
 </details>
 
 <details>
-<summary>perl-Spreadsheet-WriteExcel</summary>
+<summary>Имя пакета: perl-Spreadsheet-WriteExcel</summary>
 
 ```
 Из репозитор : fedora
@@ -45948,7 +45947,7 @@ URL          : https://metacpan.org/release/Spreadsheet-WriteExcel
 </details>
 
 <details>
-<summary>perl-Storable</summary>
+<summary>Имя пакета: perl-Storable</summary>
 
 ```
 Эпоха        : 1
@@ -45964,7 +45963,7 @@ URL          : https://metacpan.org/release/Storable
 </details>
 
 <details>
-<summary>perl-String-RewritePrefix</summary>
+<summary>Имя пакета: perl-String-RewritePrefix</summary>
 
 ```
 Из репозитор : fedora
@@ -45977,7 +45976,7 @@ URL          : https://metacpan.org/release/String-RewritePrefix
 </details>
 
 <details>
-<summary>perl-String-Truncate</summary>
+<summary>Имя пакета: perl-String-Truncate</summary>
 
 ```
 Из репозитор : fedora
@@ -45991,7 +45990,7 @@ URL          : https://metacpan.org/release/String-Truncate
 </details>
 
 <details>
-<summary>perl-Sub-Exporter</summary>
+<summary>Имя пакета: perl-Sub-Exporter</summary>
 
 ```
 Из репозитор : fedora
@@ -46008,7 +46007,7 @@ URL          : https://metacpan.org/release/Sub-Exporter
 </details>
 
 <details>
-<summary>perl-Sub-Exporter-ForMethods</summary>
+<summary>Имя пакета: perl-Sub-Exporter-ForMethods</summary>
 
 ```
 Из репозитор : fedora
@@ -46022,7 +46021,7 @@ URL          : https://metacpan.org/release/Sub-Exporter-ForMethods
 </details>
 
 <details>
-<summary>perl-Sub-Exporter-Progressive</summary>
+<summary>Имя пакета: perl-Sub-Exporter-Progressive</summary>
 
 ```
 Из репозитор : fedora
@@ -46045,7 +46044,7 @@ URL          : https://metacpan.org/release/Sub-Exporter-Progressive
 </details>
 
 <details>
-<summary>perl-Sub-Identify</summary>
+<summary>Имя пакета: perl-Sub-Identify</summary>
 
 ```
 Из репозитор : fedora
@@ -46059,7 +46058,7 @@ URL          : https://metacpan.org/release/Sub-Identify
 </details>
 
 <details>
-<summary>perl-Sub-Install</summary>
+<summary>Имя пакета: perl-Sub-Install</summary>
 
 ```
 Из репозитор : fedora
@@ -46074,7 +46073,7 @@ URL          : https://metacpan.org/release/Sub-Install
 </details>
 
 <details>
-<summary>perl-Sub-Name</summary>
+<summary>Имя пакета: perl-Sub-Name</summary>
 
 ```
 Из репозитор : fedora
@@ -46091,7 +46090,7 @@ URL          : https://metacpan.org/release/Sub-Name
 </details>
 
 <details>
-<summary>perl-Sub-Quote</summary>
+<summary>Имя пакета: perl-Sub-Quote</summary>
 
 ```
 Из репозитор : fedora
@@ -46104,7 +46103,7 @@ URL          : https://metacpan.org/release/Sub-Quote
 </details>
 
 <details>
-<summary>perl-Switch</summary>
+<summary>Имя пакета: perl-Switch</summary>
 
 ```
 Из репозитор : fedora
@@ -46122,7 +46121,7 @@ URL          : https://metacpan.org/release/Switch
 </details>
 
 <details>
-<summary>perl-Symbol</summary>
+<summary>Имя пакета: perl-Symbol</summary>
 
 ```
 Из репозитор : anaconda
@@ -46135,7 +46134,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Symbol</summary>
+<summary>Имя пакета: perl-Symbol</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46148,7 +46147,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Sys-CPU</summary>
+<summary>Имя пакета: perl-Sys-CPU</summary>
 
 ```
 Из репозитор : fedora
@@ -46162,7 +46161,7 @@ URL          : https://metacpan.org/release/Sys-CPU
 </details>
 
 <details>
-<summary>perl-Sys-Hostname</summary>
+<summary>Имя пакета: perl-Sys-Hostname</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46176,7 +46175,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Sys-MemInfo</summary>
+<summary>Имя пакета: perl-Sys-MemInfo</summary>
 
 ```
 Из репозитор : fedora
@@ -46190,7 +46189,7 @@ URL          : https://metacpan.org/release/Sys-MemInfo
 </details>
 
 <details>
-<summary>perl-Sys-Syslog</summary>
+<summary>Имя пакета: perl-Sys-Syslog</summary>
 
 ```
 Из репозитор : fedora
@@ -46204,7 +46203,7 @@ URL          : https://metacpan.org/release/Sys-Syslog
 </details>
 
 <details>
-<summary>perl-System-Command</summary>
+<summary>Имя пакета: perl-System-Command</summary>
 
 ```
 Из репозитор : fedora
@@ -46219,7 +46218,7 @@ URL          : https://metacpan.org/release/System-Command
 </details>
 
 <details>
-<summary>perl-Task-Weaken</summary>
+<summary>Имя пакета: perl-Task-Weaken</summary>
 
 ```
 Из репозитор : fedora
@@ -46237,7 +46236,7 @@ URL          : https://metacpan.org/release/Task-Weaken
 </details>
 
 <details>
-<summary>perl-TeX-Hyphen</summary>
+<summary>Имя пакета: perl-TeX-Hyphen</summary>
 
 ```
 Из репозитор : fedora
@@ -46250,7 +46249,7 @@ URL          : http://www.adelton.com/perl/TeX-Hyphen/
 </details>
 
 <details>
-<summary>perl-Template-Toolkit</summary>
+<summary>Имя пакета: perl-Template-Toolkit</summary>
 
 ```
 Из репозитор : fedora
@@ -46268,7 +46267,7 @@ URL          : http://www.template-toolkit.org/
 </details>
 
 <details>
-<summary>perl-Term-ANSIColor</summary>
+<summary>Имя пакета: perl-Term-ANSIColor</summary>
 
 ```
 Из репозитор : anaconda
@@ -46284,7 +46283,7 @@ URL          : https://metacpan.org/release/Term-ANSIColor
 </details>
 
 <details>
-<summary>perl-Term-Cap</summary>
+<summary>Имя пакета: perl-Term-Cap</summary>
 
 ```
 Из репозитор : anaconda
@@ -46298,7 +46297,7 @@ URL          : https://metacpan.org/release/Term-Cap
 </details>
 
 <details>
-<summary>perl-Term-Complete</summary>
+<summary>Имя пакета: perl-Term-Complete</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46311,7 +46310,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Term-ReadLine</summary>
+<summary>Имя пакета: perl-Term-ReadLine</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46326,7 +46325,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Term-Size-Any</summary>
+<summary>Имя пакета: perl-Term-Size-Any</summary>
 
 ```
 Из репозитор : fedora
@@ -46342,7 +46341,7 @@ URL          : https://metacpan.org/release/Term-Size-Any
 </details>
 
 <details>
-<summary>perl-Term-Size-Perl</summary>
+<summary>Имя пакета: perl-Term-Size-Perl</summary>
 
 ```
 Из репозитор : fedora
@@ -46356,7 +46355,7 @@ URL          : https://metacpan.org/release/Term-Size-Perl
 </details>
 
 <details>
-<summary>perl-Term-Table</summary>
+<summary>Имя пакета: perl-Term-Table</summary>
 
 ```
 Из репозитор : fedora
@@ -46369,7 +46368,7 @@ URL          : https://metacpan.org/release/Term-Table
 </details>
 
 <details>
-<summary>perl-Term-UI</summary>
+<summary>Имя пакета: perl-Term-UI</summary>
 
 ```
 Из репозитор : fedora
@@ -46384,7 +46383,7 @@ URL          : https://metacpan.org/release/Term-UI
 </details>
 
 <details>
-<summary>perl-TermReadKey</summary>
+<summary>Имя пакета: perl-TermReadKey</summary>
 
 ```
 Из репозитор : anaconda
@@ -46403,7 +46402,7 @@ URL          : https://metacpan.org/release/TermReadKey
 </details>
 
 <details>
-<summary>perl-Test</summary>
+<summary>Имя пакета: perl-Test</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46417,7 +46416,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Test-Deep</summary>
+<summary>Имя пакета: perl-Test-Deep</summary>
 
 ```
 Из репозитор : fedora
@@ -46435,7 +46434,7 @@ URL          : https://metacpan.org/release/Test-Deep
 </details>
 
 <details>
-<summary>perl-Test-Harness</summary>
+<summary>Имя пакета: perl-Test-Harness</summary>
 
 ```
 Эпоха        : 1
@@ -46455,7 +46454,7 @@ URL          : https://metacpan.org/release/Test-Harness
 </details>
 
 <details>
-<summary>perl-Test-Simple</summary>
+<summary>Имя пакета: perl-Test-Simple</summary>
 
 ```
 Эпоха        : 3
@@ -46472,7 +46471,7 @@ URL          : https://metacpan.org/release/Test-Simple
 </details>
 
 <details>
-<summary>perl-Text-Abbrev</summary>
+<summary>Имя пакета: perl-Text-Abbrev</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46486,7 +46485,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Text-Aligner</summary>
+<summary>Имя пакета: perl-Text-Aligner</summary>
 
 ```
 Из репозитор : fedora
@@ -46502,7 +46501,7 @@ URL          : https://metacpan.org/release/Text-Aligner
 </details>
 
 <details>
-<summary>perl-Text-Autoformat</summary>
+<summary>Имя пакета: perl-Text-Autoformat</summary>
 
 ```
 Из репозитор : fedora
@@ -46523,7 +46522,7 @@ URL          : https://metacpan.org/release/Text-Autoformat
 </details>
 
 <details>
-<summary>perl-Text-Balanced</summary>
+<summary>Имя пакета: perl-Text-Balanced</summary>
 
 ```
 Из репозитор : fedora
@@ -46537,7 +46536,7 @@ URL          : https://metacpan.org/release/Text-Balanced
 </details>
 
 <details>
-<summary>perl-Text-BibTeX</summary>
+<summary>Имя пакета: perl-Text-BibTeX</summary>
 
 ```
 Из репозитор : fedora
@@ -46552,7 +46551,7 @@ URL          : https://metacpan.org/release/Text-BibTeX
 </details>
 
 <details>
-<summary>perl-Text-CSV</summary>
+<summary>Имя пакета: perl-Text-CSV</summary>
 
 ```
 Из репозитор : fedora
@@ -46571,7 +46570,7 @@ URL          : https://metacpan.org/release/Text-CSV
 </details>
 
 <details>
-<summary>perl-Text-CSV_XS</summary>
+<summary>Имя пакета: perl-Text-CSV_XS</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46586,7 +46585,7 @@ URL          : https://metacpan.org/release/Text-CSV_XS
 </details>
 
 <details>
-<summary>perl-Text-Diff</summary>
+<summary>Имя пакета: perl-Text-Diff</summary>
 
 ```
 Из репозитор : fedora
@@ -46603,7 +46602,7 @@ URL          : https://metacpan.org/release/Text-Diff
 </details>
 
 <details>
-<summary>perl-Text-Glob</summary>
+<summary>Имя пакета: perl-Text-Glob</summary>
 
 ```
 Из репозитор : fedora
@@ -46618,7 +46617,7 @@ URL          : https://metacpan.org/release/Text-Glob
 </details>
 
 <details>
-<summary>perl-Text-ParseWords</summary>
+<summary>Имя пакета: perl-Text-ParseWords</summary>
 
 ```
 Из репозитор : anaconda
@@ -46638,7 +46637,7 @@ URL          : https://metacpan.org/release/Text-ParseWords
 </details>
 
 <details>
-<summary>perl-Text-RecordParser</summary>
+<summary>Имя пакета: perl-Text-RecordParser</summary>
 
 ```
 Из репозитор : fedora
@@ -46659,7 +46658,7 @@ URL          : https://metacpan.org/release/Text-RecordParser
 </details>
 
 <details>
-<summary>perl-Text-Reform</summary>
+<summary>Имя пакета: perl-Text-Reform</summary>
 
 ```
 Из репозитор : fedora
@@ -46673,7 +46672,7 @@ URL          : https://metacpan.org/release/Text-Reform
 </details>
 
 <details>
-<summary>perl-Text-Roman</summary>
+<summary>Имя пакета: perl-Text-Roman</summary>
 
 ```
 Из репозитор : fedora
@@ -46688,7 +46687,7 @@ URL          : https://metacpan.org/release/Text-Roman
 </details>
 
 <details>
-<summary>perl-Text-Soundex</summary>
+<summary>Имя пакета: perl-Text-Soundex</summary>
 
 ```
 Из репозитор : fedora
@@ -46704,7 +46703,7 @@ URL          : https://metacpan.org/release/Text-Soundex
 </details>
 
 <details>
-<summary>perl-Text-Table</summary>
+<summary>Имя пакета: perl-Text-Table</summary>
 
 ```
 Из репозитор : fedora
@@ -46723,7 +46722,7 @@ URL          : https://metacpan.org/release/Text-Table
 </details>
 
 <details>
-<summary>perl-Text-Tabs+Wrap</summary>
+<summary>Имя пакета: perl-Text-Tabs+Wrap</summary>
 
 ```
 Из репозитор : anaconda
@@ -46740,7 +46739,7 @@ URL          : https://metacpan.org/release/Text-Tabs%2BWrap
 </details>
 
 <details>
-<summary>perl-Text-TabularDisplay</summary>
+<summary>Имя пакета: perl-Text-TabularDisplay</summary>
 
 ```
 Из репозитор : fedora
@@ -46755,7 +46754,7 @@ URL          : https://metacpan.org/release/Text-TabularDisplay
 </details>
 
 <details>
-<summary>perl-Text-Template</summary>
+<summary>Имя пакета: perl-Text-Template</summary>
 
 ```
 Из репозитор : fedora
@@ -46772,7 +46771,7 @@ URL          : https://metacpan.org/release/Text-Template
 </details>
 
 <details>
-<summary>perl-Text-Unidecode</summary>
+<summary>Имя пакета: perl-Text-Unidecode</summary>
 
 ```
 Из репозитор : fedora
@@ -46791,7 +46790,7 @@ URL          : https://metacpan.org/release/Text-Unidecode
 </details>
 
 <details>
-<summary>perl-Text-WagnerFischer</summary>
+<summary>Имя пакета: perl-Text-WagnerFischer</summary>
 
 ```
 Из репозитор : fedora
@@ -46808,7 +46807,7 @@ URL          : https://metacpan.org/release/Text-WagnerFischer
 </details>
 
 <details>
-<summary>perl-Thread</summary>
+<summary>Имя пакета: perl-Thread</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46831,7 +46830,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Thread-Queue</summary>
+<summary>Имя пакета: perl-Thread-Queue</summary>
 
 ```
 Из репозитор : fedora
@@ -46845,7 +46844,7 @@ URL          : https://metacpan.org/release/Thread-Queue
 </details>
 
 <details>
-<summary>perl-Thread-Semaphore</summary>
+<summary>Имя пакета: perl-Thread-Semaphore</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46864,7 +46863,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Tie</summary>
+<summary>Имя пакета: perl-Tie</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46878,7 +46877,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Tie-Cycle</summary>
+<summary>Имя пакета: perl-Tie-Cycle</summary>
 
 ```
 Из репозитор : fedora
@@ -46894,7 +46893,7 @@ URL          : https://metacpan.org/release/Tie-Cycle
 </details>
 
 <details>
-<summary>perl-Tie-File</summary>
+<summary>Имя пакета: perl-Tie-File</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46911,7 +46910,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Tie-Memoize</summary>
+<summary>Имя пакета: perl-Tie-Memoize</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46925,7 +46924,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Tie-RefHash</summary>
+<summary>Имя пакета: perl-Tie-RefHash</summary>
 
 ```
 Из репозитор : fedora
@@ -46942,7 +46941,7 @@ URL          : https://metacpan.org/release/Tie-RefHash
 </details>
 
 <details>
-<summary>perl-Time</summary>
+<summary>Имя пакета: perl-Time</summary>
 
 ```
 Из репозитор : updates-testing
@@ -46956,7 +46955,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Time-HiRes</summary>
+<summary>Имя пакета: perl-Time-HiRes</summary>
 
 ```
 Эпоха        : 4
@@ -46972,7 +46971,7 @@ URL          : https://metacpan.org/release/Time-HiRes
 </details>
 
 <details>
-<summary>perl-Time-Local</summary>
+<summary>Имя пакета: perl-Time-Local</summary>
 
 ```
 Эпоха        : 2
@@ -46991,7 +46990,7 @@ URL          : https://metacpan.org/release/Time-Local
 </details>
 
 <details>
-<summary>perl-Time-Piece</summary>
+<summary>Имя пакета: perl-Time-Piece</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47007,7 +47006,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-TimeDate</summary>
+<summary>Имя пакета: perl-TimeDate</summary>
 
 ```
 Эпоха        : 1
@@ -47025,7 +47024,7 @@ URL          : https://metacpan.org/release/TimeDate
 </details>
 
 <details>
-<summary>perl-Try-Tiny</summary>
+<summary>Имя пакета: perl-Try-Tiny</summary>
 
 ```
 Из репозитор : fedora
@@ -47046,7 +47045,7 @@ URL          : https://metacpan.org/release/Try-Tiny
 </details>
 
 <details>
-<summary>perl-Type-Tiny</summary>
+<summary>Имя пакета: perl-Type-Tiny</summary>
 
 ```
 Из репозитор : fedora
@@ -47060,7 +47059,7 @@ URL          : https://metacpan.org/release/Type-Tiny
 </details>
 
 <details>
-<summary>perl-Types-Serialiser</summary>
+<summary>Имя пакета: perl-Types-Serialiser</summary>
 
 ```
 Из репозитор : fedora
@@ -47076,7 +47075,7 @@ URL          : https://metacpan.org/release/Types-Serialiser
 </details>
 
 <details>
-<summary>perl-UNIVERSAL-isa</summary>
+<summary>Имя пакета: perl-UNIVERSAL-isa</summary>
 
 ```
 Из репозитор : fedora
@@ -47098,7 +47097,7 @@ URL          : https://metacpan.org/release/UNIVERSAL-isa
 </details>
 
 <details>
-<summary>perl-URI</summary>
+<summary>Имя пакета: perl-URI</summary>
 
 ```
 Из репозитор : anaconda
@@ -47113,7 +47112,7 @@ URL          : https://metacpan.org/release/URI
 </details>
 
 <details>
-<summary>perl-URI</summary>
+<summary>Имя пакета: perl-URI</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47128,7 +47127,7 @@ URL          : https://metacpan.org/release/URI
 </details>
 
 <details>
-<summary>perl-Unicode-Collate</summary>
+<summary>Имя пакета: perl-Unicode-Collate</summary>
 
 ```
 Из репозитор : fedora
@@ -47142,7 +47141,7 @@ URL          : https://metacpan.org/release/Unicode-Collate
 </details>
 
 <details>
-<summary>perl-Unicode-EastAsianWidth</summary>
+<summary>Имя пакета: perl-Unicode-EastAsianWidth</summary>
 
 ```
 Из репозитор : fedora
@@ -47157,7 +47156,7 @@ URL          : https://metacpan.org/release/Unicode-EastAsianWidth
 </details>
 
 <details>
-<summary>perl-Unicode-LineBreak</summary>
+<summary>Имя пакета: perl-Unicode-LineBreak</summary>
 
 ```
 Из репозитор : fedora
@@ -47173,7 +47172,7 @@ URL          : https://metacpan.org/release/Unicode-LineBreak
 </details>
 
 <details>
-<summary>perl-Unicode-Map</summary>
+<summary>Имя пакета: perl-Unicode-Map</summary>
 
 ```
 Из репозитор : fedora
@@ -47193,7 +47192,7 @@ URL          : https://metacpan.org/release/Unicode-Map
 </details>
 
 <details>
-<summary>perl-Unicode-Normalize</summary>
+<summary>Имя пакета: perl-Unicode-Normalize</summary>
 
 ```
 Из репозитор : fedora
@@ -47207,7 +47206,7 @@ URL          : https://metacpan.org/release/Unicode-Normalize
 </details>
 
 <details>
-<summary>perl-Unicode-UCD</summary>
+<summary>Имя пакета: perl-Unicode-UCD</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47221,7 +47220,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Unicode-UTF8</summary>
+<summary>Имя пакета: perl-Unicode-UTF8</summary>
 
 ```
 Из репозитор : fedora
@@ -47235,7 +47234,7 @@ URL          : https://metacpan.org/release/Unicode-UTF8
 </details>
 
 <details>
-<summary>perl-User-pwent</summary>
+<summary>Имя пакета: perl-User-pwent</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47249,7 +47248,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-Variable-Magic</summary>
+<summary>Имя пакета: perl-Variable-Magic</summary>
 
 ```
 Из репозитор : fedora
@@ -47265,7 +47264,7 @@ URL          : https://metacpan.org/release/Variable-Magic
 </details>
 
 <details>
-<summary>perl-WWW-Mechanize</summary>
+<summary>Имя пакета: perl-WWW-Mechanize</summary>
 
 ```
 Из репозитор : fedora
@@ -47284,7 +47283,7 @@ URL          : https://metacpan.org/release/WWW-Mechanize
 </details>
 
 <details>
-<summary>perl-WWW-RobotRules</summary>
+<summary>Имя пакета: perl-WWW-RobotRules</summary>
 
 ```
 Из репозитор : fedora
@@ -47300,7 +47299,7 @@ URL          : https://metacpan.org/release/WWW-RobotRules
 </details>
 
 <details>
-<summary>perl-WebService-Dropbox</summary>
+<summary>Имя пакета: perl-WebService-Dropbox</summary>
 
 ```
 Из репозитор : fedora
@@ -47317,7 +47316,7 @@ URL          : https://metacpan.org/release/WebService-Dropbox
 </details>
 
 <details>
-<summary>perl-X11-Protocol</summary>
+<summary>Имя пакета: perl-X11-Protocol</summary>
 
 ```
 Из репозитор : fedora
@@ -47339,7 +47338,7 @@ URL          : https://metacpan.org/release/X11-Protocol
 </details>
 
 <details>
-<summary>perl-X11-Protocol-Other</summary>
+<summary>Имя пакета: perl-X11-Protocol-Other</summary>
 
 ```
 Из репозитор : fedora
@@ -47352,7 +47351,7 @@ URL          : https://metacpan.org/release/X11-Protocol-Other
 </details>
 
 <details>
-<summary>perl-XML-Dumper</summary>
+<summary>Имя пакета: perl-XML-Dumper</summary>
 
 ```
 Из репозитор : fedora
@@ -47371,7 +47370,7 @@ URL          : https://metacpan.org/release/XML-Dumper
 </details>
 
 <details>
-<summary>perl-XML-LibXML</summary>
+<summary>Имя пакета: perl-XML-LibXML</summary>
 
 ```
 Эпоха        : 1
@@ -47388,7 +47387,7 @@ URL          : https://metacpan.org/release/XML-LibXML
 </details>
 
 <details>
-<summary>perl-XML-LibXML-Simple</summary>
+<summary>Имя пакета: perl-XML-LibXML-Simple</summary>
 
 ```
 Из репозитор : fedora
@@ -47403,7 +47402,7 @@ URL          : https://metacpan.org/release/XML-LibXML-Simple
 </details>
 
 <details>
-<summary>perl-XML-LibXSLT</summary>
+<summary>Имя пакета: perl-XML-LibXSLT</summary>
 
 ```
 Из репозитор : fedora
@@ -47417,7 +47416,7 @@ URL          : https://metacpan.org/release/XML-LibXSLT
 </details>
 
 <details>
-<summary>perl-XML-NamespaceSupport</summary>
+<summary>Имя пакета: perl-XML-NamespaceSupport</summary>
 
 ```
 Из репозитор : fedora
@@ -47432,7 +47431,7 @@ URL          : https://metacpan.org/release/XML-NamespaceSupport
 </details>
 
 <details>
-<summary>perl-XML-Parser</summary>
+<summary>Имя пакета: perl-XML-Parser</summary>
 
 ```
 Из репозитор : fedora
@@ -47453,7 +47452,7 @@ URL          : https://metacpan.org/release/XML-Parser
 </details>
 
 <details>
-<summary>perl-XML-SAX</summary>
+<summary>Имя пакета: perl-XML-SAX</summary>
 
 ```
 Из репозитор : fedora
@@ -47471,7 +47470,7 @@ URL          : https://metacpan.org/release/XML-SAX
 </details>
 
 <details>
-<summary>perl-XML-SAX-Base</summary>
+<summary>Имя пакета: perl-XML-SAX-Base</summary>
 
 ```
 Из репозитор : fedora
@@ -47487,7 +47486,7 @@ URL          : https://metacpan.org/release/XML-SAX-Base
 </details>
 
 <details>
-<summary>perl-XML-Simple</summary>
+<summary>Имя пакета: perl-XML-Simple</summary>
 
 ```
 Из репозитор : fedora
@@ -47502,7 +47501,7 @@ URL          : https://metacpan.org/release/XML-Simple
 </details>
 
 <details>
-<summary>perl-XML-Twig</summary>
+<summary>Имя пакета: perl-XML-Twig</summary>
 
 ```
 Из репозитор : fedora
@@ -47521,7 +47520,7 @@ URL          : https://metacpan.org/release/XML-Twig
 </details>
 
 <details>
-<summary>perl-XML-Writer</summary>
+<summary>Имя пакета: perl-XML-Writer</summary>
 
 ```
 Из репозитор : fedora
@@ -47539,7 +47538,7 @@ URL          : https://metacpan.org/release/XML-Writer
 </details>
 
 <details>
-<summary>perl-XML-XPath</summary>
+<summary>Имя пакета: perl-XML-XPath</summary>
 
 ```
 Из репозитор : fedora
@@ -47555,7 +47554,7 @@ URL          : https://metacpan.org/release/XML-XPath
 </details>
 
 <details>
-<summary>perl-XString</summary>
+<summary>Имя пакета: perl-XString</summary>
 
 ```
 Из репозитор : fedora
@@ -47569,7 +47568,7 @@ URL          : https://metacpan.org/release/XString
 </details>
 
 <details>
-<summary>perl-YAML</summary>
+<summary>Имя пакета: perl-YAML</summary>
 
 ```
 Из репозитор : fedora
@@ -47586,7 +47585,7 @@ URL          : https://metacpan.org/release/YAML
 </details>
 
 <details>
-<summary>perl-YAML-LibYAML</summary>
+<summary>Имя пакета: perl-YAML-LibYAML</summary>
 
 ```
 Эпоха        : 1
@@ -47602,7 +47601,7 @@ URL          : https://metacpan.org/release/YAML-LibYAML
 </details>
 
 <details>
-<summary>perl-autodie</summary>
+<summary>Имя пакета: perl-autodie</summary>
 
 ```
 Из репозитор : fedora
@@ -47620,7 +47619,7 @@ URL          : https://metacpan.org/release/autodie
 </details>
 
 <details>
-<summary>perl-autouse</summary>
+<summary>Имя пакета: perl-autouse</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47635,7 +47634,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-autovivification</summary>
+<summary>Имя пакета: perl-autovivification</summary>
 
 ```
 Из репозитор : fedora
@@ -47655,7 +47654,7 @@ URL          : https://metacpan.org/release/autovivification
 </details>
 
 <details>
-<summary>perl-base</summary>
+<summary>Имя пакета: perl-base</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47671,7 +47670,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-bignum</summary>
+<summary>Имя пакета: perl-bignum</summary>
 
 ```
 Из репозитор : fedora
@@ -47685,7 +47684,7 @@ URL          : https://metacpan.org/release/bignum
 </details>
 
 <details>
-<summary>perl-blib</summary>
+<summary>Имя пакета: perl-blib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47701,7 +47700,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-common-sense</summary>
+<summary>Имя пакета: perl-common-sense</summary>
 
 ```
 Из репозитор : fedora
@@ -47730,7 +47729,7 @@ URL          : https://metacpan.org/release/common-sense
 </details>
 
 <details>
-<summary>perl-constant</summary>
+<summary>Имя пакета: perl-constant</summary>
 
 ```
 Из репозитор : anaconda
@@ -47757,7 +47756,7 @@ URL          : https://metacpan.org/release/constant
 </details>
 
 <details>
-<summary>perl-debugger</summary>
+<summary>Имя пакета: perl-debugger</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47772,7 +47771,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-deprecate</summary>
+<summary>Имя пакета: perl-deprecate</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47790,7 +47789,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-devel</summary>
+<summary>Имя пакета: perl-devel</summary>
 
 ```
 Эпоха        : 4
@@ -47805,7 +47804,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-diagnostics</summary>
+<summary>Имя пакета: perl-diagnostics</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47822,7 +47821,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-doc</summary>
+<summary>Имя пакета: perl-doc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47836,7 +47835,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-encoding</summary>
+<summary>Имя пакета: perl-encoding</summary>
 
 ```
 Эпоха        : 4
@@ -47858,7 +47857,7 @@ URL          : https://metacpan.org/release/Encode
 </details>
 
 <details>
-<summary>perl-encoding-warnings</summary>
+<summary>Имя пакета: perl-encoding-warnings</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47874,7 +47873,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-experimental</summary>
+<summary>Имя пакета: perl-experimental</summary>
 
 ```
 Из репозитор : fedora
@@ -47888,7 +47887,7 @@ URL          : https://metacpan.org/release/experimental
 </details>
 
 <details>
-<summary>perl-fields</summary>
+<summary>Имя пакета: perl-fields</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47901,7 +47900,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-filetest</summary>
+<summary>Имя пакета: perl-filetest</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47919,7 +47918,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-if</summary>
+<summary>Имя пакета: perl-if</summary>
 
 ```
 Из репозитор : updates-testing
@@ -47932,7 +47931,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-inc-latest</summary>
+<summary>Имя пакета: perl-inc-latest</summary>
 
 ```
 Эпоха        : 2
@@ -47948,7 +47947,7 @@ URL          : https://metacpan.org/release/inc-latest
 </details>
 
 <details>
-<summary>perl-interpreter</summary>
+<summary>Имя пакета: perl-interpreter</summary>
 
 ```
 Эпоха        : 4
@@ -47984,7 +47983,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-interpreter</summary>
+<summary>Имя пакета: perl-interpreter</summary>
 
 ```
 Эпоха        : 4
@@ -48020,7 +48019,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-less</summary>
+<summary>Имя пакета: perl-less</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48035,7 +48034,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-lib</summary>
+<summary>Имя пакета: perl-lib</summary>
 
 ```
 Из репозитор : anaconda
@@ -48048,7 +48047,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-lib</summary>
+<summary>Имя пакета: perl-lib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48061,7 +48060,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-libintl-perl</summary>
+<summary>Имя пакета: perl-libintl-perl</summary>
 
 ```
 Из репозитор : fedora
@@ -48076,7 +48075,7 @@ URL          : https://metacpan.org/release/libintl-perl
 </details>
 
 <details>
-<summary>perl-libnet</summary>
+<summary>Имя пакета: perl-libnet</summary>
 
 ```
 Из репозитор : anaconda
@@ -48091,7 +48090,7 @@ URL          : https://metacpan.org/release/libnet
 </details>
 
 <details>
-<summary>perl-libnetcfg</summary>
+<summary>Имя пакета: perl-libnetcfg</summary>
 
 ```
 Эпоха        : 4
@@ -48105,7 +48104,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-libs</summary>
+<summary>Имя пакета: perl-libs</summary>
 
 ```
 Эпоха        : 4
@@ -48120,7 +48119,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-libs</summary>
+<summary>Имя пакета: perl-libs</summary>
 
 ```
 Эпоха        : 4
@@ -48135,7 +48134,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-libwww-perl</summary>
+<summary>Имя пакета: perl-libwww-perl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48152,7 +48151,7 @@ URL          : https://metacpan.org/release/libwww-perl
 </details>
 
 <details>
-<summary>perl-local-lib</summary>
+<summary>Имя пакета: perl-local-lib</summary>
 
 ```
 Из репозитор : fedora
@@ -48177,7 +48176,7 @@ URL          : https://metacpan.org/release/local-lib
 </details>
 
 <details>
-<summary>perl-locale</summary>
+<summary>Имя пакета: perl-locale</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48194,7 +48193,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-macros</summary>
+<summary>Имя пакета: perl-macros</summary>
 
 ```
 Эпоха        : 4
@@ -48208,7 +48207,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-meta-notation</summary>
+<summary>Имя пакета: perl-meta-notation</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48223,7 +48222,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-mro</summary>
+<summary>Имя пакета: perl-mro</summary>
 
 ```
 Из репозитор : anaconda
@@ -48237,7 +48236,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-mro</summary>
+<summary>Имя пакета: perl-mro</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48251,7 +48250,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-namespace-autoclean</summary>
+<summary>Имя пакета: perl-namespace-autoclean</summary>
 
 ```
 Из репозитор : fedora
@@ -48271,7 +48270,7 @@ URL          : https://metacpan.org/release/namespace-autoclean
 </details>
 
 <details>
-<summary>perl-namespace-clean</summary>
+<summary>Имя пакета: perl-namespace-clean</summary>
 
 ```
 Из репозитор : fedora
@@ -48293,7 +48292,7 @@ URL          : https://metacpan.org/release/namespace-clean
 </details>
 
 <details>
-<summary>perl-open</summary>
+<summary>Имя пакета: perl-open</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48307,7 +48306,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-overload</summary>
+<summary>Имя пакета: perl-overload</summary>
 
 ```
 Из репозитор : anaconda
@@ -48322,7 +48321,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-overload</summary>
+<summary>Имя пакета: perl-overload</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48337,7 +48336,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-overloading</summary>
+<summary>Имя пакета: perl-overloading</summary>
 
 ```
 Из репозитор : anaconda
@@ -48350,7 +48349,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-overloading</summary>
+<summary>Имя пакета: perl-overloading</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48363,7 +48362,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-parent</summary>
+<summary>Имя пакета: perl-parent</summary>
 
 ```
 Эпоха        : 1
@@ -48387,7 +48386,7 @@ URL          : https://metacpan.org/release/parent
 </details>
 
 <details>
-<summary>perl-perlfaq</summary>
+<summary>Имя пакета: perl-perlfaq</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48401,7 +48400,7 @@ URL          : https://metacpan.org/release/perlfaq
 </details>
 
 <details>
-<summary>perl-ph</summary>
+<summary>Имя пакета: perl-ph</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48417,7 +48416,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-podlators</summary>
+<summary>Имя пакета: perl-podlators</summary>
 
 ```
 Эпоха        : 1
@@ -48434,7 +48433,7 @@ URL          : https://metacpan.org/release/podlators
 </details>
 
 <details>
-<summary>perl-sigtrap</summary>
+<summary>Имя пакета: perl-sigtrap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48447,7 +48446,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-sort</summary>
+<summary>Имя пакета: perl-sort</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48461,7 +48460,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-srpm-macros</summary>
+<summary>Имя пакета: perl-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -48474,7 +48473,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-strictures</summary>
+<summary>Имя пакета: perl-strictures</summary>
 
 ```
 Из репозитор : fedora
@@ -48487,7 +48486,7 @@ URL          : https://metacpan.org/release/strictures
 </details>
 
 <details>
-<summary>perl-subs</summary>
+<summary>Имя пакета: perl-subs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48502,7 +48501,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-threads</summary>
+<summary>Имя пакета: perl-threads</summary>
 
 ```
 Эпоха        : 1
@@ -48522,7 +48521,7 @@ URL          : https://metacpan.org/release/threads
 </details>
 
 <details>
-<summary>perl-threads-shared</summary>
+<summary>Имя пакета: perl-threads-shared</summary>
 
 ```
 Из репозитор : fedora
@@ -48538,7 +48537,7 @@ URL          : https://metacpan.org/release/threads-shared
 </details>
 
 <details>
-<summary>perl-utils</summary>
+<summary>Имя пакета: perl-utils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48553,7 +48552,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-vars</summary>
+<summary>Имя пакета: perl-vars</summary>
 
 ```
 Из репозитор : anaconda
@@ -48573,7 +48572,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-vars</summary>
+<summary>Имя пакета: perl-vars</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48593,7 +48592,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perl-version</summary>
+<summary>Имя пакета: perl-version</summary>
 
 ```
 Эпоха        : 7
@@ -48612,7 +48611,7 @@ URL          : https://metacpan.org/release/version
 </details>
 
 <details>
-<summary>perl-vmsish</summary>
+<summary>Имя пакета: perl-vmsish</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48626,7 +48625,7 @@ URL          : https://www.perl.org/
 </details>
 
 <details>
-<summary>perltidy</summary>
+<summary>Имя пакета: perltidy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48647,7 +48646,7 @@ URL          : http://perltidy.sourceforge.net/
 </details>
 
 <details>
-<summary>pgplot</summary>
+<summary>Имя пакета: pgplot</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -48665,7 +48664,7 @@ URL          : http://www.astro.caltech.edu/~tjp/pgplot
 </details>
 
 <details>
-<summary>pgplot-devel</summary>
+<summary>Имя пакета: pgplot-devel</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -48679,7 +48678,7 @@ URL          : http://www.astro.caltech.edu/~tjp/pgplot
 </details>
 
 <details>
-<summary>php</summary>
+<summary>Имя пакета: php</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48697,7 +48696,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-JMSParser</summary>
+<summary>Имя пакета: php-JMSParser</summary>
 
 ```
 Из репозитор : fedora
@@ -48712,7 +48711,7 @@ URL          : http://jmsyst.com/libs/parser-lib
 </details>
 
 <details>
-<summary>php-Metadata</summary>
+<summary>Имя пакета: php-Metadata</summary>
 
 ```
 Из репозитор : fedora
@@ -48732,7 +48731,7 @@ URL          : https://github.com/schmittjoh/metadata
 </details>
 
 <details>
-<summary>php-Monolog</summary>
+<summary>Имя пакета: php-Monolog</summary>
 
 ```
 Из репозитор : fedora
@@ -48753,7 +48752,7 @@ URL          : https://github.com/Seldaek/monolog
 </details>
 
 <details>
-<summary>php-PHPParser</summary>
+<summary>Имя пакета: php-PHPParser</summary>
 
 ```
 Из репозитор : fedora
@@ -48775,7 +48774,7 @@ URL          : https://github.com/nikic/PHP-Parser
 </details>
 
 <details>
-<summary>php-PhpCollection</summary>
+<summary>Имя пакета: php-PhpCollection</summary>
 
 ```
 Из репозитор : fedora
@@ -48816,7 +48815,7 @@ URL          : http://jmsyst.com/libs/php-collection
 </details>
 
 <details>
-<summary>php-PhpOption</summary>
+<summary>Имя пакета: php-PhpOption</summary>
 
 ```
 Из репозитор : fedora
@@ -48849,7 +48848,7 @@ URL          : https://github.com/schmittjoh/php-option
 </details>
 
 <details>
-<summary>php-PsrLog</summary>
+<summary>Имя пакета: php-PsrLog</summary>
 
 ```
 Из репозитор : fedora
@@ -48867,7 +48866,7 @@ URL          : http://www.php-fig.org/psr/psr-3/
 </details>
 
 <details>
-<summary>php-cilex1</summary>
+<summary>Имя пакета: php-cilex1</summary>
 
 ```
 Из репозитор : fedora
@@ -48891,7 +48890,7 @@ URL          : http://cilex.github.io/
 </details>
 
 <details>
-<summary>php-cli</summary>
+<summary>Имя пакета: php-cli</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48905,7 +48904,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-common</summary>
+<summary>Имя пакета: php-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48919,7 +48918,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-composer-ca-bundle</summary>
+<summary>Имя пакета: php-composer-ca-bundle</summary>
 
 ```
 Из репозитор : fedora
@@ -48934,7 +48933,7 @@ URL          : https://github.com/composer/ca-bundle
 </details>
 
 <details>
-<summary>php-composer-semver3</summary>
+<summary>Имя пакета: php-composer-semver3</summary>
 
 ```
 Из репозитор : fedora
@@ -48953,7 +48952,7 @@ URL          : https://github.com/composer/semver
 </details>
 
 <details>
-<summary>php-composer-spdx-licenses</summary>
+<summary>Имя пакета: php-composer-spdx-licenses</summary>
 
 ```
 Из репозитор : fedora
@@ -48969,7 +48968,7 @@ URL          : https://github.com/composer/spdx-licenses
 </details>
 
 <details>
-<summary>php-composer-xdebug-handler</summary>
+<summary>Имя пакета: php-composer-xdebug-handler</summary>
 
 ```
 Из репозитор : updates-testing
@@ -48987,7 +48986,7 @@ URL          : https://github.com/composer/xdebug-handler
 </details>
 
 <details>
-<summary>php-container-interop</summary>
+<summary>Имя пакета: php-container-interop</summary>
 
 ```
 Из репозитор : fedora
@@ -49020,7 +49019,7 @@ URL          : https://github.com/container-interop/container-interop
 </details>
 
 <details>
-<summary>php-cs-fixer</summary>
+<summary>Имя пакета: php-cs-fixer</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49039,7 +49038,7 @@ URL          : https://github.com/FriendsOfPHP/PHP-CS-Fixer
 </details>
 
 <details>
-<summary>php-cs-fixer-phpunit-constraint-isidenticalstring</summary>
+<summary>Имя пакета: php-cs-fixer-phpunit-constraint-isidenticalstring</summary>
 
 ```
 Из репозитор : fedora
@@ -49054,7 +49053,7 @@ URL          : https://github.com/PHP-CS-Fixer/phpunit-constraint-isidenticalstr
 </details>
 
 <details>
-<summary>php-cs-fixer-phpunit-constraint-xmlmatchesxsd</summary>
+<summary>Имя пакета: php-cs-fixer-phpunit-constraint-xmlmatchesxsd</summary>
 
 ```
 Из репозитор : fedora
@@ -49069,7 +49068,7 @@ URL          : https://github.com/PHP-CS-Fixer/phpunit-constraint-xmlmatchesxsd
 </details>
 
 <details>
-<summary>php-devel</summary>
+<summary>Имя пакета: php-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49084,7 +49083,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-doctrine-annotations</summary>
+<summary>Имя пакета: php-doctrine-annotations</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49099,7 +49098,7 @@ URL          : https://github.com/doctrine/annotations
 </details>
 
 <details>
-<summary>php-doctrine-cache</summary>
+<summary>Имя пакета: php-doctrine-cache</summary>
 
 ```
 Из репозитор : fedora
@@ -49114,7 +49113,7 @@ URL          : https://github.com/doctrine/cache
 </details>
 
 <details>
-<summary>php-doctrine-collections</summary>
+<summary>Имя пакета: php-doctrine-collections</summary>
 
 ```
 Из репозитор : fedora
@@ -49129,7 +49128,7 @@ URL          : https://github.com/doctrine/collections
 </details>
 
 <details>
-<summary>php-doctrine-common</summary>
+<summary>Имя пакета: php-doctrine-common</summary>
 
 ```
 Эпоха        : 1
@@ -49146,7 +49145,7 @@ URL          : https://github.com/doctrine/common
 </details>
 
 <details>
-<summary>php-doctrine-event-manager</summary>
+<summary>Имя пакета: php-doctrine-event-manager</summary>
 
 ```
 Из репозитор : fedora
@@ -49162,7 +49161,7 @@ URL          : https://github.com/doctrine/event-manager
 </details>
 
 <details>
-<summary>php-doctrine-inflector</summary>
+<summary>Имя пакета: php-doctrine-inflector</summary>
 
 ```
 Из репозитор : fedora
@@ -49178,7 +49177,7 @@ URL          : https://github.com/doctrine/inflector
 </details>
 
 <details>
-<summary>php-doctrine-instantiator</summary>
+<summary>Имя пакета: php-doctrine-instantiator</summary>
 
 ```
 Из репозитор : fedora
@@ -49192,7 +49191,7 @@ URL          : https://github.com/doctrine/instantiator
 </details>
 
 <details>
-<summary>php-doctrine-lexer</summary>
+<summary>Имя пакета: php-doctrine-lexer</summary>
 
 ```
 Из репозитор : fedora
@@ -49210,7 +49209,7 @@ URL          : https://github.com/doctrine/lexer
 </details>
 
 <details>
-<summary>php-doctrine-persistence</summary>
+<summary>Имя пакета: php-doctrine-persistence</summary>
 
 ```
 Из репозитор : fedora
@@ -49226,7 +49225,7 @@ URL          : https://github.com/doctrine/persistence
 </details>
 
 <details>
-<summary>php-doctrine-reflection</summary>
+<summary>Имя пакета: php-doctrine-reflection</summary>
 
 ```
 Из репозитор : fedora
@@ -49244,7 +49243,7 @@ URL          : https://github.com/doctrine/reflection
 </details>
 
 <details>
-<summary>php-domxml-php4-php5</summary>
+<summary>Имя пакета: php-domxml-php4-php5</summary>
 
 ```
 Из репозитор : fedora
@@ -49257,7 +49256,7 @@ URL          : http://alexandre.alapetite.fr/doc-alex/domxml-php4-php5/
 </details>
 
 <details>
-<summary>php-egulias-email-validator</summary>
+<summary>Имя пакета: php-egulias-email-validator</summary>
 
 ```
 Из репозитор : fedora
@@ -49272,7 +49271,7 @@ URL          : https://github.com/egulias/EmailValidator
 </details>
 
 <details>
-<summary>php-embedded</summary>
+<summary>Имя пакета: php-embedded</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49286,7 +49285,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-erusev-parsedown</summary>
+<summary>Имя пакета: php-erusev-parsedown</summary>
 
 ```
 Из репозитор : fedora
@@ -49301,7 +49300,7 @@ URL          : http://parsedown.org
 </details>
 
 <details>
-<summary>php-fedora-autoloader</summary>
+<summary>Имя пакета: php-fedora-autoloader</summary>
 
 ```
 Из репозитор : fedora
@@ -49318,7 +49317,7 @@ URL          : https://github.com/php-fedora/autoloader
 </details>
 
 <details>
-<summary>php-fpm</summary>
+<summary>Имя пакета: php-fpm</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49333,7 +49332,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-gd</summary>
+<summary>Имя пакета: php-gd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49347,7 +49346,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-intl</summary>
+<summary>Имя пакета: php-intl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49361,7 +49360,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-jms-serializer</summary>
+<summary>Имя пакета: php-jms-serializer</summary>
 
 ```
 Из репозитор : fedora
@@ -49388,7 +49387,7 @@ URL          : http://jmsyst.com/libs/serializer
 </details>
 
 <details>
-<summary>php-json</summary>
+<summary>Имя пакета: php-json</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49402,7 +49401,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-jsonlint</summary>
+<summary>Имя пакета: php-jsonlint</summary>
 
 ```
 Из репозитор : fedora
@@ -49425,7 +49424,7 @@ URL          : https://github.com/Seldaek/jsonlint
 </details>
 
 <details>
-<summary>php-justinrainbow-json-schema5</summary>
+<summary>Имя пакета: php-justinrainbow-json-schema5</summary>
 
 ```
 Из репозитор : fedora
@@ -49444,7 +49443,7 @@ URL          : https://github.com/justinrainbow/json-schema
 </details>
 
 <details>
-<summary>php-laminas-cache</summary>
+<summary>Имя пакета: php-laminas-cache</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49462,7 +49461,7 @@ URL          : https://github.com/laminas/laminas-cache
 </details>
 
 <details>
-<summary>php-laminas-config</summary>
+<summary>Имя пакета: php-laminas-config</summary>
 
 ```
 Из репозитор : fedora
@@ -49481,7 +49480,7 @@ URL          : https://github.com/laminas/laminas-config
 </details>
 
 <details>
-<summary>php-laminas-eventmanager</summary>
+<summary>Имя пакета: php-laminas-eventmanager</summary>
 
 ```
 Из репозитор : fedora
@@ -49504,7 +49503,7 @@ URL          : https://github.com/laminas/laminas-eventmanager
 </details>
 
 <details>
-<summary>php-laminas-filter</summary>
+<summary>Имя пакета: php-laminas-filter</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49521,7 +49520,7 @@ URL          : https://github.com/laminas/laminas-filter
 </details>
 
 <details>
-<summary>php-laminas-i18n</summary>
+<summary>Имя пакета: php-laminas-i18n</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49543,7 +49542,7 @@ URL          : https://github.com/laminas/laminas-i18n
 </details>
 
 <details>
-<summary>php-laminas-json</summary>
+<summary>Имя пакета: php-laminas-json</summary>
 
 ```
 Из репозитор : fedora
@@ -49559,7 +49558,7 @@ URL          : https://github.com/laminas/laminas-json
 </details>
 
 <details>
-<summary>php-laminas-serializer</summary>
+<summary>Имя пакета: php-laminas-serializer</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49576,7 +49575,7 @@ URL          : https://github.com/laminas/laminas-serializer
 </details>
 
 <details>
-<summary>php-laminas-servicemanager</summary>
+<summary>Имя пакета: php-laminas-servicemanager</summary>
 
 ```
 Из репозитор : fedora
@@ -49593,7 +49592,7 @@ URL          : https://github.com/laminas/laminas-servicemanager
 </details>
 
 <details>
-<summary>php-laminas-session</summary>
+<summary>Имя пакета: php-laminas-session</summary>
 
 ```
 Из репозитор : fedora
@@ -49609,7 +49608,7 @@ URL          : https://github.com/laminas/laminas-session
 </details>
 
 <details>
-<summary>php-laminas-stdlib</summary>
+<summary>Имя пакета: php-laminas-stdlib</summary>
 
 ```
 Из репозитор : fedora
@@ -49629,7 +49628,7 @@ URL          : https://github.com/laminas/laminas-stdlib
 </details>
 
 <details>
-<summary>php-laminas-zendframework-bridge</summary>
+<summary>Имя пакета: php-laminas-zendframework-bridge</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49646,7 +49645,7 @@ URL          : https://github.com/laminas/laminas-zendframework-bridge
 </details>
 
 <details>
-<summary>php-ldap</summary>
+<summary>Имя пакета: php-ldap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49662,7 +49661,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-masterminds-html5</summary>
+<summary>Имя пакета: php-masterminds-html5</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49684,7 +49683,7 @@ URL          : http://masterminds.github.io/html5-php
 </details>
 
 <details>
-<summary>php-mbstring</summary>
+<summary>Имя пакета: php-mbstring</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49698,7 +49697,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-myclabs-deep-copy</summary>
+<summary>Имя пакета: php-myclabs-deep-copy</summary>
 
 ```
 Из репозитор : fedora
@@ -49712,7 +49711,7 @@ URL          : https://github.com/myclabs/DeepCopy
 </details>
 
 <details>
-<summary>php-mysqlnd</summary>
+<summary>Имя пакета: php-mysqlnd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49731,7 +49730,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-nikic-php-parser4</summary>
+<summary>Имя пакета: php-nikic-php-parser4</summary>
 
 ```
 Из репозитор : fedora
@@ -49751,7 +49750,7 @@ URL          : https://github.com/nikic/PHP-Parser
 </details>
 
 <details>
-<summary>php-opcache</summary>
+<summary>Имя пакета: php-opcache</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49768,7 +49767,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-pclzip</summary>
+<summary>Имя пакета: php-pclzip</summary>
 
 ```
 Из репозитор : fedora
@@ -49790,7 +49789,7 @@ URL          : http://www.phpconcept.net/pclzip
 </details>
 
 <details>
-<summary>php-pdo</summary>
+<summary>Имя пакета: php-pdo</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49806,7 +49805,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-pdo-dblib</summary>
+<summary>Имя пакета: php-pdo-dblib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49821,7 +49820,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-pdo-firebird</summary>
+<summary>Имя пакета: php-pdo-firebird</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49835,7 +49834,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-pear</summary>
+<summary>Имя пакета: php-pear</summary>
 
 ```
 Эпоха        : 1
@@ -49850,7 +49849,7 @@ URL          : http://pear.php.net/package/PEAR
 </details>
 
 <details>
-<summary>php-pear-CAS</summary>
+<summary>Имя пакета: php-pear-CAS</summary>
 
 ```
 Из репозитор : fedora
@@ -49865,7 +49864,7 @@ URL          : https://wiki.jasig.org/display/CASC/phpCAS
 </details>
 
 <details>
-<summary>php-pear-MDB2</summary>
+<summary>Имя пакета: php-pear-MDB2</summary>
 
 ```
 Из репозитор : fedora
@@ -49883,7 +49882,7 @@ URL          : http://pear.php.net/package/MDB2
 </details>
 
 <details>
-<summary>php-pear-MDB2-Driver-mysqli</summary>
+<summary>Имя пакета: php-pear-MDB2-Driver-mysqli</summary>
 
 ```
 Из репозитор : fedora
@@ -49896,7 +49895,7 @@ URL          : http://pear.php.net/package/MDB2_Driver_mysqli
 </details>
 
 <details>
-<summary>php-pear-PHP-CodeSniffer</summary>
+<summary>Имя пакета: php-pear-PHP-CodeSniffer</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49910,7 +49909,7 @@ URL          : http://pear.php.net/package/PHP_CodeSniffer
 </details>
 
 <details>
-<summary>php-pecl-apcu</summary>
+<summary>Имя пакета: php-pecl-apcu</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49928,7 +49927,7 @@ URL          : https://pecl.php.net/package/APCu
 </details>
 
 <details>
-<summary>php-pecl-apcu-devel</summary>
+<summary>Имя пакета: php-pecl-apcu-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -49941,7 +49940,7 @@ URL          : https://pecl.php.net/package/APCu
 </details>
 
 <details>
-<summary>php-pecl-igbinary</summary>
+<summary>Имя пакета: php-pecl-igbinary</summary>
 
 ```
 Из репозитор : fedora
@@ -49959,7 +49958,7 @@ URL          : https://pecl.php.net/package/igbinary
 </details>
 
 <details>
-<summary>php-pecl-krb5</summary>
+<summary>Имя пакета: php-pecl-krb5</summary>
 
 ```
 Из репозитор : fedora
@@ -49977,7 +49976,7 @@ URL          : https://pecl.php.net/package/krb5
 </details>
 
 <details>
-<summary>php-pecl-krb5-devel</summary>
+<summary>Имя пакета: php-pecl-krb5-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -49990,7 +49989,7 @@ URL          : https://pecl.php.net/package/krb5
 </details>
 
 <details>
-<summary>php-pecl-memcache</summary>
+<summary>Имя пакета: php-pecl-memcache</summary>
 
 ```
 Из репозитор : fedora
@@ -50010,7 +50009,7 @@ URL          : https://pecl.php.net/package/memcache
 </details>
 
 <details>
-<summary>php-pecl-memcached</summary>
+<summary>Имя пакета: php-pecl-memcached</summary>
 
 ```
 Из репозитор : fedora
@@ -50030,7 +50029,7 @@ URL          : http://pecl.php.net/package/memcached
 </details>
 
 <details>
-<summary>php-pecl-msgpack</summary>
+<summary>Имя пакета: php-pecl-msgpack</summary>
 
 ```
 Из репозитор : fedora
@@ -50055,7 +50054,7 @@ URL          : https://pecl.php.net/package/msgpack
 </details>
 
 <details>
-<summary>php-pecl-pcov</summary>
+<summary>Имя пакета: php-pecl-pcov</summary>
 
 ```
 Из репозитор : updates-testing
@@ -50068,7 +50067,7 @@ URL          : https://pecl.php.net/package/pcov
 </details>
 
 <details>
-<summary>php-pecl-yaml</summary>
+<summary>Имя пакета: php-pecl-yaml</summary>
 
 ```
 Из репозитор : fedora
@@ -50083,7 +50082,7 @@ URL          : https://pecl.php.net/package/yaml
 </details>
 
 <details>
-<summary>php-pecl-zip</summary>
+<summary>Имя пакета: php-pecl-zip</summary>
 
 ```
 Из репозитор : fedora
@@ -50096,7 +50095,7 @@ URL          : https://pecl.php.net/package/zip
 </details>
 
 <details>
-<summary>php-phar-io-manifest2</summary>
+<summary>Имя пакета: php-phar-io-manifest2</summary>
 
 ```
 Из репозитор : fedora
@@ -50111,7 +50110,7 @@ URL          : https://github.com/phar-io/manifest
 </details>
 
 <details>
-<summary>php-phar-io-version3</summary>
+<summary>Имя пакета: php-phar-io-version3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -50126,7 +50125,7 @@ URL          : https://github.com/phar-io/version
 </details>
 
 <details>
-<summary>php-phpdocumentor-fileset</summary>
+<summary>Имя пакета: php-phpdocumentor-fileset</summary>
 
 ```
 Из репозитор : fedora
@@ -50142,7 +50141,7 @@ URL          : https://github.com/phpDocumentor/Fileset
 </details>
 
 <details>
-<summary>php-phpdocumentor-graphviz</summary>
+<summary>Имя пакета: php-phpdocumentor-graphviz</summary>
 
 ```
 Из репозитор : fedora
@@ -50157,7 +50156,7 @@ URL          : https://github.com/phpDocumentor/GraphViz
 </details>
 
 <details>
-<summary>php-phpdocumentor-reflection</summary>
+<summary>Имя пакета: php-phpdocumentor-reflection</summary>
 
 ```
 Из репозитор : fedora
@@ -50195,7 +50194,7 @@ URL          : https://github.com/phpDocumentor/Reflection
 </details>
 
 <details>
-<summary>php-phpdocumentor-reflection-common2</summary>
+<summary>Имя пакета: php-phpdocumentor-reflection-common2</summary>
 
 ```
 Из репозитор : fedora
@@ -50210,7 +50209,7 @@ URL          : https://github.com/phpDocumentor/ReflectionCommon
 </details>
 
 <details>
-<summary>php-phpdocumentor-reflection-docblock2</summary>
+<summary>Имя пакета: php-phpdocumentor-reflection-docblock2</summary>
 
 ```
 Из репозитор : fedora
@@ -50227,7 +50226,7 @@ URL          : https://github.com/phpDocumentor/ReflectionDocBlock
 </details>
 
 <details>
-<summary>php-phpdocumentor-reflection-docblock5</summary>
+<summary>Имя пакета: php-phpdocumentor-reflection-docblock5</summary>
 
 ```
 Из репозитор : fedora
@@ -50246,7 +50245,7 @@ URL          : https://github.com/phpDocumentor/ReflectionDocBlock
 </details>
 
 <details>
-<summary>php-phpdocumentor-type-resolver1</summary>
+<summary>Имя пакета: php-phpdocumentor-type-resolver1</summary>
 
 ```
 Из репозитор : fedora
@@ -50274,7 +50273,7 @@ URL          : https://github.com/phpDocumentor/TypeResolver
 </details>
 
 <details>
-<summary>php-phpspec-prophecy</summary>
+<summary>Имя пакета: php-phpspec-prophecy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -50291,7 +50290,7 @@ URL          : https://github.com/phpspec/prophecy
 </details>
 
 <details>
-<summary>php-phpunit-File-Iterator</summary>
+<summary>Имя пакета: php-phpunit-File-Iterator</summary>
 
 ```
 Из репозитор : fedora
@@ -50304,7 +50303,7 @@ URL          : https://github.com/sebastianbergmann/php-file-iterator
 </details>
 
 <details>
-<summary>php-phpunit-PHP-CodeCoverage</summary>
+<summary>Имя пакета: php-phpunit-PHP-CodeCoverage</summary>
 
 ```
 Из репозитор : fedora
@@ -50318,7 +50317,7 @@ URL          : https://github.com/sebastianbergmann/php-code-coverage
 </details>
 
 <details>
-<summary>php-phpunit-PHP-Invoker</summary>
+<summary>Имя пакета: php-phpunit-PHP-Invoker</summary>
 
 ```
 Из репозитор : fedora
@@ -50331,7 +50330,7 @@ URL          : https://github.com/sebastianbergmann/php-invoker
 </details>
 
 <details>
-<summary>php-phpunit-PHP-Timer</summary>
+<summary>Имя пакета: php-phpunit-PHP-Timer</summary>
 
 ```
 Из репозитор : fedora
@@ -50344,7 +50343,7 @@ URL          : https://github.com/sebastianbergmann/php-timer
 </details>
 
 <details>
-<summary>php-phpunit-PHPUnit</summary>
+<summary>Имя пакета: php-phpunit-PHPUnit</summary>
 
 ```
 Из репозитор : updates-testing
@@ -50370,7 +50369,7 @@ URL          : https://github.com/sebastianbergmann/phpunit
 </details>
 
 <details>
-<summary>php-phpunit-PHPUnit-MockObject</summary>
+<summary>Имя пакета: php-phpunit-PHPUnit-MockObject</summary>
 
 ```
 Из репозитор : fedora
@@ -50383,7 +50382,7 @@ URL          : https://github.com/sebastianbergmann/phpunit-mock-objects
 </details>
 
 <details>
-<summary>php-phpunit-Text-Template</summary>
+<summary>Имя пакета: php-phpunit-Text-Template</summary>
 
 ```
 Из репозитор : fedora
@@ -50396,7 +50395,7 @@ URL          : https://github.com/sebastianbergmann/php-text-template
 </details>
 
 <details>
-<summary>php-phpunit-Version</summary>
+<summary>Имя пакета: php-phpunit-Version</summary>
 
 ```
 Из репозитор : fedora
@@ -50410,7 +50409,7 @@ URL          : https://github.com/sebastianbergmann/version
 </details>
 
 <details>
-<summary>php-phpunit-comparator</summary>
+<summary>Имя пакета: php-phpunit-comparator</summary>
 
 ```
 Из репозитор : fedora
@@ -50425,7 +50424,7 @@ URL          : https://github.com/sebastianbergmann/comparator
 </details>
 
 <details>
-<summary>php-phpunit-diff</summary>
+<summary>Имя пакета: php-phpunit-diff</summary>
 
 ```
 Из репозитор : fedora
@@ -50438,7 +50437,7 @@ URL          : https://github.com/sebastianbergmann/diff
 </details>
 
 <details>
-<summary>php-phpunit-environment</summary>
+<summary>Имя пакета: php-phpunit-environment</summary>
 
 ```
 Из репозитор : fedora
@@ -50452,7 +50451,7 @@ URL          : https://github.com/sebastianbergmann/environment
 </details>
 
 <details>
-<summary>php-phpunit-exporter</summary>
+<summary>Имя пакета: php-phpunit-exporter</summary>
 
 ```
 Из репозитор : fedora
@@ -50465,7 +50464,7 @@ URL          : https://github.com/sebastianbergmann/exporter
 </details>
 
 <details>
-<summary>php-phpunit-mock-objects5</summary>
+<summary>Имя пакета: php-phpunit-mock-objects5</summary>
 
 ```
 Из репозитор : fedora
@@ -50480,7 +50479,7 @@ URL          : https://github.com/sebastianbergmann/phpunit-mock-objects
 </details>
 
 <details>
-<summary>php-phpunit-php-code-coverage5</summary>
+<summary>Имя пакета: php-phpunit-php-code-coverage5</summary>
 
 ```
 Из репозитор : fedora
@@ -50496,7 +50495,7 @@ URL          : https://github.com/sebastianbergmann/php-code-coverage
 </details>
 
 <details>
-<summary>php-phpunit-php-code-coverage7</summary>
+<summary>Имя пакета: php-phpunit-php-code-coverage7</summary>
 
 ```
 Из репозитор : fedora
@@ -50512,7 +50511,7 @@ URL          : https://github.com/sebastianbergmann/php-code-coverage
 </details>
 
 <details>
-<summary>php-phpunit-php-code-coverage9</summary>
+<summary>Имя пакета: php-phpunit-php-code-coverage9</summary>
 
 ```
 Из репозитор : updates-testing
@@ -50528,7 +50527,7 @@ URL          : https://github.com/sebastianbergmann/php-code-coverage
 </details>
 
 <details>
-<summary>php-phpunit-php-file-iterator2</summary>
+<summary>Имя пакета: php-phpunit-php-file-iterator2</summary>
 
 ```
 Из репозитор : fedora
@@ -50541,7 +50540,7 @@ URL          : https://github.com/sebastianbergmann/php-file-iterator
 </details>
 
 <details>
-<summary>php-phpunit-php-file-iterator3</summary>
+<summary>Имя пакета: php-phpunit-php-file-iterator3</summary>
 
 ```
 Из репозитор : fedora
@@ -50554,7 +50553,7 @@ URL          : https://github.com/sebastianbergmann/php-file-iterator
 </details>
 
 <details>
-<summary>php-phpunit-php-invoker2</summary>
+<summary>Имя пакета: php-phpunit-php-invoker2</summary>
 
 ```
 Из репозитор : fedora
@@ -50569,7 +50568,7 @@ URL          : https://github.com/sebastianbergmann/php-invoker
 </details>
 
 <details>
-<summary>php-phpunit-php-invoker3</summary>
+<summary>Имя пакета: php-phpunit-php-invoker3</summary>
 
 ```
 Из репозитор : fedora
@@ -50584,7 +50583,7 @@ URL          : https://github.com/sebastianbergmann/php-invoker
 </details>
 
 <details>
-<summary>php-phpunit-php-text-template2</summary>
+<summary>Имя пакета: php-phpunit-php-text-template2</summary>
 
 ```
 Из репозитор : fedora
@@ -50597,7 +50596,7 @@ URL          : https://github.com/sebastianbergmann/php-text-template
 </details>
 
 <details>
-<summary>php-phpunit-php-timer2</summary>
+<summary>Имя пакета: php-phpunit-php-timer2</summary>
 
 ```
 Из репозитор : fedora
@@ -50611,7 +50610,7 @@ URL          : https://github.com/sebastianbergmann/php-timer
 </details>
 
 <details>
-<summary>php-phpunit-php-timer5</summary>
+<summary>Имя пакета: php-phpunit-php-timer5</summary>
 
 ```
 Из репозитор : fedora
@@ -50625,7 +50624,7 @@ URL          : https://github.com/sebastianbergmann/php-timer
 </details>
 
 <details>
-<summary>php-phpunit-php-token-stream2</summary>
+<summary>Имя пакета: php-phpunit-php-token-stream2</summary>
 
 ```
 Из репозитор : fedora
@@ -50640,7 +50639,7 @@ URL          : https://github.com/sebastianbergmann/php-token-stream
 </details>
 
 <details>
-<summary>php-phpunit-php-token-stream4</summary>
+<summary>Имя пакета: php-phpunit-php-token-stream4</summary>
 
 ```
 Из репозитор : fedora
@@ -50655,7 +50654,7 @@ URL          : https://github.com/sebastianbergmann/php-token-stream
 </details>
 
 <details>
-<summary>php-phpunitgoodpractices-polyfill</summary>
+<summary>Имя пакета: php-phpunitgoodpractices-polyfill</summary>
 
 ```
 Из репозитор : fedora
@@ -50670,7 +50669,7 @@ URL          : https://github.com/PHPUnitGoodPractices/polyfill
 </details>
 
 <details>
-<summary>php-pimple1</summary>
+<summary>Имя пакета: php-pimple1</summary>
 
 ```
 Из репозитор : fedora
@@ -50684,7 +50683,7 @@ URL          : https://github.com/silexphp/Pimple/tree/1.1
 </details>
 
 <details>
-<summary>php-process</summary>
+<summary>Имя пакета: php-process</summary>
 
 ```
 Из репозитор : updates-testing
@@ -50699,7 +50698,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-psr-cache</summary>
+<summary>Имя пакета: php-psr-cache</summary>
 
 ```
 Из репозитор : fedora
@@ -50720,7 +50719,7 @@ URL          : https://github.com/php-fig/cache
 </details>
 
 <details>
-<summary>php-psr-container</summary>
+<summary>Имя пакета: php-psr-container</summary>
 
 ```
 Из репозитор : updates-testing
@@ -50737,7 +50736,7 @@ URL          : https://github.com/php-fig/container
 </details>
 
 <details>
-<summary>php-psr-event-dispatcher</summary>
+<summary>Имя пакета: php-psr-event-dispatcher</summary>
 
 ```
 Из репозитор : fedora
@@ -50756,7 +50755,7 @@ URL          : https://github.com/php-fig/event-dispatcher
 </details>
 
 <details>
-<summary>php-psr-simple-cache</summary>
+<summary>Имя пакета: php-psr-simple-cache</summary>
 
 ```
 Из репозитор : fedora
@@ -50781,7 +50780,7 @@ URL          : http://www.php-fig.org/psr/psr-16/
 </details>
 
 <details>
-<summary>php-react-promise</summary>
+<summary>Имя пакета: php-react-promise</summary>
 
 ```
 Из репозитор : fedora
@@ -50798,7 +50797,7 @@ URL          : https://reactphp.org/promise/
 </details>
 
 <details>
-<summary>php-sabre-event5</summary>
+<summary>Имя пакета: php-sabre-event5</summary>
 
 ```
 Из репозитор : fedora
@@ -50820,7 +50819,7 @@ URL          : http://sabre.io/event
 </details>
 
 <details>
-<summary>php-sebastian-cli-parser</summary>
+<summary>Имя пакета: php-sebastian-cli-parser</summary>
 
 ```
 Из репозитор : fedora
@@ -50835,7 +50834,7 @@ URL          : https://github.com/sebastianbergmann/cli-parser
 </details>
 
 <details>
-<summary>php-sebastian-code-unit</summary>
+<summary>Имя пакета: php-sebastian-code-unit</summary>
 
 ```
 Из репозитор : fedora
@@ -50850,7 +50849,7 @@ URL          : https://github.com/sebastianbergmann/code-unit
 </details>
 
 <details>
-<summary>php-sebastian-code-unit-reverse-lookup</summary>
+<summary>Имя пакета: php-sebastian-code-unit-reverse-lookup</summary>
 
 ```
 Из репозитор : fedora
@@ -50865,7 +50864,7 @@ URL          : https://github.com/sebastianbergmann/code-unit-reverse-lookup
 </details>
 
 <details>
-<summary>php-sebastian-code-unit-reverse-lookup2</summary>
+<summary>Имя пакета: php-sebastian-code-unit-reverse-lookup2</summary>
 
 ```
 Из репозитор : fedora
@@ -50880,7 +50879,7 @@ URL          : https://github.com/sebastianbergmann/code-unit-reverse-lookup
 </details>
 
 <details>
-<summary>php-sebastian-comparator3</summary>
+<summary>Имя пакета: php-sebastian-comparator3</summary>
 
 ```
 Из репозитор : fedora
@@ -50895,7 +50894,7 @@ URL          : https://github.com/sebastianbergmann/comparator
 </details>
 
 <details>
-<summary>php-sebastian-comparator4</summary>
+<summary>Имя пакета: php-sebastian-comparator4</summary>
 
 ```
 Из репозитор : fedora
@@ -50910,7 +50909,7 @@ URL          : https://github.com/sebastianbergmann/comparator
 </details>
 
 <details>
-<summary>php-sebastian-complexity</summary>
+<summary>Имя пакета: php-sebastian-complexity</summary>
 
 ```
 Из репозитор : fedora
@@ -50923,7 +50922,7 @@ URL          : https://github.com/sebastianbergmann/complexity
 </details>
 
 <details>
-<summary>php-sebastian-diff3</summary>
+<summary>Имя пакета: php-sebastian-diff3</summary>
 
 ```
 Из репозитор : fedora
@@ -50938,7 +50937,7 @@ URL          : https://github.com/sebastianbergmann/diff
 </details>
 
 <details>
-<summary>php-sebastian-diff4</summary>
+<summary>Имя пакета: php-sebastian-diff4</summary>
 
 ```
 Из репозитор : fedora
@@ -50953,7 +50952,7 @@ URL          : https://github.com/sebastianbergmann/diff
 </details>
 
 <details>
-<summary>php-sebastian-environment3</summary>
+<summary>Имя пакета: php-sebastian-environment3</summary>
 
 ```
 Из репозитор : fedora
@@ -50967,7 +50966,7 @@ URL          : https://github.com/sebastianbergmann/environment
 </details>
 
 <details>
-<summary>php-sebastian-environment4</summary>
+<summary>Имя пакета: php-sebastian-environment4</summary>
 
 ```
 Из репозитор : fedora
@@ -50981,7 +50980,7 @@ URL          : https://github.com/sebastianbergmann/environment
 </details>
 
 <details>
-<summary>php-sebastian-environment5</summary>
+<summary>Имя пакета: php-sebastian-environment5</summary>
 
 ```
 Из репозитор : fedora
@@ -50995,7 +50994,7 @@ URL          : https://github.com/sebastianbergmann/environment
 </details>
 
 <details>
-<summary>php-sebastian-exporter3</summary>
+<summary>Имя пакета: php-sebastian-exporter3</summary>
 
 ```
 Из репозитор : fedora
@@ -51008,7 +51007,7 @@ URL          : https://github.com/sebastianbergmann/exporter
 </details>
 
 <details>
-<summary>php-sebastian-exporter4</summary>
+<summary>Имя пакета: php-sebastian-exporter4</summary>
 
 ```
 Из репозитор : fedora
@@ -51021,7 +51020,7 @@ URL          : https://github.com/sebastianbergmann/exporter
 </details>
 
 <details>
-<summary>php-sebastian-global-state</summary>
+<summary>Имя пакета: php-sebastian-global-state</summary>
 
 ```
 Из репозитор : fedora
@@ -51035,7 +51034,7 @@ URL          : https://github.com/sebastianbergmann/global-state
 </details>
 
 <details>
-<summary>php-sebastian-global-state3</summary>
+<summary>Имя пакета: php-sebastian-global-state3</summary>
 
 ```
 Из репозитор : fedora
@@ -51049,7 +51048,7 @@ URL          : https://github.com/sebastianbergmann/global-state
 </details>
 
 <details>
-<summary>php-sebastian-global-state5</summary>
+<summary>Имя пакета: php-sebastian-global-state5</summary>
 
 ```
 Из репозитор : fedora
@@ -51063,7 +51062,7 @@ URL          : https://github.com/sebastianbergmann/global-state
 </details>
 
 <details>
-<summary>php-sebastian-lines-of-code</summary>
+<summary>Имя пакета: php-sebastian-lines-of-code</summary>
 
 ```
 Из репозитор : fedora
@@ -51076,7 +51075,7 @@ URL          : https://github.com/sebastianbergmann/lines-of-code
 </details>
 
 <details>
-<summary>php-sebastian-object-enumerator</summary>
+<summary>Имя пакета: php-sebastian-object-enumerator</summary>
 
 ```
 Из репозитор : fedora
@@ -51092,7 +51091,7 @@ URL          : https://github.com/sebastianbergmann/object-enumerator
 </details>
 
 <details>
-<summary>php-sebastian-object-enumerator3</summary>
+<summary>Имя пакета: php-sebastian-object-enumerator3</summary>
 
 ```
 Из репозитор : fedora
@@ -51108,7 +51107,7 @@ URL          : https://github.com/sebastianbergmann/object-enumerator
 </details>
 
 <details>
-<summary>php-sebastian-object-enumerator4</summary>
+<summary>Имя пакета: php-sebastian-object-enumerator4</summary>
 
 ```
 Из репозитор : fedora
@@ -51124,7 +51123,7 @@ URL          : https://github.com/sebastianbergmann/object-enumerator
 </details>
 
 <details>
-<summary>php-sebastian-object-reflector</summary>
+<summary>Имя пакета: php-sebastian-object-reflector</summary>
 
 ```
 Из репозитор : fedora
@@ -51138,7 +51137,7 @@ URL          : https://github.com/sebastianbergmann/object-reflector
 </details>
 
 <details>
-<summary>php-sebastian-object-reflector2</summary>
+<summary>Имя пакета: php-sebastian-object-reflector2</summary>
 
 ```
 Из репозитор : fedora
@@ -51152,7 +51151,7 @@ URL          : https://github.com/sebastianbergmann/object-reflector
 </details>
 
 <details>
-<summary>php-sebastian-recursion-context</summary>
+<summary>Имя пакета: php-sebastian-recursion-context</summary>
 
 ```
 Из репозитор : fedora
@@ -51165,7 +51164,7 @@ URL          : https://github.com/sebastianbergmann/recursion-context
 </details>
 
 <details>
-<summary>php-sebastian-recursion-context3</summary>
+<summary>Имя пакета: php-sebastian-recursion-context3</summary>
 
 ```
 Из репозитор : fedora
@@ -51178,7 +51177,7 @@ URL          : https://github.com/sebastianbergmann/recursion-context
 </details>
 
 <details>
-<summary>php-sebastian-recursion-context4</summary>
+<summary>Имя пакета: php-sebastian-recursion-context4</summary>
 
 ```
 Из репозитор : fedora
@@ -51191,7 +51190,7 @@ URL          : https://github.com/sebastianbergmann/recursion-context
 </details>
 
 <details>
-<summary>php-sebastian-resource-operations</summary>
+<summary>Имя пакета: php-sebastian-resource-operations</summary>
 
 ```
 Из репозитор : fedora
@@ -51204,7 +51203,7 @@ URL          : https://github.com/sebastianbergmann/resource-operations
 </details>
 
 <details>
-<summary>php-sebastian-resource-operations2</summary>
+<summary>Имя пакета: php-sebastian-resource-operations2</summary>
 
 ```
 Из репозитор : fedora
@@ -51221,7 +51220,7 @@ URL          : https://github.com/sebastianbergmann/resource-operations
 </details>
 
 <details>
-<summary>php-sebastian-resource-operations3</summary>
+<summary>Имя пакета: php-sebastian-resource-operations3</summary>
 
 ```
 Из репозитор : fedora
@@ -51238,7 +51237,7 @@ URL          : https://github.com/sebastianbergmann/resource-operations
 </details>
 
 <details>
-<summary>php-sebastian-type</summary>
+<summary>Имя пакета: php-sebastian-type</summary>
 
 ```
 Из репозитор : fedora
@@ -51251,7 +51250,7 @@ URL          : https://github.com/sebastianbergmann/type
 </details>
 
 <details>
-<summary>php-sebastian-type2</summary>
+<summary>Имя пакета: php-sebastian-type2</summary>
 
 ```
 Из репозитор : fedora
@@ -51264,7 +51263,7 @@ URL          : https://github.com/sebastianbergmann/type
 </details>
 
 <details>
-<summary>php-sebastian-version3</summary>
+<summary>Имя пакета: php-sebastian-version3</summary>
 
 ```
 Из репозитор : fedora
@@ -51278,7 +51277,7 @@ URL          : https://github.com/sebastianbergmann/version
 </details>
 
 <details>
-<summary>php-seld-phar-utils</summary>
+<summary>Имя пакета: php-seld-phar-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -51294,7 +51293,7 @@ URL          : https://github.com/Seldaek/phar-utils
 </details>
 
 <details>
-<summary>php-soap</summary>
+<summary>Имя пакета: php-soap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -51308,7 +51307,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-sodium</summary>
+<summary>Имя пакета: php-sodium</summary>
 
 ```
 Из репозитор : updates-testing
@@ -51322,7 +51321,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-symfony-browser-kit</summary>
+<summary>Имя пакета: php-symfony-browser-kit</summary>
 
 ```
 Из репозитор : fedora
@@ -51338,7 +51337,7 @@ URL          : https://symfony.com
 </details>
 
 <details>
-<summary>php-symfony-class-loader</summary>
+<summary>Имя пакета: php-symfony-class-loader</summary>
 
 ```
 Из репозитор : fedora
@@ -51371,7 +51370,7 @@ URL          : http://symfony.com/doc/2.8/components/class_loader/index.html
 </details>
 
 <details>
-<summary>php-symfony-common</summary>
+<summary>Имя пакета: php-symfony-common</summary>
 
 ```
 Из репозитор : fedora
@@ -51384,7 +51383,7 @@ URL          : https://symfony.com
 </details>
 
 <details>
-<summary>php-symfony-config</summary>
+<summary>Имя пакета: php-symfony-config</summary>
 
 ```
 Из репозитор : fedora
@@ -51399,7 +51398,7 @@ URL          : http://symfony.com/doc/2.8/components/config/index.html
 </details>
 
 <details>
-<summary>php-symfony-console</summary>
+<summary>Имя пакета: php-symfony-console</summary>
 
 ```
 Из репозитор : fedora
@@ -51417,7 +51416,7 @@ URL          : http://symfony.com/doc/2.8/components/console/index.html
 </details>
 
 <details>
-<summary>php-symfony-contracts</summary>
+<summary>Имя пакета: php-symfony-contracts</summary>
 
 ```
 Из репозитор : fedora
@@ -51435,7 +51434,7 @@ URL          : https://github.com/symfony/contracts
 </details>
 
 <details>
-<summary>php-symfony-css-selector</summary>
+<summary>Имя пакета: php-symfony-css-selector</summary>
 
 ```
 Из репозитор : fedora
@@ -51448,7 +51447,7 @@ URL          : http://symfony.com/doc/2.8/components/css_selector.html
 </details>
 
 <details>
-<summary>php-symfony-debug</summary>
+<summary>Имя пакета: php-symfony-debug</summary>
 
 ```
 Из репозитор : fedora
@@ -51464,7 +51463,7 @@ URL          : http://symfony.com/doc/2.8/components/debug/index.html
 </details>
 
 <details>
-<summary>php-symfony-dependency-injection</summary>
+<summary>Имя пакета: php-symfony-dependency-injection</summary>
 
 ```
 Из репозитор : fedora
@@ -51482,7 +51481,7 @@ URL          : http://symfony.com/doc/2.8/components/dependency_injection/index.
 </details>
 
 <details>
-<summary>php-symfony-dom-crawler</summary>
+<summary>Имя пакета: php-symfony-dom-crawler</summary>
 
 ```
 Из репозитор : fedora
@@ -51495,7 +51494,7 @@ URL          : http://symfony.com/doc/2.8/components/dom_crawler.html
 </details>
 
 <details>
-<summary>php-symfony-event-dispatcher</summary>
+<summary>Имя пакета: php-symfony-event-dispatcher</summary>
 
 ```
 Из репозитор : fedora
@@ -51512,7 +51511,7 @@ URL          : http://symfony.com/doc/2.8/components/event_dispatcher/index.html
 </details>
 
 <details>
-<summary>php-symfony-expression-language</summary>
+<summary>Имя пакета: php-symfony-expression-language</summary>
 
 ```
 Из репозитор : fedora
@@ -51527,7 +51526,7 @@ URL          : http://symfony.com/doc/2.8/components/expression_language/index.h
 </details>
 
 <details>
-<summary>php-symfony-filesystem</summary>
+<summary>Имя пакета: php-symfony-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -51540,7 +51539,7 @@ URL          : http://symfony.com/doc/2.8/components/filesystem/index.html
 </details>
 
 <details>
-<summary>php-symfony-finder</summary>
+<summary>Имя пакета: php-symfony-finder</summary>
 
 ```
 Из репозитор : fedora
@@ -51554,7 +51553,7 @@ URL          : http://symfony.com/doc/2.8/components/finder.html
 </details>
 
 <details>
-<summary>php-symfony-http-foundation</summary>
+<summary>Имя пакета: php-symfony-http-foundation</summary>
 
 ```
 Из репозитор : fedora
@@ -51580,7 +51579,7 @@ URL          : http://symfony.com/doc/2.8/components/http_foundation/index.html
 </details>
 
 <details>
-<summary>php-symfony-http-kernel</summary>
+<summary>Имя пакета: php-symfony-http-kernel</summary>
 
 ```
 Из репозитор : fedora
@@ -51607,7 +51606,7 @@ URL          : http://symfony.com/doc/2.8/components/http_kernel/index.html
 </details>
 
 <details>
-<summary>php-symfony-intl</summary>
+<summary>Имя пакета: php-symfony-intl</summary>
 
 ```
 Из репозитор : fedora
@@ -51624,7 +51623,7 @@ URL          : http://symfony.com/doc/2.8/components/intl.html
 </details>
 
 <details>
-<summary>php-symfony-polyfill</summary>
+<summary>Имя пакета: php-symfony-polyfill</summary>
 
 ```
 Из репозитор : updates-testing
@@ -51639,7 +51638,7 @@ URL          : https://github.com/symfony/polyfill
 </details>
 
 <details>
-<summary>php-symfony-process</summary>
+<summary>Имя пакета: php-symfony-process</summary>
 
 ```
 Из репозитор : fedora
@@ -51652,7 +51651,7 @@ URL          : http://symfony.com/doc/2.8/components/process.html
 </details>
 
 <details>
-<summary>php-symfony-property-access</summary>
+<summary>Имя пакета: php-symfony-property-access</summary>
 
 ```
 Из репозитор : fedora
@@ -51666,7 +51665,7 @@ URL          : http://symfony.com/doc/2.8/components/property_access/index.html
 </details>
 
 <details>
-<summary>php-symfony-stopwatch</summary>
+<summary>Имя пакета: php-symfony-stopwatch</summary>
 
 ```
 Из репозитор : fedora
@@ -51679,7 +51678,7 @@ URL          : http://symfony.com/doc/2.8/components/stopwatch.html
 </details>
 
 <details>
-<summary>php-symfony-translation</summary>
+<summary>Имя пакета: php-symfony-translation</summary>
 
 ```
 Из репозитор : fedora
@@ -51693,7 +51692,7 @@ URL          : http://symfony.com/doc/2.8/components/translation/index.html
 </details>
 
 <details>
-<summary>php-symfony-validator</summary>
+<summary>Имя пакета: php-symfony-validator</summary>
 
 ```
 Из репозитор : fedora
@@ -51711,7 +51710,7 @@ URL          : https://symfony.com
 </details>
 
 <details>
-<summary>php-symfony-var-dumper</summary>
+<summary>Имя пакета: php-symfony-var-dumper</summary>
 
 ```
 Из репозитор : fedora
@@ -51740,7 +51739,7 @@ URL          : http://symfony.com/doc/2.8/components/var_dumper/index.html
 </details>
 
 <details>
-<summary>php-symfony-yaml</summary>
+<summary>Имя пакета: php-symfony-yaml</summary>
 
 ```
 Из репозитор : fedora
@@ -51753,7 +51752,7 @@ URL          : http://symfony.com/doc/2.8/components/yaml/index.html
 </details>
 
 <details>
-<summary>php-symfony3-common</summary>
+<summary>Имя пакета: php-symfony3-common</summary>
 
 ```
 Из репозитор : fedora
@@ -51766,7 +51765,7 @@ URL          : https://symfony.com
 </details>
 
 <details>
-<summary>php-symfony3-console</summary>
+<summary>Имя пакета: php-symfony3-console</summary>
 
 ```
 Из репозитор : fedora
@@ -51786,7 +51785,7 @@ URL          : http://symfony.com/doc/3.4/components/console.html
 </details>
 
 <details>
-<summary>php-symfony3-debug</summary>
+<summary>Имя пакета: php-symfony3-debug</summary>
 
 ```
 Из репозитор : fedora
@@ -51801,7 +51800,7 @@ URL          : http://symfony.com/doc/3.4/components/debug.html
 </details>
 
 <details>
-<summary>php-symfony3-event-dispatcher</summary>
+<summary>Имя пакета: php-symfony3-event-dispatcher</summary>
 
 ```
 Из репозитор : fedora
@@ -51820,7 +51819,7 @@ URL          : http://symfony.com/doc/3.4/components/event_dispatcher.html
 </details>
 
 <details>
-<summary>php-symfony3-filesystem</summary>
+<summary>Имя пакета: php-symfony3-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -51835,7 +51834,7 @@ URL          : http://symfony.com/doc/3.4/components/filesystem.html
 </details>
 
 <details>
-<summary>php-symfony3-finder</summary>
+<summary>Имя пакета: php-symfony3-finder</summary>
 
 ```
 Из репозитор : fedora
@@ -51851,7 +51850,7 @@ URL          : http://symfony.com/doc/3.4/components/finder.html
 </details>
 
 <details>
-<summary>php-symfony3-options-resolver</summary>
+<summary>Имя пакета: php-symfony3-options-resolver</summary>
 
 ```
 Из репозитор : fedora
@@ -51867,7 +51866,7 @@ URL          : http://symfony.com/doc/3.4/components/options_resolver.html
 </details>
 
 <details>
-<summary>php-symfony3-process</summary>
+<summary>Имя пакета: php-symfony3-process</summary>
 
 ```
 Из репозитор : fedora
@@ -51882,7 +51881,7 @@ URL          : http://symfony.com/doc/3.4/components/process.html
 </details>
 
 <details>
-<summary>php-symfony3-stopwatch</summary>
+<summary>Имя пакета: php-symfony3-stopwatch</summary>
 
 ```
 Из репозитор : fedora
@@ -51897,7 +51896,7 @@ URL          : http://symfony.com/doc/3.4/components/stopwatch.html
 </details>
 
 <details>
-<summary>php-symfony4-common</summary>
+<summary>Имя пакета: php-symfony4-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -51910,7 +51909,7 @@ URL          : https://symfony.com
 </details>
 
 <details>
-<summary>php-symfony4-console</summary>
+<summary>Имя пакета: php-symfony4-console</summary>
 
 ```
 Из репозитор : updates-testing
@@ -51930,7 +51929,7 @@ URL          : http://symfony.com/doc/4.4/components/console.html
 </details>
 
 <details>
-<summary>php-symfony4-debug</summary>
+<summary>Имя пакета: php-symfony4-debug</summary>
 
 ```
 Из репозитор : updates-testing
@@ -51945,7 +51944,7 @@ URL          : http://symfony.com/doc/4.4/components/debug.html
 </details>
 
 <details>
-<summary>php-symfony4-filesystem</summary>
+<summary>Имя пакета: php-symfony4-filesystem</summary>
 
 ```
 Из репозитор : updates-testing
@@ -51960,7 +51959,7 @@ URL          : http://symfony.com/doc/4.4/components/filesystem.html
 </details>
 
 <details>
-<summary>php-symfony4-finder</summary>
+<summary>Имя пакета: php-symfony4-finder</summary>
 
 ```
 Из репозитор : updates-testing
@@ -51976,7 +51975,7 @@ URL          : http://symfony.com/doc/4.4/components/finder.html
 </details>
 
 <details>
-<summary>php-symfony4-process</summary>
+<summary>Имя пакета: php-symfony4-process</summary>
 
 ```
 Из репозитор : updates-testing
@@ -51991,7 +51990,7 @@ URL          : http://symfony.com/doc/4.4/components/process.html
 </details>
 
 <details>
-<summary>php-symfony4-yaml</summary>
+<summary>Имя пакета: php-symfony4-yaml</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52006,7 +52005,7 @@ URL          : http://symfony.com/doc/4.4/components/yaml.html
 </details>
 
 <details>
-<summary>php-theseer-tokenizer</summary>
+<summary>Имя пакета: php-theseer-tokenizer</summary>
 
 ```
 Из репозитор : fedora
@@ -52022,7 +52021,7 @@ URL          : https://github.com/theseer/tokenizer
 </details>
 
 <details>
-<summary>php-twig</summary>
+<summary>Имя пакета: php-twig</summary>
 
 ```
 Из репозитор : fedora
@@ -52048,7 +52047,7 @@ URL          : http://twig.sensiolabs.org
 </details>
 
 <details>
-<summary>php-vlucas-phpdotenv</summary>
+<summary>Имя пакета: php-vlucas-phpdotenv</summary>
 
 ```
 Из репозитор : fedora
@@ -52068,7 +52067,7 @@ URL          : https://github.com/vlucas/phpdotenv
 </details>
 
 <details>
-<summary>php-webmozart-assert</summary>
+<summary>Имя пакета: php-webmozart-assert</summary>
 
 ```
 Из репозитор : fedora
@@ -52088,7 +52087,7 @@ URL          : https://github.com/webmozart/assert
 </details>
 
 <details>
-<summary>php-whitehat101-apr1-md5</summary>
+<summary>Имя пакета: php-whitehat101-apr1-md5</summary>
 
 ```
 Из репозитор : fedora
@@ -52102,7 +52101,7 @@ URL          : https://github.com/whitehat101/apr1-md5
 </details>
 
 <details>
-<summary>php-xml</summary>
+<summary>Имя пакета: php-xml</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52117,7 +52116,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-xmlrpc</summary>
+<summary>Имя пакета: php-xmlrpc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52133,7 +52132,7 @@ URL          : http://www.php.net/
 </details>
 
 <details>
-<summary>php-zetacomponents-base</summary>
+<summary>Имя пакета: php-zetacomponents-base</summary>
 
 ```
 Из репозитор : fedora
@@ -52148,7 +52147,7 @@ URL          : http://zetacomponents.org/
 </details>
 
 <details>
-<summary>php-zetacomponents-document</summary>
+<summary>Имя пакета: php-zetacomponents-document</summary>
 
 ```
 Из репозитор : fedora
@@ -52185,7 +52184,7 @@ URL          : http://zetacomponents.org/
 </details>
 
 <details>
-<summary>phpdoc</summary>
+<summary>Имя пакета: phpdoc</summary>
 
 ```
 Из репозитор : fedora
@@ -52222,7 +52221,7 @@ URL          : http://www.phpdoc.org
 </details>
 
 <details>
-<summary>phpunit8</summary>
+<summary>Имя пакета: phpunit8</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52241,7 +52240,7 @@ URL          : https://github.com/sebastianbergmann/phpunit
 </details>
 
 <details>
-<summary>phpunit9</summary>
+<summary>Имя пакета: phpunit9</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52260,7 +52259,7 @@ URL          : https://github.com/%{gh_vendor}/phpunit
 </details>
 
 <details>
-<summary>physfs</summary>
+<summary>Имя пакета: physfs</summary>
 
 ```
 Из репозитор : fedora
@@ -52287,7 +52286,7 @@ URL          : http://www.icculus.org/physfs/
 </details>
 
 <details>
-<summary>pigz</summary>
+<summary>Имя пакета: pigz</summary>
 
 ```
 Из репозитор : anaconda
@@ -52303,7 +52302,7 @@ URL          : https://www.zlib.net/pigz/
 </details>
 
 <details>
-<summary>pinentry</summary>
+<summary>Имя пакета: pinentry</summary>
 
 ```
 Из репозитор : anaconda
@@ -52319,7 +52318,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>pinentry-gnome3</summary>
+<summary>Имя пакета: pinentry-gnome3</summary>
 
 ```
 Из репозитор : anaconda
@@ -52335,7 +52334,7 @@ URL          : https://www.gnupg.org/
 </details>
 
 <details>
-<summary>pinfo</summary>
+<summary>Имя пакета: pinfo</summary>
 
 ```
 Из репозитор : anaconda
@@ -52350,7 +52349,7 @@ URL          : http://pinfo.alioth.debian.org
 </details>
 
 <details>
-<summary>pipewire</summary>
+<summary>Имя пакета: pipewire</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52364,7 +52363,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire-alsa</summary>
+<summary>Имя пакета: pipewire-alsa</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52377,7 +52376,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire-gstreamer</summary>
+<summary>Имя пакета: pipewire-gstreamer</summary>
 
 ```
 Из репозитор : anaconda
@@ -52391,7 +52390,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire-gstreamer</summary>
+<summary>Имя пакета: pipewire-gstreamer</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52405,7 +52404,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire-jack-audio-connection-kit</summary>
+<summary>Имя пакета: pipewire-jack-audio-connection-kit</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52418,7 +52417,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire-libs</summary>
+<summary>Имя пакета: pipewire-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -52432,7 +52431,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire-libs</summary>
+<summary>Имя пакета: pipewire-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52446,7 +52445,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire-pulseaudio</summary>
+<summary>Имя пакета: pipewire-pulseaudio</summary>
 
 ```
 Из репозитор : anaconda
@@ -52459,7 +52458,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire-pulseaudio</summary>
+<summary>Имя пакета: pipewire-pulseaudio</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52472,7 +52471,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire-utils</summary>
+<summary>Имя пакета: pipewire-utils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52485,7 +52484,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pipewire0.2-libs</summary>
+<summary>Имя пакета: pipewire0.2-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -52499,7 +52498,7 @@ URL          : https://pipewire.org/
 </details>
 
 <details>
-<summary>pixman</summary>
+<summary>Имя пакета: pixman</summary>
 
 ```
 Из репозитор : anaconda
@@ -52512,7 +52511,7 @@ URL          : https://gitlab.freedesktop.org/pixman/pixman
 </details>
 
 <details>
-<summary>pixman-devel</summary>
+<summary>Имя пакета: pixman-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -52525,7 +52524,7 @@ URL          : https://gitlab.freedesktop.org/pixman/pixman
 </details>
 
 <details>
-<summary>pkcs11-helper</summary>
+<summary>Имя пакета: pkcs11-helper</summary>
 
 ```
 Из репозитор : anaconda
@@ -52544,7 +52543,7 @@ URL          : http://www.opensc-project.org/opensc/wiki/pkcs11-helper
 </details>
 
 <details>
-<summary>pkgconf</summary>
+<summary>Имя пакета: pkgconf</summary>
 
 ```
 Из репозитор : anaconda
@@ -52559,7 +52558,7 @@ URL          : http://pkgconf.org/
 </details>
 
 <details>
-<summary>pkgconf-m4</summary>
+<summary>Имя пакета: pkgconf-m4</summary>
 
 ```
 Из репозитор : anaconda
@@ -52573,7 +52572,7 @@ URL          : http://pkgconf.org/
 </details>
 
 <details>
-<summary>pkgconf-pkg-config</summary>
+<summary>Имя пакета: pkgconf-pkg-config</summary>
 
 ```
 Из репозитор : anaconda
@@ -52588,7 +52587,7 @@ URL          : http://pkgconf.org/
 </details>
 
 <details>
-<summary>plymouth</summary>
+<summary>Имя пакета: plymouth</summary>
 
 ```
 Из репозитор : anaconda
@@ -52604,7 +52603,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth</summary>
+<summary>Имя пакета: plymouth</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52620,7 +52619,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-core-libs</summary>
+<summary>Имя пакета: plymouth-core-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -52633,7 +52632,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-core-libs</summary>
+<summary>Имя пакета: plymouth-core-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52646,7 +52645,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-graphics-libs</summary>
+<summary>Имя пакета: plymouth-graphics-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -52659,7 +52658,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-graphics-libs</summary>
+<summary>Имя пакета: plymouth-graphics-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52672,7 +52671,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-kcm</summary>
+<summary>Имя пакета: plymouth-kcm</summary>
 
 ```
 Из репозитор : fedora
@@ -52686,7 +52685,7 @@ URL          : https://cgit.kde.org/plymouth-kcm.git
 </details>
 
 <details>
-<summary>plymouth-plugin-fade-throbber</summary>
+<summary>Имя пакета: plymouth-plugin-fade-throbber</summary>
 
 ```
 Из репозитор : fedora
@@ -52701,7 +52700,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-plugin-label</summary>
+<summary>Имя пакета: plymouth-plugin-label</summary>
 
 ```
 Из репозитор : anaconda
@@ -52715,7 +52714,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-plugin-label</summary>
+<summary>Имя пакета: plymouth-plugin-label</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52729,7 +52728,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-plugin-script</summary>
+<summary>Имя пакета: plymouth-plugin-script</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52745,7 +52744,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-plugin-space-flares</summary>
+<summary>Имя пакета: plymouth-plugin-space-flares</summary>
 
 ```
 Из репозитор : fedora
@@ -52759,7 +52758,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-plugin-two-step</summary>
+<summary>Имя пакета: plymouth-plugin-two-step</summary>
 
 ```
 Из репозитор : anaconda
@@ -52775,7 +52774,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-plugin-two-step</summary>
+<summary>Имя пакета: plymouth-plugin-two-step</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52791,7 +52790,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-scripts</summary>
+<summary>Имя пакета: plymouth-scripts</summary>
 
 ```
 Из репозитор : anaconda
@@ -52805,7 +52804,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-scripts</summary>
+<summary>Имя пакета: plymouth-scripts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52819,7 +52818,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-system-theme</summary>
+<summary>Имя пакета: plymouth-system-theme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52832,7 +52831,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-theme-breeze</summary>
+<summary>Имя пакета: plymouth-theme-breeze</summary>
 
 ```
 Из репозитор : fedora
@@ -52845,7 +52844,7 @@ URL          : https://cgit.kde.org/plymouth-theme-breeze.git
 </details>
 
 <details>
-<summary>plymouth-theme-charge</summary>
+<summary>Имя пакета: plymouth-theme-charge</summary>
 
 ```
 Из репозитор : fedora
@@ -52860,7 +52859,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-theme-fade-in</summary>
+<summary>Имя пакета: plymouth-theme-fade-in</summary>
 
 ```
 Из репозитор : fedora
@@ -52875,7 +52874,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-theme-hot-dog</summary>
+<summary>Имя пакета: plymouth-theme-hot-dog</summary>
 
 ```
 Из репозитор : fedora
@@ -52889,7 +52888,7 @@ URL          : http://wwoods.fedorapeople.org/hot-dog/
 </details>
 
 <details>
-<summary>plymouth-theme-script</summary>
+<summary>Имя пакета: plymouth-theme-script</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52904,7 +52903,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-theme-solar</summary>
+<summary>Имя пакета: plymouth-theme-solar</summary>
 
 ```
 Из репозитор : fedora
@@ -52918,7 +52917,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-theme-spinfinity</summary>
+<summary>Имя пакета: plymouth-theme-spinfinity</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52933,7 +52932,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-theme-spinner</summary>
+<summary>Имя пакета: plymouth-theme-spinner</summary>
 
 ```
 Из репозитор : anaconda
@@ -52947,7 +52946,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>plymouth-theme-spinner</summary>
+<summary>Имя пакета: plymouth-theme-spinner</summary>
 
 ```
 Из репозитор : updates-testing
@@ -52961,7 +52960,7 @@ URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 </details>
 
 <details>
-<summary>pocl</summary>
+<summary>Имя пакета: pocl</summary>
 
 ```
 Из репозитор : fedora
@@ -52986,7 +52985,7 @@ URL          : http://portablecl.org/
 </details>
 
 <details>
-<summary>podman</summary>
+<summary>Имя пакета: podman</summary>
 
 ```
 Эпоха        : 2
@@ -53012,7 +53011,7 @@ URL          : https://podman.io/
 </details>
 
 <details>
-<summary>podman-plugins</summary>
+<summary>Имя пакета: podman-plugins</summary>
 
 ```
 Эпоха        : 2
@@ -53031,7 +53030,7 @@ URL          : https://podman.io/
 </details>
 
 <details>
-<summary>podman-plugins</summary>
+<summary>Имя пакета: podman-plugins</summary>
 
 ```
 Эпоха        : 2
@@ -53050,7 +53049,7 @@ URL          : https://podman.io/
 </details>
 
 <details>
-<summary>policycoreutils</summary>
+<summary>Имя пакета: policycoreutils</summary>
 
 ```
 Из репозитор : anaconda
@@ -53076,7 +53075,7 @@ URL          : https://github.com/SELinuxProject/selinux
 </details>
 
 <details>
-<summary>policycoreutils</summary>
+<summary>Имя пакета: policycoreutils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53102,7 +53101,7 @@ URL          : https://github.com/SELinuxProject/selinux
 </details>
 
 <details>
-<summary>policycoreutils-python-utils</summary>
+<summary>Имя пакета: policycoreutils-python-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -53116,7 +53115,7 @@ URL          : https://github.com/SELinuxProject/selinux
 </details>
 
 <details>
-<summary>policycoreutils-python-utils</summary>
+<summary>Имя пакета: policycoreutils-python-utils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53130,7 +53129,7 @@ URL          : https://github.com/SELinuxProject/selinux
 </details>
 
 <details>
-<summary>polkit</summary>
+<summary>Имя пакета: polkit</summary>
 
 ```
 Из репозитор : anaconda
@@ -53145,7 +53144,7 @@ URL          : http://www.freedesktop.org/wiki/Software/polkit
 </details>
 
 <details>
-<summary>polkit-libs</summary>
+<summary>Имя пакета: polkit-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -53158,7 +53157,7 @@ URL          : http://www.freedesktop.org/wiki/Software/polkit
 </details>
 
 <details>
-<summary>polkit-pkla-compat</summary>
+<summary>Имя пакета: polkit-pkla-compat</summary>
 
 ```
 Из репозитор : anaconda
@@ -53173,7 +53172,7 @@ URL          : https://pagure.io/polkit-pkla-compat
 </details>
 
 <details>
-<summary>polkit-qt5-1</summary>
+<summary>Имя пакета: polkit-qt5-1</summary>
 
 ```
 Из репозитор : fedora
@@ -53187,7 +53186,7 @@ URL          : https://api.kde.org/kdesupport-api/polkit-qt-1-apidocs/
 </details>
 
 <details>
-<summary>poppler</summary>
+<summary>Имя пакета: poppler</summary>
 
 ```
 Из репозитор : anaconda
@@ -53200,7 +53199,7 @@ URL          : http://poppler.freedesktop.org/
 </details>
 
 <details>
-<summary>poppler</summary>
+<summary>Имя пакета: poppler</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53213,7 +53212,7 @@ URL          : http://poppler.freedesktop.org/
 </details>
 
 <details>
-<summary>poppler-cpp</summary>
+<summary>Имя пакета: poppler-cpp</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53226,7 +53225,7 @@ URL          : http://poppler.freedesktop.org/
 </details>
 
 <details>
-<summary>poppler-data</summary>
+<summary>Имя пакета: poppler-data</summary>
 
 ```
 Из репозитор : anaconda
@@ -53243,7 +53242,7 @@ URL          : https://poppler.freedesktop.org/
 </details>
 
 <details>
-<summary>poppler-glib</summary>
+<summary>Имя пакета: poppler-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -53256,7 +53255,7 @@ URL          : http://poppler.freedesktop.org/
 </details>
 
 <details>
-<summary>poppler-glib</summary>
+<summary>Имя пакета: poppler-glib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53269,7 +53268,7 @@ URL          : http://poppler.freedesktop.org/
 </details>
 
 <details>
-<summary>poppler-utils</summary>
+<summary>Имя пакета: poppler-utils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53283,7 +53282,7 @@ URL          : http://poppler.freedesktop.org/
 </details>
 
 <details>
-<summary>popt</summary>
+<summary>Имя пакета: popt</summary>
 
 ```
 Из репозитор : anaconda
@@ -53303,7 +53302,7 @@ URL          : https://github.com/rpm-software-management/popt/
 </details>
 
 <details>
-<summary>popt</summary>
+<summary>Имя пакета: popt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53323,7 +53322,7 @@ URL          : https://github.com/rpm-software-management/popt/
 </details>
 
 <details>
-<summary>portaudio</summary>
+<summary>Имя пакета: portaudio</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53339,7 +53338,7 @@ URL          : http://www.portaudio.com/
 </details>
 
 <details>
-<summary>potrace</summary>
+<summary>Имя пакета: potrace</summary>
 
 ```
 Из репозитор : fedora
@@ -53364,7 +53363,7 @@ URL          : http://potrace.sourceforge.net
 </details>
 
 <details>
-<summary>powertop</summary>
+<summary>Имя пакета: powertop</summary>
 
 ```
 Из репозитор : fedora
@@ -53378,7 +53377,7 @@ URL          : http://01.org/powertop/
 </details>
 
 <details>
-<summary>ppp</summary>
+<summary>Имя пакета: ppp</summary>
 
 ```
 Из репозитор : anaconda
@@ -53395,7 +53394,7 @@ URL          : http://www.samba.org/ppp
 </details>
 
 <details>
-<summary>pprof</summary>
+<summary>Имя пакета: pprof</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53408,7 +53407,7 @@ URL          : https://github.com/gperftools/gperftools
 </details>
 
 <details>
-<summary>pptp</summary>
+<summary>Имя пакета: pptp</summary>
 
 ```
 Из репозитор : anaconda
@@ -53423,7 +53422,7 @@ URL          : http://pptpclient.sourceforge.net/
 </details>
 
 <details>
-<summary>prestopalette</summary>
+<summary>Имя пакета: prestopalette</summary>
 
 ```
 Из репозитор : fedora
@@ -53436,7 +53435,7 @@ URL          : https://github.com/PrestoPalette/PrestoPalette
 </details>
 
 <details>
-<summary>procinfo</summary>
+<summary>Имя пакета: procinfo</summary>
 
 ```
 Из репозитор : fedora
@@ -53454,7 +53453,7 @@ URL          : https://github.com/PrestoPalette/PrestoPalette
 </details>
 
 <details>
-<summary>procps-ng</summary>
+<summary>Имя пакета: procps-ng</summary>
 
 ```
 Из репозитор : anaconda
@@ -53487,7 +53486,7 @@ URL          : https://sourceforge.net/projects/procps-ng/
 </details>
 
 <details>
-<summary>proj</summary>
+<summary>Имя пакета: proj</summary>
 
 ```
 Из репозитор : fedora
@@ -53502,7 +53501,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-at</summary>
+<summary>Имя пакета: proj-data-at</summary>
 
 ```
 Из репозитор : fedora
@@ -53515,7 +53514,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-au</summary>
+<summary>Имя пакета: proj-data-au</summary>
 
 ```
 Из репозитор : fedora
@@ -53528,7 +53527,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-be</summary>
+<summary>Имя пакета: proj-data-be</summary>
 
 ```
 Из репозитор : fedora
@@ -53541,7 +53540,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-br</summary>
+<summary>Имя пакета: proj-data-br</summary>
 
 ```
 Из репозитор : fedora
@@ -53554,7 +53553,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-ca</summary>
+<summary>Имя пакета: proj-data-ca</summary>
 
 ```
 Из репозитор : fedora
@@ -53567,7 +53566,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-ch</summary>
+<summary>Имя пакета: proj-data-ch</summary>
 
 ```
 Из репозитор : fedora
@@ -53580,7 +53579,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-de</summary>
+<summary>Имя пакета: proj-data-de</summary>
 
 ```
 Из репозитор : fedora
@@ -53593,7 +53592,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-dk</summary>
+<summary>Имя пакета: proj-data-dk</summary>
 
 ```
 Из репозитор : fedora
@@ -53606,7 +53605,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-es</summary>
+<summary>Имя пакета: proj-data-es</summary>
 
 ```
 Из репозитор : fedora
@@ -53619,7 +53618,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-eur</summary>
+<summary>Имя пакета: proj-data-eur</summary>
 
 ```
 Из репозитор : fedora
@@ -53632,7 +53631,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-fi</summary>
+<summary>Имя пакета: proj-data-fi</summary>
 
 ```
 Из репозитор : fedora
@@ -53645,7 +53644,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-fo</summary>
+<summary>Имя пакета: proj-data-fo</summary>
 
 ```
 Из репозитор : fedora
@@ -53658,7 +53657,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-fr</summary>
+<summary>Имя пакета: proj-data-fr</summary>
 
 ```
 Из репозитор : fedora
@@ -53671,7 +53670,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-is</summary>
+<summary>Имя пакета: proj-data-is</summary>
 
 ```
 Из репозитор : fedora
@@ -53684,7 +53683,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-jp</summary>
+<summary>Имя пакета: proj-data-jp</summary>
 
 ```
 Из репозитор : fedora
@@ -53697,7 +53696,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-nc</summary>
+<summary>Имя пакета: proj-data-nc</summary>
 
 ```
 Из репозитор : fedora
@@ -53710,7 +53709,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-nl</summary>
+<summary>Имя пакета: proj-data-nl</summary>
 
 ```
 Из репозитор : fedora
@@ -53723,7 +53722,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-nz</summary>
+<summary>Имя пакета: proj-data-nz</summary>
 
 ```
 Из репозитор : fedora
@@ -53736,7 +53735,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-pt</summary>
+<summary>Имя пакета: proj-data-pt</summary>
 
 ```
 Из репозитор : fedora
@@ -53749,7 +53748,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-se</summary>
+<summary>Имя пакета: proj-data-se</summary>
 
 ```
 Из репозитор : fedora
@@ -53762,7 +53761,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-sk</summary>
+<summary>Имя пакета: proj-data-sk</summary>
 
 ```
 Из репозитор : fedora
@@ -53775,7 +53774,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-uk</summary>
+<summary>Имя пакета: proj-data-uk</summary>
 
 ```
 Из репозитор : fedora
@@ -53788,7 +53787,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>proj-data-us</summary>
+<summary>Имя пакета: proj-data-us</summary>
 
 ```
 Из репозитор : fedora
@@ -53801,7 +53800,7 @@ URL          : https://proj.org
 </details>
 
 <details>
-<summary>protobuf</summary>
+<summary>Имя пакета: protobuf</summary>
 
 ```
 Из репозитор : anaconda
@@ -53824,7 +53823,7 @@ URL          : https://github.com/protocolbuffers/protobuf
 </details>
 
 <details>
-<summary>protobuf</summary>
+<summary>Имя пакета: protobuf</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53847,7 +53846,7 @@ URL          : https://github.com/protocolbuffers/protobuf
 </details>
 
 <details>
-<summary>protobuf-c</summary>
+<summary>Имя пакета: protobuf-c</summary>
 
 ```
 Из репозитор : anaconda
@@ -53864,7 +53863,7 @@ URL          : https://github.com/protobuf-c/protobuf-c
 </details>
 
 <details>
-<summary>protobuf-c</summary>
+<summary>Имя пакета: protobuf-c</summary>
 
 ```
 Из репозитор : updates-testing
@@ -53881,7 +53880,7 @@ URL          : https://github.com/protobuf-c/protobuf-c
 </details>
 
 <details>
-<summary>psacct</summary>
+<summary>Имя пакета: psacct</summary>
 
 ```
 Из репозитор : anaconda
@@ -53900,7 +53899,7 @@ URL          : http://www.gnu.org/software/acct/
 </details>
 
 <details>
-<summary>psmisc</summary>
+<summary>Имя пакета: psmisc</summary>
 
 ```
 Из репозитор : anaconda
@@ -53919,7 +53918,7 @@ URL          : https://gitlab.com/psmisc/psmisc
 </details>
 
 <details>
-<summary>pt-sans-fonts</summary>
+<summary>Имя пакета: pt-sans-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -53950,7 +53949,7 @@ URL          : http://www.paratype.com/public/
 </details>
 
 <details>
-<summary>publicsuffix-list-dafsa</summary>
+<summary>Имя пакета: publicsuffix-list-dafsa</summary>
 
 ```
 Из репозитор : anaconda
@@ -53971,7 +53970,7 @@ URL          : https://publicsuffix.org/
 </details>
 
 <details>
-<summary>pugixml</summary>
+<summary>Имя пакета: pugixml</summary>
 
 ```
 Из репозитор : fedora
@@ -53991,7 +53990,7 @@ URL          : http://pugixml.org
 </details>
 
 <details>
-<summary>pulseaudio-libs</summary>
+<summary>Имя пакета: pulseaudio-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -54005,7 +54004,7 @@ URL          : http://www.freedesktop.org/wiki/Software/PulseAudio
 </details>
 
 <details>
-<summary>pulseaudio-libs-glib2</summary>
+<summary>Имя пакета: pulseaudio-libs-glib2</summary>
 
 ```
 Из репозитор : anaconda
@@ -54019,7 +54018,7 @@ URL          : http://www.freedesktop.org/wiki/Software/PulseAudio
 </details>
 
 <details>
-<summary>pulseaudio-utils</summary>
+<summary>Имя пакета: pulseaudio-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -54032,7 +54031,7 @@ URL          : http://www.freedesktop.org/wiki/Software/PulseAudio
 </details>
 
 <details>
-<summary>puppet</summary>
+<summary>Имя пакета: puppet</summary>
 
 ```
 Из репозитор : fedora
@@ -54048,7 +54047,7 @@ URL          : http://puppetlabs.com
 </details>
 
 <details>
-<summary>puppet-firewalld</summary>
+<summary>Имя пакета: puppet-firewalld</summary>
 
 ```
 Из репозитор : fedora
@@ -54061,7 +54060,7 @@ URL          : https://github.com/jpopelka/puppet-firewalld
 </details>
 
 <details>
-<summary>puppet-headless</summary>
+<summary>Имя пакета: puppet-headless</summary>
 
 ```
 Из репозитор : fedora
@@ -54076,7 +54075,7 @@ URL          : http://puppetlabs.com
 </details>
 
 <details>
-<summary>puppet-server</summary>
+<summary>Имя пакета: puppet-server</summary>
 
 ```
 Из репозитор : fedora
@@ -54090,7 +54089,7 @@ URL          : http://puppetlabs.com
 </details>
 
 <details>
-<summary>puppetlabs-stdlib</summary>
+<summary>Имя пакета: puppetlabs-stdlib</summary>
 
 ```
 Из репозитор : fedora
@@ -54103,7 +54102,7 @@ URL          : https://github.com/puppetlabs/puppetlabs-stdlib
 </details>
 
 <details>
-<summary>pwgen</summary>
+<summary>Имя пакета: pwgen</summary>
 
 ```
 Из репозитор : fedora
@@ -54119,7 +54118,7 @@ URL          : http://sf.net/projects/pwgen
 </details>
 
 <details>
-<summary>pygobject2</summary>
+<summary>Имя пакета: pygobject2</summary>
 
 ```
 Из репозитор : fedora
@@ -54133,7 +54132,7 @@ URL          : http://www.pygtk.org/
 </details>
 
 <details>
-<summary>pygtk2</summary>
+<summary>Имя пакета: pygtk2</summary>
 
 ```
 Из репозитор : fedora
@@ -54149,7 +54148,7 @@ URL          : http://www.pygtk.org/
 </details>
 
 <details>
-<summary>python-btrfs-doc</summary>
+<summary>Имя пакета: python-btrfs-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -54167,7 +54166,7 @@ URL          : https://github.com/knorrie/python-btrfs
 </details>
 
 <details>
-<summary>python-josepy-doc</summary>
+<summary>Имя пакета: python-josepy-doc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -54180,7 +54179,7 @@ URL          : https://pypi.python.org/pypi/josepy
 </details>
 
 <details>
-<summary>python-jupyter-filesystem</summary>
+<summary>Имя пакета: python-jupyter-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -54194,7 +54193,7 @@ URL          : http://jupyter.org
 </details>
 
 <details>
-<summary>python-pip-wheel</summary>
+<summary>Имя пакета: python-pip-wheel</summary>
 
 ```
 Из репозитор : anaconda
@@ -54207,7 +54206,7 @@ URL          : https://pip.pypa.io/
 </details>
 
 <details>
-<summary>python-pip-wheel</summary>
+<summary>Имя пакета: python-pip-wheel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -54220,7 +54219,7 @@ URL          : https://pip.pypa.io/
 </details>
 
 <details>
-<summary>python-rpm-macros</summary>
+<summary>Имя пакета: python-rpm-macros</summary>
 
 ```
 Из репозитор : updates-testing
@@ -54236,7 +54235,7 @@ URL          : https://pip.pypa.io/
 </details>
 
 <details>
-<summary>python-setuptools-wheel</summary>
+<summary>Имя пакета: python-setuptools-wheel</summary>
 
 ```
 Из репозитор : anaconda
@@ -54249,7 +54248,7 @@ URL          : https://pypi.python.org/pypi/setuptools
 </details>
 
 <details>
-<summary>python-srpm-macros</summary>
+<summary>Имя пакета: python-srpm-macros</summary>
 
 ```
 Из репозитор : updates-testing
@@ -54261,7 +54260,7 @@ URL          : https://pypi.python.org/pypi/setuptools
 </details>
 
 <details>
-<summary>python-systemd-doc</summary>
+<summary>Имя пакета: python-systemd-doc</summary>
 
 ```
 Из репозитор : anaconda
@@ -54274,7 +54273,7 @@ URL          : https://github.com/systemd/python-systemd
 </details>
 
 <details>
-<summary>python-unversioned-command</summary>
+<summary>Имя пакета: python-unversioned-command</summary>
 
 ```
 Из репозитор : anaconda
@@ -54287,7 +54286,7 @@ URL          : https://www.python.org/
 </details>
 
 <details>
-<summary>python-unversioned-command</summary>
+<summary>Имя пакета: python-unversioned-command</summary>
 
 ```
 Из репозитор : updates-testing
@@ -54300,7 +54299,7 @@ URL          : https://www.python.org/
 </details>
 
 <details>
-<summary>python2-cairo</summary>
+<summary>Имя пакета: python2-cairo</summary>
 
 ```
 Из репозитор : fedora
@@ -54313,7 +54312,7 @@ URL          : http://cairographics.org/pycairo
 </details>
 
 <details>
-<summary>python2.7</summary>
+<summary>Имя пакета: python2.7</summary>
 
 ```
 Из репозитор : fedora
@@ -54335,7 +54334,7 @@ URL          : https://www.python.org/
 </details>
 
 <details>
-<summary>python3</summary>
+<summary>Имя пакета: python3</summary>
 
 ```
 Из репозитор : anaconda
@@ -54364,7 +54363,7 @@ URL          : https://www.python.org/
 </details>
 
 <details>
-<summary>python3</summary>
+<summary>Имя пакета: python3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -54393,7 +54392,7 @@ URL          : https://www.python.org/
 </details>
 
 <details>
-<summary>python3-Automat</summary>
+<summary>Имя пакета: python3-Automat</summary>
 
 ```
 Из репозитор : fedora
@@ -54407,7 +54406,7 @@ URL          : https://github.com/glyph/automat
 </details>
 
 <details>
-<summary>python3-Bottleneck</summary>
+<summary>Имя пакета: python3-Bottleneck</summary>
 
 ```
 Из репозитор : fedora
@@ -54421,7 +54420,7 @@ URL          : https://pypi.org/project/Bottleneck/
 </details>
 
 <details>
-<summary>python3-Cython</summary>
+<summary>Имя пакета: python3-Cython</summary>
 
 ```
 Из репозитор : fedora
@@ -54437,7 +54436,7 @@ URL          : http://www.cython.org
 </details>
 
 <details>
-<summary>python3-GitPython</summary>
+<summary>Имя пакета: python3-GitPython</summary>
 
 ```
 Из репозитор : fedora
@@ -54462,7 +54461,7 @@ URL          : https://github.com/gitpython-developers/GitPython
 </details>
 
 <details>
-<summary>python3-Levenshtein</summary>
+<summary>Имя пакета: python3-Levenshtein</summary>
 
 ```
 Из репозитор : fedora
@@ -54478,7 +54477,7 @@ URL          : http://pypi.python.org/pypi/python-Levenshtein/
 </details>
 
 <details>
-<summary>python3-abrt</summary>
+<summary>Имя пакета: python3-abrt</summary>
 
 ```
 Из репозитор : anaconda
@@ -54492,7 +54491,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>python3-abrt-addon</summary>
+<summary>Имя пакета: python3-abrt-addon</summary>
 
 ```
 Из репозитор : anaconda
@@ -54506,7 +54505,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>python3-acme</summary>
+<summary>Имя пакета: python3-acme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -54520,7 +54519,7 @@ URL          : https://pypi.python.org/pypi/acme
 </details>
 
 <details>
-<summary>python3-alembic</summary>
+<summary>Имя пакета: python3-alembic</summary>
 
 ```
 Из репозитор : fedora
@@ -54544,7 +54543,7 @@ URL          : https://pypi.io/project/alembic
 </details>
 
 <details>
-<summary>python3-amqp</summary>
+<summary>Имя пакета: python3-amqp</summary>
 
 ```
 Из репозитор : fedora
@@ -54561,7 +54560,7 @@ URL          : http://pypi.python.org/pypi/amqp
 </details>
 
 <details>
-<summary>python3-argcomplete</summary>
+<summary>Имя пакета: python3-argcomplete</summary>
 
 ```
 Из репозитор : anaconda
@@ -54585,7 +54584,7 @@ URL          : https://github.com/kislyuk/argcomplete
 </details>
 
 <details>
-<summary>python3-argon2-cffi</summary>
+<summary>Имя пакета: python3-argon2-cffi</summary>
 
 ```
 Из репозитор : fedora
@@ -54598,7 +54597,7 @@ URL          : https://argon2-cffi.readthedocs.io/
 </details>
 
 <details>
-<summary>python3-arrow</summary>
+<summary>Имя пакета: python3-arrow</summary>
 
 ```
 Из репозитор : fedora
@@ -54619,7 +54618,7 @@ URL          : https://pypi.io/project/arrow
 </details>
 
 <details>
-<summary>python3-async-generator</summary>
+<summary>Имя пакета: python3-async-generator</summary>
 
 ```
 Из репозитор : fedora
@@ -54635,7 +54634,7 @@ URL          : https://github.com/python-trio/async_generator
 </details>
 
 <details>
-<summary>python3-attrs</summary>
+<summary>Имя пакета: python3-attrs</summary>
 
 ```
 Из репозитор : fedora
@@ -54650,7 +54649,7 @@ URL          : http://www.attrs.org/
 </details>
 
 <details>
-<summary>python3-audit</summary>
+<summary>Имя пакета: python3-audit</summary>
 
 ```
 Из репозитор : anaconda
@@ -54664,7 +54663,7 @@ URL          : http://people.redhat.com/sgrubb/audit/
 </details>
 
 <details>
-<summary>python3-augeas</summary>
+<summary>Имя пакета: python3-augeas</summary>
 
 ```
 Из репозитор : anaconda
@@ -54677,7 +54676,7 @@ URL          : http://augeas.net/
 </details>
 
 <details>
-<summary>python3-babel</summary>
+<summary>Имя пакета: python3-babel</summary>
 
 ```
 Из репозитор : fedora
@@ -54696,7 +54695,7 @@ URL          : https://babel.pocoo.org/
 </details>
 
 <details>
-<summary>python3-backcall</summary>
+<summary>Имя пакета: python3-backcall</summary>
 
 ```
 Из репозитор : fedora
@@ -54714,7 +54713,7 @@ URL          : https://github.com/takluyver/backcall
 </details>
 
 <details>
-<summary>python3-beaker</summary>
+<summary>Имя пакета: python3-beaker</summary>
 
 ```
 Из репозитор : anaconda
@@ -54729,7 +54728,7 @@ URL          : http://beaker.readthedocs.io
 </details>
 
 <details>
-<summary>python3-beautifulsoup4</summary>
+<summary>Имя пакета: python3-beautifulsoup4</summary>
 
 ```
 Из репозитор : anaconda
@@ -54758,7 +54757,7 @@ URL          : http://www.crummy.com/software/BeautifulSoup/
 </details>
 
 <details>
-<summary>python3-billiard</summary>
+<summary>Имя пакета: python3-billiard</summary>
 
 ```
 Эпоха        : 1
@@ -54772,7 +54771,7 @@ URL          : https://github.com/celery/billiard
 </details>
 
 <details>
-<summary>python3-bleach</summary>
+<summary>Имя пакета: python3-bleach</summary>
 
 ```
 Из репозитор : fedora
@@ -54788,7 +54787,7 @@ URL          : https://github.com/mozilla/bleach
 </details>
 
 <details>
-<summary>python3-blivet</summary>
+<summary>Имя пакета: python3-blivet</summary>
 
 ```
 Эпоха        : 1
@@ -54803,7 +54802,7 @@ URL          : https://storageapis.wordpress.com/projects/blivet
 </details>
 
 <details>
-<summary>python3-blockdev</summary>
+<summary>Имя пакета: python3-blockdev</summary>
 
 ```
 Из репозитор : anaconda
@@ -54817,7 +54816,7 @@ URL          : https://github.com/storaged-project/libblockdev
 </details>
 
 <details>
-<summary>python3-bodhi</summary>
+<summary>Имя пакета: python3-bodhi</summary>
 
 ```
 Из репозитор : fedora
@@ -54830,7 +54829,7 @@ URL          : https://github.com/fedora-infra/bodhi
 </details>
 
 <details>
-<summary>python3-bodhi-client</summary>
+<summary>Имя пакета: python3-bodhi-client</summary>
 
 ```
 Из репозитор : fedora
@@ -54843,7 +54842,7 @@ URL          : https://github.com/fedora-infra/bodhi
 </details>
 
 <details>
-<summary>python3-brlapi</summary>
+<summary>Имя пакета: python3-brlapi</summary>
 
 ```
 Из репозитор : anaconda
@@ -54856,7 +54855,7 @@ URL          : http://brltty.app/
 </details>
 
 <details>
-<summary>python3-btrfs</summary>
+<summary>Имя пакета: python3-btrfs</summary>
 
 ```
 Из репозитор : fedora
@@ -54874,7 +54873,7 @@ URL          : https://github.com/knorrie/python-btrfs
 </details>
 
 <details>
-<summary>python3-btrfsutil</summary>
+<summary>Имя пакета: python3-btrfsutil</summary>
 
 ```
 Из репозитор : fedora
@@ -54891,7 +54890,7 @@ URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 </details>
 
 <details>
-<summary>python3-bugzilla</summary>
+<summary>Имя пакета: python3-bugzilla</summary>
 
 ```
 Из репозитор : fedora
@@ -54905,7 +54904,7 @@ URL          : https://github.com/python-bugzilla/python-bugzilla
 </details>
 
 <details>
-<summary>python3-bytesize</summary>
+<summary>Имя пакета: python3-bytesize</summary>
 
 ```
 Из репозитор : anaconda
@@ -54919,7 +54918,7 @@ URL          : https://github.com/storaged-project/libbytesize
 </details>
 
 <details>
-<summary>python3-cairo</summary>
+<summary>Имя пакета: python3-cairo</summary>
 
 ```
 Из репозитор : anaconda
@@ -54932,7 +54931,7 @@ URL          : http://cairographics.org/pycairo
 </details>
 
 <details>
-<summary>python3-cccolutils</summary>
+<summary>Имя пакета: python3-cccolutils</summary>
 
 ```
 Из репозитор : fedora
@@ -54945,7 +54944,7 @@ URL          : https://pagure.io/cccolutils
 </details>
 
 <details>
-<summary>python3-celery</summary>
+<summary>Имя пакета: python3-celery</summary>
 
 ```
 Из репозитор : fedora
@@ -54958,7 +54957,7 @@ URL          : https://celeryproject.org
 </details>
 
 <details>
-<summary>python3-certbot</summary>
+<summary>Имя пакета: python3-certbot</summary>
 
 ```
 Из репозитор : updates-testing
@@ -54971,7 +54970,7 @@ URL          : https://pypi.python.org/pypi/certbot
 </details>
 
 <details>
-<summary>python3-certbot-apache</summary>
+<summary>Имя пакета: python3-certbot-apache</summary>
 
 ```
 Из репозитор : updates-testing
@@ -54984,7 +54983,7 @@ URL          : https://pypi.python.org/pypi/certbot-apache
 </details>
 
 <details>
-<summary>python3-certbot-dns-rfc2136</summary>
+<summary>Имя пакета: python3-certbot-dns-rfc2136</summary>
 
 ```
 Из репозитор : updates-testing
@@ -55001,7 +55000,7 @@ URL          : https://github.com/certbot/certbot
 </details>
 
 <details>
-<summary>python3-certbot-nginx</summary>
+<summary>Имя пакета: python3-certbot-nginx</summary>
 
 ```
 Из репозитор : updates-testing
@@ -55014,7 +55013,7 @@ URL          : https://pypi.python.org/pypi/certbot-nginx
 </details>
 
 <details>
-<summary>python3-cffi</summary>
+<summary>Имя пакета: python3-cffi</summary>
 
 ```
 Из репозитор : anaconda
@@ -55029,7 +55028,7 @@ URL          : https://cffi.readthedocs.org/
 </details>
 
 <details>
-<summary>python3-chardet</summary>
+<summary>Имя пакета: python3-chardet</summary>
 
 ```
 Из репозитор : anaconda
@@ -55043,7 +55042,7 @@ URL          : https://github.com/chardet/chardet
 </details>
 
 <details>
-<summary>python3-click</summary>
+<summary>Имя пакета: python3-click</summary>
 
 ```
 Из репозитор : fedora
@@ -55059,7 +55058,7 @@ URL          : https://github.com/mitsuhiko/click
 </details>
 
 <details>
-<summary>python3-click-didyoumean</summary>
+<summary>Имя пакета: python3-click-didyoumean</summary>
 
 ```
 Из репозитор : fedora
@@ -55072,7 +55071,7 @@ URL          : https://github.com/timofurrer/click-didyoumean
 </details>
 
 <details>
-<summary>python3-click-plugins</summary>
+<summary>Имя пакета: python3-click-plugins</summary>
 
 ```
 Из репозитор : fedora
@@ -55086,7 +55085,7 @@ URL          : https://pypi.python.org/pypi/click-plugins
 </details>
 
 <details>
-<summary>python3-click-repl</summary>
+<summary>Имя пакета: python3-click-repl</summary>
 
 ```
 Из репозитор : fedora
@@ -55099,7 +55098,7 @@ URL          : https://github.com/untitaker/click-repl
 </details>
 
 <details>
-<summary>python3-cloudpickle</summary>
+<summary>Имя пакета: python3-cloudpickle</summary>
 
 ```
 Из репозитор : fedora
@@ -55118,7 +55117,7 @@ URL          : https://github.com/cloudpipe/cloudpickle
 </details>
 
 <details>
-<summary>python3-configargparse</summary>
+<summary>Имя пакета: python3-configargparse</summary>
 
 ```
 Из репозитор : fedora
@@ -55137,7 +55136,7 @@ URL          : https://github.com/bw2/ConfigArgParse
 </details>
 
 <details>
-<summary>python3-configobj</summary>
+<summary>Имя пакета: python3-configobj</summary>
 
 ```
 Из репозитор : fedora
@@ -55152,7 +55151,7 @@ URL          : http://configobj.readthedocs.org/
 </details>
 
 <details>
-<summary>python3-configshell</summary>
+<summary>Имя пакета: python3-configshell</summary>
 
 ```
 Эпоха        : 1
@@ -55167,7 +55166,7 @@ URL          : https://github.com/open-iscsi/configshell-fb
 </details>
 
 <details>
-<summary>python3-constantly</summary>
+<summary>Имя пакета: python3-constantly</summary>
 
 ```
 Из репозитор : fedora
@@ -55183,7 +55182,7 @@ URL          : https://github.com/twisted/constantly
 </details>
 
 <details>
-<summary>python3-crypto</summary>
+<summary>Имя пакета: python3-crypto</summary>
 
 ```
 Из репозитор : anaconda
@@ -55199,7 +55198,7 @@ URL          : http://www.pycrypto.org/
 </details>
 
 <details>
-<summary>python3-cryptography</summary>
+<summary>Имя пакета: python3-cryptography</summary>
 
 ```
 Из репозитор : updates-testing
@@ -55213,7 +55212,7 @@ URL          : https://cryptography.io/en/latest/
 </details>
 
 <details>
-<summary>python3-cups</summary>
+<summary>Имя пакета: python3-cups</summary>
 
 ```
 Из репозитор : anaconda
@@ -55228,7 +55227,7 @@ URL          : https://github.com/OpenPrinting/pycups/
 </details>
 
 <details>
-<summary>python3-cycler</summary>
+<summary>Имя пакета: python3-cycler</summary>
 
 ```
 Из репозитор : fedora
@@ -55242,7 +55241,7 @@ URL          : https://github.com/matplotlib/cycler.git
 </details>
 
 <details>
-<summary>python3-daemon</summary>
+<summary>Имя пакета: python3-daemon</summary>
 
 ```
 Из репозитор : fedora
@@ -55258,7 +55257,7 @@ URL          : https://pagure.io/python-daemon
 </details>
 
 <details>
-<summary>python3-dasbus</summary>
+<summary>Имя пакета: python3-dasbus</summary>
 
 ```
 Из репозитор : anaconda
@@ -55273,7 +55272,7 @@ URL          : https://pypi.python.org/pypi/dasbus
 </details>
 
 <details>
-<summary>python3-dateutil</summary>
+<summary>Имя пакета: python3-dateutil</summary>
 
 ```
 Эпоха        : 1
@@ -55288,7 +55287,7 @@ URL          : https://github.com/dateutil/dateutil
 </details>
 
 <details>
-<summary>python3-dbus</summary>
+<summary>Имя пакета: python3-dbus</summary>
 
 ```
 Из репозитор : anaconda
@@ -55301,7 +55300,7 @@ URL          : http://www.freedesktop.org/wiki/Software/DBusBindings/
 </details>
 
 <details>
-<summary>python3-dbus-next</summary>
+<summary>Имя пакета: python3-dbus-next</summary>
 
 ```
 Из репозитор : fedora
@@ -55338,7 +55337,7 @@ URL          : https://github.com/altdesktop/python-dbus-next
 </details>
 
 <details>
-<summary>python3-decorator</summary>
+<summary>Имя пакета: python3-decorator</summary>
 
 ```
 Из репозитор : anaconda
@@ -55354,7 +55353,7 @@ URL          : https://github.com/micheles/decorator
 </details>
 
 <details>
-<summary>python3-defusedxml</summary>
+<summary>Имя пакета: python3-defusedxml</summary>
 
 ```
 Из репозитор : fedora
@@ -55371,7 +55370,7 @@ URL          : https://github.com/tiran/defusedxml
 </details>
 
 <details>
-<summary>python3-devel</summary>
+<summary>Имя пакета: python3-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -55389,7 +55388,7 @@ URL          : https://www.python.org/
 </details>
 
 <details>
-<summary>python3-distro</summary>
+<summary>Имя пакета: python3-distro</summary>
 
 ```
 Из репозитор : anaconda
@@ -55415,7 +55414,7 @@ URL          : https://github.com/nir0s/distro
 </details>
 
 <details>
-<summary>python3-dnf</summary>
+<summary>Имя пакета: python3-dnf</summary>
 
 ```
 Из репозитор : anaconda
@@ -55428,7 +55427,7 @@ URL          : https://github.com/rpm-software-management/dnf
 </details>
 
 <details>
-<summary>python3-dnf</summary>
+<summary>Имя пакета: python3-dnf</summary>
 
 ```
 Из репозитор : updates-testing
@@ -55441,7 +55440,7 @@ URL          : https://github.com/rpm-software-management/dnf
 </details>
 
 <details>
-<summary>python3-dnf-plugin-system-upgrade</summary>
+<summary>Имя пакета: python3-dnf-plugin-system-upgrade</summary>
 
 ```
 Из репозитор : anaconda
@@ -55455,7 +55454,7 @@ URL          : https://github.com/rpm-software-management/dnf-plugins-extras
 </details>
 
 <details>
-<summary>python3-dnf-plugins-core</summary>
+<summary>Имя пакета: python3-dnf-plugins-core</summary>
 
 ```
 Из репозитор : anaconda
@@ -55472,7 +55471,7 @@ URL          : https://github.com/rpm-software-management/dnf-plugins-core
 </details>
 
 <details>
-<summary>python3-dnf-plugins-extras-common</summary>
+<summary>Имя пакета: python3-dnf-plugins-extras-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -55485,7 +55484,7 @@ URL          : https://github.com/rpm-software-management/dnf-plugins-extras
 </details>
 
 <details>
-<summary>python3-dns</summary>
+<summary>Имя пакета: python3-dns</summary>
 
 ```
 Из репозитор : updates-testing
@@ -55505,7 +55504,7 @@ URL          : http://www.dnspython.org
 </details>
 
 <details>
-<summary>python3-docutils</summary>
+<summary>Имя пакета: python3-docutils</summary>
 
 ```
 Из репозитор : fedora
@@ -55526,7 +55525,7 @@ URL          : http://docutils.sourceforge.net
 </details>
 
 <details>
-<summary>python3-dogpile-cache</summary>
+<summary>Имя пакета: python3-dogpile-cache</summary>
 
 ```
 Из репозитор : fedora
@@ -55558,7 +55557,7 @@ URL          : https://pypi.io/project/dogpile.cache
 </details>
 
 <details>
-<summary>python3-editor</summary>
+<summary>Имя пакета: python3-editor</summary>
 
 ```
 Из репозитор : fedora
@@ -55571,7 +55570,7 @@ URL          : https://github.com/fmoo/python-editor
 </details>
 
 <details>
-<summary>python3-enchant</summary>
+<summary>Имя пакета: python3-enchant</summary>
 
 ```
 Из репозитор : anaconda
@@ -55585,7 +55584,7 @@ URL          : http://packages.python.org/pyenchant/
 </details>
 
 <details>
-<summary>python3-entrypoints</summary>
+<summary>Имя пакета: python3-entrypoints</summary>
 
 ```
 Из репозитор : fedora
@@ -55602,7 +55601,7 @@ URL          : https://entrypoints.readthedocs.io/
 </details>
 
 <details>
-<summary>python3-fastcache</summary>
+<summary>Имя пакета: python3-fastcache</summary>
 
 ```
 Из репозитор : fedora
@@ -55616,7 +55615,7 @@ URL          : https://github.com/pbrady/fastcache
 </details>
 
 <details>
-<summary>python3-fedmsg</summary>
+<summary>Имя пакета: python3-fedmsg</summary>
 
 ```
 Из репозитор : fedora
@@ -55630,7 +55629,7 @@ URL          : https://github.com/fedora-infra/fedmsg
 </details>
 
 <details>
-<summary>python3-fedora</summary>
+<summary>Имя пакета: python3-fedora</summary>
 
 ```
 Из репозитор : fedora
@@ -55646,7 +55645,7 @@ URL          : https://github.com/fedora-infra/python-fedora
 </details>
 
 <details>
-<summary>python3-file-magic</summary>
+<summary>Имя пакета: python3-file-magic</summary>
 
 ```
 Из репозитор : fedora
@@ -55661,7 +55660,7 @@ URL          : https://www.darwinsys.com/file/
 </details>
 
 <details>
-<summary>python3-firewall</summary>
+<summary>Имя пакета: python3-firewall</summary>
 
 ```
 Из репозитор : anaconda
@@ -55674,7 +55673,7 @@ URL          : http://www.firewalld.org
 </details>
 
 <details>
-<summary>python3-flask</summary>
+<summary>Имя пакета: python3-flask</summary>
 
 ```
 Эпоха        : 1
@@ -55697,7 +55696,7 @@ URL          : http://flask.pocoo.org/
 </details>
 
 <details>
-<summary>python3-flask-migrate</summary>
+<summary>Имя пакета: python3-flask-migrate</summary>
 
 ```
 Из репозитор : fedora
@@ -55710,7 +55709,7 @@ URL          : http://pypi.python.org/pypi/flask-migrate
 </details>
 
 <details>
-<summary>python3-flask-script</summary>
+<summary>Имя пакета: python3-flask-script</summary>
 
 ```
 Из репозитор : fedora
@@ -55726,7 +55725,7 @@ URL          : http://flask-script.readthedocs.org/en/latest/
 </details>
 
 <details>
-<summary>python3-flask-sqlalchemy</summary>
+<summary>Имя пакета: python3-flask-sqlalchemy</summary>
 
 ```
 Из репозитор : fedora
@@ -55744,7 +55743,7 @@ URL          : https://github.com/pallets/flask-sqlalchemy
 </details>
 
 <details>
-<summary>python3-flatpak-module-tools</summary>
+<summary>Имя пакета: python3-flatpak-module-tools</summary>
 
 ```
 Из репозитор : fedora
@@ -55757,7 +55756,7 @@ URL          : https://pagure.io/flatpak-module-tools
 </details>
 
 <details>
-<summary>python3-funcsigs</summary>
+<summary>Имя пакета: python3-funcsigs</summary>
 
 ```
 Из репозитор : fedora
@@ -55772,7 +55771,7 @@ URL          : https://github.com/testing-cabal/funcsigs?
 </details>
 
 <details>
-<summary>python3-future</summary>
+<summary>Имя пакета: python3-future</summary>
 
 ```
 Из репозитор : fedora
@@ -55794,7 +55793,7 @@ URL          : http://python-future.org/
 </details>
 
 <details>
-<summary>python3-gdal</summary>
+<summary>Имя пакета: python3-gdal</summary>
 
 ```
 Из репозитор : updates-testing
@@ -55807,7 +55806,7 @@ URL          : http://www.gdal.org
 </details>
 
 <details>
-<summary>python3-gexiv2</summary>
+<summary>Имя пакета: python3-gexiv2</summary>
 
 ```
 Из репозитор : fedora
@@ -55820,7 +55819,7 @@ URL          : https://wiki.gnome.org/Projects/gexiv2
 </details>
 
 <details>
-<summary>python3-git-revise</summary>
+<summary>Имя пакета: python3-git-revise</summary>
 
 ```
 Из репозитор : fedora
@@ -55833,7 +55832,7 @@ URL          : https://github.com/mystor/git-revise
 </details>
 
 <details>
-<summary>python3-gitdb</summary>
+<summary>Имя пакета: python3-gitdb</summary>
 
 ```
 Из репозитор : fedora
@@ -55851,7 +55850,7 @@ URL          : https://github.com/gitpython-developers/gitdb
 </details>
 
 <details>
-<summary>python3-gitlab</summary>
+<summary>Имя пакета: python3-gitlab</summary>
 
 ```
 Из репозитор : fedora
@@ -55864,7 +55863,7 @@ URL          : https://github.com/python-gitlab/python-gitlab
 </details>
 
 <details>
-<summary>python3-gmpy2</summary>
+<summary>Имя пакета: python3-gmpy2</summary>
 
 ```
 Из репозитор : fedora
@@ -55885,7 +55884,7 @@ URL          : https://pypi.python.org/pypi/gmpy2
 </details>
 
 <details>
-<summary>python3-gobject</summary>
+<summary>Имя пакета: python3-gobject</summary>
 
 ```
 Из репозитор : anaconda
@@ -55900,7 +55899,7 @@ URL          : https://wiki.gnome.org/Projects/PyGObject
 </details>
 
 <details>
-<summary>python3-gobject</summary>
+<summary>Имя пакета: python3-gobject</summary>
 
 ```
 Из репозитор : updates-testing
@@ -55915,7 +55914,7 @@ URL          : https://wiki.gnome.org/Projects/PyGObject
 </details>
 
 <details>
-<summary>python3-gobject-base</summary>
+<summary>Имя пакета: python3-gobject-base</summary>
 
 ```
 Из репозитор : anaconda
@@ -55929,7 +55928,7 @@ URL          : https://wiki.gnome.org/Projects/PyGObject
 </details>
 
 <details>
-<summary>python3-gobject-base</summary>
+<summary>Имя пакета: python3-gobject-base</summary>
 
 ```
 Из репозитор : updates-testing
@@ -55943,7 +55942,7 @@ URL          : https://wiki.gnome.org/Projects/PyGObject
 </details>
 
 <details>
-<summary>python3-gpg</summary>
+<summary>Имя пакета: python3-gpg</summary>
 
 ```
 Из репозитор : anaconda
@@ -55956,7 +55955,7 @@ URL          : https://gnupg.org/related_software/gpgme/
 </details>
 
 <details>
-<summary>python3-gssapi</summary>
+<summary>Имя пакета: python3-gssapi</summary>
 
 ```
 Из репозитор : fedora
@@ -55977,7 +55976,7 @@ URL          : https://github.com/pythongssapi/python-gssapi
 </details>
 
 <details>
-<summary>python3-hawkey</summary>
+<summary>Имя пакета: python3-hawkey</summary>
 
 ```
 Из репозитор : anaconda
@@ -55990,7 +55989,7 @@ URL          : https://github.com/rpm-software-management/libdnf
 </details>
 
 <details>
-<summary>python3-hawkey</summary>
+<summary>Имя пакета: python3-hawkey</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56003,7 +56002,7 @@ URL          : https://github.com/rpm-software-management/libdnf
 </details>
 
 <details>
-<summary>python3-html5lib</summary>
+<summary>Имя пакета: python3-html5lib</summary>
 
 ```
 Эпоха        : 1
@@ -56018,7 +56017,7 @@ URL          : https://github.com/html5lib/html5lib-python
 </details>
 
 <details>
-<summary>python3-httplib2</summary>
+<summary>Имя пакета: python3-httplib2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56032,7 +56031,7 @@ URL          : https://pypi.python.org/pypi/httplib2
 </details>
 
 <details>
-<summary>python3-humanize</summary>
+<summary>Имя пакета: python3-humanize</summary>
 
 ```
 Из репозитор : anaconda
@@ -56047,7 +56046,7 @@ URL          : https://github.com/jmoiron/humanize
 </details>
 
 <details>
-<summary>python3-hyperlink</summary>
+<summary>Имя пакета: python3-hyperlink</summary>
 
 ```
 Из репозитор : fedora
@@ -56063,7 +56062,7 @@ URL          : https://github.com/python-hyper/hyperlink
 </details>
 
 <details>
-<summary>python3-i3ipc</summary>
+<summary>Имя пакета: python3-i3ipc</summary>
 
 ```
 Из репозитор : fedora
@@ -56084,7 +56083,7 @@ URL          : https://github.com/altdesktop/i3ipc-python
 </details>
 
 <details>
-<summary>python3-idna</summary>
+<summary>Имя пакета: python3-idna</summary>
 
 ```
 Из репозитор : anaconda
@@ -56104,7 +56103,7 @@ URL          : https://github.com/kjd/idna
 </details>
 
 <details>
-<summary>python3-imageio</summary>
+<summary>Имя пакета: python3-imageio</summary>
 
 ```
 Из репозитор : fedora
@@ -56117,7 +56116,7 @@ URL          : https://imageio.github.io
 </details>
 
 <details>
-<summary>python3-imagesize</summary>
+<summary>Имя пакета: python3-imagesize</summary>
 
 ```
 Из репозитор : fedora
@@ -56137,7 +56136,7 @@ URL          : https://github.com/shibukawa/imagesize_py
 </details>
 
 <details>
-<summary>python3-incremental</summary>
+<summary>Имя пакета: python3-incremental</summary>
 
 ```
 Из репозитор : fedora
@@ -56150,7 +56149,7 @@ URL          : https://github.com/twisted/incremental
 </details>
 
 <details>
-<summary>python3-ipykernel</summary>
+<summary>Имя пакета: python3-ipykernel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56163,7 +56162,7 @@ URL          : https://github.com/ipython/ipykernel
 </details>
 
 <details>
-<summary>python3-ipython</summary>
+<summary>Имя пакета: python3-ipython</summary>
 
 ```
 Из репозитор : fedora
@@ -56196,7 +56195,7 @@ URL          : http://ipython.org/
 </details>
 
 <details>
-<summary>python3-ipython_genutils</summary>
+<summary>Имя пакета: python3-ipython_genutils</summary>
 
 ```
 Из репозитор : fedora
@@ -56215,7 +56214,7 @@ URL          : https://github.com/ipython/ipython_genutils
 </details>
 
 <details>
-<summary>python3-itsdangerous</summary>
+<summary>Имя пакета: python3-itsdangerous</summary>
 
 ```
 Из репозитор : fedora
@@ -56236,7 +56235,7 @@ URL          : https://itsdangerous.palletsprojects.com
 </details>
 
 <details>
-<summary>python3-jedi</summary>
+<summary>Имя пакета: python3-jedi</summary>
 
 ```
 Из репозитор : fedora
@@ -56252,7 +56251,7 @@ URL          : https://jedi.readthedocs.org
 </details>
 
 <details>
-<summary>python3-jinja2</summary>
+<summary>Имя пакета: python3-jinja2</summary>
 
 ```
 Из репозитор : fedora
@@ -56273,7 +56272,7 @@ URL          : https://palletsprojects.com/p/jinja/
 </details>
 
 <details>
-<summary>python3-joblib</summary>
+<summary>Имя пакета: python3-joblib</summary>
 
 ```
 Из репозитор : fedora
@@ -56291,7 +56290,7 @@ URL          : https://joblib.readthedocs.io
 </details>
 
 <details>
-<summary>python3-josepy</summary>
+<summary>Имя пакета: python3-josepy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56306,7 +56305,7 @@ URL          : https://pypi.python.org/pypi/josepy
 </details>
 
 <details>
-<summary>python3-jsonschema</summary>
+<summary>Имя пакета: python3-jsonschema</summary>
 
 ```
 Из репозитор : fedora
@@ -56325,7 +56324,7 @@ URL          : https://github.com/Julian/jsonschema
 </details>
 
 <details>
-<summary>python3-jupyter-client</summary>
+<summary>Имя пакета: python3-jupyter-client</summary>
 
 ```
 Из репозитор : fedora
@@ -56342,7 +56341,7 @@ URL          : http://jupyter.org
 </details>
 
 <details>
-<summary>python3-jupyter-core</summary>
+<summary>Имя пакета: python3-jupyter-core</summary>
 
 ```
 Из репозитор : fedora
@@ -56358,7 +56357,7 @@ URL          : http://jupyter.org
 </details>
 
 <details>
-<summary>python3-jupyterlab_pygments</summary>
+<summary>Имя пакета: python3-jupyterlab_pygments</summary>
 
 ```
 Из репозитор : fedora
@@ -56372,7 +56371,7 @@ URL          : https://github.com/jupyterlab/jupyterlab_pygments
 </details>
 
 <details>
-<summary>python3-kickstart</summary>
+<summary>Имя пакета: python3-kickstart</summary>
 
 ```
 Из репозитор : anaconda
@@ -56386,7 +56385,7 @@ URL          : http://fedoraproject.org/wiki/pykickstart
 </details>
 
 <details>
-<summary>python3-kitchen</summary>
+<summary>Имя пакета: python3-kitchen</summary>
 
 ```
 Из репозитор : fedora
@@ -56403,7 +56402,7 @@ URL          : https://pypi.python.org/pypi/kitchen/
 </details>
 
 <details>
-<summary>python3-kiwisolver</summary>
+<summary>Имя пакета: python3-kiwisolver</summary>
 
 ```
 Из репозитор : fedora
@@ -56419,7 +56418,7 @@ URL          : https://github.com/nucleic/kiwi
 </details>
 
 <details>
-<summary>python3-kmod</summary>
+<summary>Имя пакета: python3-kmod</summary>
 
 ```
 Из репозитор : fedora
@@ -56433,7 +56432,7 @@ URL          : https://github.com/agrover/python-kmod/
 </details>
 
 <details>
-<summary>python3-kobo</summary>
+<summary>Имя пакета: python3-kobo</summary>
 
 ```
 Из репозитор : fedora
@@ -56446,7 +56445,7 @@ URL          : https://github.com/release-engineering/kobo
 </details>
 
 <details>
-<summary>python3-kobo-rpmlib</summary>
+<summary>Имя пакета: python3-kobo-rpmlib</summary>
 
 ```
 Из репозитор : fedora
@@ -56459,7 +56458,7 @@ URL          : https://github.com/release-engineering/kobo
 </details>
 
 <details>
-<summary>python3-koji</summary>
+<summary>Имя пакета: python3-koji</summary>
 
 ```
 Из репозитор : fedora
@@ -56473,7 +56472,7 @@ URL          : https://pagure.io/koji/
 </details>
 
 <details>
-<summary>python3-kombu</summary>
+<summary>Имя пакета: python3-kombu</summary>
 
 ```
 Эпоха        : 1
@@ -56494,7 +56493,7 @@ URL          : http://kombu.readthedocs.org/
 </details>
 
 <details>
-<summary>python3-langtable</summary>
+<summary>Имя пакета: python3-langtable</summary>
 
 ```
 Из репозитор : anaconda
@@ -56508,7 +56507,7 @@ URL          : https://github.com/mike-fabian/langtable
 </details>
 
 <details>
-<summary>python3-ldap3</summary>
+<summary>Имя пакета: python3-ldap3</summary>
 
 ```
 Из репозитор : fedora
@@ -56523,7 +56522,7 @@ URL          : https://github.com/cannatag/ldap3
 </details>
 
 <details>
-<summary>python3-libcomps</summary>
+<summary>Имя пакета: python3-libcomps</summary>
 
 ```
 Из репозитор : anaconda
@@ -56536,7 +56535,7 @@ URL          : https://github.com/rpm-software-management/libcomps
 </details>
 
 <details>
-<summary>python3-libdnf</summary>
+<summary>Имя пакета: python3-libdnf</summary>
 
 ```
 Из репозитор : anaconda
@@ -56549,7 +56548,7 @@ URL          : https://github.com/rpm-software-management/libdnf
 </details>
 
 <details>
-<summary>python3-libdnf</summary>
+<summary>Имя пакета: python3-libdnf</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56562,7 +56561,7 @@ URL          : https://github.com/rpm-software-management/libdnf
 </details>
 
 <details>
-<summary>python3-libmodulemd</summary>
+<summary>Имя пакета: python3-libmodulemd</summary>
 
 ```
 Из репозитор : fedora
@@ -56575,7 +56574,7 @@ URL          : https://github.com/fedora-modularity/libmodulemd
 </details>
 
 <details>
-<summary>python3-libreport</summary>
+<summary>Имя пакета: python3-libreport</summary>
 
 ```
 Из репозитор : anaconda
@@ -56588,7 +56587,7 @@ URL          : https://abrt.readthedocs.org/
 </details>
 
 <details>
-<summary>python3-libs</summary>
+<summary>Имя пакета: python3-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -56604,7 +56603,7 @@ URL          : https://www.python.org/
 </details>
 
 <details>
-<summary>python3-libs</summary>
+<summary>Имя пакета: python3-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56620,7 +56619,7 @@ URL          : https://www.python.org/
 </details>
 
 <details>
-<summary>python3-libselinux</summary>
+<summary>Имя пакета: python3-libselinux</summary>
 
 ```
 Из репозитор : anaconda
@@ -56634,7 +56633,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>python3-libselinux</summary>
+<summary>Имя пакета: python3-libselinux</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56648,7 +56647,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>python3-libsemanage</summary>
+<summary>Имя пакета: python3-libsemanage</summary>
 
 ```
 Из репозитор : anaconda
@@ -56662,7 +56661,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>python3-libsemanage</summary>
+<summary>Имя пакета: python3-libsemanage</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56676,7 +56675,7 @@ URL          : https://github.com/SELinuxProject/selinux/wiki
 </details>
 
 <details>
-<summary>python3-libstoragemgmt</summary>
+<summary>Имя пакета: python3-libstoragemgmt</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56690,7 +56689,7 @@ URL          : https://github.com/libstorage/libstoragemgmt
 </details>
 
 <details>
-<summary>python3-libxml2</summary>
+<summary>Имя пакета: python3-libxml2</summary>
 
 ```
 Из репозитор : anaconda
@@ -56710,7 +56709,7 @@ URL          : http://xmlsoft.org/
 </details>
 
 <details>
-<summary>python3-lockfile</summary>
+<summary>Имя пакета: python3-lockfile</summary>
 
 ```
 Эпоха        : 1
@@ -56729,7 +56728,7 @@ URL          : https://github.com/openstack/pylockfile
 </details>
 
 <details>
-<summary>python3-louis</summary>
+<summary>Имя пакета: python3-louis</summary>
 
 ```
 Из репозитор : anaconda
@@ -56742,7 +56741,7 @@ URL          : http://liblouis.org
 </details>
 
 <details>
-<summary>python3-lxml</summary>
+<summary>Имя пакета: python3-lxml</summary>
 
 ```
 Из репозитор : anaconda
@@ -56761,7 +56760,7 @@ URL          : https://github.com/lxml/lxml
 </details>
 
 <details>
-<summary>python3-lz4</summary>
+<summary>Имя пакета: python3-lz4</summary>
 
 ```
 Из репозитор : fedora
@@ -56774,7 +56773,7 @@ URL          : https://github.com/python-lz4/python-lz4
 </details>
 
 <details>
-<summary>python3-m2crypto</summary>
+<summary>Имя пакета: python3-m2crypto</summary>
 
 ```
 Из репозитор : fedora
@@ -56787,7 +56786,7 @@ URL          : https://gitlab.com/m2crypto/m2crypto/
 </details>
 
 <details>
-<summary>python3-mako</summary>
+<summary>Имя пакета: python3-mako</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56809,7 +56808,7 @@ URL          : http://www.makotemplates.org/
 </details>
 
 <details>
-<summary>python3-markupsafe</summary>
+<summary>Имя пакета: python3-markupsafe</summary>
 
 ```
 Из репозитор : anaconda
@@ -56822,7 +56821,7 @@ URL          : https://pypi.org/project/MarkupSafe/
 </details>
 
 <details>
-<summary>python3-matplotlib</summary>
+<summary>Имя пакета: python3-matplotlib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56843,7 +56842,7 @@ URL          : http://matplotlib.org
 </details>
 
 <details>
-<summary>python3-matplotlib-data</summary>
+<summary>Имя пакета: python3-matplotlib-data</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56856,7 +56855,7 @@ URL          : http://matplotlib.org
 </details>
 
 <details>
-<summary>python3-matplotlib-data-fonts</summary>
+<summary>Имя пакета: python3-matplotlib-data-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56869,7 +56868,7 @@ URL          : http://matplotlib.org
 </details>
 
 <details>
-<summary>python3-matplotlib-tk</summary>
+<summary>Имя пакета: python3-matplotlib-tk</summary>
 
 ```
 Из репозитор : updates-testing
@@ -56882,7 +56881,7 @@ URL          : http://matplotlib.org
 </details>
 
 <details>
-<summary>python3-meh</summary>
+<summary>Имя пакета: python3-meh</summary>
 
 ```
 Из репозитор : anaconda
@@ -56896,7 +56895,7 @@ URL          : https://github.com/rhinstaller/python-meh
 </details>
 
 <details>
-<summary>python3-meh-gui</summary>
+<summary>Имя пакета: python3-meh-gui</summary>
 
 ```
 Из репозитор : anaconda
@@ -56909,7 +56908,7 @@ URL          : https://github.com/rhinstaller/python-meh
 </details>
 
 <details>
-<summary>python3-mistune</summary>
+<summary>Имя пакета: python3-mistune</summary>
 
 ```
 Из репозитор : fedora
@@ -56922,7 +56921,7 @@ URL          : https://github.com/lepture/mistune
 </details>
 
 <details>
-<summary>python3-moksha-common</summary>
+<summary>Имя пакета: python3-moksha-common</summary>
 
 ```
 Из репозитор : fedora
@@ -56935,7 +56934,7 @@ URL          : https://pypi.io/project/moksha.common
 </details>
 
 <details>
-<summary>python3-moksha-hub</summary>
+<summary>Имя пакета: python3-moksha-hub</summary>
 
 ```
 Из репозитор : fedora
@@ -56948,7 +56947,7 @@ URL          : https://pypi.io/project/moksha.hub
 </details>
 
 <details>
-<summary>python3-mpmath</summary>
+<summary>Имя пакета: python3-mpmath</summary>
 
 ```
 Из репозитор : fedora
@@ -56971,7 +56970,7 @@ URL          : https://mpmath.org
 </details>
 
 <details>
-<summary>python3-munch</summary>
+<summary>Имя пакета: python3-munch</summary>
 
 ```
 Из репозитор : fedora
@@ -56990,7 +56989,7 @@ URL          : https://pypi.io/project/munch
 </details>
 
 <details>
-<summary>python3-nbclient</summary>
+<summary>Имя пакета: python3-nbclient</summary>
 
 ```
 Из репозитор : fedora
@@ -57006,7 +57005,7 @@ URL          : https://jupyter.org
 </details>
 
 <details>
-<summary>python3-nbconvert</summary>
+<summary>Имя пакета: python3-nbconvert</summary>
 
 ```
 Из репозитор : fedora
@@ -57023,7 +57022,7 @@ URL          : http://jupyter.org
 </details>
 
 <details>
-<summary>python3-nbformat</summary>
+<summary>Имя пакета: python3-nbformat</summary>
 
 ```
 Из репозитор : fedora
@@ -57037,7 +57036,7 @@ URL          : https://pypi.python.org/pypi/nbformat
 </details>
 
 <details>
-<summary>python3-nest_asyncio</summary>
+<summary>Имя пакета: python3-nest_asyncio</summary>
 
 ```
 Из репозитор : fedora
@@ -57057,7 +57056,7 @@ URL          : https://github.com/erdewit/nest_asyncio
 </details>
 
 <details>
-<summary>python3-netifaces</summary>
+<summary>Имя пакета: python3-netifaces</summary>
 
 ```
 Из репозитор : fedora
@@ -57071,7 +57070,7 @@ URL          : https://pypi.python.org/pypi/netifaces
 </details>
 
 <details>
-<summary>python3-networkx</summary>
+<summary>Имя пакета: python3-networkx</summary>
 
 ```
 Из репозитор : fedora
@@ -57085,7 +57084,7 @@ URL          : http://networkx.github.io/
 </details>
 
 <details>
-<summary>python3-nftables</summary>
+<summary>Имя пакета: python3-nftables</summary>
 
 ```
 Эпоха        : 1
@@ -57099,7 +57098,7 @@ URL          : https://netfilter.org/projects/nftables/
 </details>
 
 <details>
-<summary>python3-notebook</summary>
+<summary>Имя пакета: python3-notebook</summary>
 
 ```
 Из репозитор : fedora
@@ -57115,7 +57114,7 @@ URL          : http://jupyter.org
 </details>
 
 <details>
-<summary>python3-numexpr</summary>
+<summary>Имя пакета: python3-numexpr</summary>
 
 ```
 Из репозитор : fedora
@@ -57135,7 +57134,7 @@ URL          : https://github.com/pydata/numexpr
 </details>
 
 <details>
-<summary>python3-numpy</summary>
+<summary>Имя пакета: python3-numpy</summary>
 
 ```
 Эпоха        : 1
@@ -57158,7 +57157,7 @@ URL          : http://www.numpy.org/
 </details>
 
 <details>
-<summary>python3-numpy-f2py</summary>
+<summary>Имя пакета: python3-numpy-f2py</summary>
 
 ```
 Эпоха        : 1
@@ -57172,7 +57171,7 @@ URL          : http://www.numpy.org/
 </details>
 
 <details>
-<summary>python3-olefile</summary>
+<summary>Имя пакета: python3-olefile</summary>
 
 ```
 Из репозитор : anaconda
@@ -57192,7 +57191,7 @@ URL          : https://www.decalage.info/python/olefile
 </details>
 
 <details>
-<summary>python3-openidc-client</summary>
+<summary>Имя пакета: python3-openidc-client</summary>
 
 ```
 Из репозитор : fedora
@@ -57207,7 +57206,7 @@ URL          : https://github.com/puiterwijk/python-openidc-client
 </details>
 
 <details>
-<summary>python3-packaging</summary>
+<summary>Имя пакета: python3-packaging</summary>
 
 ```
 Из репозитор : fedora
@@ -57221,7 +57220,7 @@ URL          : https://github.com/pypa/packaging
 </details>
 
 <details>
-<summary>python3-pandas</summary>
+<summary>Имя пакета: python3-pandas</summary>
 
 ```
 Из репозитор : fedora
@@ -57236,7 +57235,7 @@ URL          : https://pandas.pydata.org/
 </details>
 
 <details>
-<summary>python3-pandas-datareader</summary>
+<summary>Имя пакета: python3-pandas-datareader</summary>
 
 ```
 Из репозитор : fedora
@@ -57251,7 +57250,7 @@ URL          : https://github.com/pydata/pandas-datareader
 </details>
 
 <details>
-<summary>python3-pandocfilters</summary>
+<summary>Имя пакета: python3-pandocfilters</summary>
 
 ```
 Из репозитор : fedora
@@ -57265,7 +57264,7 @@ URL          : https://github.com/jgm/pandocfilters
 </details>
 
 <details>
-<summary>python3-parameterized</summary>
+<summary>Имя пакета: python3-parameterized</summary>
 
 ```
 Из репозитор : fedora
@@ -57280,7 +57279,7 @@ URL          : https://pypi.python.org/pypi/parameterized
 </details>
 
 <details>
-<summary>python3-parsedatetime</summary>
+<summary>Имя пакета: python3-parsedatetime</summary>
 
 ```
 Из репозитор : fedora
@@ -57294,7 +57293,7 @@ URL          : https://github.com/bear/parsedatetime
 </details>
 
 <details>
-<summary>python3-parso</summary>
+<summary>Имя пакета: python3-parso</summary>
 
 ```
 Из репозитор : fedora
@@ -57312,7 +57311,7 @@ URL          : https://parso.readthedocs.io
 </details>
 
 <details>
-<summary>python3-paste</summary>
+<summary>Имя пакета: python3-paste</summary>
 
 ```
 Из репозитор : anaconda
@@ -57328,7 +57327,7 @@ URL          : https://github.com/cdent/paste
 </details>
 
 <details>
-<summary>python3-pathspec</summary>
+<summary>Имя пакета: python3-pathspec</summary>
 
 ```
 Из репозитор : fedora
@@ -57343,7 +57342,7 @@ URL          : https://github.com/cpburnz/python-path-specification
 </details>
 
 <details>
-<summary>python3-patsy</summary>
+<summary>Имя пакета: python3-patsy</summary>
 
 ```
 Из репозитор : fedora
@@ -57359,7 +57358,7 @@ URL          : https://github.com/pydata/patsy
 </details>
 
 <details>
-<summary>python3-pbr</summary>
+<summary>Имя пакета: python3-pbr</summary>
 
 ```
 Из репозитор : fedora
@@ -57372,7 +57371,7 @@ URL          : http://pypi.python.org/pypi/pbr
 </details>
 
 <details>
-<summary>python3-pexpect</summary>
+<summary>Имя пакета: python3-pexpect</summary>
 
 ```
 Из репозитор : anaconda
@@ -57398,7 +57397,7 @@ URL          : https://github.com/pexpect/pexpect
 </details>
 
 <details>
-<summary>python3-pickleshare</summary>
+<summary>Имя пакета: python3-pickleshare</summary>
 
 ```
 Из репозитор : fedora
@@ -57421,7 +57420,7 @@ URL          : https://github.com/pickleshare/pickleshare
 </details>
 
 <details>
-<summary>python3-pid</summary>
+<summary>Имя пакета: python3-pid</summary>
 
 ```
 Из репозитор : anaconda
@@ -57441,7 +57440,7 @@ URL          : https://github.com/trbs/pid
 </details>
 
 <details>
-<summary>python3-pillow</summary>
+<summary>Имя пакета: python3-pillow</summary>
 
 ```
 Из репозитор : anaconda
@@ -57460,7 +57459,7 @@ URL          : http://python-pillow.github.io/
 </details>
 
 <details>
-<summary>python3-pillow</summary>
+<summary>Имя пакета: python3-pillow</summary>
 
 ```
 Из репозитор : updates-testing
@@ -57479,7 +57478,7 @@ URL          : http://python-pillow.github.io/
 </details>
 
 <details>
-<summary>python3-pillow-tk</summary>
+<summary>Имя пакета: python3-pillow-tk</summary>
 
 ```
 Из репозитор : updates-testing
@@ -57492,7 +57491,7 @@ URL          : http://python-pillow.github.io/
 </details>
 
 <details>
-<summary>python3-pip</summary>
+<summary>Имя пакета: python3-pip</summary>
 
 ```
 Из репозитор : anaconda
@@ -57508,7 +57507,7 @@ URL          : https://pip.pypa.io/
 </details>
 
 <details>
-<summary>python3-pip</summary>
+<summary>Имя пакета: python3-pip</summary>
 
 ```
 Из репозитор : updates-testing
@@ -57524,7 +57523,7 @@ URL          : https://pip.pypa.io/
 </details>
 
 <details>
-<summary>python3-ply</summary>
+<summary>Имя пакета: python3-ply</summary>
 
 ```
 Из репозитор : anaconda
@@ -57550,7 +57549,7 @@ URL          : http://www.dabeaz.com/ply/
 </details>
 
 <details>
-<summary>python3-policycoreutils</summary>
+<summary>Имя пакета: python3-policycoreutils</summary>
 
 ```
 Из репозитор : anaconda
@@ -57564,7 +57563,7 @@ URL          : https://github.com/SELinuxProject/selinux
 </details>
 
 <details>
-<summary>python3-policycoreutils</summary>
+<summary>Имя пакета: python3-policycoreutils</summary>
 
 ```
 Из репозитор : updates-testing
@@ -57578,7 +57577,7 @@ URL          : https://github.com/SELinuxProject/selinux
 </details>
 
 <details>
-<summary>python3-productmd</summary>
+<summary>Имя пакета: python3-productmd</summary>
 
 ```
 Из репозитор : anaconda
@@ -57592,7 +57591,7 @@ URL          : https://github.com/release-engineering/productmd
 </details>
 
 <details>
-<summary>python3-progressbar2</summary>
+<summary>Имя пакета: python3-progressbar2</summary>
 
 ```
 Из репозитор : fedora
@@ -57613,7 +57612,7 @@ URL          : https://pypi.python.org/pypi/progressbar2
 </details>
 
 <details>
-<summary>python3-prometheus_client</summary>
+<summary>Имя пакета: python3-prometheus_client</summary>
 
 ```
 Из репозитор : fedora
@@ -57626,7 +57625,7 @@ URL          : https://github.com/prometheus/client_python
 </details>
 
 <details>
-<summary>python3-prompt-toolkit</summary>
+<summary>Имя пакета: python3-prompt-toolkit</summary>
 
 ```
 Из репозитор : fedora
@@ -57640,7 +57639,7 @@ URL          : https://github.com/prompt-toolkit/python-prompt-toolkit
 </details>
 
 <details>
-<summary>python3-protobuf</summary>
+<summary>Имя пакета: python3-protobuf</summary>
 
 ```
 Из репозитор : updates-testing
@@ -57653,7 +57652,7 @@ URL          : https://github.com/protocolbuffers/protobuf
 </details>
 
 <details>
-<summary>python3-psutil</summary>
+<summary>Имя пакета: python3-psutil</summary>
 
 ```
 Из репозитор : fedora
@@ -57670,7 +57669,7 @@ URL          : https://github.com/giampaolo/psutil
 </details>
 
 <details>
-<summary>python3-ptyprocess</summary>
+<summary>Имя пакета: python3-ptyprocess</summary>
 
 ```
 Из репозитор : anaconda
@@ -57684,7 +57683,7 @@ URL          : https://github.com/pexpect/ptyprocess
 </details>
 
 <details>
-<summary>python3-pungi</summary>
+<summary>Имя пакета: python3-pungi</summary>
 
 ```
 Из репозитор : fedora
@@ -57698,7 +57697,7 @@ URL          : https://pagure.io/pungi
 </details>
 
 <details>
-<summary>python3-pwquality</summary>
+<summary>Имя пакета: python3-pwquality</summary>
 
 ```
 Из репозитор : anaconda
@@ -57714,7 +57713,7 @@ URL          : https://github.com/libpwquality/libpwquality/
 </details>
 
 <details>
-<summary>python3-py3nvml</summary>
+<summary>Имя пакета: python3-py3nvml</summary>
 
 ```
 Из репозитор : fedora
@@ -57728,7 +57727,7 @@ URL          : https://github.com/fbcotter/py3nvml
 </details>
 
 <details>
-<summary>python3-pyOpenSSL</summary>
+<summary>Имя пакета: python3-pyOpenSSL</summary>
 
 ```
 Из репозитор : anaconda
@@ -57745,7 +57744,7 @@ URL          : https://pyopenssl.readthedocs.org/
 </details>
 
 <details>
-<summary>python3-pyasn1</summary>
+<summary>Имя пакета: python3-pyasn1</summary>
 
 ```
 Из репозитор : fedora
@@ -57759,7 +57758,7 @@ URL          : http://pyasn1.sourceforge.net/
 </details>
 
 <details>
-<summary>python3-pyasn1-modules</summary>
+<summary>Имя пакета: python3-pyasn1-modules</summary>
 
 ```
 Из репозитор : fedora
@@ -57772,7 +57771,7 @@ URL          : http://pyasn1.sourceforge.net/
 </details>
 
 <details>
-<summary>python3-pyatspi</summary>
+<summary>Имя пакета: python3-pyatspi</summary>
 
 ```
 Из репозитор : anaconda
@@ -57790,7 +57789,7 @@ URL          : http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus
 </details>
 
 <details>
-<summary>python3-pyatspi</summary>
+<summary>Имя пакета: python3-pyatspi</summary>
 
 ```
 Из репозитор : updates-testing
@@ -57808,7 +57807,7 @@ URL          : http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus
 </details>
 
 <details>
-<summary>python3-pycparser</summary>
+<summary>Имя пакета: python3-pycparser</summary>
 
 ```
 Из репозитор : anaconda
@@ -57823,7 +57822,7 @@ URL          : http://github.com/eliben/pycparser
 </details>
 
 <details>
-<summary>python3-pycurl</summary>
+<summary>Имя пакета: python3-pycurl</summary>
 
 ```
 Из репозитор : anaconda
@@ -57841,7 +57840,7 @@ URL          : http://pycurl.sourceforge.net/
 </details>
 
 <details>
-<summary>python3-pydot</summary>
+<summary>Имя пакета: python3-pydot</summary>
 
 ```
 Из репозитор : fedora
@@ -57861,7 +57860,7 @@ URL          : https://github.com/erocarrera/pydot
 </details>
 
 <details>
-<summary>python3-pyglet</summary>
+<summary>Имя пакета: python3-pyglet</summary>
 
 ```
 Из репозитор : fedora
@@ -57881,7 +57880,7 @@ URL          : http://www.pyglet.org/
 </details>
 
 <details>
-<summary>python3-pygments</summary>
+<summary>Имя пакета: python3-pygments</summary>
 
 ```
 Из репозитор : fedora
@@ -57906,7 +57905,7 @@ URL          : https://pygments.org/
 </details>
 
 <details>
-<summary>python3-pygpu</summary>
+<summary>Имя пакета: python3-pygpu</summary>
 
 ```
 Из репозитор : fedora
@@ -57921,7 +57920,7 @@ URL          : http://deeplearning.net/software/libgpuarray/
 </details>
 
 <details>
-<summary>python3-pygraphviz</summary>
+<summary>Имя пакета: python3-pygraphviz</summary>
 
 ```
 Из репозитор : fedora
@@ -57938,7 +57937,7 @@ URL          : http://networkx.lanl.gov/pygraphviz/
 </details>
 
 <details>
-<summary>python3-pylibacl</summary>
+<summary>Имя пакета: python3-pylibacl</summary>
 
 ```
 Из репозитор : fedora
@@ -57952,7 +57951,7 @@ URL          : https://pylibacl.k1024.org
 </details>
 
 <details>
-<summary>python3-pypandoc</summary>
+<summary>Имя пакета: python3-pypandoc</summary>
 
 ```
 Из репозитор : fedora
@@ -57967,7 +57966,7 @@ URL          : https://github.com/bebraw/pypandoc
 </details>
 
 <details>
-<summary>python3-pyparsing</summary>
+<summary>Имя пакета: python3-pyparsing</summary>
 
 ```
 Из репозитор : fedora
@@ -57983,7 +57982,7 @@ URL          : https://github.com/pyparsing/pyparsing
 </details>
 
 <details>
-<summary>python3-pyparted</summary>
+<summary>Имя пакета: python3-pyparted</summary>
 
 ```
 Эпоха        : 1
@@ -57998,7 +57997,7 @@ URL          : https://github.com/dcantrell/pyparted
 </details>
 
 <details>
-<summary>python3-pyrfc3339</summary>
+<summary>Имя пакета: python3-pyrfc3339</summary>
 
 ```
 Из репозитор : fedora
@@ -58012,7 +58011,7 @@ URL          : https://pypi.python.org/pypi/pyRFC3339
 </details>
 
 <details>
-<summary>python3-pyroute2</summary>
+<summary>Имя пакета: python3-pyroute2</summary>
 
 ```
 Из репозитор : fedora
@@ -58027,7 +58026,7 @@ URL          : https://github.com/svinota/pyroute2
 </details>
 
 <details>
-<summary>python3-pyrsistent</summary>
+<summary>Имя пакета: python3-pyrsistent</summary>
 
 ```
 Из репозитор : fedora
@@ -58046,7 +58045,7 @@ URL          : https://github.com/tobgu/pyrsistent/
 </details>
 
 <details>
-<summary>python3-pysocks</summary>
+<summary>Имя пакета: python3-pysocks</summary>
 
 ```
 Из репозитор : anaconda
@@ -58069,7 +58068,7 @@ URL          : https://github.com/Anorov/PySocks
 </details>
 
 <details>
-<summary>python3-pytz</summary>
+<summary>Имя пакета: python3-pytz</summary>
 
 ```
 Из репозитор : anaconda
@@ -58088,7 +58087,7 @@ URL          : http://pytz.sourceforge.net/
 </details>
 
 <details>
-<summary>python3-pytz</summary>
+<summary>Имя пакета: python3-pytz</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58107,7 +58106,7 @@ URL          : http://pytz.sourceforge.net/
 </details>
 
 <details>
-<summary>python3-pyudev</summary>
+<summary>Имя пакета: python3-pyudev</summary>
 
 ```
 Из репозитор : anaconda
@@ -58129,7 +58128,7 @@ URL          : http://pypi.python.org/pypi/pyudev
 </details>
 
 <details>
-<summary>python3-pyusb</summary>
+<summary>Имя пакета: python3-pyusb</summary>
 
 ```
 Из репозитор : fedora
@@ -58143,7 +58142,7 @@ URL          : https://github.com/pyusb/pyusb/
 </details>
 
 <details>
-<summary>python3-pywt</summary>
+<summary>Имя пакета: python3-pywt</summary>
 
 ```
 Из репозитор : fedora
@@ -58166,7 +58165,7 @@ URL          : https://pywavelets.readthedocs.io/en/latest
 </details>
 
 <details>
-<summary>python3-pyxattr</summary>
+<summary>Имя пакета: python3-pyxattr</summary>
 
 ```
 Из репозитор : fedora
@@ -58180,7 +58179,7 @@ URL          : https://pyxattr.k1024.org/
 </details>
 
 <details>
-<summary>python3-pyxdg</summary>
+<summary>Имя пакета: python3-pyxdg</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58194,7 +58193,7 @@ URL          : http://freedesktop.org/Software/pyxdg
 </details>
 
 <details>
-<summary>python3-pyyaml</summary>
+<summary>Имя пакета: python3-pyyaml</summary>
 
 ```
 Из репозитор : fedora
@@ -58217,7 +58216,7 @@ URL          : https://github.com/yaml/pyyaml
 </details>
 
 <details>
-<summary>python3-regex</summary>
+<summary>Имя пакета: python3-regex</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58234,7 +58233,7 @@ URL          : https://bitbucket.org/mrabarnett/mrab-regex
 </details>
 
 <details>
-<summary>python3-requests</summary>
+<summary>Имя пакета: python3-requests</summary>
 
 ```
 Из репозитор : anaconda
@@ -58250,7 +58249,7 @@ URL          : https://pypi.io/project/requests
 </details>
 
 <details>
-<summary>python3-requests-file</summary>
+<summary>Имя пакета: python3-requests-file</summary>
 
 ```
 Из репозитор : anaconda
@@ -58266,7 +58265,7 @@ URL          : https://github.com/dashea/requests-file
 </details>
 
 <details>
-<summary>python3-requests-ftp</summary>
+<summary>Имя пакета: python3-requests-ftp</summary>
 
 ```
 Из репозитор : anaconda
@@ -58282,7 +58281,7 @@ URL          : https://github.com/Lukasa/requests-ftp
 </details>
 
 <details>
-<summary>python3-requests-gssapi</summary>
+<summary>Имя пакета: python3-requests-gssapi</summary>
 
 ```
 Из репозитор : fedora
@@ -58298,7 +58297,7 @@ URL          : https://github.com/pythongssapi/requests-gssapi
 </details>
 
 <details>
-<summary>python3-requests-toolbelt</summary>
+<summary>Имя пакета: python3-requests-toolbelt</summary>
 
 ```
 Из репозитор : fedora
@@ -58314,7 +58313,7 @@ URL          : https://toolbelt.readthedocs.io
 </details>
 
 <details>
-<summary>python3-rpkg</summary>
+<summary>Имя пакета: python3-rpkg</summary>
 
 ```
 Из репозитор : fedora
@@ -58327,7 +58326,7 @@ URL          : https://pagure.io/rpkg
 </details>
 
 <details>
-<summary>python3-rpm</summary>
+<summary>Имя пакета: python3-rpm</summary>
 
 ```
 Из репозитор : anaconda
@@ -58345,7 +58344,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>python3-rpm</summary>
+<summary>Имя пакета: python3-rpm</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58363,7 +58362,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>python3-rpm-generators</summary>
+<summary>Имя пакета: python3-rpm-generators</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58376,7 +58375,7 @@ URL          : https://src.fedoraproject.org/python-rpm-generators
 </details>
 
 <details>
-<summary>python3-rpm-macros</summary>
+<summary>Имя пакета: python3-rpm-macros</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58388,7 +58387,7 @@ URL          : https://src.fedoraproject.org/python-rpm-generators
 </details>
 
 <details>
-<summary>python3-scikit-image</summary>
+<summary>Имя пакета: python3-scikit-image</summary>
 
 ```
 Из репозитор : fedora
@@ -58402,7 +58401,7 @@ URL          : http://scikit-image.org/
 </details>
 
 <details>
-<summary>python3-scikit-learn</summary>
+<summary>Имя пакета: python3-scikit-learn</summary>
 
 ```
 Из репозитор : fedora
@@ -58421,7 +58420,7 @@ URL          : http://scikit-learn.org/
 </details>
 
 <details>
-<summary>python3-scipy</summary>
+<summary>Имя пакета: python3-scipy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58442,7 +58441,7 @@ URL          : http://www.scipy.org/scipylib/index.html
 </details>
 
 <details>
-<summary>python3-scour</summary>
+<summary>Имя пакета: python3-scour</summary>
 
 ```
 Из репозитор : fedora
@@ -58455,7 +58454,7 @@ URL          : https://github.com/scour-project/scour
 </details>
 
 <details>
-<summary>python3-send2trash</summary>
+<summary>Имя пакета: python3-send2trash</summary>
 
 ```
 Из репозитор : fedora
@@ -58473,7 +58472,7 @@ URL          : https://github.com/hsoft/send2trash
 </details>
 
 <details>
-<summary>python3-service-identity</summary>
+<summary>Имя пакета: python3-service-identity</summary>
 
 ```
 Из репозитор : fedora
@@ -58497,7 +58496,7 @@ URL          : https://github.com/pyca/service_identity
 </details>
 
 <details>
-<summary>python3-setools</summary>
+<summary>Имя пакета: python3-setools</summary>
 
 ```
 Из репозитор : anaconda
@@ -58511,7 +58510,7 @@ URL          : https://github.com/SELinuxProject/setools/wiki
 </details>
 
 <details>
-<summary>python3-setools</summary>
+<summary>Имя пакета: python3-setools</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58525,7 +58524,7 @@ URL          : https://github.com/SELinuxProject/setools/wiki
 </details>
 
 <details>
-<summary>python3-setuptools</summary>
+<summary>Имя пакета: python3-setuptools</summary>
 
 ```
 Из репозитор : anaconda
@@ -58543,7 +58542,7 @@ URL          : https://pypi.python.org/pypi/setuptools
 </details>
 
 <details>
-<summary>python3-simpleline</summary>
+<summary>Имя пакета: python3-simpleline</summary>
 
 ```
 Из репозитор : anaconda
@@ -58560,7 +58559,7 @@ URL          : https://github.com/rhinstaller/python-simpleline
 </details>
 
 <details>
-<summary>python3-six</summary>
+<summary>Имя пакета: python3-six</summary>
 
 ```
 Из репозитор : anaconda
@@ -58575,7 +58574,7 @@ URL          : https://pypi.python.org/pypi/six
 </details>
 
 <details>
-<summary>python3-six</summary>
+<summary>Имя пакета: python3-six</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58589,7 +58588,7 @@ URL          : https://pypi.python.org/pypi/six
 </details>
 
 <details>
-<summary>python3-slip</summary>
+<summary>Имя пакета: python3-slip</summary>
 
 ```
 Из репозитор : anaconda
@@ -58605,7 +58604,7 @@ URL          : https://github.com/nphilipp/python-slip
 </details>
 
 <details>
-<summary>python3-slip-dbus</summary>
+<summary>Имя пакета: python3-slip-dbus</summary>
 
 ```
 Из репозитор : anaconda
@@ -58624,7 +58623,7 @@ URL          : https://github.com/nphilipp/python-slip
 </details>
 
 <details>
-<summary>python3-smmap</summary>
+<summary>Имя пакета: python3-smmap</summary>
 
 ```
 Из репозитор : fedora
@@ -58642,7 +58641,7 @@ URL          : https://github.com/gitpython-developers/smmap
 </details>
 
 <details>
-<summary>python3-snowballstemmer</summary>
+<summary>Имя пакета: python3-snowballstemmer</summary>
 
 ```
 Из репозитор : fedora
@@ -58674,7 +58673,7 @@ URL          : https://pypi.python.org/pypi/snowballstemmer
 </details>
 
 <details>
-<summary>python3-solv</summary>
+<summary>Имя пакета: python3-solv</summary>
 
 ```
 Из репозитор : fedora
@@ -58689,7 +58688,7 @@ URL          : https://github.com/openSUSE/libsolv
 </details>
 
 <details>
-<summary>python3-soupsieve</summary>
+<summary>Имя пакета: python3-soupsieve</summary>
 
 ```
 Из репозитор : anaconda
@@ -58716,7 +58715,7 @@ URL          : https://github.com/facelessuser/soupsieve
 </details>
 
 <details>
-<summary>python3-speechd</summary>
+<summary>Имя пакета: python3-speechd</summary>
 
 ```
 Из репозитор : anaconda
@@ -58729,7 +58728,7 @@ URL          : http://devel.freebsoft.org/speechd
 </details>
 
 <details>
-<summary>python3-sphinx</summary>
+<summary>Имя пакета: python3-sphinx</summary>
 
 ```
 Эпоха        : 1
@@ -58768,7 +58767,7 @@ URL          : https://www.sphinx-doc.org/
 </details>
 
 <details>
-<summary>python3-sphinx-theme-alabaster</summary>
+<summary>Имя пакета: python3-sphinx-theme-alabaster</summary>
 
 ```
 Из репозитор : fedora
@@ -58783,7 +58782,7 @@ URL          : https://pypi.python.org/pypi/alabaster
 </details>
 
 <details>
-<summary>python3-sphinx_rtd_theme</summary>
+<summary>Имя пакета: python3-sphinx_rtd_theme</summary>
 
 ```
 Из репозитор : fedora
@@ -58799,7 +58798,7 @@ URL          : https://github.com/rtfd/sphinx_rtd_theme
 </details>
 
 <details>
-<summary>python3-sphinxcontrib-applehelp</summary>
+<summary>Имя пакета: python3-sphinxcontrib-applehelp</summary>
 
 ```
 Из репозитор : fedora
@@ -58812,7 +58811,7 @@ URL          : http://sphinx-doc.org/
 </details>
 
 <details>
-<summary>python3-sphinxcontrib-devhelp</summary>
+<summary>Имя пакета: python3-sphinxcontrib-devhelp</summary>
 
 ```
 Из репозитор : fedora
@@ -58825,7 +58824,7 @@ URL          : http://sphinx-doc.org/
 </details>
 
 <details>
-<summary>python3-sphinxcontrib-htmlhelp</summary>
+<summary>Имя пакета: python3-sphinxcontrib-htmlhelp</summary>
 
 ```
 Из репозитор : fedora
@@ -58838,7 +58837,7 @@ URL          : http://sphinx-doc.org/
 </details>
 
 <details>
-<summary>python3-sphinxcontrib-jsmath</summary>
+<summary>Имя пакета: python3-sphinxcontrib-jsmath</summary>
 
 ```
 Из репозитор : fedora
@@ -58852,7 +58851,7 @@ URL          : http://sphinx-doc.org/
 </details>
 
 <details>
-<summary>python3-sphinxcontrib-qthelp</summary>
+<summary>Имя пакета: python3-sphinxcontrib-qthelp</summary>
 
 ```
 Из репозитор : fedora
@@ -58865,7 +58864,7 @@ URL          : http://sphinx-doc.org/
 </details>
 
 <details>
-<summary>python3-sphinxcontrib-serializinghtml</summary>
+<summary>Имя пакета: python3-sphinxcontrib-serializinghtml</summary>
 
 ```
 Из репозитор : fedora
@@ -58879,7 +58878,7 @@ URL          : http://sphinx-doc.org/
 </details>
 
 <details>
-<summary>python3-sqlalchemy</summary>
+<summary>Имя пакета: python3-sqlalchemy</summary>
 
 ```
 Из репозитор : fedora
@@ -58900,7 +58899,7 @@ URL          : http://www.sqlalchemy.org/
 </details>
 
 <details>
-<summary>python3-statsmodels</summary>
+<summary>Имя пакета: python3-statsmodels</summary>
 
 ```
 Из репозитор : fedora
@@ -58917,7 +58916,7 @@ URL          : https://www.statsmodels.org/
 </details>
 
 <details>
-<summary>python3-stevedore</summary>
+<summary>Имя пакета: python3-stevedore</summary>
 
 ```
 Из репозитор : fedora
@@ -58930,7 +58929,7 @@ URL          : https://github.com/openstack/stevedore
 </details>
 
 <details>
-<summary>python3-stomper</summary>
+<summary>Имя пакета: python3-stomper</summary>
 
 ```
 Из репозитор : fedora
@@ -58945,7 +58944,7 @@ URL          : https://pypi.io/project/stomper
 </details>
 
 <details>
-<summary>python3-sympy</summary>
+<summary>Имя пакета: python3-sympy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -58961,7 +58960,7 @@ URL          : http://sympy.org/
 </details>
 
 <details>
-<summary>python3-systemd</summary>
+<summary>Имя пакета: python3-systemd</summary>
 
 ```
 Из репозитор : anaconda
@@ -58978,7 +58977,7 @@ URL          : https://github.com/systemd/python-systemd
 </details>
 
 <details>
-<summary>python3-tables</summary>
+<summary>Имя пакета: python3-tables</summary>
 
 ```
 Из репозитор : fedora
@@ -58992,7 +58991,7 @@ URL          : https://www.pytables.org
 </details>
 
 <details>
-<summary>python3-tabulate</summary>
+<summary>Имя пакета: python3-tabulate</summary>
 
 ```
 Из репозитор : fedora
@@ -59014,7 +59013,7 @@ URL          : https://pypi.python.org/pypi/tabulate
 </details>
 
 <details>
-<summary>python3-tabulate+widechars</summary>
+<summary>Имя пакета: python3-tabulate+widechars</summary>
 
 ```
 Из репозитор : fedora
@@ -59028,7 +59027,7 @@ URL          : https://pypi.python.org/pypi/tabulate
 </details>
 
 <details>
-<summary>python3-tempita</summary>
+<summary>Имя пакета: python3-tempita</summary>
 
 ```
 Из репозитор : anaconda
@@ -59041,7 +59040,7 @@ URL          : http://pythonpaste.org/tempita/
 </details>
 
 <details>
-<summary>python3-templated-dictionary</summary>
+<summary>Имя пакета: python3-templated-dictionary</summary>
 
 ```
 Из репозитор : fedora
@@ -59054,7 +59053,7 @@ URL          : https://github.com/xsuchy/templated-dictionary
 </details>
 
 <details>
-<summary>python3-terminado</summary>
+<summary>Имя пакета: python3-terminado</summary>
 
 ```
 Из репозитор : fedora
@@ -59068,7 +59067,7 @@ URL          : https://github.com/jupyter/terminado
 </details>
 
 <details>
-<summary>python3-testpath</summary>
+<summary>Имя пакета: python3-testpath</summary>
 
 ```
 Из репозитор : fedora
@@ -59087,7 +59086,7 @@ URL          : https://github.com/jupyter/testpath
 </details>
 
 <details>
-<summary>python3-theano</summary>
+<summary>Имя пакета: python3-theano</summary>
 
 ```
 Из репозитор : fedora
@@ -59113,7 +59112,7 @@ URL          : https://docs.pymc.io/PyMC3_and_Theano.html
 </details>
 
 <details>
-<summary>python3-threadpoolctl</summary>
+<summary>Имя пакета: python3-threadpoolctl</summary>
 
 ```
 Из репозитор : fedora
@@ -59132,7 +59131,7 @@ URL          : https://github.com/joblib/threadpoolctl
 </details>
 
 <details>
-<summary>python3-tifffile</summary>
+<summary>Имя пакета: python3-tifffile</summary>
 
 ```
 Из репозитор : fedora
@@ -59147,7 +59146,7 @@ URL          : https://www.lfd.uci.edu/~gohlke/
 </details>
 
 <details>
-<summary>python3-tkinter</summary>
+<summary>Имя пакета: python3-tkinter</summary>
 
 ```
 Из репозитор : updates-testing
@@ -59161,7 +59160,7 @@ URL          : https://www.python.org/
 </details>
 
 <details>
-<summary>python3-tornado</summary>
+<summary>Имя пакета: python3-tornado</summary>
 
 ```
 Из репозитор : fedora
@@ -59181,7 +59180,7 @@ URL          : http://www.tornadoweb.org
 </details>
 
 <details>
-<summary>python3-traitlets</summary>
+<summary>Имя пакета: python3-traitlets</summary>
 
 ```
 Из репозитор : fedora
@@ -59197,7 +59196,7 @@ URL          : https://github.com/ipython/traitlets
 </details>
 
 <details>
-<summary>python3-twisted</summary>
+<summary>Имя пакета: python3-twisted</summary>
 
 ```
 Из репозитор : fedora
@@ -59213,7 +59212,7 @@ URL          : http://twistedmatrix.com/
 </details>
 
 <details>
-<summary>python3-twisted+tls</summary>
+<summary>Имя пакета: python3-twisted+tls</summary>
 
 ```
 Из репозитор : fedora
@@ -59227,7 +59226,7 @@ URL          : http://twistedmatrix.com/
 </details>
 
 <details>
-<summary>python3-txws</summary>
+<summary>Имя пакета: python3-txws</summary>
 
 ```
 Из репозитор : fedora
@@ -59241,7 +59240,7 @@ URL          : https://github.com/MostAwesomeDude/txWS
 </details>
 
 <details>
-<summary>python3-txzmq</summary>
+<summary>Имя пакета: python3-txzmq</summary>
 
 ```
 Из репозитор : fedora
@@ -59255,7 +59254,7 @@ URL          : https://github.com/smira/txZMQ
 </details>
 
 <details>
-<summary>python3-unbound</summary>
+<summary>Имя пакета: python3-unbound</summary>
 
 ```
 Из репозитор : anaconda
@@ -59268,7 +59267,7 @@ URL          : https://nlnetlabs.nl/projects/unbound/
 </details>
 
 <details>
-<summary>python3-urllib3</summary>
+<summary>Имя пакета: python3-urllib3</summary>
 
 ```
 Из репозитор : anaconda
@@ -59281,7 +59280,7 @@ URL          : https://github.com/urllib3/urllib3
 </details>
 
 <details>
-<summary>python3-urwid</summary>
+<summary>Имя пакета: python3-urwid</summary>
 
 ```
 Из репозитор : fedora
@@ -59299,7 +59298,7 @@ URL          : http://excess.org/urwid/
 </details>
 
 <details>
-<summary>python3-utils</summary>
+<summary>Имя пакета: python3-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -59315,7 +59314,7 @@ URL          : https://github.com/WoLpH/python-utils
 </details>
 
 <details>
-<summary>python3-vine</summary>
+<summary>Имя пакета: python3-vine</summary>
 
 ```
 Из репозитор : fedora
@@ -59328,7 +59327,7 @@ URL          : http://github.com/celery/vine
 </details>
 
 <details>
-<summary>python3-wcwidth</summary>
+<summary>Имя пакета: python3-wcwidth</summary>
 
 ```
 Из репозитор : fedora
@@ -59343,7 +59342,7 @@ URL          : https://github.com/jquast/wcwidth
 </details>
 
 <details>
-<summary>python3-webencodings</summary>
+<summary>Имя пакета: python3-webencodings</summary>
 
 ```
 Из репозитор : fedora
@@ -59356,7 +59355,7 @@ URL          : https://github.com/gsnedders/python-webencodings
 </details>
 
 <details>
-<summary>python3-werkzeug</summary>
+<summary>Имя пакета: python3-werkzeug</summary>
 
 ```
 Из репозитор : fedora
@@ -59384,7 +59383,7 @@ URL          : https://werkzeug.palletsprojects.com
 </details>
 
 <details>
-<summary>python3-xlib</summary>
+<summary>Имя пакета: python3-xlib</summary>
 
 ```
 Из репозитор : fedora
@@ -59399,7 +59398,7 @@ URL          : https://github.com/python-xlib/python-xlib
 </details>
 
 <details>
-<summary>python3-xlrd</summary>
+<summary>Имя пакета: python3-xlrd</summary>
 
 ```
 Из репозитор : fedora
@@ -59414,7 +59413,7 @@ URL          : http://www.python-excel.org/
 </details>
 
 <details>
-<summary>python3-xlwt</summary>
+<summary>Имя пакета: python3-xlwt</summary>
 
 ```
 Из репозитор : fedora
@@ -59431,7 +59430,7 @@ URL          : http://pypi.python.org/pypi/xlwt
 </details>
 
 <details>
-<summary>python3-xmltodict</summary>
+<summary>Имя пакета: python3-xmltodict</summary>
 
 ```
 Из репозитор : fedora
@@ -59447,7 +59446,7 @@ URL          : https://github.com/martinblech/xmltodict
 </details>
 
 <details>
-<summary>python3-yubico</summary>
+<summary>Имя пакета: python3-yubico</summary>
 
 ```
 Из репозитор : fedora
@@ -59460,7 +59459,7 @@ URL          : https://github.com/Yubico/python-yubico
 </details>
 
 <details>
-<summary>python3-zmq</summary>
+<summary>Имя пакета: python3-zmq</summary>
 
 ```
 Из репозитор : fedora
@@ -59480,7 +59479,7 @@ URL          : https://zeromq.org/languages/python/
 </details>
 
 <details>
-<summary>python3-zope-component</summary>
+<summary>Имя пакета: python3-zope-component</summary>
 
 ```
 Из репозитор : fedora
@@ -59495,7 +59494,7 @@ URL          : https://pypi.io/project/zope.component
 </details>
 
 <details>
-<summary>python3-zope-event</summary>
+<summary>Имя пакета: python3-zope-event</summary>
 
 ```
 Из репозитор : fedora
@@ -59514,7 +59513,7 @@ URL          : http://pypi.python.org/pypi/zope.event/
 </details>
 
 <details>
-<summary>python3-zope-interface</summary>
+<summary>Имя пакета: python3-zope-interface</summary>
 
 ```
 Из репозитор : fedora
@@ -59530,7 +59529,7 @@ URL          : https://pypi.io/project/zope.interface
 </details>
 
 <details>
-<summary>qbittorrent</summary>
+<summary>Имя пакета: qbittorrent</summary>
 
 ```
 Эпоха        : 1
@@ -59545,7 +59544,7 @@ URL          : http://www.qbittorrent.org
 </details>
 
 <details>
-<summary>qca-qt5</summary>
+<summary>Имя пакета: qca-qt5</summary>
 
 ```
 Из репозитор : fedora
@@ -59565,7 +59564,7 @@ URL          : https://userbase.kde.org/QCA
 </details>
 
 <details>
-<summary>qca-qt5-ossl</summary>
+<summary>Имя пакета: qca-qt5-ossl</summary>
 
 ```
 Из репозитор : fedora
@@ -59578,7 +59577,7 @@ URL          : https://userbase.kde.org/QCA
 </details>
 
 <details>
-<summary>qemu-audio-alsa</summary>
+<summary>Имя пакета: qemu-audio-alsa</summary>
 
 ```
 Эпоха        : 2
@@ -59592,7 +59591,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-audio-oss</summary>
+<summary>Имя пакета: qemu-audio-oss</summary>
 
 ```
 Эпоха        : 2
@@ -59606,7 +59605,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-audio-pa</summary>
+<summary>Имя пакета: qemu-audio-pa</summary>
 
 ```
 Эпоха        : 2
@@ -59620,7 +59619,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-audio-sdl</summary>
+<summary>Имя пакета: qemu-audio-sdl</summary>
 
 ```
 Эпоха        : 2
@@ -59634,7 +59633,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-audio-spice</summary>
+<summary>Имя пакета: qemu-audio-spice</summary>
 
 ```
 Эпоха        : 2
@@ -59648,7 +59647,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-block-curl</summary>
+<summary>Имя пакета: qemu-block-curl</summary>
 
 ```
 Эпоха        : 2
@@ -59665,7 +59664,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-block-dmg</summary>
+<summary>Имя пакета: qemu-block-dmg</summary>
 
 ```
 Эпоха        : 2
@@ -59681,7 +59680,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-block-gluster</summary>
+<summary>Имя пакета: qemu-block-gluster</summary>
 
 ```
 Эпоха        : 2
@@ -59697,7 +59696,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-block-iscsi</summary>
+<summary>Имя пакета: qemu-block-iscsi</summary>
 
 ```
 Эпоха        : 2
@@ -59713,7 +59712,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-block-nfs</summary>
+<summary>Имя пакета: qemu-block-nfs</summary>
 
 ```
 Эпоха        : 2
@@ -59729,7 +59728,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-block-rbd</summary>
+<summary>Имя пакета: qemu-block-rbd</summary>
 
 ```
 Эпоха        : 2
@@ -59746,7 +59745,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-block-ssh</summary>
+<summary>Имя пакета: qemu-block-ssh</summary>
 
 ```
 Эпоха        : 2
@@ -59763,7 +59762,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-char-baum</summary>
+<summary>Имя пакета: qemu-char-baum</summary>
 
 ```
 Эпоха        : 2
@@ -59777,7 +59776,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-char-spice</summary>
+<summary>Имя пакета: qemu-char-spice</summary>
 
 ```
 Эпоха        : 2
@@ -59791,7 +59790,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-common</summary>
+<summary>Имя пакета: qemu-common</summary>
 
 ```
 Эпоха        : 2
@@ -59805,7 +59804,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-device-display-qxl</summary>
+<summary>Имя пакета: qemu-device-display-qxl</summary>
 
 ```
 Эпоха        : 2
@@ -59819,7 +59818,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-device-display-virtio-gpu</summary>
+<summary>Имя пакета: qemu-device-display-virtio-gpu</summary>
 
 ```
 Эпоха        : 2
@@ -59833,7 +59832,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-device-display-virtio-gpu-pci</summary>
+<summary>Имя пакета: qemu-device-display-virtio-gpu-pci</summary>
 
 ```
 Эпоха        : 2
@@ -59847,7 +59846,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-device-display-virtio-vga</summary>
+<summary>Имя пакета: qemu-device-display-virtio-vga</summary>
 
 ```
 Эпоха        : 2
@@ -59861,7 +59860,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-device-usb-redirect</summary>
+<summary>Имя пакета: qemu-device-usb-redirect</summary>
 
 ```
 Эпоха        : 2
@@ -59875,7 +59874,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-device-usb-smartcard</summary>
+<summary>Имя пакета: qemu-device-usb-smartcard</summary>
 
 ```
 Эпоха        : 2
@@ -59889,7 +59888,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-guest-agent</summary>
+<summary>Имя пакета: qemu-guest-agent</summary>
 
 ```
 Эпоха        : 2
@@ -59906,7 +59905,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-img</summary>
+<summary>Имя пакета: qemu-img</summary>
 
 ```
 Эпоха        : 2
@@ -59920,7 +59919,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-kvm</summary>
+<summary>Имя пакета: qemu-kvm</summary>
 
 ```
 Эпоха        : 2
@@ -59936,7 +59935,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-kvm-core</summary>
+<summary>Имя пакета: qemu-kvm-core</summary>
 
 ```
 Эпоха        : 2
@@ -59952,7 +59951,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-system-x86</summary>
+<summary>Имя пакета: qemu-system-x86</summary>
 
 ```
 Эпоха        : 2
@@ -59968,7 +59967,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-system-x86-core</summary>
+<summary>Имя пакета: qemu-system-x86-core</summary>
 
 ```
 Эпоха        : 2
@@ -59984,7 +59983,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-ui-curses</summary>
+<summary>Имя пакета: qemu-ui-curses</summary>
 
 ```
 Эпоха        : 2
@@ -59998,7 +59997,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-ui-egl-headless</summary>
+<summary>Имя пакета: qemu-ui-egl-headless</summary>
 
 ```
 Эпоха        : 2
@@ -60012,7 +60011,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-ui-gtk</summary>
+<summary>Имя пакета: qemu-ui-gtk</summary>
 
 ```
 Эпоха        : 2
@@ -60026,7 +60025,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-ui-opengl</summary>
+<summary>Имя пакета: qemu-ui-opengl</summary>
 
 ```
 Эпоха        : 2
@@ -60040,7 +60039,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-ui-sdl</summary>
+<summary>Имя пакета: qemu-ui-sdl</summary>
 
 ```
 Эпоха        : 2
@@ -60054,7 +60053,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-ui-spice-app</summary>
+<summary>Имя пакета: qemu-ui-spice-app</summary>
 
 ```
 Эпоха        : 2
@@ -60068,7 +60067,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qemu-ui-spice-core</summary>
+<summary>Имя пакета: qemu-ui-spice-core</summary>
 
 ```
 Эпоха        : 2
@@ -60082,7 +60081,7 @@ URL          : http://www.qemu.org/
 </details>
 
 <details>
-<summary>qgnomeplatform</summary>
+<summary>Имя пакета: qgnomeplatform</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60097,7 +60096,7 @@ URL          : https://github.com/MartinBriza/QGnomePlatform
 </details>
 
 <details>
-<summary>qpdf-libs</summary>
+<summary>Имя пакета: qpdf-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60112,7 +60111,7 @@ URL          : http://qpdf.sourceforge.net/
 </details>
 
 <details>
-<summary>qrencode-libs</summary>
+<summary>Имя пакета: qrencode-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -60126,7 +60125,7 @@ URL          : http://fukuchi.org/works/qrencode/
 </details>
 
 <details>
-<summary>qt</summary>
+<summary>Имя пакета: qt</summary>
 
 ```
 Эпоха        : 1
@@ -60143,7 +60142,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt-common</summary>
+<summary>Имя пакета: qt-common</summary>
 
 ```
 Эпоха        : 1
@@ -60157,7 +60156,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt-settings</summary>
+<summary>Имя пакета: qt-settings</summary>
 
 ```
 Из репозитор : fedora
@@ -60170,7 +60169,7 @@ URL          : https://pagure.io/fedora-kde/kde-settings
 </details>
 
 <details>
-<summary>qt-x11</summary>
+<summary>Имя пакета: qt-x11</summary>
 
 ```
 Эпоха        : 1
@@ -60184,7 +60183,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt5-qtbase</summary>
+<summary>Имя пакета: qt5-qtbase</summary>
 
 ```
 Из репозитор : anaconda
@@ -60200,7 +60199,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt5-qtbase</summary>
+<summary>Имя пакета: qt5-qtbase</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60216,7 +60215,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt5-qtbase-common</summary>
+<summary>Имя пакета: qt5-qtbase-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -60229,7 +60228,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt5-qtbase-common</summary>
+<summary>Имя пакета: qt5-qtbase-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60242,7 +60241,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt5-qtbase-devel</summary>
+<summary>Имя пакета: qt5-qtbase-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60255,7 +60254,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt5-qtbase-gui</summary>
+<summary>Имя пакета: qt5-qtbase-gui</summary>
 
 ```
 Из репозитор : anaconda
@@ -60268,7 +60267,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt5-qtbase-gui</summary>
+<summary>Имя пакета: qt5-qtbase-gui</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60281,7 +60280,7 @@ URL          : http://qt-project.org/
 </details>
 
 <details>
-<summary>qt5-qtcharts</summary>
+<summary>Имя пакета: qt5-qtcharts</summary>
 
 ```
 Из репозитор : fedora
@@ -60296,7 +60295,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtdeclarative</summary>
+<summary>Имя пакета: qt5-qtdeclarative</summary>
 
 ```
 Из репозитор : anaconda
@@ -60309,7 +60308,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtgraphicaleffects</summary>
+<summary>Имя пакета: qt5-qtgraphicaleffects</summary>
 
 ```
 Из репозитор : fedora
@@ -60325,7 +60324,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtlocation</summary>
+<summary>Имя пакета: qt5-qtlocation</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60340,7 +60339,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtmultimedia</summary>
+<summary>Имя пакета: qt5-qtmultimedia</summary>
 
 ```
 Из репозитор : fedora
@@ -60356,7 +60355,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtquickcontrols2</summary>
+<summary>Имя пакета: qt5-qtquickcontrols2</summary>
 
 ```
 Из репозитор : fedora
@@ -60373,7 +60372,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtscript</summary>
+<summary>Имя пакета: qt5-qtscript</summary>
 
 ```
 Из репозитор : fedora
@@ -60386,7 +60385,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtsensors</summary>
+<summary>Имя пакета: qt5-qtsensors</summary>
 
 ```
 Из репозитор : fedora
@@ -60401,7 +60400,7 @@ URL          : http://www.qt.io/
 </details>
 
 <details>
-<summary>qt5-qtspeech</summary>
+<summary>Имя пакета: qt5-qtspeech</summary>
 
 ```
 Из репозитор : fedora
@@ -60418,7 +60417,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtspeech-speechd</summary>
+<summary>Имя пакета: qt5-qtspeech-speechd</summary>
 
 ```
 Из репозитор : fedora
@@ -60431,7 +60430,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtsvg</summary>
+<summary>Имя пакета: qt5-qtsvg</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60446,7 +60445,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qttools-common</summary>
+<summary>Имя пакета: qt5-qttools-common</summary>
 
 ```
 Из репозитор : fedora
@@ -60459,7 +60458,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qttools-libs-designer</summary>
+<summary>Имя пакета: qt5-qttools-libs-designer</summary>
 
 ```
 Из репозитор : fedora
@@ -60472,7 +60471,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtwayland</summary>
+<summary>Имя пакета: qt5-qtwayland</summary>
 
 ```
 Из репозитор : anaconda
@@ -60485,7 +60484,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtwayland</summary>
+<summary>Имя пакета: qt5-qtwayland</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60498,7 +60497,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtwebchannel</summary>
+<summary>Имя пакета: qt5-qtwebchannel</summary>
 
 ```
 Из репозитор : fedora
@@ -60513,7 +60512,7 @@ URL          : http://qt.io
 </details>
 
 <details>
-<summary>qt5-qtwebengine</summary>
+<summary>Имя пакета: qt5-qtwebengine</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60526,7 +60525,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtwebkit</summary>
+<summary>Имя пакета: qt5-qtwebkit</summary>
 
 ```
 Из репозитор : fedora
@@ -60539,7 +60538,7 @@ URL          : https://github.com/qtwebkit/qtwebkit
 </details>
 
 <details>
-<summary>qt5-qtx11extras</summary>
+<summary>Имя пакета: qt5-qtx11extras</summary>
 
 ```
 Из репозитор : anaconda
@@ -60554,7 +60553,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-qtxmlpatterns</summary>
+<summary>Имя пакета: qt5-qtxmlpatterns</summary>
 
 ```
 Из репозитор : anaconda
@@ -60568,7 +60567,7 @@ URL          : http://www.qt.io
 </details>
 
 <details>
-<summary>qt5-rpm-macros</summary>
+<summary>Имя пакета: qt5-rpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -60581,7 +60580,7 @@ URL          : https://getfedora.org/
 </details>
 
 <details>
-<summary>qt5-srpm-macros</summary>
+<summary>Имя пакета: qt5-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -60594,7 +60593,7 @@ URL          : https://getfedora.org/
 </details>
 
 <details>
-<summary>quazip</summary>
+<summary>Имя пакета: quazip</summary>
 
 ```
 Из репозитор : fedora
@@ -60615,7 +60614,7 @@ URL          : https://github.com/stachenov/quazip
 </details>
 
 <details>
-<summary>quazip-qt5</summary>
+<summary>Имя пакета: quazip-qt5</summary>
 
 ```
 Из репозитор : fedora
@@ -60636,7 +60635,7 @@ URL          : https://github.com/stachenov/quazip
 </details>
 
 <details>
-<summary>quota</summary>
+<summary>Имя пакета: quota</summary>
 
 ```
 Эпоха        : 1
@@ -60651,7 +60650,7 @@ URL          : http://sourceforge.net/projects/linuxquota/
 </details>
 
 <details>
-<summary>quota</summary>
+<summary>Имя пакета: quota</summary>
 
 ```
 Эпоха        : 1
@@ -60666,7 +60665,7 @@ URL          : http://sourceforge.net/projects/linuxquota/
 </details>
 
 <details>
-<summary>quota-nls</summary>
+<summary>Имя пакета: quota-nls</summary>
 
 ```
 Эпоха        : 1
@@ -60680,7 +60679,7 @@ URL          : http://sourceforge.net/projects/linuxquota/
 </details>
 
 <details>
-<summary>quota-nls</summary>
+<summary>Имя пакета: quota-nls</summary>
 
 ```
 Эпоха        : 1
@@ -60694,7 +60693,7 @@ URL          : http://sourceforge.net/projects/linuxquota/
 </details>
 
 <details>
-<summary>radeon-profile</summary>
+<summary>Имя пакета: radeon-profile</summary>
 
 ```
 Из репозитор : fedora
@@ -60720,7 +60719,7 @@ URL          : https://github.com/marazmista/radeon-profile
 </details>
 
 <details>
-<summary>radeon-profile-daemon</summary>
+<summary>Имя пакета: radeon-profile-daemon</summary>
 
 ```
 Из репозитор : fedora
@@ -60737,7 +60736,7 @@ URL          : https://github.com/marazmista/radeon-profile-daemon
 </details>
 
 <details>
-<summary>radeontool</summary>
+<summary>Имя пакета: radeontool</summary>
 
 ```
 Из репозитор : fedora
@@ -60751,7 +60750,7 @@ URL          : http://people.freedesktop.org/~airlied/radeontool/
 </details>
 
 <details>
-<summary>radeontop</summary>
+<summary>Имя пакета: radeontop</summary>
 
 ```
 Из репозитор : fedora
@@ -60764,7 +60763,7 @@ URL          : https://github.com/clbr/radeontop
 </details>
 
 <details>
-<summary>radvd</summary>
+<summary>Имя пакета: radvd</summary>
 
 ```
 Из репозитор : anaconda
@@ -60785,7 +60784,7 @@ URL          : http://www.litech.org/radvd/
 </details>
 
 <details>
-<summary>raptor2</summary>
+<summary>Имя пакета: raptor2</summary>
 
 ```
 Из репозитор : anaconda
@@ -60800,7 +60799,7 @@ URL          : http://librdf.org/raptor/
 </details>
 
 <details>
-<summary>rasqal</summary>
+<summary>Имя пакета: rasqal</summary>
 
 ```
 Из репозитор : anaconda
@@ -60816,7 +60815,7 @@ URL          : http://librdf.org/rasqal/
 </details>
 
 <details>
-<summary>rav1e-libs</summary>
+<summary>Имя пакета: rav1e-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60829,7 +60828,7 @@ URL          : https://crates.io/crates/rav1e
 </details>
 
 <details>
-<summary>rb_libtorrent</summary>
+<summary>Имя пакета: rb_libtorrent</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60847,7 +60846,7 @@ URL          : https://www.libtorrent.org
 </details>
 
 <details>
-<summary>rdiff-backup</summary>
+<summary>Имя пакета: rdiff-backup</summary>
 
 ```
 Из репозитор : fedora
@@ -60869,7 +60868,7 @@ URL          : https://rdiff-backup.net/
 </details>
 
 <details>
-<summary>re2</summary>
+<summary>Имя пакета: re2</summary>
 
 ```
 Эпоха        : 1
@@ -60893,7 +60892,7 @@ URL          : http://github.com/google/re2/
 </details>
 
 <details>
-<summary>readline</summary>
+<summary>Имя пакета: readline</summary>
 
 ```
 Из репозитор : anaconda
@@ -60911,7 +60910,7 @@ URL          : https://tiswww.case.edu/php/chet/readline/rltop.html
 </details>
 
 <details>
-<summary>realmd</summary>
+<summary>Имя пакета: realmd</summary>
 
 ```
 Из репозитор : anaconda
@@ -60926,7 +60925,7 @@ URL          : https://gitlab.freedesktop.org/realmd/realmd
 </details>
 
 <details>
-<summary>realmd</summary>
+<summary>Имя пакета: realmd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60941,7 +60940,7 @@ URL          : https://gitlab.freedesktop.org/realmd/realmd
 </details>
 
 <details>
-<summary>rear</summary>
+<summary>Имя пакета: rear</summary>
 
 ```
 Из репозитор : fedora
@@ -60971,7 +60970,7 @@ URL          : http://relax-and-recover.org/
 </details>
 
 <details>
-<summary>redhat-menus</summary>
+<summary>Имя пакета: redhat-menus</summary>
 
 ```
 Из репозитор : anaconda
@@ -60986,7 +60985,7 @@ URL          : http://www.redhat.com
 </details>
 
 <details>
-<summary>redhat-rpm-config</summary>
+<summary>Имя пакета: redhat-rpm-config</summary>
 
 ```
 Из репозитор : updates-testing
@@ -60999,7 +60998,7 @@ URL          : https://src.fedoraproject.org/rpms/redhat-rpm-config
 </details>
 
 <details>
-<summary>redland</summary>
+<summary>Имя пакета: redland</summary>
 
 ```
 Из репозитор : anaconda
@@ -61017,7 +61016,7 @@ URL          : http://librdf.org/
 </details>
 
 <details>
-<summary>redland</summary>
+<summary>Имя пакета: redland</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61035,7 +61034,7 @@ URL          : http://librdf.org/
 </details>
 
 <details>
-<summary>remmina</summary>
+<summary>Имя пакета: remmina</summary>
 
 ```
 Из репозитор : fedora
@@ -61055,7 +61054,7 @@ URL          : http://remmina.org
 </details>
 
 <details>
-<summary>remmina-plugins-exec</summary>
+<summary>Имя пакета: remmina-plugins-exec</summary>
 
 ```
 Из репозитор : fedora
@@ -61073,7 +61072,7 @@ URL          : http://remmina.org
 </details>
 
 <details>
-<summary>remmina-plugins-nx</summary>
+<summary>Имя пакета: remmina-plugins-nx</summary>
 
 ```
 Из репозитор : fedora
@@ -61090,7 +61089,7 @@ URL          : http://remmina.org
 </details>
 
 <details>
-<summary>remmina-plugins-rdp</summary>
+<summary>Имя пакета: remmina-plugins-rdp</summary>
 
 ```
 Из репозитор : fedora
@@ -61108,7 +61107,7 @@ URL          : http://remmina.org
 </details>
 
 <details>
-<summary>remmina-plugins-secret</summary>
+<summary>Имя пакета: remmina-plugins-secret</summary>
 
 ```
 Из репозитор : fedora
@@ -61126,7 +61125,7 @@ URL          : http://remmina.org
 </details>
 
 <details>
-<summary>remmina-plugins-st</summary>
+<summary>Имя пакета: remmina-plugins-st</summary>
 
 ```
 Из репозитор : fedora
@@ -61144,7 +61143,7 @@ URL          : http://remmina.org
 </details>
 
 <details>
-<summary>remmina-plugins-vnc</summary>
+<summary>Имя пакета: remmina-plugins-vnc</summary>
 
 ```
 Из репозитор : fedora
@@ -61162,7 +61161,7 @@ URL          : http://remmina.org
 </details>
 
 <details>
-<summary>remmina-plugins-xdmcp</summary>
+<summary>Имя пакета: remmina-plugins-xdmcp</summary>
 
 ```
 Из репозитор : fedora
@@ -61180,7 +61179,7 @@ URL          : http://remmina.org
 </details>
 
 <details>
-<summary>reptyr</summary>
+<summary>Имя пакета: reptyr</summary>
 
 ```
 Из репозитор : fedora
@@ -61197,7 +61196,7 @@ URL          : http://github.com/nelhage/reptyr
 </details>
 
 <details>
-<summary>rest</summary>
+<summary>Имя пакета: rest</summary>
 
 ```
 Из репозитор : anaconda
@@ -61216,7 +61215,7 @@ URL          : http://www.gnome.org
 </details>
 
 <details>
-<summary>rgb</summary>
+<summary>Имя пакета: rgb</summary>
 
 ```
 Из репозитор : fedora
@@ -61231,7 +61230,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>rhash</summary>
+<summary>Имя пакета: rhash</summary>
 
 ```
 Из репозитор : fedora
@@ -61258,7 +61257,7 @@ URL          : https://github.com/rhash/RHash
 </details>
 
 <details>
-<summary>rhythmbox</summary>
+<summary>Имя пакета: rhythmbox</summary>
 
 ```
 Из репозитор : anaconda
@@ -61276,7 +61275,7 @@ URL          : https://wiki.gnome.org/Apps/Rhythmbox
 </details>
 
 <details>
-<summary>rlwrap</summary>
+<summary>Имя пакета: rlwrap</summary>
 
 ```
 Из репозитор : fedora
@@ -61293,7 +61292,7 @@ URL          : https://github.com/hanslub42/rlwrap
 </details>
 
 <details>
-<summary>rocm-opencl</summary>
+<summary>Имя пакета: rocm-opencl</summary>
 
 ```
 Из репозитор : ROCm
@@ -61308,7 +61307,7 @@ URL          : https://github.com/hanslub42/rlwrap
 </details>
 
 <details>
-<summary>rocminfo</summary>
+<summary>Имя пакета: rocminfo</summary>
 
 ```
 Краткое опис : ROCm system info utility
@@ -61320,7 +61319,7 @@ URL          : https://github.com/RadeonOpenCompute/rocminfo
 </details>
 
 <details>
-<summary>rootfiles</summary>
+<summary>Имя пакета: rootfiles</summary>
 
 ```
 Из репозитор : anaconda
@@ -61335,7 +61334,7 @@ URL          : https://github.com/RadeonOpenCompute/rocminfo
 </details>
 
 <details>
-<summary>rootsh</summary>
+<summary>Имя пакета: rootsh</summary>
 
 ```
 Из репозитор : fedora
@@ -61351,7 +61350,7 @@ URL          : http://sourceforge.net/projects/rootsh
 </details>
 
 <details>
-<summary>rpcbind</summary>
+<summary>Имя пакета: rpcbind</summary>
 
 ```
 Из репозитор : anaconda
@@ -61366,7 +61365,7 @@ URL          : http://nfsv4.bullopensource.org
 </details>
 
 <details>
-<summary>rpkg-common</summary>
+<summary>Имя пакета: rpkg-common</summary>
 
 ```
 Из репозитор : fedora
@@ -61379,7 +61378,7 @@ URL          : https://pagure.io/rpkg
 </details>
 
 <details>
-<summary>rpm</summary>
+<summary>Имя пакета: rpm</summary>
 
 ```
 Из репозитор : anaconda
@@ -61396,7 +61395,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm</summary>
+<summary>Имя пакета: rpm</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61413,7 +61412,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-build</summary>
+<summary>Имя пакета: rpm-build</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61427,7 +61426,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-build-libs</summary>
+<summary>Имя пакета: rpm-build-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -61440,7 +61439,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-build-libs</summary>
+<summary>Имя пакета: rpm-build-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61453,7 +61452,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-libs</summary>
+<summary>Имя пакета: rpm-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -61466,7 +61465,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-libs</summary>
+<summary>Имя пакета: rpm-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61479,7 +61478,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-plugin-selinux</summary>
+<summary>Имя пакета: rpm-plugin-selinux</summary>
 
 ```
 Из репозитор : anaconda
@@ -61492,7 +61491,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-plugin-selinux</summary>
+<summary>Имя пакета: rpm-plugin-selinux</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61505,7 +61504,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-plugin-systemd-inhibit</summary>
+<summary>Имя пакета: rpm-plugin-systemd-inhibit</summary>
 
 ```
 Из репозитор : anaconda
@@ -61519,7 +61518,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-plugin-systemd-inhibit</summary>
+<summary>Имя пакета: rpm-plugin-systemd-inhibit</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61533,7 +61532,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-sign-libs</summary>
+<summary>Имя пакета: rpm-sign-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -61546,7 +61545,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpm-sign-libs</summary>
+<summary>Имя пакета: rpm-sign-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61559,7 +61558,7 @@ URL          : http://www.rpm.org/
 </details>
 
 <details>
-<summary>rpmdevtools</summary>
+<summary>Имя пакета: rpmdevtools</summary>
 
 ```
 Из репозитор : fedora
@@ -61586,7 +61585,7 @@ URL          : https://pagure.io/rpmdevtools
 </details>
 
 <details>
-<summary>rpmfusion-free-appstream-data</summary>
+<summary>Имя пакета: rpmfusion-free-appstream-data</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -61599,7 +61598,7 @@ URL          : http://rpmfusion.org
 </details>
 
 <details>
-<summary>rpmfusion-free-obsolete-packages</summary>
+<summary>Имя пакета: rpmfusion-free-obsolete-packages</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -61613,7 +61612,7 @@ URL          : http://rpmfusion.org
 </details>
 
 <details>
-<summary>rpmfusion-free-release</summary>
+<summary>Имя пакета: rpmfusion-free-release</summary>
 
 ```
 Из репозитор : @commandline
@@ -61627,7 +61626,7 @@ URL          : http://rpmfusion.org
 </details>
 
 <details>
-<summary>rpmfusion-nonfree-appstream-data</summary>
+<summary>Имя пакета: rpmfusion-nonfree-appstream-data</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -61640,7 +61639,7 @@ URL          : http://rpmfusion.org
 </details>
 
 <details>
-<summary>rpmfusion-nonfree-release</summary>
+<summary>Имя пакета: rpmfusion-nonfree-release</summary>
 
 ```
 Из репозитор : @commandline
@@ -61654,7 +61653,7 @@ URL          : http://rpmfusion.org
 </details>
 
 <details>
-<summary>rpmlint</summary>
+<summary>Имя пакета: rpmlint</summary>
 
 ```
 Из репозитор : fedora
@@ -61668,7 +61667,7 @@ URL          : https://github.com/rpm-software-management/rpmlint
 </details>
 
 <details>
-<summary>rsnapshot</summary>
+<summary>Имя пакета: rsnapshot</summary>
 
 ```
 Из репозитор : fedora
@@ -61682,7 +61681,7 @@ URL          : https://rsnapshot.org/
 </details>
 
 <details>
-<summary>rsync</summary>
+<summary>Имя пакета: rsync</summary>
 
 ```
 Из репозитор : anaconda
@@ -61701,7 +61700,7 @@ URL          : https://rsync.samba.org/
 </details>
 
 <details>
-<summary>rtkit</summary>
+<summary>Имя пакета: rtkit</summary>
 
 ```
 Из репозитор : anaconda
@@ -61718,7 +61717,7 @@ URL          : http://git.0pointer.net/rtkit.git/
 </details>
 
 <details>
-<summary>ruby</summary>
+<summary>Имя пакета: ruby</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61734,7 +61733,7 @@ URL          : https://www.ruby-lang.org/
 </details>
 
 <details>
-<summary>ruby-augeas</summary>
+<summary>Имя пакета: ruby-augeas</summary>
 
 ```
 Из репозитор : fedora
@@ -61747,7 +61746,7 @@ URL          : http://augeas.net
 </details>
 
 <details>
-<summary>ruby-default-gems</summary>
+<summary>Имя пакета: ruby-default-gems</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61761,7 +61760,7 @@ URL          : https://www.ruby-lang.org/
 </details>
 
 <details>
-<summary>ruby-facter</summary>
+<summary>Имя пакета: ruby-facter</summary>
 
 ```
 Из репозитор : fedora
@@ -61774,7 +61773,7 @@ URL          : https://puppetlabs.com/facter
 </details>
 
 <details>
-<summary>ruby-libs</summary>
+<summary>Имя пакета: ruby-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61787,7 +61786,7 @@ URL          : https://www.ruby-lang.org/
 </details>
 
 <details>
-<summary>rubygem-bigdecimal</summary>
+<summary>Имя пакета: rubygem-bigdecimal</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61809,7 +61808,7 @@ URL          : https://www.ruby-lang.org/
 </details>
 
 <details>
-<summary>rubygem-bundler</summary>
+<summary>Имя пакета: rubygem-bundler</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61823,7 +61822,7 @@ URL          : https://www.ruby-lang.org/
 </details>
 
 <details>
-<summary>rubygem-io-console</summary>
+<summary>Имя пакета: rubygem-io-console</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61837,7 +61836,7 @@ URL          : https://www.ruby-lang.org/
 </details>
 
 <details>
-<summary>rubygem-json</summary>
+<summary>Имя пакета: rubygem-json</summary>
 
 ```
 Из репозитор : fedora
@@ -61854,7 +61853,7 @@ URL          : http://json.rubyforge.org
 </details>
 
 <details>
-<summary>rubygem-multi_json</summary>
+<summary>Имя пакета: rubygem-multi_json</summary>
 
 ```
 Из репозитор : fedora
@@ -61869,7 +61868,7 @@ URL          : https://github.com/intridea/multi_json
 </details>
 
 <details>
-<summary>rubygem-pathspec</summary>
+<summary>Имя пакета: rubygem-pathspec</summary>
 
 ```
 Из репозитор : fedora
@@ -61882,7 +61881,7 @@ URL          : https://rubygems.org/gems/pathspec
 </details>
 
 <details>
-<summary>rubygem-psych</summary>
+<summary>Имя пакета: rubygem-psych</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61898,7 +61897,7 @@ URL          : https://www.ruby-lang.org/
 </details>
 
 <details>
-<summary>rubygem-rdoc</summary>
+<summary>Имя пакета: rubygem-rdoc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61913,7 +61912,7 @@ URL          : https://www.ruby-lang.org/
 </details>
 
 <details>
-<summary>rubygem-rgen</summary>
+<summary>Имя пакета: rubygem-rgen</summary>
 
 ```
 Из репозитор : fedora
@@ -61928,7 +61927,7 @@ URL          : https://github.com/mthiede/rgen
 </details>
 
 <details>
-<summary>rubygem-ruby-shadow</summary>
+<summary>Имя пакета: rubygem-ruby-shadow</summary>
 
 ```
 Из репозитор : fedora
@@ -61941,7 +61940,7 @@ URL          : https://github.com/apalmblad/ruby-shadow
 </details>
 
 <details>
-<summary>rubygems</summary>
+<summary>Имя пакета: rubygems</summary>
 
 ```
 Из репозитор : updates-testing
@@ -61955,7 +61954,7 @@ URL          : https://www.ruby-lang.org/
 </details>
 
 <details>
-<summary>rubypick</summary>
+<summary>Имя пакета: rubypick</summary>
 
 ```
 Из репозитор : fedora
@@ -61970,7 +61969,7 @@ URL          : https://github.com/fedora-ruby/rubypick
 </details>
 
 <details>
-<summary>runc</summary>
+<summary>Имя пакета: runc</summary>
 
 ```
 Эпоха        : 2
@@ -61986,7 +61985,7 @@ URL          : https://github.com/opencontainers/runc
 </details>
 
 <details>
-<summary>rust-srpm-macros</summary>
+<summary>Имя пакета: rust-srpm-macros</summary>
 
 ```
 Из репозитор : fedora
@@ -61999,7 +61998,7 @@ URL          : https://pagure.io/fedora-rust/rust2rpm
 </details>
 
 <details>
-<summary>rxvt-unicode</summary>
+<summary>Имя пакета: rxvt-unicode</summary>
 
 ```
 Из репозитор : fedora
@@ -62015,7 +62014,7 @@ URL          : http://software.schmorp.de/
 </details>
 
 <details>
-<summary>rygel</summary>
+<summary>Имя пакета: rygel</summary>
 
 ```
 Из репозитор : anaconda
@@ -62033,7 +62032,7 @@ URL          : https://wiki.gnome.org/Projects/Rygel
 </details>
 
 <details>
-<summary>saidar</summary>
+<summary>Имя пакета: saidar</summary>
 
 ```
 Эпоха        : 1
@@ -62048,7 +62047,7 @@ URL          : http://www.i-scream.org/libstatgrab
 </details>
 
 <details>
-<summary>samba-client</summary>
+<summary>Имя пакета: samba-client</summary>
 
 ```
 Эпоха        : 2
@@ -62064,7 +62063,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>samba-client-libs</summary>
+<summary>Имя пакета: samba-client-libs</summary>
 
 ```
 Эпоха        : 2
@@ -62079,7 +62078,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>samba-client-libs</summary>
+<summary>Имя пакета: samba-client-libs</summary>
 
 ```
 Эпоха        : 2
@@ -62094,7 +62093,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>samba-common</summary>
+<summary>Имя пакета: samba-common</summary>
 
 ```
 Эпоха        : 2
@@ -62109,7 +62108,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>samba-common</summary>
+<summary>Имя пакета: samba-common</summary>
 
 ```
 Эпоха        : 2
@@ -62124,7 +62123,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>samba-common-libs</summary>
+<summary>Имя пакета: samba-common-libs</summary>
 
 ```
 Эпоха        : 2
@@ -62139,7 +62138,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>samba-common-libs</summary>
+<summary>Имя пакета: samba-common-libs</summary>
 
 ```
 Эпоха        : 2
@@ -62154,7 +62153,7 @@ URL          : https://www.samba.org
 </details>
 
 <details>
-<summary>sane-airscan</summary>
+<summary>Имя пакета: sane-airscan</summary>
 
 ```
 Из репозитор : anaconda
@@ -62168,7 +62167,7 @@ URL          : https://github.com/alexpevzner/sane-airscan
 </details>
 
 <details>
-<summary>sane-backends</summary>
+<summary>Имя пакета: sane-backends</summary>
 
 ```
 Из репозитор : anaconda
@@ -62184,7 +62183,7 @@ URL          : http://www.sane-project.org
 </details>
 
 <details>
-<summary>sane-backends</summary>
+<summary>Имя пакета: sane-backends</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62200,7 +62199,7 @@ URL          : http://www.sane-project.org
 </details>
 
 <details>
-<summary>sane-backends-devel</summary>
+<summary>Имя пакета: sane-backends-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62214,7 +62213,7 @@ URL          : http://www.sane-project.org
 </details>
 
 <details>
-<summary>sane-backends-drivers-cameras</summary>
+<summary>Имя пакета: sane-backends-drivers-cameras</summary>
 
 ```
 Из репозитор : anaconda
@@ -62227,7 +62226,7 @@ URL          : http://www.sane-project.org
 </details>
 
 <details>
-<summary>sane-backends-drivers-cameras</summary>
+<summary>Имя пакета: sane-backends-drivers-cameras</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62240,7 +62239,7 @@ URL          : http://www.sane-project.org
 </details>
 
 <details>
-<summary>sane-backends-drivers-scanners</summary>
+<summary>Имя пакета: sane-backends-drivers-scanners</summary>
 
 ```
 Из репозитор : anaconda
@@ -62253,7 +62252,7 @@ URL          : http://www.sane-project.org
 </details>
 
 <details>
-<summary>sane-backends-drivers-scanners</summary>
+<summary>Имя пакета: sane-backends-drivers-scanners</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62266,7 +62265,7 @@ URL          : http://www.sane-project.org
 </details>
 
 <details>
-<summary>sane-backends-libs</summary>
+<summary>Имя пакета: sane-backends-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -62280,7 +62279,7 @@ URL          : http://www.sane-project.org
 </details>
 
 <details>
-<summary>sane-backends-libs</summary>
+<summary>Имя пакета: sane-backends-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62294,7 +62293,7 @@ URL          : http://www.sane-project.org
 </details>
 
 <details>
-<summary>satyr</summary>
+<summary>Имя пакета: satyr</summary>
 
 ```
 Из репозитор : anaconda
@@ -62313,7 +62312,7 @@ URL          : https://github.com/abrt/satyr
 </details>
 
 <details>
-<summary>scala</summary>
+<summary>Имя пакета: scala</summary>
 
 ```
 Из репозитор : fedora
@@ -62331,7 +62330,7 @@ URL          : http://www.scala-lang.org/
 </details>
 
 <details>
-<summary>scala-library</summary>
+<summary>Имя пакета: scala-library</summary>
 
 ```
 Из репозитор : fedora
@@ -62350,7 +62349,7 @@ URL          : http://www.scala-lang.org/
 </details>
 
 <details>
-<summary>scala-reflect</summary>
+<summary>Имя пакета: scala-reflect</summary>
 
 ```
 Из репозитор : fedora
@@ -62369,7 +62368,7 @@ URL          : http://www.scala-lang.org/
 </details>
 
 <details>
-<summary>scotch</summary>
+<summary>Имя пакета: scotch</summary>
 
 ```
 Из репозитор : fedora
@@ -62384,7 +62383,7 @@ URL          : https://gforge.inria.fr/projects/scotch/
 </details>
 
 <details>
-<summary>screen</summary>
+<summary>Имя пакета: screen</summary>
 
 ```
 Из репозитор : fedora
@@ -62403,7 +62402,7 @@ URL          : http://www.gnu.org/software/screen
 </details>
 
 <details>
-<summary>screenfetch</summary>
+<summary>Имя пакета: screenfetch</summary>
 
 ```
 Из репозитор : fedora
@@ -62424,7 +62423,7 @@ URL          : https://github.com/KittyKatt/screenFetch
 </details>
 
 <details>
-<summary>scrub</summary>
+<summary>Имя пакета: scrub</summary>
 
 ```
 Из репозитор : fedora
@@ -62443,7 +62442,7 @@ URL          : https://github.com/chaos/scrub/
 </details>
 
 <details>
-<summary>seabios-bin</summary>
+<summary>Имя пакета: seabios-bin</summary>
 
 ```
 Из репозитор : anaconda
@@ -62458,7 +62457,7 @@ URL          : http://www.coreboot.org/SeaBIOS
 </details>
 
 <details>
-<summary>seavgabios-bin</summary>
+<summary>Имя пакета: seavgabios-bin</summary>
 
 ```
 Из репозитор : anaconda
@@ -62471,7 +62470,7 @@ URL          : http://www.coreboot.org/SeaBIOS
 </details>
 
 <details>
-<summary>sed</summary>
+<summary>Имя пакета: sed</summary>
 
 ```
 Из репозитор : anaconda
@@ -62488,7 +62487,7 @@ URL          : http://sed.sourceforge.net/
 </details>
 
 <details>
-<summary>selinux-policy</summary>
+<summary>Имя пакета: selinux-policy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62503,7 +62502,7 @@ URL          : https://github.com/fedora-selinux/selinux-policy
 </details>
 
 <details>
-<summary>selinux-policy-targeted</summary>
+<summary>Имя пакета: selinux-policy-targeted</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62516,7 +62515,7 @@ URL          : https://github.com/fedora-selinux/selinux-policy
 </details>
 
 <details>
-<summary>serd</summary>
+<summary>Имя пакета: serd</summary>
 
 ```
 Из репозитор : anaconda
@@ -62534,7 +62533,7 @@ URL          : http://drobilla.net/software/serd/
 </details>
 
 <details>
-<summary>sessreg</summary>
+<summary>Имя пакета: sessreg</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62549,7 +62548,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>setup</summary>
+<summary>Имя пакета: setup</summary>
 
 ```
 Из репозитор : anaconda
@@ -62563,7 +62562,7 @@ URL          : https://pagure.io/setup/
 </details>
 
 <details>
-<summary>setxkbmap</summary>
+<summary>Имя пакета: setxkbmap</summary>
 
 ```
 Из репозитор : anaconda
@@ -62578,7 +62577,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>sg3_utils-libs</summary>
+<summary>Имя пакета: sg3_utils-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -62591,7 +62590,7 @@ URL          : http://sg.danny.cz/sg/sg3_utils.html
 </details>
 
 <details>
-<summary>sg3_utils-libs</summary>
+<summary>Имя пакета: sg3_utils-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62604,7 +62603,7 @@ URL          : http://sg.danny.cz/sg/sg3_utils.html
 </details>
 
 <details>
-<summary>sgabios-bin</summary>
+<summary>Имя пакета: sgabios-bin</summary>
 
 ```
 Эпоха        : 1
@@ -62621,7 +62620,7 @@ URL          : https://github.com/qemu/sgabios
 </details>
 
 <details>
-<summary>sgml-common</summary>
+<summary>Имя пакета: sgml-common</summary>
 
 ```
 Из репозитор : fedora
@@ -62637,7 +62636,7 @@ URL          : https://www.w3.org/2003/entities/
 </details>
 
 <details>
-<summary>sgpio</summary>
+<summary>Имя пакета: sgpio</summary>
 
 ```
 Из репозитор : anaconda
@@ -62650,7 +62649,7 @@ URL          : http://sources.redhat.com/lvm2/wiki/DMRAID_Eventing
 </details>
 
 <details>
-<summary>sha</summary>
+<summary>Имя пакета: sha</summary>
 
 ```
 Из репозитор : fedora
@@ -62668,7 +62667,7 @@ URL          : http://hg.saddi.com/sha-asaddi
 </details>
 
 <details>
-<summary>sha-devel</summary>
+<summary>Имя пакета: sha-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -62682,7 +62681,7 @@ URL          : http://hg.saddi.com/sha-asaddi
 </details>
 
 <details>
-<summary>sha2</summary>
+<summary>Имя пакета: sha2</summary>
 
 ```
 Из репозитор : fedora
@@ -62701,7 +62700,7 @@ URL          : http://www.aarongifford.com/computers/sha.html
 </details>
 
 <details>
-<summary>sha2-devel</summary>
+<summary>Имя пакета: sha2-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -62715,7 +62714,7 @@ URL          : http://www.aarongifford.com/computers/sha.html
 </details>
 
 <details>
-<summary>sha3sum</summary>
+<summary>Имя пакета: sha3sum</summary>
 
 ```
 Из репозитор : fedora
@@ -62728,7 +62727,7 @@ URL          : https://metacpan.org/release/Digest-SHA3
 </details>
 
 <details>
-<summary>shadow-utils</summary>
+<summary>Имя пакета: shadow-utils</summary>
 
 ```
 Эпоха        : 2
@@ -62751,7 +62750,7 @@ URL          : https://github.com/shadow-maint/shadow
 </details>
 
 <details>
-<summary>shadow-utils</summary>
+<summary>Имя пакета: shadow-utils</summary>
 
 ```
 Эпоха        : 2
@@ -62774,7 +62773,7 @@ URL          : https://github.com/shadow-maint/shadow
 </details>
 
 <details>
-<summary>shared-mime-info</summary>
+<summary>Имя пакета: shared-mime-info</summary>
 
 ```
 Из репозитор : anaconda
@@ -62792,7 +62791,7 @@ URL          : http://freedesktop.org/Software/shared-mime-info
 </details>
 
 <details>
-<summary>sheepdog</summary>
+<summary>Имя пакета: sheepdog</summary>
 
 ```
 Из репозитор : anaconda
@@ -62806,7 +62805,7 @@ URL          : http://sheepdog.github.io/sheepdog
 </details>
 
 <details>
-<summary>shim-ia32</summary>
+<summary>Имя пакета: shim-ia32</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62821,7 +62820,7 @@ URL          : https://github.com/rhboot/shim/
 </details>
 
 <details>
-<summary>shim-x64</summary>
+<summary>Имя пакета: shim-x64</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62836,7 +62835,7 @@ URL          : https://github.com/rhboot/shim/
 </details>
 
 <details>
-<summary>sil-abyssinica-fonts</summary>
+<summary>Имя пакета: sil-abyssinica-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -62860,7 +62859,7 @@ URL          : https://software.sil.org/AbyssinicaSIL/
 </details>
 
 <details>
-<summary>sil-mingzat-fonts</summary>
+<summary>Имя пакета: sil-mingzat-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -62879,7 +62878,7 @@ URL          : http://scripts.sil.org/Mingzat
 </details>
 
 <details>
-<summary>sil-nuosu-fonts</summary>
+<summary>Имя пакета: sil-nuosu-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -62894,7 +62893,7 @@ URL          : http://scripts.sil.org/SILYi_home
 </details>
 
 <details>
-<summary>sil-padauk-fonts</summary>
+<summary>Имя пакета: sil-padauk-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -62910,7 +62909,7 @@ URL          : https://software.sil.org/padauk/
 </details>
 
 <details>
-<summary>simple-scan</summary>
+<summary>Имя пакета: simple-scan</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62924,7 +62923,7 @@ URL          : https://launchpad.net/simple-scan
 </details>
 
 <details>
-<summary>slang</summary>
+<summary>Имя пакета: slang</summary>
 
 ```
 Из репозитор : fedora
@@ -62942,7 +62941,7 @@ URL          : https://www.jedsoft.org/slang/
 </details>
 
 <details>
-<summary>slirp4netns</summary>
+<summary>Имя пакета: slirp4netns</summary>
 
 ```
 Из репозитор : anaconda
@@ -62955,7 +62954,7 @@ URL          : https://github.com/rootless-containers/slirp4netns
 </details>
 
 <details>
-<summary>slirp4netns</summary>
+<summary>Имя пакета: slirp4netns</summary>
 
 ```
 Из репозитор : updates-testing
@@ -62968,7 +62967,7 @@ URL          : https://github.com/rootless-containers/slirp4netns
 </details>
 
 <details>
-<summary>smc-meera-fonts</summary>
+<summary>Имя пакета: smc-meera-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -62984,7 +62983,7 @@ URL          : https://gitlab.com/smc/fonts/meera
 </details>
 
 <details>
-<summary>smp_utils</summary>
+<summary>Имя пакета: smp_utils</summary>
 
 ```
 Из репозитор : fedora
@@ -63007,7 +63006,7 @@ URL          : http://sg.danny.cz/sg/smp_utils.html
 </details>
 
 <details>
-<summary>smp_utils-libs</summary>
+<summary>Имя пакета: smp_utils-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -63020,7 +63019,7 @@ URL          : http://sg.danny.cz/sg/smp_utils.html
 </details>
 
 <details>
-<summary>snappy</summary>
+<summary>Имя пакета: snappy</summary>
 
 ```
 Из репозитор : anaconda
@@ -63038,7 +63037,7 @@ URL          : https://github.com/google/snappy
 </details>
 
 <details>
-<summary>sni-qt</summary>
+<summary>Имя пакета: sni-qt</summary>
 
 ```
 Из репозитор : fedora
@@ -63052,7 +63051,7 @@ URL          : https://launchpad.net/sni-qt
 </details>
 
 <details>
-<summary>socat</summary>
+<summary>Имя пакета: socat</summary>
 
 ```
 Из репозитор : fedora
@@ -63069,7 +63068,7 @@ URL          : http://www.dest-unreach.org/socat/
 </details>
 
 <details>
-<summary>sombok</summary>
+<summary>Имя пакета: sombok</summary>
 
 ```
 Из репозитор : fedora
@@ -63086,7 +63085,7 @@ URL          : http://sf.net/projects/linefold/
 </details>
 
 <details>
-<summary>sord</summary>
+<summary>Имя пакета: sord</summary>
 
 ```
 Из репозитор : anaconda
@@ -63102,7 +63101,7 @@ URL          : http://drobilla.net/software/sord/
 </details>
 
 <details>
-<summary>sos</summary>
+<summary>Имя пакета: sos</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63118,7 +63117,7 @@ URL          : https://github.com/sosreport/sos
 </details>
 
 <details>
-<summary>sound-theme-freedesktop</summary>
+<summary>Имя пакета: sound-theme-freedesktop</summary>
 
 ```
 Из репозитор : anaconda
@@ -63132,7 +63131,7 @@ URL          : http://www.freedesktop.org/wiki/Specifications/sound-theme-spec
 </details>
 
 <details>
-<summary>soundtouch</summary>
+<summary>Имя пакета: soundtouch</summary>
 
 ```
 Из репозитор : anaconda
@@ -63153,7 +63152,7 @@ URL          : http://www.surina.net/soundtouch/
 </details>
 
 <details>
-<summary>source-highlight</summary>
+<summary>Имя пакета: source-highlight</summary>
 
 ```
 Из репозитор : anaconda
@@ -63170,7 +63169,7 @@ URL          : http://www.gnu.org/software/src-highlite/
 </details>
 
 <details>
-<summary>source-highlight</summary>
+<summary>Имя пакета: source-highlight</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63187,7 +63186,7 @@ URL          : http://www.gnu.org/software/src-highlite/
 </details>
 
 <details>
-<summary>soxr</summary>
+<summary>Имя пакета: soxr</summary>
 
 ```
 Из репозитор : anaconda
@@ -63201,7 +63200,7 @@ URL          : https://sourceforge.net/p/soxr/wiki/Home/
 </details>
 
 <details>
-<summary>speech-dispatcher</summary>
+<summary>Имя пакета: speech-dispatcher</summary>
 
 ```
 Из репозитор : anaconda
@@ -63226,7 +63225,7 @@ URL          : http://devel.freebsoft.org/speechd
 </details>
 
 <details>
-<summary>speech-dispatcher-espeak-ng</summary>
+<summary>Имя пакета: speech-dispatcher-espeak-ng</summary>
 
 ```
 Из репозитор : anaconda
@@ -63239,7 +63238,7 @@ URL          : http://devel.freebsoft.org/speechd
 </details>
 
 <details>
-<summary>speex</summary>
+<summary>Имя пакета: speex</summary>
 
 ```
 Из репозитор : anaconda
@@ -63256,7 +63255,7 @@ URL          : https://www.speex.org/
 </details>
 
 <details>
-<summary>speexdsp</summary>
+<summary>Имя пакета: speexdsp</summary>
 
 ```
 Из репозитор : fedora
@@ -63275,7 +63274,7 @@ URL          : http://www.speex.org/
 </details>
 
 <details>
-<summary>sphinx</summary>
+<summary>Имя пакета: sphinx</summary>
 
 ```
 Из репозитор : fedora
@@ -63306,7 +63305,7 @@ URL          : http://sphinxsearch.com
 </details>
 
 <details>
-<summary>spice-glib</summary>
+<summary>Имя пакета: spice-glib</summary>
 
 ```
 Из репозитор : anaconda
@@ -63319,7 +63318,7 @@ URL          : https://www.spice-space.org/spice-gtk.html
 </details>
 
 <details>
-<summary>spice-gtk3</summary>
+<summary>Имя пакета: spice-gtk3</summary>
 
 ```
 Из репозитор : anaconda
@@ -63332,7 +63331,7 @@ URL          : https://www.spice-space.org/spice-gtk.html
 </details>
 
 <details>
-<summary>spice-server</summary>
+<summary>Имя пакета: spice-server</summary>
 
 ```
 Из репозитор : anaconda
@@ -63352,7 +63351,7 @@ URL          : http://www.spice-space.org/
 </details>
 
 <details>
-<summary>spice-vdagent</summary>
+<summary>Имя пакета: spice-vdagent</summary>
 
 ```
 Из репозитор : anaconda
@@ -63374,7 +63373,7 @@ URL          : https://spice-space.org/
 </details>
 
 <details>
-<summary>spirv-tools-libs</summary>
+<summary>Имя пакета: spirv-tools-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -63387,7 +63386,7 @@ URL          : https://github.com/KhronosGroup/SPIRV-Tools
 </details>
 
 <details>
-<summary>splix</summary>
+<summary>Имя пакета: splix</summary>
 
 ```
 Из репозитор : fedora
@@ -63403,7 +63402,7 @@ URL          : http://splix.sourceforge.net/
 </details>
 
 <details>
-<summary>sqlite</summary>
+<summary>Имя пакета: sqlite</summary>
 
 ```
 Из репозитор : anaconda
@@ -63422,7 +63421,7 @@ URL          : http://www.sqlite.org/
 </details>
 
 <details>
-<summary>sqlite-libs</summary>
+<summary>Имя пакета: sqlite-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -63435,7 +63434,7 @@ URL          : http://www.sqlite.org/
 </details>
 
 <details>
-<summary>squashfs-tools</summary>
+<summary>Имя пакета: squashfs-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -63449,7 +63448,7 @@ URL          : https://github.com/plougher/squashfs-tools/archive/4.4-git.1.tar.
 </details>
 
 <details>
-<summary>sratom</summary>
+<summary>Имя пакета: sratom</summary>
 
 ```
 Из репозитор : anaconda
@@ -63466,7 +63465,7 @@ URL          : http://drobilla.net/software/sratom/
 </details>
 
 <details>
-<summary>srt-libs</summary>
+<summary>Имя пакета: srt-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63479,7 +63478,7 @@ URL          : https://www.srtalliance.org
 </details>
 
 <details>
-<summary>sscg</summary>
+<summary>Имя пакета: sscg</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63497,7 +63496,7 @@ URL          : https://github.com/sgallagher/sscg
 </details>
 
 <details>
-<summary>ssh-contact</summary>
+<summary>Имя пакета: ssh-contact</summary>
 
 ```
 Из репозитор : fedora
@@ -63513,7 +63512,7 @@ URL          : http://telepathy.freedesktop.org/wiki/SSH-Contact
 </details>
 
 <details>
-<summary>sshexport</summary>
+<summary>Имя пакета: sshexport</summary>
 
 ```
 Из репозитор : fedora
@@ -63531,7 +63530,7 @@ URL          : http://www.catb.org/~esr/sshexport
 </details>
 
 <details>
-<summary>sshguard</summary>
+<summary>Имя пакета: sshguard</summary>
 
 ```
 Из репозитор : fedora
@@ -63552,7 +63551,7 @@ URL          : http://www.sshguard.net
 </details>
 
 <details>
-<summary>sshguard-nftables</summary>
+<summary>Имя пакета: sshguard-nftables</summary>
 
 ```
 Из репозитор : fedora
@@ -63566,7 +63565,7 @@ URL          : http://www.sshguard.net
 </details>
 
 <details>
-<summary>sshpass</summary>
+<summary>Имя пакета: sshpass</summary>
 
 ```
 Из репозитор : anaconda
@@ -63581,7 +63580,7 @@ URL          : http://sshpass.sourceforge.net/
 </details>
 
 <details>
-<summary>sshrc</summary>
+<summary>Имя пакета: sshrc</summary>
 
 ```
 Из репозитор : fedora
@@ -63596,7 +63595,7 @@ URL          : https://github.com/Russell91/sshrc
 </details>
 
 <details>
-<summary>sssd</summary>
+<summary>Имя пакета: sssd</summary>
 
 ```
 Из репозитор : anaconda
@@ -63616,7 +63615,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd</summary>
+<summary>Имя пакета: sssd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63636,7 +63635,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-ad</summary>
+<summary>Имя пакета: sssd-ad</summary>
 
 ```
 Из репозитор : anaconda
@@ -63650,7 +63649,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-ad</summary>
+<summary>Имя пакета: sssd-ad</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63664,7 +63663,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-client</summary>
+<summary>Имя пакета: sssd-client</summary>
 
 ```
 Из репозитор : anaconda
@@ -63678,7 +63677,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-client</summary>
+<summary>Имя пакета: sssd-client</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63692,7 +63691,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-common</summary>
+<summary>Имя пакета: sssd-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -63707,7 +63706,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-common</summary>
+<summary>Имя пакета: sssd-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63722,7 +63721,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-common-pac</summary>
+<summary>Имя пакета: sssd-common-pac</summary>
 
 ```
 Из репозитор : anaconda
@@ -63736,7 +63735,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-common-pac</summary>
+<summary>Имя пакета: sssd-common-pac</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63750,7 +63749,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-ipa</summary>
+<summary>Имя пакета: sssd-ipa</summary>
 
 ```
 Из репозитор : anaconda
@@ -63764,7 +63763,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-ipa</summary>
+<summary>Имя пакета: sssd-ipa</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63778,7 +63777,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-kcm</summary>
+<summary>Имя пакета: sssd-kcm</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63792,7 +63791,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-krb5</summary>
+<summary>Имя пакета: sssd-krb5</summary>
 
 ```
 Из репозитор : anaconda
@@ -63806,7 +63805,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-krb5</summary>
+<summary>Имя пакета: sssd-krb5</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63820,7 +63819,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-krb5-common</summary>
+<summary>Имя пакета: sssd-krb5-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -63834,7 +63833,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-krb5-common</summary>
+<summary>Имя пакета: sssd-krb5-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63848,7 +63847,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-ldap</summary>
+<summary>Имя пакета: sssd-ldap</summary>
 
 ```
 Из репозитор : anaconda
@@ -63862,7 +63861,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-ldap</summary>
+<summary>Имя пакета: sssd-ldap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63876,7 +63875,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-nfs-idmap</summary>
+<summary>Имя пакета: sssd-nfs-idmap</summary>
 
 ```
 Из репозитор : anaconda
@@ -63891,7 +63890,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-nfs-idmap</summary>
+<summary>Имя пакета: sssd-nfs-idmap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63906,7 +63905,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-proxy</summary>
+<summary>Имя пакета: sssd-proxy</summary>
 
 ```
 Из репозитор : anaconda
@@ -63920,7 +63919,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>sssd-proxy</summary>
+<summary>Имя пакета: sssd-proxy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -63934,7 +63933,7 @@ URL          : https://github.com/SSSD/sssd/
 </details>
 
 <details>
-<summary>startup-notification</summary>
+<summary>Имя пакета: startup-notification</summary>
 
 ```
 Из репозитор : anaconda
@@ -63950,7 +63949,7 @@ URL          : http://www.freedesktop.org/software/startup-notification/
 </details>
 
 <details>
-<summary>stix-fonts</summary>
+<summary>Имя пакета: stix-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -63966,7 +63965,7 @@ URL          : http://www.stixfonts.org/
 </details>
 
 <details>
-<summary>stoken-libs</summary>
+<summary>Имя пакета: stoken-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -63983,7 +63982,7 @@ URL          : http://stoken.sf.net
 </details>
 
 <details>
-<summary>stress</summary>
+<summary>Имя пакета: stress</summary>
 
 ```
 Из репозитор : fedora
@@ -64000,7 +63999,7 @@ URL          : http://people.seas.harvard.edu/~apw/stress/
 </details>
 
 <details>
-<summary>subversion</summary>
+<summary>Имя пакета: subversion</summary>
 
 ```
 Из репозитор : fedora
@@ -64018,7 +64017,7 @@ URL          : https://subversion.apache.org/
 </details>
 
 <details>
-<summary>subversion-libs</summary>
+<summary>Имя пакета: subversion-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -64032,7 +64031,7 @@ URL          : https://subversion.apache.org/
 </details>
 
 <details>
-<summary>subversion-perl</summary>
+<summary>Имя пакета: subversion-perl</summary>
 
 ```
 Из репозитор : fedora
@@ -64045,7 +64044,7 @@ URL          : https://subversion.apache.org/
 </details>
 
 <details>
-<summary>sudo</summary>
+<summary>Имя пакета: sudo</summary>
 
 ```
 Из репозитор : anaconda
@@ -64066,7 +64065,7 @@ URL          : https://www.sudo.ws
 </details>
 
 <details>
-<summary>sudo-python-plugin</summary>
+<summary>Имя пакета: sudo-python-plugin</summary>
 
 ```
 Из репозитор : anaconda
@@ -64079,7 +64078,7 @@ URL          : https://www.sudo.ws
 </details>
 
 <details>
-<summary>suitesparse</summary>
+<summary>Имя пакета: suitesparse</summary>
 
 ```
 Из репозитор : anaconda
@@ -64108,7 +64107,7 @@ URL          : http://faculty.cse.tamu.edu/davis/suitesparse.html
 </details>
 
 <details>
-<summary>supermin</summary>
+<summary>Имя пакета: supermin</summary>
 
 ```
 Из репозитор : fedora
@@ -64124,7 +64123,7 @@ URL          : http://people.redhat.com/~rjones/supermin/
 </details>
 
 <details>
-<summary>sushi</summary>
+<summary>Имя пакета: sushi</summary>
 
 ```
 Из репозитор : anaconda
@@ -64138,7 +64137,7 @@ URL          : https://gitlab.gnome.org/GNOME/sushi
 </details>
 
 <details>
-<summary>svt-av1-libs</summary>
+<summary>Имя пакета: svt-av1-libs</summary>
 
 ```
 Из репозитор : fedora
@@ -64156,7 +64155,7 @@ URL          : https://github.com/AOMediaCodec/SVT-AV1
 </details>
 
 <details>
-<summary>svt-hevc-libs</summary>
+<summary>Имя пакета: svt-hevc-libs</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -64169,7 +64168,7 @@ URL          : https://github.com/OpenVisualCloud/SVT-HEVC
 </details>
 
 <details>
-<summary>swaks</summary>
+<summary>Имя пакета: swaks</summary>
 
 ```
 Из репозитор : fedora
@@ -64183,7 +64182,7 @@ URL          : http://www.jetmore.org/john/code/swaks
 </details>
 
 <details>
-<summary>swatch</summary>
+<summary>Имя пакета: swatch</summary>
 
 ```
 Из репозитор : fedora
@@ -64199,7 +64198,7 @@ URL          : http://swatch.sourceforge.net/
 </details>
 
 <details>
-<summary>sway</summary>
+<summary>Имя пакета: sway</summary>
 
 ```
 Из репозитор : fedora
@@ -64213,7 +64212,7 @@ URL          : https://github.com/swaywm/sway
 </details>
 
 <details>
-<summary>sway-systemd</summary>
+<summary>Имя пакета: sway-systemd</summary>
 
 ```
 Из репозитор : fedora
@@ -64234,7 +64233,7 @@ URL          : https://github.com/alebastr/sway-systemd
 </details>
 
 <details>
-<summary>swaybg</summary>
+<summary>Имя пакета: swaybg</summary>
 
 ```
 Из репозитор : fedora
@@ -64247,7 +64246,7 @@ URL          : https://github.com/swaywm/swaybg
 </details>
 
 <details>
-<summary>switcheroo-control</summary>
+<summary>Имя пакета: switcheroo-control</summary>
 
 ```
 Из репозитор : anaconda
@@ -64260,7 +64259,7 @@ URL          : https://gitlab.freedesktop.org/hadess/switcheroo-control/
 </details>
 
 <details>
-<summary>swtpm</summary>
+<summary>Имя пакета: swtpm</summary>
 
 ```
 Из репозитор : anaconda
@@ -64273,7 +64272,7 @@ URL          : http://github.com/stefanberger/swtpm
 </details>
 
 <details>
-<summary>swtpm-libs</summary>
+<summary>Имя пакета: swtpm-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -64286,7 +64285,7 @@ URL          : http://github.com/stefanberger/swtpm
 </details>
 
 <details>
-<summary>swtpm-tools</summary>
+<summary>Имя пакета: swtpm-tools</summary>
 
 ```
 Из репозитор : anaconda
@@ -64299,7 +64298,7 @@ URL          : http://github.com/stefanberger/swtpm
 </details>
 
 <details>
-<summary>symlinks</summary>
+<summary>Имя пакета: symlinks</summary>
 
 ```
 Из репозитор : anaconda
@@ -64318,7 +64317,7 @@ URL          : http://ibiblio.org/pub/Linux/utils/file/
 </details>
 
 <details>
-<summary>sysbench</summary>
+<summary>Имя пакета: sysbench</summary>
 
 ```
 Из репозитор : fedora
@@ -64347,7 +64346,7 @@ URL          : https://github.com/akopytov/sysbench/
 </details>
 
 <details>
-<summary>syslinux</summary>
+<summary>Имя пакета: syslinux</summary>
 
 ```
 Из репозитор : anaconda
@@ -64363,7 +64362,7 @@ URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 </details>
 
 <details>
-<summary>syslinux-extlinux</summary>
+<summary>Имя пакета: syslinux-extlinux</summary>
 
 ```
 Из репозитор : anaconda
@@ -64377,7 +64376,7 @@ URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 </details>
 
 <details>
-<summary>syslinux-extlinux-nonlinux</summary>
+<summary>Имя пакета: syslinux-extlinux-nonlinux</summary>
 
 ```
 Из репозитор : anaconda
@@ -64391,7 +64390,7 @@ URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 </details>
 
 <details>
-<summary>syslinux-nonlinux</summary>
+<summary>Имя пакета: syslinux-nonlinux</summary>
 
 ```
 Из репозитор : anaconda
@@ -64406,7 +64405,7 @@ URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 </details>
 
 <details>
-<summary>sysprof-capture-devel</summary>
+<summary>Имя пакета: sysprof-capture-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -64419,7 +64418,7 @@ URL          : http://www.sysprof.com
 </details>
 
 <details>
-<summary>system-config-printer-libs</summary>
+<summary>Имя пакета: system-config-printer-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -64433,7 +64432,7 @@ URL          : https://github.com/OpenPrinting/system-config-printer
 </details>
 
 <details>
-<summary>system-config-printer-udev</summary>
+<summary>Имя пакета: system-config-printer-udev</summary>
 
 ```
 Из репозитор : anaconda
@@ -64447,7 +64446,7 @@ URL          : https://github.com/OpenPrinting/system-config-printer
 </details>
 
 <details>
-<summary>systemd</summary>
+<summary>Имя пакета: systemd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -64472,7 +64471,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd</summary>
+<summary>Имя пакета: systemd</summary>
 
 ```
 Из репозитор : anaconda
@@ -64497,7 +64496,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-container</summary>
+<summary>Имя пакета: systemd-container</summary>
 
 ```
 Из репозитор : updates-testing
@@ -64513,7 +64512,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-devel</summary>
+<summary>Имя пакета: systemd-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -64527,7 +64526,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-libs</summary>
+<summary>Имя пакета: systemd-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -64540,7 +64539,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-libs</summary>
+<summary>Имя пакета: systemd-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -64553,7 +64552,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-networkd</summary>
+<summary>Имя пакета: systemd-networkd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -64568,7 +64567,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-networkd</summary>
+<summary>Имя пакета: systemd-networkd</summary>
 
 ```
 Из репозитор : anaconda
@@ -64583,7 +64582,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-oomd-defaults</summary>
+<summary>Имя пакета: systemd-oomd-defaults</summary>
 
 ```
 Из репозитор : updates-testing
@@ -64597,7 +64596,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-pam</summary>
+<summary>Имя пакета: systemd-pam</summary>
 
 ```
 Из репозитор : updates-testing
@@ -64610,7 +64609,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-pam</summary>
+<summary>Имя пакета: systemd-pam</summary>
 
 ```
 Из репозитор : anaconda
@@ -64623,7 +64622,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-rpm-macros</summary>
+<summary>Имя пакета: systemd-rpm-macros</summary>
 
 ```
 Из репозитор : updates-testing
@@ -64640,7 +64639,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-rpm-macros</summary>
+<summary>Имя пакета: systemd-rpm-macros</summary>
 
 ```
 Из репозитор : anaconda
@@ -64657,7 +64656,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-udev</summary>
+<summary>Имя пакета: systemd-udev</summary>
 
 ```
 Из репозитор : updates-testing
@@ -64672,7 +64671,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemd-udev</summary>
+<summary>Имя пакета: systemd-udev</summary>
 
 ```
 Из репозитор : anaconda
@@ -64687,7 +64686,7 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 </details>
 
 <details>
-<summary>systemtap-sdt-devel</summary>
+<summary>Имя пакета: systemtap-sdt-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -64703,7 +64702,7 @@ URL          : http://sourceware.org/systemtap/
 </details>
 
 <details>
-<summary>taglib</summary>
+<summary>Имя пакета: taglib</summary>
 
 ```
 Из репозитор : anaconda
@@ -64719,7 +64718,7 @@ URL          : http://taglib.github.io/
 </details>
 
 <details>
-<summary>taglib</summary>
+<summary>Имя пакета: taglib</summary>
 
 ```
 Из репозитор : fedora
@@ -64735,7 +64734,7 @@ URL          : http://taglib.github.io/
 </details>
 
 <details>
-<summary>tar</summary>
+<summary>Имя пакета: tar</summary>
 
 ```
 Эпоха        : 2
@@ -64758,7 +64757,7 @@ URL          : https://www.gnu.org/software/tar/
 </details>
 
 <details>
-<summary>tbb</summary>
+<summary>Имя пакета: tbb</summary>
 
 ```
 Из репозитор : anaconda
@@ -64779,7 +64778,7 @@ URL          : http://threadingbuildingblocks.org/
 </details>
 
 <details>
-<summary>tcl</summary>
+<summary>Имя пакета: tcl</summary>
 
 ```
 Эпоха        : 1
@@ -64799,7 +64798,7 @@ URL          : http://tcl.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-brlapi</summary>
+<summary>Имя пакета: tcl-brlapi</summary>
 
 ```
 Из репозитор : fedora
@@ -64812,7 +64811,7 @@ URL          : http://brltty.app/
 </details>
 
 <details>
-<summary>tcl-devel</summary>
+<summary>Имя пакета: tcl-devel</summary>
 
 ```
 Эпоха        : 1
@@ -64834,7 +64833,7 @@ URL          : http://tcl.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-doc</summary>
+<summary>Имя пакета: tcl-doc</summary>
 
 ```
 Эпоха        : 1
@@ -64848,7 +64847,7 @@ URL          : http://tcl.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-hamlib</summary>
+<summary>Имя пакета: tcl-hamlib</summary>
 
 ```
 Из репозитор : fedora
@@ -64861,7 +64860,7 @@ URL          : http://www.hamlib.org
 </details>
 
 <details>
-<summary>tcl-html</summary>
+<summary>Имя пакета: tcl-html</summary>
 
 ```
 Из репозитор : fedora
@@ -64876,7 +64875,7 @@ URL          : http://tcl.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-iaxclient</summary>
+<summary>Имя пакета: tcl-iaxclient</summary>
 
 ```
 Из репозитор : fedora
@@ -64889,7 +64888,7 @@ URL          : http://iaxclient.wiki.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-ming</summary>
+<summary>Имя пакета: tcl-ming</summary>
 
 ```
 Из репозитор : fedora
@@ -64902,7 +64901,7 @@ URL          : http://www.libming.org/
 </details>
 
 <details>
-<summary>tcl-mysqltcl</summary>
+<summary>Имя пакета: tcl-mysqltcl</summary>
 
 ```
 Из репозитор : fedora
@@ -64916,7 +64915,7 @@ URL          : http://www.xdobry.de/mysqltcl
 </details>
 
 <details>
-<summary>tcl-pgplot</summary>
+<summary>Имя пакета: tcl-pgplot</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -64929,7 +64928,7 @@ URL          : http://www.astro.caltech.edu/~tjp/pgplot
 </details>
 
 <details>
-<summary>tcl-pgplot-devel</summary>
+<summary>Имя пакета: tcl-pgplot-devel</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -64943,7 +64942,7 @@ URL          : http://www.astro.caltech.edu/~tjp/pgplot
 </details>
 
 <details>
-<summary>tcl-pgtcl</summary>
+<summary>Имя пакета: tcl-pgtcl</summary>
 
 ```
 Из репозитор : fedora
@@ -64958,7 +64957,7 @@ URL          : http://sourceforge.net/projects/pgtclng/
 </details>
 
 <details>
-<summary>tcl-signal</summary>
+<summary>Имя пакета: tcl-signal</summary>
 
 ```
 Из репозитор : fedora
@@ -64974,7 +64973,7 @@ URL          : http://www.nyx.net/~mschwart/signal_ext.html
 </details>
 
 <details>
-<summary>tcl-snack</summary>
+<summary>Имя пакета: tcl-snack</summary>
 
 ```
 Из репозитор : fedora
@@ -64999,7 +64998,7 @@ URL          : http://www.speech.kth.se/snack/
 </details>
 
 <details>
-<summary>tcl-snack-devel</summary>
+<summary>Имя пакета: tcl-snack-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -65012,7 +65011,7 @@ URL          : http://www.speech.kth.se/snack/
 </details>
 
 <details>
-<summary>tcl-tclnagios</summary>
+<summary>Имя пакета: tcl-tclnagios</summary>
 
 ```
 Из репозитор : fedora
@@ -65025,7 +65024,7 @@ URL          : https://github.com/gitwart/tclnagios
 </details>
 
 <details>
-<summary>tcl-tclreadline</summary>
+<summary>Имя пакета: tcl-tclreadline</summary>
 
 ```
 Из репозитор : fedora
@@ -65043,7 +65042,7 @@ URL          : http://tclreadline.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-tclreadline-devel</summary>
+<summary>Имя пакета: tcl-tclreadline-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -65057,7 +65056,7 @@ URL          : http://tclreadline.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-tcludp</summary>
+<summary>Имя пакета: tcl-tcludp</summary>
 
 ```
 Из репозитор : fedora
@@ -65070,7 +65069,7 @@ URL          : http://sourceforge.net/projects/tcludp
 </details>
 
 <details>
-<summary>tcl-tclvfs</summary>
+<summary>Имя пакета: tcl-tclvfs</summary>
 
 ```
 Из репозитор : fedora
@@ -65086,7 +65085,7 @@ URL          : http://sourceforge.net/projects/tclvfs
 </details>
 
 <details>
-<summary>tcl-tclxml</summary>
+<summary>Имя пакета: tcl-tclxml</summary>
 
 ```
 Из репозитор : fedora
@@ -65100,7 +65099,7 @@ URL          : http://tclxml.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-tclxml-devel</summary>
+<summary>Имя пакета: tcl-tclxml-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -65114,7 +65113,7 @@ URL          : http://tclxml.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-tclxml-gui</summary>
+<summary>Имя пакета: tcl-tclxml-gui</summary>
 
 ```
 Из репозитор : fedora
@@ -65127,7 +65126,7 @@ URL          : http://tclxml.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-thread</summary>
+<summary>Имя пакета: tcl-thread</summary>
 
 ```
 Из репозитор : fedora
@@ -65141,7 +65140,7 @@ URL          : http://tcl.sourceforge.net
 </details>
 
 <details>
-<summary>tcl-thread-devel</summary>
+<summary>Имя пакета: tcl-thread-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -65154,7 +65153,7 @@ URL          : http://tcl.sourceforge.net
 </details>
 
 <details>
-<summary>tcl-tileqt</summary>
+<summary>Имя пакета: tcl-tileqt</summary>
 
 ```
 Из репозитор : fedora
@@ -65169,7 +65168,7 @@ URL          : http://www.ellogon.org/petasis/index.php?option=com_content&task=
 </details>
 
 <details>
-<summary>tcl-tkpng</summary>
+<summary>Имя пакета: tcl-tkpng</summary>
 
 ```
 Из репозитор : fedora
@@ -65188,7 +65187,7 @@ URL          : http://www.muonics.com/FreeStuff/TkPNG/
 </details>
 
 <details>
-<summary>tcl-tktreectrl</summary>
+<summary>Имя пакета: tcl-tktreectrl</summary>
 
 ```
 Из репозитор : fedora
@@ -65201,7 +65200,7 @@ URL          : http://tktreectrl.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-togl</summary>
+<summary>Имя пакета: tcl-togl</summary>
 
 ```
 Из репозитор : fedora
@@ -65214,7 +65213,7 @@ URL          : http://togl.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-togl-devel</summary>
+<summary>Имя пакета: tcl-togl-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -65227,7 +65226,7 @@ URL          : http://togl.sourceforge.net/
 </details>
 
 <details>
-<summary>tcl-trf</summary>
+<summary>Имя пакета: tcl-trf</summary>
 
 ```
 Из репозитор : fedora
@@ -65247,7 +65246,7 @@ URL          : http://tcltrf.sourceforge.net
 </details>
 
 <details>
-<summary>tcl-trf-devel</summary>
+<summary>Имя пакета: tcl-trf-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -65260,7 +65259,7 @@ URL          : http://tcltrf.sourceforge.net
 </details>
 
 <details>
-<summary>tcl-xapian</summary>
+<summary>Имя пакета: tcl-xapian</summary>
 
 ```
 Из репозитор : updates-testing
@@ -65276,7 +65275,7 @@ URL          : https://www.xapian.org/
 </details>
 
 <details>
-<summary>tcl-zlib</summary>
+<summary>Имя пакета: tcl-zlib</summary>
 
 ```
 Из репозитор : fedora
@@ -65290,7 +65289,7 @@ URL          : http://svn.scheffers.net/
 </details>
 
 <details>
-<summary>tcl-zlib-devel</summary>
+<summary>Имя пакета: tcl-zlib-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -65303,7 +65302,7 @@ URL          : http://svn.scheffers.net/
 </details>
 
 <details>
-<summary>tclap</summary>
+<summary>Имя пакета: tclap</summary>
 
 ```
 Из репозитор : fedora
@@ -65329,7 +65328,7 @@ URL          : http://tclap.sourceforge.net
 </details>
 
 <details>
-<summary>tclap-doc</summary>
+<summary>Имя пакета: tclap-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -65342,7 +65341,7 @@ URL          : http://tclap.sourceforge.net
 </details>
 
 <details>
-<summary>tcllib</summary>
+<summary>Имя пакета: tcllib</summary>
 
 ```
 Из репозитор : fedora
@@ -65357,7 +65356,7 @@ URL          : http://tcllib.sourceforge.net/
 </details>
 
 <details>
-<summary>tclspice</summary>
+<summary>Имя пакета: tclspice</summary>
 
 ```
 Из репозитор : fedora
@@ -65372,7 +65371,7 @@ URL          : http://ngspice.sourceforge.net
 </details>
 
 <details>
-<summary>tcltls</summary>
+<summary>Имя пакета: tcltls</summary>
 
 ```
 Из репозитор : fedora
@@ -65385,7 +65384,7 @@ URL          : https://core.tcl.tk/tcltls/home
 </details>
 
 <details>
-<summary>tcltls-devel</summary>
+<summary>Имя пакета: tcltls-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -65400,7 +65399,7 @@ URL          : https://core.tcl.tk/tcltls/home
 </details>
 
 <details>
-<summary>tclx</summary>
+<summary>Имя пакета: tclx</summary>
 
 ```
 Из репозитор : fedora
@@ -65417,7 +65416,7 @@ URL          : http://tclx.sourceforge.net/
 </details>
 
 <details>
-<summary>tclx-devel</summary>
+<summary>Имя пакета: tclx-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -65431,7 +65430,7 @@ URL          : http://tclx.sourceforge.net/
 </details>
 
 <details>
-<summary>tcpdump</summary>
+<summary>Имя пакета: tcpdump</summary>
 
 ```
 Эпоха        : 14
@@ -65450,7 +65449,7 @@ URL          : http://www.tcpdump.org
 </details>
 
 <details>
-<summary>teamd</summary>
+<summary>Имя пакета: teamd</summary>
 
 ```
 Из репозитор : anaconda
@@ -65463,7 +65462,7 @@ URL          : http://www.libteam.org
 </details>
 
 <details>
-<summary>teckit</summary>
+<summary>Имя пакета: teckit</summary>
 
 ```
 Из репозитор : fedora
@@ -65482,7 +65481,7 @@ URL          : https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=teck
 </details>
 
 <details>
-<summary>telepathy-glib</summary>
+<summary>Имя пакета: telepathy-glib</summary>
 
 ```
 Из репозитор : fedora
@@ -65497,7 +65496,7 @@ URL          : http://telepathy.freedesktop.org/wiki/FrontPage
 </details>
 
 <details>
-<summary>telepathy-glib-vala</summary>
+<summary>Имя пакета: telepathy-glib-vala</summary>
 
 ```
 Из репозитор : fedora
@@ -65510,7 +65509,7 @@ URL          : http://telepathy.freedesktop.org/wiki/FrontPage
 </details>
 
 <details>
-<summary>template-glib</summary>
+<summary>Имя пакета: template-glib</summary>
 
 ```
 Из репозитор : fedora
@@ -65527,7 +65526,7 @@ URL          : https://git.gnome.org/browse/template-glib/
 </details>
 
 <details>
-<summary>tepl</summary>
+<summary>Имя пакета: tepl</summary>
 
 ```
 Из репозитор : anaconda
@@ -65541,7 +65540,7 @@ URL          : https://wiki.gnome.org/Projects/Tepl
 </details>
 
 <details>
-<summary>tepl</summary>
+<summary>Имя пакета: tepl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -65555,7 +65554,7 @@ URL          : https://wiki.gnome.org/Projects/Tepl
 </details>
 
 <details>
-<summary>tesseract</summary>
+<summary>Имя пакета: tesseract</summary>
 
 ```
 Из репозитор : fedora
@@ -65570,7 +65569,7 @@ URL          : https://github.com/tesseract-ocr/tesseract
 </details>
 
 <details>
-<summary>tesseract-langpack-eng</summary>
+<summary>Имя пакета: tesseract-langpack-eng</summary>
 
 ```
 Из репозитор : fedora
@@ -65584,7 +65583,7 @@ URL          : https://github.com/tesseract-ocr/tessdata_fast
 </details>
 
 <details>
-<summary>tesseract-langpack-rus</summary>
+<summary>Имя пакета: tesseract-langpack-rus</summary>
 
 ```
 Из репозитор : fedora
@@ -65598,7 +65597,7 @@ URL          : https://github.com/tesseract-ocr/tessdata_fast
 </details>
 
 <details>
-<summary>tesseract-tessdata-doc</summary>
+<summary>Имя пакета: tesseract-tessdata-doc</summary>
 
 ```
 Из репозитор : fedora
@@ -65611,7 +65610,7 @@ URL          : https://github.com/tesseract-ocr/tessdata_fast
 </details>
 
 <details>
-<summary>testdisk</summary>
+<summary>Имя пакета: testdisk</summary>
 
 ```
 Из репозитор : fedora
@@ -65629,7 +65628,7 @@ URL          : https://www.cgsecurity.org/wiki/TestDisk
 </details>
 
 <details>
-<summary>texlive-adjustbox</summary>
+<summary>Имя пакета: texlive-adjustbox</summary>
 
 ```
 Эпоха        : 9
@@ -65655,7 +65654,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ae</summary>
+<summary>Имя пакета: texlive-ae</summary>
 
 ```
 Эпоха        : 9
@@ -65676,7 +65675,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-algorithms</summary>
+<summary>Имя пакета: texlive-algorithms</summary>
 
 ```
 Эпоха        : 9
@@ -65694,7 +65693,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-alphalph</summary>
+<summary>Имя пакета: texlive-alphalph</summary>
 
 ```
 Эпоха        : 9
@@ -65712,7 +65711,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-amscls</summary>
+<summary>Имя пакета: texlive-amscls</summary>
 
 ```
 Эпоха        : 9
@@ -65730,7 +65729,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-amsfonts</summary>
+<summary>Имя пакета: texlive-amsfonts</summary>
 
 ```
 Эпоха        : 9
@@ -65754,7 +65753,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-amsmath</summary>
+<summary>Имя пакета: texlive-amsmath</summary>
 
 ```
 Эпоха        : 9
@@ -65779,7 +65778,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-anysize</summary>
+<summary>Имя пакета: texlive-anysize</summary>
 
 ```
 Эпоха        : 9
@@ -65795,7 +65794,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-atbegshi</summary>
+<summary>Имя пакета: texlive-atbegshi</summary>
 
 ```
 Эпоха        : 9
@@ -65813,7 +65812,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-attachfile</summary>
+<summary>Имя пакета: texlive-attachfile</summary>
 
 ```
 Эпоха        : 9
@@ -65838,7 +65837,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-attachfile2</summary>
+<summary>Имя пакета: texlive-attachfile2</summary>
 
 ```
 Эпоха        : 9
@@ -65856,7 +65855,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-atveryend</summary>
+<summary>Имя пакета: texlive-atveryend</summary>
 
 ```
 Эпоха        : 9
@@ -65875,7 +65874,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-auto-pst-pdf</summary>
+<summary>Имя пакета: texlive-auto-pst-pdf</summary>
 
 ```
 Эпоха        : 9
@@ -65895,7 +65894,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-auxhook</summary>
+<summary>Имя пакета: texlive-auxhook</summary>
 
 ```
 Эпоха        : 9
@@ -65910,7 +65909,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-avantgar</summary>
+<summary>Имя пакета: texlive-avantgar</summary>
 
 ```
 Эпоха        : 9
@@ -65933,7 +65932,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-babel</summary>
+<summary>Имя пакета: texlive-babel</summary>
 
 ```
 Эпоха        : 9
@@ -65956,7 +65955,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-babel-english</summary>
+<summary>Имя пакета: texlive-babel-english</summary>
 
 ```
 Эпоха        : 9
@@ -65973,7 +65972,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-babelbib</summary>
+<summary>Имя пакета: texlive-babelbib</summary>
 
 ```
 Эпоха        : 9
@@ -65992,7 +65991,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-base</summary>
+<summary>Имя пакета: texlive-base</summary>
 
 ```
 Эпоха        : 9
@@ -66013,7 +66012,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-beamer</summary>
+<summary>Имя пакета: texlive-beamer</summary>
 
 ```
 Эпоха        : 9
@@ -66042,7 +66041,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-bera</summary>
+<summary>Имя пакета: texlive-bera</summary>
 
 ```
 Эпоха        : 9
@@ -66061,7 +66060,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-beton</summary>
+<summary>Имя пакета: texlive-beton</summary>
 
 ```
 Эпоха        : 9
@@ -66076,7 +66075,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-biblatex</summary>
+<summary>Имя пакета: texlive-biblatex</summary>
 
 ```
 Эпоха        : 9
@@ -66120,7 +66119,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-bibtex</summary>
+<summary>Имя пакета: texlive-bibtex</summary>
 
 ```
 Эпоха        : 9
@@ -66146,7 +66145,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-bidi</summary>
+<summary>Имя пакета: texlive-bidi</summary>
 
 ```
 Эпоха        : 9
@@ -66162,7 +66161,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-bigintcalc</summary>
+<summary>Имя пакета: texlive-bigintcalc</summary>
 
 ```
 Эпоха        : 9
@@ -66177,7 +66176,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-bitset</summary>
+<summary>Имя пакета: texlive-bitset</summary>
 
 ```
 Эпоха        : 9
@@ -66193,7 +66192,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-bookman</summary>
+<summary>Имя пакета: texlive-bookman</summary>
 
 ```
 Эпоха        : 9
@@ -66216,7 +66215,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-bookmark</summary>
+<summary>Имя пакета: texlive-bookmark</summary>
 
 ```
 Эпоха        : 9
@@ -66234,7 +66233,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-booktabs</summary>
+<summary>Имя пакета: texlive-booktabs</summary>
 
 ```
 Эпоха        : 9
@@ -66252,7 +66251,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-breakurl</summary>
+<summary>Имя пакета: texlive-breakurl</summary>
 
 ```
 Эпоха        : 9
@@ -66271,7 +66270,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-breqn</summary>
+<summary>Имя пакета: texlive-breqn</summary>
 
 ```
 Эпоха        : 9
@@ -66298,7 +66297,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-caption</summary>
+<summary>Имя пакета: texlive-caption</summary>
 
 ```
 Эпоха        : 9
@@ -66320,7 +66319,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-carlisle</summary>
+<summary>Имя пакета: texlive-carlisle</summary>
 
 ```
 Эпоха        : 9
@@ -66344,7 +66343,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-catchfile</summary>
+<summary>Имя пакета: texlive-catchfile</summary>
 
 ```
 Эпоха        : 9
@@ -66360,7 +66359,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-changepage</summary>
+<summary>Имя пакета: texlive-changepage</summary>
 
 ```
 Эпоха        : 9
@@ -66380,7 +66379,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-charter</summary>
+<summary>Имя пакета: texlive-charter</summary>
 
 ```
 Эпоха        : 9
@@ -66395,7 +66394,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-cite</summary>
+<summary>Имя пакета: texlive-cite</summary>
 
 ```
 Эпоха        : 9
@@ -66414,7 +66413,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-cm</summary>
+<summary>Имя пакета: texlive-cm</summary>
 
 ```
 Эпоха        : 9
@@ -66437,7 +66436,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-cm-super</summary>
+<summary>Имя пакета: texlive-cm-super</summary>
 
 ```
 Эпоха        : 9
@@ -66456,7 +66455,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-cmap</summary>
+<summary>Имя пакета: texlive-cmap</summary>
 
 ```
 Эпоха        : 9
@@ -66478,7 +66477,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-cmextra</summary>
+<summary>Имя пакета: texlive-cmextra</summary>
 
 ```
 Эпоха        : 9
@@ -66494,7 +66493,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-collectbox</summary>
+<summary>Имя пакета: texlive-collectbox</summary>
 
 ```
 Эпоха        : 9
@@ -66517,7 +66516,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-collection-basic</summary>
+<summary>Имя пакета: texlive-collection-basic</summary>
 
 ```
 Эпоха        : 9
@@ -66533,7 +66532,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-collection-fontsrecommended</summary>
+<summary>Имя пакета: texlive-collection-fontsrecommended</summary>
 
 ```
 Эпоха        : 9
@@ -66549,7 +66548,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-collection-latex</summary>
+<summary>Имя пакета: texlive-collection-latex</summary>
 
 ```
 Эпоха        : 9
@@ -66564,7 +66563,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-collection-latexrecommended</summary>
+<summary>Имя пакета: texlive-collection-latexrecommended</summary>
 
 ```
 Эпоха        : 9
@@ -66579,7 +66578,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-colorprofiles</summary>
+<summary>Имя пакета: texlive-colorprofiles</summary>
 
 ```
 Эпоха        : 9
@@ -66595,7 +66594,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-colortbl</summary>
+<summary>Имя пакета: texlive-colortbl</summary>
 
 ```
 Эпоха        : 9
@@ -66610,7 +66609,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-courier</summary>
+<summary>Имя пакета: texlive-courier</summary>
 
 ```
 Эпоха        : 9
@@ -66633,7 +66632,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-crop</summary>
+<summary>Имя пакета: texlive-crop</summary>
 
 ```
 Эпоха        : 9
@@ -66657,7 +66656,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-csquotes</summary>
+<summary>Имя пакета: texlive-csquotes</summary>
 
 ```
 Эпоха        : 9
@@ -66684,7 +66683,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ctable</summary>
+<summary>Имя пакета: texlive-ctable</summary>
 
 ```
 Эпоха        : 9
@@ -66703,7 +66702,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ctablestack</summary>
+<summary>Имя пакета: texlive-ctablestack</summary>
 
 ```
 Эпоха        : 9
@@ -66722,7 +66721,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-currfile</summary>
+<summary>Имя пакета: texlive-currfile</summary>
 
 ```
 Эпоха        : 9
@@ -66746,7 +66745,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-dehyph</summary>
+<summary>Имя пакета: texlive-dehyph</summary>
 
 ```
 Эпоха        : 9
@@ -66768,7 +66767,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-dvipdfmx</summary>
+<summary>Имя пакета: texlive-dvipdfmx</summary>
 
 ```
 Эпоха        : 9
@@ -66790,7 +66789,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-dvipng</summary>
+<summary>Имя пакета: texlive-dvipng</summary>
 
 ```
 Эпоха        : 9
@@ -66817,7 +66816,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-dvips</summary>
+<summary>Имя пакета: texlive-dvips</summary>
 
 ```
 Эпоха        : 9
@@ -66834,7 +66833,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ec</summary>
+<summary>Имя пакета: texlive-ec</summary>
 
 ```
 Эпоха        : 9
@@ -66863,7 +66862,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-enctex</summary>
+<summary>Имя пакета: texlive-enctex</summary>
 
 ```
 Эпоха        : 9
@@ -66880,7 +66879,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-enumitem</summary>
+<summary>Имя пакета: texlive-enumitem</summary>
 
 ```
 Эпоха        : 9
@@ -66900,7 +66899,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-epstopdf-pkg</summary>
+<summary>Имя пакета: texlive-epstopdf-pkg</summary>
 
 ```
 Эпоха        : 9
@@ -66918,7 +66917,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-eso-pic</summary>
+<summary>Имя пакета: texlive-eso-pic</summary>
 
 ```
 Эпоха        : 9
@@ -66935,7 +66934,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-etex</summary>
+<summary>Имя пакета: texlive-etex</summary>
 
 ```
 Эпоха        : 9
@@ -66955,7 +66954,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-etex-pkg</summary>
+<summary>Имя пакета: texlive-etex-pkg</summary>
 
 ```
 Эпоха        : 9
@@ -66973,7 +66972,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-etexcmds</summary>
+<summary>Имя пакета: texlive-etexcmds</summary>
 
 ```
 Эпоха        : 9
@@ -66990,7 +66989,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-etoolbox</summary>
+<summary>Имя пакета: texlive-etoolbox</summary>
 
 ```
 Эпоха        : 9
@@ -67013,7 +67012,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-euenc</summary>
+<summary>Имя пакета: texlive-euenc</summary>
 
 ```
 Эпоха        : 9
@@ -67036,7 +67035,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-euler</summary>
+<summary>Имя пакета: texlive-euler</summary>
 
 ```
 Эпоха        : 9
@@ -67056,7 +67055,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-eulervm</summary>
+<summary>Имя пакета: texlive-eulervm</summary>
 
 ```
 Эпоха        : 9
@@ -67082,7 +67081,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-euro</summary>
+<summary>Имя пакета: texlive-euro</summary>
 
 ```
 Эпоха        : 9
@@ -67101,7 +67100,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-euro-ce</summary>
+<summary>Имя пакета: texlive-euro-ce</summary>
 
 ```
 Эпоха        : 9
@@ -67116,7 +67115,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-eurosym</summary>
+<summary>Имя пакета: texlive-eurosym</summary>
 
 ```
 Эпоха        : 9
@@ -67134,7 +67133,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-extsizes</summary>
+<summary>Имя пакета: texlive-extsizes</summary>
 
 ```
 Эпоха        : 9
@@ -67150,7 +67149,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-fancybox</summary>
+<summary>Имя пакета: texlive-fancybox</summary>
 
 ```
 Эпоха        : 9
@@ -67167,7 +67166,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-fancyhdr</summary>
+<summary>Имя пакета: texlive-fancyhdr</summary>
 
 ```
 Эпоха        : 9
@@ -67184,7 +67183,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-fancyref</summary>
+<summary>Имя пакета: texlive-fancyref</summary>
 
 ```
 Эпоха        : 9
@@ -67202,7 +67201,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-fancyvrb</summary>
+<summary>Имя пакета: texlive-fancyvrb</summary>
 
 ```
 Эпоха        : 9
@@ -67221,7 +67220,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-filecontents</summary>
+<summary>Имя пакета: texlive-filecontents</summary>
 
 ```
 Эпоха        : 9
@@ -67249,7 +67248,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-filehook</summary>
+<summary>Имя пакета: texlive-filehook</summary>
 
 ```
 Эпоха        : 9
@@ -67268,7 +67267,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-filemod</summary>
+<summary>Имя пакета: texlive-filemod</summary>
 
 ```
 Эпоха        : 9
@@ -67290,7 +67289,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-finstrut</summary>
+<summary>Имя пакета: texlive-finstrut</summary>
 
 ```
 Эпоха        : 9
@@ -67308,7 +67307,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-fix2col</summary>
+<summary>Имя пакета: texlive-fix2col</summary>
 
 ```
 Эпоха        : 9
@@ -67325,7 +67324,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-float</summary>
+<summary>Имя пакета: texlive-float</summary>
 
 ```
 Эпоха        : 9
@@ -67345,7 +67344,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-fontspec</summary>
+<summary>Имя пакета: texlive-fontspec</summary>
 
 ```
 Эпоха        : 9
@@ -67363,7 +67362,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-footmisc</summary>
+<summary>Имя пакета: texlive-footmisc</summary>
 
 ```
 Эпоха        : 9
@@ -67391,7 +67390,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-footnotehyper</summary>
+<summary>Имя пакета: texlive-footnotehyper</summary>
 
 ```
 Эпоха        : 9
@@ -67407,7 +67406,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-fp</summary>
+<summary>Имя пакета: texlive-fp</summary>
 
 ```
 Эпоха        : 9
@@ -67422,7 +67421,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-fpl</summary>
+<summary>Имя пакета: texlive-fpl</summary>
 
 ```
 Эпоха        : 9
@@ -67448,7 +67447,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-geometry</summary>
+<summary>Имя пакета: texlive-geometry</summary>
 
 ```
 Эпоха        : 9
@@ -67473,7 +67472,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-gettitlestring</summary>
+<summary>Имя пакета: texlive-gettitlestring</summary>
 
 ```
 Эпоха        : 9
@@ -67488,7 +67487,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-gincltex</summary>
+<summary>Имя пакета: texlive-gincltex</summary>
 
 ```
 Эпоха        : 9
@@ -67509,7 +67508,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-glyphlist</summary>
+<summary>Имя пакета: texlive-glyphlist</summary>
 
 ```
 Эпоха        : 9
@@ -67523,7 +67522,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-graphics</summary>
+<summary>Имя пакета: texlive-graphics</summary>
 
 ```
 Эпоха        : 9
@@ -67540,7 +67539,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-graphics-cfg</summary>
+<summary>Имя пакета: texlive-graphics-cfg</summary>
 
 ```
 Эпоха        : 9
@@ -67559,7 +67558,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-graphics-def</summary>
+<summary>Имя пакета: texlive-graphics-def</summary>
 
 ```
 Эпоха        : 9
@@ -67578,7 +67577,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-grfext</summary>
+<summary>Имя пакета: texlive-grfext</summary>
 
 ```
 Эпоха        : 9
@@ -67594,7 +67593,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-grffile</summary>
+<summary>Имя пакета: texlive-grffile</summary>
 
 ```
 Эпоха        : 9
@@ -67613,7 +67612,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-helvetic</summary>
+<summary>Имя пакета: texlive-helvetic</summary>
 
 ```
 Эпоха        : 9
@@ -67636,7 +67635,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-hobsub</summary>
+<summary>Имя пакета: texlive-hobsub</summary>
 
 ```
 Эпоха        : 9
@@ -67660,7 +67659,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-hologo</summary>
+<summary>Имя пакета: texlive-hologo</summary>
 
 ```
 Эпоха        : 9
@@ -67677,7 +67676,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-hycolor</summary>
+<summary>Имя пакета: texlive-hycolor</summary>
 
 ```
 Эпоха        : 9
@@ -67693,7 +67692,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-hyperref</summary>
+<summary>Имя пакета: texlive-hyperref</summary>
 
 ```
 Эпоха        : 9
@@ -67716,7 +67715,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-hyph-utf8</summary>
+<summary>Имя пакета: texlive-hyph-utf8</summary>
 
 ```
 Эпоха        : 9
@@ -67740,7 +67739,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-hyphen-base</summary>
+<summary>Имя пакета: texlive-hyphen-base</summary>
 
 ```
 Эпоха        : 9
@@ -67757,7 +67756,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-hyphenex</summary>
+<summary>Имя пакета: texlive-hyphenex</summary>
 
 ```
 Эпоха        : 9
@@ -67776,7 +67775,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ifmtarg</summary>
+<summary>Имя пакета: texlive-ifmtarg</summary>
 
 ```
 Эпоха        : 9
@@ -67790,7 +67789,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ifoddpage</summary>
+<summary>Имя пакета: texlive-ifoddpage</summary>
 
 ```
 Эпоха        : 9
@@ -67810,7 +67809,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ifplatform</summary>
+<summary>Имя пакета: texlive-ifplatform</summary>
 
 ```
 Эпоха        : 9
@@ -67831,7 +67830,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-iftex</summary>
+<summary>Имя пакета: texlive-iftex</summary>
 
 ```
 Эпоха        : 9
@@ -67850,7 +67849,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-index</summary>
+<summary>Имя пакета: texlive-index</summary>
 
 ```
 Эпоха        : 9
@@ -67870,7 +67869,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-infwarerr</summary>
+<summary>Имя пакета: texlive-infwarerr</summary>
 
 ```
 Эпоха        : 9
@@ -67887,7 +67886,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-intcalc</summary>
+<summary>Имя пакета: texlive-intcalc</summary>
 
 ```
 Эпоха        : 9
@@ -67903,7 +67902,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-jknapltx</summary>
+<summary>Имя пакета: texlive-jknapltx</summary>
 
 ```
 Эпоха        : 9
@@ -67925,7 +67924,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-kastrup</summary>
+<summary>Имя пакета: texlive-kastrup</summary>
 
 ```
 Эпоха        : 9
@@ -67940,7 +67939,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-knuth-lib</summary>
+<summary>Имя пакета: texlive-knuth-lib</summary>
 
 ```
 Эпоха        : 9
@@ -67956,7 +67955,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-knuth-local</summary>
+<summary>Имя пакета: texlive-knuth-local</summary>
 
 ```
 Эпоха        : 9
@@ -67972,7 +67971,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-koma-script</summary>
+<summary>Имя пакета: texlive-koma-script</summary>
 
 ```
 Эпоха        : 9
@@ -67998,7 +67997,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-kpathsea</summary>
+<summary>Имя пакета: texlive-kpathsea</summary>
 
 ```
 Эпоха        : 9
@@ -68015,7 +68014,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-kvdefinekeys</summary>
+<summary>Имя пакета: texlive-kvdefinekeys</summary>
 
 ```
 Эпоха        : 9
@@ -68030,7 +68029,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-kvoptions</summary>
+<summary>Имя пакета: texlive-kvoptions</summary>
 
 ```
 Эпоха        : 9
@@ -68045,7 +68044,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-kvsetkeys</summary>
+<summary>Имя пакета: texlive-kvsetkeys</summary>
 
 ```
 Эпоха        : 9
@@ -68063,7 +68062,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-l3backend</summary>
+<summary>Имя пакета: texlive-l3backend</summary>
 
 ```
 Эпоха        : 9
@@ -68082,7 +68081,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-l3experimental</summary>
+<summary>Имя пакета: texlive-l3experimental</summary>
 
 ```
 Эпоха        : 9
@@ -68114,7 +68113,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-l3kernel</summary>
+<summary>Имя пакета: texlive-l3kernel</summary>
 
 ```
 Эпоха        : 9
@@ -68133,7 +68132,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-l3packages</summary>
+<summary>Имя пакета: texlive-l3packages</summary>
 
 ```
 Эпоха        : 9
@@ -68160,7 +68159,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-latex</summary>
+<summary>Имя пакета: texlive-latex</summary>
 
 ```
 Эпоха        : 9
@@ -68187,7 +68186,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-latex-fonts</summary>
+<summary>Имя пакета: texlive-latex-fonts</summary>
 
 ```
 Эпоха        : 9
@@ -68210,7 +68209,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-latexbug</summary>
+<summary>Имя пакета: texlive-latexbug</summary>
 
 ```
 Эпоха        : 9
@@ -68227,7 +68226,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-latexconfig</summary>
+<summary>Имя пакета: texlive-latexconfig</summary>
 
 ```
 Эпоха        : 9
@@ -68241,7 +68240,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-letltxmacro</summary>
+<summary>Имя пакета: texlive-letltxmacro</summary>
 
 ```
 Эпоха        : 9
@@ -68259,7 +68258,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-lib</summary>
+<summary>Имя пакета: texlive-lib</summary>
 
 ```
 Эпоха        : 9
@@ -68273,7 +68272,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-lineno</summary>
+<summary>Имя пакета: texlive-lineno</summary>
 
 ```
 Эпоха        : 9
@@ -68290,7 +68289,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-listings</summary>
+<summary>Имя пакета: texlive-listings</summary>
 
 ```
 Эпоха        : 9
@@ -68317,7 +68316,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-lm</summary>
+<summary>Имя пакета: texlive-lm</summary>
 
 ```
 Эпоха        : 9
@@ -68341,7 +68340,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-lm-math</summary>
+<summary>Имя пакета: texlive-lm-math</summary>
 
 ```
 Эпоха        : 9
@@ -68357,7 +68356,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-logreq</summary>
+<summary>Имя пакета: texlive-logreq</summary>
 
 ```
 Эпоха        : 9
@@ -68382,7 +68381,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ltabptch</summary>
+<summary>Имя пакета: texlive-ltabptch</summary>
 
 ```
 Эпоха        : 9
@@ -68397,7 +68396,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ltxcmds</summary>
+<summary>Имя пакета: texlive-ltxcmds</summary>
 
 ```
 Эпоха        : 9
@@ -68413,7 +68412,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ltxmisc</summary>
+<summary>Имя пакета: texlive-ltxmisc</summary>
 
 ```
 Эпоха        : 9
@@ -68427,7 +68426,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-lua-alt-getopt</summary>
+<summary>Имя пакета: texlive-lua-alt-getopt</summary>
 
 ```
 Эпоха        : 9
@@ -68444,7 +68443,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-luabidi</summary>
+<summary>Имя пакета: texlive-luabidi</summary>
 
 ```
 Эпоха        : 9
@@ -68459,7 +68458,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-luahbtex</summary>
+<summary>Имя пакета: texlive-luahbtex</summary>
 
 ```
 Эпоха        : 9
@@ -68473,7 +68472,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-lualatex-math</summary>
+<summary>Имя пакета: texlive-lualatex-math</summary>
 
 ```
 Эпоха        : 9
@@ -68493,7 +68492,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-lualibs</summary>
+<summary>Имя пакета: texlive-lualibs</summary>
 
 ```
 Эпоха        : 9
@@ -68510,7 +68509,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-luaotfload</summary>
+<summary>Имя пакета: texlive-luaotfload</summary>
 
 ```
 Эпоха        : 9
@@ -68526,7 +68525,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-luatex</summary>
+<summary>Имя пакета: texlive-luatex</summary>
 
 ```
 Эпоха        : 9
@@ -68548,7 +68547,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-luatexbase</summary>
+<summary>Имя пакета: texlive-luatexbase</summary>
 
 ```
 Эпоха        : 9
@@ -68569,7 +68568,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-lwarp</summary>
+<summary>Имя пакета: texlive-lwarp</summary>
 
 ```
 Эпоха        : 9
@@ -68593,7 +68592,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-makecmds</summary>
+<summary>Имя пакета: texlive-makecmds</summary>
 
 ```
 Эпоха        : 9
@@ -68610,7 +68609,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-makeindex</summary>
+<summary>Имя пакета: texlive-makeindex</summary>
 
 ```
 Эпоха        : 9
@@ -68627,7 +68626,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-manfnt-font</summary>
+<summary>Имя пакета: texlive-manfnt-font</summary>
 
 ```
 Эпоха        : 9
@@ -68643,7 +68642,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-marginnote</summary>
+<summary>Имя пакета: texlive-marginnote</summary>
 
 ```
 Эпоха        : 9
@@ -68660,7 +68659,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-marvosym</summary>
+<summary>Имя пакета: texlive-marvosym</summary>
 
 ```
 Эпоха        : 9
@@ -68681,7 +68680,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mathpazo</summary>
+<summary>Имя пакета: texlive-mathpazo</summary>
 
 ```
 Эпоха        : 9
@@ -68715,7 +68714,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mathspec</summary>
+<summary>Имя пакета: texlive-mathspec</summary>
 
 ```
 Эпоха        : 9
@@ -68734,7 +68733,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mathtools</summary>
+<summary>Имя пакета: texlive-mathtools</summary>
 
 ```
 Эпоха        : 9
@@ -68763,7 +68762,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mdwtools</summary>
+<summary>Имя пакета: texlive-mdwtools</summary>
 
 ```
 Эпоха        : 9
@@ -68783,7 +68782,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-memoir</summary>
+<summary>Имя пакета: texlive-memoir</summary>
 
 ```
 Эпоха        : 9
@@ -68812,7 +68811,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-metafont</summary>
+<summary>Имя пакета: texlive-metafont</summary>
 
 ```
 Эпоха        : 9
@@ -68831,7 +68830,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-metalogo</summary>
+<summary>Имя пакета: texlive-metalogo</summary>
 
 ```
 Эпоха        : 9
@@ -68847,7 +68846,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mflogo</summary>
+<summary>Имя пакета: texlive-mflogo</summary>
 
 ```
 Эпоха        : 9
@@ -68863,7 +68862,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mflogo-font</summary>
+<summary>Имя пакета: texlive-mflogo-font</summary>
 
 ```
 Эпоха        : 9
@@ -68882,7 +68881,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mfnfss</summary>
+<summary>Имя пакета: texlive-mfnfss</summary>
 
 ```
 Эпоха        : 9
@@ -68900,7 +68899,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mfware</summary>
+<summary>Имя пакета: texlive-mfware</summary>
 
 ```
 Эпоха        : 9
@@ -68915,7 +68914,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-microtype</summary>
+<summary>Имя пакета: texlive-microtype</summary>
 
 ```
 Эпоха        : 9
@@ -68948,7 +68947,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-minitoc</summary>
+<summary>Имя пакета: texlive-minitoc</summary>
 
 ```
 Эпоха        : 9
@@ -68971,7 +68970,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mnsymbol</summary>
+<summary>Имя пакета: texlive-mnsymbol</summary>
 
 ```
 Эпоха        : 9
@@ -68998,7 +68997,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-modes</summary>
+<summary>Имя пакета: texlive-modes</summary>
 
 ```
 Эпоха        : 9
@@ -69019,7 +69018,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mparhack</summary>
+<summary>Имя пакета: texlive-mparhack</summary>
 
 ```
 Эпоха        : 9
@@ -69034,7 +69033,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-mptopdf</summary>
+<summary>Имя пакета: texlive-mptopdf</summary>
 
 ```
 Эпоха        : 9
@@ -69055,7 +69054,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ms</summary>
+<summary>Имя пакета: texlive-ms</summary>
 
 ```
 Эпоха        : 9
@@ -69075,7 +69074,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-multido</summary>
+<summary>Имя пакета: texlive-multido</summary>
 
 ```
 Эпоха        : 9
@@ -69093,7 +69092,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-natbib</summary>
+<summary>Имя пакета: texlive-natbib</summary>
 
 ```
 Эпоха        : 9
@@ -69113,7 +69112,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ncntrsbk</summary>
+<summary>Имя пакета: texlive-ncntrsbk</summary>
 
 ```
 Эпоха        : 9
@@ -69136,7 +69135,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-newfloat</summary>
+<summary>Имя пакета: texlive-newfloat</summary>
 
 ```
 Эпоха        : 9
@@ -69153,7 +69152,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-notoccite</summary>
+<summary>Имя пакета: texlive-notoccite</summary>
 
 ```
 Эпоха        : 9
@@ -69172,7 +69171,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ntgclass</summary>
+<summary>Имя пакета: texlive-ntgclass</summary>
 
 ```
 Эпоха        : 9
@@ -69192,7 +69191,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-oberdiek</summary>
+<summary>Имя пакета: texlive-oberdiek</summary>
 
 ```
 Эпоха        : 9
@@ -69247,7 +69246,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-palatino</summary>
+<summary>Имя пакета: texlive-palatino</summary>
 
 ```
 Эпоха        : 9
@@ -69270,7 +69269,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-paralist</summary>
+<summary>Имя пакета: texlive-paralist</summary>
 
 ```
 Эпоха        : 9
@@ -69287,7 +69286,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-parallel</summary>
+<summary>Имя пакета: texlive-parallel</summary>
 
 ```
 Эпоха        : 9
@@ -69306,7 +69305,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-parskip</summary>
+<summary>Имя пакета: texlive-parskip</summary>
 
 ```
 Эпоха        : 9
@@ -69322,7 +69321,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pdfcolmk</summary>
+<summary>Имя пакета: texlive-pdfcolmk</summary>
 
 ```
 Эпоха        : 9
@@ -69348,7 +69347,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pdfescape</summary>
+<summary>Имя пакета: texlive-pdfescape</summary>
 
 ```
 Эпоха        : 9
@@ -69364,7 +69363,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pdflscape</summary>
+<summary>Имя пакета: texlive-pdflscape</summary>
 
 ```
 Эпоха        : 9
@@ -69381,7 +69380,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pdfpages</summary>
+<summary>Имя пакета: texlive-pdfpages</summary>
 
 ```
 Эпоха        : 9
@@ -69402,7 +69401,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pdftex</summary>
+<summary>Имя пакета: texlive-pdftex</summary>
 
 ```
 Эпоха        : 9
@@ -69421,7 +69420,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pdftexcmds</summary>
+<summary>Имя пакета: texlive-pdftexcmds</summary>
 
 ```
 Эпоха        : 9
@@ -69438,7 +69437,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pgf</summary>
+<summary>Имя пакета: texlive-pgf</summary>
 
 ```
 Эпоха        : 9
@@ -69459,7 +69458,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-picture</summary>
+<summary>Имя пакета: texlive-picture</summary>
 
 ```
 Эпоха        : 9
@@ -69476,7 +69475,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-placeins</summary>
+<summary>Имя пакета: texlive-placeins</summary>
 
 ```
 Эпоха        : 9
@@ -69492,7 +69491,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-plain</summary>
+<summary>Имя пакета: texlive-plain</summary>
 
 ```
 Эпоха        : 9
@@ -69508,7 +69507,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-polyglossia</summary>
+<summary>Имя пакета: texlive-polyglossia</summary>
 
 ```
 Эпоха        : 9
@@ -69524,7 +69523,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-psfrag</summary>
+<summary>Имя пакета: texlive-psfrag</summary>
 
 ```
 Эпоха        : 9
@@ -69544,7 +69543,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pslatex</summary>
+<summary>Имя пакета: texlive-pslatex</summary>
 
 ```
 Эпоха        : 9
@@ -69572,7 +69571,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-psnfss</summary>
+<summary>Имя пакета: texlive-psnfss</summary>
 
 ```
 Эпоха        : 9
@@ -69613,7 +69612,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pspicture</summary>
+<summary>Имя пакета: texlive-pspicture</summary>
 
 ```
 Эпоха        : 9
@@ -69629,7 +69628,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-3d</summary>
+<summary>Имя пакета: texlive-pst-3d</summary>
 
 ```
 Эпоха        : 9
@@ -69645,7 +69644,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-coil</summary>
+<summary>Имя пакета: texlive-pst-coil</summary>
 
 ```
 Эпоха        : 9
@@ -69660,7 +69659,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-eps</summary>
+<summary>Имя пакета: texlive-pst-eps</summary>
 
 ```
 Эпоха        : 9
@@ -69676,7 +69675,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-fill</summary>
+<summary>Имя пакета: texlive-pst-fill</summary>
 
 ```
 Эпоха        : 9
@@ -69691,7 +69690,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-grad</summary>
+<summary>Имя пакета: texlive-pst-grad</summary>
 
 ```
 Эпоха        : 9
@@ -69707,7 +69706,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-math</summary>
+<summary>Имя пакета: texlive-pst-math</summary>
 
 ```
 Эпоха        : 9
@@ -69731,7 +69730,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-node</summary>
+<summary>Имя пакета: texlive-pst-node</summary>
 
 ```
 Эпоха        : 9
@@ -69752,7 +69751,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-ovl</summary>
+<summary>Имя пакета: texlive-pst-ovl</summary>
 
 ```
 Эпоха        : 9
@@ -69769,7 +69768,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-plot</summary>
+<summary>Имя пакета: texlive-pst-plot</summary>
 
 ```
 Эпоха        : 9
@@ -69785,7 +69784,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-text</summary>
+<summary>Имя пакета: texlive-pst-text</summary>
 
 ```
 Эпоха        : 9
@@ -69801,7 +69800,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-tools</summary>
+<summary>Имя пакета: texlive-pst-tools</summary>
 
 ```
 Эпоха        : 9
@@ -69816,7 +69815,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pst-tree</summary>
+<summary>Имя пакета: texlive-pst-tree</summary>
 
 ```
 Эпоха        : 9
@@ -69832,7 +69831,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pstricks</summary>
+<summary>Имя пакета: texlive-pstricks</summary>
 
 ```
 Эпоха        : 9
@@ -69861,7 +69860,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pstricks-add</summary>
+<summary>Имя пакета: texlive-pstricks-add</summary>
 
 ```
 Эпоха        : 9
@@ -69883,7 +69882,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-pxfonts</summary>
+<summary>Имя пакета: texlive-pxfonts</summary>
 
 ```
 Эпоха        : 9
@@ -69907,7 +69906,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-qstest</summary>
+<summary>Имя пакета: texlive-qstest</summary>
 
 ```
 Эпоха        : 9
@@ -69931,7 +69930,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ragged2e</summary>
+<summary>Имя пакета: texlive-ragged2e</summary>
 
 ```
 Эпоха        : 9
@@ -69949,7 +69948,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-rcs</summary>
+<summary>Имя пакета: texlive-rcs</summary>
 
 ```
 Эпоха        : 9
@@ -69974,7 +69973,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-realscripts</summary>
+<summary>Имя пакета: texlive-realscripts</summary>
 
 ```
 Эпоха        : 9
@@ -69995,7 +69994,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-refcount</summary>
+<summary>Имя пакета: texlive-refcount</summary>
 
 ```
 Эпоха        : 9
@@ -70015,7 +70014,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-rerunfilecheck</summary>
+<summary>Имя пакета: texlive-rerunfilecheck</summary>
 
 ```
 Эпоха        : 9
@@ -70031,7 +70030,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-rsfs</summary>
+<summary>Имя пакета: texlive-rsfs</summary>
 
 ```
 Эпоха        : 9
@@ -70051,7 +70050,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-sansmath</summary>
+<summary>Имя пакета: texlive-sansmath</summary>
 
 ```
 Эпоха        : 9
@@ -70066,7 +70065,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-sansmathaccent</summary>
+<summary>Имя пакета: texlive-sansmathaccent</summary>
 
 ```
 Эпоха        : 9
@@ -70085,7 +70084,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-sauerj</summary>
+<summary>Имя пакета: texlive-sauerj</summary>
 
 ```
 Эпоха        : 9
@@ -70104,7 +70103,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-section</summary>
+<summary>Имя пакета: texlive-section</summary>
 
 ```
 Эпоха        : 9
@@ -70119,7 +70118,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-seminar</summary>
+<summary>Имя пакета: texlive-seminar</summary>
 
 ```
 Эпоха        : 9
@@ -70141,7 +70140,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-sepnum</summary>
+<summary>Имя пакета: texlive-sepnum</summary>
 
 ```
 Эпоха        : 9
@@ -70161,7 +70160,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-setspace</summary>
+<summary>Имя пакета: texlive-setspace</summary>
 
 ```
 Эпоха        : 9
@@ -70180,7 +70179,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-showexpl</summary>
+<summary>Имя пакета: texlive-showexpl</summary>
 
 ```
 Эпоха        : 9
@@ -70195,7 +70194,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-soul</summary>
+<summary>Имя пакета: texlive-soul</summary>
 
 ```
 Эпоха        : 9
@@ -70216,7 +70215,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-standalone</summary>
+<summary>Имя пакета: texlive-standalone</summary>
 
 ```
 Эпоха        : 9
@@ -70239,7 +70238,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-stringenc</summary>
+<summary>Имя пакета: texlive-stringenc</summary>
 
 ```
 Эпоха        : 9
@@ -70255,7 +70254,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-subfig</summary>
+<summary>Имя пакета: texlive-subfig</summary>
 
 ```
 Эпоха        : 9
@@ -70285,7 +70284,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-svn-prov</summary>
+<summary>Имя пакета: texlive-svn-prov</summary>
 
 ```
 Эпоха        : 9
@@ -70303,7 +70302,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-symbol</summary>
+<summary>Имя пакета: texlive-symbol</summary>
 
 ```
 Эпоха        : 9
@@ -70326,7 +70325,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-tex</summary>
+<summary>Имя пакета: texlive-tex</summary>
 
 ```
 Эпоха        : 9
@@ -70348,7 +70347,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-tex-gyre</summary>
+<summary>Имя пакета: texlive-tex-gyre</summary>
 
 ```
 Эпоха        : 9
@@ -70387,7 +70386,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-tex-gyre-math</summary>
+<summary>Имя пакета: texlive-tex-gyre-math</summary>
 
 ```
 Эпоха        : 9
@@ -70408,7 +70407,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-tex-ini-files</summary>
+<summary>Имя пакета: texlive-tex-ini-files</summary>
 
 ```
 Эпоха        : 9
@@ -70427,7 +70426,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-texlive-common-doc</summary>
+<summary>Имя пакета: texlive-texlive-common-doc</summary>
 
 ```
 Эпоха        : 9
@@ -70441,7 +70440,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-texlive-docindex</summary>
+<summary>Имя пакета: texlive-texlive-docindex</summary>
 
 ```
 Эпоха        : 9
@@ -70457,7 +70456,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-texlive-en</summary>
+<summary>Имя пакета: texlive-texlive-en</summary>
 
 ```
 Эпоха        : 9
@@ -70471,7 +70470,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-texlive-msg-translations</summary>
+<summary>Имя пакета: texlive-texlive-msg-translations</summary>
 
 ```
 Эпоха        : 9
@@ -70488,7 +70487,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-texlive-scripts</summary>
+<summary>Имя пакета: texlive-texlive-scripts</summary>
 
 ```
 Эпоха        : 9
@@ -70503,7 +70502,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-texlive.infra</summary>
+<summary>Имя пакета: texlive-texlive.infra</summary>
 
 ```
 Эпоха        : 9
@@ -70520,7 +70519,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-textcase</summary>
+<summary>Имя пакета: texlive-textcase</summary>
 
 ```
 Эпоха        : 9
@@ -70543,7 +70542,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-thumbpdf</summary>
+<summary>Имя пакета: texlive-thumbpdf</summary>
 
 ```
 Эпоха        : 9
@@ -70562,7 +70561,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-times</summary>
+<summary>Имя пакета: texlive-times</summary>
 
 ```
 Эпоха        : 9
@@ -70585,7 +70584,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-tipa</summary>
+<summary>Имя пакета: texlive-tipa</summary>
 
 ```
 Эпоха        : 9
@@ -70603,7 +70602,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-titlesec</summary>
+<summary>Имя пакета: texlive-titlesec</summary>
 
 ```
 Эпоха        : 9
@@ -70622,7 +70621,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-tools</summary>
+<summary>Имя пакета: texlive-tools</summary>
 
 ```
 Эпоха        : 9
@@ -70641,7 +70640,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-translator</summary>
+<summary>Имя пакета: texlive-translator</summary>
 
 ```
 Эпоха        : 9
@@ -70663,7 +70662,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-transparent</summary>
+<summary>Имя пакета: texlive-transparent</summary>
 
 ```
 Эпоха        : 9
@@ -70679,7 +70678,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-txfonts</summary>
+<summary>Имя пакета: texlive-txfonts</summary>
 
 ```
 Эпоха        : 9
@@ -70703,7 +70702,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-typehtml</summary>
+<summary>Имя пакета: texlive-typehtml</summary>
 
 ```
 Эпоха        : 9
@@ -70718,7 +70717,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ucharcat</summary>
+<summary>Имя пакета: texlive-ucharcat</summary>
 
 ```
 Эпоха        : 9
@@ -70736,7 +70735,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-ucs</summary>
+<summary>Имя пакета: texlive-ucs</summary>
 
 ```
 Эпоха        : 9
@@ -70759,7 +70758,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-underscore</summary>
+<summary>Имя пакета: texlive-underscore</summary>
 
 ```
 Эпоха        : 9
@@ -70779,7 +70778,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-unicode-data</summary>
+<summary>Имя пакета: texlive-unicode-data</summary>
 
 ```
 Эпоха        : 9
@@ -70806,7 +70805,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-unicode-math</summary>
+<summary>Имя пакета: texlive-unicode-math</summary>
 
 ```
 Эпоха        : 9
@@ -70838,7 +70837,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-uniquecounter</summary>
+<summary>Имя пакета: texlive-uniquecounter</summary>
 
 ```
 Эпоха        : 9
@@ -70854,7 +70853,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-updmap-map</summary>
+<summary>Имя пакета: texlive-updmap-map</summary>
 
 ```
 Эпоха        : 9
@@ -70870,7 +70869,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-url</summary>
+<summary>Имя пакета: texlive-url</summary>
 
 ```
 Эпоха        : 9
@@ -70894,7 +70893,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-utopia</summary>
+<summary>Имя пакета: texlive-utopia</summary>
 
 ```
 Эпоха        : 9
@@ -70912,7 +70911,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-varwidth</summary>
+<summary>Имя пакета: texlive-varwidth</summary>
 
 ```
 Эпоха        : 9
@@ -70928,7 +70927,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-wasy</summary>
+<summary>Имя пакета: texlive-wasy</summary>
 
 ```
 Эпоха        : 9
@@ -70949,7 +70948,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-wasy-type1</summary>
+<summary>Имя пакета: texlive-wasy-type1</summary>
 
 ```
 Эпоха        : 9
@@ -70963,7 +70962,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-wasysym</summary>
+<summary>Имя пакета: texlive-wasysym</summary>
 
 ```
 Эпоха        : 9
@@ -70981,7 +70980,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xcolor</summary>
+<summary>Имя пакета: texlive-xcolor</summary>
 
 ```
 Эпоха        : 9
@@ -71003,7 +71002,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xdvi</summary>
+<summary>Имя пакета: texlive-xdvi</summary>
 
 ```
 Эпоха        : 9
@@ -71018,7 +71017,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xetex</summary>
+<summary>Имя пакета: texlive-xetex</summary>
 
 ```
 Эпоха        : 9
@@ -71042,7 +71041,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xetexconfig</summary>
+<summary>Имя пакета: texlive-xetexconfig</summary>
 
 ```
 Эпоха        : 9
@@ -71056,7 +71055,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xifthen</summary>
+<summary>Имя пакета: texlive-xifthen</summary>
 
 ```
 Эпоха        : 9
@@ -71076,7 +71075,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xkeyval</summary>
+<summary>Имя пакета: texlive-xkeyval</summary>
 
 ```
 Эпоха        : 9
@@ -71096,7 +71095,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xltxtra</summary>
+<summary>Имя пакета: texlive-xltxtra</summary>
 
 ```
 Эпоха        : 9
@@ -71120,7 +71119,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xpatch</summary>
+<summary>Имя пакета: texlive-xpatch</summary>
 
 ```
 Эпоха        : 9
@@ -71135,7 +71134,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xstring</summary>
+<summary>Имя пакета: texlive-xstring</summary>
 
 ```
 Эпоха        : 9
@@ -71155,7 +71154,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-xunicode</summary>
+<summary>Имя пакета: texlive-xunicode</summary>
 
 ```
 Эпоха        : 9
@@ -71174,7 +71173,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-zapfchan</summary>
+<summary>Имя пакета: texlive-zapfchan</summary>
 
 ```
 Эпоха        : 9
@@ -71197,7 +71196,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-zapfding</summary>
+<summary>Имя пакета: texlive-zapfding</summary>
 
 ```
 Эпоха        : 9
@@ -71220,7 +71219,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>texlive-zref</summary>
+<summary>Имя пакета: texlive-zref</summary>
 
 ```
 Эпоха        : 9
@@ -71255,7 +71254,7 @@ URL          : http://tug.org/texlive/
 </details>
 
 <details>
-<summary>thai-scalable-fonts-common</summary>
+<summary>Имя пакета: thai-scalable-fonts-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -71271,7 +71270,7 @@ URL          : http://linux.thai.net/projects/thaifonts-scalable
 </details>
 
 <details>
-<summary>thai-scalable-waree-fonts</summary>
+<summary>Имя пакета: thai-scalable-waree-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -71287,7 +71286,7 @@ URL          : http://linux.thai.net/projects/thaifonts-scalable
 </details>
 
 <details>
-<summary>thermald</summary>
+<summary>Имя пакета: thermald</summary>
 
 ```
 Из репозитор : anaconda
@@ -71304,7 +71303,7 @@ URL          : https://github.com/intel/thermal_daemon
 </details>
 
 <details>
-<summary>tigervnc-license</summary>
+<summary>Имя пакета: tigervnc-license</summary>
 
 ```
 Из репозитор : anaconda
@@ -71317,7 +71316,7 @@ URL          : http://www.tigervnc.com
 </details>
 
 <details>
-<summary>tigervnc-server-minimal</summary>
+<summary>Имя пакета: tigervnc-server-minimal</summary>
 
 ```
 Из репозитор : anaconda
@@ -71333,7 +71332,7 @@ URL          : http://www.tigervnc.com
 </details>
 
 <details>
-<summary>time</summary>
+<summary>Имя пакета: time</summary>
 
 ```
 Из репозитор : anaconda
@@ -71348,7 +71347,7 @@ URL          : https://www.gnu.org/software/time/
 </details>
 
 <details>
-<summary>timeshift</summary>
+<summary>Имя пакета: timeshift</summary>
 
 ```
 Из репозитор : fedora
@@ -71373,7 +71372,7 @@ URL          : https://github.com/teejee2008/timeshift
 </details>
 
 <details>
-<summary>tinyxml2</summary>
+<summary>Имя пакета: tinyxml2</summary>
 
 ```
 Из репозитор : fedora
@@ -71396,7 +71395,7 @@ URL          : https://github.com/leethomason/tinyxml2
 </details>
 
 <details>
-<summary>tix</summary>
+<summary>Имя пакета: tix</summary>
 
 ```
 Эпоха        : 1
@@ -71413,7 +71412,7 @@ URL          : http://tix.sourceforge.net/
 </details>
 
 <details>
-<summary>tk</summary>
+<summary>Имя пакета: tk</summary>
 
 ```
 Эпоха        : 1
@@ -71428,7 +71427,7 @@ URL          : http://tcl.sourceforge.net
 </details>
 
 <details>
-<summary>tk-devel</summary>
+<summary>Имя пакета: tk-devel</summary>
 
 ```
 Эпоха        : 1
@@ -71445,7 +71444,7 @@ URL          : http://tcl.sourceforge.net
 </details>
 
 <details>
-<summary>tmpwatch</summary>
+<summary>Имя пакета: tmpwatch</summary>
 
 ```
 Из репозитор : fedora
@@ -71463,7 +71462,7 @@ URL          : https://fedorahosted.org/tmpwatch/
 </details>
 
 <details>
-<summary>tmux</summary>
+<summary>Имя пакета: tmux</summary>
 
 ```
 Из репозитор : anaconda
@@ -71479,7 +71478,7 @@ URL          : https://tmux.github.io/
 </details>
 
 <details>
-<summary>totem</summary>
+<summary>Имя пакета: totem</summary>
 
 ```
 Эпоха        : 1
@@ -71497,7 +71496,7 @@ URL          : https://wiki.gnome.org/Apps/Videos
 </details>
 
 <details>
-<summary>totem-pl-parser</summary>
+<summary>Имя пакета: totem-pl-parser</summary>
 
 ```
 Из репозитор : anaconda
@@ -71510,7 +71509,7 @@ URL          : https://wiki.gnome.org/Apps/Videos
 </details>
 
 <details>
-<summary>totem-video-thumbnailer</summary>
+<summary>Имя пакета: totem-video-thumbnailer</summary>
 
 ```
 Эпоха        : 1
@@ -71524,7 +71523,7 @@ URL          : https://wiki.gnome.org/Apps/Videos
 </details>
 
 <details>
-<summary>totem-video-thumbnailer</summary>
+<summary>Имя пакета: totem-video-thumbnailer</summary>
 
 ```
 Эпоха        : 1
@@ -71538,7 +71537,7 @@ URL          : https://wiki.gnome.org/Apps/Videos
 </details>
 
 <details>
-<summary>tpm2-tss</summary>
+<summary>Имя пакета: tpm2-tss</summary>
 
 ```
 Из репозитор : anaconda
@@ -71553,7 +71552,7 @@ URL          : https://github.com/tpm2-software/tpm2-tss
 </details>
 
 <details>
-<summary>traceroute</summary>
+<summary>Имя пакета: traceroute</summary>
 
 ```
 Эпоха        : 3
@@ -71575,7 +71574,7 @@ URL          : http://traceroute.sourceforge.net
 </details>
 
 <details>
-<summary>tracker</summary>
+<summary>Имя пакета: tracker</summary>
 
 ```
 Из репозитор : anaconda
@@ -71599,7 +71598,7 @@ URL          : https://wiki.gnome.org/Projects/Tracker
 </details>
 
 <details>
-<summary>tracker</summary>
+<summary>Имя пакета: tracker</summary>
 
 ```
 Из репозитор : updates-testing
@@ -71623,7 +71622,7 @@ URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 </details>
 
 <details>
-<summary>tracker-miners</summary>
+<summary>Имя пакета: tracker-miners</summary>
 
 ```
 Из репозитор : anaconda
@@ -71639,7 +71638,7 @@ URL          : https://wiki.gnome.org/Projects/Tracker
 </details>
 
 <details>
-<summary>tracker-miners</summary>
+<summary>Имя пакета: tracker-miners</summary>
 
 ```
 Из репозитор : updates-testing
@@ -71655,7 +71654,7 @@ URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 </details>
 
 <details>
-<summary>tracker3</summary>
+<summary>Имя пакета: tracker3</summary>
 
 ```
 Из репозитор : anaconda
@@ -71679,7 +71678,7 @@ URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 </details>
 
 <details>
-<summary>tracker3-miners</summary>
+<summary>Имя пакета: tracker3-miners</summary>
 
 ```
 Из репозитор : anaconda
@@ -71695,7 +71694,7 @@ URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 </details>
 
 <details>
-<summary>trafshow</summary>
+<summary>Имя пакета: trafshow</summary>
 
 ```
 Из репозитор : fedora
@@ -71713,7 +71712,7 @@ URL          : http://hubbitus.net.ru/trafshow/
 </details>
 
 <details>
-<summary>tre</summary>
+<summary>Имя пакета: tre</summary>
 
 ```
 Из репозитор : fedora
@@ -71728,7 +71727,7 @@ URL          : http://laurikari.net/tre/
 </details>
 
 <details>
-<summary>tre-common</summary>
+<summary>Имя пакета: tre-common</summary>
 
 ```
 Из репозитор : fedora
@@ -71742,7 +71741,7 @@ URL          : http://laurikari.net/tre/
 </details>
 
 <details>
-<summary>tree</summary>
+<summary>Имя пакета: tree</summary>
 
 ```
 Из репозитор : anaconda
@@ -71757,7 +71756,7 @@ URL          : http://mama.indstate.edu/users/ice/tree/
 </details>
 
 <details>
-<summary>trousers</summary>
+<summary>Имя пакета: trousers</summary>
 
 ```
 Из репозитор : anaconda
@@ -71774,7 +71773,7 @@ URL          : http://trousers.sourceforge.net
 </details>
 
 <details>
-<summary>trousers-lib</summary>
+<summary>Имя пакета: trousers-lib</summary>
 
 ```
 Из репозитор : anaconda
@@ -71787,7 +71786,7 @@ URL          : http://trousers.sourceforge.net
 </details>
 
 <details>
-<summary>ttmkfdir</summary>
+<summary>Имя пакета: ttmkfdir</summary>
 
 ```
 Из репозитор : fedora
@@ -71801,7 +71800,7 @@ URL          : http://trousers.sourceforge.net
 </details>
 
 <details>
-<summary>tunctl</summary>
+<summary>Имя пакета: tunctl</summary>
 
 ```
 Из репозитор : fedora
@@ -71820,7 +71819,7 @@ URL          : http://tunctl.sourceforge.net/
 </details>
 
 <details>
-<summary>turbojpeg</summary>
+<summary>Имя пакета: turbojpeg</summary>
 
 ```
 Из репозитор : updates-testing
@@ -71833,7 +71832,7 @@ URL          : http://sourceforge.net/projects/libjpeg-turbo
 </details>
 
 <details>
-<summary>twolame-libs</summary>
+<summary>Имя пакета: twolame-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -71851,7 +71850,7 @@ URL          : http://www.twolame.org/
 </details>
 
 <details>
-<summary>tzdata</summary>
+<summary>Имя пакета: tzdata</summary>
 
 ```
 Из репозитор : anaconda
@@ -71865,7 +71864,7 @@ URL          : https://www.iana.org/time-zones
 </details>
 
 <details>
-<summary>tzdata-java</summary>
+<summary>Имя пакета: tzdata-java</summary>
 
 ```
 Из репозитор : anaconda
@@ -71878,7 +71877,7 @@ URL          : https://www.iana.org/time-zones
 </details>
 
 <details>
-<summary>uade</summary>
+<summary>Имя пакета: uade</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -71896,7 +71895,7 @@ URL          : http://zakalwe.fi/uade
 </details>
 
 <details>
-<summary>ucl</summary>
+<summary>Имя пакета: ucl</summary>
 
 ```
 Из репозитор : fedora
@@ -71912,7 +71911,7 @@ URL          : http://www.oberhumer.com/opensource/ucl/
 </details>
 
 <details>
-<summary>udisks</summary>
+<summary>Имя пакета: udisks</summary>
 
 ```
 Из репозитор : updates-testing
@@ -71926,7 +71925,7 @@ URL          : http://www.freedesktop.org/wiki/Software/udisks
 </details>
 
 <details>
-<summary>udisks-devel</summary>
+<summary>Имя пакета: udisks-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -71939,7 +71938,7 @@ URL          : http://www.freedesktop.org/wiki/Software/udisks
 </details>
 
 <details>
-<summary>udisks2</summary>
+<summary>Имя пакета: udisks2</summary>
 
 ```
 Из репозитор : anaconda
@@ -71953,7 +71952,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>udisks2</summary>
+<summary>Имя пакета: udisks2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -71967,7 +71966,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>udisks2-bcache</summary>
+<summary>Имя пакета: udisks2-bcache</summary>
 
 ```
 Из репозитор : updates-testing
@@ -71980,7 +71979,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>udisks2-btrfs</summary>
+<summary>Имя пакета: udisks2-btrfs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -71993,7 +71992,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>udisks2-iscsi</summary>
+<summary>Имя пакета: udisks2-iscsi</summary>
 
 ```
 Из репозитор : anaconda
@@ -72006,7 +72005,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>udisks2-iscsi</summary>
+<summary>Имя пакета: udisks2-iscsi</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72019,7 +72018,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>udisks2-lsm</summary>
+<summary>Имя пакета: udisks2-lsm</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72032,7 +72031,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>udisks2-lvm2</summary>
+<summary>Имя пакета: udisks2-lvm2</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72045,7 +72044,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>udisks2-qt5</summary>
+<summary>Имя пакета: udisks2-qt5</summary>
 
 ```
 Из репозитор : fedora
@@ -72058,7 +72057,7 @@ URL          : https://github.com/linuxdeepin/udisks2-qt5
 </details>
 
 <details>
-<summary>udisks2-qt5-devel</summary>
+<summary>Имя пакета: udisks2-qt5-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -72071,7 +72070,7 @@ URL          : https://github.com/linuxdeepin/udisks2-qt5
 </details>
 
 <details>
-<summary>udisks2-zram</summary>
+<summary>Имя пакета: udisks2-zram</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72084,7 +72083,7 @@ URL          : https://github.com/storaged-project/udisks
 </details>
 
 <details>
-<summary>ufraw-common</summary>
+<summary>Имя пакета: ufraw-common</summary>
 
 ```
 Из репозитор : fedora
@@ -72097,7 +72096,7 @@ URL          : http://ufraw.sourceforge.net
 </details>
 
 <details>
-<summary>ufraw-gimp</summary>
+<summary>Имя пакета: ufraw-gimp</summary>
 
 ```
 Из репозитор : fedora
@@ -72123,7 +72122,7 @@ URL          : http://ufraw.sourceforge.net
 </details>
 
 <details>
-<summary>unace</summary>
+<summary>Имя пакета: unace</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -72137,7 +72136,7 @@ URL          : http://www.winace.com/
 </details>
 
 <details>
-<summary>unar</summary>
+<summary>Имя пакета: unar</summary>
 
 ```
 Из репозитор : fedora
@@ -72153,7 +72152,7 @@ URL          : https://theunarchiver.com/command-line
 </details>
 
 <details>
-<summary>unbound-libs</summary>
+<summary>Имя пакета: unbound-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -72166,7 +72165,7 @@ URL          : https://nlnetlabs.nl/projects/unbound/
 </details>
 
 <details>
-<summary>unicode-ucd</summary>
+<summary>Имя пакета: unicode-ucd</summary>
 
 ```
 Из репозитор : anaconda
@@ -72181,7 +72180,7 @@ URL          : http://www.unicode.org/ucd/
 </details>
 
 <details>
-<summary>unique</summary>
+<summary>Имя пакета: unique</summary>
 
 ```
 Из репозитор : fedora
@@ -72196,7 +72195,7 @@ URL          : http://www.gnome.org/~ebassi/source/
 </details>
 
 <details>
-<summary>unit</summary>
+<summary>Имя пакета: unit</summary>
 
 ```
 Из репозитор : unit
@@ -72214,7 +72213,7 @@ URL          : https://unit.nginx.org/
 </details>
 
 <details>
-<summary>unit-devel</summary>
+<summary>Имя пакета: unit-devel</summary>
 
 ```
 Из репозитор : unit
@@ -72227,7 +72226,7 @@ URL          : https://unit.nginx.org/
 </details>
 
 <details>
-<summary>unit-go</summary>
+<summary>Имя пакета: unit-go</summary>
 
 ```
 Из репозитор : unit
@@ -72246,7 +72245,7 @@ URL          : https://unit.nginx.org/
 </details>
 
 <details>
-<summary>unit-jsc-common</summary>
+<summary>Имя пакета: unit-jsc-common</summary>
 
 ```
 Из репозитор : unit
@@ -72265,7 +72264,7 @@ URL          : https://unit.nginx.org/
 </details>
 
 <details>
-<summary>unit-jsc11</summary>
+<summary>Имя пакета: unit-jsc11</summary>
 
 ```
 Из репозитор : unit
@@ -72284,7 +72283,7 @@ URL          : https://unit.nginx.org/
 </details>
 
 <details>
-<summary>unit-jsc8</summary>
+<summary>Имя пакета: unit-jsc8</summary>
 
 ```
 Из репозитор : unit
@@ -72303,7 +72302,7 @@ URL          : https://unit.nginx.org/
 </details>
 
 <details>
-<summary>unit-perl</summary>
+<summary>Имя пакета: unit-perl</summary>
 
 ```
 Из репозитор : unit
@@ -72322,7 +72321,7 @@ URL          : https://unit.nginx.org/
 </details>
 
 <details>
-<summary>unit-php</summary>
+<summary>Имя пакета: unit-php</summary>
 
 ```
 Из репозитор : unit
@@ -72341,7 +72340,7 @@ URL          : https://unit.nginx.org/
 </details>
 
 <details>
-<summary>unit-python39</summary>
+<summary>Имя пакета: unit-python39</summary>
 
 ```
 Из репозитор : unit
@@ -72360,7 +72359,7 @@ URL          : https://unit.nginx.org/
 </details>
 
 <details>
-<summary>unixODBC</summary>
+<summary>Имя пакета: unixODBC</summary>
 
 ```
 Из репозитор : fedora
@@ -72375,7 +72374,7 @@ URL          : http://www.unixODBC.org/
 </details>
 
 <details>
-<summary>unoconv</summary>
+<summary>Имя пакета: unoconv</summary>
 
 ```
 Из репозитор : anaconda
@@ -72395,7 +72394,7 @@ URL          : https://github.com/unoconv/unoconv/
 </details>
 
 <details>
-<summary>unrar</summary>
+<summary>Имя пакета: unrar</summary>
 
 ```
 Из репозитор : rpmfusion-nonfree
@@ -72410,7 +72409,7 @@ URL          : https://www.rarlab.com/rar_add.htm
 </details>
 
 <details>
-<summary>unzip</summary>
+<summary>Имя пакета: unzip</summary>
 
 ```
 Из репозитор : anaconda
@@ -72431,7 +72430,7 @@ URL          : http://www.info-zip.org/UnZip.html
 </details>
 
 <details>
-<summary>upower</summary>
+<summary>Имя пакета: upower</summary>
 
 ```
 Из репозитор : anaconda
@@ -72445,7 +72444,7 @@ URL          : http://upower.freedesktop.org/
 </details>
 
 <details>
-<summary>upx</summary>
+<summary>Имя пакета: upx</summary>
 
 ```
 Из репозитор : fedora
@@ -72461,7 +72460,7 @@ URL          : http://upx.sourceforge.net/
 </details>
 
 <details>
-<summary>uresourced</summary>
+<summary>Имя пакета: uresourced</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72477,7 +72476,7 @@ URL          : https://gitlab.freedesktop.org/benzea/uresourced
 </details>
 
 <details>
-<summary>uriparser</summary>
+<summary>Имя пакета: uriparser</summary>
 
 ```
 Из репозитор : fedora
@@ -72492,7 +72491,7 @@ URL          : https://uriparser.github.io/
 </details>
 
 <details>
-<summary>urw-base35-bookman-fonts</summary>
+<summary>Имя пакета: urw-base35-bookman-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72511,7 +72510,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-bookman-fonts</summary>
+<summary>Имя пакета: urw-base35-bookman-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72530,7 +72529,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-c059-fonts</summary>
+<summary>Имя пакета: urw-base35-c059-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72549,7 +72548,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-c059-fonts</summary>
+<summary>Имя пакета: urw-base35-c059-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72568,7 +72567,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-d050000l-fonts</summary>
+<summary>Имя пакета: urw-base35-d050000l-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72587,7 +72586,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-d050000l-fonts</summary>
+<summary>Имя пакета: urw-base35-d050000l-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72606,7 +72605,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-fonts</summary>
+<summary>Имя пакета: urw-base35-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72624,7 +72623,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-fonts-common</summary>
+<summary>Имя пакета: urw-base35-fonts-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -72642,7 +72641,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-fonts-common</summary>
+<summary>Имя пакета: urw-base35-fonts-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72660,7 +72659,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-fonts-legacy</summary>
+<summary>Имя пакета: urw-base35-fonts-legacy</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72679,7 +72678,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-gothic-fonts</summary>
+<summary>Имя пакета: urw-base35-gothic-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72698,7 +72697,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-gothic-fonts</summary>
+<summary>Имя пакета: urw-base35-gothic-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72717,7 +72716,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-nimbus-mono-ps-fonts</summary>
+<summary>Имя пакета: urw-base35-nimbus-mono-ps-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72736,7 +72735,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-nimbus-mono-ps-fonts</summary>
+<summary>Имя пакета: urw-base35-nimbus-mono-ps-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72755,7 +72754,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-nimbus-roman-fonts</summary>
+<summary>Имя пакета: urw-base35-nimbus-roman-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72774,7 +72773,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-nimbus-roman-fonts</summary>
+<summary>Имя пакета: urw-base35-nimbus-roman-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72793,7 +72792,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-nimbus-sans-fonts</summary>
+<summary>Имя пакета: urw-base35-nimbus-sans-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72812,7 +72811,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-nimbus-sans-fonts</summary>
+<summary>Имя пакета: urw-base35-nimbus-sans-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72831,7 +72830,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-p052-fonts</summary>
+<summary>Имя пакета: urw-base35-p052-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72850,7 +72849,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-p052-fonts</summary>
+<summary>Имя пакета: urw-base35-p052-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72869,7 +72868,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-standard-symbols-ps-fonts</summary>
+<summary>Имя пакета: urw-base35-standard-symbols-ps-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72888,7 +72887,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-standard-symbols-ps-fonts</summary>
+<summary>Имя пакета: urw-base35-standard-symbols-ps-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72907,7 +72906,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-z003-fonts</summary>
+<summary>Имя пакета: urw-base35-z003-fonts</summary>
 
 ```
 Из репозитор : anaconda
@@ -72926,7 +72925,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>urw-base35-z003-fonts</summary>
+<summary>Имя пакета: urw-base35-z003-fonts</summary>
 
 ```
 Из репозитор : updates-testing
@@ -72945,7 +72944,7 @@ URL          : https://www.urwpp.de/en/
 </details>
 
 <details>
-<summary>usb_modeswitch</summary>
+<summary>Имя пакета: usb_modeswitch</summary>
 
 ```
 Из репозитор : anaconda
@@ -72962,7 +72961,7 @@ URL          : http://www.draisberghof.de/usb_modeswitch/
 </details>
 
 <details>
-<summary>usb_modeswitch-data</summary>
+<summary>Имя пакета: usb_modeswitch-data</summary>
 
 ```
 Из репозитор : anaconda
@@ -72981,7 +72980,7 @@ URL          : http://www.draisberghof.de/usb_modeswitch/
 </details>
 
 <details>
-<summary>usbmuxd</summary>
+<summary>Имя пакета: usbmuxd</summary>
 
 ```
 Из репозитор : anaconda
@@ -72996,7 +72995,7 @@ URL          : http://www.libimobiledevice.org/
 </details>
 
 <details>
-<summary>usbredir</summary>
+<summary>Имя пакета: usbredir</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73020,7 +73019,7 @@ URL          : http://spice-space.org/page/UsbRedir
 </details>
 
 <details>
-<summary>usbutils</summary>
+<summary>Имя пакета: usbutils</summary>
 
 ```
 Из репозитор : anaconda
@@ -73034,7 +73033,7 @@ URL          : http://www.linux-usb.org/
 </details>
 
 <details>
-<summary>usermode</summary>
+<summary>Имя пакета: usermode</summary>
 
 ```
 Из репозитор : anaconda
@@ -73049,7 +73048,7 @@ URL          : https://pagure.io/usermode/
 </details>
 
 <details>
-<summary>userspace-rcu</summary>
+<summary>Имя пакета: userspace-rcu</summary>
 
 ```
 Из репозитор : anaconda
@@ -73066,7 +73065,7 @@ URL          : http://liburcu.org
 </details>
 
 <details>
-<summary>utf8proc</summary>
+<summary>Имя пакета: utf8proc</summary>
 
 ```
 Из репозитор : fedora
@@ -73087,7 +73086,7 @@ URL          : http://julialang.org/utf8proc/
 </details>
 
 <details>
-<summary>util-linux</summary>
+<summary>Имя пакета: util-linux</summary>
 
 ```
 Из репозитор : anaconda
@@ -73103,7 +73102,7 @@ URL          : http://en.wikipedia.org/wiki/Util-linux
 </details>
 
 <details>
-<summary>vala</summary>
+<summary>Имя пакета: vala</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73128,7 +73127,7 @@ URL          : https://wiki.gnome.org/Projects/Vala
 </details>
 
 <details>
-<summary>vala-doc</summary>
+<summary>Имя пакета: vala-doc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73146,7 +73145,7 @@ URL          : https://wiki.gnome.org/Projects/Vala
 </details>
 
 <details>
-<summary>valadoc</summary>
+<summary>Имя пакета: valadoc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73160,7 +73159,7 @@ URL          : https://wiki.gnome.org/Projects/Vala
 </details>
 
 <details>
-<summary>valadoc-devel</summary>
+<summary>Имя пакета: valadoc-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73177,7 +73176,7 @@ URL          : https://wiki.gnome.org/Projects/Vala
 </details>
 
 <details>
-<summary>vanityhash</summary>
+<summary>Имя пакета: vanityhash</summary>
 
 ```
 Из репозитор : fedora
@@ -73195,7 +73194,7 @@ URL          : http://www.finnie.org/software/vanityhash/
 </details>
 
 <details>
-<summary>vapoursynth-libs</summary>
+<summary>Имя пакета: vapoursynth-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73208,7 +73207,7 @@ URL          : http://www.vapoursynth.com
 </details>
 
 <details>
-<summary>variety</summary>
+<summary>Имя пакета: variety</summary>
 
 ```
 Из репозитор : fedora
@@ -73236,7 +73235,7 @@ URL          : https://github.com/varietywalls/variety
 </details>
 
 <details>
-<summary>vdpauinfo</summary>
+<summary>Имя пакета: vdpauinfo</summary>
 
 ```
 Из репозитор : fedora
@@ -73249,7 +73248,7 @@ URL          : https://gitlab.freedesktop.org/vdpau/vdpauinfo
 </details>
 
 <details>
-<summary>vid.stab</summary>
+<summary>Имя пакета: vid.stab</summary>
 
 ```
 Из репозитор : fedora
@@ -73263,7 +73262,7 @@ URL          : http://public.hronopik.de/vid.stab
 </details>
 
 <details>
-<summary>vim-common</summary>
+<summary>Имя пакета: vim-common</summary>
 
 ```
 Эпоха        : 2
@@ -73285,7 +73284,7 @@ URL          : http://www.vim.org/
 </details>
 
 <details>
-<summary>vim-enhanced</summary>
+<summary>Имя пакета: vim-enhanced</summary>
 
 ```
 Эпоха        : 2
@@ -73309,7 +73308,7 @@ URL          : http://www.vim.org/
 </details>
 
 <details>
-<summary>vim-filesystem</summary>
+<summary>Имя пакета: vim-filesystem</summary>
 
 ```
 Эпоха        : 2
@@ -73324,7 +73323,7 @@ URL          : http://www.vim.org/
 </details>
 
 <details>
-<summary>vim-minimal</summary>
+<summary>Имя пакета: vim-minimal</summary>
 
 ```
 Эпоха        : 2
@@ -73344,7 +73343,7 @@ URL          : http://www.vim.org/
 </details>
 
 <details>
-<summary>vim-syntastic</summary>
+<summary>Имя пакета: vim-syntastic</summary>
 
 ```
 Из репозитор : fedora
@@ -73361,7 +73360,7 @@ URL          : https://github.com/scrooloose/syntastic
 </details>
 
 <details>
-<summary>vim-syntastic-vala</summary>
+<summary>Имя пакета: vim-syntastic-vala</summary>
 
 ```
 Из репозитор : fedora
@@ -73374,7 +73373,7 @@ URL          : https://github.com/scrooloose/syntastic
 </details>
 
 <details>
-<summary>virglrenderer</summary>
+<summary>Имя пакета: virglrenderer</summary>
 
 ```
 Из репозитор : anaconda
@@ -73387,7 +73386,7 @@ URL          : https://github.com/scrooloose/syntastic
 </details>
 
 <details>
-<summary>virtualbox-guest-additions</summary>
+<summary>Имя пакета: virtualbox-guest-additions</summary>
 
 ```
 Из репозитор : anaconda
@@ -73403,7 +73402,7 @@ URL          : https://www.virtualbox.org/wiki/VirtualBox
 </details>
 
 <details>
-<summary>vnstat</summary>
+<summary>Имя пакета: vnstat</summary>
 
 ```
 Из репозитор : fedora
@@ -73419,7 +73418,7 @@ URL          : http://humdi.net/vnstat/
 </details>
 
 <details>
-<summary>vo-amrwbenc</summary>
+<summary>Имя пакета: vo-amrwbenc</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -73435,7 +73434,7 @@ URL          : http://opencore-amr.sourceforge.net/
 </details>
 
 <details>
-<summary>volume_key-libs</summary>
+<summary>Имя пакета: volume_key-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73455,7 +73454,7 @@ URL          : https://pagure.io/volume_key/
 </details>
 
 <details>
-<summary>vpnc</summary>
+<summary>Имя пакета: vpnc</summary>
 
 ```
 Из репозитор : anaconda
@@ -73471,7 +73470,7 @@ URL          : http://www.unix-ag.uni-kl.de/~massar/vpnc/
 </details>
 
 <details>
-<summary>vpnc-script</summary>
+<summary>Имя пакета: vpnc-script</summary>
 
 ```
 Из репозитор : anaconda
@@ -73485,7 +73484,7 @@ URL          : https://gitlab.com/openconnect/vpnc-scripts/
 </details>
 
 <details>
-<summary>vte-profile</summary>
+<summary>Имя пакета: vte-profile</summary>
 
 ```
 Из репозитор : anaconda
@@ -73499,7 +73498,7 @@ URL          : https://wiki.gnome.org/Apps/Terminal/VTE
 </details>
 
 <details>
-<summary>vte291</summary>
+<summary>Имя пакета: vte291</summary>
 
 ```
 Из репозитор : anaconda
@@ -73514,7 +73513,7 @@ URL          : https://wiki.gnome.org/Apps/Terminal/VTE
 </details>
 
 <details>
-<summary>vtk</summary>
+<summary>Имя пакета: vtk</summary>
 
 ```
 Из репозитор : fedora
@@ -73538,7 +73537,7 @@ URL          : https://vtk.org/
 </details>
 
 <details>
-<summary>vulkan-headers</summary>
+<summary>Имя пакета: vulkan-headers</summary>
 
 ```
 Из репозитор : fedora
@@ -73551,7 +73550,7 @@ URL          : https://github.com/KhronosGroup/Vulkan-Headers
 </details>
 
 <details>
-<summary>vulkan-loader</summary>
+<summary>Имя пакета: vulkan-loader</summary>
 
 ```
 Из репозитор : anaconda
@@ -73565,7 +73564,7 @@ URL          : https://github.com/KhronosGroup/Vulkan-Loader
 </details>
 
 <details>
-<summary>vulkan-loader-devel</summary>
+<summary>Имя пакета: vulkan-loader-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -73579,7 +73578,7 @@ URL          : https://github.com/KhronosGroup/Vulkan-Loader
 </details>
 
 <details>
-<summary>vulkan-tools</summary>
+<summary>Имя пакета: vulkan-tools</summary>
 
 ```
 Из репозитор : fedora
@@ -73592,7 +73591,7 @@ URL          : https://github.com/KhronosGroup/Vulkan-Tools
 </details>
 
 <details>
-<summary>w3m</summary>
+<summary>Имя пакета: w3m</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73614,7 +73613,7 @@ URL          : http://w3m.sourceforge.net/
 </details>
 
 <details>
-<summary>w3m-img</summary>
+<summary>Имя пакета: w3m-img</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73629,7 +73628,7 @@ URL          : http://w3m.sourceforge.net/
 </details>
 
 <details>
-<summary>wavpack</summary>
+<summary>Имя пакета: wavpack</summary>
 
 ```
 Из репозитор : anaconda
@@ -73646,7 +73645,7 @@ URL          : http://www.wavpack.com/
 </details>
 
 <details>
-<summary>web-assets-filesystem</summary>
+<summary>Имя пакета: web-assets-filesystem</summary>
 
 ```
 Из репозитор : anaconda
@@ -73659,7 +73658,7 @@ URL          : https://fedoraproject.org/wiki/User:Patches/PackagingDrafts/Web_A
 </details>
 
 <details>
-<summary>webkit2gtk3</summary>
+<summary>Имя пакета: webkit2gtk3</summary>
 
 ```
 Из репозитор : anaconda
@@ -73675,7 +73674,7 @@ URL          : https://www.webkitgtk.org/
 </details>
 
 <details>
-<summary>webkit2gtk3</summary>
+<summary>Имя пакета: webkit2gtk3</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73691,7 +73690,7 @@ URL          : https://www.webkitgtk.org/
 </details>
 
 <details>
-<summary>webkit2gtk3-jsc</summary>
+<summary>Имя пакета: webkit2gtk3-jsc</summary>
 
 ```
 Из репозитор : anaconda
@@ -73704,7 +73703,7 @@ URL          : https://www.webkitgtk.org/
 </details>
 
 <details>
-<summary>webkit2gtk3-jsc</summary>
+<summary>Имя пакета: webkit2gtk3-jsc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73717,7 +73716,7 @@ URL          : https://www.webkitgtk.org/
 </details>
 
 <details>
-<summary>webp-pixbuf-loader</summary>
+<summary>Имя пакета: webp-pixbuf-loader</summary>
 
 ```
 Из репозитор : fedora
@@ -73730,7 +73729,7 @@ URL          : https://github.com/aruiz/webp-pixbuf-loader
 </details>
 
 <details>
-<summary>webrtc-audio-processing</summary>
+<summary>Имя пакета: webrtc-audio-processing</summary>
 
 ```
 Из репозитор : anaconda
@@ -73745,7 +73744,7 @@ URL          : http://www.freedesktop.org/software/pulseaudio/webrtc-audio-proce
 </details>
 
 <details>
-<summary>wget</summary>
+<summary>Имя пакета: wget</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73764,7 +73763,7 @@ URL          : http://www.gnu.org/software/wget/
 </details>
 
 <details>
-<summary>which</summary>
+<summary>Имя пакета: which</summary>
 
 ```
 Из репозитор : anaconda
@@ -73778,7 +73777,7 @@ URL          : https://savannah.gnu.org/projects/which/
 </details>
 
 <details>
-<summary>which</summary>
+<summary>Имя пакета: which</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73792,7 +73791,7 @@ URL          : https://savannah.gnu.org/projects/which/
 </details>
 
 <details>
-<summary>whois-nls</summary>
+<summary>Имя пакета: whois-nls</summary>
 
 ```
 Из репозитор : anaconda
@@ -73805,7 +73804,7 @@ URL          : http://www.linux.it/~md/software/
 </details>
 
 <details>
-<summary>whois-nls</summary>
+<summary>Имя пакета: whois-nls</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73818,7 +73817,7 @@ URL          : http://www.linux.it/~md/software/
 </details>
 
 <details>
-<summary>wireless-regdb</summary>
+<summary>Имя пакета: wireless-regdb</summary>
 
 ```
 Из репозитор : anaconda
@@ -73833,7 +73832,7 @@ URL          : https://wireless.wiki.kernel.org/en/developers/regulatory/wireles
 </details>
 
 <details>
-<summary>wireless-tools</summary>
+<summary>Имя пакета: wireless-tools</summary>
 
 ```
 Эпоха        : 1
@@ -73850,7 +73849,7 @@ URL          : http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html
 </details>
 
 <details>
-<summary>wireshark</summary>
+<summary>Имя пакета: wireshark</summary>
 
 ```
 Эпоха        : 1
@@ -73872,7 +73871,7 @@ URL          : http://www.wireshark.org/
 </details>
 
 <details>
-<summary>wireshark-cli</summary>
+<summary>Имя пакета: wireshark-cli</summary>
 
 ```
 Эпоха        : 1
@@ -73887,7 +73886,7 @@ URL          : http://www.wireshark.org/
 </details>
 
 <details>
-<summary>wlroots</summary>
+<summary>Имя пакета: wlroots</summary>
 
 ```
 Из репозитор : fedora
@@ -73900,7 +73899,7 @@ URL          : https://github.com/swaywm/wlroots
 </details>
 
 <details>
-<summary>woff2</summary>
+<summary>Имя пакета: woff2</summary>
 
 ```
 Из репозитор : anaconda
@@ -73916,7 +73915,7 @@ URL          : https://github.com/google/woff2
 </details>
 
 <details>
-<summary>words</summary>
+<summary>Имя пакета: words</summary>
 
 ```
 Из репозитор : anaconda
@@ -73932,7 +73931,7 @@ URL          : http://en.wikipedia.org/wiki/Moby_Project
 </details>
 
 <details>
-<summary>wpa_supplicant</summary>
+<summary>Имя пакета: wpa_supplicant</summary>
 
 ```
 Эпоха        : 1
@@ -73950,7 +73949,7 @@ URL          : http://w1.fi/wpa_supplicant/
 </details>
 
 <details>
-<summary>wpa_supplicant</summary>
+<summary>Имя пакета: wpa_supplicant</summary>
 
 ```
 Эпоха        : 1
@@ -73968,7 +73967,7 @@ URL          : http://w1.fi/wpa_supplicant/
 </details>
 
 <details>
-<summary>wpebackend-fdo</summary>
+<summary>Имя пакета: wpebackend-fdo</summary>
 
 ```
 Из репозитор : anaconda
@@ -73981,7 +73980,7 @@ URL          : https://github.com/Igalia/wpebackend-fdo
 </details>
 
 <details>
-<summary>wpebackend-fdo</summary>
+<summary>Имя пакета: wpebackend-fdo</summary>
 
 ```
 Из репозитор : updates-testing
@@ -73994,7 +73993,7 @@ URL          : https://github.com/Igalia/wpebackend-fdo
 </details>
 
 <details>
-<summary>wv</summary>
+<summary>Имя пакета: wv</summary>
 
 ```
 Из репозитор : fedora
@@ -74009,7 +74008,7 @@ URL          : http://www.abisource.com/downloads/wv/
 </details>
 
 <details>
-<summary>wxBase3</summary>
+<summary>Имя пакета: wxBase3</summary>
 
 ```
 Из репозитор : fedora
@@ -74026,7 +74025,7 @@ URL          : https://www.wxwidgets.org/
 </details>
 
 <details>
-<summary>wxGTK3</summary>
+<summary>Имя пакета: wxGTK3</summary>
 
 ```
 Из репозитор : fedora
@@ -74042,7 +74041,7 @@ URL          : https://www.wxwidgets.org/
 </details>
 
 <details>
-<summary>wxGTK3-i18n</summary>
+<summary>Имя пакета: wxGTK3-i18n</summary>
 
 ```
 Из репозитор : fedora
@@ -74059,7 +74058,7 @@ URL          : https://www.wxwidgets.org/
 </details>
 
 <details>
-<summary>wxGTK3-webview</summary>
+<summary>Имя пакета: wxGTK3-webview</summary>
 
 ```
 Из репозитор : fedora
@@ -74076,7 +74075,7 @@ URL          : https://www.wxwidgets.org/
 </details>
 
 <details>
-<summary>x264-libs</summary>
+<summary>Имя пакета: x264-libs</summary>
 
 ```
 Из репозитор : rpmfusion-free-updates-testing
@@ -74090,7 +74089,7 @@ URL          : https://www.videolan.org/developers/x264.html
 </details>
 
 <details>
-<summary>x265-libs</summary>
+<summary>Имя пакета: x265-libs</summary>
 
 ```
 Из репозитор : rpmfusion-free-updates-testing
@@ -74107,7 +74106,7 @@ URL          : http://x265.org/
 </details>
 
 <details>
-<summary>xapian-bindings</summary>
+<summary>Имя пакета: xapian-bindings</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74123,7 +74122,7 @@ URL          : https://www.xapian.org/
 </details>
 
 <details>
-<summary>xapian-core-libs</summary>
+<summary>Имя пакета: xapian-core-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74139,7 +74138,7 @@ URL          : https://www.xapian.org/
 </details>
 
 <details>
-<summary>xbacklight</summary>
+<summary>Имя пакета: xbacklight</summary>
 
 ```
 Из репозитор : fedora
@@ -74154,7 +74153,7 @@ URL          : https://xorg.freedesktop.org/releases/individual/app/
 </details>
 
 <details>
-<summary>xcb-util</summary>
+<summary>Имя пакета: xcb-util</summary>
 
 ```
 Из репозитор : anaconda
@@ -74172,7 +74171,7 @@ URL          : http://xcb.freedesktop.org
 </details>
 
 <details>
-<summary>xcb-util-cursor</summary>
+<summary>Имя пакета: xcb-util-cursor</summary>
 
 ```
 Из репозитор : fedora
@@ -74187,7 +74186,7 @@ URL          : http://xcb.freedesktop.org
 </details>
 
 <details>
-<summary>xcb-util-image</summary>
+<summary>Имя пакета: xcb-util-image</summary>
 
 ```
 Из репозитор : anaconda
@@ -74202,7 +74201,7 @@ URL          : http://xcb.freedesktop.org
 </details>
 
 <details>
-<summary>xcb-util-keysyms</summary>
+<summary>Имя пакета: xcb-util-keysyms</summary>
 
 ```
 Из репозитор : anaconda
@@ -74217,7 +74216,7 @@ URL          : http://xcb.freedesktop.org
 </details>
 
 <details>
-<summary>xcb-util-renderutil</summary>
+<summary>Имя пакета: xcb-util-renderutil</summary>
 
 ```
 Из репозитор : anaconda
@@ -74232,7 +74231,7 @@ URL          : http://xcb.freedesktop.org
 </details>
 
 <details>
-<summary>xcb-util-wm</summary>
+<summary>Имя пакета: xcb-util-wm</summary>
 
 ```
 Из репозитор : anaconda
@@ -74248,7 +74247,7 @@ URL          : http://xcb.freedesktop.org
 </details>
 
 <details>
-<summary>xcb-util-xrm</summary>
+<summary>Имя пакета: xcb-util-xrm</summary>
 
 ```
 Из репозитор : fedora
@@ -74261,7 +74260,7 @@ URL          : https://github.com/Airblader/xcb-util-xrm
 </details>
 
 <details>
-<summary>xcf-pixbuf-loader</summary>
+<summary>Имя пакета: xcf-pixbuf-loader</summary>
 
 ```
 Из репозитор : fedora
@@ -74275,7 +74274,7 @@ URL          : http://gitorious.org/xcf-pixbuf-loader/mainline.git
 </details>
 
 <details>
-<summary>xclip</summary>
+<summary>Имя пакета: xclip</summary>
 
 ```
 Из репозитор : fedora
@@ -74293,7 +74292,7 @@ URL          : http://sourceforge.net/projects/xclip
 </details>
 
 <details>
-<summary>xdg-dbus-proxy</summary>
+<summary>Имя пакета: xdg-dbus-proxy</summary>
 
 ```
 Из репозитор : anaconda
@@ -74308,7 +74307,7 @@ URL          : https://github.com/flatpak/xdg-dbus-proxy/
 </details>
 
 <details>
-<summary>xdg-desktop-portal</summary>
+<summary>Имя пакета: xdg-desktop-portal</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74324,7 +74323,7 @@ URL          : https://github.com/flatpak/xdg-desktop-portal/
 </details>
 
 <details>
-<summary>xdg-desktop-portal-gtk</summary>
+<summary>Имя пакета: xdg-desktop-portal-gtk</summary>
 
 ```
 Из репозитор : anaconda
@@ -74339,7 +74338,7 @@ URL          : https://github.com/flatpak/xdg-desktop-portal-gtk
 </details>
 
 <details>
-<summary>xdg-desktop-portal-wlr</summary>
+<summary>Имя пакета: xdg-desktop-portal-wlr</summary>
 
 ```
 Из репозитор : fedora
@@ -74354,7 +74353,7 @@ URL          : https://github.com/emersion/xdg-desktop-portal-wlr
 </details>
 
 <details>
-<summary>xdg-user-dirs</summary>
+<summary>Имя пакета: xdg-user-dirs</summary>
 
 ```
 Из репозитор : anaconda
@@ -74368,7 +74367,7 @@ URL          : http://freedesktop.org/wiki/Software/xdg-user-dirs
 </details>
 
 <details>
-<summary>xdg-user-dirs-gtk</summary>
+<summary>Имя пакета: xdg-user-dirs-gtk</summary>
 
 ```
 Из репозитор : anaconda
@@ -74383,7 +74382,7 @@ URL          : http://freedesktop.org/wiki/Software/xdg-user-dirs
 </details>
 
 <details>
-<summary>xdg-utils</summary>
+<summary>Имя пакета: xdg-utils</summary>
 
 ```
 Из репозитор : anaconda
@@ -74415,7 +74414,7 @@ URL          : http://portland.freedesktop.org/
 </details>
 
 <details>
-<summary>xemacs-filesystem</summary>
+<summary>Имя пакета: xemacs-filesystem</summary>
 
 ```
 Из репозитор : fedora
@@ -74435,7 +74434,7 @@ URL          : http://www.xemacs.org/
 </details>
 
 <details>
-<summary>xen-libs</summary>
+<summary>Имя пакета: xen-libs</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74449,7 +74448,7 @@ URL          : http://xen.org/
 </details>
 
 <details>
-<summary>xen-licenses</summary>
+<summary>Имя пакета: xen-licenses</summary>
 
 ```
 Из репозитор : anaconda
@@ -74463,7 +74462,7 @@ URL          : http://xen.org/
 </details>
 
 <details>
-<summary>xen-licenses</summary>
+<summary>Имя пакета: xen-licenses</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74477,7 +74476,7 @@ URL          : http://xen.org/
 </details>
 
 <details>
-<summary>xerces-c</summary>
+<summary>Имя пакета: xerces-c</summary>
 
 ```
 Из репозитор : fedora
@@ -74498,7 +74497,7 @@ URL          : http://xml.apache.org/xerces-c/
 </details>
 
 <details>
-<summary>xfsprogs</summary>
+<summary>Имя пакета: xfsprogs</summary>
 
 ```
 Из репозитор : anaconda
@@ -74521,7 +74520,7 @@ URL          : https://xfs.wiki.kernel.org
 </details>
 
 <details>
-<summary>xgamma</summary>
+<summary>Имя пакета: xgamma</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74535,7 +74534,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xhost</summary>
+<summary>Имя пакета: xhost</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74549,7 +74548,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xinput</summary>
+<summary>Имя пакета: xinput</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74563,7 +74562,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xkbcomp</summary>
+<summary>Имя пакета: xkbcomp</summary>
 
 ```
 Из репозитор : anaconda
@@ -74576,7 +74575,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xkeyboard-config</summary>
+<summary>Имя пакета: xkeyboard-config</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74590,7 +74589,7 @@ URL          : http://www.freedesktop.org/wiki/Software/XKeyboardConfig
 </details>
 
 <details>
-<summary>xkill</summary>
+<summary>Имя пакета: xkill</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74605,7 +74604,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xml-common</summary>
+<summary>Имя пакета: xml-common</summary>
 
 ```
 Из репозитор : anaconda
@@ -74620,7 +74619,7 @@ URL          : https://www.w3.org/2003/entities/
 </details>
 
 <details>
-<summary>xmlrpc-c</summary>
+<summary>Имя пакета: xmlrpc-c</summary>
 
 ```
 Из репозитор : anaconda
@@ -74637,7 +74636,7 @@ URL          : http://xmlrpc-c.sourceforge.net/
 </details>
 
 <details>
-<summary>xmlrpc-c-client</summary>
+<summary>Имя пакета: xmlrpc-c-client</summary>
 
 ```
 Из репозитор : anaconda
@@ -74655,7 +74654,7 @@ URL          : http://xmlrpc-c.sourceforge.net/
 </details>
 
 <details>
-<summary>xmlsec1</summary>
+<summary>Имя пакета: xmlsec1</summary>
 
 ```
 Из репозитор : anaconda
@@ -74670,7 +74669,7 @@ URL          : http://www.aleksey.com/xmlsec/
 </details>
 
 <details>
-<summary>xmlsec1-nss</summary>
+<summary>Имя пакета: xmlsec1-nss</summary>
 
 ```
 Из репозитор : anaconda
@@ -74684,7 +74683,7 @@ URL          : http://www.aleksey.com/xmlsec/
 </details>
 
 <details>
-<summary>xmlsec1-openssl</summary>
+<summary>Имя пакета: xmlsec1-openssl</summary>
 
 ```
 Из репозитор : anaconda
@@ -74698,7 +74697,7 @@ URL          : http://www.aleksey.com/xmlsec/
 </details>
 
 <details>
-<summary>xmodmap</summary>
+<summary>Имя пакета: xmodmap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74713,7 +74712,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-amdgpu</summary>
+<summary>Имя пакета: xorg-x11-drv-amdgpu</summary>
 
 ```
 Из репозитор : fedora
@@ -74726,7 +74725,7 @@ URL          : https://www.x.org/wiki
 </details>
 
 <details>
-<summary>xorg-x11-drv-ati</summary>
+<summary>Имя пакета: xorg-x11-drv-ati</summary>
 
 ```
 Из репозитор : fedora
@@ -74739,7 +74738,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-evdev</summary>
+<summary>Имя пакета: xorg-x11-drv-evdev</summary>
 
 ```
 Из репозитор : fedora
@@ -74752,7 +74751,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-fbdev</summary>
+<summary>Имя пакета: xorg-x11-drv-fbdev</summary>
 
 ```
 Из репозитор : fedora
@@ -74765,7 +74764,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-intel</summary>
+<summary>Имя пакета: xorg-x11-drv-intel</summary>
 
 ```
 Из репозитор : fedora
@@ -74778,7 +74777,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-libinput</summary>
+<summary>Имя пакета: xorg-x11-drv-libinput</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74792,7 +74791,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-nouveau</summary>
+<summary>Имя пакета: xorg-x11-drv-nouveau</summary>
 
 ```
 Эпоха        : 1
@@ -74806,7 +74805,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-openchrome</summary>
+<summary>Имя пакета: xorg-x11-drv-openchrome</summary>
 
 ```
 Из репозитор : fedora
@@ -74819,7 +74818,7 @@ URL          : http://www.freedesktop.org/wiki/Openchrome/
 </details>
 
 <details>
-<summary>xorg-x11-drv-qxl</summary>
+<summary>Имя пакета: xorg-x11-drv-qxl</summary>
 
 ```
 Из репозитор : fedora
@@ -74832,7 +74831,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-vesa</summary>
+<summary>Имя пакета: xorg-x11-drv-vesa</summary>
 
 ```
 Из репозитор : fedora
@@ -74845,7 +74844,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-vmware</summary>
+<summary>Имя пакета: xorg-x11-drv-vmware</summary>
 
 ```
 Из репозитор : fedora
@@ -74858,7 +74857,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-wacom</summary>
+<summary>Имя пакета: xorg-x11-drv-wacom</summary>
 
 ```
 Из репозитор : fedora
@@ -74871,7 +74870,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-drv-wacom-serial-support</summary>
+<summary>Имя пакета: xorg-x11-drv-wacom-serial-support</summary>
 
 ```
 Из репозитор : fedora
@@ -74886,7 +74885,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-fonts-ISO8859-1-100dpi</summary>
+<summary>Имя пакета: xorg-x11-fonts-ISO8859-1-100dpi</summary>
 
 ```
 Из репозитор : fedora
@@ -74899,7 +74898,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-fonts-Type1</summary>
+<summary>Имя пакета: xorg-x11-fonts-Type1</summary>
 
 ```
 Из репозитор : fedora
@@ -74913,7 +74912,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-fonts-misc</summary>
+<summary>Имя пакета: xorg-x11-fonts-misc</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74927,7 +74926,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-proto-devel</summary>
+<summary>Имя пакета: xorg-x11-proto-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -74940,7 +74939,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-server-Xephyr</summary>
+<summary>Имя пакета: xorg-x11-server-Xephyr</summary>
 
 ```
 Из репозитор : fedora
@@ -74960,7 +74959,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-server-Xorg</summary>
+<summary>Имя пакета: xorg-x11-server-Xorg</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74976,7 +74975,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-server-Xwayland</summary>
+<summary>Имя пакета: xorg-x11-server-Xwayland</summary>
 
 ```
 Из репозитор : updates-testing
@@ -74989,7 +74988,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-server-common</summary>
+<summary>Имя пакета: xorg-x11-server-common</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75002,7 +75001,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-utils</summary>
+<summary>Имя пакета: xorg-x11-utils</summary>
 
 ```
 Из репозитор : fedora
@@ -75016,7 +75015,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-xauth</summary>
+<summary>Имя пакета: xorg-x11-xauth</summary>
 
 ```
 Эпоха        : 1
@@ -75031,7 +75030,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-xbitmaps</summary>
+<summary>Имя пакета: xorg-x11-xbitmaps</summary>
 
 ```
 Из репозитор : fedora
@@ -75044,7 +75043,7 @@ URL          : http://www.x.org
 </details>
 
 <details>
-<summary>xorg-x11-xinit</summary>
+<summary>Имя пакета: xorg-x11-xinit</summary>
 
 ```
 Из репозитор : fedora
@@ -75057,7 +75056,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xosd</summary>
+<summary>Имя пакета: xosd</summary>
 
 ```
 Из репозитор : fedora
@@ -75072,7 +75071,7 @@ URL          : https://sourceforge.net/projects/libxosd/
 </details>
 
 <details>
-<summary>xrandr</summary>
+<summary>Имя пакета: xrandr</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75087,7 +75086,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xrdb</summary>
+<summary>Имя пакета: xrdb</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75102,7 +75101,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xrefresh</summary>
+<summary>Имя пакета: xrefresh</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75116,7 +75115,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xrestop</summary>
+<summary>Имя пакета: xrestop</summary>
 
 ```
 Из репозитор : fedora
@@ -75131,7 +75130,7 @@ URL          : http://www.freedesktop.org/Software/xrestop
 </details>
 
 <details>
-<summary>xsane</summary>
+<summary>Имя пакета: xsane</summary>
 
 ```
 Из репозитор : fedora
@@ -75147,7 +75146,7 @@ URL          : http://www.xsane.org/
 </details>
 
 <details>
-<summary>xsane-common</summary>
+<summary>Имя пакета: xsane-common</summary>
 
 ```
 Из репозитор : fedora
@@ -75160,7 +75159,7 @@ URL          : http://www.xsane.org/
 </details>
 
 <details>
-<summary>xsane-gimp</summary>
+<summary>Имя пакета: xsane-gimp</summary>
 
 ```
 Из репозитор : fedora
@@ -75175,7 +75174,7 @@ URL          : http://www.xsane.org/
 </details>
 
 <details>
-<summary>xsel</summary>
+<summary>Имя пакета: xsel</summary>
 
 ```
 Из репозитор : fedora
@@ -75191,7 +75190,7 @@ URL          : http://www.vergenet.net/~conrad/software/xsel/
 </details>
 
 <details>
-<summary>xset</summary>
+<summary>Имя пакета: xset</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75206,7 +75205,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xsetroot</summary>
+<summary>Имя пакета: xsetroot</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75220,7 +75219,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xstdcmap</summary>
+<summary>Имя пакета: xstdcmap</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75236,7 +75235,7 @@ URL          : https://www.x.org
 </details>
 
 <details>
-<summary>xterm</summary>
+<summary>Имя пакета: xterm</summary>
 
 ```
 Из репозитор : fedora
@@ -75251,7 +75250,7 @@ URL          : https://invisible-island.net/xterm
 </details>
 
 <details>
-<summary>xterm-resize</summary>
+<summary>Имя пакета: xterm-resize</summary>
 
 ```
 Из репозитор : fedora
@@ -75265,7 +75264,7 @@ URL          : https://invisible-island.net/xterm
 </details>
 
 <details>
-<summary>xvidcore</summary>
+<summary>Имя пакета: xvidcore</summary>
 
 ```
 Из репозитор : rpmfusion-free
@@ -75284,7 +75283,7 @@ URL          : https://www.xvid.com/
 </details>
 
 <details>
-<summary>xxhash-libs</summary>
+<summary>Имя пакета: xxhash-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -75301,7 +75300,7 @@ URL          : http://www.xxhash.com/
 </details>
 
 <details>
-<summary>xz</summary>
+<summary>Имя пакета: xz</summary>
 
 ```
 Из репозитор : anaconda
@@ -75321,7 +75320,7 @@ URL          : https://tukaani.org/xz/
 </details>
 
 <details>
-<summary>xz-devel</summary>
+<summary>Имя пакета: xz-devel</summary>
 
 ```
 Из репозитор : fedora
@@ -75334,7 +75333,7 @@ URL          : https://tukaani.org/xz/
 </details>
 
 <details>
-<summary>xz-libs</summary>
+<summary>Имя пакета: xz-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -75347,7 +75346,7 @@ URL          : https://tukaani.org/xz/
 </details>
 
 <details>
-<summary>yajl</summary>
+<summary>Имя пакета: yajl</summary>
 
 ```
 Из репозитор : anaconda
@@ -75362,7 +75361,7 @@ URL          : http://lloyd.github.com/yajl/
 </details>
 
 <details>
-<summary>yaml-cpp</summary>
+<summary>Имя пакета: yaml-cpp</summary>
 
 ```
 Из репозитор : fedora
@@ -75375,7 +75374,7 @@ URL          : https://github.com/jbeder/yaml-cpp
 </details>
 
 <details>
-<summary>yamllint</summary>
+<summary>Имя пакета: yamllint</summary>
 
 ```
 Из репозитор : fedora
@@ -75392,7 +75391,7 @@ URL          : https://github.com/adrienverge/yamllint
 </details>
 
 <details>
-<summary>yarnpkg</summary>
+<summary>Имя пакета: yarnpkg</summary>
 
 ```
 Из репозитор : fedora
@@ -75405,7 +75404,7 @@ URL          : https://github.com/yarnpkg/yarn
 </details>
 
 <details>
-<summary>yaru-gtk2-theme</summary>
+<summary>Имя пакета: yaru-gtk2-theme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75422,7 +75421,7 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 </details>
 
 <details>
-<summary>yaru-gtk3-theme</summary>
+<summary>Имя пакета: yaru-gtk3-theme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75439,7 +75438,7 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 </details>
 
 <details>
-<summary>yaru-gtk4-theme</summary>
+<summary>Имя пакета: yaru-gtk4-theme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75456,7 +75455,7 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 </details>
 
 <details>
-<summary>yaru-icon-theme</summary>
+<summary>Имя пакета: yaru-icon-theme</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75473,7 +75472,7 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 </details>
 
 <details>
-<summary>yelp</summary>
+<summary>Имя пакета: yelp</summary>
 
 ```
 Эпоха        : 2
@@ -75490,7 +75489,7 @@ URL          : https://wiki.gnome.org/Apps/Yelp
 </details>
 
 <details>
-<summary>yelp</summary>
+<summary>Имя пакета: yelp</summary>
 
 ```
 Эпоха        : 2
@@ -75507,7 +75506,7 @@ URL          : https://wiki.gnome.org/Apps/Yelp
 </details>
 
 <details>
-<summary>yelp-libs</summary>
+<summary>Имя пакета: yelp-libs</summary>
 
 ```
 Эпоха        : 2
@@ -75521,7 +75520,7 @@ URL          : https://wiki.gnome.org/Apps/Yelp
 </details>
 
 <details>
-<summary>yelp-libs</summary>
+<summary>Имя пакета: yelp-libs</summary>
 
 ```
 Эпоха        : 2
@@ -75535,7 +75534,7 @@ URL          : https://wiki.gnome.org/Apps/Yelp
 </details>
 
 <details>
-<summary>yelp-xsl</summary>
+<summary>Имя пакета: yelp-xsl</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75548,7 +75547,7 @@ URL          : https://download.gnome.org/sources/yelp-xsl
 </details>
 
 <details>
-<summary>yelp-xsl</summary>
+<summary>Имя пакета: yelp-xsl</summary>
 
 ```
 Из репозитор : anaconda
@@ -75561,7 +75560,7 @@ URL          : https://download.gnome.org/sources/yelp-xsl
 </details>
 
 <details>
-<summary>ykpers</summary>
+<summary>Имя пакета: ykpers</summary>
 
 ```
 Из репозитор : fedora
@@ -75575,7 +75574,7 @@ URL          : http://opensource.yubico.com/yubikey-personalization/
 </details>
 
 <details>
-<summary>yum</summary>
+<summary>Имя пакета: yum</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75589,7 +75588,7 @@ URL          : https://github.com/rpm-software-management/dnf
 </details>
 
 <details>
-<summary>zchunk-libs</summary>
+<summary>Имя пакета: zchunk-libs</summary>
 
 ```
 Из репозитор : anaconda
@@ -75608,7 +75607,7 @@ URL          : https://github.com/zchunk/zchunk
 </details>
 
 <details>
-<summary>zd1211-firmware</summary>
+<summary>Имя пакета: zd1211-firmware</summary>
 
 ```
 Из репозитор : anaconda
@@ -75621,7 +75620,7 @@ URL          : http://zd1211.wiki.sourceforge.net
 </details>
 
 <details>
-<summary>zeal</summary>
+<summary>Имя пакета: zeal</summary>
 
 ```
 Из репозитор : fedora
@@ -75634,7 +75633,7 @@ URL          : https://zealdocs.org/
 </details>
 
 <details>
-<summary>zenity</summary>
+<summary>Имя пакета: zenity</summary>
 
 ```
 Из репозитор : anaconda
@@ -75649,7 +75648,7 @@ URL          : https://wiki.gnome.org/Projects/Zenity
 </details>
 
 <details>
-<summary>zerofree</summary>
+<summary>Имя пакета: zerofree</summary>
 
 ```
 Из репозитор : fedora
@@ -75671,7 +75670,7 @@ URL          : https://frippery.org/uml/
 </details>
 
 <details>
-<summary>zeromq</summary>
+<summary>Имя пакета: zeromq</summary>
 
 ```
 Из репозитор : fedora
@@ -75691,7 +75690,7 @@ URL          : https://zeromq.org
 </details>
 
 <details>
-<summary>zfs-fuse</summary>
+<summary>Имя пакета: zfs-fuse</summary>
 
 ```
 Из репозитор : anaconda
@@ -75708,7 +75707,7 @@ URL          : https://github.com/gordan-bobic/zfs-fuse
 </details>
 
 <details>
-<summary>zimg</summary>
+<summary>Имя пакета: zimg</summary>
 
 ```
 Из репозитор : fedora
@@ -75727,7 +75726,7 @@ URL          : https://github.com/sekrit-twc/zimg
 </details>
 
 <details>
-<summary>zip</summary>
+<summary>Имя пакета: zip</summary>
 
 ```
 Из репозитор : anaconda
@@ -75746,7 +75745,7 @@ URL          : http://www.info-zip.org/Zip.html
 </details>
 
 <details>
-<summary>zlib</summary>
+<summary>Имя пакета: zlib</summary>
 
 ```
 Из репозитор : anaconda
@@ -75760,7 +75759,7 @@ URL          : https://www.zlib.net/
 </details>
 
 <details>
-<summary>zlib</summary>
+<summary>Имя пакета: zlib</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75774,7 +75773,7 @@ URL          : https://www.zlib.net/
 </details>
 
 <details>
-<summary>zlib-devel</summary>
+<summary>Имя пакета: zlib-devel</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75789,7 +75788,7 @@ URL          : https://www.zlib.net/
 </details>
 
 <details>
-<summary>zram-generator</summary>
+<summary>Имя пакета: zram-generator</summary>
 
 ```
 Из репозитор : anaconda
@@ -75806,7 +75805,7 @@ URL          : https://crates.io/crates/zram-generator
 </details>
 
 <details>
-<summary>zram-generator</summary>
+<summary>Имя пакета: zram-generator</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75823,7 +75822,7 @@ URL          : https://crates.io/crates/zram-generator
 </details>
 
 <details>
-<summary>zram-generator-defaults</summary>
+<summary>Имя пакета: zram-generator-defaults</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75836,7 +75835,7 @@ URL          : https://crates.io/crates/zram-generator
 </details>
 
 <details>
-<summary>zstd</summary>
+<summary>Имя пакета: zstd</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75850,7 +75849,7 @@ URL          : https://github.com/facebook/zstd
 </details>
 
 <details>
-<summary>zvbi</summary>
+<summary>Имя пакета: zvbi</summary>
 
 ```
 Из репозитор : updates-testing
@@ -75869,7 +75868,7 @@ URL          : http://zapping.sourceforge.net/ZVBI/index.html
 </details>
 
 <details>
-<summary>zziplib</summary>
+<summary>Имя пакета: zziplib</summary>
 
 ```
 Из репозитор : fedora
