@@ -82,6 +82,8 @@ function preparation_network_ifaces() {
     echo "Ok brocker setup..."
     echo "TODO"
 
+    [[ -n "$(nmcli connection show "he-ipv6" 2>/dev/null)" ]] && nmcli c delete "he-ipv6"
+
     cat <<EOF >/dev/null
     [[ -z "${cfg_name_brocker}" ]] && . "${main_project_path}/hidden/cfg-tunnel-brocker"
 

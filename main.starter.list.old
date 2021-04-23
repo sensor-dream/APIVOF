@@ -1,3 +1,13 @@
+sysbench
+stress
+tre
+tre-common
+cpu-x
+hwinfo
+linux-driver-management
+linux-driver-management-doc
+linux-driver-management-libs
+linux-firmware
 aalib-libs
 adobe-release-x86_64
 adwaita-gtk2-theme
@@ -295,6 +305,7 @@ libbtrfsutil
 libcanberra-gtk2
 libclc
 libcurl
+libcurl 
 libdap
 libdatrie-devel
 libdbusmenu
@@ -338,6 +349,23 @@ libmpeg3-utils
 libmypaint
 libmysofa
 libnauty
+libnet
+libnet10
+libnet10-devel
+libnet-devel
+libnet-doc
+libnetfilter_acct
+libnetfilter_acct-devel
+libnetfilter_conntrack
+libnetfilter_conntrack-devel
+libnetfilter_cthelper
+libnetfilter_cthelper-devel
+libnetfilter_cttimeout
+libnetfilter_cttimeout-devel
+libnetfilter_log
+libnetfilter_log-devel
+libnetfilter_queue
+libnetfilter_queue-devel
 libogg
 libomp
 libomp-devel
@@ -693,27 +721,6 @@ zimg
 zlib
 zlib-devel
 zvbi
-SDL
-SDL_image
-zlib
-libogg
-libvorbis
-openal-soft
-libcurl 
-libnet
-libnetfilter_conntrack
- libnet-devel
- libnet-doc
- libnet10
- libnet10-devel
- libnetfilter_acct
- libnetfilter_acct-devel
- libnetfilter_conntrack-devel
- libnetfilter_cthelper
- libnetfilter_cthelper-devel
- libnetfilter_cttimeout
- libnetfilter_cttimeout-devel
- libnetfilter_log
- libnetfilter_log-deve
- libnetfilter_queue
- libnetfilter_queue-devel
+acpi
+acpitools
+acpid

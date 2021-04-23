@@ -6104,6 +6104,39 @@ URL          : https://github.com/puppetlabs/cpp-hocon
              : 
              : The library provides C++ support for the HOCON configuration file format.
 
+Имя          : cpu-x
+Версия       : 4.2.0
+Выпуск       : 1.fc34
+Архитектура  : x86_64
+Размер       : 1.3 M
+Источник     : cpu-x-4.2.0-1.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Gathers information on CPU, motherboard and more
+URL          : https://github.com/X0rg/CPU-X
+Лицензия     : GPLv3+
+Описание     : Free software that gathers information on CPU, motherboard and more.
+             : 
+             : CPU-X is similar to CPU-Z (Windows), but CPU-X is a Free and Open Source
+             : software designed for GNU/Linux; also, it works on *BSD.
+             : 
+             : This software is written in C and built with CMake tool. It can be used in
+             : graphical mode by using GTK or in text-based mode by using NCurses. A dump
+             : mode is present from command line.
+
+Имя          : cpu-x-data
+Версия       : 4.2.0
+Выпуск       : 1.fc34
+Архитектура  : noarch
+Размер       : 1.1 M
+Источник     : cpu-x-4.2.0-1.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Data files for cpu-x
+URL          : https://github.com/X0rg/CPU-X
+Лицензия     : GPLv3+
+Описание     : Data files for cpu-x.
+
 Имя          : crack
 Версия       : 5.0a
 Выпуск       : 36.fc34
@@ -12488,6 +12521,23 @@ URL          : http://glew.sourceforge.net
              : This package contains the demo GLEW utilities.  The libraries themselves
              : are in libGLEW.
 
+Имя          : glfw
+Эпоха        : 1
+Версия       : 3.3.2
+Выпуск       : 8.fc34
+Архитектура  : x86_64
+Размер       : 265 k
+Источник     : glfw-3.3.2-8.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : A cross-platform multimedia library
+URL          : http://www.glfw.org/index.html
+Лицензия     : zlib
+Описание     : GLFW is a free, Open Source, multi-platform library for OpenGL application
+             : development that provides a powerful API for handling operating system specific
+             : tasks such as opening an OpenGL window, reading keyboard, mouse, joystick and
+             : time input, creating threads, and more.
+
 Имя          : glib
 Эпоха        : 1
 Версия       : 1.2.10
@@ -17608,6 +17658,33 @@ URL          : https://github.com/vcrhonek/hwdata
 Лицензия     : GPLv2+
 Описание     : hwdata contains various hardware identification and configuration data,
              : such as the pci.ids and usb.ids databases.
+
+Имя          : hwinfo
+Версия       : 21.68
+Выпуск       : 3.fc34
+Архитектура  : x86_64
+Размер       : 282 k
+Источник     : hwinfo-21.68-3.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Hardware information tool
+URL          : https://github.com/openSUSE/hwinfo
+Лицензия     : GPL+
+Описание     : hwinfo is to probe for the hardware present in the system. It can be used to
+             : generate a system overview log which can be later used for support.
+
+Имя          : hwinfo-libs
+Версия       : 21.68
+Выпуск       : 3.fc34
+Архитектура  : x86_64
+Размер       : 3.1 M
+Источник     : hwinfo-21.68-3.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Libraries for hwinfo
+URL          : https://github.com/openSUSE/hwinfo
+Лицензия     : GPL+
+Описание     : Libraries for using hwinfo, a hardware information tool, in other applications.
 
 Имя          : hwloc-libs
 Версия       : 2.4.1
@@ -23371,6 +23448,19 @@ URL          : https://github.com/martinh/libconfuse
              : The goal of libConfuse is not to be the configuration file parser
              : library with a gazillion of features. Instead, it aims to be
              : easy to use and quick to integrate with your code.
+
+Имя          : libcpuid
+Версия       : 0.5.0
+Выпуск       : 2.fc34
+Архитектура  : x86_64
+Размер       : 103 k
+Источник     : libcpuid-0.5.0-2.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Provides CPU identification for x86
+URL          : https://github.com/anrieff/libcpuid
+Лицензия     : BSD
+Описание     : Libcpuid provides CPU identification for the x86 (and x86_64).
 
 Имя          : libcue
 Версия       : 2.2.1
@@ -29926,6 +30016,27 @@ URL          : https://github.com/fosnola/libstaroffice/wiki
 Лицензия     : MPLv2.0 or LGPLv2+
 Описание     : libstaroffice is a library for import of binary StarOffice documents.
 
+Имя          : libstatgrab
+Эпоха        : 1
+Версия       : 0.92
+Выпуск       : 7.fc34
+Архитектура  : x86_64
+Размер       : 144 k
+Источник     : libstatgrab-0.92-7.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : A library that provides cross platform access to statistics of the system
+URL          : http://www.i-scream.org/libstatgrab
+Лицензия     : LGPLv2+
+Описание     : Libstatgrab is a library that provides cross platform access to statistics
+             : about the system on which it's running. It's written in C and presents a
+             : selection of useful interfaces which can be used to access key system
+             : statistics. The current list of statistics includes CPU usage, memory
+             : utilisation, disk usage, process counts, network traffic, disk I/O, and more.
+             : 
+             : The current list of supported and tested platforms includes FreeBSD, Linux,
+             : NetBSD, OpenBSD, Solaris, DragonFly BSD, HP-UX and AIX.
+
 Имя          : libstdc++
 Версия       : 11.0.0
 Выпуск       : 0.19.fc34
@@ -31798,6 +31909,21 @@ URL          : http://www.openwsman.org/
 Лицензия     : BSD
 Описание     : Openwsman library for packages dependent on openwsman.
 
+Имя          : libx86emu
+Версия       : 3.1
+Выпуск       : 3.fc34
+Архитектура  : x86_64
+Размер       : 184 k
+Источник     : libx86emu-3.1-3.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : x86 emulation library
+URL          : https://github.com/wfeldt/libx86emu
+Лицензия     : BSD
+Описание     : Small x86 emulation library with focus of easy usage and extended execution
+             : logging functions. The library features an API to create emulation objects
+             : for x86 architecture.
+
 Имя          : libxcb
 Версия       : 1.13.1
 Выпуск       : 7.fc34
@@ -32270,6 +32396,53 @@ URL          : http://linux-atm.sourceforge.net/
 Лицензия     : LGPLv2+
 Описание     : This package contains the ATM library required for user space ATM tools.
 
+Имя          : linux-driver-management
+Версия       : 1.0.3
+Выпуск       : 8.fc34
+Архитектура  : x86_64
+Размер       : 107 k
+Источник     : linux-driver-management-1.0.3-8.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Generic driver management framework for Linux
+URL          : https://github.com/solus-project/linux-driver-management
+Лицензия     : LGPLv2+ and CC-BY-SA
+Описание     : Linux Driver Management provides a core library and some tooling
+             : to enable the quick and easy enumeration of system devices,
+             : and functionality to match devices to packages/drivers.
+             : 
+             : This is designed to be as agnostic as feasible whilst supporting
+             : a wide range of device classes, to provide a building block for
+             : driver management and discovery in Linux distributions.
+
+Имя          : linux-driver-management-doc
+Версия       : 1.0.3
+Выпуск       : 8.fc34
+Архитектура  : noarch
+Размер       : 253 k
+Источник     : linux-driver-management-1.0.3-8.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Development documentation for Linux Driver Management
+URL          : https://github.com/solus-project/linux-driver-management
+Лицензия     : LGPLv2+ and CC-BY-SA
+Описание     : This package contains the developer documentation for integrating
+             : Linux Driver Management into applications.
+
+Имя          : linux-driver-management-libs
+Версия       : 1.0.3
+Выпуск       : 8.fc34
+Архитектура  : x86_64
+Размер       : 134 k
+Источник     : linux-driver-management-1.0.3-8.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Libraries for Linux Driver Management
+URL          : https://github.com/solus-project/linux-driver-management
+Лицензия     : LGPLv2+ and CC-BY-SA
+Описание     : This package contains the libraries for Linux Driver Management
+             : used by other applications.
+
 Имя          : linux-firmware
 Версия       : 20210208
 Выпуск       : 118.fc34
@@ -32454,6 +32627,21 @@ URL          : https://alioth.debian.org/projects/lockdev/
 Лицензия     : LGPLv2
 Описание     : Lockdev provides a reliable way to put an exclusive lock to devices
              : using both FSSTND and SVr4 methods.
+
+Имя          : log4cplus
+Версия       : 2.0.5
+Выпуск       : 13.fc34
+Архитектура  : x86_64
+Размер       : 1.2 M
+Источник     : log4cplus-2.0.5-13.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Logging Framework for C++
+URL          : http://sourceforge.net/projects/log4cplus
+Лицензия     : ASL 2.0
+Описание     : log4cplus is a simple to use C++ logging API providing thread-safe, flexible,
+             : and arbitrarily granular control over log management and configuration. It is
+             : modeled after the Java log4j API.
 
 Имя          : logrotate
 Версия       : 3.18.0
@@ -61825,6 +62013,21 @@ URL          : https://wiki.gnome.org/Projects/Rygel
              : conformance to very strict requirements of DLNA and on the fly conversion of
              : media to format that client devices are capable of handling.
 
+Имя          : saidar
+Эпоха        : 1
+Версия       : 0.92
+Выпуск       : 7.fc34
+Архитектура  : x86_64
+Размер       : 51 k
+Источник     : libstatgrab-0.92-7.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : System information real-time monitor
+URL          : http://www.i-scream.org/libstatgrab
+Лицензия     : GPLv2+
+Описание     : Saidar is a curses-based interface to viewing the current state of the
+             : system.
+
 Имя          : samba-client
 Эпоха        : 2
 Версия       : 4.14.2
@@ -63760,6 +63963,23 @@ URL          : http://stoken.sf.net
              : 
              : This package contains stoken libraries.
 
+Имя          : stress
+Версия       : 1.0.4
+Выпуск       : 28.fc34
+Архитектура  : x86_64
+Размер       : 78 k
+Источник     : stress-1.0.4-28.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : A tool to put given subsystems under a specified load
+URL          : http://people.seas.harvard.edu/~apw/stress/
+Лицензия     : GPLv2+
+Описание     : stress is not a benchmark, but is rather a tool designed to put given
+             : subsytems under a specified load. Instances in which this is useful
+             : include those in which a system administrator wishes to perform tuning
+             : activities, a kernel or libc programmer wishes to evaluate denial of
+             : service possibilities, etc.
+
 Имя          : subversion
 Версия       : 1.14.1
 Выпуск       : 1.fc34
@@ -64077,6 +64297,35 @@ URL          : http://ibiblio.org/pub/Linux/utils/file/
              : 
              : Install the symlinks package if you need a program for maintaining
              : symlinks on your system.
+
+Имя          : sysbench
+Версия       : 1.0.20
+Выпуск       : 5.fc34
+Архитектура  : x86_64
+Размер       : 644 k
+Источник     : sysbench-1.0.20-5.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : System performance benchmark
+URL          : https://github.com/akopytov/sysbench/
+Лицензия     : GPLv2+
+Описание     : SysBench is a modular, cross-platform and multi-threaded benchmark
+             : tool for evaluating OS parameters that are important for a system
+             : running a database under intensive load.
+             : 
+             : The idea of this benchmark suite is to quickly get an impression about
+             : system performance without setting up complex database benchmarks or
+             : even without installing a database at all. Current features allow to
+             : test the following system parameters:
+             : - file I/O performance
+             : - scheduler performance
+             : - memory allocation and transfer speed
+             : - POSIX threads implementation performance
+             : - database server performance (OLTP benchmark)
+             : 
+             : Primarily written for MySQL server benchmarking, SysBench will be
+             : further extended to support multiple database backends, distributed
+             : benchmarks and third-party plug-in modules.
 
 Имя          : syslinux
 Версия       : 6.04
@@ -71444,6 +71693,35 @@ URL          : http://hubbitus.net.ru/trafshow/
              : TrafShow может быть очень полезна для распознавания паразитного сетевого
              : трафика или для оценки текущей утилизации сетевого интерфейса.
 
+Имя          : tre
+Версия       : 0.8.0
+Выпуск       : 32.20140228gitc2f5d13.fc34
+Архитектура  : x86_64
+Размер       : 72 k
+Источник     : tre-0.8.0-32.20140228gitc2f5d13.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : POSIX compatible regexp library with approximate matching
+URL          : http://laurikari.net/tre/
+Лицензия     : BSD
+Описание     : TRE is a lightweight, robust, and efficient POSIX compatible regexp
+             : matching library with some exciting features such as approximate
+             : matching.
+
+Имя          : tre-common
+Версия       : 0.8.0
+Выпуск       : 32.20140228gitc2f5d13.fc34
+Архитектура  : noarch
+Размер       : 81 k
+Источник     : tre-0.8.0-32.20140228gitc2f5d13.fc34.src.rpm
+Репозиторий  : @System
+Из репозитор : fedora
+Краткое опис : Cross-platform files for use with the tre package
+URL          : http://laurikari.net/tre/
+Лицензия     : BSD
+Описание     : This package contains platform-agnostic files used by the TRE
+             : library.
+
 Имя          : tree
 Версия       : 1.8.0
 Выпуск       : 6.fc34
@@ -74643,11 +74921,11 @@ URL          : https://www.x.org
 Описание     : X.Org X11 Protocol headers
 
 Имя          : xorg-x11-server-Xephyr
-Версия       : 1.20.10
-Выпуск       : 5.fc34
+Версия       : 1.20.11
+Выпуск       : 1.fc34
 Архитектура  : x86_64
 Размер       : 2.3 M
-Источник     : xorg-x11-server-1.20.10-5.fc34.src.rpm
+Источник     : xorg-x11-server-1.20.11-1.fc34.src.rpm
 Репозиторий  : @System
 Из репозитор : fedora
 Краткое опис : A nested server

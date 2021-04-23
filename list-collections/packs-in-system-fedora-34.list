@@ -256,6 +256,8 @@ corosynclib
 cpio
 cpp
 cpp-hocon
+cpu-x
+cpu-x-data
 crack
 cracklib
 cracklib-dicts
@@ -630,6 +632,7 @@ glade-libs
 GLC_lib
 GLee
 glew
+glfw
 glib
 glib2
 glib2-devel
@@ -891,6 +894,8 @@ hunspell-en-US
 hunspell-filesystem
 hunspell-ru
 hwdata
+hwinfo
+hwinfo-libs
 hwloc-libs
 hyperv-daemons
 hyperv-daemons-license
@@ -1203,6 +1208,7 @@ libcom_err-devel
 libcomps
 libconfig
 libconfuse
+libcpuid
 libcue
 libcurl
 libdaemon
@@ -1565,6 +1571,7 @@ libsss_idmap
 libsss_nss_idmap
 libsss_sudo
 libstaroffice
+libstatgrab
 libstdc++
 libstdc++-devel
 libstemmer
@@ -1675,6 +1682,7 @@ libX11
 libX11-common
 libX11-devel
 libX11-xcb
+libx86emu
 libXau
 libXau-devel
 libXaw
@@ -1741,6 +1749,9 @@ libzstd
 lilv
 links
 linux-atm-libs
+linux-driver-management
+linux-driver-management-doc
+linux-driver-management-libs
 linux-firmware
 linux-firmware-whence
 lksctp-tools
@@ -1752,6 +1763,7 @@ Lmod
 lm_sensors
 lm_sensors-libs
 lockdev
+log4cplus
 logrotate
 lohit-assamese-fonts
 lohit-bengali-fonts
@@ -3494,6 +3506,7 @@ runc
 rust-srpm-macros
 rxvt-unicode
 rygel
+saidar
 samba-client
 samba-client-libs
 samba-common
@@ -3613,6 +3626,7 @@ sssd-proxy
 startup-notification
 stix-fonts
 stoken-libs
+stress
 subversion
 subversion-libs
 subversion-perl
@@ -3634,6 +3648,7 @@ swtpm
 swtpm-libs
 swtpm-tools
 symlinks
+sysbench
 syslinux
 syslinux-extlinux
 syslinux-extlinux-nonlinux
@@ -4013,6 +4028,8 @@ tracker3
 tracker3-miners
 tracker-miners
 trafshow
+tre
+tre-common
 tree
 trousers
 trousers-lib
