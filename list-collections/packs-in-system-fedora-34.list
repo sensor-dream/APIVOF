@@ -1024,6 +1024,7 @@ kasumi-common
 kasumi-unicode
 kbd
 kbd-misc
+kcolorpicker
 kde-filesystem
 kde-settings
 kdump-anaconda-addon
