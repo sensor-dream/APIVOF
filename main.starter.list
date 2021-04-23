@@ -1,7 +1,6 @@
 aalib-libs
 acpi
 acpid
-acpitools
 adobe-release-x86_64
 adwaita-gtk2-theme
 alsa-lib-devel
@@ -232,6 +231,7 @@ json-glib-devel
 jsonrpc-glib
 Judy
 jxrlib
+kcolorpicker
 kde-filesystem
 kde-settings
 kernel-srpm-macros

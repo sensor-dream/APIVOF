@@ -1,14 +1,8 @@
-sysbench
-stress
-tre
-tre-common
-cpu-x
-hwinfo
-linux-driver-management
-linux-driver-management-doc
-linux-driver-management-libs
-linux-firmware
+kcolorpicker
 aalib-libs
+acpi
+acpid
+acpitools
 adobe-release-x86_64
 adwaita-gtk2-theme
 alsa-lib-devel
@@ -59,6 +53,7 @@ coin-or-Clp
 coin-or-CoinUtils
 coin-or-Osi
 compiler-rt
+cpu-x
 darkstat
 dbusmenu-qt
 dbusmenu-qt5
@@ -207,6 +202,7 @@ hexer
 htop
 http-parser
 humanity-icon-theme
+hwinfo
 ibus-gtk2
 iftop
 ImageMagick
@@ -409,6 +405,10 @@ libXp
 libXrandr-devel
 libXrender-devel
 libXt-devel
+linux-driver-management
+linux-driver-management-doc
+linux-driver-management-libs
+linux-firmware
 Lmod
 lm_sensors
 lm_sensors-libs
@@ -662,8 +662,10 @@ sombok
 sphinx
 spirv-tools-libs
 splix
+stress
 SuperLU
 svt-hevc-libs
+sysbench
 sysprof-capture-devel
 template-glib
 tesseract
@@ -675,6 +677,8 @@ tix
 tk
 tmpwatch
 trafshow
+tre
+tre-common
 turbojpeg
 udisks
 udisks2-bcache
@@ -721,6 +725,3 @@ zimg
 zlib
 zlib-devel
 zvbi
-acpi
-acpitools
-acpid

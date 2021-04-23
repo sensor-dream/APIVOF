@@ -1,11 +1,15 @@
+<style>
+
+h1 { color: #EA4334; }
+details { color: #4285F4; }
+
+</style>
+
 # Preparation Firefox (Speeding up and other).
 
-~~Release: 87.0 March 23, 2021~~
-
----
+### ~~Release: 87.0 March 23, 2021~~
 
 <details>
-
 <summary><b>Resetting RAM in minimized mode</b></summary>
 
     enter link: about: config
@@ -13,7 +17,7 @@
     set key: true
     restart Firefox.
 
-> The payback for this may be slowing down the browser's "recovery"
+    The payback for this may be slowing down the browser's "recovery"
 
 </details>
 
@@ -48,7 +52,7 @@
     set key: 25
     restart Firefox.
 
-> Default: 50
+    Default: 50
 
 </details>
 
@@ -118,7 +122,7 @@
     set key: 10
     restart Firefox.
 
-> Default: 8
+    Default: 8
 
 </details>
 
@@ -142,7 +146,7 @@
     set key: 100
     restart Firefox.
 
-> Default: 76
+    Default: 76
 
 </details>
 
@@ -155,7 +159,7 @@
     set key: 10
     restart Firefox.
 
-> Default: 20
+    Default: 20
 
 </details>
 
@@ -168,7 +172,7 @@
     set key: 65536
     restart Firefox.
 
-> Default: 1048576 in kilobytes
+    Default: 1048576 in kilobytes
 
 </details>
 
@@ -181,7 +185,7 @@
     set key: true
     restart Firefox.
 
-> Default: true
+    Default: true
 
 </details>
 
@@ -194,12 +198,12 @@
     search value: view_source.editor.external
     set key: true
 
-> Default: false
+    Default: false
 
     search value: view_source.editor.path
     set key: gedit
 
-> Default: empty
+    Default: empty
 
     restart Firefox.
 
