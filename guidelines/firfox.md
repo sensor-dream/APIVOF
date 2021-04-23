@@ -1,10 +1,3 @@
-<style>
-
-h1 { color: #EA4334; }
-details { color: #4285F4; }
-
-</style>
-
 # Preparation Firefox (Speeding up and other).
 
 ### ~~Release: 87.0 March 23, 2021~~
