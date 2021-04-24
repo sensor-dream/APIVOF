@@ -136,7 +136,7 @@ Descript     : The paktype-naskh-basic-fonts package contains fonts for the disp
 <summary>pam</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : An extensible library which provides authentication for applications
 URL          : http://www.linux-pam.org/
 License      : BSD and GPLv2+

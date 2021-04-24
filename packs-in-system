@@ -66,7 +66,7 @@ function get_packs_in_system() {
 
 function get_info_packs_in_system() {
 
-  local list="$(cat ${file_list})"
+  local list="$(cat ${file_list} | sort -u)"
   local find_list=
 
   [[ -d "${main_project_path}/guidelines/list-info" ]] && rm -f -r "${main_project_path}/guidelines/list-info"
