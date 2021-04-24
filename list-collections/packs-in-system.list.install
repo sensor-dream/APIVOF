@@ -1,3 +1,5 @@
+0ad
+0ad-data
 2ping
 aalib-libs
 accerciser
@@ -150,6 +152,7 @@ egl-utils
 egl-wayland
 elementary-print
 elfutils-libelf-devel
+enet
 environment-modules
 esmtp
 ettercap
@@ -299,6 +302,7 @@ glib2-devel
 glibc-langpack-ru
 glib-devel
 gl-manpages
+gloox
 glpk
 glyphicons-halflings-fonts
 gmic
@@ -589,6 +593,7 @@ libICE-devel
 libicu-devel
 libid3tag
 libIDL
+libidn
 libieee1284-devel
 libimagequant-devel
 libindicator
@@ -843,6 +848,7 @@ meson
 metis
 minder
 ming
+miniupnpc
 minizip
 minizip-compat
 mjpegtools-libs
@@ -895,6 +901,7 @@ nodejs-packaging
 nomarch
 npm
 ntfs2btrfs
+nvidia-texture-tools
 nvme-cli
 nvmetcli
 nx-libs
@@ -2485,6 +2492,7 @@ wlroots
 wv
 wxBase3
 wxGTK3
+wxGTK3-gl
 wxGTK3-i18n
 wxGTK3-webview
 x264-libs

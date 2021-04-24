@@ -4,8 +4,8 @@
 <summary>jacop</summary>
 
 ```
-From repo     : fedora
-Short desc    : Java Constraint Programming solver
+From repo    : fedora
+Short desc   : Java Constraint Programming solver
 URL          : http://jacop.osolpro.com/
 License      : AGPLv3 with exceptions
 Descript     : Java Constraint Programming solver, JaCoP for short, is an open-source
@@ -21,8 +21,8 @@ Descript     : Java Constraint Programming solver, JaCoP for short, is an open-s
 <summary>jansson</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C library for encoding, decoding and manipulating JSON data
+From repo    : anaconda
+Short desc   : C library for encoding, decoding and manipulating JSON data
 URL          : http://www.digip.org/jansson/
 License      : MIT
 Descript     : Small library for parsing and writing JSON documents.
@@ -34,8 +34,8 @@ Descript     : Small library for parsing and writing JSON documents.
 <summary>jasper-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Runtime libraries for jasper
+From repo    : anaconda
+Short desc   : Runtime libraries for jasper
 URL          : http://www.ece.uvic.ca/~frodo/jasper/
 License      : JasPer
 Descript     : Runtime libraries for jasper.
@@ -47,8 +47,8 @@ Descript     : Runtime libraries for jasper.
 <summary>jasper-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Runtime libraries for jasper
+From repo    : updates-testing
+Short desc   : Runtime libraries for jasper
 URL          : http://www.ece.uvic.ca/~frodo/jasper/
 License      : JasPer
 Descript     : Runtime libraries for jasper.
@@ -61,8 +61,8 @@ Descript     : Runtime libraries for jasper.
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : OpenJDK 11 Headless Runtime Environment
+From repo    : anaconda
+Short desc   : OpenJDK 11 Headless Runtime Environment
 URL          : http://openjdk.java.net/
 License      : ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA
 Descript     : The OpenJDK 11 runtime environment without audio and video support.
@@ -74,8 +74,8 @@ Descript     : The OpenJDK 11 runtime environment without audio and video suppor
 <summary>javapackages-filesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Java packages filesystem layout
+From repo    : anaconda
+Short desc   : Java packages filesystem layout
 URL          : https://github.com/fedora-java/javapackages
 License      : BSD
 Descript     : This package provides some basic directories into which Java packages
@@ -88,8 +88,8 @@ Descript     : This package provides some basic directories into which Java pack
 <summary>javapackages-tools</summary>
 
 ```
-From repo     : fedora
-Short desc    : Macros and scripts for Java packaging support
+From repo    : fedora
+Short desc   : Macros and scripts for Java packaging support
 URL          : https://github.com/fedora-java/javapackages
 License      : BSD
 Descript     : This package provides macros and scripts to support Java packaging.
@@ -101,8 +101,8 @@ Descript     : This package provides macros and scripts to support Java packagin
 <summary>jbig2dec-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A decoder implementation of the JBIG2 image compression format
+From repo    : anaconda
+Short desc   : A decoder implementation of the JBIG2 image compression format
 URL          : http://jbig2dec.sourceforge.net/
 License      : AGPLv3+
 Descript     : jbig2dec is a decoder implementation of the JBIG2 image compression format.
@@ -120,8 +120,8 @@ Descript     : jbig2dec is a decoder implementation of the JBIG2 image compressi
 <summary>jbigkit-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : JBIG1 lossless image compression library
+From repo    : anaconda
+Short desc   : JBIG1 lossless image compression library
 URL          : http://www.cl.cam.ac.uk/~mgk25/jbigkit/
 License      : GPLv2+
 Descript     : JBIG-KIT provides a portable library of compression and decompression
@@ -144,8 +144,8 @@ Descript     : JBIG-KIT provides a portable library of compression and decompres
 <summary>jline-reader</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : JLine reader
+From repo    : updates-testing
+Short desc   : JLine reader
 URL          : https://github.com/jline/jline3
 License      : BSD
 Descript     : JLine is a Java library for handling console input.  It is similar in
@@ -165,8 +165,8 @@ Descript     : JLine is a Java library for handling console input.  It is simila
 <summary>jline-style</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : JLine style
+From repo    : updates-testing
+Short desc   : JLine style
 URL          : https://github.com/jline/jline3
 License      : BSD
 Descript     : JLine is a Java library for handling console input.  It is similar in
@@ -186,8 +186,8 @@ Descript     : JLine is a Java library for handling console input.  It is simila
 <summary>jline-terminal</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : JLine terminal
+From repo    : updates-testing
+Short desc   : JLine terminal
 URL          : https://github.com/jline/jline3
 License      : BSD
 Descript     : JLine is a Java library for handling console input.  It is similar in
@@ -206,8 +206,8 @@ Descript     : JLine is a Java library for handling console input.  It is simila
 <summary>jline-terminal-jna</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : JLine terminal with JNA
+From repo    : updates-testing
+Short desc   : JLine terminal with JNA
 URL          : https://github.com/jline/jline3
 License      : BSD
 Descript     : JLine is a Java library for handling console input.  It is similar in
@@ -226,8 +226,8 @@ Descript     : JLine is a Java library for handling console input.  It is simila
 <summary>jna</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pure Java access to native libraries
+From repo    : fedora
+Short desc   : Pure Java access to native libraries
 URL          : https://github.com/java-native-access/jna/
 License      : (LGPLv2+ or ASL 2.0) and ASL 2.0
 Descript     : JNA provides Java programs easy access to native shared libraries
@@ -244,8 +244,8 @@ Descript     : JNA provides Java programs easy access to native shared libraries
 <summary>john</summary>
 
 ```
-From repo     : fedora
-Short desc    : John the Ripper password cracker
+From repo    : fedora
+Short desc   : John the Ripper password cracker
 URL          : http://www.openwall.com/john
 License      : GPLv2
 Descript     : John the Ripper is a fast password cracker. Its primary purpose is to
@@ -259,8 +259,8 @@ Descript     : John the Ripper is a fast password cracker. Its primary purpose i
 <summary>jomolhari-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Jomolhari a Bhutanese style font for Tibetan and Dzongkha
+From repo    : anaconda
+Short desc   : Jomolhari a Bhutanese style font for Tibetan and Dzongkha
 License      : OFL
 Descript     : Jomolhari is an TrueType OpenType Bhutanese style font for Dzongkha and
              : Tibetan text. It is based on Bhutanese manuscript examples, supports the
@@ -274,8 +274,8 @@ Descript     : Jomolhari is an TrueType OpenType Bhutanese style font for Dzongk
 <summary>jq</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Command-line JSON processor
+From repo    : anaconda
+Short desc   : Command-line JSON processor
 URL          : http://stedolan.github.io/jq/
 License      : MIT and ASL 2.0 and CC-BY and GPLv3
 Descript     : lightweight and flexible command-line JSON processor
@@ -300,8 +300,8 @@ Descript     : lightweight and flexible command-line JSON processor
 <summary>js-backbone</summary>
 
 ```
-From repo     : fedora
-Short desc    : Models, Views, Collections and Events for JavaScript applications
+From repo    : fedora
+Short desc   : Models, Views, Collections and Events for JavaScript applications
 URL          : http://backbonejs.org/
 License      : MIT
 Descript     : Backbone supplies structure to JavaScript-heavy applications by providing
@@ -316,8 +316,8 @@ Descript     : Backbone supplies structure to JavaScript-heavy applications by p
 <summary>js-jquery</summary>
 
 ```
-From repo     : anaconda
-Short desc    : JavaScript DOM manipulation, event handling, and AJAX library
+From repo    : anaconda
+Short desc   : JavaScript DOM manipulation, event handling, and AJAX library
 URL          : https://jquery.com/
 License      : MIT
 Descript     : jQuery is a fast, small, and feature-rich JavaScript library. It makes things
@@ -333,8 +333,8 @@ Descript     : jQuery is a fast, small, and feature-rich JavaScript library. It 
 <summary>js-marked</summary>
 
 ```
-From repo     : fedora
-Short desc    : Minified markdown parser for JavaScript built for speed
+From repo    : fedora
+Short desc   : Minified markdown parser for JavaScript built for speed
 URL          : https://github.com/markedjs/marked
 License      : MIT
 Descript     : Install this for the minified web assests for nodejs-marked.
@@ -358,8 +358,8 @@ Descript     : Install this for the minified web assests for nodejs-marked.
 <summary>js-underscore</summary>
 
 ```
-From repo     : fedora
-Short desc    : JavaScript's functional programming helper library
+From repo    : fedora
+Short desc   : JavaScript's functional programming helper library
 URL          : http://underscorejs.org/
 License      : MIT
 Descript     : Underscore.js is a utility-belt library for JavaScript that provides support
@@ -373,8 +373,8 @@ Descript     : Underscore.js is a utility-belt library for JavaScript that provi
 <summary>json-c</summary>
 
 ```
-From repo     : anaconda
-Short desc    : JSON implementation in C
+From repo    : anaconda
+Short desc   : JSON implementation in C
 URL          : https://github.com/json-c/json-c
 License      : MIT
 Descript     : JSON-C implements a reference counting object model that allows you
@@ -389,8 +389,8 @@ Descript     : JSON-C implements a reference counting object model that allows y
 <summary>json-glib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for JavaScript Object Notation format
+From repo    : anaconda
+Short desc   : Library for JavaScript Object Notation format
 URL          : https://wiki.gnome.org/Projects/JsonGlib
 License      : LGPLv2+
 Descript     : json-glib is a library providing serialization and deserialization support
@@ -403,8 +403,8 @@ Descript     : json-glib is a library providing serialization and deserializatio
 <summary>json-glib-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for json-glib
+From repo    : fedora
+Short desc   : Development files for json-glib
 URL          : https://wiki.gnome.org/Projects/JsonGlib
 License      : LGPLv2+
 Descript     : The json-glib-devel package contains libraries and header files for
@@ -417,8 +417,8 @@ Descript     : The json-glib-devel package contains libraries and header files f
 <summary>jsoncpp</summary>
 
 ```
-From repo     : fedora
-Short desc    : JSON library implemented in C++
+From repo    : fedora
+Short desc   : JSON library implemented in C++
 URL          : https://github.com/open-source-parsers/jsoncpp
 License      : Public Domain or MIT
 Descript     : jsoncpp is an implementation of a JSON (http://json.org) reader and writer in
@@ -433,8 +433,8 @@ Descript     : jsoncpp is an implementation of a JSON (http://json.org) reader a
 <summary>jsonrpc-glib</summary>
 
 ```
-From repo     : fedora
-Short desc    : A JSON-RPC library for GLib
+From repo    : fedora
+Short desc   : A JSON-RPC library for GLib
 URL          : https://git.gnome.org/browse/jsonrpc-glib/
 License      : LGPLv2+
 Descript     : Jsonrpc-GLib is a JSON-RPC library for GLib. It includes support for
@@ -449,8 +449,8 @@ Descript     : Jsonrpc-GLib is a JSON-RPC library for GLib. It includes support 
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Web fonts version of the Montserrat area inspired typeface
+From repo    : updates-testing
+Short desc   : Web fonts version of the Montserrat area inspired typeface
 URL          : https://github.com/JulietaUla/Montserrat
 License      : OFL
 Descript     : 
@@ -466,8 +466,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Sans-serif typeface inspired from Montserrat area
+From repo    : updates-testing
+Short desc   : Sans-serif typeface inspired from Montserrat area
 URL          : https://github.com/JulietaUla/Montserrat
 License      : OFL
 Descript     : 
@@ -482,8 +482,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Common files for julietaula-montserrat-fonts
+From repo    : updates-testing
+Short desc   : Common files for julietaula-montserrat-fonts
 URL          : https://github.com/JulietaUla/Montserrat
 License      : OFL
 Descript     : 
@@ -498,8 +498,8 @@ Descript     :
 <summary>jwhois</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Internet whois/nicname client
+From repo    : anaconda
+Short desc   : Internet whois/nicname client
 URL          : http://www.gnu.org/software/jwhois/
 License      : GPLv3
 Descript     : A whois client that accepts both traditional and finger-style queries.
@@ -511,8 +511,8 @@ Descript     : A whois client that accepts both traditional and finger-style que
 <summary>jxrlib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Open source implementation of jpegxr
+From repo    : fedora
+Short desc   : Open source implementation of jpegxr
 URL          : https://jxrlib.codeplex.com/
 License      : BSD
 Descript     : This is an open source implementation of the jpegxr image format standard.

@@ -1,6 +1,9 @@
 # List of installed packages in the system and their description
 
 
+[For first letter 0:](https://github.com/sensor-dream/APIVOF/blob/main/guidelines/list-info/0-packs-in-system-fedora-34.md)
+
+
 [For first letter 2:](https://github.com/sensor-dream/APIVOF/blob/main/guidelines/list-info/2-packs-in-system-fedora-34.md)
 
 

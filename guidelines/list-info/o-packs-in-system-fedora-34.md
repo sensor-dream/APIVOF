@@ -4,8 +4,8 @@
 <summary>objectweb-asm</summary>
 
 ```
-From repo     : fedora
-Short desc    : Java bytecode manipulation and analysis framework
+From repo    : fedora
+Short desc   : Java bytecode manipulation and analysis framework
 URL          : http://asm.ow2.org/
 License      : BSD
 Descript     : ASM is an all purpose Java bytecode manipulation and analysis
@@ -21,8 +21,8 @@ Descript     : ASM is an all purpose Java bytecode manipulation and analysis
 <summary>objenesis</summary>
 
 ```
-From repo     : fedora
-Short desc    : A library for instantiating Java objects
+From repo    : fedora
+Short desc   : A library for instantiating Java objects
 URL          : http://objenesis.org/
 License      : ASL 2.0
 Descript     : Objenesis is a small Java library that serves one purpose: to instantiate
@@ -51,8 +51,8 @@ Descript     : Objenesis is a small Java library that serves one purpose: to ins
 <summary>ocaml-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : OCaml architecture macros
+From repo    : fedora
+Short desc   : OCaml architecture macros
 License      : GPLv2+
 Descript     : This package contains macros needed by RPM in order to build
              : SRPMS.  It does not pull in any other OCaml dependencies.
@@ -64,8 +64,8 @@ Descript     : This package contains macros needed by RPM in order to build
 <summary>ocl-icd</summary>
 
 ```
-From repo     : fedora
-Short desc    : OpenCL Library (Installable Client Library) Bindings
+From repo    : fedora
+Short desc   : OpenCL Library (Installable Client Library) Bindings
 URL          : https://github.com/OCL-dev/ocl-icd/
 License      : BSD
 Descript     : OpenCL Library (Installable Client Library) Bindings.
@@ -77,8 +77,8 @@ Descript     : OpenCL Library (Installable Client Library) Bindings.
 <summary>oddjob</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A D-Bus service which runs odd jobs on behalf of client applications
+From repo    : anaconda
+Short desc   : A D-Bus service which runs odd jobs on behalf of client applications
 URL          : https://pagure.io/oddjob
 License      : BSD
 Descript     : oddjob is a D-Bus service which performs particular tasks for clients which
@@ -91,8 +91,8 @@ Descript     : oddjob is a D-Bus service which performs particular tasks for cli
 <summary>oddjob-mkhomedir</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An oddjob helper which creates and populates home directories
+From repo    : anaconda
+Short desc   : An oddjob helper which creates and populates home directories
 URL          : https://pagure.io/oddjob
 License      : BSD
 Descript     : This package contains the oddjob helper which can be used by the
@@ -106,8 +106,8 @@ Descript     : This package contains the oddjob helper which can be used by the
 <summary>ogdi</summary>
 
 ```
-From repo     : fedora
-Short desc    : Open Geographic Datastore Interface
+From repo    : fedora
+Short desc   : Open Geographic Datastore Interface
 URL          : http://ogdi.sourceforge.net/
 License      : BSD
 Descript     : OGDI is the Open Geographic Datastore Interface. OGDI is an
@@ -127,8 +127,8 @@ Descript     : OGDI is the Open Geographic Datastore Interface. OGDI is an
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Binary/hex editor
+From repo    : fedora
+Short desc   : Binary/hex editor
 URL          : https://cgit.kde.org/okteta.git
 License      : GPLv2+ and GFDL
 Descript     : Okteta is a binary/hex editor for KDE
@@ -141,8 +141,8 @@ Descript     : Okteta is a binary/hex editor for KDE
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Runtime libraries and kpart plugins for okteta
+From repo    : fedora
+Short desc   : Runtime libraries and kpart plugins for okteta
 URL          : https://cgit.kde.org/okteta.git
 License      : GPLv2+ and GFDL
 Descript     : Runtime libraries and kpart plugins for okteta.
@@ -154,8 +154,8 @@ Descript     : Runtime libraries and kpart plugins for okteta.
 <summary>oniguruma</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Regular expressions library
+From repo    : anaconda
+Short desc   : Regular expressions library
 URL          : https://github.com/kkos/oniguruma/
 License      : BSD
 Descript     : Oniguruma is a regular expressions library.
@@ -170,8 +170,8 @@ Descript     : Oniguruma is a regular expressions library.
 <summary>open-sans-fonts</summary>
 
 ```
-From repo     : fedora
-Short desc    : Open Sans is a humanist sans-serif typeface designed by Steve Matteson
+From repo    : fedora
+Short desc   : Open Sans is a humanist sans-serif typeface designed by Steve Matteson
 URL          : http://www.google.com/fonts/specimen/Open+Sans
 License      : ASL 2.0
 Descript     : Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type
@@ -188,8 +188,8 @@ Descript     : Open Sans is a humanist sans serif typeface designed by Steve Mat
 <summary>open-vm-tools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Open Virtual Machine Tools for virtual machines hosted on VMware
+From repo    : anaconda
+Short desc   : Open Virtual Machine Tools for virtual machines hosted on VMware
 URL          : https://github.com/vmware/open-vm-tools
 License      : GPLv2
 Descript     : The open-vm-tools project is an open source implementation of VMware Tools. It
@@ -205,8 +205,8 @@ Descript     : The open-vm-tools project is an open source implementation of VMw
 <summary>open-vm-tools</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Open Virtual Machine Tools for virtual machines hosted on VMware
+From repo    : updates-testing
+Short desc   : Open Virtual Machine Tools for virtual machines hosted on VMware
 URL          : https://github.com/vmware/open-vm-tools
 License      : GPLv2
 Descript     : The open-vm-tools project is an open source implementation of VMware Tools. It
@@ -222,8 +222,8 @@ Descript     : The open-vm-tools project is an open source implementation of VMw
 <summary>open-vm-tools-desktop</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : User experience components for Open Virtual Machine Tools
+From repo    : updates-testing
+Short desc   : User experience components for Open Virtual Machine Tools
 URL          : https://github.com/vmware/open-vm-tools
 License      : GPLv2
 Descript     : This package contains only the user-space programs and libraries of
@@ -237,8 +237,8 @@ Descript     : This package contains only the user-space programs and libraries 
 <summary>openal-soft</summary>
 
 ```
-From repo     : fedora
-Short desc    : Open Audio Library
+From repo    : fedora
+Short desc   : Open Audio Library
 URL          : http://openal-soft.org/
 License      : LGPLv2+
 Descript     : OpenAL Soft is a cross-platform software implementation of the OpenAL 3D
@@ -258,8 +258,8 @@ Descript     : OpenAL Soft is a cross-platform software implementation of the Op
 <summary>openal-soft-qt</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt frontend for configuring OpenAL Soft
+From repo    : fedora
+Short desc   : Qt frontend for configuring OpenAL Soft
 URL          : http://openal-soft.org/
 License      : LGPLv2+
 Descript     : The openal-soft-qt package contains alsoft-config, a Qt-based tool
@@ -272,8 +272,8 @@ Descript     : The openal-soft-qt package contains alsoft-config, a Qt-based too
 <summary>openblas</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An optimized BLAS library based on GotoBLAS2
+From repo    : anaconda
+Short desc   : An optimized BLAS library based on GotoBLAS2
 URL          : https://github.com/xianyi/OpenBLAS/
 License      : BSD
 Descript     : 
@@ -288,8 +288,8 @@ Descript     :
 <summary>openblas-openmp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An optimized BLAS library based on GotoBLAS2, OpenMP version
+From repo    : anaconda
+Short desc   : An optimized BLAS library based on GotoBLAS2, OpenMP version
 URL          : https://github.com/xianyi/OpenBLAS/
 License      : BSD
 Descript     : 
@@ -307,8 +307,8 @@ Descript     :
 <summary>openblas-openmp64</summary>
 
 ```
-From repo     : fedora
-Short desc    : An optimized BLAS library based on GotoBLAS2, OpenMP version
+From repo    : fedora
+Short desc   : An optimized BLAS library based on GotoBLAS2, OpenMP version
 URL          : https://github.com/xianyi/OpenBLAS/
 License      : BSD
 Descript     : 
@@ -326,8 +326,8 @@ Descript     :
 <summary>openblas-serial</summary>
 
 ```
-From repo     : fedora
-Short desc    : An optimized BLAS library based on GotoBLAS2, serial version
+From repo    : fedora
+Short desc   : An optimized BLAS library based on GotoBLAS2, serial version
 URL          : https://github.com/xianyi/OpenBLAS/
 License      : BSD
 Descript     : 
@@ -345,8 +345,8 @@ Descript     :
 <summary>openblas-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : OpenBLAS architecture macros
+From repo    : fedora
+Short desc   : OpenBLAS architecture macros
 License      : MIT
 Descript     : OpenBLAS architecture macros.
 ```
@@ -357,8 +357,8 @@ Descript     : OpenBLAS architecture macros.
 <summary>opencl-filesystem</summary>
 
 ```
-From repo     : fedora
-Short desc    : OpenCL filesystem layout
+From repo    : fedora
+Short desc   : OpenCL filesystem layout
 URL          : http://www.khronos.org/registry/cl/
 License      : Public Domain
 Descript     : This package provides some directories required by packages which use OpenCL.
@@ -370,8 +370,8 @@ Descript     : This package provides some directories required by packages which
 <summary>opencl-headers</summary>
 
 ```
-From repo     : fedora
-Short desc    : OpenCL (Open Computing Language) header files
+From repo    : fedora
+Short desc   : OpenCL (Open Computing Language) header files
 URL          : https://www.khronos.org/registry/cl/
 License      : MIT
 Descript     : OpenCL (Open Computing Language) header files.
@@ -383,8 +383,8 @@ Descript     : OpenCL (Open Computing Language) header files.
 <summary>opencl-utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Useful OpenCL tools and utilities
+From repo    : fedora
+Short desc   : Useful OpenCL tools and utilities
 URL          : http://code.google.com/p/opencl-utils
 License      : MIT
 Descript     : 
@@ -400,8 +400,8 @@ Descript     :
 <summary>openconnect</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Open client for Cisco AnyConnect VPN, Juniper Network Connect/Pulse, PAN GlobalProtect
+From repo    : anaconda
+Short desc   : Open client for Cisco AnyConnect VPN, Juniper Network Connect/Pulse, PAN GlobalProtect
 URL          : http://www.infradead.org/openconnect.html
 License      : LGPLv2+
 Descript     : This package provides a multiprotocol VPN client for Cisco AnyConnect,
@@ -415,8 +415,8 @@ Descript     : This package provides a multiprotocol VPN client for Cisco AnyCon
 <summary>opencore-amr</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : OpenCORE Adaptive Multi Rate Narrowband and Wideband speech lib
+From repo    : rpmfusion-free
+Short desc   : OpenCORE Adaptive Multi Rate Narrowband and Wideband speech lib
 URL          : http://sourceforge.net/projects/opencore-amr/
 License      : ASL 2.0
 Descript     : Library of OpenCORE Framework implementation of Adaptive Multi Rate Narrowband
@@ -429,8 +429,8 @@ Descript     : Library of OpenCORE Framework implementation of Adaptive Multi Ra
 <summary>opencryptoki-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : The run-time libraries for opencryptoki package
+From repo    : fedora
+Short desc   : The run-time libraries for opencryptoki package
 URL          : https://github.com/opencryptoki/opencryptoki
 License      : CPL
 Descript     : Opencryptoki implements the PKCS#11 specification v2.11 for a set of
@@ -449,8 +449,8 @@ Descript     : Opencryptoki implements the PKCS#11 specification v2.11 for a set
 <summary>opencv-contrib</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : OpenCV contributed functionality
+From repo    : updates-testing
+Short desc   : OpenCV contributed functionality
 URL          : https://opencv.org
 License      : BSD
 Descript     : This package is intended for development of so-called "extra" modules, contributed
@@ -466,8 +466,8 @@ Descript     : This package is intended for development of so-called "extra" mod
 <summary>opencv-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : OpenCV core libraries
+From repo    : updates-testing
+Short desc   : OpenCV core libraries
 URL          : https://opencv.org
 License      : BSD
 Descript     : This package contains the OpenCV C/C++ core libraries.
@@ -479,8 +479,8 @@ Descript     : This package contains the OpenCV C/C++ core libraries.
 <summary>openexr-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : OpenEXR Libraries
+From repo    : anaconda
+Short desc   : OpenEXR Libraries
 URL          : https://www.openexr.com/
 License      : BSD
 Descript     : OpenEXR is an open-source high-dynamic-range floating-point image file format
@@ -527,8 +527,8 @@ Descript     : OpenEXR is an open-source high-dynamic-range floating-point image
 <summary>openexr-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : OpenEXR Libraries
+From repo    : updates-testing
+Short desc   : OpenEXR Libraries
 URL          : https://www.openexr.com/
 License      : BSD
 Descript     : OpenEXR is an open-source high-dynamic-range floating-point image file format
@@ -575,8 +575,8 @@ Descript     : OpenEXR is an open-source high-dynamic-range floating-point image
 <summary>openh264</summary>
 
 ```
-From repo     : fedora-cisco-openh264
-Short desc    : H.264 codec library
+From repo    : fedora-cisco-openh264
+Short desc   : H.264 codec library
 URL          : http://www.openh264.org/
 License      : BSD
 Descript     : OpenH264 is a codec library which supports H.264 encoding and decoding. It is
@@ -589,8 +589,8 @@ Descript     : OpenH264 is a codec library which supports H.264 encoding and dec
 <summary>openjpeg2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C-Library for JPEG 2000
+From repo    : anaconda
+Short desc   : C-Library for JPEG 2000
 URL          : https://github.com/uclouvain/openjpeg
 License      : BSD and MIT
 Descript     : The OpenJPEG library is an open-source JPEG 2000 library developed in order to
@@ -609,8 +609,8 @@ Descript     : The OpenJPEG library is an open-source JPEG 2000 library develope
 <summary>openldap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : LDAP support libraries
+From repo    : updates-testing
+Short desc   : LDAP support libraries
 URL          : http://www.openldap.org/
 License      : OpenLDAP
 Descript     : OpenLDAP is an open source suite of LDAP (Lightweight Directory Access
@@ -628,8 +628,8 @@ Descript     : OpenLDAP is an open source suite of LDAP (Lightweight Directory A
 <summary>openpgm</summary>
 
 ```
-From repo     : fedora
-Short desc    : An implementation of the PGM reliable multicast protocol
+From repo    : fedora
+Short desc   : An implementation of the PGM reliable multicast protocol
 URL          : https://github.com/steve-o/openpgm
 License      : LGPLv2
 Descript     : OpenPGM is an open source implementation of the Pragmatic General
@@ -642,8 +642,8 @@ Descript     : OpenPGM is an open source implementation of the Pragmatic General
 <summary>opensc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Smart card library and applications
+From repo    : anaconda
+Short desc   : Smart card library and applications
 URL          : https://github.com/OpenSC/OpenSC/wiki
 License      : LGPLv2+
 Descript     : OpenSC provides a set of libraries and utilities to work with smart cards. Its
@@ -661,8 +661,8 @@ Descript     : OpenSC provides a set of libraries and utilities to work with sma
 <summary>openslide</summary>
 
 ```
-From repo     : fedora
-Short desc    : C library for reading virtual slides
+From repo    : fedora
+Short desc   : C library for reading virtual slides
 URL          : http://openslide.org/
 License      : LGPLv2
 Descript     : The OpenSlide library allows programs to access virtual slide files
@@ -675,8 +675,8 @@ Descript     : The OpenSlide library allows programs to access virtual slide fil
 <summary>openssh</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An open source implementation of SSH protocol version 2
+From repo    : anaconda
+Short desc   : An open source implementation of SSH protocol version 2
 URL          : http://www.openssh.com/portable.html
 License      : BSD
 Descript     : SSH (Secure SHell) is a program for logging into and executing
@@ -699,8 +699,8 @@ Descript     : SSH (Secure SHell) is a program for logging into and executing
 <summary>openssh</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An open source implementation of SSH protocol version 2
+From repo    : updates-testing
+Short desc   : An open source implementation of SSH protocol version 2
 URL          : http://www.openssh.com/portable.html
 License      : BSD
 Descript     : SSH (Secure SHell) is a program for logging into and executing
@@ -723,8 +723,8 @@ Descript     : SSH (Secure SHell) is a program for logging into and executing
 <summary>openssh-clients</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An open source SSH client applications
+From repo    : anaconda
+Short desc   : An open source SSH client applications
 URL          : http://www.openssh.com/portable.html
 License      : BSD
 Descript     : OpenSSH is a free version of SSH (Secure SHell), a program for logging
@@ -738,8 +738,8 @@ Descript     : OpenSSH is a free version of SSH (Secure SHell), a program for lo
 <summary>openssh-clients</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An open source SSH client applications
+From repo    : updates-testing
+Short desc   : An open source SSH client applications
 URL          : http://www.openssh.com/portable.html
 License      : BSD
 Descript     : OpenSSH is a free version of SSH (Secure SHell), a program for logging
@@ -753,8 +753,8 @@ Descript     : OpenSSH is a free version of SSH (Secure SHell), a program for lo
 <summary>openssh-server</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An open source SSH server daemon
+From repo    : updates-testing
+Short desc   : An open source SSH server daemon
 URL          : http://www.openssh.com/portable.html
 License      : BSD
 Descript     : OpenSSH is a free version of SSH (Secure SHell), a program for logging
@@ -770,8 +770,8 @@ Descript     : OpenSSH is a free version of SSH (Secure SHell), a program for lo
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Utilities from the general purpose cryptography library with TLS implementation
+From repo    : updates-testing
+Short desc   : Utilities from the general purpose cryptography library with TLS implementation
 URL          : http://www.openssl.org/
 License      : OpenSSL and ASL 2.0
 Descript     : The OpenSSL toolkit provides support for secure communications between
@@ -787,8 +787,8 @@ Descript     : The OpenSSL toolkit provides support for secure communications be
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Files for development of applications which will use OpenSSL
+From repo    : updates-testing
+Short desc   : Files for development of applications which will use OpenSSL
 URL          : http://www.openssl.org/
 License      : OpenSSL and ASL 2.0
 Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-devel
@@ -802,8 +802,8 @@ Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-dev
 <summary>openssl-gost-engine</summary>
 
 ```
-From repo     : fedora
-Short desc    : A reference implementation of the Russian GOST crypto algorithms for OpenSSL
+From repo    : fedora
+Short desc   : A reference implementation of the Russian GOST crypto algorithms for OpenSSL
 URL          : https://github.com/gost-engine/engine
 License      : OpenSSL
 Descript     : A reference implementation of the Russian GOST crypto algorithms for OpenSSL.
@@ -815,8 +815,8 @@ Descript     : A reference implementation of the Russian GOST crypto algorithms 
 <summary>openssl-ibmpkcs11</summary>
 
 ```
-From repo     : fedora
-Short desc    : IBM OpenSSL PKCS#11 engine
+From repo    : fedora
+Short desc   : IBM OpenSSL PKCS#11 engine
 URL          : https://github.com/opencryptoki/openssl-ibmpkcs11
 License      : OpenSSL
 Descript     : This package contains a shared object OpenSSL dynamic engine for the use
@@ -830,8 +830,8 @@ Descript     : This package contains a shared object OpenSSL dynamic engine for 
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : A general purpose cryptography library with TLS implementation
+From repo    : anaconda
+Short desc   : A general purpose cryptography library with TLS implementation
 URL          : http://www.openssl.org/
 License      : OpenSSL and ASL 2.0
 Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-libs
@@ -846,8 +846,8 @@ Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-lib
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : A general purpose cryptography library with TLS implementation
+From repo    : updates-testing
+Short desc   : A general purpose cryptography library with TLS implementation
 URL          : http://www.openssl.org/
 License      : OpenSSL and ASL 2.0
 Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-libs
@@ -862,8 +862,8 @@ Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-lib
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Perl scripts provided with OpenSSL
+From repo    : fedora
+Short desc   : Perl scripts provided with OpenSSL
 URL          : http://www.openssl.org/
 License      : OpenSSL and ASL 2.0
 Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-perl
@@ -877,8 +877,8 @@ Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-per
 <summary>openssl-pkcs11</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A PKCS#11 engine for use with OpenSSL
+From repo    : anaconda
+Short desc   : A PKCS#11 engine for use with OpenSSL
 URL          : https://github.com/OpenSC/libp11
 License      : LGPLv2+ and BSD
 Descript     : openssl-pkcs11 enables hardware security module (HSM), and smart card support in
@@ -895,8 +895,8 @@ Descript     : openssl-pkcs11 enables hardware security module (HSM), and smart 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Libraries for static linking of applications which will use OpenSSL
+From repo    : fedora
+Short desc   : Libraries for static linking of applications which will use OpenSSL
 URL          : http://www.openssl.org/
 License      : OpenSSL and ASL 2.0
 Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-static
@@ -911,8 +911,8 @@ Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-sta
 <summary>opentest4j</summary>
 
 ```
-From repo     : fedora
-Short desc    : Open Test Alliance for the JVM
+From repo    : fedora
+Short desc   : Open Test Alliance for the JVM
 URL          : https://github.com/ota4j-team/opentest4j
 License      : ASL 2.0
 Descript     : Open Test Alliance for the JVM is a minimal common foundation for
@@ -931,8 +931,8 @@ Descript     : Open Test Alliance for the JVM is a minimal common foundation for
 <summary>openvpn</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A full-featured TLS VPN solution
+From repo    : anaconda
+Short desc   : A full-featured TLS VPN solution
 URL          : https://community.openvpn.net/
 License      : GPLv2
 Descript     : OpenVPN is a robust and highly flexible tunneling application that uses all
@@ -948,8 +948,8 @@ Descript     : OpenVPN is a robust and highly flexible tunneling application tha
 <summary>openvpn</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A full-featured TLS VPN solution
+From repo    : updates-testing
+Short desc   : A full-featured TLS VPN solution
 URL          : https://community.openvpn.net/
 License      : GPLv2
 Descript     : OpenVPN is a robust and highly flexible tunneling application that uses all
@@ -965,8 +965,8 @@ Descript     : OpenVPN is a robust and highly flexible tunneling application tha
 <summary>opus</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An audio codec for use in low-delay speech and audio communication
+From repo    : anaconda
+Short desc   : An audio codec for use in low-delay speech and audio communication
 URL          : https://www.opus-codec.org/
 License      : BSD
 Descript     : The Opus codec is designed for interactive speech and audio transmission over
@@ -980,8 +980,8 @@ Descript     : The Opus codec is designed for interactive speech and audio trans
 <summary>orc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Oil Run-time Compiler
+From repo    : anaconda
+Short desc   : The Oil Run-time Compiler
 URL          : http://cgit.freedesktop.org/gstreamer/orc/
 License      : BSD
 Descript     : Orc is a library and set of tools for compiling and executing
@@ -997,8 +997,8 @@ Descript     : Orc is a library and set of tools for compiling and executing
 <summary>orca</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Assistive technology for people with visual impairments
+From repo    : updates-testing
+Short desc   : Assistive technology for people with visual impairments
 URL          : https://wiki.gnome.org/Projects/Orca
 License      : LGPLv2+
 Descript     : Orca is a screen reader that provides access to the graphical desktop via
@@ -1013,8 +1013,8 @@ Descript     : Orca is a screen reader that provides access to the graphical des
 <summary>os-prober</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Probes disks on the system for installed operating systems
+From repo    : anaconda
+Short desc   : Probes disks on the system for installed operating systems
 URL          : http://kitenet.net/~joey/code/os-prober/
 License      : GPLv2+ and GPL+
 Descript     : This package detects other OSes available on a system and outputs the results
@@ -1028,8 +1028,8 @@ Descript     : This package detects other OSes available on a system and outputs
 <summary>osinfo-db</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : osinfo database files
+From repo    : updates-testing
+Short desc   : osinfo database files
 URL          : http://libosinfo.org/
 License      : LGPLv2+
 Descript     : The osinfo database provides information about operating systems and
@@ -1043,8 +1043,8 @@ Descript     : The osinfo database provides information about operating systems 
 <summary>osinfo-db-tools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tools for managing the osinfo database
+From repo    : anaconda
+Short desc   : Tools for managing the osinfo database
 URL          : http://libosinfo.org/
 License      : GPLv2+
 Descript     : This package provides tools for managing the osinfo database of
@@ -1057,8 +1057,8 @@ Descript     : This package provides tools for managing the osinfo database of
 <summary>ostree</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tool for managing bootable, immutable filesystem trees
+From repo    : anaconda
+Short desc   : Tool for managing bootable, immutable filesystem trees
 URL          : https://ostree.readthedocs.io/en/latest/
 License      : LGPLv2+
 Descript     : libostree is a shared library designed primarily for
@@ -1072,8 +1072,8 @@ Descript     : libostree is a shared library designed primarily for
 <summary>ostree</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tool for managing bootable, immutable filesystem trees
+From repo    : updates-testing
+Short desc   : Tool for managing bootable, immutable filesystem trees
 URL          : https://ostree.readthedocs.io/en/latest/
 License      : LGPLv2+
 Descript     : libostree is a shared library designed primarily for
@@ -1087,8 +1087,8 @@ Descript     : libostree is a shared library designed primarily for
 <summary>ostree-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development headers for ostree
+From repo    : fedora
+Short desc   : Development headers for ostree
 URL          : https://ostree.readthedocs.io/en/latest/
 License      : LGPLv2+
 Descript     : The ostree-devel package includes the header files for the ostree library.
@@ -1100,8 +1100,8 @@ Descript     : The ostree-devel package includes the header files for the ostree
 <summary>ostree-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Development headers for ostree
+From repo    : anaconda
+Short desc   : Development headers for ostree
 URL          : https://ostree.readthedocs.io/en/latest/
 License      : LGPLv2+
 Descript     : The ostree-libs provides shared libraries for ostree.
@@ -1113,8 +1113,8 @@ Descript     : The ostree-libs provides shared libraries for ostree.
 <summary>ostree-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development headers for ostree
+From repo    : updates-testing
+Short desc   : Development headers for ostree
 URL          : https://ostree.readthedocs.io/en/latest/
 License      : LGPLv2+
 Descript     : The ostree-libs provides shared libraries for ostree.

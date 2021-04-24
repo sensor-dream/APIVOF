@@ -4,8 +4,8 @@
 <summary>ORBit2</summary>
 
 ```
-From repo     : fedora
-Short desc    : A high-performance CORBA Object Request Broker
+From repo    : fedora
+Short desc   : A high-performance CORBA Object Request Broker
 URL          : http://www.gnome.org/projects/ORBit2
 License      : LGPLv2+ and GPLv2+
 Descript     : ORBit is a high-performance CORBA (Common Object Request Broker

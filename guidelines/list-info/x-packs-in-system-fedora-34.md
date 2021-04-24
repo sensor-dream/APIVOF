@@ -4,8 +4,8 @@
 <summary>x264-libs</summary>
 
 ```
-From repo     : rpmfusion-free-updates-testing
-Short desc    : Library for encoding H264/AVC video streams
+From repo    : rpmfusion-free-updates-testing
+Short desc   : Library for encoding H264/AVC video streams
 URL          : https://www.videolan.org/developers/x264.html
 License      : GPLv2+
 Descript     : x264 is a free library for encoding H264/AVC video streams, written from
@@ -18,8 +18,8 @@ Descript     : x264 is a free library for encoding H264/AVC video streams, writt
 <summary>x265-libs</summary>
 
 ```
-From repo     : rpmfusion-free-updates-testing
-Short desc    : H.265/HEVC encoder library
+From repo    : rpmfusion-free-updates-testing
+Short desc   : H.265/HEVC encoder library
 URL          : http://x265.org/
 License      : GPLv2+ and BSD
 Descript     : The primary objective of x265 is to become the best H.265/HEVC encoder
@@ -35,8 +35,8 @@ Descript     : The primary objective of x265 is to become the best H.265/HEVC en
 <summary>xapian-bindings</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Bindings for the Xapian Probabilistic Information Retrieval Library
+From repo    : updates-testing
+Short desc   : Bindings for the Xapian Probabilistic Information Retrieval Library
 URL          : https://www.xapian.org/
 License      : GPLv2+
 Descript     : Xapian is an Open Source Probabilistic Information Retrieval Library. It
@@ -51,8 +51,8 @@ Descript     : Xapian is an Open Source Probabilistic Information Retrieval Libr
 <summary>xapian-core-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Xapian search engine libraries
+From repo    : updates-testing
+Short desc   : Xapian search engine libraries
 URL          : https://www.xapian.org/
 License      : GPLv2+
 Descript     : Xapian is an Open Source Probabilistic Information Retrieval framework. It
@@ -67,8 +67,8 @@ Descript     : Xapian is an Open Source Probabilistic Information Retrieval fram
 <summary>xbacklight</summary>
 
 ```
-From repo     : fedora
-Short desc    : Adjust backlight brightness using RandR
+From repo    : fedora
+Short desc   : Adjust backlight brightness using RandR
 URL          : https://xorg.freedesktop.org/releases/individual/app/
 License      : MIT
 Descript     : Xbacklight is used to adjust the backlight brightness where
@@ -82,8 +82,8 @@ Descript     : Xbacklight is used to adjust the backlight brightness where
 <summary>xcb-util</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Convenience libraries sitting on top of libxcb
+From repo    : anaconda
+Short desc   : Convenience libraries sitting on top of libxcb
 URL          : http://xcb.freedesktop.org
 License      : MIT
 Descript     : The xcb-util module provides a number of libraries which sit on top of
@@ -100,8 +100,8 @@ Descript     : The xcb-util module provides a number of libraries which sit on t
 <summary>xcb-util-cursor</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cursor library on top of libxcb
+From repo    : fedora
+Short desc   : Cursor library on top of libxcb
 URL          : http://xcb.freedesktop.org
 License      : MIT
 Descript     : XCB util-cursor module provides the following libraries:
@@ -115,8 +115,8 @@ Descript     : XCB util-cursor module provides the following libraries:
 <summary>xcb-util-image</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Port of Xlib's XImage and XShmImage functions on top of libxcb
+From repo    : anaconda
+Short desc   : Port of Xlib's XImage and XShmImage functions on top of libxcb
 URL          : http://xcb.freedesktop.org
 License      : MIT
 Descript     : XCB util-image module provides the following library:
@@ -130,8 +130,8 @@ Descript     : XCB util-image module provides the following library:
 <summary>xcb-util-keysyms</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Standard X key constants and keycodes conversion on top of libxcb
+From repo    : anaconda
+Short desc   : Standard X key constants and keycodes conversion on top of libxcb
 URL          : http://xcb.freedesktop.org
 License      : MIT
 Descript     : XCB util-keysyms module provides the following library:
@@ -145,8 +145,8 @@ Descript     : XCB util-keysyms module provides the following library:
 <summary>xcb-util-renderutil</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Convenience functions for the Render extension
+From repo    : anaconda
+Short desc   : Convenience functions for the Render extension
 URL          : http://xcb.freedesktop.org
 License      : MIT
 Descript     : XCB util-renderutil module provides the following library:
@@ -160,8 +160,8 @@ Descript     : XCB util-renderutil module provides the following library:
 <summary>xcb-util-wm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Client and window-manager helper library on top of libxcb
+From repo    : anaconda
+Short desc   : Client and window-manager helper library on top of libxcb
 URL          : http://xcb.freedesktop.org
 License      : MIT
 Descript     : XCB util-wm module provides the following libraries:
@@ -176,8 +176,8 @@ Descript     : XCB util-wm module provides the following libraries:
 <summary>xcb-util-xrm</summary>
 
 ```
-From repo     : fedora
-Short desc    : XCB utility functions for the X resource manager
+From repo    : fedora
+Short desc   : XCB utility functions for the X resource manager
 URL          : https://github.com/Airblader/xcb-util-xrm
 License      : MIT
 Descript     : XCB utility functions for the X resource manager.
@@ -189,8 +189,8 @@ Descript     : XCB utility functions for the X resource manager.
 <summary>xcf-pixbuf-loader</summary>
 
 ```
-From repo     : fedora
-Short desc    : XCF (GIMP) image loader for GTK+ applications
+From repo    : fedora
+Short desc   : XCF (GIMP) image loader for GTK+ applications
 URL          : http://gitorious.org/xcf-pixbuf-loader/mainline.git
 License      : LGPLv2+
 Descript     : xcf-pixbuf-loader contains a plugin to load XCF images, as created by
@@ -203,8 +203,8 @@ Descript     : xcf-pixbuf-loader contains a plugin to load XCF images, as create
 <summary>xclip</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command line clipboard grabber
+From repo    : fedora
+Short desc   : Command line clipboard grabber
 URL          : http://sourceforge.net/projects/xclip
 License      : GPLv2+
 Descript     : xclip is a command line utility that is designed to run on any system with an
@@ -221,8 +221,8 @@ Descript     : xclip is a command line utility that is designed to run on any sy
 <summary>xdg-dbus-proxy</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Filtering proxy for D-Bus connections
+From repo    : anaconda
+Short desc   : Filtering proxy for D-Bus connections
 URL          : https://github.com/flatpak/xdg-dbus-proxy/
 License      : LGPLv2+
 Descript     : xdg-dbus-proxy is a filtering proxy for D-Bus connections. It was originally
@@ -236,8 +236,8 @@ Descript     : xdg-dbus-proxy is a filtering proxy for D-Bus connections. It was
 <summary>xdg-desktop-portal</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Portal frontend service to flatpak
+From repo    : updates-testing
+Short desc   : Portal frontend service to flatpak
 URL          : https://github.com/flatpak/xdg-desktop-portal/
 License      : LGPLv2+
 Descript     : xdg-desktop-portal works by exposing a series of D-Bus interfaces known as
@@ -252,8 +252,8 @@ Descript     : xdg-desktop-portal works by exposing a series of D-Bus interfaces
 <summary>xdg-desktop-portal-gtk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Backend implementation for xdg-desktop-portal using GTK+
+From repo    : anaconda
+Short desc   : Backend implementation for xdg-desktop-portal using GTK+
 URL          : https://github.com/flatpak/xdg-desktop-portal-gtk
 License      : LGPLv2+
 Descript     : A backend implementation for xdg-desktop-portal that is using GTK+ and various
@@ -267,8 +267,8 @@ Descript     : A backend implementation for xdg-desktop-portal that is using GTK
 <summary>xdg-desktop-portal-wlr</summary>
 
 ```
-From repo     : fedora
-Short desc    : xdg-desktop-portal backend for wlroots
+From repo    : fedora
+Short desc   : xdg-desktop-portal backend for wlroots
 URL          : https://github.com/emersion/xdg-desktop-portal-wlr
 License      : MIT
 Descript     : xdg-desktop-portal backend for wlroots.
@@ -282,8 +282,8 @@ Descript     : xdg-desktop-portal backend for wlroots.
 <summary>xdg-user-dirs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Handles user special directories
+From repo    : anaconda
+Short desc   : Handles user special directories
 URL          : http://freedesktop.org/wiki/Software/xdg-user-dirs
 License      : GPLv2+ and MIT
 Descript     : Contains xdg-user-dirs-update that updates folders in a users
@@ -296,8 +296,8 @@ Descript     : Contains xdg-user-dirs-update that updates folders in a users
 <summary>xdg-user-dirs-gtk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Gnome integration of special directories
+From repo    : anaconda
+Short desc   : Gnome integration of special directories
 URL          : http://freedesktop.org/wiki/Software/xdg-user-dirs
 License      : GPL+
 Descript     : Contains some integration of xdg-user-dirs with the gnome
@@ -311,8 +311,8 @@ Descript     : Contains some integration of xdg-user-dirs with the gnome
 <summary>xdg-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Basic desktop integration functions
+From repo    : anaconda
+Short desc   : Basic desktop integration functions
 URL          : http://portland.freedesktop.org/
 License      : MIT
 Descript     : The xdg-utils package is a set of simple scripts that provide basic
@@ -343,8 +343,8 @@ Descript     : The xdg-utils package is a set of simple scripts that provide bas
 <summary>xemacs-filesystem</summary>
 
 ```
-From repo     : fedora
-Short desc    : XEmacs filesystem layout
+From repo    : fedora
+Short desc   : XEmacs filesystem layout
 URL          : http://www.xemacs.org/
 License      : GPLv3+
 Descript     : XEmacs is a highly customizable open source text editor and
@@ -363,8 +363,8 @@ Descript     : XEmacs is a highly customizable open source text editor and
 <summary>xen-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for Xen tools
+From repo    : updates-testing
+Short desc   : Libraries for Xen tools
 URL          : http://xen.org/
 License      : GPLv2+ and LGPLv2+ and BSD
 Descript     : This package contains the libraries needed to run applications
@@ -377,8 +377,8 @@ Descript     : This package contains the libraries needed to run applications
 <summary>xen-licenses</summary>
 
 ```
-From repo     : anaconda
-Short desc    : License files from Xen source
+From repo    : anaconda
+Short desc   : License files from Xen source
 URL          : http://xen.org/
 License      : GPLv2+ and LGPLv2+ and BSD
 Descript     : This package contains the license files from the source used
@@ -391,8 +391,8 @@ Descript     : This package contains the license files from the source used
 <summary>xen-licenses</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : License files from Xen source
+From repo    : updates-testing
+Short desc   : License files from Xen source
 URL          : http://xen.org/
 License      : GPLv2+ and LGPLv2+ and BSD
 Descript     : This package contains the license files from the source used
@@ -405,8 +405,8 @@ Descript     : This package contains the license files from the source used
 <summary>xerces-c</summary>
 
 ```
-From repo     : fedora
-Short desc    : Validating XML Parser
+From repo    : fedora
+Short desc   : Validating XML Parser
 URL          : http://xml.apache.org/xerces-c/
 License      : ASL 2.0
 Descript     : Xerces-C is a validating XML parser written in a portable
@@ -426,8 +426,8 @@ Descript     : Xerces-C is a validating XML parser written in a portable
 <summary>xfsprogs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities for managing the XFS filesystem
+From repo    : anaconda
+Short desc   : Utilities for managing the XFS filesystem
 URL          : https://xfs.wiki.kernel.org
 License      : GPL+ and LGPLv2+
 Descript     : A set of commands to use the XFS filesystem, including mkfs.xfs.
@@ -449,8 +449,8 @@ Descript     : A set of commands to use the XFS filesystem, including mkfs.xfs.
 <summary>xgamma</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : X utility to query and alter the gamma correction of a monitor
+From repo    : updates-testing
+Short desc   : X utility to query and alter the gamma correction of a monitor
 URL          : https://www.x.org
 License      : MIT
 Descript     : xgamma allows X users to query and alter the gamma correction of a
@@ -463,8 +463,8 @@ Descript     : xgamma allows X users to query and alter the gamma correction of 
 <summary>xhost</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Manage hosts or users allowed to connect to the X server
+From repo    : updates-testing
+Short desc   : Manage hosts or users allowed to connect to the X server
 URL          : https://www.x.org
 License      : MIT
 Descript     : xhost is used to manage the list of host names or user names
@@ -477,8 +477,8 @@ Descript     : xhost is used to manage the list of host names or user names
 <summary>xinput</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utility to query X Input devices
+From repo    : updates-testing
+Short desc   : Utility to query X Input devices
 URL          : https://www.x.org
 License      : MIT
 Descript     : xinput is a commandline utility to query and configure X11 X Input Extension
@@ -491,8 +491,8 @@ Descript     : xinput is a commandline utility to query and configure X11 X Inpu
 <summary>xkbcomp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : XKB keymap compiler
+From repo    : anaconda
+Short desc   : XKB keymap compiler
 URL          : https://www.x.org
 License      : MIT
 Descript     : X.Org XKB keymap compiler
@@ -504,8 +504,8 @@ Descript     : X.Org XKB keymap compiler
 <summary>xkeyboard-config</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : X Keyboard Extension configuration data
+From repo    : updates-testing
+Short desc   : X Keyboard Extension configuration data
 URL          : http://www.freedesktop.org/wiki/Software/XKeyboardConfig
 License      : MIT
 Descript     : This package contains configuration data used by the X Keyboard Extension (XKB),
@@ -518,8 +518,8 @@ Descript     : This package contains configuration data used by the X Keyboard E
 <summary>xkill</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utility to force-close an X client's connection
+From repo    : updates-testing
+Short desc   : Utility to force-close an X client's connection
 URL          : https://www.x.org
 License      : MIT
 Descript     : xkill is a utility for forcing the X server to close connections to
@@ -533,8 +533,8 @@ Descript     : xkill is a utility for forcing the X server to close connections 
 <summary>xml-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common XML catalog and DTD files
+From repo    : anaconda
+Short desc   : Common XML catalog and DTD files
 URL          : https://www.w3.org/2003/entities/
 License      : GPL+
 Descript     : The xml-common is a subpackage of sgml-common which contains
@@ -548,8 +548,8 @@ Descript     : The xml-common is a subpackage of sgml-common which contains
 <summary>xmlrpc-c</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Lightweight RPC library based on XML and HTTP
+From repo    : anaconda
+Short desc   : Lightweight RPC library based on XML and HTTP
 URL          : http://xmlrpc-c.sourceforge.net/
 License      : BSD and MIT
 Descript     : XML-RPC is a quick-and-easy way to make procedure calls over the
@@ -565,8 +565,8 @@ Descript     : XML-RPC is a quick-and-easy way to make procedure calls over the
 <summary>xmlrpc-c-client</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C client libraries for xmlrpc-c
+From repo    : anaconda
+Short desc   : C client libraries for xmlrpc-c
 URL          : http://xmlrpc-c.sourceforge.net/
 License      : BSD and MIT
 Descript     : XML-RPC is a quick-and-easy way to make procedure calls over the
@@ -583,8 +583,8 @@ Descript     : XML-RPC is a quick-and-easy way to make procedure calls over the
 <summary>xmlsec1</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing support for "XML Signature" and "XML Encryption" standards
+From repo    : anaconda
+Short desc   : Library providing support for "XML Signature" and "XML Encryption" standards
 URL          : http://www.aleksey.com/xmlsec/
 License      : MIT
 Descript     : XML Security Library is a C library based on LibXML2  and OpenSSL.
@@ -598,8 +598,8 @@ Descript     : XML Security Library is a C library based on LibXML2  and OpenSSL
 <summary>xmlsec1-nss</summary>
 
 ```
-From repo     : anaconda
-Short desc    : NSS crypto plugin for XML Security Library
+From repo    : anaconda
+Short desc   : NSS crypto plugin for XML Security Library
 URL          : http://www.aleksey.com/xmlsec/
 License      : MIT
 Descript     : NSS plugin for XML Security Library provides NSS based crypto services
@@ -612,8 +612,8 @@ Descript     : NSS plugin for XML Security Library provides NSS based crypto ser
 <summary>xmlsec1-openssl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : OpenSSL crypto plugin for XML Security Library
+From repo    : anaconda
+Short desc   : OpenSSL crypto plugin for XML Security Library
 URL          : http://www.aleksey.com/xmlsec/
 License      : MIT
 Descript     : OpenSSL plugin for XML Security Library provides OpenSSL based crypto services
@@ -626,8 +626,8 @@ Descript     : OpenSSL plugin for XML Security Library provides OpenSSL based cr
 <summary>xmodmap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Edit and display the X11 core keyboard map
+From repo    : updates-testing
+Short desc   : Edit and display the X11 core keyboard map
 URL          : https://www.x.org
 License      : MIT
 Descript     : The xmodmap program is used to edit and display the keyboard modifier
@@ -641,8 +641,8 @@ Descript     : The xmodmap program is used to edit and display the keyboard modi
 <summary>xorg-x11-drv-amdgpu</summary>
 
 ```
-From repo     : fedora
-Short desc    : AMD GPU video driver
+From repo    : fedora
+Short desc   : AMD GPU video driver
 URL          : https://www.x.org/wiki
 License      : MIT
 Descript     : X.Org X11 AMDGPU driver
@@ -654,8 +654,8 @@ Descript     : X.Org X11 AMDGPU driver
 <summary>xorg-x11-drv-ati</summary>
 
 ```
-From repo     : fedora
-Short desc    : Xorg X11 ati video driver
+From repo    : fedora
+Short desc   : Xorg X11 ati video driver
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 ati video driver.
@@ -667,8 +667,8 @@ Descript     : X.Org X11 ati video driver.
 <summary>xorg-x11-drv-evdev</summary>
 
 ```
-From repo     : fedora
-Short desc    : Xorg X11 evdev input driver
+From repo    : fedora
+Short desc   : Xorg X11 evdev input driver
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 evdev input driver.
@@ -680,8 +680,8 @@ Descript     : X.Org X11 evdev input driver.
 <summary>xorg-x11-drv-fbdev</summary>
 
 ```
-From repo     : fedora
-Short desc    : Xorg X11 fbdev video driver
+From repo    : fedora
+Short desc   : Xorg X11 fbdev video driver
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 fbdev video driver.
@@ -693,8 +693,8 @@ Descript     : X.Org X11 fbdev video driver.
 <summary>xorg-x11-drv-intel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Xorg X11 Intel video driver
+From repo    : fedora
+Short desc   : Xorg X11 Intel video driver
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 Intel video driver.
@@ -706,8 +706,8 @@ Descript     : X.Org X11 Intel video driver.
 <summary>xorg-x11-drv-libinput</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Xorg X11 libinput input driver
+From repo    : updates-testing
+Short desc   : Xorg X11 libinput input driver
 URL          : http://www.x.org
 License      : MIT
 Descript     : A generic input driver for the X.Org X11 X server based on libinput,
@@ -721,8 +721,8 @@ Descript     : A generic input driver for the X.Org X11 X server based on libinp
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Xorg X11 nouveau video driver for NVIDIA graphics chipsets
+From repo    : fedora
+Short desc   : Xorg X11 nouveau video driver for NVIDIA graphics chipsets
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 nouveau video driver.
@@ -734,8 +734,8 @@ Descript     : X.Org X11 nouveau video driver.
 <summary>xorg-x11-drv-openchrome</summary>
 
 ```
-From repo     : fedora
-Short desc    : Xorg X11 openchrome video driver
+From repo    : fedora
+Short desc   : Xorg X11 openchrome video driver
 URL          : http://www.freedesktop.org/wiki/Openchrome/
 License      : MIT
 Descript     : X.Org X11 openchrome video driver.
@@ -747,8 +747,8 @@ Descript     : X.Org X11 openchrome video driver.
 <summary>xorg-x11-drv-qxl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Xorg X11 qxl video driver
+From repo    : fedora
+Short desc   : Xorg X11 qxl video driver
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 qxl video driver.
@@ -760,8 +760,8 @@ Descript     : X.Org X11 qxl video driver.
 <summary>xorg-x11-drv-vesa</summary>
 
 ```
-From repo     : fedora
-Short desc    : Xorg X11 vesa video driver
+From repo    : fedora
+Short desc   : Xorg X11 vesa video driver
 URL          : https://www.x.org
 License      : MIT
 Descript     : X.Org X11 vesa video driver.
@@ -773,8 +773,8 @@ Descript     : X.Org X11 vesa video driver.
 <summary>xorg-x11-drv-vmware</summary>
 
 ```
-From repo     : fedora
-Short desc    : Xorg X11 vmware video driver
+From repo    : fedora
+Short desc   : Xorg X11 vmware video driver
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 vmware video driver.
@@ -786,8 +786,8 @@ Descript     : X.Org X11 vmware video driver.
 <summary>xorg-x11-drv-wacom</summary>
 
 ```
-From repo     : fedora
-Short desc    : Xorg X11 wacom input driver
+From repo    : fedora
+Short desc   : Xorg X11 wacom input driver
 URL          : http://www.x.org
 License      : GPLv2+
 Descript     : X.Org X11 wacom input driver for Wacom tablets.
@@ -799,8 +799,8 @@ Descript     : X.Org X11 wacom input driver for Wacom tablets.
 <summary>xorg-x11-drv-wacom-serial-support</summary>
 
 ```
-From repo     : fedora
-Short desc    : Files for enabling the wacom_w8001 kernel driver
+From repo    : fedora
+Short desc   : Files for enabling the wacom_w8001 kernel driver
 URL          : http://www.x.org
 License      : GPLv2+
 Descript     : Files for enabling the wacom_w8001 kernel driver on Wacom
@@ -814,8 +814,8 @@ Descript     : Files for enabling the wacom_w8001 kernel driver on Wacom
 <summary>xorg-x11-fonts-ISO8859-1-100dpi</summary>
 
 ```
-From repo     : fedora
-Short desc    : A set of 100dpi ISO-8859-1 fonts for X
+From repo    : fedora
+Short desc   : A set of 100dpi ISO-8859-1 fonts for X
 URL          : https://www.x.org
 License      : MIT and Lucida and Public Domain
 Descript     : Contains a set of 100dpi fonts for ISO-8859-1.
@@ -827,8 +827,8 @@ Descript     : Contains a set of 100dpi fonts for ISO-8859-1.
 <summary>xorg-x11-fonts-Type1</summary>
 
 ```
-From repo     : fedora
-Short desc    : Type1 fonts provided by the X Window System
+From repo    : fedora
+Short desc   : Type1 fonts provided by the X Window System
 URL          : https://www.x.org
 License      : MIT and Lucida and Public Domain
 Descript     : A collection of Type1 fonts which are part of the core X Window System
@@ -841,8 +841,8 @@ Descript     : A collection of Type1 fonts which are part of the core X Window S
 <summary>xorg-x11-fonts-misc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : misc bitmap fonts for the X Window System
+From repo    : updates-testing
+Short desc   : misc bitmap fonts for the X Window System
 URL          : https://www.x.org
 License      : MIT and Lucida and Public Domain
 Descript     : This package contains misc bitmap Chinese, Japanese, Korean, Indic, and Arabic
@@ -855,8 +855,8 @@ Descript     : This package contains misc bitmap Chinese, Japanese, Korean, Indi
 <summary>xorg-x11-proto-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 Protocol headers
+From repo    : fedora
+Short desc   : X.Org X11 Protocol headers
 URL          : https://www.x.org
 License      : MIT
 Descript     : X.Org X11 Protocol headers
@@ -868,8 +868,8 @@ Descript     : X.Org X11 Protocol headers
 <summary>xorg-x11-server-Xephyr</summary>
 
 ```
-From repo     : fedora
-Short desc    : A nested server
+From repo    : fedora
+Short desc   : A nested server
 URL          : http://www.x.org
 License      : MIT
 Descript     : Xephyr is an X server which has been implemented as an ordinary
@@ -888,8 +888,8 @@ Descript     : Xephyr is an X server which has been implemented as an ordinary
 <summary>xorg-x11-server-Xorg</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Xorg X server
+From repo    : updates-testing
+Short desc   : Xorg X server
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.org X11 is an open source implementation of the X Window System.  It
@@ -904,8 +904,8 @@ Descript     : X.org X11 is an open source implementation of the X Window System
 <summary>xorg-x11-server-Xwayland</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Xwayland
+From repo    : updates-testing
+Short desc   : Xwayland
 URL          : http://www.x.org
 License      : MIT
 Descript     : Xwayland is an X server for running X clients under Wayland.
@@ -917,8 +917,8 @@ Descript     : Xwayland is an X server for running X clients under Wayland.
 <summary>xorg-x11-server-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Xorg server common files
+From repo    : updates-testing
+Short desc   : Xorg server common files
 URL          : http://www.x.org
 License      : MIT
 Descript     : Common files shared among all X servers.
@@ -930,8 +930,8 @@ Descript     : Common files shared among all X servers.
 <summary>xorg-x11-utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 X client utilities
+From repo    : fedora
+Short desc   : X.Org X11 X client utilities
 URL          : http://www.x.org
 License      : MIT
 Descript     : A collection of client utilities which can be used to query the X server for
@@ -945,8 +945,8 @@ Descript     : A collection of client utilities which can be used to query the X
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : X.Org X11 X authority utilities
+From repo    : fedora
+Short desc   : X.Org X11 X authority utilities
 URL          : https://www.x.org
 License      : MIT
 Descript     : xauth is used to edit and display the authorization information
@@ -959,8 +959,8 @@ Descript     : xauth is used to edit and display the authorization information
 <summary>xorg-x11-xbitmaps</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 application bitmaps
+From repo    : fedora
+Short desc   : X.Org X11 application bitmaps
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 application bitmaps
@@ -972,8 +972,8 @@ Descript     : X.Org X11 application bitmaps
 <summary>xorg-x11-xinit</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 X Window System xinit startup scripts
+From repo    : fedora
+Short desc   : X.Org X11 X Window System xinit startup scripts
 URL          : https://www.x.org
 License      : MIT
 Descript     : X.Org X11 X Window System xinit startup scripts.
@@ -985,8 +985,8 @@ Descript     : X.Org X11 X Window System xinit startup scripts.
 <summary>xosd</summary>
 
 ```
-From repo     : fedora
-Short desc    : On-screen display library for X
+From repo    : fedora
+Short desc   : On-screen display library for X
 URL          : https://sourceforge.net/projects/libxosd/
 License      : GPLv2+
 Descript     : XOSD displays text on your screen, sounds simple right? The difference
@@ -1000,8 +1000,8 @@ Descript     : XOSD displays text on your screen, sounds simple right? The diffe
 <summary>xrandr</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Commandline utility to change output properties
+From repo    : updates-testing
+Short desc   : Commandline utility to change output properties
 URL          : https://www.x.org
 License      : MIT
 Descript     : xrandr is a commandline utility to set the size, orientation and/or
@@ -1015,8 +1015,8 @@ Descript     : xrandr is a commandline utility to set the size, orientation and/
 <summary>xrdb</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : X server resource database utility
+From repo    : updates-testing
+Short desc   : X server resource database utility
 URL          : https://www.x.org
 License      : MIT
 Descript     : xrdb is used to get or set the contents of the RESOURCE_MANAGER property on
@@ -1030,8 +1030,8 @@ Descript     : xrdb is used to get or set the contents of the RESOURCE_MANAGER p
 <summary>xrefresh</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Refresh all or part of an X screen
+From repo    : updates-testing
+Short desc   : Refresh all or part of an X screen
 URL          : https://www.x.org
 License      : MIT
 Descript     : xrefresh is a simple X program that causes all or part of your screen to be
@@ -1044,8 +1044,8 @@ Descript     : xrefresh is a simple X program that causes all or part of your sc
 <summary>xrestop</summary>
 
 ```
-From repo     : fedora
-Short desc    : X Resource Monitor
+From repo    : fedora
+Short desc   : X Resource Monitor
 URL          : http://www.freedesktop.org/Software/xrestop
 License      : GPLv2+
 Descript     : A utility to monitor application usage of X resources in the X Server, and
@@ -1059,8 +1059,8 @@ Descript     : A utility to monitor application usage of X resources in the X Se
 <summary>xsane</summary>
 
 ```
-From repo     : fedora
-Short desc    : X Window System front-end for the SANE scanner interface
+From repo    : fedora
+Short desc   : X Window System front-end for the SANE scanner interface
 URL          : http://www.xsane.org/
 License      : GPLv2+ and LGPLv2+
 Descript     : XSane is an X based interface for the SANE (Scanner Access Now Easy)
@@ -1075,8 +1075,8 @@ Descript     : XSane is an X based interface for the SANE (Scanner Access Now Ea
 <summary>xsane-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common files for xsane packages
+From repo    : fedora
+Short desc   : Common files for xsane packages
 URL          : http://www.xsane.org/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains common files needed by other xsane packages.
@@ -1088,8 +1088,8 @@ Descript     : This package contains common files needed by other xsane packages
 <summary>xsane-gimp</summary>
 
 ```
-From repo     : fedora
-Short desc    : GIMP plug-in providing the SANE scanner interface
+From repo    : fedora
+Short desc   : GIMP plug-in providing the SANE scanner interface
 URL          : http://www.xsane.org/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package provides the regular XSane frontend for the SANE scanner
@@ -1103,8 +1103,8 @@ Descript     : This package provides the regular XSane frontend for the SANE sca
 <summary>xsel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command line clipboard and X selection tool
+From repo    : fedora
+Short desc   : Command line clipboard and X selection tool
 URL          : http://www.vergenet.net/~conrad/software/xsel/
 License      : MIT
 Descript     : XSel is a command line or script utility, similar to xclip, that can copy the
@@ -1119,8 +1119,8 @@ Descript     : XSel is a command line or script utility, similar to xclip, that 
 <summary>xset</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : User preference utility for X
+From repo    : updates-testing
+Short desc   : User preference utility for X
 URL          : https://www.x.org
 License      : MIT
 Descript     : This program is used to set various user preference options of the X server,
@@ -1134,8 +1134,8 @@ Descript     : This program is used to set various user preference options of th
 <summary>xsetroot</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Root window parameter setting utility for X
+From repo    : updates-testing
+Short desc   : Root window parameter setting utility for X
 URL          : https://www.x.org
 License      : MIT
 Descript     : The xsetroot program allows you to tailor the appearance of the background
@@ -1148,8 +1148,8 @@ Descript     : The xsetroot program allows you to tailor the appearance of the b
 <summary>xstdcmap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utility to define standard colormap properties
+From repo    : updates-testing
+Short desc   : Utility to define standard colormap properties
 URL          : https://www.x.org
 License      : MIT
 Descript     : The xstdcmap utility can be used to selectively define standard colormap
@@ -1164,8 +1164,8 @@ Descript     : The xstdcmap utility can be used to selectively define standard c
 <summary>xterm</summary>
 
 ```
-From repo     : fedora
-Short desc    : Terminal emulator for the X Window System
+From repo    : fedora
+Short desc   : Terminal emulator for the X Window System
 URL          : https://invisible-island.net/xterm
 License      : MIT
 Descript     : The xterm program is a terminal emulator for the X Window System. It
@@ -1179,8 +1179,8 @@ Descript     : The xterm program is a terminal emulator for the X Window System.
 <summary>xterm-resize</summary>
 
 ```
-From repo     : fedora
-Short desc    : Set environment and terminal settings to current window size
+From repo    : fedora
+Short desc   : Set environment and terminal settings to current window size
 URL          : https://invisible-island.net/xterm
 License      : MIT
 Descript     : Prints a shell command for setting the appropriate environment variables to
@@ -1193,8 +1193,8 @@ Descript     : Prints a shell command for setting the appropriate environment va
 <summary>xvidcore</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : MPEG-4 Simple and Advanced Simple Profile codec
+From repo    : rpmfusion-free
+Short desc   : MPEG-4 Simple and Advanced Simple Profile codec
 URL          : https://www.xvid.com/
 License      : GPLv2+
 Descript     : The Xvid video codec implements MPEG-4 Simple Profile and Advanced Simple
@@ -1212,8 +1212,8 @@ Descript     : The Xvid video codec implements MPEG-4 Simple Profile and Advance
 <summary>xxhash-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Extremely fast hash algorithm - library
+From repo    : anaconda
+Short desc   : Extremely fast hash algorithm - library
 URL          : http://www.xxhash.com/
 License      : BSD
 Descript     : xxHash is an Extremely fast Hash algorithm, running at RAM speed
@@ -1229,8 +1229,8 @@ Descript     : xxHash is an Extremely fast Hash algorithm, running at RAM speed
 <summary>xz</summary>
 
 ```
-From repo     : anaconda
-Short desc    : LZMA compression utilities
+From repo    : anaconda
+Short desc   : LZMA compression utilities
 URL          : https://tukaani.org/xz/
 License      : GPLv2+ and Public Domain
 Descript     : XZ Utils are an attempt to make LZMA compression easy to use on free (as in
@@ -1249,8 +1249,8 @@ Descript     : XZ Utils are an attempt to make LZMA compression easy to use on f
 <summary>xz-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Devel libraries & headers for liblzma
+From repo    : fedora
+Short desc   : Devel libraries & headers for liblzma
 URL          : https://tukaani.org/xz/
 License      : Public Domain
 Descript     : Devel libraries and headers for liblzma.
@@ -1262,8 +1262,8 @@ Descript     : Devel libraries and headers for liblzma.
 <summary>xz-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for decoding LZMA compression
+From repo    : anaconda
+Short desc   : Libraries for decoding LZMA compression
 URL          : https://tukaani.org/xz/
 License      : Public Domain
 Descript     : Libraries for decoding files compressed with LZMA or XZ utils.

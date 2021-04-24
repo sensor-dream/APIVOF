@@ -4,8 +4,8 @@
 <summary>Judy</summary>
 
 ```
-From repo     : fedora
-Short desc    : General purpose dynamic array
+From repo    : fedora
+Short desc   : General purpose dynamic array
 URL          : http://sourceforge.net/projects/judy/
 License      : LGPLv2+
 Descript     : Judy is a C library that provides a state-of-the-art core technology that

@@ -4,8 +4,8 @@
 <summary>p11-kit</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for loading and sharing PKCS#11 modules
+From repo    : anaconda
+Short desc   : Library for loading and sharing PKCS#11 modules
 URL          : http://p11-glue.freedesktop.org/p11-kit.html
 License      : BSD
 Descript     : p11-kit provides a way to load and enumerate PKCS#11 modules, as well
@@ -19,8 +19,8 @@ Descript     : p11-kit provides a way to load and enumerate PKCS#11 modules, as 
 <summary>p11-kit-server</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Server and client commands for p11-kit
+From repo    : anaconda
+Short desc   : Server and client commands for p11-kit
 URL          : http://p11-glue.freedesktop.org/p11-kit.html
 License      : BSD
 Descript     : The p11-kit-server package contains command line tools that enable to
@@ -34,8 +34,8 @@ Descript     : The p11-kit-server package contains command line tools that enabl
 <summary>p11-kit-trust</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System trust module from p11-kit
+From repo    : anaconda
+Short desc   : System trust module from p11-kit
 URL          : http://p11-glue.freedesktop.org/p11-kit.html
 License      : BSD
 Descript     : The p11-kit-trust package contains a system trust PKCS#11 module which
@@ -48,8 +48,8 @@ Descript     : The p11-kit-trust package contains a system trust PKCS#11 module 
 <summary>p7zip</summary>
 
 ```
-From repo     : fedora
-Short desc    : Very high compression ratio file archiver
+From repo    : fedora
+Short desc   : Very high compression ratio file archiver
 URL          : http://p7zip.sourceforge.net/
 License      : LGPLv2 and (LGPLv2+ or CPL)
 Descript     : p7zip is a port of 7za.exe for Unix. 7-Zip is a file archiver with a very high
@@ -62,8 +62,8 @@ Descript     : p7zip is a port of 7za.exe for Unix. 7-Zip is a file archiver wit
 <summary>p7zip-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Manual documentation and contrib directory
+From repo    : fedora
+Short desc   : Manual documentation and contrib directory
 URL          : http://p7zip.sourceforge.net/
 License      : LGPLv2 and (LGPLv2+ or CPL)
 Descript     : This package contains the p7zip manual documentation and some code
@@ -76,8 +76,8 @@ Descript     : This package contains the p7zip manual documentation and some cod
 <summary>p7zip-gui</summary>
 
 ```
-From repo     : fedora
-Short desc    : 7zG - 7-Zip GUI version
+From repo    : fedora
+Short desc   : 7zG - 7-Zip GUI version
 URL          : http://p7zip.sourceforge.net/
 License      : LGPLv2 and (LGPLv2+ or CPL)
 Descript     : 7zG is a gui provide by p7zip and it is now in beta stage.
@@ -91,8 +91,8 @@ Descript     : 7zG is a gui provide by p7zip and it is now in beta stage.
 <summary>p7zip-plugins</summary>
 
 ```
-From repo     : fedora
-Short desc    : Additional plugins for p7zip
+From repo    : fedora
+Short desc   : Additional plugins for p7zip
 URL          : http://p7zip.sourceforge.net/
 License      : LGPLv2 and (LGPLv2+ or CPL)
 Descript     : Additional plugins that can be used with 7z to extend its abilities.
@@ -105,8 +105,8 @@ Descript     : Additional plugins that can be used with 7z to extend its abiliti
 <summary>pakchois</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A wrapper library for PKCS#11
+From repo    : anaconda
+Short desc   : A wrapper library for PKCS#11
 URL          : http://www.manyfish.co.uk/pakchois/
 License      : LGPLv2+
 Descript     : pakchois is just another PKCS#11 wrapper library. pakchois aims to
@@ -122,8 +122,8 @@ Descript     : pakchois is just another PKCS#11 wrapper library. pakchois aims t
 <summary>paktype-naskh-basic-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Fonts for Arabic, Farsi, Urdu and Sindhi from PakType
+From repo    : anaconda
+Short desc   : Fonts for Arabic, Farsi, Urdu and Sindhi from PakType
 URL          : https://sourceforge.net/projects/paktype/
 License      : GPLv2 with exceptions
 Descript     : The paktype-naskh-basic-fonts package contains fonts for the display of \
@@ -136,8 +136,8 @@ Descript     : The paktype-naskh-basic-fonts package contains fonts for the disp
 <summary>pam</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An extensible library which provides authentication for applications
+From repo    : anaconda
+Short desc   : An extensible library which provides authentication for applications
 URL          : http://www.linux-pam.org/
 License      : BSD and GPLv2+
 Descript     : PAM (Pluggable Authentication Modules) is a system security tool that
@@ -151,8 +151,8 @@ Descript     : PAM (Pluggable Authentication Modules) is a system security tool 
 <summary>pam_afs_session</summary>
 
 ```
-From repo     : anaconda
-Short desc    : AFS PAG and AFS tokens on login
+From repo    : anaconda
+Short desc   : AFS PAG and AFS tokens on login
 URL          : https://www.eyrie.org/~eagle/software/pam-afs-session/
 License      : MIT
 Descript     : pam-afs-session is a PAM module intended for use with a Kerberos v5 PAM module
@@ -167,8 +167,8 @@ Descript     : pam-afs-session is a PAM module intended for use with a Kerberos 
 <summary>pam_passwdqc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Pluggable passphrase quality checker
+From repo    : anaconda
+Short desc   : Pluggable passphrase quality checker
 URL          : https://www.openwall.com/passwdqc/
 License      : BSD-3-Clause
 Descript     : pam_passwdqc is a passphrase strength checking module for
@@ -185,8 +185,8 @@ Descript     : pam_passwdqc is a passphrase strength checking module for
 <summary>pandoc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Conversion between markup formats
+From repo    : fedora
+Short desc   : Conversion between markup formats
 URL          : https://hackage.haskell.org/package/pandoc
 License      : GPLv2+
 Descript     : Pandoc is a Haskell library for converting from one markup format to another,
@@ -218,8 +218,8 @@ Descript     : Pandoc is a Haskell library for converting from one markup format
 <summary>pandoc-citeproc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Supports using pandoc with citeproc
+From repo    : fedora
+Short desc   : Supports using pandoc with citeproc
 URL          : https://hackage.haskell.org/package/pandoc-citeproc
 License      : BSD and CC-BY-SA
 Descript     : The pandoc-citeproc library supports automatic generation of citations and a
@@ -239,8 +239,8 @@ Descript     : The pandoc-citeproc library supports automatic generation of cita
 <summary>pandoc-citeproc-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pandoc Citeproc data files
+From repo    : fedora
+Short desc   : Pandoc Citeproc data files
 URL          : https://hackage.haskell.org/package/pandoc-citeproc
 License      : BSD and CC-BY-SA
 Descript     : This package provides the pandoc-citeproc common data files.
@@ -252,8 +252,8 @@ Descript     : This package provides the pandoc-citeproc common data files.
 <summary>pandoc-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : pandoc common files
+From repo    : fedora
+Short desc   : pandoc common files
 URL          : https://hackage.haskell.org/package/pandoc
 License      : GPLv2+ and BSD
 Descript     : This package provides the pandoc common data files.
@@ -265,8 +265,8 @@ Descript     : This package provides the pandoc common data files.
 <summary>pango</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System for layout and rendering of internationalized text
+From repo    : anaconda
+Short desc   : System for layout and rendering of internationalized text
 URL          : http://www.pango.org
 License      : LGPLv2+
 Descript     : Pango is a library for laying out and rendering of text, with an emphasis
@@ -287,8 +287,8 @@ Descript     : Pango is a library for laying out and rendering of text, with an 
 <summary>pango</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : System for layout and rendering of internationalized text
+From repo    : updates-testing
+Short desc   : System for layout and rendering of internationalized text
 URL          : http://www.pango.org
 License      : LGPLv2+
 Descript     : Pango is a library for laying out and rendering of text, with an emphasis
@@ -309,8 +309,8 @@ Descript     : Pango is a library for laying out and rendering of text, with an 
 <summary>pango-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for pango
+From repo    : updates-testing
+Short desc   : Development files for pango
 URL          : http://www.pango.org
 License      : LGPLv2+
 Descript     : The pango-devel package includes the header files and developer documentation
@@ -323,8 +323,8 @@ Descript     : The pango-devel package includes the header files and developer d
 <summary>pangomm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C++ interface for Pango
+From repo    : anaconda
+Short desc   : C++ interface for Pango
 URL          : https://www.gtkmm.org/
 License      : LGPLv2+
 Descript     : pangomm provides a C++ interface to the Pango library. Highlights
@@ -339,8 +339,8 @@ Descript     : pangomm provides a C++ interface to the Pango library. Highlights
 <summary>paps</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plain Text to PostScript converter
+From repo    : anaconda
+Short desc   : Plain Text to PostScript converter
 URL          : http://paps.sourceforge.net/
 License      : LGPLv2+
 Descript     : paps is a PostScript converter from plain text file using Pango.
@@ -352,8 +352,8 @@ Descript     : paps is a PostScript converter from plain text file using Pango.
 <summary>parted</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The GNU disk partition manipulation program
+From repo    : anaconda
+Short desc   : The GNU disk partition manipulation program
 URL          : http://www.gnu.org/software/parted
 License      : GPLv3+
 Descript     : The GNU Parted program allows you to create, destroy, resize, move,
@@ -368,8 +368,8 @@ Descript     : The GNU Parted program allows you to create, destroy, resize, mov
 <summary>passwd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An utility for setting or changing passwords using PAM
+From repo    : anaconda
+Short desc   : An utility for setting or changing passwords using PAM
 URL          : https://pagure.io/passwd
 License      : BSD or GPL+
 Descript     : This package contains a system utility (passwd) which sets
@@ -383,8 +383,8 @@ Descript     : This package contains a system utility (passwd) which sets
 <summary>passwdqc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A password/passphrase strength checking and policy enforcement toolset
+From repo    : anaconda
+Short desc   : A password/passphrase strength checking and policy enforcement toolset
 URL          : https://www.openwall.com/passwdqc/
 License      : BSD-3-Clause
 Descript     : passwdqc is a password/passphrase strength checking and policy
@@ -410,8 +410,8 @@ Descript     : passwdqc is a password/passphrase strength checking and policy
 <summary>passwdqc-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Password quality checker utilities
+From repo    : anaconda
+Short desc   : Password quality checker utilities
 URL          : https://www.openwall.com/passwdqc/
 License      : BSD-3-Clause
 Descript     : This package contains standalone utilities which are usable from scripts:
@@ -425,8 +425,8 @@ Descript     : This package contains standalone utilities which are usable from 
 <summary>patch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility for modifying/upgrading files
+From repo    : fedora
+Short desc   : Utility for modifying/upgrading files
 URL          : https://savannah.gnu.org/projects/patch/
 License      : GPLv3+
 Descript     : The patch program applies diff files to originals.  The diff command
@@ -445,8 +445,8 @@ Descript     : The patch program applies diff files to originals.  The diff comm
 <summary>pbzip2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Parallel implementation of bzip2
+From repo    : fedora
+Short desc   : Parallel implementation of bzip2
 URL          : https://launchpad.net/pbzip2
 License      : BSD
 Descript     : PBZIP2 is a parallel implementation of the bzip2 block-sorting file
@@ -462,8 +462,8 @@ Descript     : PBZIP2 is a parallel implementation of the bzip2 block-sorting fi
 <summary>pcaudiolib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Portable C Audio Library
+From repo    : anaconda
+Short desc   : Portable C Audio Library
 URL          : https://github.com/rhdunn/pcaudiolib
 License      : GPLv3+
 Descript     : The Portable C Audio Library (pcaudiolib) provides a C API to different
@@ -476,8 +476,8 @@ Descript     : The Portable C Audio Library (pcaudiolib) provides a C API to dif
 <summary>pciutils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PCI bus related utilities
+From repo    : anaconda
+Short desc   : PCI bus related utilities
 URL          : https://mj.ucw.cz/sw/pciutils/
 License      : GPLv2+
 Descript     : The pciutils package contains various utilities for inspecting and
@@ -490,8 +490,8 @@ Descript     : The pciutils package contains various utilities for inspecting an
 <summary>pciutils-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux PCI library
+From repo    : anaconda
+Short desc   : Linux PCI library
 URL          : https://mj.ucw.cz/sw/pciutils/
 License      : GPLv2+
 Descript     : This package contains a library for inspecting and setting
@@ -504,8 +504,8 @@ Descript     : This package contains a library for inspecting and setting
 <summary>pcp-conf</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Performance Co-Pilot run-time configuration
+From repo    : updates-testing
+Short desc   : Performance Co-Pilot run-time configuration
 URL          : https://pcp.io
 License      : LGPLv2+
 Descript     : Performance Co-Pilot (PCP) run-time configuration
@@ -517,8 +517,8 @@ Descript     : Performance Co-Pilot (PCP) run-time configuration
 <summary>pcp-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Performance Co-Pilot run-time libraries
+From repo    : updates-testing
+Short desc   : Performance Co-Pilot run-time libraries
 URL          : https://pcp.io
 License      : LGPLv2+
 Descript     : Performance Co-Pilot (PCP) run-time libraries
@@ -530,8 +530,8 @@ Descript     : Performance Co-Pilot (PCP) run-time libraries
 <summary>pcre</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl-compatible regular expression library
+From repo    : anaconda
+Short desc   : Perl-compatible regular expression library
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : PCRE, Perl-compatible regular expression, library has its own native API, but
@@ -548,8 +548,8 @@ Descript     : PCRE, Perl-compatible regular expression, library has its own nat
 <summary>pcre-cpp</summary>
 
 ```
-From repo     : fedora
-Short desc    : C++ bindings for PCRE
+From repo    : fedora
+Short desc   : C++ bindings for PCRE
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : This is C++ bindings for the Perl-compatible regular expression library.
@@ -562,8 +562,8 @@ Descript     : This is C++ bindings for the Perl-compatible regular expression l
 <summary>pcre-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for pcre
+From repo    : fedora
+Short desc   : Development files for pcre
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : Development files (Headers, libraries for dynamic linking, etc) for pcre.
@@ -575,8 +575,8 @@ Descript     : Development files (Headers, libraries for dynamic linking, etc) f
 <summary>pcre-utf16</summary>
 
 ```
-From repo     : fedora
-Short desc    : UTF-16 variant of PCRE
+From repo    : fedora
+Short desc   : UTF-16 variant of PCRE
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : This is Perl-compatible regular expression library working on UTF-16 strings.
@@ -589,8 +589,8 @@ Descript     : This is Perl-compatible regular expression library working on UTF
 <summary>pcre-utf32</summary>
 
 ```
-From repo     : fedora
-Short desc    : UTF-32 variant of PCRE
+From repo    : fedora
+Short desc   : UTF-32 variant of PCRE
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : This is Perl-compatible regular expression library working on UTF-32 strings.
@@ -603,8 +603,8 @@ Descript     : This is Perl-compatible regular expression library working on UTF
 <summary>pcre2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl-compatible regular expression library
+From repo    : anaconda
+Short desc   : Perl-compatible regular expression library
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : PCRE2 is a re-working of the original PCRE (Perl-compatible regular
@@ -631,8 +631,8 @@ Descript     : PCRE2 is a re-working of the original PCRE (Perl-compatible regul
 <summary>pcre2-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for pcre2
+From repo    : fedora
+Short desc   : Development files for pcre2
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : Development files (headers, libraries for dynamic linking, documentation)
@@ -646,8 +646,8 @@ Descript     : Development files (headers, libraries for dynamic linking, docume
 <summary>pcre2-syntax</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Documentation for PCRE2 regular expressions
+From repo    : anaconda
+Short desc   : Documentation for PCRE2 regular expressions
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : This is a set of manual pages that document a syntax of the regular
@@ -660,8 +660,8 @@ Descript     : This is a set of manual pages that document a syntax of the regul
 <summary>pcre2-utf16</summary>
 
 ```
-From repo     : anaconda
-Short desc    : UTF-16 variant of PCRE2
+From repo    : anaconda
+Short desc   : UTF-16 variant of PCRE2
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : This is PCRE2 library working on UTF-16 strings.
@@ -673,8 +673,8 @@ Descript     : This is PCRE2 library working on UTF-16 strings.
 <summary>pcre2-utf32</summary>
 
 ```
-From repo     : anaconda
-Short desc    : UTF-32 variant of PCRE2
+From repo    : anaconda
+Short desc   : UTF-32 variant of PCRE2
 URL          : https://www.pcre.org/
 License      : BSD
 Descript     : This is PCRE2 library working on UTF-32 strings.
@@ -686,8 +686,8 @@ Descript     : This is PCRE2 library working on UTF-32 strings.
 <summary>pcsc-lite</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PC/SC Lite smart card framework and applications
+From repo    : updates-testing
+Short desc   : PC/SC Lite smart card framework and applications
 URL          : https://pcsclite.apdu.fr/
 License      : BSD
 Descript     : The purpose of PC/SC Lite is to provide a Windows(R) SCard interface
@@ -705,8 +705,8 @@ Descript     : The purpose of PC/SC Lite is to provide a Windows(R) SCard interf
 <summary>pcsc-lite-ccid</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Generic USB CCID smart card reader driver
+From repo    : anaconda
+Short desc   : Generic USB CCID smart card reader driver
 URL          : https://ccid.apdu.fr/files
 License      : LGPLv2+
 Descript     : Generic USB CCID (Chip/Smart Card Interface Devices) driver for use with the
@@ -719,8 +719,8 @@ Descript     : Generic USB CCID (Chip/Smart Card Interface Devices) driver for u
 <summary>pcsc-lite-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PC/SC Lite libraries
+From repo    : anaconda
+Short desc   : PC/SC Lite libraries
 URL          : https://pcsclite.apdu.fr/
 License      : BSD
 Descript     : PC/SC Lite libraries.
@@ -732,8 +732,8 @@ Descript     : PC/SC Lite libraries.
 <summary>pcsc-lite-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PC/SC Lite libraries
+From repo    : updates-testing
+Short desc   : PC/SC Lite libraries
 URL          : https://pcsclite.apdu.fr/
 License      : BSD
 Descript     : PC/SC Lite libraries.
@@ -746,8 +746,8 @@ Descript     : PC/SC Lite libraries.
 
 ```
 Эпоха        : 4
-From repo     : updates-testing
-Short desc    : Practical Extraction and Report Language
+From repo    : updates-testing
+Short desc   : Practical Extraction and Report Language
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Perl is a high-level programming language with roots in C, sed, awk and shell
@@ -771,8 +771,8 @@ Descript     : Perl is a high-level programming language with roots in C, sed, a
 <summary>perl-Algorithm-C3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Module for merging hierarchies using the C3 algorithm
+From repo    : fedora
+Short desc   : Module for merging hierarchies using the C3 algorithm
 URL          : https://metacpan.org/release/Algorithm-C3
 License      : GPL+ or Artistic
 Descript     : This module implements the C3 algorithm.  Most of the uses I have for C3
@@ -787,8 +787,8 @@ Descript     : This module implements the C3 algorithm.  Most of the uses I have
 <summary>perl-Algorithm-Diff</summary>
 
 ```
-From repo     : fedora
-Short desc    : Compute 'intelligent' differences between two files/lists
+From repo    : fedora
+Short desc   : Compute 'intelligent' differences between two files/lists
 URL          : https://metacpan.org/release/Algorithm-Diff
 License      : GPL+ or Artistic
 Descript     : This is a module for computing the difference between two files, two strings,
@@ -803,8 +803,8 @@ Descript     : This is a module for computing the difference between two files, 
 <summary>perl-AnyEvent</summary>
 
 ```
-From repo     : fedora
-Short desc    : Framework for multiple event loops
+From repo    : fedora
+Short desc   : Framework for multiple event loops
 URL          : https://metacpan.org/release/AnyEvent
 License      : GPL+ or Artistic
 Descript     : AnyEvent provides an identical interface to multiple event loops. This allows
@@ -819,8 +819,8 @@ Descript     : AnyEvent provides an identical interface to multiple event loops.
 <summary>perl-AnyEvent-I3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Communicate with the i3 window manager
+From repo    : fedora
+Short desc   : Communicate with the i3 window manager
 URL          : https://metacpan.org/release/anyevent-i3
 License      : GPL+ or Artistic
 Descript     : This module connects to the i3 window manager using the UNIX socket based
@@ -834,8 +834,8 @@ Descript     : This module connects to the i3 window manager using the UNIX sock
 <summary>perl-AppConfig</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for reading configuration files
+From repo    : fedora
+Short desc   : Perl module for reading configuration files
 URL          : https://metacpan.org/release/AppConfig
 License      : GPL+ or Artistic
 Descript     : AppConfig has a powerful but easy to use module for parsing
@@ -853,8 +853,8 @@ Descript     : AppConfig has a powerful but easy to use module for parsing
 <summary>perl-Archive-Any</summary>
 
 ```
-From repo     : fedora
-Short desc    : Single interface to deal with file archives
+From repo    : fedora
+Short desc   : Single interface to deal with file archives
 URL          : https://metacpan.org/release/Archive-Any
 License      : GPL+ or Artistic
 Descript     : This module is a single interface for manipulating different archive
@@ -868,8 +868,8 @@ Descript     : This module is a single interface for manipulating different arch
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Generic archive extracting mechanism
+From repo    : fedora
+Short desc   : Generic archive extracting mechanism
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Archive::Extract is a generic archive extraction mechanism.  It allows you to
@@ -886,8 +886,8 @@ Descript     : Archive::Extract is a generic archive extraction mechanism.  It a
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Z decompressor for perl-Archive-Extract via Compress::Zlib
+From repo    : fedora
+Short desc   : Z decompressor for perl-Archive-Extract via Compress::Zlib
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Z decompressor for perl-Archive-Extract via Compress::Zlib.
@@ -900,8 +900,8 @@ Descript     : Z decompressor for perl-Archive-Extract via Compress::Zlib.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Bzip2 decompressor for perl-Archive-Extract via IO::Uncompress::Bunzip2
+From repo    : fedora
+Short desc   : Bzip2 decompressor for perl-Archive-Extract via IO::Uncompress::Bunzip2
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Bzip2 decompressor for perl-Archive-Extract via IO::Uncompress::Bunzip2.
@@ -914,8 +914,8 @@ Descript     : Bzip2 decompressor for perl-Archive-Extract via IO::Uncompress::B
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Gzip decompressor for perl-Archive-Extract via Compress::Zlib
+From repo    : fedora
+Short desc   : Gzip decompressor for perl-Archive-Extract via Compress::Zlib
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Gzip decompressor for perl-Archive-Extract via Compress::Zlib.
@@ -928,8 +928,8 @@ Descript     : Gzip decompressor for perl-Archive-Extract via Compress::Zlib.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Lzma decompressor for perl-Archive-Extract via IO::Uncompress::UnLzma
+From repo    : fedora
+Short desc   : Lzma decompressor for perl-Archive-Extract via IO::Uncompress::UnLzma
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Lzma decompressor for perl-Archive-Extract via IO::Uncompress::UnLzma.
@@ -942,8 +942,8 @@ Descript     : Lzma decompressor for perl-Archive-Extract via IO::Uncompress::Un
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Tar decompressor for perl-Archive-Extract via Archive::Tar
+From repo    : fedora
+Short desc   : Tar decompressor for perl-Archive-Extract via Archive::Tar
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Tar decompressor for perl-Archive-Extract via Archive::Tar.
@@ -956,8 +956,8 @@ Descript     : Tar decompressor for perl-Archive-Extract via Archive::Tar.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Bzipped-tar decompressor for perl-Archive-Extract via Archive::Tar and IO::Uncompress::Bunzip2
+From repo    : fedora
+Short desc   : Bzipped-tar decompressor for perl-Archive-Extract via Archive::Tar and IO::Uncompress::Bunzip2
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Bzipped-tar decompressor for perl-Archive-Extract via Archive::Tar and
@@ -971,8 +971,8 @@ Descript     : Bzipped-tar decompressor for perl-Archive-Extract via Archive::Ta
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Gzipped-tar decompressor for perl-Archive-Extract via Archive::Tar and Compress::Zlib
+From repo    : fedora
+Short desc   : Gzipped-tar decompressor for perl-Archive-Extract via Archive::Tar and Compress::Zlib
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Gzipped-tar decompressor for perl-Archive-Extract via Archive::Tar and
@@ -986,8 +986,8 @@ Descript     : Gzipped-tar decompressor for perl-Archive-Extract via Archive::Ta
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Xzed-tar decompressor for perl-Archive-Extract via Archive::Tar and IO::Uncompress::UnXz
+From repo    : fedora
+Short desc   : Xzed-tar decompressor for perl-Archive-Extract via Archive::Tar and IO::Uncompress::UnXz
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Xzed-tar decompressor for perl-Archive-Extract via Archive::Tar and
@@ -1001,8 +1001,8 @@ Descript     : Xzed-tar decompressor for perl-Archive-Extract via Archive::Tar a
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Xz decompressor for perl-Archive-Extract via IO::Uncompress::UnXz
+From repo    : fedora
+Short desc   : Xz decompressor for perl-Archive-Extract via IO::Uncompress::UnXz
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : Xz decompressor for perl-Archive-Extract via IO::Uncompress::UnXz.
@@ -1015,8 +1015,8 @@ Descript     : Xz decompressor for perl-Archive-Extract via IO::Uncompress::UnXz
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : ZIP decompressor for perl-Archive-Extract via Archive::Zip
+From repo    : fedora
+Short desc   : ZIP decompressor for perl-Archive-Extract via Archive::Zip
 URL          : https://metacpan.org/release/Archive-Extract
 License      : GPL+ or Artistic
 Descript     : ZIP decompressor for perl-Archive-Extract via Archive::Zip.
@@ -1028,8 +1028,8 @@ Descript     : ZIP decompressor for perl-Archive-Extract via Archive::Zip.
 <summary>perl-Archive-Tar</summary>
 
 ```
-From repo     : fedora
-Short desc    : A module for Perl manipulation of .tar files
+From repo    : fedora
+Short desc   : A module for Perl manipulation of .tar files
 URL          : https://metacpan.org/release/Archive-Tar
 License      : GPL+ or Artistic
 Descript     : Archive::Tar provides an object oriented mechanism for handling tar
@@ -1045,8 +1045,8 @@ Descript     : Archive::Tar provides an object oriented mechanism for handling t
 <summary>perl-Archive-Zip</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl library for accessing Zip archives
+From repo    : fedora
+Short desc   : Perl library for accessing Zip archives
 URL          : https://metacpan.org/release/Archive-Zip
 License      : (GPL+ or Artistic) and BSD
 Descript     : The Archive::Zip module allows a Perl program to create, manipulate,
@@ -1066,8 +1066,8 @@ Descript     : The Archive::Zip module allows a Perl program to create, manipula
 <summary>perl-Attribute-Handlers</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Simpler definition of attribute handlers
+From repo    : updates-testing
+Short desc   : Simpler definition of attribute handlers
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This Perl module, when inherited by a package, allows that package's class to
@@ -1084,8 +1084,8 @@ Descript     : This Perl module, when inherited by a package, allows that packag
 <summary>perl-Authen-DigestMD5</summary>
 
 ```
-From repo     : fedora
-Short desc    : SASL DIGEST-MD5 authentication (RFC2831)
+From repo    : fedora
+Short desc   : SASL DIGEST-MD5 authentication (RFC2831)
 URL          : https://metacpan.org/release/Authen-DigestMD5
 License      : GPL+ or Artistic
 Descript     : This module supports DIGEST-MD5 SASL authentication as defined in RFC-2831.
@@ -1097,8 +1097,8 @@ Descript     : This module supports DIGEST-MD5 SASL authentication as defined in
 <summary>perl-Authen-SASL</summary>
 
 ```
-From repo     : fedora
-Short desc    : SASL Authentication framework for Perl
+From repo    : fedora
+Short desc   : SASL Authentication framework for Perl
 URL          : https://metacpan.org/release/Authen-SASL
 License      : GPL+ or Artistic
 Descript     : SASL is a generic mechanism for authentication used by several network
@@ -1112,8 +1112,8 @@ Descript     : SASL is a generic mechanism for authentication used by several ne
 <summary>perl-AutoLoader</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Load subroutines only on demand
+From repo    : updates-testing
+Short desc   : Load subroutines only on demand
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The AutoLoader module works with the AutoSplit module and the "__END__" token
@@ -1127,8 +1127,8 @@ Descript     : The AutoLoader module works with the AutoSplit module and the "__
 <summary>perl-AutoSplit</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Split a package for automatic loading
+From repo    : updates-testing
+Short desc   : Split a package for automatic loading
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Split up your program into files that the AutoLoader module can handle. It is
@@ -1142,8 +1142,8 @@ Descript     : Split up your program into files that the AutoLoader module can h
 <summary>perl-B</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl compiler backend
+From repo    : updates-testing
+Short desc   : Perl compiler backend
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "B" module supplies classes which allow a Perl program to delve into its
@@ -1157,8 +1157,8 @@ Descript     : The "B" module supplies classes which allow a Perl program to del
 <summary>perl-B-Hooks-EndOfScope</summary>
 
 ```
-From repo     : fedora
-Short desc    : Execute code after scope compilation finishes
+From repo    : fedora
+Short desc   : Execute code after scope compilation finishes
 URL          : https://metacpan.org/release/B-Hooks-EndOfScope
 License      : GPL+ or Artistic
 Descript     : This module allows you to execute code when Perl has finished compiling the
@@ -1171,8 +1171,8 @@ Descript     : This module allows you to execute code when Perl has finished com
 <summary>perl-B-Lint</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl lint
+From repo    : fedora
+Short desc   : Perl lint
 URL          : https://metacpan.org/release/B-Lint
 License      : GPL+ or Artistic
 Descript     : The B::Lint module is equivalent to an extended version of the -w option of
@@ -1186,8 +1186,8 @@ Descript     : The B::Lint module is equivalent to an extended version of the -w
 <summary>perl-BSD-Resource</summary>
 
 ```
-From repo     : fedora
-Short desc    : BSD process resource limit and priority functions
+From repo    : fedora
+Short desc   : BSD process resource limit and priority functions
 URL          : https://metacpan.org/release/BSD-Resource
 License      : (LGPLv2 or Artistic 2.0) and (GPL+ or Artistic)
 Descript     : A module providing an interface for testing and setting process limits
@@ -1200,8 +1200,8 @@ Descript     : A module providing an interface for testing and setting process l
 <summary>perl-BackPAN-Index</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interface to the BackPAN index
+From repo    : fedora
+Short desc   : Interface to the BackPAN index
 URL          : https://metacpan.org/release/BackPAN-Index
 License      : GPL+ or Artistic
 Descript     : This downloads, caches and parses the BackPAN index into a local database
@@ -1214,8 +1214,8 @@ Descript     : This downloads, caches and parses the BackPAN index into a local 
 <summary>perl-Benchmark</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Benchmark running times of Perl code
+From repo    : updates-testing
+Short desc   : Benchmark running times of Perl code
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The Benchmark module encapsulates a number of routines to help you figure out
@@ -1228,8 +1228,8 @@ Descript     : The Benchmark module encapsulates a number of routines to help yo
 <summary>perl-Bit-Vector</summary>
 
 ```
-From repo     : fedora
-Short desc    : Efficient bit vector, set of integers and "big int" math library
+From repo    : fedora
+Short desc   : Efficient bit vector, set of integers and "big int" math library
 URL          : https://metacpan.org/release/Bit-Vector
 License      : (GPLv2+ or Artistic) and LGPLv2+
 Descript     : Bit::Vector is an efficient C library which allows you to handle bit
@@ -1247,8 +1247,8 @@ Descript     : Bit::Vector is an efficient C library which allows you to handle 
 <summary>perl-Business-ISBN</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module to work with International Standard Book Numbers
+From repo    : fedora
+Short desc   : Perl module to work with International Standard Book Numbers
 URL          : https://metacpan.org/release/Business-ISBN
 License      : Artistic 2.0
 Descript     : This modules handles International Standard Book Numbers, including
@@ -1264,8 +1264,8 @@ Descript     : This modules handles International Standard Book Numbers, includi
 <summary>perl-Business-ISBN-Data</summary>
 
 ```
-From repo     : fedora
-Short desc    : The data pack for Business::ISBN
+From repo    : fedora
+Short desc   : The data pack for Business::ISBN
 URL          : https://metacpan.org/release/Business-ISBN-Data
 License      : Artistic 2.0
 Descript     : This is a data pack for Business::ISBN.  You can update
@@ -1279,8 +1279,8 @@ Descript     : This is a data pack for Business::ISBN.  You can update
 <summary>perl-Business-ISMN</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl library for International Standard Music Numbers
+From repo    : updates-testing
+Short desc   : Perl library for International Standard Music Numbers
 URL          : https://metacpan.org/release/Business-ISMN
 License      : Artistic 2.0
 Descript     : Perl library for International Standard Music Numbers.
@@ -1292,8 +1292,8 @@ Descript     : Perl library for International Standard Music Numbers.
 <summary>perl-Business-ISSN</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl library for International Standard Serial Numbers
+From repo    : fedora
+Short desc   : Perl library for International Standard Serial Numbers
 URL          : https://metacpan.org/release/Business-ISSN
 License      : Artistic 2.0
 Descript     : Perl library for International Standard Serial Numbers.
@@ -1305,8 +1305,8 @@ Descript     : Perl library for International Standard Serial Numbers.
 <summary>perl-CGI</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Handle Common Gateway Interface requests and responses
+From repo    : updates-testing
+Short desc   : Handle Common Gateway Interface requests and responses
 URL          : https://metacpan.org/release/CGI
 License      : Artistic 2.0
 Descript     : CGI.pm is a stable, complete and mature solution for processing and preparing
@@ -1325,8 +1325,8 @@ Descript     : CGI.pm is a stable, complete and mature solution for processing a
 <summary>perl-CGI-Fast</summary>
 
 ```
-From repo     : fedora
-Short desc    : CGI Interface for Fast CGI
+From repo    : fedora
+Short desc   : CGI Interface for Fast CGI
 URL          : https://metacpan.org/release/CGI-Fast
 License      : GPL+ or Artistic
 Descript     : CGI::Fast is a subclass of the CGI object created by CGI.pm. It is
@@ -1343,8 +1343,8 @@ Descript     : CGI::Fast is a subclass of the CGI object created by CGI.pm. It i
 <summary>perl-CLASS</summary>
 
 ```
-From repo     : fedora
-Short desc    : Alias for __PACKAGE__
+From repo    : fedora
+Short desc   : Alias for __PACKAGE__
 URL          : https://metacpan.org/release/CLASS
 License      : GPL+ or Artistic
 Descript     : This package provides CLASS and $CLASS; both synonyms for __PACKAGE__.
@@ -1358,8 +1358,8 @@ Descript     : This package provides CLASS and $CLASS; both synonyms for __PACKA
 <summary>perl-CPAN</summary>
 
 ```
-From repo     : fedora
-Short desc    : Query, download and build perl modules from CPAN sites
+From repo    : fedora
+Short desc   : Query, download and build perl modules from CPAN sites
 URL          : https://metacpan.org/release/CPAN
 License      : GPL+ or Artistic
 Descript     : The CPAN module automates or at least simplifies the make and install of
@@ -1374,8 +1374,8 @@ Descript     : The CPAN module automates or at least simplifies the make and ins
 <summary>perl-CPAN-DistnameInfo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extract distribution name and version from a distribution filename
+From repo    : fedora
+Short desc   : Extract distribution name and version from a distribution filename
 URL          : https://metacpan.org/release/CPAN-DistnameInfo
 License      : GPL+ or Artistic
 Descript     : Many online services that are centered around CPAN attempt to
@@ -1397,8 +1397,8 @@ Descript     : Many online services that are centered around CPAN attempt to
 <summary>perl-CPAN-Meta</summary>
 
 ```
-From repo     : fedora
-Short desc    : Distribution metadata for a CPAN dist
+From repo    : fedora
+Short desc   : Distribution metadata for a CPAN dist
 URL          : https://metacpan.org/release/CPAN-Meta
 License      : GPL+ or Artistic
 Descript     : Software distributions released to the CPAN include a META.json or, for older
@@ -1413,8 +1413,8 @@ Descript     : Software distributions released to the CPAN include a META.json o
 <summary>perl-CPAN-Meta-Requirements</summary>
 
 ```
-From repo     : fedora
-Short desc    : Set of version requirements for a CPAN dist
+From repo    : fedora
+Short desc   : Set of version requirements for a CPAN dist
 URL          : https://metacpan.org/release/CPAN-Meta-Requirements
 License      : GPL+ or Artistic
 Descript     : A CPAN::Meta::Requirements object models a set of version constraints like
@@ -1432,8 +1432,8 @@ Descript     : A CPAN::Meta::Requirements object models a set of version constra
 <summary>perl-CPAN-Meta-YAML</summary>
 
 ```
-From repo     : fedora
-Short desc    : Read and write a subset of YAML for CPAN Meta files
+From repo    : fedora
+Short desc   : Read and write a subset of YAML for CPAN Meta files
 URL          : https://metacpan.org/release/CPAN-Meta-YAML
 License      : GPL+ or Artistic
 Descript     : This module implements a subset of the YAML specification for use in reading
@@ -1447,8 +1447,8 @@ Descript     : This module implements a subset of the YAML specification for use
 <summary>perl-CPAN-ParseDistribution</summary>
 
 ```
-From repo     : fedora
-Short desc    : Index a file from the BackPAN
+From repo    : fedora
+Short desc   : Index a file from the BackPAN
 URL          : https://metacpan.org/release/CPAN-ParseDistribution
 License      : GPLv2 or Artistic
 Descript     : Given a file from the BackPAN, this will let you find out what versions of
@@ -1461,8 +1461,8 @@ Descript     : Given a file from the BackPAN, this will let you find out what ve
 <summary>perl-CPANPLUS</summary>
 
 ```
-From repo     : fedora
-Short desc    : Ameliorated interface to the Comprehensive Perl Archive Network
+From repo    : fedora
+Short desc   : Ameliorated interface to the Comprehensive Perl Archive Network
 URL          : https://metacpan.org/release/CPANPLUS
 License      : GPL+ or Artistic
 Descript     : The CPANPLUS library is an API to the CPAN mirrors and a collection of
@@ -1475,8 +1475,8 @@ Descript     : The CPANPLUS library is an API to the CPAN mirrors and a collecti
 <summary>perl-Cairo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the cairo library
+From repo    : fedora
+Short desc   : Perl interface to the cairo library
 URL          : https://metacpan.org/release/Cairo
 License      : LGPLv2+
 Descript     : Cairo provides Perl bindings for the vector graphics library cairo.
@@ -1491,8 +1491,8 @@ Descript     : Cairo provides Perl bindings for the vector graphics library cair
 <summary>perl-Carp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Alternative warn and die for modules
+From repo    : anaconda
+Short desc   : Alternative warn and die for modules
 URL          : https://metacpan.org/release/Carp
 License      : GPL+ or Artistic
 Descript     : The Carp routines are useful in your own modules because they act like
@@ -1510,8 +1510,8 @@ Descript     : The Carp routines are useful in your own modules because they act
 <summary>perl-Carp-Clan</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module to print improved warning messages
+From repo    : fedora
+Short desc   : Perl module to print improved warning messages
 URL          : https://metacpan.org/release/Carp-Clan
 License      : GPL+ or Artistic
 Descript     : This module reports errors from the perspective of the caller of a
@@ -1527,8 +1527,8 @@ Descript     : This module reports errors from the perspective of the caller of 
 <summary>perl-Class-Accessor</summary>
 
 ```
-From repo     : fedora
-Short desc    : Automated accessor generation
+From repo    : fedora
+Short desc   : Automated accessor generation
 URL          : https://metacpan.org/release/Class-Accessor
 License      : GPL+ or Artistic
 Descript     : This module automagically generates accessors/mutators for your class.
@@ -1540,8 +1540,8 @@ Descript     : This module automagically generates accessors/mutators for your c
 <summary>perl-Class-Accessor-Chained</summary>
 
 ```
-From repo     : fedora
-Short desc    : Make chained accessors
+From repo    : fedora
+Short desc   : Make chained accessors
 URL          : https://metacpan.org/release/Class-Accessor-Chained
 License      : GPL+ or Artistic
 Descript     : A chained accessor is one that always returns the object when called with
@@ -1556,8 +1556,8 @@ Descript     : A chained accessor is one that always returns the object when cal
 <summary>perl-Class-Accessor-Grouped</summary>
 
 ```
-From repo     : fedora
-Short desc    : Build groups of accessors
+From repo    : fedora
+Short desc   : Build groups of accessors
 URL          : https://metacpan.org/release/Class-Accessor-Grouped
 License      : GPL+ or Artistic
 Descript     : This class lets you build groups of accessors that will call different
@@ -1570,8 +1570,8 @@ Descript     : This class lets you build groups of accessors that will call diff
 <summary>perl-Class-C3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pragma to use the C3 method resolution order algorithm
+From repo    : fedora
+Short desc   : Pragma to use the C3 method resolution order algorithm
 URL          : https://metacpan.org/release/Class-C3
 License      : GPL+ or Artistic
 Descript     : This is a pragma to change Perl 5's standard method resolution order from
@@ -1585,8 +1585,8 @@ Descript     : This is a pragma to change Perl 5's standard method resolution or
 <summary>perl-Class-C3-Componentised</summary>
 
 ```
-From repo     : fedora
-Short desc    : Load mix-ins or components to your C3-based class
+From repo    : fedora
+Short desc   : Load mix-ins or components to your C3-based class
 URL          : https://metacpan.org/release/Class-C3-Componentised
 License      : GPL+ or Artistic
 Descript     : This will inject base classes to your module using the Class::C3 method
@@ -1603,8 +1603,8 @@ Descript     : This will inject base classes to your module using the Class::C3 
 <summary>perl-Class-Data-Inheritable</summary>
 
 ```
-From repo     : fedora
-Short desc    : Inheritable, overridable class data
+From repo    : fedora
+Short desc   : Inheritable, overridable class data
 URL          : https://metacpan.org/release/Class-Data-Inheritable
 License      : GPL+ or Artistic
 Descript     : Class::Data::Inheritable is for creating accessor/mutators to
@@ -1619,8 +1619,8 @@ Descript     : Class::Data::Inheritable is for creating accessor/mutators to
 <summary>perl-Class-ISA</summary>
 
 ```
-From repo     : fedora
-Short desc    : Report the search path for a class's ISA tree
+From repo    : fedora
+Short desc   : Report the search path for a class's ISA tree
 URL          : https://metacpan.org/release/Class-ISA
 License      : GPL+ or Artistic
 Descript     : This library provides functions that return the list (in order) of names of
@@ -1633,8 +1633,8 @@ Descript     : This library provides functions that return the list (in order) o
 <summary>perl-Class-Inspector</summary>
 
 ```
-From repo     : fedora
-Short desc    : Get information about a class and its structure
+From repo    : fedora
+Short desc   : Get information about a class and its structure
 URL          : https://metacpan.org/release/Class-Inspector
 License      : GPL+ or Artistic
 Descript     : Class::Inspector allows you to get information about a loaded class.
@@ -1650,8 +1650,8 @@ Descript     : Class::Inspector allows you to get information about a loaded cla
 <summary>perl-Class-Load</summary>
 
 ```
-From repo     : fedora
-Short desc    : A working (require "Class::Name") and more
+From repo    : fedora
+Short desc   : A working (require "Class::Name") and more
 URL          : https://metacpan.org/release/Class-Load
 License      : GPL+ or Artistic
 Descript     : require EXPR only accepts Class/Name.pm style module names, not Class::Name.
@@ -1673,8 +1673,8 @@ Descript     : require EXPR only accepts Class/Name.pm style module names, not C
 <summary>perl-Class-Load-XS</summary>
 
 ```
-From repo     : fedora
-Short desc    : XS implementation of parts of Class::Load
+From repo    : fedora
+Short desc   : XS implementation of parts of Class::Load
 URL          : https://metacpan.org/release/Class-Load-XS
 License      : Artistic 2.0
 Descript     : This module provides an XS implementation for portions of Class::Load.
@@ -1687,8 +1687,8 @@ Descript     : This module provides an XS implementation for portions of Class::
 <summary>perl-Class-Method-Modifiers</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provides Moose-like method modifiers
+From repo    : fedora
+Short desc   : Provides Moose-like method modifiers
 URL          : https://metacpan.org/release/Class-Method-Modifiers
 License      : GPL+ or Artistic
 Descript     : Method modifiers are a powerful feature from the CLOS (Common Lisp Object
@@ -1713,8 +1713,8 @@ Descript     : Method modifiers are a powerful feature from the CLOS (Common Lis
 <summary>perl-Class-Singleton</summary>
 
 ```
-From repo     : fedora
-Short desc    : Implementation of a "Singleton" class
+From repo    : fedora
+Short desc   : Implementation of a "Singleton" class
 URL          : https://metacpan.org/release/Class-Singleton
 License      : GPL+ or Artistic
 Descript     : This is the Class::Singleton module. A Singleton describes an object class
@@ -1733,8 +1733,8 @@ Descript     : This is the Class::Singleton module. A Singleton describes an obj
 <summary>perl-Class-Struct</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Declare struct-like data types as Perl classes
+From repo    : anaconda
+Short desc   : Declare struct-like data types as Perl classes
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Class::Struct module exports a single function struct(). Given a list of
@@ -1748,8 +1748,8 @@ Descript     : Class::Struct module exports a single function struct(). Given a 
 <summary>perl-Class-Struct</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Declare struct-like data types as Perl classes
+From repo    : updates-testing
+Short desc   : Declare struct-like data types as Perl classes
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Class::Struct module exports a single function struct(). Given a list of
@@ -1763,8 +1763,8 @@ Descript     : Class::Struct module exports a single function struct(). Given a 
 <summary>perl-Class-Tiny</summary>
 
 ```
-From repo     : fedora
-Short desc    : Minimalist class construction
+From repo    : fedora
+Short desc   : Minimalist class construction
 URL          : https://metacpan.org/release/Class-Tiny
 License      : ASL 2.0
 Descript     : This module offers a minimalist class construction kit in around 120 lines
@@ -1788,8 +1788,8 @@ Descript     : This module offers a minimalist class construction kit in around 
 <summary>perl-Class-Trigger</summary>
 
 ```
-From repo     : fedora
-Short desc    : Mixin to add / call inheritable triggers
+From repo    : fedora
+Short desc   : Mixin to add / call inheritable triggers
 URL          : https://metacpan.org/release/Class-Trigger
 License      : GPL+ or Artistic
 Descript     : Mixin to add / call inheritable triggers.
@@ -1801,8 +1801,8 @@ Descript     : Mixin to add / call inheritable triggers.
 <summary>perl-Class-XSAccessor</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generate fast XS accessors without run-time compilation
+From repo    : fedora
+Short desc   : Generate fast XS accessors without run-time compilation
 URL          : https://metacpan.org/release/Class-XSAccessor
 License      : GPL+ or Artistic
 Descript     : Class::XSAccessor implements fast read, write and read/write accessors in
@@ -1819,8 +1819,8 @@ Descript     : Class::XSAccessor implements fast read, write and read/write acce
 <summary>perl-Clone</summary>
 
 ```
-From repo     : fedora
-Short desc    : Recursively copy perl data types
+From repo    : fedora
+Short desc   : Recursively copy perl data types
 URL          : https://metacpan.org/release/Clone
 License      : GPL+ or Artistic
 Descript     : This module provides a clone() method that makes recursive
@@ -1838,8 +1838,8 @@ Descript     : This module provides a clone() method that makes recursive
 <summary>perl-Clone-Choose</summary>
 
 ```
-From repo     : fedora
-Short desc    : Choose appropriate clone utility
+From repo    : fedora
+Short desc   : Choose appropriate clone utility
 URL          : https://metacpan.org/release/Clone-Choose
 License      : GPL+ or Artistic
 Descript     : Choose appropriate clone utility.
@@ -1851,8 +1851,8 @@ Descript     : Choose appropriate clone utility.
 <summary>perl-Compress-Bzip2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interface to Bzip2 compression library
+From repo    : fedora
+Short desc   : Interface to Bzip2 compression library
 URL          : https://metacpan.org/release/Compress-Bzip2
 License      : GPL+ or Artistic
 Descript     : The Compress::Bzip2 module provides a Perl interface to the Bzip2 compression
@@ -1867,8 +1867,8 @@ Descript     : The Compress::Bzip2 module provides a Perl interface to the Bzip2
 <summary>perl-Compress-Raw-Bzip2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Low-level interface to bzip2 compression library
+From repo    : fedora
+Short desc   : Low-level interface to bzip2 compression library
 URL          : https://metacpan.org/release/Compress-Raw-Bzip2
 License      : GPL+ or Artistic
 Descript     : This module provides a Perl interface to the bzip2 compression library.
@@ -1881,8 +1881,8 @@ Descript     : This module provides a Perl interface to the bzip2 compression li
 <summary>perl-Compress-Raw-Lzma</summary>
 
 ```
-From repo     : fedora
-Short desc    : Low-level interface to lzma compression library
+From repo    : fedora
+Short desc   : Low-level interface to lzma compression library
 URL          : https://metacpan.org/release/Compress-Raw-Lzma
 License      : GPL+ or Artistic
 Descript     : This module provides a Perl interface to the lzma compression library.
@@ -1895,8 +1895,8 @@ Descript     : This module provides a Perl interface to the lzma compression lib
 <summary>perl-Compress-Raw-Zlib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Low-level interface to the zlib compression library
+From repo    : fedora
+Short desc   : Low-level interface to the zlib compression library
 URL          : https://metacpan.org/release/Compress-Raw-Zlib
 License      : (GPL+ or Artistic) and zlib
 Descript     : The Compress::Raw::Zlib module provides a Perl interface to the zlib
@@ -1909,8 +1909,8 @@ Descript     : The Compress::Raw::Zlib module provides a Perl interface to the z
 <summary>perl-Config-Any</summary>
 
 ```
-From repo     : fedora
-Short desc    : Load configuration from different file formats, transparently
+From repo    : fedora
+Short desc   : Load configuration from different file formats, transparently
 URL          : https://metacpan.org/release/Config-Any
 License      : GPL+ or Artistic
 Descript     : Config::Any provides a facility for Perl applications and libraries to
@@ -1925,8 +1925,8 @@ Descript     : Config::Any provides a facility for Perl applications and librari
 <summary>perl-Config-Extensions</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Hash lookup of which Perl core extensions were built
+From repo    : updates-testing
+Short desc   : Hash lookup of which Perl core extensions were built
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The Config::Extensions module provides a hash %Extensions containing all the
@@ -1939,8 +1939,8 @@ Descript     : The Config::Extensions module provides a hash %Extensions contain
 <summary>perl-Config-General</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generic configuration module for Perl
+From repo    : fedora
+Short desc   : Generic configuration module for Perl
 URL          : https://metacpan.org/release/Config-General
 License      : GPL+ or Artistic
 Descript     : This module opens a config file and parses its contents for
@@ -1965,8 +1965,8 @@ Descript     : This module opens a config file and parses its contents for
 <summary>perl-Config-Grammar</summary>
 
 ```
-From repo     : fedora
-Short desc    : Grammar-based, user-friendly config parser
+From repo    : fedora
+Short desc   : Grammar-based, user-friendly config parser
 URL          : https://metacpan.org/release/Config-Grammar
 License      : GPL+ or Artistic
 Descript     : Config::Grammar is a module to parse configuration files. The
@@ -1985,8 +1985,8 @@ Descript     : Config::Grammar is a module to parse configuration files. The
 <summary>perl-Config-Perl-V</summary>
 
 ```
-From repo     : fedora
-Short desc    : Structured data retrieval of perl -V output
+From repo    : fedora
+Short desc   : Structured data retrieval of perl -V output
 URL          : https://metacpan.org/release/Config-Perl-V
 License      : GPL+ or Artistic
 Descript     : The command "perl -V" will return you an excerpt from the %Config::Config
@@ -2001,8 +2001,8 @@ Descript     : The command "perl -V" will return you an excerpt from the %Config
 <summary>perl-Config-Tiny</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for reading and writing .ini style configuration files
+From repo    : fedora
+Short desc   : Perl module for reading and writing .ini style configuration files
 URL          : https://metacpan.org/release/Config-Tiny
 License      : GPL+ or Artistic
 Descript     : Config::Tiny is a Perl module designed for reading and writing .ini
@@ -2016,8 +2016,8 @@ Descript     : Config::Tiny is a Perl module designed for reading and writing .i
 <summary>perl-Context-Preserve</summary>
 
 ```
-From repo     : fedora
-Short desc    : Run code after a subroutine call, preserving the context
+From repo    : fedora
+Short desc   : Run code after a subroutine call, preserving the context
 URL          : https://metacpan.org/release/Context-Preserve
 License      : GPL+ or Artistic
 Descript     : Sometimes you need to call a function, get the results, act on the results,
@@ -2041,8 +2041,8 @@ Descript     : Sometimes you need to call a function, get the results, act on th
 <summary>perl-Convert-ASN1</summary>
 
 ```
-From repo     : fedora
-Short desc    : ASN.1 encode/decode library
+From repo    : fedora
+Short desc   : ASN.1 encode/decode library
 URL          : https://metacpan.org/release/Convert-ASN1
 License      : GPL+ or Artistic
 Descript     : Convert::ASN1 encodes and decodes ASN.1 data structures using BER/DER rules.
@@ -2054,8 +2054,8 @@ Descript     : Convert::ASN1 encodes and decodes ASN.1 data structures using BER
 <summary>perl-Cpanel-JSON-XS</summary>
 
 ```
-From repo     : fedora
-Short desc    : JSON::XS for Cpanel, fast and correct serializing
+From repo    : fedora
+Short desc   : JSON::XS for Cpanel, fast and correct serializing
 URL          : https://metacpan.org/release/Cpanel-JSON-XS
 License      : GPL+ or Artistic
 Descript     : This module converts Perl data structures to JSON and vice versa. Its
@@ -2069,8 +2069,8 @@ Descript     : This module converts Perl data structures to JSON and vice versa.
 <summary>perl-Crypt-Cracklib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Crypt-Cracklib - Perl interface to Alec Muffett's Cracklib
+From repo    : fedora
+Short desc   : Crypt-Cracklib - Perl interface to Alec Muffett's Cracklib
 URL          : https://metacpan.org/release/Crypt-Cracklib
 License      : GPL+ or Artistic
 Descript     : This module providers interaction with the system cracklib libraries.
@@ -2082,8 +2082,8 @@ Descript     : This module providers interaction with the system cracklib librar
 <summary>perl-Crypt-RC4</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl implementation of the RC4 encryption algorithm
+From repo    : fedora
+Short desc   : Perl implementation of the RC4 encryption algorithm
 URL          : https://metacpan.org/release/Crypt-RC4
 License      : GPL+ or Artistic
 Descript     : A simple implementation of the RC4 algorithm, developed by RSA Security,
@@ -2104,8 +2104,8 @@ Descript     : A simple implementation of the RC4 algorithm, developed by RSA Se
 <summary>perl-DBD-MariaDB</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : MariaDB and MySQL driver for the Perl5 Database Interface (DBI)
+From repo    : updates-testing
+Short desc   : MariaDB and MySQL driver for the Perl5 Database Interface (DBI)
 URL          : https://metacpan.org/release/DBD-MariaDB/
 License      : GPL+ or Artistic
 Descript     : DBD::MariaDB is the Perl5 Database Interface driver for MariaDB and MySQL
@@ -2122,8 +2122,8 @@ Descript     : DBD::MariaDB is the Perl5 Database Interface driver for MariaDB a
 <summary>perl-DBD-MySQL</summary>
 
 ```
-From repo     : fedora
-Short desc    : A MySQL interface for Perl
+From repo    : fedora
+Short desc   : A MySQL interface for Perl
 URL          : https://metacpan.org/release/DBD-mysql
 License      : GPL+ or Artistic
 Descript     : DBD::mysql is the Perl5 Database Interface driver for the MySQL database. In
@@ -2138,8 +2138,8 @@ Descript     : DBD::mysql is the Perl5 Database Interface driver for the MySQL d
 <summary>perl-DBD-SQLite</summary>
 
 ```
-From repo     : fedora
-Short desc    : SQLite DBI Driver
+From repo    : fedora
+Short desc   : SQLite DBI Driver
 URL          : https://metacpan.org/release/DBD-SQLite
 License      : (GPL+ or Artistic) and Public Domain
 Descript     : SQLite is a public domain, file-based, relational database engine that you can
@@ -2153,8 +2153,8 @@ Descript     : SQLite is a public domain, file-based, relational database engine
 <summary>perl-DBI</summary>
 
 ```
-From repo     : fedora
-Short desc    : A database access API for perl
+From repo    : fedora
+Short desc   : A database access API for perl
 URL          : http://dbi.perl.org/
 License      : GPL+ or Artistic
 Descript     : DBI is a database access Application Programming Interface (API) for
@@ -2169,8 +2169,8 @@ Descript     : DBI is a database access Application Programming Interface (API) 
 <summary>perl-DBIx-Class</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extensible and flexible object <-> relational mapper
+From repo    : fedora
+Short desc   : Extensible and flexible object <-> relational mapper
 URL          : https://metacpan.org/release/DBIx-Class
 License      : GPL+ or Artistic
 Descript     : This is an SQL to OO mapper with an object API inspired by Class::DBI
@@ -2189,8 +2189,8 @@ Descript     : This is an SQL to OO mapper with an object API inspired by Class:
 <summary>perl-DBIx-ContextualFetch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Add contextual fetches to DBI
+From repo    : fedora
+Short desc   : Add contextual fetches to DBI
 URL          : https://metacpan.org/release/DBIx-ContextualFetch
 License      : GPL+ or Artistic
 Descript     : Add contextual fetches to DBI.
@@ -2202,8 +2202,8 @@ Descript     : Add contextual fetches to DBI.
 <summary>perl-DBIx-Simple</summary>
 
 ```
-From repo     : fedora
-Short desc    : Easy-to-use OO interface to DBI
+From repo    : fedora
+Short desc   : Easy-to-use OO interface to DBI
 URL          : https://metacpan.org/release/DBIx-Simple
 License      : MIT
 Descript     : DBIx::Simple provides a simplified interface to DBI, Perl's powerful
@@ -2216,8 +2216,8 @@ Descript     : DBIx::Simple provides a simplified interface to DBI, Perl's power
 <summary>perl-DBIx-XHTML_Table</summary>
 
 ```
-From repo     : fedora
-Short desc    : SQL query result set to XHTML table
+From repo    : fedora
+Short desc   : SQL query result set to XHTML table
 URL          : https://metacpan.org/release/DBIx-XHTML_Table
 License      : Artistic 2.0
 Descript     : DBIx::XHTML_Table is a DBI extension that creates an XHTML table from a
@@ -2236,8 +2236,8 @@ Descript     : DBIx::XHTML_Table is a DBI extension that creates an XHTML table 
 <summary>perl-DBM_Filter</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Filter DBM keys and values
+From repo    : updates-testing
+Short desc   : Filter DBM keys and values
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module provides an interface that allows filters to be applied to tied
@@ -2250,8 +2250,8 @@ Descript     : This module provides an interface that allows filters to be appli
 <summary>perl-DB_File</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl5 access to Berkeley DB version 1.x
+From repo    : fedora
+Short desc   : Perl5 access to Berkeley DB version 1.x
 URL          : https://metacpan.org/release/DB_File
 License      : GPL+ or Artistic
 Descript     : DB_File is a module which allows Perl programs to make use of the facilities
@@ -2266,8 +2266,8 @@ Descript     : DB_File is a module which allows Perl programs to make use of the
 <summary>perl-Data-Compare</summary>
 
 ```
-From repo     : fedora
-Short desc    : Compare perl data structures
+From repo    : fedora
+Short desc   : Compare perl data structures
 URL          : https://metacpan.org/release/Data-Compare
 License      : GPL+ or Artistic
 Descript     : This module compares arbitrary data structures to see if they are copies
@@ -2280,8 +2280,8 @@ Descript     : This module compares arbitrary data structures to see if they are
 <summary>perl-Data-Dump</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pretty printing of data structures
+From repo    : fedora
+Short desc   : Pretty printing of data structures
 URL          : https://metacpan.org/release/Data-Dump
 License      : GPL+ or Artistic
 Descript     : This module provides a single function called dump() that takes a list of
@@ -2296,8 +2296,8 @@ Descript     : This module provides a single function called dump() that takes a
 <summary>perl-Data-Dumper</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Stringify perl data structures, suitable for printing and eval
+From repo    : anaconda
+Short desc   : Stringify perl data structures, suitable for printing and eval
 URL          : https://metacpan.org/release/Data-Dumper
 License      : GPL+ or Artistic
 Descript     : Given a list of scalars or reference variables, writes out their contents
@@ -2312,8 +2312,8 @@ Descript     : Given a list of scalars or reference variables, writes out their 
 <summary>perl-Data-Dumper-Concise</summary>
 
 ```
-From repo     : fedora
-Short desc    : A convenient way to reproduce a set of Dumper options
+From repo    : fedora
+Short desc   : A convenient way to reproduce a set of Dumper options
 URL          : https://metacpan.org/release/Data-Dumper-Concise
 License      : GPL+ or Artistic
 Descript     : This module always exports a single function, Dumper, which can be
@@ -2329,8 +2329,8 @@ Descript     : This module always exports a single function, Dumper, which can b
 <summary>perl-Data-OptList</summary>
 
 ```
-From repo     : fedora
-Short desc    : Parse and validate simple name/value option pairs
+From repo    : fedora
+Short desc   : Parse and validate simple name/value option pairs
 URL          : https://metacpan.org/release/Data-OptList
 License      : GPL+ or Artistic
 Descript     : Hashes are great for storing named data, but if you want more than one entry
@@ -2361,8 +2361,8 @@ Descript     : Hashes are great for storing named data, but if you want more tha
 <summary>perl-Data-Page</summary>
 
 ```
-From repo     : fedora
-Short desc    : Help when paging through sets of results
+From repo    : fedora
+Short desc   : Help when paging through sets of results
 URL          : https://metacpan.org/release/Data-Page
 License      : GPL+ or Artistic
 Descript     : Help when paging through sets of results.
@@ -2374,8 +2374,8 @@ Descript     : Help when paging through sets of results.
 <summary>perl-Data-Section</summary>
 
 ```
-From repo     : fedora
-Short desc    : Read multiple hunks of data out of your DATA section
+From repo    : fedora
+Short desc   : Read multiple hunks of data out of your DATA section
 URL          : https://metacpan.org/release/Data-Section
 License      : GPL+ or Artistic
 Descript     : Data::Section provides an easy way to access multiple named chunks of
@@ -2389,8 +2389,8 @@ Descript     : Data::Section provides an easy way to access multiple named chunk
 <summary>perl-Data-Uniqid</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension for simple generating of unique id's
+From repo    : fedora
+Short desc   : Perl extension for simple generating of unique id's
 URL          : https://metacpan.org/release/Data-Uniqid
 License      : GPL+ or Artistic
 Descript     : Data::Uniqid provides three simple routines for generating unique ids.
@@ -2404,8 +2404,8 @@ Descript     : Data::Uniqid provides three simple routines for generating unique
 <summary>perl-Date-Calc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gregorian calendar date calculations
+From repo    : fedora
+Short desc   : Gregorian calendar date calculations
 URL          : https://metacpan.org/release/Date-Calc
 License      : GPL+ or Artistic
 Descript     : The library provides all sorts of date calculations based on the
@@ -2420,8 +2420,8 @@ Descript     : The library provides all sorts of date calculations based on the
 <summary>perl-Date-ISO8601</summary>
 
 ```
-From repo     : fedora
-Short desc    : Three ISO 8601 numerical calendars
+From repo    : fedora
+Short desc   : Three ISO 8601 numerical calendars
 URL          : https://metacpan.org/release/Date-ISO8601
 License      : GPL+ or Artistic
 Descript     : The international standard ISO 8601 "Data elements and interchange formats
@@ -2443,8 +2443,8 @@ Descript     : The international standard ISO 8601 "Data elements and interchang
 <summary>perl-Date-Manip</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Date manipulation routines
+From repo    : updates-testing
+Short desc   : Date manipulation routines
 URL          : https://metacpan.org/release/Date-Manip
 License      : GPL+ or Artistic
 Descript     : Date::Manip is a series of modules designed to make any common date/time
@@ -2462,8 +2462,8 @@ Descript     : Date::Manip is a series of modules designed to make any common da
 
 ```
 Эпоха        : 2
-From repo     : fedora
-Short desc    : Date and time object for Perl
+From repo    : fedora
+Short desc   : Date and time object for Perl
 URL          : https://metacpan.org/release/DateTime
 License      : Artistic 2.0
 Descript     : DateTime is a class for the representation of date/time combinations.  It
@@ -2480,8 +2480,8 @@ Descript     : DateTime is a class for the representation of date/time combinati
 <summary>perl-DateTime-Calendar-Julian</summary>
 
 ```
-From repo     : fedora
-Short desc    : Julian Calendar support for DateTime.pm
+From repo    : fedora
+Short desc   : Julian Calendar support for DateTime.pm
 URL          : https://metacpan.org/release/DateTime-Calendar-Julian
 License      : GPL+ or Artistic
 Descript     : DateTime object in the Julian calendar.
@@ -2493,8 +2493,8 @@ Descript     : DateTime object in the Julian calendar.
 <summary>perl-DateTime-Format-Builder</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Create DateTime parser classes and objects
+From repo    : updates-testing
+Short desc   : Create DateTime parser classes and objects
 URL          : https://metacpan.org/release/DateTime-Format-Builder
 License      : Artistic 2.0 and (GPL+ or Artistic)
 Descript     : DateTime::Format::Builder creates DateTime parsers. Many string formats of
@@ -2515,8 +2515,8 @@ Descript     : DateTime::Format::Builder creates DateTime parsers. Many string f
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Parse and format strptime and strftime patterns
+From repo    : fedora
+Short desc   : Parse and format strptime and strftime patterns
 URL          : https://metacpan.org/release/DateTime-Format-Strptime
 License      : Artistic 2.0
 Descript     : This module implements most of strptime(3), the POSIX function that is the
@@ -2531,8 +2531,8 @@ Descript     : This module implements most of strptime(3), the POSIX function th
 <summary>perl-DateTime-Locale</summary>
 
 ```
-From repo     : fedora
-Short desc    : Localization support for DateTime.pm
+From repo    : fedora
+Short desc   : Localization support for DateTime.pm
 URL          : https://metacpan.org/release/DateTime-Locale
 License      : (GPL+ or Artistic) and Unicode
 Descript     : DateTime::Locale is primarily a factory for the various locale sub-classes.
@@ -2546,8 +2546,8 @@ Descript     : DateTime::Locale is primarily a factory for the various locale su
 <summary>perl-DateTime-TimeZone</summary>
 
 ```
-From repo     : fedora
-Short desc    : Time zone object base class and factory
+From repo    : fedora
+Short desc   : Time zone object base class and factory
 URL          : https://metacpan.org/release/DateTime-TimeZone
 License      : (GPL+ or Artistic) and Public Domain
 Descript     : This class is the base class for all time zone objects. A time zone is
@@ -2561,8 +2561,8 @@ Descript     : This class is the base class for all time zone objects. A time zo
 <summary>perl-DateTime-TimeZone-SystemV</summary>
 
 ```
-From repo     : fedora
-Short desc    : System V and POSIX timezone strings
+From repo    : fedora
+Short desc   : System V and POSIX timezone strings
 URL          : https://metacpan.org/release/DateTime-TimeZone-SystemV
 License      : GPL+ or Artistic
 Descript     : An instance of this class represents a timezone that was specified by means
@@ -2581,8 +2581,8 @@ Descript     : An instance of this class represents a timezone that was specifie
 <summary>perl-DateTime-TimeZone-Tzfile</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tzfile (zoneinfo) timezone files
+From repo    : fedora
+Short desc   : Tzfile (zoneinfo) timezone files
 URL          : https://metacpan.org/release/DateTime-TimeZone-Tzfile
 License      : GPL+ or Artistic
 Descript     : An instance of this class represents a timezone that was encoded in a file
@@ -2600,8 +2600,8 @@ Descript     : An instance of this class represents a timezone that was encoded 
 <summary>perl-Devel-ArgNames</summary>
 
 ```
-From repo     : fedora
-Short desc    : Figure out the names of variables passed into subroutines
+From repo    : fedora
+Short desc   : Figure out the names of variables passed into subroutines
 URL          : https://metacpan.org/release/Devel-ArgNames
 License      : GPL+ or Artistic
 Descript     : This Perl module provides a function which returns the names associated
@@ -2614,8 +2614,8 @@ Descript     : This Perl module provides a function which returns the names asso
 <summary>perl-Devel-CallChecker</summary>
 
 ```
-From repo     : fedora
-Short desc    : Custom op checking attached to subroutines
+From repo    : fedora
+Short desc   : Custom op checking attached to subroutines
 URL          : https://metacpan.org/release/Devel-CallChecker
 License      : GPL+ or Artistic
 Descript     : This module makes some new features of the Perl 5.14.0 C API available to
@@ -2635,8 +2635,8 @@ Descript     : This module makes some new features of the Perl 5.14.0 C API avai
 <summary>perl-Devel-Caller</summary>
 
 ```
-From repo     : fedora
-Short desc    : Meatier versions of caller
+From repo    : fedora
+Short desc   : Meatier versions of caller
 URL          : https://metacpan.org/release/Devel-Caller
 License      : GPL+ or Artistic
 Descript     : Devel::Caller - Meatier versions of caller.
@@ -2648,8 +2648,8 @@ Descript     : Devel::Caller - Meatier versions of caller.
 <summary>perl-Devel-CheckOS</summary>
 
 ```
-From repo     : fedora
-Short desc    : Check what OS we're running on
+From repo    : fedora
+Short desc   : Check what OS we're running on
 URL          : https://metacpan.org/release/Devel-CheckOS
 License      : (GPLv2 or Artistic) and CC-BY-SA
 Descript     : Devel::CheckOS provides a more friendly interface to $^O, and also lets you
@@ -2663,8 +2663,8 @@ Descript     : Devel::CheckOS provides a more friendly interface to $^O, and als
 <summary>perl-Devel-GlobalDestruction</summary>
 
 ```
-From repo     : fedora
-Short desc    : Expose PL_dirty, the flag that marks global destruction
+From repo    : fedora
+Short desc   : Expose PL_dirty, the flag that marks global destruction
 URL          : https://metacpan.org/release/Devel-GlobalDestruction
 License      : GPL+ or Artistic
 Descript     : Perl's global destruction is a little tricky to deal with with respect to
@@ -2684,8 +2684,8 @@ Descript     : Perl's global destruction is a little tricky to deal with with re
 <summary>perl-Devel-LexAlias</summary>
 
 ```
-From repo     : fedora
-Short desc    : Alias lexical variables
+From repo    : fedora
+Short desc   : Alias lexical variables
 URL          : https://metacpan.org/release/Devel-LexAlias
 License      : GPL+ or Artistic
 Descript     : Devel::LexAlias provides the ability to alias a lexical variable in a
@@ -2698,8 +2698,8 @@ Descript     : Devel::LexAlias provides the ability to alias a lexical variable 
 <summary>perl-Devel-OverloadInfo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Introspect overloaded operators
+From repo    : fedora
+Short desc   : Introspect overloaded operators
 URL          : https://metacpan.org/release/Devel-OverloadInfo
 License      : GPL+ or Artistic
 Descript     : Devel::OverloadInfo returns information about overloaded operators for a
@@ -2713,8 +2713,8 @@ Descript     : Devel::OverloadInfo returns information about overloaded operator
 <summary>perl-Devel-PPPort</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl Pollution Portability header generator
+From repo    : fedora
+Short desc   : Perl Pollution Portability header generator
 URL          : https://metacpan.org/release/Devel-PPPort
 License      : GPL+ or Artistic
 Descript     : Perl's API has changed over time, gaining new features, new functions,
@@ -2731,8 +2731,8 @@ Descript     : Perl's API has changed over time, gaining new features, new funct
 <summary>perl-Devel-PartialDump</summary>
 
 ```
-From repo     : fedora
-Short desc    : Partial dumping of data structures, optimized for argument printing
+From repo    : fedora
+Short desc   : Partial dumping of data structures, optimized for argument printing
 URL          : https://metacpan.org/release/Devel-PartialDump
 License      : GPL+ or Artistic
 Descript     : This module is a data dumper optimized for logging of arbitrary parameters.
@@ -2744,8 +2744,8 @@ Descript     : This module is a data dumper optimized for logging of arbitrary p
 <summary>perl-Devel-Peek</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A data debugging tool for the XS programmer
+From repo    : updates-testing
+Short desc   : A data debugging tool for the XS programmer
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Devel::Peek contains functions which allows raw Perl data types to be
@@ -2760,8 +2760,8 @@ Descript     : Devel::Peek contains functions which allows raw Perl data types t
 <summary>perl-Devel-SelfStubber</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Generate stubs for a SelfLoading module
+From repo    : updates-testing
+Short desc   : Generate stubs for a SelfLoading module
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Devel::SelfStubber prints the stubs you need to put in the module before the
@@ -2776,8 +2776,8 @@ Descript     : Devel::SelfStubber prints the stubs you need to put in the module
 <summary>perl-Devel-Size</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension for finding the memory usage of Perl variables
+From repo    : fedora
+Short desc   : Perl extension for finding the memory usage of Perl variables
 URL          : https://metacpan.org/release/Devel-Size
 License      : GPL+ or Artistic
 Descript     : This module figures out the real sizes of Perl variables in bytes. Call
@@ -2793,8 +2793,8 @@ Descript     : This module figures out the real sizes of Perl variables in bytes
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Perl module implementing stack trace and stack trace frame objects
+From repo    : fedora
+Short desc   : Perl module implementing stack trace and stack trace frame objects
 URL          : https://metacpan.org/release/Devel-StackTrace
 License      : Artistic 2.0
 Descript     : The Devel::StackTrace module contains two classes, Devel::StackTrace
@@ -2813,8 +2813,8 @@ Descript     : The Devel::StackTrace module contains two classes, Devel::StackTr
 <summary>perl-Digest</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Modules that calculate message digests
+From repo    : anaconda
+Short desc   : Modules that calculate message digests
 URL          : https://metacpan.org/release/Digest
 License      : GPL+ or Artistic
 Descript     : The Digest:: modules calculate digests, also called "fingerprints" or
@@ -2829,8 +2829,8 @@ Descript     : The Digest:: modules calculate digests, also called "fingerprints
 <summary>perl-Digest-CRC</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generic CRC functions
+From repo    : fedora
+Short desc   : Generic CRC functions
 URL          : https://metacpan.org/release/Digest-CRC
 License      : Public Domain
 Descript     : The Digest::CRC module calculates CRC sums of all sorts. It contains wrapper
@@ -2843,8 +2843,8 @@ Descript     : The Digest::CRC module calculates CRC sums of all sorts. It conta
 <summary>perl-Digest-HMAC</summary>
 
 ```
-From repo     : fedora
-Short desc    : Keyed-Hashing for Message Authentication
+From repo    : fedora
+Short desc   : Keyed-Hashing for Message Authentication
 URL          : https://metacpan.org/release/Digest-HMAC
 License      : GPL+ or Artistic
 Descript     : HMAC is used for message integrity checks between two parties that
@@ -2862,8 +2862,8 @@ Descript     : HMAC is used for message integrity checks between two parties tha
 <summary>perl-Digest-MD2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the MD2 Algorithm
+From repo    : fedora
+Short desc   : Perl interface to the MD2 Algorithm
 URL          : https://metacpan.org/release/Digest-MD2
 License      : GPL+ or Artistic
 Descript     : The Digest::MD2 module allows you to use the RSA Data Security Inc. MD2 Message
@@ -2881,8 +2881,8 @@ Descript     : The Digest::MD2 module allows you to use the RSA Data Security In
 <summary>perl-Digest-MD4</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the MD4 Algorithm
+From repo    : fedora
+Short desc   : Perl interface to the MD4 Algorithm
 URL          : https://metacpan.org/release/Digest-MD4
 License      : GPL+ or Artistic
 Descript     : The Digest::MD4 module allows you to use the RSA Data Security Inc. MD4 Message
@@ -2897,8 +2897,8 @@ Descript     : The Digest::MD4 module allows you to use the RSA Data Security In
 <summary>perl-Digest-MD5</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl interface to the MD5 algorithm
+From repo    : anaconda
+Short desc   : Perl interface to the MD5 algorithm
 URL          : https://metacpan.org/release/Digest-MD5
 License      : (GPL+ or Artistic) and RSA
 Descript     : The Digest::MD5 module allows you to use the RSA Data Security Inc. MD5
@@ -2913,8 +2913,8 @@ Descript     : The Digest::MD5 module allows you to use the RSA Data Security In
 <summary>perl-Digest-Perl-MD5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl implementation of Ron Rivest's MD5 Algorithm
+From repo    : fedora
+Short desc   : Perl implementation of Ron Rivest's MD5 Algorithm
 URL          : https://metacpan.org/release/Digest-Perl-MD5
 License      : GPL+ or Artistic
 Descript     : A pure-perl implementation of Ron Rivest's MD5 Algorithm.
@@ -2927,8 +2927,8 @@ Descript     : A pure-perl implementation of Ron Rivest's MD5 Algorithm.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Perl extension for SHA-1/224/256/384/512
+From repo    : fedora
+Short desc   : Perl extension for SHA-1/224/256/384/512
 URL          : https://metacpan.org/release/Digest-SHA
 License      : GPL+ or Artistic
 Descript     : Digest::SHA is a complete implementation of the NIST Secure Hash Standard. It
@@ -2943,8 +2943,8 @@ Descript     : Digest::SHA is a complete implementation of the NIST Secure Hash 
 <summary>perl-Digest-SHA3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension for SHA-3
+From repo    : fedora
+Short desc   : Perl extension for SHA-3
 URL          : https://metacpan.org/release/Digest-SHA3
 License      : GPL+ or Artistic
 Descript     : Digest::SHA3 is written in C for speed. If your platform lacks a C
@@ -2958,8 +2958,8 @@ Descript     : Digest::SHA3 is written in C for speed. If your platform lacks a 
 <summary>perl-DirHandle</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Supply object methods for directory handles
+From repo    : updates-testing
+Short desc   : Supply object methods for directory handles
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : There is no reason to use this module nowadays. The DirHandle module provides
@@ -2974,8 +2974,8 @@ Descript     : There is no reason to use this module nowadays. The DirHandle mod
 <summary>perl-Dist-CheckConflicts</summary>
 
 ```
-From repo     : fedora
-Short desc    : Declare version conflicts for your dist
+From repo    : fedora
+Short desc   : Declare version conflicts for your dist
 URL          : https://metacpan.org/release/Dist-CheckConflicts
 License      : GPL+ or Artistic
 Descript     : One shortcoming of the CPAN clients that currently exist is that they have no
@@ -3002,8 +3002,8 @@ Descript     : One shortcoming of the CPAN clients that currently exist is that 
 <summary>perl-Dumpvalue</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Screen dump of Perl data
+From repo    : updates-testing
+Short desc   : Screen dump of Perl data
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Dumpvalue module enables you to print a content of variables and other Perl
@@ -3016,8 +3016,8 @@ Descript     : Dumpvalue module enables you to print a content of variables and 
 <summary>perl-DynaLoader</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Dynamically load C libraries into Perl code
+From repo    : updates-testing
+Short desc   : Dynamically load C libraries into Perl code
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The DynaLoader module defines a standard generic interface to the dynamic
@@ -3032,8 +3032,8 @@ Descript     : The DynaLoader module defines a standard generic interface to the
 <summary>perl-DynaLoader-Functions</summary>
 
 ```
-From repo     : fedora
-Short desc    : Deconstructed dynamic C library loading
+From repo    : fedora
+Short desc   : Deconstructed dynamic C library loading
 URL          : https://metacpan.org/release/DynaLoader-Functions
 License      : GPL+ or Artistic
 Descript     : This module provides a function-based interface to dynamic loading as used
@@ -3048,8 +3048,8 @@ Descript     : This module provides a function-based interface to dynamic loadin
 <summary>perl-Email-Date-Format</summary>
 
 ```
-From repo     : fedora
-Short desc    : Produce RFC 2822 date strings
+From repo    : fedora
+Short desc   : Produce RFC 2822 date strings
 URL          : https://metacpan.org/release/Email-Date-Format
 License      : GPL+ or Artistic
 Descript     : This module can be used to emit RFC 2822 style date strings.
@@ -3062,8 +3062,8 @@ Descript     : This module can be used to emit RFC 2822 style date strings.
 
 ```
 Эпоха        : 4
-From repo     : anaconda
-Short desc    : Character encodings in Perl
+From repo    : anaconda
+Short desc   : Character encodings in Perl
 URL          : https://metacpan.org/release/Encode
 License      : (GPL+ or Artistic) and Artistic 2.0 and UCD
 Descript     : The Encode module provides the interface between Perl strings and the rest
@@ -3076,8 +3076,8 @@ Descript     : The Encode module provides the interface between Perl strings and
 <summary>perl-Encode-EUCJPASCII</summary>
 
 ```
-From repo     : fedora
-Short desc    : EucJP-ascii - An eucJP-open mapping
+From repo    : fedora
+Short desc   : EucJP-ascii - An eucJP-open mapping
 URL          : https://metacpan.org/release/Encode-EUCJPASCII
 License      : GPL+ or Artistic
 Descript     : This module provides eucJP-ascii, one of eucJP-open mappings, and its
@@ -3090,8 +3090,8 @@ Descript     : This module provides eucJP-ascii, one of eucJP-open mappings, and
 <summary>perl-Encode-HanExtra</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extra sets of Chinese encodings
+From repo    : fedora
+Short desc   : Extra sets of Chinese encodings
 URL          : https://metacpan.org/release/Encode-HanExtra
 License      : MIT
 Descript     : Perl 5.7.3 and later ships with an adequate set of Chinese encodings,
@@ -3111,8 +3111,8 @@ Descript     : Perl 5.7.3 and later ships with an adequate set of Chinese encodi
 <summary>perl-Encode-JIS2K</summary>
 
 ```
-From repo     : fedora
-Short desc    : JIS X 0212 (aka JIS 2000) Encodings
+From repo    : fedora
+Short desc   : JIS X 0212 (aka JIS 2000) Encodings
 URL          : https://metacpan.org/release/Encode-JIS2K
 License      : GPL+ or Artistic
 Descript     : This module implements encodings that covers JIS X 0213 charset (AKA JIS 2000,
@@ -3125,8 +3125,8 @@ Descript     : This module implements encodings that covers JIS X 0213 charset (
 <summary>perl-Encode-Locale</summary>
 
 ```
-From repo     : fedora
-Short desc    : Determine the locale encoding
+From repo    : fedora
+Short desc   : Determine the locale encoding
 URL          : https://metacpan.org/release/Encode-Locale
 License      : GPL+ or Artistic
 Descript     : In many applications it's wise to let Perl use Unicode for the strings
@@ -3143,8 +3143,8 @@ Descript     : In many applications it's wise to let Perl use Unicode for the st
 
 ```
 Эпоха        : 4
-From repo     : fedora
-Short desc    : Perl Encode Module Generator
+From repo    : fedora
+Short desc   : Perl Encode Module Generator
 URL          : https://metacpan.org/release/Encode
 License      : (GPL+ or Artistic) and UCD
 Descript     : enc2xs builds a Perl extension for use by Encode from either Unicode Character
@@ -3158,8 +3158,8 @@ Descript     : enc2xs builds a Perl extension for use by Encode from either Unic
 <summary>perl-English</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Nice English or awk names for ugly punctuation variables
+From repo    : updates-testing
+Short desc   : Nice English or awk names for ugly punctuation variables
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module provides aliases for the built-in variables whose names no one
@@ -3172,8 +3172,8 @@ Descript     : This module provides aliases for the built-in variables whose nam
 <summary>perl-Env</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module that imports environment variables as scalars or arrays
+From repo    : fedora
+Short desc   : Perl module that imports environment variables as scalars or arrays
 URL          : https://metacpan.org/release/Env
 License      : GPL+ or Artistic
 Descript     : Perl maintains environment variables in a special hash named %ENV. For when
@@ -3187,8 +3187,8 @@ Descript     : Perl maintains environment variables in a special hash named %ENV
 <summary>perl-Errno</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System errno constants
+From repo    : anaconda
+Short desc   : System errno constants
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : "Errno" defines and conditionally exports all the error constants defined in
@@ -3202,8 +3202,8 @@ Descript     : "Errno" defines and conditionally exports all the error constants
 <summary>perl-Errno</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : System errno constants
+From repo    : updates-testing
+Short desc   : System errno constants
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : "Errno" defines and conditionally exports all the error constants defined in
@@ -3218,8 +3218,8 @@ Descript     : "Errno" defines and conditionally exports all the error constants
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Error/exception handling in an OO-ish way
+From repo    : anaconda
+Short desc   : Error/exception handling in an OO-ish way
 URL          : https://metacpan.org/release/Error
 License      : (GPL+ or Artistic) and MIT
 Descript     : The Error package provides two interfaces. Firstly Error provides a
@@ -3234,8 +3234,8 @@ Descript     : The Error package provides two interfaces. Firstly Error provides
 <summary>perl-Eval-Closure</summary>
 
 ```
-From repo     : fedora
-Short desc    : Safely and cleanly create closures via string eval
+From repo    : fedora
+Short desc   : Safely and cleanly create closures via string eval
 URL          : https://metacpan.org/release/Eval-Closure
 License      : GPL+ or Artistic
 Descript     : String eval is often used for dynamic code generation. For instance, Moose uses
@@ -3260,8 +3260,8 @@ Descript     : String eval is often used for dynamic code generation. For instan
 <summary>perl-Exception-Class</summary>
 
 ```
-From repo     : fedora
-Short desc    : Module that allows you to declare real exception classes in Perl
+From repo    : fedora
+Short desc   : Module that allows you to declare real exception classes in Perl
 URL          : https://metacpan.org/release/Exception-Class
 License      : GPL+ or Artistic
 Descript     : Exception::Class allows you to declare exception hierarchies in your
@@ -3274,8 +3274,8 @@ Descript     : Exception::Class allows you to declare exception hierarchies in y
 <summary>perl-Exporter</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Implements default import method for modules
+From repo    : anaconda
+Short desc   : Implements default import method for modules
 URL          : https://metacpan.org/release/Exporter
 License      : GPL+ or Artistic
 Descript     : The Exporter module implements an import method which allows a module to
@@ -3291,8 +3291,8 @@ Descript     : The Exporter module implements an import method which allows a mo
 <summary>perl-Exporter-Tiny</summary>
 
 ```
-From repo     : fedora
-Short desc    : An exporter with the features of Sub::Exporter but only core dependencies
+From repo    : fedora
+Short desc   : An exporter with the features of Sub::Exporter but only core dependencies
 URL          : https://metacpan.org/release/Exporter-Tiny
 License      : GPL+ or Artistic
 Descript     : Exporter::Tiny supports many of Sub::Exporter's external-facing features
@@ -3317,8 +3317,8 @@ Descript     : Exporter::Tiny supports many of Sub::Exporter's external-facing f
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Compile and link C code for Perl modules
+From repo    : fedora
+Short desc   : Compile and link C code for Perl modules
 URL          : https://metacpan.org/release/ExtUtils-CBuilder
 License      : GPL+ or Artistic
 Descript     : This module can build the C portions of Perl modules by invoking the
@@ -3333,8 +3333,8 @@ Descript     : This module can build the C portions of Perl modules by invoking 
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Perl routines to replace common UNIX commands in Makefiles
+From repo    : updates-testing
+Short desc   : Perl routines to replace common UNIX commands in Makefiles
 URL          : https://metacpan.org/release/ExtUtils-MakeMaker
 License      : GPL+ or Artistic
 Descript     : This Perl module is used to replace common UNIX commands. In all cases the
@@ -3348,8 +3348,8 @@ Descript     : This Perl module is used to replace common UNIX commands. In all 
 <summary>perl-ExtUtils-Constant</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Generate XS code to import C header constants
+From repo    : updates-testing
+Short desc   : Generate XS code to import C header constants
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : ExtUtils::Constant facilitates generating C and XS wrapper code to allow
@@ -3362,8 +3362,8 @@ Descript     : ExtUtils::Constant facilitates generating C and XS wrapper code t
 <summary>perl-ExtUtils-Embed</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utilities for embedding Perl in C/C++ applications
+From repo    : updates-testing
+Short desc   : Utilities for embedding Perl in C/C++ applications
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Utilities for embedding Perl in C/C++ applications.
@@ -3375,8 +3375,8 @@ Descript     : Utilities for embedding Perl in C/C++ applications.
 <summary>perl-ExtUtils-Install</summary>
 
 ```
-From repo     : fedora
-Short desc    : Install Perl files from here to there
+From repo    : fedora
+Short desc   : Install Perl files from here to there
 URL          : https://metacpan.org/release/ExtUtils-Install
 License      : GPL+ or Artistic
 Descript     : Handles the installing and uninstalling of Perl modules, scripts, manual
@@ -3390,8 +3390,8 @@ Descript     : Handles the installing and uninstalling of Perl modules, scripts,
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : ExtUtils::MM methods without dependency on ExtUtils::MakeMaker
+From repo    : updates-testing
+Short desc   : ExtUtils::MM methods without dependency on ExtUtils::MakeMaker
 URL          : https://metacpan.org/release/ExtUtils-MakeMaker
 License      : GPL+ or Artistic
 Descript     : This is a collection of ExtUtils::MM subroutines that are used by many
@@ -3407,8 +3407,8 @@ Descript     : This is a collection of ExtUtils::MM subroutines that are used by
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Create a module Makefile
+From repo    : updates-testing
+Short desc   : Create a module Makefile
 URL          : https://metacpan.org/release/ExtUtils-MakeMaker
 License      : GPL+ or Artistic
 Descript     : This utility is designed to write a Makefile for an extension module from a
@@ -3423,8 +3423,8 @@ Descript     : This utility is designed to write a Makefile for an extension mod
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Utilities to write and check a MANIFEST file
+From repo    : fedora
+Short desc   : Utilities to write and check a MANIFEST file
 URL          : https://metacpan.org/release/ExtUtils-Manifest
 License      : GPL+ or Artistic
 Descript     : Utilities to write and check a MANIFEST file.
@@ -3436,8 +3436,8 @@ Descript     : Utilities to write and check a MANIFEST file.
 <summary>perl-ExtUtils-Miniperl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Write the C code for perlmain.c
+From repo    : updates-testing
+Short desc   : Write the C code for perlmain.c
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : writemain() takes an argument list of directories containing archive libraries
@@ -3456,8 +3456,8 @@ Descript     : writemain() takes an argument list of directories containing arch
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Module and a script for converting Perl XS code into C code
+From repo    : fedora
+Short desc   : Module and a script for converting Perl XS code into C code
 URL          : https://metacpan.org/release/ExtUtils-ParseXS
 License      : GPL+ or Artistic
 Descript     : ExtUtils::ParseXS will compile XS code into C code by embedding the
@@ -3472,8 +3472,8 @@ Descript     : ExtUtils::ParseXS will compile XS code into C code by embedding t
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : FastCGI Perl bindings
+From repo    : fedora
+Short desc   : FastCGI Perl bindings
 URL          : https://metacpan.org/release/FCGI
 License      : OML
 Descript     : FastCGI Perl bindings.
@@ -3485,8 +3485,8 @@ Descript     : FastCGI Perl bindings.
 <summary>perl-Fcntl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : File operation options
+From repo    : anaconda
+Short desc   : File operation options
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Fcntl module provides file operation related options.
@@ -3498,8 +3498,8 @@ Descript     : Fcntl module provides file operation related options.
 <summary>perl-Fcntl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : File operation options
+From repo    : updates-testing
+Short desc   : File operation options
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Fcntl module provides file operation related options.
@@ -3511,8 +3511,8 @@ Descript     : Fcntl module provides file operation related options.
 <summary>perl-File-Basename</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Parse file paths into directory, file name, and suffix
+From repo    : anaconda
+Short desc   : Parse file paths into directory, file name, and suffix
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : These routines allow you to parse file paths into their directory, file name,
@@ -3525,8 +3525,8 @@ Descript     : These routines allow you to parse file paths into their directory
 <summary>perl-File-Basename</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Parse file paths into directory, file name, and suffix
+From repo    : updates-testing
+Short desc   : Parse file paths into directory, file name, and suffix
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : These routines allow you to parse file paths into their directory, file name,
@@ -3539,8 +3539,8 @@ Descript     : These routines allow you to parse file paths into their directory
 <summary>perl-File-CheckTree</summary>
 
 ```
-From repo     : fedora
-Short desc    : Run many file-test checks on a tree
+From repo    : fedora
+Short desc   : Run many file-test checks on a tree
 URL          : https://metacpan.org/release/File-CheckTree
 License      : GPL+ or Artistic
 Descript     : File::CheckTree::validate() routine takes a single multi-line string
@@ -3560,8 +3560,8 @@ Descript     : File::CheckTree::validate() routine takes a single multi-line str
 <summary>perl-File-Compare</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Compare files or file handles
+From repo    : updates-testing
+Short desc   : Compare files or file handles
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : A File::Compare Perl module provides functions for comparing a content of two
@@ -3574,8 +3574,8 @@ Descript     : A File::Compare Perl module provides functions for comparing a co
 <summary>perl-File-Copy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Copy files or file handles
+From repo    : updates-testing
+Short desc   : Copy files or file handles
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : A File::Copy module provides two basic functions, copy and move, which are
@@ -3588,8 +3588,8 @@ Descript     : A File::Copy module provides two basic functions, copy and move, 
 <summary>perl-File-Copy-Recursive</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extension for recursively copying files and directories
+From repo    : fedora
+Short desc   : Extension for recursively copying files and directories
 URL          : https://metacpan.org/release/File-Copy-Recursive
 License      : GPL+ or Artistic
 Descript     : This module copies and moves directories recursively to an optional depth and
@@ -3602,8 +3602,8 @@ Descript     : This module copies and moves directories recursively to an option
 <summary>perl-File-DosGlob</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : DOS-like globbing
+From repo    : updates-testing
+Short desc   : DOS-like globbing
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This Perl module implements DOS-like globbing with a few enhancements. It
@@ -3617,8 +3617,8 @@ Descript     : This Perl module implements DOS-like globbing with a few enhancem
 <summary>perl-File-Fetch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generic file fetching mechanism
+From repo    : fedora
+Short desc   : Generic file fetching mechanism
 URL          : https://metacpan.org/release/File-Fetch
 License      : GPL+ or Artistic
 Descript     : File::Fetch allows you to fetch any file pointed to by a "ftp", "http",
@@ -3631,8 +3631,8 @@ Descript     : File::Fetch allows you to fetch any file pointed to by a "ftp", "
 <summary>perl-File-Find</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Traverse a directory tree
+From repo    : anaconda
+Short desc   : Traverse a directory tree
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : These are functions for searching through directory trees doing work on each
@@ -3645,8 +3645,8 @@ Descript     : These are functions for searching through directory trees doing w
 <summary>perl-File-Find</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Traverse a directory tree
+From repo    : updates-testing
+Short desc   : Traverse a directory tree
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : These are functions for searching through directory trees doing work on each
@@ -3659,8 +3659,8 @@ Descript     : These are functions for searching through directory trees doing w
 <summary>perl-File-Find-Rule</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module implementing an alternative interface to File::Find
+From repo    : fedora
+Short desc   : Perl module implementing an alternative interface to File::Find
 URL          : https://metacpan.org/release/File-Find-Rule
 License      : GPL+ or Artistic
 Descript     : File::Find::Rule is a friendlier interface to File::Find.  It allows
@@ -3673,8 +3673,8 @@ Descript     : File::Find::Rule is a friendlier interface to File::Find.  It all
 <summary>perl-File-HomeDir</summary>
 
 ```
-From repo     : fedora
-Short desc    : Find your home and other directories on any platform
+From repo    : fedora
+Short desc   : Find your home and other directories on any platform
 URL          : https://metacpan.org/release/File-HomeDir
 License      : GPL+ or Artistic
 Descript     : File::HomeDir is a module for locating the directories that are "owned"
@@ -3689,8 +3689,8 @@ Descript     : File::HomeDir is a module for locating the directories that are "
 <summary>perl-File-Listing</summary>
 
 ```
-From repo     : fedora
-Short desc    : Parse directory listing
+From repo    : fedora
+Short desc   : Parse directory listing
 URL          : https://metacpan.org/release/File-Listing
 License      : GPL+ or Artistic
 Descript     : This module exports a single function called parse_dir(), which can be used
@@ -3703,8 +3703,8 @@ Descript     : This module exports a single function called parse_dir(), which c
 <summary>perl-File-MMagic</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Perl module emulating the file(1) command
+From repo    : fedora
+Short desc   : A Perl module emulating the file(1) command
 URL          : https://metacpan.org/release/File-MMagic
 License      : App-s2p and ASL 1.0 and BSD
 Descript     : This module attempts to guess a file's type from its contents like the file(1)
@@ -3717,8 +3717,8 @@ Descript     : This module attempts to guess a file's type from its contents lik
 <summary>perl-File-Path</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Create or remove directory trees
+From repo    : anaconda
+Short desc   : Create or remove directory trees
 URL          : https://metacpan.org/release/File-Path
 License      : GPL+ or Artistic
 Descript     : This module provides a convenient way to create directories of arbitrary
@@ -3731,8 +3731,8 @@ Descript     : This module provides a convenient way to create directories of ar
 <summary>perl-File-ShareDir</summary>
 
 ```
-From repo     : fedora
-Short desc    : Locate per-dist and per-module shared files
+From repo    : fedora
+Short desc   : Locate per-dist and per-module shared files
 URL          : https://metacpan.org/release/File-ShareDir
 License      : GPL+ or Artistic
 Descript     : The intent of File::ShareDir is to provide a companion to Class::Inspector
@@ -3747,8 +3747,8 @@ Descript     : The intent of File::ShareDir is to provide a companion to Class::
 <summary>perl-File-Slurper</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple, sane and efficient module to slurp a file
+From repo    : fedora
+Short desc   : Simple, sane and efficient module to slurp a file
 URL          : https://metacpan.org/release/File-Slurper
 License      : GPL+ or Artistic
 Descript     : This module provides functions for fast and correct slurping and spewing.
@@ -3762,8 +3762,8 @@ Descript     : This module provides functions for fast and correct slurping and 
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Return name and handle of a temporary file safely
+From repo    : anaconda
+Short desc   : Return name and handle of a temporary file safely
 URL          : https://metacpan.org/release/File-Temp
 License      : GPL+ or Artistic
 Descript     : File::Temp can be used to create and open temporary files in a safe way.
@@ -3779,8 +3779,8 @@ Descript     : File::Temp can be used to create and open temporary files in a sa
 <summary>perl-File-Which</summary>
 
 ```
-From repo     : fedora
-Short desc    : Portable implementation of the 'which' utility
+From repo    : fedora
+Short desc   : Portable implementation of the 'which' utility
 URL          : https://metacpan.org/release/File-Which
 License      : GPL+ or Artistic
 Descript     : File::Which is a portable implementation (in Perl) of 'which', and can
@@ -3794,8 +3794,8 @@ Descript     : File::Which is a portable implementation (in Perl) of 'which', an
 <summary>perl-File-chdir</summary>
 
 ```
-From repo     : fedora
-Short desc    : A more sensible way to change directories
+From repo    : fedora
+Short desc   : A more sensible way to change directories
 URL          : https://metacpan.org/release/File-chdir
 License      : GPL+ or Artistic
 Descript     : Perl's chdir() has the unfortunate problem of being very, very, very
@@ -3815,8 +3815,8 @@ Descript     : Perl's chdir() has the unfortunate problem of being very, very, v
 <summary>perl-File-chmod</summary>
 
 ```
-From repo     : fedora
-Short desc    : Implements symbolic and ls chmod modes
+From repo    : fedora
+Short desc   : Implements symbolic and ls chmod modes
 URL          : https://metacpan.org/release/File-chmod
 License      : GPL+ or Artistic
 Descript     : Implements symbolic and ls chmod modes
@@ -3828,8 +3828,8 @@ Descript     : Implements symbolic and ls chmod modes
 <summary>perl-File-stat</summary>
 
 ```
-From repo     : anaconda
-Short desc    : By-name interface to Perl built-in stat functions
+From repo    : anaconda
+Short desc   : By-name interface to Perl built-in stat functions
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module overrides the core stat() and lstat() functions, replacing them
@@ -3843,8 +3843,8 @@ Descript     : This module overrides the core stat() and lstat() functions, repl
 <summary>perl-File-stat</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : By-name interface to Perl built-in stat functions
+From repo    : updates-testing
+Short desc   : By-name interface to Perl built-in stat functions
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module overrides the core stat() and lstat() functions, replacing them
@@ -3858,8 +3858,8 @@ Descript     : This module overrides the core stat() and lstat() functions, repl
 <summary>perl-FileCache</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Keep more files open than the system permits
+From repo    : updates-testing
+Short desc   : Keep more files open than the system permits
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "cacheout" function will make sure that there's a file handle open
@@ -3874,8 +3874,8 @@ Descript     : The "cacheout" function will make sure that there's a file handle
 <summary>perl-FileHandle</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Object methods for file handles
+From repo    : updates-testing
+Short desc   : Object methods for file handles
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This is an object-oriented interface for opening files and performing
@@ -3889,8 +3889,8 @@ Descript     : This is an object-oriented interface for opening files and perfor
 
 ```
 Эпоха        : 2
-From repo     : fedora
-Short desc    : Perl source filters
+From repo    : fedora
+Short desc   : Perl source filters
 URL          : https://metacpan.org/release/Filter
 License      : GPL+ or Artistic
 Descript     : Source filters alter the program text of a module before Perl sees it, much as
@@ -3904,8 +3904,8 @@ Descript     : Source filters alter the program text of a module before Perl see
 <summary>perl-Filter-Simple</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simplified Perl source filtering
+From repo    : fedora
+Short desc   : Simplified Perl source filtering
 URL          : https://metacpan.org/release/Filter-Simple
 License      : GPL+ or Artistic
 Descript     : The Filter::Simple Perl module provides a simplified interface to
@@ -3918,8 +3918,8 @@ Descript     : The Filter::Simple Perl module provides a simplified interface to
 <summary>perl-FindBin</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Locate a directory of an original Perl script
+From repo    : updates-testing
+Short desc   : Locate a directory of an original Perl script
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Locates the full path to the script bin directory to allow the use of paths
@@ -3932,8 +3932,8 @@ Descript     : Locates the full path to the script bin directory to allow the us
 <summary>perl-GD</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the GD graphics library
+From repo    : fedora
+Short desc   : Perl interface to the GD graphics library
 URL          : https://metacpan.org/release/GD
 License      : GPL+ or Artistic 2.0
 Descript     : This is a auto-loadable interface module for GD, a popular library
@@ -3947,8 +3947,8 @@ Descript     : This is a auto-loadable interface module for GD, a popular librar
 <summary>perl-GD-Barcode</summary>
 
 ```
-From repo     : fedora
-Short desc    : Create barcode image with GD
+From repo    : fedora
+Short desc   : Create barcode image with GD
 URL          : https://metacpan.org/release/GD-Barcode
 License      : GPL+ or Artistic
 Descript     : GD::Barcode is a subclass of GD and allows you to create barcode images
@@ -3961,8 +3961,8 @@ Descript     : GD::Barcode is a subclass of GD and allows you to create barcode 
 <summary>perl-GDBM_File</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl5 access to the gdbm library
+From repo    : updates-testing
+Short desc   : Perl5 access to the gdbm library
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : GDBM_File is a module which allows Perl programs to make use of the facilities
@@ -3975,8 +3975,8 @@ Descript     : GDBM_File is a module which allows Perl programs to make use of t
 <summary>perl-GSSAPI</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension providing access to the GSSAPIv2 library
+From repo    : fedora
+Short desc   : Perl extension providing access to the GSSAPIv2 library
 URL          : https://metacpan.org/release/GSSAPI
 License      : GPL+ or Artistic
 Descript     : This module gives access to the routines of the GSSAPI library, as
@@ -3991,8 +3991,8 @@ Descript     : This module gives access to the routines of the GSSAPI library, a
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Extended processing of command line options
+From repo    : anaconda
+Short desc   : Extended processing of command line options
 URL          : https://metacpan.org/release/Getopt-Long
 License      : GPLv2+ or Artistic
 Descript     : The Getopt::Long module implements an extended getopt function called
@@ -4011,8 +4011,8 @@ Descript     : The Getopt::Long module implements an extended getopt function ca
 <summary>perl-Getopt-Long-Descriptive</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Getopt::Long with usage text
+From repo    : updates-testing
+Short desc   : Getopt::Long with usage text
 URL          : https://metacpan.org/release/Getopt-Long-Descriptive
 License      : GPL+ or Artistic
 Descript     : Convenient wrapper for Getopt::Long and program usage output.
@@ -4024,8 +4024,8 @@ Descript     : Convenient wrapper for Getopt::Long and program usage output.
 <summary>perl-Getopt-Std</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Process single-character switches with switch clustering
+From repo    : updates-testing
+Short desc   : Process single-character switches with switch clustering
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The Getopt::Std module provides functions for processing single-character
@@ -4039,8 +4039,8 @@ Descript     : The Getopt::Std module provides functions for processing single-c
 <summary>perl-Git</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl interface to Git
+From repo    : anaconda
+Short desc   : Perl interface to Git
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Perl interface to Git.
@@ -4052,8 +4052,8 @@ Descript     : Perl interface to Git.
 <summary>perl-Git</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl interface to Git
+From repo    : updates-testing
+Short desc   : Perl interface to Git
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Perl interface to Git.
@@ -4065,8 +4065,8 @@ Descript     : Perl interface to Git.
 <summary>perl-Git-CPAN-Patch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Patch CPAN modules using Git
+From repo    : fedora
+Short desc   : Patch CPAN modules using Git
 URL          : https://metacpan.org/release/Git-CPAN-Patch
 License      : GPL+ or Artistic
 Descript     : Git::CPAN::Patch provides a suite of git commands aimed at making trivially
@@ -4084,8 +4084,8 @@ Descript     : Git::CPAN::Patch provides a suite of git commands aimed at making
 <summary>perl-Git-Repository</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to Git repositories
+From repo    : fedora
+Short desc   : Perl interface to Git repositories
 URL          : https://metacpan.org/release/Git-Repository
 License      : GPL+ or Artistic
 Descript     : Git::Repository is a Perl interface to Git, for scripted interactions with
@@ -4100,8 +4100,8 @@ Descript     : Git::Repository is a Perl interface to Git, for scripted interact
 <summary>perl-Git-SVN</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl interface to Git::SVN
+From repo    : updates-testing
+Short desc   : Perl interface to Git::SVN
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Perl interface to Git::SVN.
@@ -4113,8 +4113,8 @@ Descript     : Perl interface to Git::SVN.
 <summary>perl-Git-Version-Compare</summary>
 
 ```
-From repo     : fedora
-Short desc    : Functions to compare Git versions
+From repo    : fedora
+Short desc   : Functions to compare Git versions
 URL          : https://metacpan.org/release/Git-Version-Compare
 License      : GPL+ or Artistic
 Descript     : Git::Version::Compare contains a selection of subroutines that make dealing
@@ -4127,8 +4127,8 @@ Descript     : Git::Version::Compare contains a selection of subroutines that ma
 <summary>perl-Glib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to GLib
+From repo    : fedora
+Short desc   : Perl interface to GLib
 URL          : https://metacpan.org/release/Glib
 License      : LGPLv2+
 Descript     : This module provides perl access to GLib and GLib's GObject libraries.
@@ -4145,8 +4145,8 @@ Descript     : This module provides perl access to GLib and GLib's GObject libra
 <summary>perl-Gnome2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the 2.x series of the GNOME libraries (deprecated)
+From repo    : fedora
+Short desc   : Perl interface to the 2.x series of the GNOME libraries (deprecated)
 URL          : https://metacpan.org/release/Gnome2
 License      : LGPLv2+
 Descript     : The Gnome2 module allows a Perl developer to use the GNOME libraries.  Find out
@@ -4161,8 +4161,8 @@ Descript     : The Gnome2 module allows a Perl developer to use the GNOME librar
 <summary>perl-Gnome2-Canvas</summary>
 
 ```
-From repo     : fedora
-Short desc    : An engine for structured graphics in Gnome2 (deprecated)
+From repo    : fedora
+Short desc   : An engine for structured graphics in Gnome2 (deprecated)
 URL          : https://metacpan.org/release/Gnome2-Canvas
 License      : GPLv2+
 Descript     : The Gnome Canvas is an engine for structured graphics that offers a rich
@@ -4182,8 +4182,8 @@ Descript     : The Gnome Canvas is an engine for structured graphics that offers
 <summary>perl-Gnome2-VFS</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the 2.x series of the GNOME VFS library (deprecated)
+From repo    : fedora
+Short desc   : Perl interface to the 2.x series of the GNOME VFS library (deprecated)
 URL          : https://metacpan.org/release/Gnome2-VFS
 License      : LGPLv2+
 Descript     : This module allows you to interface with the GNOME Virtual File System
@@ -4200,8 +4200,8 @@ Descript     : This module allows you to interface with the GNOME Virtual File S
 <summary>perl-Gnome2-Wnck</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the Window Navigator (DEPRECATED)
+From repo    : fedora
+Short desc   : Perl interface to the Window Navigator (DEPRECATED)
 URL          : https://metacpan.org/release/Gnome2-Wnck
 License      : LGPLv2+
 Descript     : DEPRECATED This module allows a Perl developer to use the Window Navigator
@@ -4222,8 +4222,8 @@ Descript     : DEPRECATED This module allows a Perl developer to use the Window 
 <summary>perl-Goo-Canvas</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the GooCanvas
+From repo    : fedora
+Short desc   : Perl interface to the GooCanvas
 URL          : https://metacpan.org/release/Goo-Canvas
 License      : GPL+ or Artistic
 Descript     : GTK+ does't has an buildin canvas widget. GooCanvas is wonderful. It is easy to use
@@ -4238,8 +4238,8 @@ Descript     : GTK+ does't has an buildin canvas widget. GooCanvas is wonderful.
 <summary>perl-Graph</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for dealing with graphs, the abstract data structures
+From repo    : fedora
+Short desc   : Perl module for dealing with graphs, the abstract data structures
 URL          : https://metacpan.org/release/Graph
 License      : GPL+ or Artistic
 Descript     : This is Graph, a Perl module for dealing with graphs, the abstract
@@ -4258,8 +4258,8 @@ Descript     : This is Graph, a Perl module for dealing with graphs, the abstrac
 <summary>perl-GraphViz</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interface to the GraphViz graphing tool
+From repo    : fedora
+Short desc   : Interface to the GraphViz graphing tool
 URL          : https://metacpan.org/release/GraphViz
 License      : GPL+ or Artistic
 Descript     : This Perl module provides an interface to layout and image generation of
@@ -4274,8 +4274,8 @@ Descript     : This Perl module provides an interface to layout and image genera
 <summary>perl-Gtk2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the 2.x series of the Gimp Toolkit library
+From repo    : fedora
+Short desc   : Perl interface to the 2.x series of the Gimp Toolkit library
 URL          : https://metacpan.org/release/Gtk2
 License      : LGPLv2+
 Descript     : This module allows you to write Gtk+ graphical user interfaces in a
@@ -4290,8 +4290,8 @@ Descript     : This module allows you to write Gtk+ graphical user interfaces in
 <summary>perl-Gtk2-AppIndicator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension for libappindicator
+From repo    : fedora
+Short desc   : Perl extension for libappindicator
 URL          : https://metacpan.org/release/Gtk2-AppIndicator
 License      : GPL+ or Artistic
 Descript     : This Perl module gives an interface to libappindicator.
@@ -4303,8 +4303,8 @@ Descript     : This Perl module gives an interface to libappindicator.
 <summary>perl-Gtk2-ImageView</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl bindings to the GtkImageView image viewer widget
+From repo    : fedora
+Short desc   : Perl bindings to the GtkImageView image viewer widget
 URL          : https://metacpan.org/release/Gtk2-ImageView
 License      : LGPLv3+
 Descript     : Perl bindings to the GtkImageView image viewer widget. Find out more about
@@ -4319,8 +4319,8 @@ Descript     : Perl bindings to the GtkImageView image viewer widget. Find out m
 <summary>perl-Gtk2-Unique</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl bindings for the C library "libunique" (DEPRECATED)
+From repo    : fedora
+Short desc   : Perl bindings for the C library "libunique" (DEPRECATED)
 URL          : https://metacpan.org/release/Gtk2-Unique
 License      : GPL+ or Artistic
 Descript     : Gtk2::Unique is a Perl binding for the C library libunique
@@ -4339,8 +4339,8 @@ Descript     : Gtk2::Unique is a Perl binding for the C library libunique
 <summary>perl-Guard</summary>
 
 ```
-From repo     : fedora
-Short desc    : Safe cleanup blocks
+From repo    : fedora
+Short desc   : Safe cleanup blocks
 URL          : https://metacpan.org/release/Guard
 License      : GPL+ or Artistic
 Descript     : This module implements so-called "guards". A guard is something (usually an
@@ -4353,8 +4353,8 @@ Descript     : This module implements so-called "guards". A guard is something (
 <summary>perl-HTML-Form</summary>
 
 ```
-From repo     : fedora
-Short desc    : Class that represents an HTML form element
+From repo    : fedora
+Short desc   : Class that represents an HTML form element
 URL          : https://metacpan.org/release/HTML-Form
 License      : GPL+ or Artistic
 Descript     : Objects of the HTML::Form class represents a single HTML <form> ... </form>
@@ -4370,8 +4370,8 @@ Descript     : Objects of the HTML::Form class represents a single HTML <form> .
 <summary>perl-HTML-Parser</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl module for parsing HTML
+From repo    : updates-testing
+Short desc   : Perl module for parsing HTML
 URL          : https://metacpan.org/release/HTML-Parser
 License      : GPL+ or Artistic
 Descript     : The HTML-Parser module for perl to parse and extract information from
@@ -4385,8 +4385,8 @@ Descript     : The HTML-Parser module for perl to parse and extract information 
 <summary>perl-HTML-Tagset</summary>
 
 ```
-From repo     : fedora
-Short desc    : HTML::Tagset - data tables useful in parsing HTML
+From repo    : fedora
+Short desc   : HTML::Tagset - data tables useful in parsing HTML
 URL          : https://metacpan.org/release/HTML-Tagset
 License      : GPL+ or Artistic
 Descript     : This module contains several data tables useful in various kinds of
@@ -4400,8 +4400,8 @@ Descript     : This module contains several data tables useful in various kinds 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : HTML tree handling modules for Perl
+From repo    : fedora
+Short desc   : HTML tree handling modules for Perl
 URL          : https://metacpan.org/release/HTML-Tree
 License      : GPL+ or Artistic
 Descript     : This distribution contains a suite of modules for representing,
@@ -4417,8 +4417,8 @@ Descript     : This distribution contains a suite of modules for representing,
 <summary>perl-HTTP-Cookies</summary>
 
 ```
-From repo     : fedora
-Short desc    : HTTP cookie jars
+From repo    : fedora
+Short desc   : HTTP cookie jars
 URL          : https://metacpan.org/release/HTTP-Cookies
 License      : GPL+ or Artistic
 Descript     : This class is for objects that represent a "cookie jar" -- that is, a
@@ -4432,8 +4432,8 @@ Descript     : This class is for objects that represent a "cookie jar" -- that i
 <summary>perl-HTTP-Date</summary>
 
 ```
-From repo     : fedora
-Short desc    : Date conversion routines
+From repo    : fedora
+Short desc   : Date conversion routines
 URL          : https://metacpan.org/release/HTTP-Date
 License      : GPL+ or Artistic
 Descript     : This module provides functions that deal the date formats used by the HTTP
@@ -4447,8 +4447,8 @@ Descript     : This module provides functions that deal the date formats used by
 <summary>perl-HTTP-Message</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : HTTP style message
+From repo    : updates-testing
+Short desc   : HTTP style message
 URL          : https://metacpan.org/release/HTTP-Message
 License      : (GPL+ or Artistic) and CC0
 Descript     : The HTTP-Message distribution contains classes useful for representing the
@@ -4462,8 +4462,8 @@ Descript     : The HTTP-Message distribution contains classes useful for represe
 <summary>perl-HTTP-Negotiate</summary>
 
 ```
-From repo     : fedora
-Short desc    : Choose a variant to serve
+From repo    : fedora
+Short desc   : Choose a variant to serve
 URL          : https://metacpan.org/release/HTTP-Negotiate
 License      : GPL+ or Artistic
 Descript     : This module provides a complete implementation of the HTTP content
@@ -4479,8 +4479,8 @@ Descript     : This module provides a complete implementation of the HTTP conten
 <summary>perl-HTTP-Tiny</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Small, simple, correct HTTP/1.1 client
+From repo    : anaconda
+Short desc   : Small, simple, correct HTTP/1.1 client
 URL          : https://metacpan.org/release/HTTP-Tiny
 License      : GPL+ or Artistic
 Descript     : This is a very simple HTTP/1.1 client, designed for doing simple GET requests
@@ -4497,8 +4497,8 @@ Descript     : This is a very simple HTTP/1.1 client, designed for doing simple 
 <summary>perl-Hash-Merge</summary>
 
 ```
-From repo     : fedora
-Short desc    : Merges arbitrary deep hashes into a single hash
+From repo    : fedora
+Short desc   : Merges arbitrary deep hashes into a single hash
 URL          : https://metacpan.org/release/Hash-Merge
 License      : GPL+ or Artistic
 Descript     : Merges arbitrary deep hashes into a single hash.
@@ -4510,8 +4510,8 @@ Descript     : Merges arbitrary deep hashes into a single hash.
 <summary>perl-Hash-Util</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : General-utility hash subroutines
+From repo    : updates-testing
+Short desc   : General-utility hash subroutines
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Hash::Util contains special functions for manipulating hashes that don't
@@ -4524,8 +4524,8 @@ Descript     : Hash::Util contains special functions for manipulating hashes tha
 <summary>perl-Hash-Util-FieldHash</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Support for inside-out classes
+From repo    : updates-testing
+Short desc   : Support for inside-out classes
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Hash::Util::FieldHash offers a number of functions in support of the
@@ -4538,8 +4538,8 @@ Descript     : Hash::Util::FieldHash offers a number of functions in support of 
 <summary>perl-Heap</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension for keeping data partially sorted
+From repo    : fedora
+Short desc   : Perl extension for keeping data partially sorted
 URL          : https://metacpan.org/release/Heap
 License      : GPL+ or Artistic
 Descript     : The Heap collection of modules provide routines that manage a heap of
@@ -4562,8 +4562,8 @@ Descript     : The Heap collection of modules provide routines that manage a hea
 <summary>perl-I18N-Collate</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Compare 8-bit scalar data according to the current locale
+From repo    : updates-testing
+Short desc   : Compare 8-bit scalar data according to the current locale
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module provides you with objects that will collate according to your
@@ -4577,8 +4577,8 @@ Descript     : This module provides you with objects that will collate according
 <summary>perl-I18N-LangTags</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Functions for dealing with RFC 3066 language tags
+From repo    : updates-testing
+Short desc   : Functions for dealing with RFC 3066 language tags
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Language tags are a formalism, described in RFC 3066, for declaring what
@@ -4593,8 +4593,8 @@ Descript     : Language tags are a formalism, described in RFC 3066, for declari
 <summary>perl-I18N-Langinfo</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Query locale information
+From repo    : updates-testing
+Short desc   : Query locale information
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The langinfo() function queries various locale information that can be used to
@@ -4609,8 +4609,8 @@ Descript     : The langinfo() function queries various locale information that c
 <summary>perl-IO</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl input/output modules
+From repo    : anaconda
+Short desc   : Perl input/output modules
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This is a collection of Perl input/output modules.
@@ -4622,8 +4622,8 @@ Descript     : This is a collection of Perl input/output modules.
 <summary>perl-IO</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl input/output modules
+From repo    : updates-testing
+Short desc   : Perl input/output modules
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This is a collection of Perl input/output modules.
@@ -4635,8 +4635,8 @@ Descript     : This is a collection of Perl input/output modules.
 <summary>perl-IO-Compress</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Read and write compressed data
+From repo    : updates-testing
+Short desc   : Read and write compressed data
 URL          : https://metacpan.org/release/IO-Compress
 License      : GPL+ or Artistic
 Descript     : This distribution provides a Perl interface to allow reading and writing of
@@ -4659,8 +4659,8 @@ Descript     : This distribution provides a Perl interface to allow reading and 
 <summary>perl-IO-Compress-Lzma</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Read and write lzma compressed data
+From repo    : updates-testing
+Short desc   : Read and write lzma compressed data
 URL          : https://metacpan.org/release/IO-Compress-Lzma
 License      : GPL+ or Artistic
 Descript     : This distribution provides a Perl interface to allow reading and writing of
@@ -4673,8 +4673,8 @@ Descript     : This distribution provides a Perl interface to allow reading and 
 <summary>perl-IO-HTML</summary>
 
 ```
-From repo     : fedora
-Short desc    : Open an HTML file with automatic character set detection
+From repo    : fedora
+Short desc   : Open an HTML file with automatic character set detection
 URL          : https://metacpan.org/release/IO-HTML
 License      : (GPL+ or Artistic) and Public Domain
 Descript     : IO::HTML provides an easy way to open a file containing HTML while
@@ -4688,8 +4688,8 @@ Descript     : IO::HTML provides an easy way to open a file containing HTML whil
 <summary>perl-IO-Interactive</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utilities for interactive I/O
+From repo    : fedora
+Short desc   : Utilities for interactive I/O
 URL          : https://metacpan.org/release/IO-Interactive
 License      : (GPL+ or Artistic) and (Artistic 2.0)
 Descript     : This module provides utility subroutines that make it easier to develop
@@ -4702,8 +4702,8 @@ Descript     : This module provides utility subroutines that make it easier to d
 <summary>perl-IO-Socket-INET6</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl Object interface for AF_INET|AF_INET6 domain sockets
+From repo    : fedora
+Short desc   : Perl Object interface for AF_INET|AF_INET6 domain sockets
 URL          : https://metacpan.org/release/IO-Socket-INET6
 License      : GPL+ or Artistic
 Descript     : Perl Object interface for AF_INET|AF_INET6 domain sockets.
@@ -4715,8 +4715,8 @@ Descript     : Perl Object interface for AF_INET|AF_INET6 domain sockets.
 <summary>perl-IO-Socket-IP</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Drop-in replacement for IO::Socket::INET supporting both IPv4 and IPv6
+From repo    : anaconda
+Short desc   : Drop-in replacement for IO::Socket::INET supporting both IPv4 and IPv6
 URL          : https://metacpan.org/release/IO-Socket-IP
 License      : GPL+ or Artistic
 Descript     : This module provides a protocol-independent way to use IPv4 and IPv6
@@ -4730,8 +4730,8 @@ Descript     : This module provides a protocol-independent way to use IPv4 and I
 <summary>perl-IO-Socket-SSL</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl library for transparent SSL
+From repo    : updates-testing
+Short desc   : Perl library for transparent SSL
 URL          : https://metacpan.org/release/IO-Socket-SSL
 License      : (GPL+ or Artistic) and MPLv2.0
 Descript     : This module is a true drop-in replacement for IO::Socket::INET that
@@ -4749,8 +4749,8 @@ Descript     : This module is a true drop-in replacement for IO::Socket::INET th
 <summary>perl-IO-Socket-Timeout</summary>
 
 ```
-From repo     : fedora
-Short desc    : IO::Socket with read/write timeout
+From repo    : fedora
+Short desc   : IO::Socket with read/write timeout
 URL          : https://metacpan.org/release/IO-Socket-Timeout
 License      : GPL+ or Artistic
 Descript     : IO::Socket provides a way to set a timeout on the socket, but the timeout
@@ -4763,8 +4763,8 @@ Descript     : IO::Socket provides a way to set a timeout on the socket, but the
 <summary>perl-IO-String</summary>
 
 ```
-From repo     : fedora
-Short desc    : Emulate file interface for in-core strings
+From repo    : fedora
+Short desc   : Emulate file interface for in-core strings
 URL          : https://metacpan.org/release/IO-String
 License      : GPL+ or Artistic
 Descript     : The "IO::String" module provides the "IO::File" interface for in-core
@@ -4787,8 +4787,8 @@ Descript     : The "IO::String" module provides the "IO::File" interface for in-
 <summary>perl-IO-Tty</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to pseudo tty's
+From repo    : fedora
+Short desc   : Perl interface to pseudo tty's
 URL          : https://metacpan.org/release/IO-Tty
 License      : (GPL+ or Artistic) and BSD
 Descript     : IO::Tty and IO::Pty provide an interface to pseudo tty's.
@@ -4801,8 +4801,8 @@ Descript     : IO::Tty and IO::Pty provide an interface to pseudo tty's.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Perl IO:: style interface to Compress::Zlib
+From repo    : fedora
+Short desc   : Perl IO:: style interface to Compress::Zlib
 URL          : https://metacpan.org/release/IO-Zlib
 License      : GPL+ or Artistic
 Descript     : IO::Zlib provides an IO:: style interface to Compress::Zlib and hence to
@@ -4816,8 +4816,8 @@ Descript     : IO::Zlib provides an IO:: style interface to Compress::Zlib and h
 <summary>perl-IO-stringy</summary>
 
 ```
-From repo     : fedora
-Short desc    : I/O on in-core objects like strings and arrays for Perl
+From repo    : fedora
+Short desc   : I/O on in-core objects like strings and arrays for Perl
 URL          : https://metacpan.org/release/IO-stringy
 License      : GPL+ or Artistic
 Descript     : This toolkit primarily provides modules for performing both traditional
@@ -4841,8 +4841,8 @@ Descript     : This toolkit primarily provides modules for performing both tradi
 
 ```
 Эпоха        : 2
-From repo     : fedora
-Short desc    : Finding and running system commands made easy
+From repo    : fedora
+Short desc   : Finding and running system commands made easy
 URL          : https://metacpan.org/release/IPC-Cmd
 License      : GPL+ or Artistic
 Descript     : IPC::Cmd allows you to run commands platform independently, interactively
@@ -4855,8 +4855,8 @@ Descript     : IPC::Cmd allows you to run commands platform independently, inter
 <summary>perl-IPC-Open3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Open a process for reading, writing, and error handling
+From repo    : anaconda
+Short desc   : Open a process for reading, writing, and error handling
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : These are functions that spawn a given command and connects the standard
@@ -4870,8 +4870,8 @@ Descript     : These are functions that spawn a given command and connects the s
 <summary>perl-IPC-Open3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Open a process for reading, writing, and error handling
+From repo    : updates-testing
+Short desc   : Open a process for reading, writing, and error handling
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : These are functions that spawn a given command and connects the standard
@@ -4885,8 +4885,8 @@ Descript     : These are functions that spawn a given command and connects the s
 <summary>perl-IPC-Run</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for interacting with child processes
+From repo    : fedora
+Short desc   : Perl module for interacting with child processes
 URL          : https://metacpan.org/release/IPC-Run
 License      : GPL+ or Artistic
 Descript     : IPC::Run allows you run and interact with child processes using files,
@@ -4904,8 +4904,8 @@ Descript     : IPC::Run allows you run and interact with child processes using f
 <summary>perl-IPC-Run3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Run a subprocess in batch mode
+From repo    : fedora
+Short desc   : Run a subprocess in batch mode
 URL          : https://metacpan.org/release/IPC-Run3
 License      : GPL+ or Artistic or BSD
 Descript     : This module allows you to run a subprocess and redirect stdin, stdout,
@@ -4920,8 +4920,8 @@ Descript     : This module allows you to run a subprocess and redirect stdin, st
 <summary>perl-IPC-SysV</summary>
 
 ```
-From repo     : fedora
-Short desc    : Object interface to System V IPC
+From repo    : fedora
+Short desc   : Object interface to System V IPC
 URL          : https://metacpan.org/release/IPC-SysV
 License      : GPL+ or Artistic
 Descript     : This is an object interface for System V messages, semaphores, and
@@ -4934,8 +4934,8 @@ Descript     : This is an object interface for System V messages, semaphores, an
 <summary>perl-IPC-System-Simple</summary>
 
 ```
-From repo     : fedora
-Short desc    : Run commands simply, with detailed diagnostics
+From repo    : fedora
+Short desc   : Run commands simply, with detailed diagnostics
 URL          : https://metacpan.org/release/IPC-System-Simple
 License      : GPL+ or Artistic
 Descript     : Calling Perl's in-built 'system()' function is easy; determining if it
@@ -4957,8 +4957,8 @@ Descript     : Calling Perl's in-built 'system()' function is easy; determining 
 <summary>perl-Image-Base</summary>
 
 ```
-From repo     : fedora
-Short desc    : Base class for loading, manipulating and saving images in Perl
+From repo    : fedora
+Short desc   : Base class for loading, manipulating and saving images in Perl
 URL          : https://metacpan.org/release/Image-Base
 License      : LGPLv2+
 Descript     : Base class for loading, manipulating and saving images in Perl.
@@ -4970,8 +4970,8 @@ Descript     : Base class for loading, manipulating and saving images in Perl.
 <summary>perl-Image-ExifTool</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility for reading and writing image meta info
+From repo    : fedora
+Short desc   : Utility for reading and writing image meta info
 URL          : http://www.sno.phy.queensu.ca/%7Ephil/exiftool/
 License      : GPL+ or Artistic
 Descript     : ExifTool is a Perl module with an included command-line application for
@@ -4993,8 +4993,8 @@ Descript     : ExifTool is a Perl module with an included command-line applicati
 <summary>perl-Image-Info</summary>
 
 ```
-From repo     : fedora
-Short desc    : Image meta information extraction module for Perl
+From repo    : fedora
+Short desc   : Image meta information extraction module for Perl
 URL          : https://metacpan.org/release/Image-Info
 License      : GPL+ or Artistic
 Descript     : This Perl extension allows you to extract meta information from
@@ -5007,8 +5007,8 @@ Descript     : This Perl extension allows you to extract meta information from
 <summary>perl-Image-Xbm</summary>
 
 ```
-From repo     : fedora
-Short desc    : Load, create, manipulate and save xbm image files in Perl
+From repo    : fedora
+Short desc   : Load, create, manipulate and save xbm image files in Perl
 URL          : https://metacpan.org/release/Image-Xbm
 License      : LGPLv2+
 Descript     : This class module provides basic load, manipulate and save functionality for
@@ -5022,8 +5022,8 @@ Descript     : This class module provides basic load, manipulate and save functi
 <summary>perl-Image-Xpm</summary>
 
 ```
-From repo     : fedora
-Short desc    : Load, create, manipulate and save xpm image files in Perl
+From repo    : fedora
+Short desc   : Load, create, manipulate and save xpm image files in Perl
 URL          : https://metacpan.org/release/Image-Xpm
 License      : GPL+
 Descript     : This class module provides basic load, manipulate and save functionality for
@@ -5037,8 +5037,8 @@ Descript     : This class module provides basic load, manipulate and save functi
 <summary>perl-Import-Into</summary>
 
 ```
-From repo     : fedora
-Short desc    : Import packages into other packages
+From repo    : fedora
+Short desc   : Import packages into other packages
 URL          : https://metacpan.org/release/Import-Into
 License      : GPL+ or Artistic
 Descript     : Loading Import::Into creates a global method import::into which you can call on
@@ -5051,8 +5051,8 @@ Descript     : Loading Import::Into creates a global method import::into which y
 <summary>perl-Importer</summary>
 
 ```
-From repo     : fedora
-Short desc    : Alternative interface to modules that export symbols
+From repo    : fedora
+Short desc   : Alternative interface to modules that export symbols
 URL          : https://metacpan.org/release/Importer
 License      : GPL+ or Artistic
 Descript     : This Perl module acts as a layer between Exporter and modules which consume
@@ -5069,8 +5069,8 @@ Descript     : This Perl module acts as a layer between Exporter and modules whi
 <summary>perl-JSON</summary>
 
 ```
-From repo     : fedora
-Short desc    : Parse and convert to JSON (JavaScript Object Notation)
+From repo    : fedora
+Short desc   : Parse and convert to JSON (JavaScript Object Notation)
 URL          : https://metacpan.org/release/JSON
 License      : GPL+ or Artistic
 Descript     : This module converts between JSON (JavaScript Object Notation) and Perl
@@ -5083,8 +5083,8 @@ Descript     : This module converts between JSON (JavaScript Object Notation) an
 <summary>perl-JSON-Any</summary>
 
 ```
-From repo     : fedora
-Short desc    : A meta-module to make working with JSON easier
+From repo    : fedora
+Short desc   : A meta-module to make working with JSON easier
 URL          : https://metacpan.org/release/JSON-Any
 License      : GPL+ or Artistic
 Descript     : JSON::Any provides a coherent API to bring together the various JSON modules
@@ -5097,8 +5097,8 @@ Descript     : JSON::Any provides a coherent API to bring together the various J
 <summary>perl-JSON-MaybeXS</summary>
 
 ```
-From repo     : fedora
-Short desc    : Use Cpanel::JSON::XS with a fallback to JSON::XS and JSON::PP
+From repo    : fedora
+Short desc   : Use Cpanel::JSON::XS with a fallback to JSON::XS and JSON::PP
 URL          : https://metacpan.org/release/JSON-MaybeXS
 License      : GPL+ or Artistic
 Descript     : This module first checks to see if either Cpanel::JSON::XS or JSON::XS
@@ -5122,8 +5122,8 @@ Descript     : This module first checks to see if either Cpanel::JSON::XS or JSO
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : JSON::XS compatible pure-Perl module
+From repo    : fedora
+Short desc   : JSON::XS compatible pure-Perl module
 URL          : https://metacpan.org/release/JSON-PP
 License      : GPL+ or Artistic
 Descript     : JSON::XS is the fastest and most proper JSON module on CPAN. It is written by
@@ -5139,8 +5139,8 @@ Descript     : JSON::XS is the fastest and most proper JSON module on CPAN. It i
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : JSON serializing/de-serializing, done correctly and fast
+From repo    : fedora
+Short desc   : JSON serializing/de-serializing, done correctly and fast
 URL          : https://metacpan.org/release/JSON-XS
 License      : GPL+ or Artistic
 Descript     : This module converts Perl data structures to JSON and vice versa. Its
@@ -5154,8 +5154,8 @@ Descript     : This module converts Perl data structures to JSON and vice versa.
 <summary>perl-Jcode</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension interface for converting Japanese text
+From repo    : fedora
+Short desc   : Perl extension interface for converting Japanese text
 URL          : https://metacpan.org/release/Jcode
 License      : GPL+ or Artistic
 Descript     : Perl extension interface for converting Japanese text.
@@ -5168,8 +5168,8 @@ Descript     : Perl extension interface for converting Japanese text.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : LDAP Perl module
+From repo    : fedora
+Short desc   : LDAP Perl module
 URL          : https://metacpan.org/release/perl-ldap
 License      : GPL+ or Artistic
 Descript     : Net::LDAP is a collection of modules that implements an LDAP services API
@@ -5183,8 +5183,8 @@ Descript     : Net::LDAP is a collection of modules that implements an LDAP serv
 <summary>perl-LWP-MediaTypes</summary>
 
 ```
-From repo     : fedora
-Short desc    : Guess media type for a file or a URL
+From repo    : fedora
+Short desc   : Guess media type for a file or a URL
 URL          : https://metacpan.org/release/LWP-MediaTypes
 License      : (GPL+ or Artistic) and Public Domain
 Descript     : This module provides functions for handling media (also known as MIME)
@@ -5200,8 +5200,8 @@ Descript     : This module provides functions for handling media (also known as 
 <summary>perl-LWP-Protocol-https</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provide HTTPS support for LWP::UserAgent
+From repo    : fedora
+Short desc   : Provide HTTPS support for LWP::UserAgent
 URL          : https://metacpan.org/release/LWP-Protocol-https
 License      : GPL+ or Artistic
 Descript     : The LWP::Protocol::https module provides support for using HTTPS schemed
@@ -5216,8 +5216,8 @@ Descript     : The LWP::Protocol::https module provides support for using HTTPS 
 <summary>perl-Lchown</summary>
 
 ```
-From repo     : fedora
-Short desc    : Use the lchown(2) system call from Perl
+From repo    : fedora
+Short desc   : Use the lchown(2) system call from Perl
 URL          : https://metacpan.org/release/Lchown
 License      : GPL+ or Artistic
 Descript     : Provides a perl interface to the lchown() system call. lchown() changes
@@ -5230,8 +5230,8 @@ Descript     : Provides a perl interface to the lchown() system call. lchown() c
 <summary>perl-Linux-Pid</summary>
 
 ```
-From repo     : fedora
-Short desc    : Get the native PID and the PPID on Linux
+From repo    : fedora
+Short desc   : Get the native PID and the PPID on Linux
 URL          : https://metacpan.org/release/Linux-Pid
 License      : GPL+ or Artistic
 Descript     : Linux::Pid gets the native PID and the PPID on Linux. It's useful with
@@ -5246,8 +5246,8 @@ Descript     : Linux::Pid gets the native PID and the PPID on Linux. It's useful
 <summary>perl-List-AllUtils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Combines List::Util and List::SomeUtils
+From repo    : fedora
+Short desc   : Combines List::Util and List::SomeUtils
 URL          : https://metacpan.org/release/List-AllUtils
 License      : Artistic 2.0 and CC-BY
 Descript     : Are you sick of trying to remember whether a particular helper is defined
@@ -5262,8 +5262,8 @@ Descript     : Are you sick of trying to remember whether a particular helper is
 <summary>perl-List-MoreUtils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provide the stuff missing in List::Util
+From repo    : fedora
+Short desc   : Provide the stuff missing in List::Util
 URL          : https://metacpan.org/release/List-MoreUtils
 License      : (GPL+ or Artistic) and ASL 2.0
 Descript     : List::MoreUtils provides some trivial but commonly needed functionality
@@ -5276,8 +5276,8 @@ Descript     : List::MoreUtils provides some trivial but commonly needed functio
 <summary>perl-List-MoreUtils-XS</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provide compiled List::MoreUtils functions
+From repo    : fedora
+Short desc   : Provide compiled List::MoreUtils functions
 URL          : https://metacpan.org/release/List-MoreUtils-XS
 License      : (GPL+ or Artistic) and ASL 2.0
 Descript     : This module provides accelerated versions of functions in List::MoreUtils.
@@ -5289,8 +5289,8 @@ Descript     : This module provides accelerated versions of functions in List::M
 <summary>perl-List-Pairwise</summary>
 
 ```
-From repo     : fedora
-Short desc    : Map/grep arrays and hashes pairwise
+From repo    : fedora
+Short desc   : Map/grep arrays and hashes pairwise
 URL          : https://metacpan.org/release/List-Pairwise
 License      : GPL+ or Artistic
 Descript     : List::Pairwise provides functions to map and grep lists two elements at a
@@ -5303,8 +5303,8 @@ Descript     : List::Pairwise provides functions to map and grep lists two eleme
 <summary>perl-List-SomeUtils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provide the stuff missing in List::Util
+From repo    : fedora
+Short desc   : Provide the stuff missing in List::Util
 URL          : https://metacpan.org/release/List-SomeUtils
 License      : GPL+ or Artistic
 Descript     : List::SomeUtils provides some trivial but commonly needed functionality on
@@ -5317,8 +5317,8 @@ Descript     : List::SomeUtils provides some trivial but commonly needed functio
 <summary>perl-List-UtilsBy</summary>
 
 ```
-From repo     : fedora
-Short desc    : Higher-order list utility functions
+From repo    : fedora
+Short desc   : Higher-order list utility functions
 URL          : https://metacpan.org/release/List-UtilsBy
 License      : GPL+ or Artistic
 Descript     : This module provides a number of list utility functions, all of which take
@@ -5336,8 +5336,8 @@ Descript     : This module provides a number of list utility functions, all of w
 <summary>perl-Locale-Codes</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Distribution of modules to handle locale codes
+From repo    : updates-testing
+Short desc   : Distribution of modules to handle locale codes
 URL          : https://metacpan.org/release/Locale-Codes
 License      : GPL+ or Artistic
 Descript     : Locale-Codes is a distribution containing a set of modules. The modules
@@ -5351,8 +5351,8 @@ Descript     : Locale-Codes is a distribution containing a set of modules. The m
 <summary>perl-Locale-Maketext</summary>
 
 ```
-From repo     : fedora
-Short desc    : Framework for localization
+From repo    : fedora
+Short desc   : Framework for localization
 URL          : https://metacpan.org/release/Locale-Maketext
 License      : GPL+ or Artistic
 Descript     : It is a common feature of applications (whether run directly, or via the Web)
@@ -5371,8 +5371,8 @@ Descript     : It is a common feature of applications (whether run directly, or 
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Simple interface to Locale::Maketext::Lexicon
+From repo    : updates-testing
+Short desc   : Simple interface to Locale::Maketext::Lexicon
 URL          : https://www.perl.org/
 License      : MIT
 Descript     : This module is a simple wrapper around Locale::Maketext::Lexicon, designed
@@ -5385,8 +5385,8 @@ Descript     : This module is a simple wrapper around Locale::Maketext::Lexicon,
 <summary>perl-Locale-gettext</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interface to gettext family of functions
+From repo    : fedora
+Short desc   : Interface to gettext family of functions
 URL          : https://metacpan.org/release/gettext
 License      : GPL+ or Artistic
 Descript     : The gettext module permits access from perl to the gettext() family of
@@ -5400,8 +5400,8 @@ Descript     : The gettext module permits access from perl to the gettext() fami
 <summary>perl-Log-Dispatch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Dispatches messages to one or more outputs
+From repo    : fedora
+Short desc   : Dispatches messages to one or more outputs
 URL          : https://metacpan.org/release/Log-Dispatch
 License      : Artistic 2.0
 Descript     : Log::Dispatch is a suite of OO modules for logging messages to
@@ -5417,8 +5417,8 @@ Descript     : Log::Dispatch is a suite of OO modules for logging messages to
 <summary>perl-Log-Dispatch-FileRotate</summary>
 
 ```
-From repo     : fedora
-Short desc    : Log to files that archive/rotate themselves
+From repo    : fedora
+Short desc   : Log to files that archive/rotate themselves
 URL          : https://metacpan.org/release/Log-Dispatch-FileRotate
 License      : GPL+ or Artistic
 Descript     : This module provides a simple object for logging to files under the
@@ -5433,8 +5433,8 @@ Descript     : This module provides a simple object for logging to files under t
 <summary>perl-Log-Log4perl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Log4j implementation for Perl
+From repo    : fedora
+Short desc   : Log4j implementation for Perl
 URL          : https://metacpan.org/release/Log-Log4perl
 License      : GPL+ or Artistic
 Descript     : Log::Log4perl lets you remote-control and fine-tune the logging
@@ -5455,8 +5455,8 @@ Descript     : Log::Log4perl lets you remote-control and fine-tune the logging
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Generic message storing mechanism
+From repo    : fedora
+Short desc   : Generic message storing mechanism
 URL          : https://metacpan.org/release/Log-Message
 License      : GPL+ or Artistic
 Descript     : This package enables you to do generic message logging throughout programs and
@@ -5472,8 +5472,8 @@ Descript     : This package enables you to do generic message logging throughout
 <summary>perl-Log-Message-Simple</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simplified interface to Log::Message
+From repo    : fedora
+Short desc   : Simplified interface to Log::Message
 URL          : https://metacpan.org/release/Log-Message-Simple
 License      : GPL+ or Artistic
 Descript     : This module is a simplified front-end to Log::Message, offering
@@ -5487,8 +5487,8 @@ Descript     : This module is a simplified front-end to Log::Message, offering
 <summary>perl-MIME-Base64</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Encoding and decoding of Base64 and quoted-printable strings
+From repo    : anaconda
+Short desc   : Encoding and decoding of Base64 and quoted-printable strings
 URL          : https://metacpan.org/release/MIME-Base64
 License      : (GPL+ or Artistic) and MIT
 Descript     : This package contains a Base64 encoder/decoder and a quoted-printable
@@ -5502,8 +5502,8 @@ Descript     : This package contains a Base64 encoder/decoder and a quoted-print
 <summary>perl-MIME-Charset</summary>
 
 ```
-From repo     : fedora
-Short desc    : Charset Informations for MIME
+From repo    : fedora
+Short desc   : Charset Informations for MIME
 URL          : https://metacpan.org/release/MIME-Charset
 License      : GPL+ or Artistic
 Descript     : MIME::Charset provides information about character sets used for MIME
@@ -5516,8 +5516,8 @@ Descript     : MIME::Charset provides information about character sets used for 
 <summary>perl-MIME-Lite</summary>
 
 ```
-From repo     : fedora
-Short desc    : MIME::Lite - low-calorie MIME generator
+From repo    : fedora
+Short desc   : MIME::Lite - low-calorie MIME generator
 URL          : https://metacpan.org/release/MIME-Lite
 License      : GPL+ or Artistic
 Descript     : MIME::Lite is intended as a simple, standalone module for generating (not
@@ -5532,8 +5532,8 @@ Descript     : MIME::Lite is intended as a simple, standalone module for generat
 <summary>perl-MIME-Types</summary>
 
 ```
-From repo     : fedora
-Short desc    : MIME types module for Perl
+From repo    : fedora
+Short desc   : MIME types module for Perl
 URL          : https://metacpan.org/release/MIME-Types
 License      : GPL+ or Artistic
 Descript     : MIME types are used in many applications, for instance as part of e-mail
@@ -5551,8 +5551,8 @@ Descript     : MIME types are used in many applications, for instance as part of
 <summary>perl-MRO-Compat</summary>
 
 ```
-From repo     : fedora
-Short desc    : Mro::* interface compatibility for Perls < 5.9.5
+From repo    : fedora
+Short desc   : Mro::* interface compatibility for Perls < 5.9.5
 URL          : https://metacpan.org/release/MRO-Compat
 License      : GPL+ or Artistic
 Descript     : The "mro" namespace provides several utilities for dealing with method
@@ -5576,8 +5576,8 @@ Descript     : The "mro" namespace provides several utilities for dealing with m
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Module for sending mails with attachments through an SMTP server
+From repo    : fedora
+Short desc   : Module for sending mails with attachments through an SMTP server
 URL          : https://metacpan.org/release/Mail-Sender
 License      : GPL+ or Artistic
 Descript     : Module for sending mails with attachments through an SMTP server.
@@ -5589,8 +5589,8 @@ Descript     : Module for sending mails with attachments through an SMTP server.
 <summary>perl-Mail-Sendmail</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple platform independent mailer for Perl
+From repo    : fedora
+Short desc   : Simple platform independent mailer for Perl
 URL          : https://metacpan.org/release/Mail-Sendmail
 License      : GPL+ or Artistic
 Descript     : Mail::Sendmail is a simple platform independent library for sending
@@ -5606,8 +5606,8 @@ Descript     : Mail::Sendmail is a simple platform independent library for sendi
 <summary>perl-MailTools</summary>
 
 ```
-From repo     : fedora
-Short desc    : Various ancient mail-related perl modules
+From repo    : fedora
+Short desc   : Various ancient mail-related perl modules
 URL          : https://metacpan.org/release/MailTools
 License      : GPL+ or Artistic
 Descript     : MailTools is a set of ancient Perl modules related to mail applications.
@@ -5619,8 +5619,8 @@ Descript     : MailTools is a set of ancient Perl modules related to mail applic
 <summary>perl-Math-Base36</summary>
 
 ```
-From repo     : fedora
-Short desc    : Encoding and decoding of base36 strings
+From repo    : fedora
+Short desc   : Encoding and decoding of base36 strings
 URL          : https://metacpan.org/release/Math-Base36
 License      : GPL+ or Artistic
 Descript     : This module converts to and from Base36 numbers (0..9 - A..Z).
@@ -5633,8 +5633,8 @@ Descript     : This module converts to and from Base36 numbers (0..9 - A..Z).
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Arbitrary-size integer and float mathematics
+From repo    : fedora
+Short desc   : Arbitrary-size integer and float mathematics
 URL          : https://metacpan.org/release/Math-BigInt
 License      : GPL+ or Artistic
 Descript     : This provides Perl modules for arbitrary-size integer and float mathematics.
@@ -5646,8 +5646,8 @@ Descript     : This provides Perl modules for arbitrary-size integer and float m
 <summary>perl-Math-BigInt-FastCalc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Math::BigInt::Calc with some XS for more speed
+From repo    : fedora
+Short desc   : Math::BigInt::Calc with some XS for more speed
 URL          : https://metacpan.org/release/Math-BigInt-FastCalc
 License      : GPL+ or Artistic
 Descript     : This Perl module provides support for fast big integer calculations.
@@ -5659,8 +5659,8 @@ Descript     : This Perl module provides support for fast big integer calculatio
 <summary>perl-Math-BigRat</summary>
 
 ```
-From repo     : fedora
-Short desc    : Arbitrary big rational numbers
+From repo    : fedora
+Short desc   : Arbitrary big rational numbers
 URL          : https://metacpan.org/release/Math-BigRat
 License      : GPL+ or Artistic
 Descript     : Math::BigRat complements Math::BigInt and Math::BigFloat by providing
@@ -5673,8 +5673,8 @@ Descript     : Math::BigRat complements Math::BigInt and Math::BigFloat by provi
 <summary>perl-Math-Complex</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Complex numbers and trigonometric functions
+From repo    : updates-testing
+Short desc   : Complex numbers and trigonometric functions
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This package lets you create and manipulate complex numbers. By default, Perl
@@ -5689,8 +5689,8 @@ Descript     : This package lets you create and manipulate complex numbers. By d
 <summary>perl-Memoize</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Transparently speed up functions by caching return values
+From repo    : updates-testing
+Short desc   : Transparently speed up functions by caching return values
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Memoizing a function makes it faster by trading space for time. It does
@@ -5706,8 +5706,8 @@ Descript     : Memoizing a function makes it faster by trading space for time. I
 <summary>perl-MetaCPAN-API</summary>
 
 ```
-From repo     : fedora
-Short desc    : A comprehensive, DWIM-featured API to MetaCPAN
+From repo    : fedora
+Short desc   : A comprehensive, DWIM-featured API to MetaCPAN
 URL          : https://metacpan.org/release/MetaCPAN-API
 License      : GPL+ or Artistic
 Descript     : This is a hopefully-complete API-compliant interface to MetaCPAN
@@ -5725,8 +5725,8 @@ Descript     : This is a hopefully-complete API-compliant interface to MetaCPAN
 <summary>perl-MetaCPAN-Client</summary>
 
 ```
-From repo     : fedora
-Short desc    : A comprehensive, DWIM-featured client to the MetaCPAN API
+From repo    : fedora
+Short desc   : A comprehensive, DWIM-featured client to the MetaCPAN API
 URL          : https://github.com/CPAN-API/metacpan-client
 License      : GPL+ or Artistic
 Descript     : This is a hopefully-complete API-compliant interface to MetaCPAN
@@ -5739,8 +5739,8 @@ Descript     : This is a hopefully-complete API-compliant interface to MetaCPAN
 <summary>perl-Mixin-Linewise</summary>
 
 ```
-From repo     : fedora
-Short desc    : Write your linewise code for handles; this does the rest
+From repo    : fedora
+Short desc   : Write your linewise code for handles; this does the rest
 URL          : https://metacpan.org/release/Mixin-Linewise
 License      : GPL+ or Artistic
 Descript     : It's boring to deal with opening files for IO, converting strings to
@@ -5756,8 +5756,8 @@ Descript     : It's boring to deal with opening files for IO, converting strings
 
 ```
 Эпоха        : 2
-From repo     : fedora
-Short desc    : Build and install Perl modules
+From repo    : fedora
+Short desc   : Build and install Perl modules
 URL          : https://metacpan.org/release/Module-Build
 License      : GPL+ or Artistic
 Descript     : Module::Build is a system for building, testing, and installing Perl
@@ -5778,8 +5778,8 @@ Descript     : Module::Build is a system for building, testing, and installing P
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : What modules are shipped with versions of perl
+From repo    : updates-testing
+Short desc   : What modules are shipped with versions of perl
 URL          : https://metacpan.org/release/Module-CoreList
 License      : GPL+ or Artistic
 Descript     : Module::CoreList provides information on which core and dual-life modules
@@ -5793,8 +5793,8 @@ Descript     : Module::CoreList provides information on which core and dual-life
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Tool for listing modules shipped with perl
+From repo    : updates-testing
+Short desc   : Tool for listing modules shipped with perl
 URL          : https://metacpan.org/release/Module-CoreList
 License      : GPL+ or Artistic
 Descript     : This package provides a corelist(1) tool which can be used to query what
@@ -5807,8 +5807,8 @@ Descript     : This package provides a corelist(1) tool which can be used to que
 <summary>perl-Module-Find</summary>
 
 ```
-From repo     : fedora
-Short desc    : Find and use installed modules in a (sub)category
+From repo    : fedora
+Short desc   : Find and use installed modules in a (sub)category
 URL          : https://metacpan.org/release/Module-Find
 License      : GPL+ or Artistic
 Descript     : Module::Find lets you find and use modules in categories. This can be very
@@ -5822,8 +5822,8 @@ Descript     : Module::Find lets you find and use modules in categories. This ca
 <summary>perl-Module-Implementation</summary>
 
 ```
-From repo     : fedora
-Short desc    : Loads one of several alternate underlying implementations for a module
+From repo    : fedora
+Short desc   : Loads one of several alternate underlying implementations for a module
 URL          : https://metacpan.org/release/perl-Module-Implementation
 License      : Artistic 2.0
 Descript     : This module abstracts out the process of choosing one of several underlying
@@ -5844,8 +5844,8 @@ Descript     : This module abstracts out the process of choosing one of several 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Run-time require of both modules and files
+From repo    : fedora
+Short desc   : Run-time require of both modules and files
 URL          : https://metacpan.org/release/Module-Load
 License      : GPL+ or Artistic
 Descript     : If you consult "perldoc -f require" you will see that "require" will behave
@@ -5866,8 +5866,8 @@ Descript     : If you consult "perldoc -f require" you will see that "require" w
 <summary>perl-Module-Load-Conditional</summary>
 
 ```
-From repo     : fedora
-Short desc    : Looking up module information / loading at run-time
+From repo    : fedora
+Short desc   : Looking up module information / loading at run-time
 URL          : https://metacpan.org/release/Module-Load-Conditional
 License      : GPL+ or Artistic
 Descript     : This module provides simple ways to query and possibly load any of the modules
@@ -5881,8 +5881,8 @@ Descript     : This module provides simple ways to query and possibly load any o
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Mark modules as loaded or unloaded
+From repo    : updates-testing
+Short desc   : Mark modules as loaded or unloaded
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : When testing applications, often you find yourself needing to provide
@@ -5898,8 +5898,8 @@ Descript     : When testing applications, often you find yourself needing to pro
 <summary>perl-Module-Metadata</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gather package and POD information from perl module files
+From repo    : fedora
+Short desc   : Gather package and POD information from perl module files
 URL          : https://metacpan.org/release/Module-Metadata
 License      : GPL+ or Artistic
 Descript     : This module provides a standard way to gather metadata about a .pm file
@@ -5913,8 +5913,8 @@ Descript     : This module provides a standard way to gather metadata about a .p
 
 ```
 Эпоха        : 2
-From repo     : fedora
-Short desc    : Automatically give your module the ability to have plugins
+From repo    : fedora
+Short desc   : Automatically give your module the ability to have plugins
 URL          : https://metacpan.org/release/Module-Pluggable
 License      : GPL+ or Artistic
 Descript     : This package provides a simple but, hopefully, extensible way of having
@@ -5929,8 +5929,8 @@ Descript     : This package provides a simple but, hopefully, extensible way of 
 <summary>perl-Module-Runtime</summary>
 
 ```
-From repo     : fedora
-Short desc    : Runtime module handling
+From repo    : fedora
+Short desc   : Runtime module handling
 URL          : https://metacpan.org/release/Module-Runtime
 License      : GPL+ or Artistic
 Descript     : The functions exported by this module deal with runtime handling of Perl
@@ -5943,8 +5943,8 @@ Descript     : The functions exported by this module deal with runtime handling 
 <summary>perl-Module-Runtime-Conflicts</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provide information on conflicts for Module::Runtime
+From repo    : fedora
+Short desc   : Provide information on conflicts for Module::Runtime
 URL          : https://metacpan.org/release/Module-Runtime-Conflicts
 License      : GPL+ or Artistic
 Descript     : This module provides conflicts checking for Module::Runtime, which had a
@@ -5958,8 +5958,8 @@ Descript     : This module provides conflicts checking for Module::Runtime, whic
 <summary>perl-Moo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Minimalist Object Orientation (with Moose compatibility)
+From repo    : fedora
+Short desc   : Minimalist Object Orientation (with Moose compatibility)
 URL          : https://metacpan.org/release/Moo
 License      : GPL+ or Artistic
 Descript     : This module is an extremely light-weight, high-performance Moose
@@ -5974,8 +5974,8 @@ Descript     : This module is an extremely light-weight, high-performance Moose
 <summary>perl-Moose</summary>
 
 ```
-From repo     : fedora
-Short desc    : Complete modern object system for Perl 5
+From repo    : fedora
+Short desc   : Complete modern object system for Perl 5
 URL          : https://metacpan.org/release/Moose
 License      : GPL+ or Artistic
 Descript     : Moose is an extension of the Perl 5 object system.
@@ -5997,8 +5997,8 @@ Descript     : Moose is an extension of the Perl 5 object system.
 <summary>perl-MooseX-App</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Write user-friendly command line apps with even less suffering
+From repo    : updates-testing
+Short desc   : Write user-friendly command line apps with even less suffering
 URL          : https://metacpan.org/release/MooseX-App
 License      : GPL+ or Artistic
 Descript     : MooseX-App is a highly customisable helper to write user-friendly command
@@ -6015,8 +6015,8 @@ Descript     : MooseX-App is a highly customisable helper to write user-friendly
 <summary>perl-MooseX-SemiAffordanceAccessor</summary>
 
 ```
-From repo     : fedora
-Short desc    : Name your accessors foo() and set_foo()
+From repo    : fedora
+Short desc   : Name your accessors foo() and set_foo()
 URL          : https://metacpan.org/release/MooseX-SemiAffordanceAccessor
 License      : Artistic 2.0
 Descript     : This module does not provide any methods. Simply loading it changes the
@@ -6035,8 +6035,8 @@ Descript     : This module does not provide any methods. Simply loading it chang
 <summary>perl-MooseX-Types</summary>
 
 ```
-From repo     : fedora
-Short desc    : Organize your Moose types in libraries
+From repo    : fedora
+Short desc   : Organize your Moose types in libraries
 URL          : https://metacpan.org/release/MooseX-Types
 License      : GPL+ or Artistic
 Descript     : The types provided with the Moose man page are by design global. This
@@ -6058,8 +6058,8 @@ Descript     : The types provided with the Moose man page are by design global. 
 <summary>perl-MooseX-Types-JSON</summary>
 
 ```
-From repo     : fedora
-Short desc    : JSON data types for Moose
+From repo    : fedora
+Short desc   : JSON data types for Moose
 URL          : https://metacpan.org/release/MooseX-Types-JSON
 License      : GPL+ or Artistic
 Descript     : Test suite for package perl-MooseX-Types-JSON.
@@ -6071,8 +6071,8 @@ Descript     : Test suite for package perl-MooseX-Types-JSON.
 <summary>perl-MooseX-Types-LoadableClass</summary>
 
 ```
-From repo     : fedora
-Short desc    : ClassName type constraint with coercion to load the class
+From repo    : fedora
+Short desc   : ClassName type constraint with coercion to load the class
 URL          : https://metacpan.org/release/MooseX-Types-LoadableClass
 License      : GPL+ or Artistic
 Descript     : ClassName type constraint with coercion to load the class.
@@ -6084,8 +6084,8 @@ Descript     : ClassName type constraint with coercion to load the class.
 <summary>perl-MooseX-Types-Path-Class</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Path::Class type library for Moose
+From repo    : fedora
+Short desc   : A Path::Class type library for Moose
 URL          : https://metacpan.org/release/MooseX-Types-Path-Class
 License      : GPL+ or Artistic
 Descript     : MooseX::Types::Path::Class creates common Moose types, coercions and option
@@ -6103,8 +6103,8 @@ Descript     : MooseX::Types::Path::Class creates common Moose types, coercions 
 <summary>perl-Mouse</summary>
 
 ```
-From repo     : fedora
-Short desc    : Moose minus the antlers
+From repo    : fedora
+Short desc   : Moose minus the antlers
 URL          : https://metacpan.org/release/Mouse
 License      : GPL+ or Artistic
 Descript     : Moose, a powerful metaobject-fueled extension of the Perl 5 object system,
@@ -6123,8 +6123,8 @@ Descript     : Moose, a powerful metaobject-fueled extension of the Perl 5 objec
 <summary>perl-Mozilla-CA</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Mozilla's CA certificate bundle in PEM format
+From repo    : anaconda
+Short desc   : Mozilla's CA certificate bundle in PEM format
 URL          : https://metacpan.org/release/Mozilla-CA
 License      : MPLv2.0
 Descript     : Mozilla::CA provides a path to ca-certificates copy of Mozilla's bundle of
@@ -6138,8 +6138,8 @@ Descript     : Mozilla::CA provides a path to ca-certificates copy of Mozilla's 
 <summary>perl-NDBM_File</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tied access to ndbm files
+From repo    : anaconda
+Short desc   : Tied access to ndbm files
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : NDBM_File establishes a connection between a Perl hash variable and a file in
@@ -6154,8 +6154,8 @@ Descript     : NDBM_File establishes a connection between a Perl hash variable a
 <summary>perl-NDBM_File</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tied access to ndbm files
+From repo    : updates-testing
+Short desc   : Tied access to ndbm files
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : NDBM_File establishes a connection between a Perl hash variable and a file in
@@ -6170,8 +6170,8 @@ Descript     : NDBM_File establishes a connection between a Perl hash variable a
 <summary>perl-NEXT</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Pseudo-class that allows method redispatch
+From repo    : updates-testing
+Short desc   : Pseudo-class that allows method redispatch
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The NEXT module adds a pseudo-class named "NEXT" to any program that uses it.
@@ -6186,8 +6186,8 @@ Descript     : The NEXT module adds a pseudo-class named "NEXT" to any program t
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Perl extension for Network Kanji Filter
+From repo    : fedora
+Short desc   : Perl extension for Network Kanji Filter
 URL          : http://nkf.osdn.jp/
 License      : BSD
 Descript     : This is a Perl Extension version of nkf (Network Kanji Filter).
@@ -6201,8 +6201,8 @@ Descript     : This is a Perl Extension version of nkf (Network Kanji Filter).
 <summary>perl-NTLM</summary>
 
 ```
-From repo     : fedora
-Short desc    : NTLM Perl module
+From repo    : fedora
+Short desc   : NTLM Perl module
 URL          : https://metacpan.org/release/NTLM
 License      : GPL+ or Artistic
 Descript     : This module provides methods to use NTLM authentication.  It can be used
@@ -6217,8 +6217,8 @@ Descript     : This module provides methods to use NTLM authentication.  It can 
 <summary>perl-Net</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : By-name interface to Perl built-in network resolver
+From repo    : updates-testing
+Short desc   : By-name interface to Perl built-in network resolver
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This package provide object-oriented interface to Perl built-in gethost*(),
@@ -6231,8 +6231,8 @@ Descript     : This package provide object-oriented interface to Perl built-in g
 <summary>perl-Net-DBus</summary>
 
 ```
-From repo     : fedora
-Short desc    : Use and provide DBus services
+From repo    : fedora
+Short desc   : Use and provide DBus services
 URL          : https://metacpan.org/release/Net-DBus
 License      : GPLv2+ or Artistic
 Descript     : Net::DBus provides a Perl API for the DBus message system. The DBus Perl
@@ -6247,8 +6247,8 @@ Descript     : Net::DBus provides a Perl API for the DBus message system. The DB
 <summary>perl-Net-DNS</summary>
 
 ```
-From repo     : fedora
-Short desc    : DNS resolver modules for Perl
+From repo    : fedora
+Short desc   : DNS resolver modules for Perl
 URL          : https://metacpan.org/release/Net-DNS
 License      : (GPL+ or Artistic) and MIT
 Descript     : Net::DNS is a collection of Perl modules that act as a Domain Name System
@@ -6265,8 +6265,8 @@ Descript     : Net::DNS is a collection of Perl modules that act as a Domain Nam
 <summary>perl-Net-HTTP</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Low-level HTTP connection (client)
+From repo    : updates-testing
+Short desc   : Low-level HTTP connection (client)
 URL          : https://metacpan.org/release/Net-HTTP
 License      : GPL+ or Artistic
 Descript     : The Net::HTTP class is a low-level HTTP client. An instance of the
@@ -6281,8 +6281,8 @@ Descript     : The Net::HTTP class is a low-level HTTP client. An instance of th
 <summary>perl-Net-OAuth</summary>
 
 ```
-From repo     : fedora
-Short desc    : OAuth protocol support library for Perl
+From repo    : fedora
+Short desc   : OAuth protocol support library for Perl
 URL          : https://metacpan.org/release/Net-OAuth
 License      : GPL+ or Artistic
 Descript     : Perl implementation of OAuth, an open protocol to allow secure API
@@ -6297,8 +6297,8 @@ Descript     : Perl implementation of OAuth, an open protocol to allow secure AP
 <summary>perl-Net-Ping</summary>
 
 ```
-From repo     : fedora
-Short desc    : Check a remote host for reachability
+From repo    : fedora
+Short desc   : Check a remote host for reachability
 URL          : https://metacpan.org/release/Net-Ping/
 License      : GPL+ or Artistic
 Descript     : Net::Ping module contains methods to test the reachability of remote hosts on
@@ -6311,8 +6311,8 @@ Descript     : Net::Ping module contains methods to test the reachability of rem
 <summary>perl-Net-SMTP-SSL</summary>
 
 ```
-From repo     : fedora
-Short desc    : SSL support for Net::SMTP
+From repo    : fedora
+Short desc   : SSL support for Net::SMTP
 URL          : https://metacpan.org/release/Net-SMTP-SSL
 License      : GPL+ or Artistic
 Descript     : Implements the same API as Net::SMTP, but uses IO::Socket::SSL for its
@@ -6325,8 +6325,8 @@ Descript     : Implements the same API as Net::SMTP, but uses IO::Socket::SSL fo
 <summary>perl-Net-SSLeay</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl extension for using OpenSSL
+From repo    : anaconda
+Short desc   : Perl extension for using OpenSSL
 URL          : https://metacpan.org/release/Net-SSLeay
 License      : Artistic 2.0
 Descript     : This module offers some high level convenience functions for accessing
@@ -6342,8 +6342,8 @@ Descript     : This module offers some high level convenience functions for acce
 <summary>perl-Net-Telnet</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interact with TELNET port or other TCP ports
+From repo    : fedora
+Short desc   : Interact with TELNET port or other TCP ports
 URL          : https://metacpan.org/release/Net-Telnet
 License      : GPL+ or Artistic
 Descript     : Net::Telnet allows you to make client connections to a TCP port and do
@@ -6362,8 +6362,8 @@ Descript     : Net::Telnet allows you to make client connections to a TCP port a
 <summary>perl-Number-Compare</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for numeric comparisons
+From repo    : fedora
+Short desc   : Perl module for numeric comparisons
 URL          : https://metacpan.org/release/Number-Compare
 License      : GPL+ or Artistic
 Descript     : Number::Compare compiles a simple comparison to an anonymous subroutine,
@@ -6376,8 +6376,8 @@ Descript     : Number::Compare compiles a simple comparison to an anonymous subr
 <summary>perl-ODBM_File</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tied access to odbm files
+From repo    : updates-testing
+Short desc   : Tied access to odbm files
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : ODBM_File establishes a connection between a Perl hash variable and a file in
@@ -6392,8 +6392,8 @@ Descript     : ODBM_File establishes a connection between a Perl hash variable a
 <summary>perl-OLE-Storage_Lite</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple Class for OLE document interface
+From repo    : fedora
+Short desc   : Simple Class for OLE document interface
 URL          : https://metacpan.org/release/OLE-Storage_Lite
 License      : GPL+ or Artistic
 Descript     : Simple Class for OLE document interface.
@@ -6406,8 +6406,8 @@ Descript     : Simple Class for OLE document interface.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Interface to create per object accessors
+From repo    : fedora
+Short desc   : Interface to create per object accessors
 URL          : https://metacpan.org/release/Object-Accessor
 License      : GPL+ or Artistic
 Descript     : Object::Accessor provides an interface to create per object accessors (as
@@ -6420,8 +6420,8 @@ Descript     : Object::Accessor provides an interface to create per object acces
 <summary>perl-Object-HashBase</summary>
 
 ```
-From repo     : fedora
-Short desc    : Build hash-based classes
+From repo    : fedora
+Short desc   : Build hash-based classes
 URL          : https://metacpan.org/release/Object-HashBase
 License      : GPL+ or Artistic
 Descript     : This package is used to generate classes based on hash references. Using this
@@ -6438,8 +6438,8 @@ Descript     : This package is used to generate classes based on hash references
 <summary>perl-Opcode</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Disable named opcodes when compiling a perl code
+From repo    : updates-testing
+Short desc   : Disable named opcodes when compiling a perl code
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The Opcode module allows you to define an operator mask to be in effect when
@@ -6454,8 +6454,8 @@ Descript     : The Opcode module allows you to define an operator mask to be in 
 <summary>perl-PCP-LogImport</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Performance Co-Pilot (PCP) Perl bindings for importing external data into PCP archives
+From repo    : updates-testing
+Short desc   : Performance Co-Pilot (PCP) Perl bindings for importing external data into PCP archives
 URL          : https://pcp.io
 License      : GPLv2+
 Descript     : The PCP::LogImport module contains the Perl language bindings for
@@ -6469,8 +6469,8 @@ Descript     : The PCP::LogImport module contains the Perl language bindings for
 <summary>perl-POSIX</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl interface to IEEE Std 1003.1
+From repo    : anaconda
+Short desc   : Perl interface to IEEE Std 1003.1
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The POSIX module permits you to access all (or nearly all) the standard POSIX
@@ -6483,8 +6483,8 @@ Descript     : The POSIX module permits you to access all (or nearly all) the st
 <summary>perl-POSIX</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl interface to IEEE Std 1003.1
+From repo    : updates-testing
+Short desc   : Perl interface to IEEE Std 1003.1
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The POSIX module permits you to access all (or nearly all) the standard POSIX
@@ -6498,8 +6498,8 @@ Descript     : The POSIX module permits you to access all (or nearly all) the st
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : List all constants declared in a package
+From repo    : fedora
+Short desc   : List all constants declared in a package
 URL          : https://metacpan.org/release/Package-Constants
 License      : GPL+ or Artistic
 Descript     : Package::Constants lists all the constants defined in a certain package.
@@ -6513,8 +6513,8 @@ Descript     : Package::Constants lists all the constants defined in a certain p
 <summary>perl-Package-DeprecationManager</summary>
 
 ```
-From repo     : fedora
-Short desc    : Manage deprecation warnings for your distribution
+From repo    : fedora
+Short desc   : Manage deprecation warnings for your distribution
 URL          : https://metacpan.org/release/Package-DeprecationManager
 License      : Artistic 2.0
 Descript     : This module allows you to manage a set of deprecations for one or more modules.
@@ -6530,8 +6530,8 @@ Descript     : This module allows you to manage a set of deprecations for one or
 <summary>perl-Package-Generator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generate new packages quickly and easily
+From repo    : fedora
+Short desc   : Generate new packages quickly and easily
 URL          : https://metacpan.org/release/Package-Generator
 License      : GPL+ or Artistic
 Descript     : This module lets you quickly and easily construct new packages. It gives
@@ -6544,8 +6544,8 @@ Descript     : This module lets you quickly and easily construct new packages. I
 <summary>perl-Package-Stash</summary>
 
 ```
-From repo     : fedora
-Short desc    : Routines for manipulating stashes
+From repo    : fedora
+Short desc   : Routines for manipulating stashes
 URL          : https://metacpan.org/release/Package-Stash
 License      : GPL+ or Artistic
 Descript     : Manipulating stashes (Perl's symbol tables) is occasionally necessary, but
@@ -6559,8 +6559,8 @@ Descript     : Manipulating stashes (Perl's symbol tables) is occasionally neces
 <summary>perl-Package-Stash-XS</summary>
 
 ```
-From repo     : fedora
-Short desc    : Faster and more correct implementation of the Package::Stash API
+From repo    : fedora
+Short desc   : Faster and more correct implementation of the Package::Stash API
 URL          : https://metacpan.org/release/Package-Stash-XS
 License      : GPL+ or Artistic
 Descript     : This is a back-end for Package::Stash, which provides the functionality in a
@@ -6574,8 +6574,8 @@ Descript     : This is a back-end for Package::Stash, which provides the functio
 <summary>perl-Package-Variant</summary>
 
 ```
-From repo     : fedora
-Short desc    : Parameterizable packages
+From repo    : fedora
+Short desc   : Parameterizable packages
 URL          : https://metacpan.org/release/Package-Variant
 License      : GPL+ or Artistic
 Descript     : This module allows you to build packages that return different variations
@@ -6588,8 +6588,8 @@ Descript     : This module allows you to build packages that return different va
 <summary>perl-PadWalker</summary>
 
 ```
-From repo     : fedora
-Short desc    : Play with other people's lexical variables
+From repo    : fedora
+Short desc   : Play with other people's lexical variables
 URL          : https://metacpan.org/release/PadWalker
 License      : GPL+ or Artistic
 Descript     : PadWalker is a module that allows you to inspect (and even change!)
@@ -6603,8 +6603,8 @@ Descript     : PadWalker is a module that allows you to inspect (and even change
 <summary>perl-Pango</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the pango library
+From repo    : fedora
+Short desc   : Perl interface to the pango library
 URL          : https://metacpan.org/release/Pango
 License      : LGPLv2+
 Descript     : perl-Pango provides Perl bindings for the text layout/rendering library
@@ -6620,8 +6620,8 @@ Descript     : perl-Pango provides Perl bindings for the text layout/rendering l
 <summary>perl-Parallel-ForkManager</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple parallel processing fork manager
+From repo    : fedora
+Short desc   : Simple parallel processing fork manager
 URL          : https://metacpan.org/release/Parallel-ForkManager
 License      : GPL+ or Artistic
 Descript     : This module is intended for use in operations that can be done in parallel
@@ -6636,8 +6636,8 @@ Descript     : This module is intended for use in operations that can be done in
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Generic input parsing/checking mechanism
+From repo    : fedora
+Short desc   : Generic input parsing/checking mechanism
 URL          : https://metacpan.org/release/Params-Check
 License      : GPL+ or Artistic
 Descript     : This is a generic input parsing/checking mechanism. It allows you to
@@ -6651,8 +6651,8 @@ Descript     : This is a generic input parsing/checking mechanism. It allows you
 <summary>perl-Params-Classify</summary>
 
 ```
-From repo     : fedora
-Short desc    : Argument type classification
+From repo    : fedora
+Short desc   : Argument type classification
 URL          : https://metacpan.org/release/Params-Classify
 License      : GPL+ or Artistic
 Descript     : This module provides various type-testing functions. These are intended
@@ -6668,8 +6668,8 @@ Descript     : This module provides various type-testing functions. These are in
 <summary>perl-Params-Util</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple standalone parameter-checking functions
+From repo    : fedora
+Short desc   : Simple standalone parameter-checking functions
 URL          : https://metacpan.org/release/Params-Util
 License      : GPL+ or Artistic
 Descript     : Params::Util provides a basic set of importable functions that
@@ -6682,8 +6682,8 @@ Descript     : Params::Util provides a basic set of importable functions that
 <summary>perl-Params-Validate</summary>
 
 ```
-From repo     : fedora
-Short desc    : Params-Validate Perl module
+From repo    : fedora
+Short desc   : Params-Validate Perl module
 URL          : https://metacpan.org/release/Params-Validate
 License      : Artistic 2.0 and (GPL+ or Artistic)
 Descript     : The Params::Validate module allows you to validate method or function
@@ -6701,8 +6701,8 @@ Descript     : The Params::Validate module allows you to validate method or func
 <summary>perl-Params-ValidationCompiler</summary>
 
 ```
-From repo     : fedora
-Short desc    : Build an optimized subroutine parameter validator once, use it forever
+From repo    : fedora
+Short desc   : Build an optimized subroutine parameter validator once, use it forever
 URL          : https://metacpan.org/release/Params-ValidationCompiler
 License      : Artistic 2.0
 Descript     : Create a customized, optimized, non-lobotomized, uncompromised, and thoroughly
@@ -6715,8 +6715,8 @@ Descript     : Create a customized, optimized, non-lobotomized, uncompromised, a
 <summary>perl-Parse-RecDescent</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generate Recursive-Descent Parsers
+From repo    : fedora
+Short desc   : Generate Recursive-Descent Parsers
 URL          : https://metacpan.org/release/Parse-RecDescent
 License      : (GPL+ or Artistic) and (GPLv2+ or Artistic)
 Descript     : Parse::RecDescent incrementally generates top-down recursive-descent
@@ -6744,8 +6744,8 @@ Descript     : Parse::RecDescent incrementally generates top-down recursive-desc
 <summary>perl-Path-Class</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cross-platform path specification manipulation
+From repo    : fedora
+Short desc   : Cross-platform path specification manipulation
 URL          : https://metacpan.org/release/Path-Class
 License      : GPL+ or Artistic
 Descript     : Path::Class is a module for manipulation of file and directory specifications
@@ -6761,8 +6761,8 @@ Descript     : Path::Class is a module for manipulation of file and directory sp
 <summary>perl-Path-Tiny</summary>
 
 ```
-From repo     : fedora
-Short desc    : File path utility
+From repo    : fedora
+Short desc   : File path utility
 URL          : https://metacpan.org/release/Path-Tiny
 License      : ASL 2.0
 Descript     : This module attempts to provide a small, fast utility for working with file
@@ -6789,8 +6789,8 @@ Descript     : This module attempts to provide a small, fast utility for working
 <summary>perl-PathTools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PathTools Perl module (Cwd, File::Spec)
+From repo    : anaconda
+Short desc   : PathTools Perl module (Cwd, File::Spec)
 URL          : https://metacpan.org/release/PathTools
 License      : (GPL+ or Artistic) and BSD
 Descript     : This is the combined distribution for the File::Spec and Cwd modules.
@@ -6802,8 +6802,8 @@ Descript     : This is the combined distribution for the File::Spec and Cwd modu
 <summary>perl-Perl-OSType</summary>
 
 ```
-From repo     : fedora
-Short desc    : Map Perl operating system names to generic types
+From repo    : fedora
+Short desc   : Map Perl operating system names to generic types
 URL          : https://metacpan.org/release/Perl-OSType
 License      : GPL+ or Artistic
 Descript     : Modules that provide OS-specific behaviors often need to know if the current
@@ -6822,8 +6822,8 @@ Descript     : Modules that provide OS-specific behaviors often need to know if 
 <summary>perl-PerlIO-utf8_strict</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fast and correct UTF-8 I/O
+From repo    : fedora
+Short desc   : Fast and correct UTF-8 I/O
 URL          : https://metacpan.org/release/PerlIO-utf8_strict
 License      : GPL+ or Artistic
 Descript     : This module provides a fast and correct UTF-8 PerlIO layer. Unlike perl's
@@ -6836,8 +6836,8 @@ Descript     : This module provides a fast and correct UTF-8 PerlIO layer. Unlik
 <summary>perl-PerlIO-via-QuotedPrint</summary>
 
 ```
-From repo     : fedora
-Short desc    : PerlIO layer for quoted-printable strings
+From repo    : fedora
+Short desc   : PerlIO layer for quoted-printable strings
 URL          : https://metacpan.org/release/PerlIO-via-QuotedPrint
 License      : GPL+ or Artistic
 Descript     : This module implements a PerlIO layer that works on files encoded in the
@@ -6852,8 +6852,8 @@ Descript     : This module implements a PerlIO layer that works on files encoded
 <summary>perl-PerlIO-via-Timeout</summary>
 
 ```
-From repo     : fedora
-Short desc    : PerlIO layer that adds read & write timeout to a handle
+From repo    : fedora
+Short desc   : PerlIO layer that adds read & write timeout to a handle
 URL          : https://metacpan.org/release/PerlIO-via-Timeout
 License      : GPL+ or Artistic
 Descript     : This package implements a PerlIO layer, that adds read / write timeout.
@@ -6868,8 +6868,8 @@ Descript     : This package implements a PerlIO layer, that adds read / write ti
 
 ```
 Эпоха        : 4
-From repo     : fedora
-Short desc    : Check POD documents for syntax errors
+From repo    : fedora
+Short desc   : Check POD documents for syntax errors
 URL          : https://metacpan.org/release/Pod-Checker
 License      : GPL+ or Artistic
 Descript     : Module and tools to verify POD documentation contents for compliance with the
@@ -6882,8 +6882,8 @@ Descript     : Module and tools to verify POD documentation contents for complia
 <summary>perl-Pod-Elemental</summary>
 
 ```
-From repo     : fedora
-Short desc    : Work with nestable Pod elements
+From repo    : fedora
+Short desc   : Work with nestable Pod elements
 URL          : https://metacpan.org/release/Pod-Elemental
 License      : GPL+ or Artistic
 Descript     : Pod::Elemental is a system for treating a Pod (plain old documentation)
@@ -6900,8 +6900,8 @@ Descript     : Pod::Elemental is a system for treating a Pod (plain old document
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Resolve POD escape sequences
+From repo    : anaconda
+Short desc   : Resolve POD escape sequences
 URL          : https://metacpan.org/release/Pod-Escapes
 License      : GPL+ or Artistic
 Descript     : This module provides things that are useful in decoding Pod E<...> sequences.
@@ -6913,8 +6913,8 @@ Descript     : This module provides things that are useful in decoding Pod E<...
 <summary>perl-Pod-Eventual</summary>
 
 ```
-From repo     : fedora
-Short desc    : Read a POD document as a series of trivial events
+From repo    : fedora
+Short desc   : Read a POD document as a series of trivial events
 URL          : https://metacpan.org/release/Pod-Eventual
 License      : GPL+ or Artistic
 Descript     : POD is a pretty simple format to write, but it can be a big pain to deal with
@@ -6938,8 +6938,8 @@ Descript     : POD is a pretty simple format to write, but it can be a big pain 
 <summary>perl-Pod-Functions</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Group Perl functions as in perlfunc POD
+From repo    : updates-testing
+Short desc   : Group Perl functions as in perlfunc POD
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module enumerates the Perl functions that are documented in perlfunc POD.
@@ -6951,8 +6951,8 @@ Descript     : This module enumerates the Perl functions that are documented in 
 <summary>perl-Pod-Html</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Convert POD files to HTML
+From repo    : updates-testing
+Short desc   : Convert POD files to HTML
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This package converts files from POD format (see perlpod) to HTML format. It
@@ -6966,8 +6966,8 @@ Descript     : This package converts files from POD format (see perlpod) to HTML
 <summary>perl-Pod-LaTeX</summary>
 
 ```
-From repo     : fedora
-Short desc    : Convert POD data to formatted LaTeX
+From repo    : fedora
+Short desc   : Convert POD data to formatted LaTeX
 URL          : https://metacpan.org/release/Pod-LaTeX
 License      : GPL+ or Artistic
 Descript     : Pod::LaTeX is a module to convert documentation in the POD format into
@@ -6980,8 +6980,8 @@ Descript     : Pod::LaTeX is a module to convert documentation in the POD format
 <summary>perl-Pod-POM</summary>
 
 ```
-From repo     : fedora
-Short desc    : Object-oriented interface to Perl POD documents
+From repo    : fedora
+Short desc   : Object-oriented interface to Perl POD documents
 URL          : https://metacpan.org/release/Pod-POM
 License      : GPL+ or Artistic
 Descript     : This module implements a parser to convert Pod documents into a simple
@@ -7000,8 +7000,8 @@ Descript     : This module implements a parser to convert Pod documents into a s
 <summary>perl-Pod-Parser</summary>
 
 ```
-From repo     : fedora
-Short desc    : Basic perl modules for handling Plain Old Documentation (POD)
+From repo    : fedora
+Short desc   : Basic perl modules for handling Plain Old Documentation (POD)
 URL          : https://metacpan.org/release/Pod-Parser
 License      : GPL+ or Artistic
 Descript     : This software distribution contains the packages for using Perl5 POD (Plain
@@ -7015,8 +7015,8 @@ Descript     : This software distribution contains the packages for using Perl5 
 <summary>perl-Pod-Perldoc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Look up Perl documentation in Pod format
+From repo    : anaconda
+Short desc   : Look up Perl documentation in Pod format
 URL          : https://metacpan.org/release/Pod-Perldoc
 License      : GPL+ or Artistic
 Descript     : perldoc looks up a piece of documentation in POD format that is embedded
@@ -7031,8 +7031,8 @@ Descript     : perldoc looks up a piece of documentation in POD format that is e
 <summary>perl-Pod-Plainer</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension for converting modern POD to old-style POD
+From repo    : fedora
+Short desc   : Perl extension for converting modern POD to old-style POD
 URL          : https://metacpan.org/release/Pod-Plainer
 License      : GPL+ or Artistic
 Descript     : This Perl module takes POD with the new 'C<< .. >>' constructs and returns the
@@ -7048,8 +7048,8 @@ Descript     : This Perl module takes POD with the new 'C<< .. >>' constructs an
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Framework for parsing POD documentation
+From repo    : anaconda
+Short desc   : Framework for parsing POD documentation
 URL          : https://metacpan.org/release/Pod-Simple
 License      : GPL+ or Artistic
 Descript     : Pod::Simple is a Perl library for parsing text in the POD (plain old
@@ -7064,8 +7064,8 @@ Descript     : Pod::Simple is a Perl library for parsing text in the POD (plain 
 
 ```
 Эпоха        : 4
-From repo     : anaconda
-Short desc    : Print a usage message from embedded POD documentation
+From repo    : anaconda
+Short desc   : Print a usage message from embedded POD documentation
 URL          : https://metacpan.org/release/Pod-Usage
 License      : GPL+ or Artistic
 Descript     : pod2usage will print a usage message for the invoking script (using its
@@ -7083,8 +7083,8 @@ Descript     : pod2usage will print a usage message for the invoking script (usi
 <summary>perl-Proc-ProcessTable</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension to access the Unix process table
+From repo    : fedora
+Short desc   : Perl extension to access the Unix process table
 URL          : https://metacpan.org/release/Proc-ProcessTable
 License      : GPL+ or Artistic
 Descript     : Perl interface to the Unix process table.
@@ -7096,8 +7096,8 @@ Descript     : Perl interface to the Unix process table.
 <summary>perl-Proc-Simple</summary>
 
 ```
-From repo     : fedora
-Short desc    : Launch and control background processes
+From repo    : fedora
+Short desc   : Launch and control background processes
 URL          : https://metacpan.org/release/Proc-Simple
 License      : GPL+ or Artistic
 Descript     : The Proc::Simple package provides objects mimicking real-life processes from
@@ -7111,8 +7111,8 @@ Descript     : The Proc::Simple package provides objects mimicking real-life pro
 <summary>perl-Readonly</summary>
 
 ```
-From repo     : fedora
-Short desc    : Facility for creating read-only scalars, arrays, hashes
+From repo    : fedora
+Short desc   : Facility for creating read-only scalars, arrays, hashes
 URL          : https://metacpan.org/release/Readonly
 License      : GPL+ or Artistic
 Descript     : Readonly provides a facility for creating non-modifiable scalars,
@@ -7134,8 +7134,8 @@ Descript     : Readonly provides a facility for creating non-modifiable scalars,
 <summary>perl-Redis</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl binding for Redis database
+From repo    : fedora
+Short desc   : Perl binding for Redis database
 URL          : https://metacpan.org/release/Redis
 License      : ASL 2.0
 Descript     : Pure perl bindings for http://redis.io/
@@ -7147,8 +7147,8 @@ Descript     : Pure perl bindings for http://redis.io/
 <summary>perl-Ref-Util</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility functions for checking references
+From repo    : fedora
+Short desc   : Utility functions for checking references
 URL          : https://metacpan.org/release/Ref-Util
 License      : MIT
 Descript     : Ref::Util introduces several functions to help identify references in a faster
@@ -7161,8 +7161,8 @@ Descript     : Ref::Util introduces several functions to help identify reference
 <summary>perl-Ref-Util-XS</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility functions for checking references
+From repo    : fedora
+Short desc   : Utility functions for checking references
 URL          : https://metacpan.org/release/Ref-Util-XS
 License      : MIT
 Descript     : Ref::Util::XS introduces several functions to help identify references in a
@@ -7175,8 +7175,8 @@ Descript     : Ref::Util::XS introduces several functions to help identify refer
 <summary>perl-Regexp-Common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Regexp::Common Perl module
+From repo    : fedora
+Short desc   : Regexp::Common Perl module
 URL          : https://metacpan.org/release/Regexp-Common
 License      : Artistic 2.0 or MIT or BSD
 Descript     : Regexp::Common - Provide commonly requested regular expressions
@@ -7188,8 +7188,8 @@ Descript     : Regexp::Common - Provide commonly requested regular expressions
 <summary>perl-Role-Tiny</summary>
 
 ```
-From repo     : fedora
-Short desc    : A nouvelle cuisine portion size slice of Moose
+From repo    : fedora
+Short desc   : A nouvelle cuisine portion size slice of Moose
 URL          : https://metacpan.org/release/Role-Tiny
 License      : GPL+ or Artistic
 Descript     : Role::Tiny is a minimalist role composition tool.
@@ -7201,8 +7201,8 @@ Descript     : Role::Tiny is a minimalist role composition tool.
 <summary>perl-SNMP_Session</summary>
 
 ```
-From repo     : fedora
-Short desc    : SNMP support for Perl 5
+From repo    : fedora
+Short desc   : SNMP support for Perl 5
 URL          : http://code.google.com/p/snmp-session/
 License      : Artistic 2.0
 Descript     : Pure Perl SNMP v1 and SNMP v2 support for Perl 5.
@@ -7217,8 +7217,8 @@ Descript     : Pure Perl SNMP v1 and SNMP v2 support for Perl 5.
 <summary>perl-SQL-Abstract</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generate SQL from Perl data structures
+From repo    : fedora
+Short desc   : Generate SQL from Perl data structures
 URL          : https://metacpan.org/release/SQL-Abstract
 License      : GPL+ or Artistic
 Descript     : Generate SQL from Perl data structures.
@@ -7230,8 +7230,8 @@ Descript     : Generate SQL from Perl data structures.
 <summary>perl-SQL-Abstract-Classic</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generate SQL from Perl data structures
+From repo    : fedora
+Short desc   : Generate SQL from Perl data structures
 URL          : https://metacpan.org/release/SQL-Abstract-Classic/
 License      : GPL+ or Artistic
 Descript     : This module was inspired by the excellent DBIx::Abstract. However, in using
@@ -7246,8 +7246,8 @@ Descript     : This module was inspired by the excellent DBIx::Abstract. However
 <summary>perl-SQL-Interp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interpolate Perl variables into SQL statements
+From repo    : fedora
+Short desc   : Interpolate Perl variables into SQL statements
 URL          : https://metacpan.org/release/SQL-Interp
 License      : GPL+ or Artistic
 Descript     : SQL::Interp converts a list of intermixed SQL fragments and variable
@@ -7263,8 +7263,8 @@ Descript     : SQL::Interp converts a list of intermixed SQL fragments and varia
 <summary>perl-SQL-Translator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Manipulate structured data definitions (SQL and more)
+From repo    : fedora
+Short desc   : Manipulate structured data definitions (SQL and more)
 URL          : https://metacpan.org/release/SQL-Translator
 License      : GPL+ or Artistic
 Descript     : SQL::Translator is a group of Perl modules that converts vendor-specific
@@ -7286,8 +7286,8 @@ Descript     : SQL::Translator is a group of Perl modules that converts vendor-s
 <summary>perl-Safe</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Compile and execute code in restricted compartments
+From repo    : updates-testing
+Short desc   : Compile and execute code in restricted compartments
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The Safe extension module allows the creation of compartments in which Perl
@@ -7301,8 +7301,8 @@ Descript     : The Safe extension module allows the creation of compartments in 
 <summary>perl-Safe-Isa</summary>
 
 ```
-From repo     : fedora
-Short desc    : Call isa, can, does and DOES safely on things that may not be objects
+From repo    : fedora
+Short desc   : Call isa, can, does and DOES safely on things that may not be objects
 URL          : https://metacpan.org/release/Safe-Isa
 License      : GPL+ or Artistic
 Descript     : This module allows you to call isa, can, does and DOES safely on things that
@@ -7316,8 +7316,8 @@ Descript     : This module allows you to call isa, can, does and DOES safely on 
 
 ```
 Эпоха        : 4
-From repo     : anaconda
-Short desc    : A selection of general-utility scalar and list subroutines
+From repo    : anaconda
+Short desc   : A selection of general-utility scalar and list subroutines
 URL          : https://metacpan.org/release/Scalar-List-Utils
 License      : GPL+ or Artistic
 Descript     : This package contains a selection of subroutines that people have expressed
@@ -7333,8 +7333,8 @@ Descript     : This package contains a selection of subroutines that people have
 
 ```
 Эпоха        : 4
-From repo     : updates-testing
-Short desc    : A selection of general-utility scalar and list subroutines
+From repo    : updates-testing
+Short desc   : A selection of general-utility scalar and list subroutines
 URL          : https://metacpan.org/release/Scalar-List-Utils
 License      : GPL+ or Artistic
 Descript     : This package contains a selection of subroutines that people have expressed
@@ -7349,8 +7349,8 @@ Descript     : This package contains a selection of subroutines that people have
 <summary>perl-Scope-Guard</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lexically scoped resource management
+From repo    : fedora
+Short desc   : Lexically scoped resource management
 URL          : https://metacpan.org/release/Scope-Guard
 License      : GPL+ or Artistic
 Descript     : This module provides a convenient way to perform cleanup or other forms of
@@ -7368,8 +7368,8 @@ Descript     : This module provides a convenient way to perform cleanup or other
 <summary>perl-Search-Dict</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Search for a key in a dictionary file
+From repo    : updates-testing
+Short desc   : Search for a key in a dictionary file
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module sets file position in a file handle to be first line greater than
@@ -7382,8 +7382,8 @@ Descript     : This module sets file position in a file handle to be first line 
 <summary>perl-SelectSaver</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Save and restore selected file handle
+From repo    : anaconda
+Short desc   : Save and restore selected file handle
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : A "SelectSaver" object contains a reference to the file handle that was
@@ -7397,8 +7397,8 @@ Descript     : A "SelectSaver" object contains a reference to the file handle th
 <summary>perl-SelectSaver</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Save and restore selected file handle
+From repo    : updates-testing
+Short desc   : Save and restore selected file handle
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : A "SelectSaver" object contains a reference to the file handle that was
@@ -7412,8 +7412,8 @@ Descript     : A "SelectSaver" object contains a reference to the file handle th
 <summary>perl-SelfLoader</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Load functions only on demand
+From repo    : updates-testing
+Short desc   : Load functions only on demand
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This Perl module tells its users that functions in a package are to be
@@ -7427,8 +7427,8 @@ Descript     : This Perl module tells its users that functions in a package are 
 <summary>perl-Set-Object</summary>
 
 ```
-From repo     : fedora
-Short desc    : Set of objects and strings
+From repo    : fedora
+Short desc   : Set of objects and strings
 URL          : https://metacpan.org/release/Set-Object
 License      : Artistic 2.0
 Descript     : This modules implements a set of objects, that is, an unordered
@@ -7445,8 +7445,8 @@ Descript     : This modules implements a set of objects, that is, an unordered
 
 ```
 Эпоха        : 4
-From repo     : anaconda
-Short desc    : Networking constants and support functions
+From repo    : anaconda
+Short desc   : Networking constants and support functions
 URL          : https://metacpan.org/release/Socket
 License      : GPL+ or Artistic
 Descript     : This Perl module provides a variety of constants, structure manipulators and
@@ -7463,8 +7463,8 @@ Descript     : This Perl module provides a variety of constants, structure manip
 <summary>perl-Socket6</summary>
 
 ```
-From repo     : fedora
-Short desc    : IPv6 related part of the C socket.h defines and structure manipulators
+From repo    : fedora
+Short desc   : IPv6 related part of the C socket.h defines and structure manipulators
 URL          : https://metacpan.org/release/Socket6
 License      : BSD
 Descript     : This module supports getaddrinfo() and getnameinfo() to intend to enable
@@ -7478,8 +7478,8 @@ Descript     : This module supports getaddrinfo() and getnameinfo() to intend to
 <summary>perl-Software-License</summary>
 
 ```
-From repo     : fedora
-Short desc    : Package that provides templated software licenses
+From repo    : fedora
+Short desc   : Package that provides templated software licenses
 URL          : https://metacpan.org/release/Software-License
 License      : GPL+ or Artistic
 Descript     : Software-License contains templates for common open source software licenses.
@@ -7491,8 +7491,8 @@ Descript     : Software-License contains templates for common open source softwa
 <summary>perl-Sort-Key</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fastest way to sort anything in Perl
+From repo    : fedora
+Short desc   : Fastest way to sort anything in Perl
 URL          : https://metacpan.org/release/Sort-Key
 License      : GPL+ or Artistic
 Descript     : Sort::Key provides a set of functions to sort lists of values by some
@@ -7505,8 +7505,8 @@ Descript     : Sort::Key provides a set of functions to sort lists of values by 
 <summary>perl-Sort-Naturally</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sort lexically, but sort numeral parts numerically
+From repo    : fedora
+Short desc   : Sort lexically, but sort numeral parts numerically
 URL          : https://metacpan.org/release/Sort-Naturally
 License      : GPL+ or Artistic
 Descript     : This module exports two functions, 'nsort' and 'ncmp'; they are used in
@@ -7521,8 +7521,8 @@ Descript     : This module exports two functions, 'nsort' and 'ncmp'; they are u
 <summary>perl-Specio</summary>
 
 ```
-From repo     : fedora
-Short desc    : Type constraints and coercions for Perl
+From repo    : fedora
+Short desc   : Type constraints and coercions for Perl
 URL          : https://metacpan.org/release/Specio
 License      : Artistic 2.0 and (GPL+ or Artistic)
 Descript     : The Specio distribution provides classes for representing type constraints
@@ -7543,8 +7543,8 @@ Descript     : The Specio distribution provides classes for representing type co
 <summary>perl-Spreadsheet-ParseExcel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extract information from an Excel file
+From repo    : fedora
+Short desc   : Extract information from an Excel file
 URL          : https://metacpan.org/release/Spreadsheet-ParseExcel
 License      : GPL+ or Artistic
 Descript     : The Spreadsheet::ParseExcel module can be used to read information from an
@@ -7557,8 +7557,8 @@ Descript     : The Spreadsheet::ParseExcel module can be used to read informatio
 <summary>perl-Spreadsheet-WriteExcel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Write formatted text and numbers to a cross-platform Excel binary file
+From repo    : fedora
+Short desc   : Write formatted text and numbers to a cross-platform Excel binary file
 URL          : https://metacpan.org/release/Spreadsheet-WriteExcel
 License      : GPL+ or Artistic
 Descript     : The Spreadsheet::WriteExcel module can be used to create a cross-
@@ -7583,8 +7583,8 @@ Descript     : The Spreadsheet::WriteExcel module can be used to create a cross-
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Persistence for Perl data structures
+From repo    : anaconda
+Short desc   : Persistence for Perl data structures
 URL          : https://metacpan.org/release/Storable
 License      : GPL+ or Artistic
 Descript     : The Storable package brings persistence to your Perl data structures
@@ -7598,8 +7598,8 @@ Descript     : The Storable package brings persistence to your Perl data structu
 <summary>perl-String-RewritePrefix</summary>
 
 ```
-From repo     : fedora
-Short desc    : Rewrite strings based on a set of known prefixes
+From repo    : fedora
+Short desc   : Rewrite strings based on a set of known prefixes
 URL          : https://metacpan.org/release/String-RewritePrefix
 License      : GPL+ or Artistic
 Descript     : Rewrite strings based on a set of known prefixes.
@@ -7611,8 +7611,8 @@ Descript     : Rewrite strings based on a set of known prefixes.
 <summary>perl-String-Truncate</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simply truncate long strings
+From repo    : fedora
+Short desc   : Simply truncate long strings
 URL          : https://metacpan.org/release/String-Truncate
 License      : GPL+ or Artistic
 Descript     : This module handles the simple but common problem of long strings and
@@ -7625,8 +7625,8 @@ Descript     : This module handles the simple but common problem of long strings
 <summary>perl-Sub-Exporter</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sophisticated exporter for custom-built routines
+From repo    : fedora
+Short desc   : Sophisticated exporter for custom-built routines
 URL          : https://metacpan.org/release/Sub-Exporter
 License      : GPL+ or Artistic
 Descript     : Sub::Exporter provides a sophisticated alternative to Exporter.pm. It allows
@@ -7642,8 +7642,8 @@ Descript     : Sub::Exporter provides a sophisticated alternative to Exporter.pm
 <summary>perl-Sub-Exporter-ForMethods</summary>
 
 ```
-From repo     : fedora
-Short desc    : Helper routines for using Sub::Exporter to build methods
+From repo    : fedora
+Short desc   : Helper routines for using Sub::Exporter to build methods
 URL          : https://metacpan.org/release/Sub-Exporter-ForMethods
 License      : GPL+ or Artistic
 Descript     : This package provides helper routines for using Sub::Exporter to build methods
@@ -7656,8 +7656,8 @@ Descript     : This package provides helper routines for using Sub::Exporter to 
 <summary>perl-Sub-Exporter-Progressive</summary>
 
 ```
-From repo     : fedora
-Short desc    : Only use Sub::Exporter if you need it
+From repo    : fedora
+Short desc   : Only use Sub::Exporter if you need it
 URL          : https://metacpan.org/release/Sub-Exporter-Progressive
 License      : GPL+ or Artistic
 Descript     : Sub::Exporter is an incredibly powerful module, but with that power comes
@@ -7679,8 +7679,8 @@ Descript     : Sub::Exporter is an incredibly powerful module, but with that pow
 <summary>perl-Sub-Identify</summary>
 
 ```
-From repo     : fedora
-Short desc    : Retrieve names of code references
+From repo    : fedora
+Short desc   : Retrieve names of code references
 URL          : https://metacpan.org/release/Sub-Identify
 License      : GPL+ or Artistic
 Descript     : Sub::Identify allows you to retrieve the real name of code references. For
@@ -7693,8 +7693,8 @@ Descript     : Sub::Identify allows you to retrieve the real name of code refere
 <summary>perl-Sub-Install</summary>
 
 ```
-From repo     : fedora
-Short desc    : Install subroutines into packages easily
+From repo    : fedora
+Short desc   : Install subroutines into packages easily
 URL          : https://metacpan.org/release/Sub-Install
 License      : GPL+ or Artistic
 Descript     : This module makes it easy to install subroutines into packages without the
@@ -7708,8 +7708,8 @@ Descript     : This module makes it easy to install subroutines into packages wi
 <summary>perl-Sub-Name</summary>
 
 ```
-From repo     : fedora
-Short desc    : Name - or rename - a sub
+From repo    : fedora
+Short desc   : Name - or rename - a sub
 URL          : https://metacpan.org/release/Sub-Name
 License      : GPL+ or Artistic
 Descript     : This module allows one to "name" or rename subroutines, including anonymous
@@ -7725,8 +7725,8 @@ Descript     : This module allows one to "name" or rename subroutines, including
 <summary>perl-Sub-Quote</summary>
 
 ```
-From repo     : fedora
-Short desc    : Efficient generation of subroutines via string eval
+From repo    : fedora
+Short desc   : Efficient generation of subroutines via string eval
 URL          : https://metacpan.org/release/Sub-Quote
 License      : GPL+ or Artistic
 Descript     : This package provides performant ways to generate subroutines from strings.
@@ -7738,8 +7738,8 @@ Descript     : This package provides performant ways to generate subroutines fro
 <summary>perl-Switch</summary>
 
 ```
-From repo     : fedora
-Short desc    : A switch statement for Perl
+From repo    : fedora
+Short desc   : A switch statement for Perl
 URL          : https://metacpan.org/release/Switch
 License      : GPL+ or Artistic
 Descript     : Switch.pm provides the syntax and semantics for an explicit case mechanism for
@@ -7756,8 +7756,8 @@ Descript     : Switch.pm provides the syntax and semantics for an explicit case 
 <summary>perl-Symbol</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Manipulate Perl symbols and their names
+From repo    : anaconda
+Short desc   : Manipulate Perl symbols and their names
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The Symbol module provides functions for manipulating Perl symbols.
@@ -7769,8 +7769,8 @@ Descript     : The Symbol module provides functions for manipulating Perl symbol
 <summary>perl-Symbol</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Manipulate Perl symbols and their names
+From repo    : updates-testing
+Short desc   : Manipulate Perl symbols and their names
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The Symbol module provides functions for manipulating Perl symbols.
@@ -7782,8 +7782,8 @@ Descript     : The Symbol module provides functions for manipulating Perl symbol
 <summary>perl-Sys-CPU</summary>
 
 ```
-From repo     : fedora
-Short desc    : Getting CPU information
+From repo    : fedora
+Short desc   : Getting CPU information
 URL          : https://metacpan.org/release/Sys-CPU
 License      : (GPL+ or Artistic) and (LGPLv3 or Artistic 2.0)
 Descript     : Perl extension for getting CPU information.
@@ -7796,8 +7796,8 @@ Descript     : Perl extension for getting CPU information.
 <summary>perl-Sys-Hostname</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Try every conceivable way to get a hostname
+From repo    : updates-testing
+Short desc   : Try every conceivable way to get a hostname
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : It attempts several methods of getting the system hostname and then caches the
@@ -7810,8 +7810,8 @@ Descript     : It attempts several methods of getting the system hostname and th
 <summary>perl-Sys-MemInfo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Memory information as Perl module
+From repo    : fedora
+Short desc   : Memory information as Perl module
 URL          : https://metacpan.org/release/Sys-MemInfo
 License      : GPL+ or Artistic
 Descript     : Sys::MemInfo returns the total amount of free and used physical memory in
@@ -7824,8 +7824,8 @@ Descript     : Sys::MemInfo returns the total amount of free and used physical m
 <summary>perl-Sys-Syslog</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to the UNIX syslog(3) calls
+From repo    : fedora
+Short desc   : Perl interface to the UNIX syslog(3) calls
 URL          : https://metacpan.org/release/Sys-Syslog
 License      : GPL+ or Artistic
 Descript     : Sys::Syslog is an interface to the UNIX syslog(3) function. Call syslog() with
@@ -7838,8 +7838,8 @@ Descript     : Sys::Syslog is an interface to the UNIX syslog(3) function. Call 
 <summary>perl-System-Command</summary>
 
 ```
-From repo     : fedora
-Short desc    : Object for running system commands
+From repo    : fedora
+Short desc   : Object for running system commands
 URL          : https://metacpan.org/release/System-Command
 License      : GPL+ or Artistic
 Descript     : System::Command is a class that launches external system commands and
@@ -7853,8 +7853,8 @@ Descript     : System::Command is a class that launches external system commands
 <summary>perl-Task-Weaken</summary>
 
 ```
-From repo     : fedora
-Short desc    : Ensure that a platform has weaken support
+From repo    : fedora
+Short desc   : Ensure that a platform has weaken support
 URL          : https://metacpan.org/release/Task-Weaken
 License      : GPL+ or Artistic
 Descript     : One recurring problem in modules that use Scalar::Util's weaken function is
@@ -7871,8 +7871,8 @@ Descript     : One recurring problem in modules that use Scalar::Util's weaken f
 <summary>perl-TeX-Hyphen</summary>
 
 ```
-From repo     : fedora
-Short desc    : Hyphenate words using TeX's patterns
+From repo    : fedora
+Short desc   : Hyphenate words using TeX's patterns
 URL          : http://www.adelton.com/perl/TeX-Hyphen/
 License      : GPL+ or Artistic
 Descript     : Hyphenate words using TeX's patterns.
@@ -7884,8 +7884,8 @@ Descript     : Hyphenate words using TeX's patterns.
 <summary>perl-Template-Toolkit</summary>
 
 ```
-From repo     : fedora
-Short desc    : Template processing system
+From repo    : fedora
+Short desc   : Template processing system
 URL          : http://www.template-toolkit.org/
 License      : GPL+ or Artistic
 Descript     : The Template Toolkit is a collection of modules which implement a
@@ -7902,8 +7902,8 @@ Descript     : The Template Toolkit is a collection of modules which implement a
 <summary>perl-Term-ANSIColor</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Color screen output using ANSI escape sequences
+From repo    : anaconda
+Short desc   : Color screen output using ANSI escape sequences
 URL          : https://metacpan.org/release/Term-ANSIColor
 License      : GPL+ or Artistic
 Descript     : This module has two interfaces, one through color() and colored() and the
@@ -7918,8 +7918,8 @@ Descript     : This module has two interfaces, one through color() and colored()
 <summary>perl-Term-Cap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl termcap interface
+From repo    : anaconda
+Short desc   : Perl termcap interface
 URL          : https://metacpan.org/release/Term-Cap
 License      : GPL+ or Artistic
 Descript     : These are low-level functions to extract and use capabilities from a terminal
@@ -7932,8 +7932,8 @@ Descript     : These are low-level functions to extract and use capabilities fro
 <summary>perl-Term-Complete</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl word completion
+From repo    : updates-testing
+Short desc   : Perl word completion
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : "Complete" routine provides word completion on a list of words in the array.
@@ -7945,8 +7945,8 @@ Descript     : "Complete" routine provides word completion on a list of words in
 <summary>perl-Term-ReadLine</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl interface to various read-line packages
+From repo    : updates-testing
+Short desc   : Perl interface to various read-line packages
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This package is just a front end to some other packages. It's a stub to
@@ -7960,8 +7960,8 @@ Descript     : This package is just a front end to some other packages. It's a s
 <summary>perl-Term-Size-Any</summary>
 
 ```
-From repo     : fedora
-Short desc    : Retrieve terminal size
+From repo    : fedora
+Short desc   : Retrieve terminal size
 URL          : https://metacpan.org/release/Term-Size-Any
 License      : GPL+ or Artistic
 Descript     : This is a unified interface to retrieve terminal size. It loads one module
@@ -7976,8 +7976,8 @@ Descript     : This is a unified interface to retrieve terminal size. It loads o
 <summary>perl-Term-Size-Perl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension for retrieving terminal size (Perl version)
+From repo    : fedora
+Short desc   : Perl extension for retrieving terminal size (Perl version)
 URL          : https://metacpan.org/release/Term-Size-Perl
 License      : GPL+ or Artistic
 Descript     : Yet another implementation of Term::Size. Now in pure Perl, with the
@@ -7990,8 +7990,8 @@ Descript     : Yet another implementation of Term::Size. Now in pure Perl, with 
 <summary>perl-Term-Table</summary>
 
 ```
-From repo     : fedora
-Short desc    : Format a header and rows into a table
+From repo    : fedora
+Short desc   : Format a header and rows into a table
 URL          : https://metacpan.org/release/Term-Table
 License      : GPL+ or Artistic
 Descript     : This Perl module is able to format rows of data into tables.
@@ -8003,8 +8003,8 @@ Descript     : This Perl module is able to format rows of data into tables.
 <summary>perl-Term-UI</summary>
 
 ```
-From repo     : fedora
-Short desc    : Term::ReadLine user interface made easy
+From repo    : fedora
+Short desc   : Term::ReadLine user interface made easy
 URL          : https://metacpan.org/release/Term-UI
 License      : GPL+ or Artistic
 Descript     : Term::UI is a transparent way of eliminating the overhead of having to
@@ -8018,8 +8018,8 @@ Descript     : Term::UI is a transparent way of eliminating the overhead of havi
 <summary>perl-TermReadKey</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A perl module for simple terminal control
+From repo    : anaconda
+Short desc   : A perl module for simple terminal control
 URL          : https://metacpan.org/release/TermReadKey
 License      : (Copyright only) and (Artistic or GPL+)
 Descript     : Term::ReadKey is a compiled perl module dedicated to providing simple
@@ -8037,8 +8037,8 @@ Descript     : Term::ReadKey is a compiled perl module dedicated to providing si
 <summary>perl-Test</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Simple framework for writing test scripts
+From repo    : updates-testing
+Short desc   : Simple framework for writing test scripts
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The Test Perl module simplifies the task of writing test files for Perl modules,
@@ -8051,8 +8051,8 @@ Descript     : The Test Perl module simplifies the task of writing test files fo
 <summary>perl-Test-Deep</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extremely flexible deep comparison
+From repo    : fedora
+Short desc   : Extremely flexible deep comparison
 URL          : https://metacpan.org/release/Test-Deep
 License      : GPL+ or Artistic
 Descript     : Test::Deep gives you very flexible ways to check that the result you
@@ -8070,8 +8070,8 @@ Descript     : Test::Deep gives you very flexible ways to check that the result 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Run Perl standard test scripts with statistics
+From repo    : fedora
+Short desc   : Run Perl standard test scripts with statistics
 URL          : https://metacpan.org/release/Test-Harness
 License      : GPL+ or Artistic
 Descript     : This package allows tests to be run and results automatically aggregated and
@@ -8090,8 +8090,8 @@ Descript     : This package allows tests to be run and results automatically agg
 
 ```
 Эпоха        : 3
-From repo     : fedora
-Short desc    : Basic utilities for writing tests
+From repo    : fedora
+Short desc   : Basic utilities for writing tests
 URL          : https://metacpan.org/release/Test-Simple
 License      : (GPL+ or Artistic) and CC0 and Public Domain
 Descript     : This package provides the bulk of the core testing facilities. For more
@@ -8106,8 +8106,8 @@ Descript     : This package provides the bulk of the core testing facilities. Fo
 <summary>perl-Text-Abbrev</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Create an abbreviation table from a list
+From repo    : updates-testing
+Short desc   : Create an abbreviation table from a list
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : It stores all unambiguous truncations of each element of a list as keys in
@@ -8120,8 +8120,8 @@ Descript     : It stores all unambiguous truncations of each element of a list a
 <summary>perl-Text-Aligner</summary>
 
 ```
-From repo     : fedora
-Short desc    : Text::Aligner Perl module
+From repo    : fedora
+Short desc   : Text::Aligner Perl module
 URL          : https://metacpan.org/release/Text-Aligner
 License      : ICS
 Descript     : Text::Aligner exports a single function, align(), which is used to justify
@@ -8136,8 +8136,8 @@ Descript     : Text::Aligner exports a single function, align(), which is used t
 <summary>perl-Text-Autoformat</summary>
 
 ```
-From repo     : fedora
-Short desc    : Automatic text wrapping and reformatting
+From repo    : fedora
+Short desc   : Automatic text wrapping and reformatting
 URL          : https://metacpan.org/release/Text-Autoformat
 License      : GPL+ or Artistic
 Descript     : Text::Autoformat provides intelligent formatting of plain text without the
@@ -8157,8 +8157,8 @@ Descript     : Text::Autoformat provides intelligent formatting of plain text wi
 <summary>perl-Text-Balanced</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extract delimited text sequences from strings
+From repo    : fedora
+Short desc   : Extract delimited text sequences from strings
 URL          : https://metacpan.org/release/Text-Balanced
 License      : GPL+ or Artistic
 Descript     : These Perl subroutines may be used to extract a delimited substring, possibly
@@ -8171,8 +8171,8 @@ Descript     : These Perl subroutines may be used to extract a delimited substri
 <summary>perl-Text-BibTeX</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interface to read and parse BibTeX files
+From repo    : fedora
+Short desc   : Interface to read and parse BibTeX files
 URL          : https://metacpan.org/release/Text-BibTeX
 License      : GPL+ or Artistic
 Descript     : The Text::BibTeX module processes BibTeX data.  It includes object-oriented
@@ -8186,8 +8186,8 @@ Descript     : The Text::BibTeX module processes BibTeX data.  It includes objec
 <summary>perl-Text-CSV</summary>
 
 ```
-From repo     : fedora
-Short desc    : Comma-separated values manipulator
+From repo    : fedora
+Short desc   : Comma-separated values manipulator
 URL          : https://metacpan.org/release/Text-CSV
 License      : GPL+ or Artistic
 Descript     : Text::CSV provides facilities for the composition and decomposition of
@@ -8205,8 +8205,8 @@ Descript     : Text::CSV provides facilities for the composition and decompositi
 <summary>perl-Text-CSV_XS</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Comma-separated values manipulation routines
+From repo    : updates-testing
+Short desc   : Comma-separated values manipulation routines
 URL          : https://metacpan.org/release/Text-CSV_XS
 License      : GPL+ or Artistic
 Descript     : Text::CSV provides facilities for the composition and decomposition of
@@ -8220,8 +8220,8 @@ Descript     : Text::CSV provides facilities for the composition and decompositi
 <summary>perl-Text-Diff</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perform diffs on files and record sets
+From repo    : fedora
+Short desc   : Perform diffs on files and record sets
 URL          : https://metacpan.org/release/Text-Diff
 License      : (GPL+ or Artistic) and (GPLv2+ or Artistic) and MIT
 Descript     : Text::Diff provides a basic set of services akin to the GNU diff utility.
@@ -8237,8 +8237,8 @@ Descript     : Text::Diff provides a basic set of services akin to the GNU diff 
 <summary>perl-Text-Glob</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module to match globbing patterns against text
+From repo    : fedora
+Short desc   : Perl module to match globbing patterns against text
 URL          : https://metacpan.org/release/Text-Glob
 License      : GPL+ or Artistic
 Descript     : Text::Glob implements glob(3) style matching that can be used to match
@@ -8252,8 +8252,8 @@ Descript     : Text::Glob implements glob(3) style matching that can be used to 
 <summary>perl-Text-ParseWords</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Parse text into an array of tokens or array of arrays
+From repo    : anaconda
+Short desc   : Parse text into an array of tokens or array of arrays
 URL          : https://metacpan.org/release/Text-ParseWords
 License      : GPL+ or Artistic
 Descript     : The nested_quotewords() and quotewords() functions accept a delimiter (which
@@ -8272,8 +8272,8 @@ Descript     : The nested_quotewords() and quotewords() functions accept a delim
 <summary>perl-Text-RecordParser</summary>
 
 ```
-From repo     : fedora
-Short desc    : Read record-oriented files
+From repo    : fedora
+Short desc   : Read record-oriented files
 URL          : https://metacpan.org/release/Text-RecordParser
 License      : GPLv2
 Descript     : This module is for reading record-oriented data in a delimited text file.
@@ -8293,8 +8293,8 @@ Descript     : This module is for reading record-oriented data in a delimited te
 <summary>perl-Text-Reform</summary>
 
 ```
-From repo     : fedora
-Short desc    : Manual text wrapping and reformatting
+From repo    : fedora
+Short desc   : Manual text wrapping and reformatting
 URL          : https://metacpan.org/release/Text-Reform
 License      : GPL+ or Artistic
 Descript     : The module supplies a re-entrant, highly configurable replacement for the
@@ -8307,8 +8307,8 @@ Descript     : The module supplies a re-entrant, highly configurable replacement
 <summary>perl-Text-Roman</summary>
 
 ```
-From repo     : fedora
-Short desc    : Conversion between Roman algorisms and Arabic numerals
+From repo    : fedora
+Short desc   : Conversion between Roman algorisms and Arabic numerals
 URL          : https://metacpan.org/release/Text-Roman
 License      : GPL+ or Artistic
 Descript     : This package supports both conventional Roman algorisms (which range from 1
@@ -8322,8 +8322,8 @@ Descript     : This package supports both conventional Roman algorisms (which ra
 <summary>perl-Text-Soundex</summary>
 
 ```
-From repo     : fedora
-Short desc    : Implementation of the soundex algorithm
+From repo    : fedora
+Short desc   : Implementation of the soundex algorithm
 URL          : https://metacpan.org/release/Text-Soundex
 License      : (Copyright only) and (GPL+ or Artistic)
 Descript     : Soundex is a phonetic algorithm for indexing names by sound, as pronounced in
@@ -8338,8 +8338,8 @@ Descript     : Soundex is a phonetic algorithm for indexing names by sound, as p
 <summary>perl-Text-Table</summary>
 
 ```
-From repo     : fedora
-Short desc    : Organize Data in Tables
+From repo    : fedora
+Short desc   : Organize Data in Tables
 URL          : https://metacpan.org/release/Text-Table
 License      : ISC
 Descript     : Organization of data in table form is a time-honored and useful method of
@@ -8357,8 +8357,8 @@ Descript     : Organization of data in table form is a time-honored and useful m
 <summary>perl-Text-Tabs+Wrap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Expand tabs and do simple line wrapping
+From repo    : anaconda
+Short desc   : Expand tabs and do simple line wrapping
 URL          : https://metacpan.org/release/Text-Tabs%2BWrap
 License      : TTWL
 Descript     : Text::Tabs performs the same job that the UNIX expand(1) and unexpand(1)
@@ -8374,8 +8374,8 @@ Descript     : Text::Tabs performs the same job that the UNIX expand(1) and unex
 <summary>perl-Text-TabularDisplay</summary>
 
 ```
-From repo     : fedora
-Short desc    : Display text in formatted table output
+From repo    : fedora
+Short desc   : Display text in formatted table output
 URL          : https://metacpan.org/release/Text-TabularDisplay
 License      : GPLv2
 Descript     : Text::TabularDisplay simplifies displaying textual data in a table. The
@@ -8389,8 +8389,8 @@ Descript     : Text::TabularDisplay simplifies displaying textual data in a tabl
 <summary>perl-Text-Template</summary>
 
 ```
-From repo     : fedora
-Short desc    : Expand template text with embedded Perl
+From repo    : fedora
+Short desc   : Expand template text with embedded Perl
 URL          : https://metacpan.org/release/Text-Template
 License      : GPL+ or Artistic
 Descript     : This is a library for generating form letters, building HTML pages, or
@@ -8406,8 +8406,8 @@ Descript     : This is a library for generating form letters, building HTML page
 <summary>perl-Text-Unidecode</summary>
 
 ```
-From repo     : fedora
-Short desc    : US-ASCII transliterations of Unicode text
+From repo    : fedora
+Short desc   : US-ASCII transliterations of Unicode text
 URL          : https://metacpan.org/release/Text-Unidecode
 License      : GPL+ or Artistic
 Descript     : 
@@ -8425,8 +8425,8 @@ Descript     :
 <summary>perl-Text-WagnerFischer</summary>
 
 ```
-From repo     : fedora
-Short desc    : Implementation of the Wagner-Fischer edit distance
+From repo    : fedora
+Short desc   : Implementation of the Wagner-Fischer edit distance
 URL          : https://metacpan.org/release/Text-WagnerFischer
 License      : GPL+ or Artistic
 Descript     : This module implements the Wagner-Fischer dynamic programming technique,
@@ -8442,8 +8442,8 @@ Descript     : This module implements the Wagner-Fischer dynamic programming tec
 <summary>perl-Thread</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Manipulate threads in Perl (for old code only)
+From repo    : updates-testing
+Short desc   : Manipulate threads in Perl (for old code only)
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This Thread module served as the front end to the old-style thread model,
@@ -8465,8 +8465,8 @@ Descript     : This Thread module served as the front end to the old-style threa
 <summary>perl-Thread-Queue</summary>
 
 ```
-From repo     : fedora
-Short desc    : Thread-safe queues
+From repo    : fedora
+Short desc   : Thread-safe queues
 URL          : https://metacpan.org/release/Thread-Queue
 License      : GPL+ or Artistic
 Descript     : This module provides thread-safe FIFO queues that can be accessed safely by
@@ -8479,8 +8479,8 @@ Descript     : This module provides thread-safe FIFO queues that can be accessed
 <summary>perl-Thread-Semaphore</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Thread-safe semaphores
+From repo    : updates-testing
+Short desc   : Thread-safe semaphores
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Semaphores provide a mechanism to regulate access to resources. Unlike locks,
@@ -8498,8 +8498,8 @@ Descript     : Semaphores provide a mechanism to regulate access to resources. U
 <summary>perl-Tie</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Base classes for tying variables
+From repo    : updates-testing
+Short desc   : Base classes for tying variables
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : These are Perl modules that helps connecting classes with arrays, hashes,
@@ -8512,8 +8512,8 @@ Descript     : These are Perl modules that helps connecting classes with arrays,
 <summary>perl-Tie-Cycle</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cycle through a list of values via a scalar
+From repo    : fedora
+Short desc   : Cycle through a list of values via a scalar
 URL          : https://metacpan.org/release/Tie-Cycle
 License      : Artistic 2.0
 Descript     : This Perl module can be used to go through a list over and over again.
@@ -8528,8 +8528,8 @@ Descript     : This Perl module can be used to go through a list over and over a
 <summary>perl-Tie-File</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Access the lines of a disk file via a Perl array
+From repo    : updates-testing
+Short desc   : Access the lines of a disk file via a Perl array
 URL          : https://www.perl.org/
 License      : GPLv2+ or Artistic
 Descript     : Tie::File represents a regular text file as a Perl array. Each element in the
@@ -8545,8 +8545,8 @@ Descript     : Tie::File represents a regular text file as a Perl array. Each el
 <summary>perl-Tie-Memoize</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Add data to a hash when needed
+From repo    : updates-testing
+Short desc   : Add data to a hash when needed
 URL          : https://www.perl.org/
 License      : GPLv2+ or Artistic
 Descript     : This package allows a tied hash to load its values automatically on the first
@@ -8559,8 +8559,8 @@ Descript     : This package allows a tied hash to load its values automatically 
 <summary>perl-Tie-RefHash</summary>
 
 ```
-From repo     : fedora
-Short desc    : Use references as hash keys
+From repo    : fedora
+Short desc   : Use references as hash keys
 URL          : https://metacpan.org/release/Tie-RefHash
 License      : GPL+ or Artistic
 Descript     : This module provides the ability to use references as hash keys if you first
@@ -8576,8 +8576,8 @@ Descript     : This module provides the ability to use references as hash keys i
 <summary>perl-Time</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : By-name interface to Perl built-in time functions
+From repo    : updates-testing
+Short desc   : By-name interface to Perl built-in time functions
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This package provides an object-oriented interface to Perl built-in gmtime()
@@ -8591,8 +8591,8 @@ Descript     : This package provides an object-oriented interface to Perl built-
 
 ```
 Эпоха        : 4
-From repo     : fedora
-Short desc    : High resolution alarm, sleep, gettimeofday, interval timers
+From repo    : fedora
+Short desc   : High resolution alarm, sleep, gettimeofday, interval timers
 URL          : https://metacpan.org/release/Time-HiRes
 License      : GPL+ or Artistic
 Descript     : The Time::HiRes module implements a Perl interface to the usleep, nanosleep,
@@ -8607,8 +8607,8 @@ Descript     : The Time::HiRes module implements a Perl interface to the usleep,
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Efficiently compute time from local and GMT time
+From repo    : anaconda
+Short desc   : Efficiently compute time from local and GMT time
 URL          : https://metacpan.org/release/Time-Local
 License      : GPL+ or Artistic
 Descript     : This module provides functions that are the inverse of built-in perl functions
@@ -8625,8 +8625,8 @@ Descript     : This module provides functions that are the inverse of built-in p
 <summary>perl-Time-Piece</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Time objects from localtime and gmtime
+From repo    : updates-testing
+Short desc   : Time objects from localtime and gmtime
 URL          : https://www.perl.org/
 License      : (GPL+ or Artistic) and BSD
 Descript     : The Time::Piece module replaces the standard localtime and gmtime functions
@@ -8642,8 +8642,8 @@ Descript     : The Time::Piece module replaces the standard localtime and gmtime
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A Perl module for time and date manipulation
+From repo    : fedora
+Short desc   : A Perl module for time and date manipulation
 URL          : https://metacpan.org/release/TimeDate
 License      : GPL+ or Artistic
 Descript     : This module includes a number of smaller modules suited for
@@ -8659,8 +8659,8 @@ Descript     : This module includes a number of smaller modules suited for
 <summary>perl-Try-Tiny</summary>
 
 ```
-From repo     : fedora
-Short desc    : Minimal try/catch with proper localization of $@
+From repo    : fedora
+Short desc   : Minimal try/catch with proper localization of $@
 URL          : https://metacpan.org/release/Try-Tiny
 License      : MIT
 Descript     : This module provides bare bones try/catch statements that are designed to
@@ -8680,8 +8680,8 @@ Descript     : This module provides bare bones try/catch statements that are des
 <summary>perl-Type-Tiny</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tiny, yet Moo(se)-compatible type constraint
+From repo    : fedora
+Short desc   : Tiny, yet Moo(se)-compatible type constraint
 URL          : https://metacpan.org/release/Type-Tiny
 License      : GPL+ or Artistic
 Descript     : Type::Tiny is a tiny class for creating Moose-like type constraint objects
@@ -8694,8 +8694,8 @@ Descript     : Type::Tiny is a tiny class for creating Moose-like type constrain
 <summary>perl-Types-Serialiser</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple data types for common serialization formats
+From repo    : fedora
+Short desc   : Simple data types for common serialization formats
 URL          : https://metacpan.org/release/Types-Serialiser
 License      : GPL+ or Artistic
 Descript     : This module provides some extra data types that are used by common
@@ -8710,8 +8710,8 @@ Descript     : This module provides some extra data types that are used by commo
 <summary>perl-UNIVERSAL-isa</summary>
 
 ```
-From repo     : fedora
-Short desc    : Hack around module authors using UNIVERSAL::isa as a function
+From repo    : fedora
+Short desc   : Hack around module authors using UNIVERSAL::isa as a function
 URL          : https://metacpan.org/release/UNIVERSAL-isa
 License      : GPL+ or Artistic
 Descript     : Whenever you use "isa" in UNIVERSAL as a function, a kitten using
@@ -8732,8 +8732,8 @@ Descript     : Whenever you use "isa" in UNIVERSAL as a function, a kitten using
 <summary>perl-URI</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A Perl module implementing URI parsing and manipulation
+From repo    : anaconda
+Short desc   : A Perl module implementing URI parsing and manipulation
 URL          : https://metacpan.org/release/URI
 License      : GPL+ or Artistic
 Descript     : This module implements the URI class. Objects of this class represent
@@ -8747,8 +8747,8 @@ Descript     : This module implements the URI class. Objects of this class repre
 <summary>perl-URI</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A Perl module implementing URI parsing and manipulation
+From repo    : updates-testing
+Short desc   : A Perl module implementing URI parsing and manipulation
 URL          : https://metacpan.org/release/URI
 License      : GPL+ or Artistic
 Descript     : This module implements the URI class. Objects of this class represent
@@ -8762,8 +8762,8 @@ Descript     : This module implements the URI class. Objects of this class repre
 <summary>perl-Unicode-Collate</summary>
 
 ```
-From repo     : fedora
-Short desc    : Unicode Collation Algorithm
+From repo    : fedora
+Short desc   : Unicode Collation Algorithm
 URL          : https://metacpan.org/release/Unicode-Collate
 License      : (GPL+ or Artistic) and Unicode
 Descript     : This package is Perl implementation of Unicode Technical Standard #10 (Unicode
@@ -8776,8 +8776,8 @@ Descript     : This package is Perl implementation of Unicode Technical Standard
 <summary>perl-Unicode-EastAsianWidth</summary>
 
 ```
-From repo     : fedora
-Short desc    : East Asian Width properties
+From repo    : fedora
+Short desc   : East Asian Width properties
 URL          : https://metacpan.org/release/Unicode-EastAsianWidth
 License      : CC0
 Descript     : This module provide user-defined Unicode properties that deal with width
@@ -8791,8 +8791,8 @@ Descript     : This module provide user-defined Unicode properties that deal wit
 <summary>perl-Unicode-LineBreak</summary>
 
 ```
-From repo     : fedora
-Short desc    : UAX #14 Unicode Line Breaking Algorithm
+From repo    : fedora
+Short desc   : UAX #14 Unicode Line Breaking Algorithm
 URL          : https://metacpan.org/release/Unicode-LineBreak
 License      : GPL+ or Artistic
 Descript     : Unicode::LineBreak performs Line Breaking Algorithm described in Unicode
@@ -8807,8 +8807,8 @@ Descript     : Unicode::LineBreak performs Line Breaking Algorithm described in 
 <summary>perl-Unicode-Map</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for mapping charsets from and to utf16 unicode
+From repo    : fedora
+Short desc   : Perl module for mapping charsets from and to utf16 unicode
 URL          : https://metacpan.org/release/Unicode-Map
 License      : GPL+ or Artistic
 Descript     : This module converts strings from and to 2-byte Unicode UCS2 format.
@@ -8827,8 +8827,8 @@ Descript     : This module converts strings from and to 2-byte Unicode UCS2 form
 <summary>perl-Unicode-Normalize</summary>
 
 ```
-From repo     : fedora
-Short desc    : Unicode Normalization Forms
+From repo    : fedora
+Short desc   : Unicode Normalization Forms
 URL          : https://metacpan.org/release/Unicode-Normalize
 License      : GPL+ or Artistic
 Descript     : This package provides Perl functions that can convert strings into various
@@ -8841,8 +8841,8 @@ Descript     : This package provides Perl functions that can convert strings int
 <summary>perl-Unicode-UCD</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Unicode character database
+From repo    : updates-testing
+Short desc   : Unicode character database
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The Unicode::UCD module offers a series of functions that provide a simple
@@ -8855,8 +8855,8 @@ Descript     : The Unicode::UCD module offers a series of functions that provide
 <summary>perl-Unicode-UTF8</summary>
 
 ```
-From repo     : fedora
-Short desc    : Encoding and decoding of UTF-8 encoding form
+From repo    : fedora
+Short desc   : Encoding and decoding of UTF-8 encoding form
 URL          : https://metacpan.org/release/Unicode-UTF8
 License      : GPL+ or Artistic
 Descript     : This module provides functions to encode and decode UTF-8 encoding form as
@@ -8869,8 +8869,8 @@ Descript     : This module provides functions to encode and decode UTF-8 encodin
 <summary>perl-User-pwent</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : By-name interface to Perl built-in user name resolver
+From repo    : updates-testing
+Short desc   : By-name interface to Perl built-in user name resolver
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This package provides an object-oriented interface to Perl build-in getgr*()
@@ -8883,8 +8883,8 @@ Descript     : This package provides an object-oriented interface to Perl build-
 <summary>perl-Variable-Magic</summary>
 
 ```
-From repo     : fedora
-Short desc    : Associate user-defined magic to variables from Perl
+From repo    : fedora
+Short desc   : Associate user-defined magic to variables from Perl
 URL          : https://metacpan.org/release/Variable-Magic
 License      : GPL+ or Artistic
 Descript     : Magic is Perl way of enhancing objects. This mechanism let the user add
@@ -8899,8 +8899,8 @@ Descript     : Magic is Perl way of enhancing objects. This mechanism let the us
 <summary>perl-WWW-Mechanize</summary>
 
 ```
-From repo     : fedora
-Short desc    : Automates web page form & link interaction
+From repo    : fedora
+Short desc   : Automates web page form & link interaction
 URL          : https://metacpan.org/release/WWW-Mechanize
 License      : GPL+ or Artistic
 Descript     : "WWW::Mechanize", or Mech for short, helps you automate interaction
@@ -8918,8 +8918,8 @@ Descript     : "WWW::Mechanize", or Mech for short, helps you automate interacti
 <summary>perl-WWW-RobotRules</summary>
 
 ```
-From repo     : fedora
-Short desc    : Database of robots.txt-derived permissions
+From repo    : fedora
+Short desc   : Database of robots.txt-derived permissions
 URL          : https://metacpan.org/release/WWW-RobotRules
 License      : GPL+ or Artistic
 Descript     : This module parses /robots.txt files as specified in "A Standard for Robot
@@ -8934,8 +8934,8 @@ Descript     : This module parses /robots.txt files as specified in "A Standard 
 <summary>perl-WebService-Dropbox</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl interface to Dropbox API
+From repo    : fedora
+Short desc   : Perl interface to Dropbox API
 URL          : https://metacpan.org/release/WebService-Dropbox
 License      : GPL+ or Artistic
 Descript     : This package provides a Perl interface to Dropbox API with following features:
@@ -8951,8 +8951,8 @@ Descript     : This package provides a Perl interface to Dropbox API with follow
 <summary>perl-X11-Protocol</summary>
 
 ```
-From repo     : fedora
-Short desc    : X11-Protocol - Raw interface to X Window System servers
+From repo    : fedora
+Short desc   : X11-Protocol - Raw interface to X Window System servers
 URL          : https://metacpan.org/release/X11-Protocol
 License      : GPL+ or Artistic
 Descript     : X11::Protocol is a client-side interface to the X11 Protocol (see X(1) for
@@ -8973,8 +8973,8 @@ Descript     : X11::Protocol is a client-side interface to the X11 Protocol (see
 <summary>perl-X11-Protocol-Other</summary>
 
 ```
-From repo     : fedora
-Short desc    : Miscellaneous X11::Protocol helpers
+From repo    : fedora
+Short desc   : Miscellaneous X11::Protocol helpers
 URL          : https://metacpan.org/release/X11-Protocol-Other
 License      : GPLv3+
 Descript     : These are some helper functions for X11::Protocol.
@@ -8986,8 +8986,8 @@ Descript     : These are some helper functions for X11::Protocol.
 <summary>perl-XML-Dumper</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for dumping Perl objects from/to XML
+From repo    : fedora
+Short desc   : Perl module for dumping Perl objects from/to XML
 URL          : https://metacpan.org/release/XML-Dumper
 License      : GPL+ or Artistic
 Descript     : XML::Dumper dumps Perl data to XML format. XML::Dumper can also read
@@ -9006,8 +9006,8 @@ Descript     : XML::Dumper dumps Perl data to XML format. XML::Dumper can also r
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Perl interface to the libxml2 library
+From repo    : fedora
+Short desc   : Perl interface to the libxml2 library
 URL          : https://metacpan.org/release/XML-LibXML
 License      : (GPL+ or Artistic) and MIT
 Descript     : This module implements a Perl interface to the GNOME libxml2 library
@@ -9022,8 +9022,8 @@ Descript     : This module implements a Perl interface to the GNOME libxml2 libr
 <summary>perl-XML-LibXML-Simple</summary>
 
 ```
-From repo     : fedora
-Short desc    : Read XML strings or files
+From repo    : fedora
+Short desc   : Read XML strings or files
 URL          : https://metacpan.org/release/XML-LibXML-Simple
 License      : GPL+ or Artistic
 Descript     : This Perl module reads XML from strings or files.  It is a blunt rewrite
@@ -9037,8 +9037,8 @@ Descript     : This Perl module reads XML from strings or files.  It is a blunt 
 <summary>perl-XML-LibXSLT</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for interfacing to GNOME's libxslt
+From repo    : fedora
+Short desc   : Perl module for interfacing to GNOME's libxslt
 URL          : https://metacpan.org/release/XML-LibXSLT
 License      : GPL+ or Artistic
 Descript     : This module is a fast XSLT library, based on the Gnome libxslt engine
@@ -9051,8 +9051,8 @@ Descript     : This module is a fast XSLT library, based on the Gnome libxslt en
 <summary>perl-XML-NamespaceSupport</summary>
 
 ```
-From repo     : fedora
-Short desc    : A simple generic name space support class
+From repo    : fedora
+Short desc   : A simple generic name space support class
 URL          : https://metacpan.org/release/XML-NamespaceSupport
 License      : GPL+ or Artistic
 Descript     : This module offers a simple to process name-spaced XML names (unames) from
@@ -9066,8 +9066,8 @@ Descript     : This module offers a simple to process name-spaced XML names (una
 <summary>perl-XML-Parser</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for parsing XML documents
+From repo    : fedora
+Short desc   : Perl module for parsing XML documents
 URL          : https://metacpan.org/release/XML-Parser
 License      : GPL+ or Artistic
 Descript     : This module provides ways to parse XML documents. It is built on top
@@ -9087,8 +9087,8 @@ Descript     : This module provides ways to parse XML documents. It is built on 
 <summary>perl-XML-SAX</summary>
 
 ```
-From repo     : fedora
-Short desc    : SAX parser access API for Perl
+From repo    : fedora
+Short desc   : SAX parser access API for Perl
 URL          : https://metacpan.org/release/XML-SAX
 License      : GPL+ or Artistic
 Descript     : XML::SAX consists of several framework classes for using and building
@@ -9105,8 +9105,8 @@ Descript     : XML::SAX consists of several framework classes for using and buil
 <summary>perl-XML-SAX-Base</summary>
 
 ```
-From repo     : fedora
-Short desc    : Base class SAX drivers and filters
+From repo    : fedora
+Short desc   : Base class SAX drivers and filters
 URL          : https://metacpan.org/release/XML-SAX-Base
 License      : GPL+ or Artistic
 Descript     : This module has a very simple task - to be a base class for Perl SAX drivers
@@ -9121,8 +9121,8 @@ Descript     : This module has a very simple task - to be a base class for Perl 
 <summary>perl-XML-Simple</summary>
 
 ```
-From repo     : fedora
-Short desc    : Easy API to maintain XML in Perl
+From repo    : fedora
+Short desc   : Easy API to maintain XML in Perl
 URL          : https://metacpan.org/release/XML-Simple
 License      : GPL+ or Artistic
 Descript     : The XML::Simple module provides a simple API layer on top of an
@@ -9136,8 +9136,8 @@ Descript     : The XML::Simple module provides a simple API layer on top of an
 <summary>perl-XML-Twig</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl module for processing huge XML documents in tree mode
+From repo    : fedora
+Short desc   : Perl module for processing huge XML documents in tree mode
 URL          : https://metacpan.org/release/XML-Twig
 License      : GPL+ or Artistic
 Descript     : This module provides a way to process XML documents. It is build on
@@ -9155,8 +9155,8 @@ Descript     : This module provides a way to process XML documents. It is build 
 <summary>perl-XML-Writer</summary>
 
 ```
-From repo     : fedora
-Short desc    : A simple Perl module for writing XML documents
+From repo    : fedora
+Short desc   : A simple Perl module for writing XML documents
 URL          : https://metacpan.org/release/XML-Writer
 License      : CC0
 Descript     : XML::Writer is a simple Perl module for writing XML documents: it
@@ -9173,8 +9173,8 @@ Descript     : XML::Writer is a simple Perl module for writing XML documents: it
 <summary>perl-XML-XPath</summary>
 
 ```
-From repo     : fedora
-Short desc    : XPath parser and evaluator for Perl
+From repo    : fedora
+Short desc   : XPath parser and evaluator for Perl
 URL          : https://metacpan.org/release/XML-XPath
 License      : Artistic 2.0 and (GPL+ or Artistic)
 Descript     : This module aims to comply exactly to the XPath specification at
@@ -9189,8 +9189,8 @@ Descript     : This module aims to comply exactly to the XPath specification at
 <summary>perl-XString</summary>
 
 ```
-From repo     : fedora
-Short desc    : Isolated String helpers from B
+From repo    : fedora
+Short desc   : Isolated String helpers from B
 URL          : https://metacpan.org/release/XString
 License      : GPL+ or Artistic
 Descript     : XString provides the B string helpers in one isolated package. Right now only
@@ -9203,8 +9203,8 @@ Descript     : XString provides the B string helpers in one isolated package. Ri
 <summary>perl-YAML</summary>
 
 ```
-From repo     : fedora
-Short desc    : YAML Ain't Markup Language (tm)
+From repo    : fedora
+Short desc   : YAML Ain't Markup Language (tm)
 URL          : https://metacpan.org/release/YAML
 License      : GPL+ or Artistic
 Descript     : The YAML.pm module implements a YAML Loader and Dumper based on the YAML 1.0
@@ -9221,8 +9221,8 @@ Descript     : The YAML.pm module implements a YAML Loader and Dumper based on t
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Perl YAML Serialization using XS and libyaml
+From repo    : fedora
+Short desc   : Perl YAML Serialization using XS and libyaml
 URL          : https://metacpan.org/release/YAML-LibYAML
 License      : GPL+ or Artistic
 Descript     : Kirill Siminov's "libyaml" is arguably the best YAML implementation. The C
@@ -9236,8 +9236,8 @@ Descript     : Kirill Siminov's "libyaml" is arguably the best YAML implementati
 <summary>perl-autodie</summary>
 
 ```
-From repo     : fedora
-Short desc    : Replace functions with ones that succeed or die
+From repo    : fedora
+Short desc   : Replace functions with ones that succeed or die
 URL          : https://metacpan.org/release/autodie
 License      : GPL+ or Artistic
 Descript     : The "autodie" and "Fatal" pragma provides a convenient way to replace
@@ -9254,8 +9254,8 @@ Descript     : The "autodie" and "Fatal" pragma provides a convenient way to rep
 <summary>perl-autouse</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Postpone load of modules until a function is used
+From repo    : updates-testing
+Short desc   : Postpone load of modules until a function is used
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : If a module is not loaded yet, then the autouse declaration declares functions
@@ -9269,8 +9269,8 @@ Descript     : If a module is not loaded yet, then the autouse declaration decla
 <summary>perl-autovivification</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lexically disable autovivification
+From repo    : fedora
+Short desc   : Lexically disable autovivification
 URL          : https://metacpan.org/release/autovivification
 License      : GPL+ or Artistic
 Descript     : When an undefined variable is dereferenced, it gets silently upgraded to an
@@ -9289,8 +9289,8 @@ Descript     : When an undefined variable is dereferenced, it gets silently upgr
 <summary>perl-base</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Establish an ISA relationship with base classes at compile time
+From repo    : updates-testing
+Short desc   : Establish an ISA relationship with base classes at compile time
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : "base" module allows you to both load one or more modules, while setting up
@@ -9305,8 +9305,8 @@ Descript     : "base" module allows you to both load one or more modules, while 
 <summary>perl-bignum</summary>
 
 ```
-From repo     : fedora
-Short desc    : Transparent big number support for Perl
+From repo    : fedora
+Short desc   : Transparent big number support for Perl
 URL          : https://metacpan.org/release/bignum
 License      : GPL+ or Artistic
 Descript     : This package attempts to make it easier to write scripts that use BigInts and
@@ -9319,8 +9319,8 @@ Descript     : This package attempts to make it easier to write scripts that use
 <summary>perl-blib</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Use uninstalled version of a package
+From repo    : updates-testing
+Short desc   : Use uninstalled version of a package
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module looks for MakeMaker-like "blib" directory structure starting in
@@ -9335,8 +9335,8 @@ Descript     : This module looks for MakeMaker-like "blib" directory structure s
 <summary>perl-common-sense</summary>
 
 ```
-From repo     : fedora
-Short desc    : "Common sense" Perl defaults
+From repo    : fedora
+Short desc   : "Common sense" Perl defaults
 URL          : https://metacpan.org/release/common-sense
 License      : GPL+ or Artistic
 Descript     : This module implements some sane defaults for Perl programs, as defined
@@ -9364,8 +9364,8 @@ Descript     : This module implements some sane defaults for Perl programs, as d
 <summary>perl-constant</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl pragma to declare constants
+From repo    : anaconda
+Short desc   : Perl pragma to declare constants
 URL          : https://metacpan.org/release/constant
 License      : GPL+ or Artistic
 Descript     : This pragma allows you to declare constants at compile-time:
@@ -9391,8 +9391,8 @@ Descript     : This pragma allows you to declare constants at compile-time:
 <summary>perl-debugger</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl debugger
+From repo    : updates-testing
+Short desc   : Perl debugger
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This is the perl debugger. It is loaded automatically by Perl when you invoke
@@ -9406,8 +9406,8 @@ Descript     : This is the perl debugger. It is loaded automatically by Perl whe
 <summary>perl-deprecate</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma for deprecating the inclusion of a module in core
+From repo    : updates-testing
+Short desc   : Perl pragma for deprecating the inclusion of a module in core
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : "deprecate" pragma simplifies the maintenance of dual-life modules that will no
@@ -9425,8 +9425,8 @@ Descript     : "deprecate" pragma simplifies the maintenance of dual-life module
 
 ```
 Эпоха        : 4
-From repo     : updates-testing
-Short desc    : Header files for use in perl development
+From repo    : updates-testing
+Short desc   : Header files for use in perl development
 URL          : https://www.perl.org/
 License      : (GPL+ or Artistic) and UCD
 Descript     : This package contains header files and development modules.
@@ -9439,8 +9439,8 @@ Descript     : This package contains header files and development modules.
 <summary>perl-diagnostics</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Produce verbose warning diagnostics
+From repo    : updates-testing
+Short desc   : Produce verbose warning diagnostics
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The diagnostics module extends the terse diagnostics normally emitted by both
@@ -9456,8 +9456,8 @@ Descript     : The diagnostics module extends the terse diagnostics normally emi
 <summary>perl-doc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl language documentation
+From repo    : updates-testing
+Short desc   : Perl language documentation
 URL          : https://www.perl.org/
 License      : (GPL+ or Artistic) and UCD and Public Domain
 Descript     : This is a documentation for Perl language. It's provided in POD and manual
@@ -9471,8 +9471,8 @@ Descript     : This is a documentation for Perl language. It's provided in POD a
 
 ```
 Эпоха        : 4
-From repo     : fedora
-Short desc    : Write your Perl script in non-ASCII or non-UTF-8
+From repo    : fedora
+Short desc   : Write your Perl script in non-ASCII or non-UTF-8
 URL          : https://metacpan.org/release/Encode
 License      : GPL+ or Artistic
 Descript     : With the encoding pragma, you can write your Perl script in any encoding you
@@ -9492,8 +9492,8 @@ Descript     : With the encoding pragma, you can write your Perl script in any e
 <summary>perl-encoding-warnings</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Warn on implicit encoding conversions
+From repo    : updates-testing
+Short desc   : Warn on implicit encoding conversions
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : As of Perl 5.26.0, this module has no effect. The internal Perl feature that
@@ -9508,8 +9508,8 @@ Descript     : As of Perl 5.26.0, this module has no effect. The internal Perl f
 <summary>perl-experimental</summary>
 
 ```
-From repo     : fedora
-Short desc    : Experimental features made easy
+From repo    : fedora
+Short desc   : Experimental features made easy
 URL          : https://metacpan.org/release/experimental
 License      : GPL+ or Artistic
 Descript     : This pragma provides an easy and convenient way to enable or disable
@@ -9522,8 +9522,8 @@ Descript     : This pragma provides an easy and convenient way to enable or disa
 <summary>perl-fields</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Compile-time class fields
+From repo    : updates-testing
+Short desc   : Compile-time class fields
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "fields" pragma enables compile-time and run-time verified class fields.
@@ -9535,8 +9535,8 @@ Descript     : The "fields" pragma enables compile-time and run-time verified cl
 <summary>perl-filetest</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma to control the filetest permission operators
+From repo    : updates-testing
+Short desc   : Perl pragma to control the filetest permission operators
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The default behavior of file test operators (e.g. "-r") is to use the simple
@@ -9553,8 +9553,8 @@ Descript     : The default behavior of file test operators (e.g. "-r") is to use
 <summary>perl-if</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Use a Perl module if a condition holds
+From repo    : updates-testing
+Short desc   : Use a Perl module if a condition holds
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "if" module is used to conditionally load another module.
@@ -9567,8 +9567,8 @@ Descript     : The "if" module is used to conditionally load another module.
 
 ```
 Эпоха        : 2
-From repo     : fedora
-Short desc    : Use modules bundled in inc/ if they are newer than installed ones
+From repo    : fedora
+Short desc   : Use modules bundled in inc/ if they are newer than installed ones
 URL          : https://metacpan.org/release/inc-latest
 License      : ASL 2.0
 Descript     : The inc::latest module helps bootstrap configure-time dependencies for CPAN
@@ -9583,8 +9583,8 @@ Descript     : The inc::latest module helps bootstrap configure-time dependencie
 
 ```
 Эпоха        : 4
-From repo     : anaconda
-Short desc    : Standalone executable Perl interpreter
+From repo    : anaconda
+Short desc   : Standalone executable Perl interpreter
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This is a Perl interpreter as a standalone executable /usr/bin/perl
@@ -9619,8 +9619,8 @@ Descript     : This is a Perl interpreter as a standalone executable /usr/bin/pe
 
 ```
 Эпоха        : 4
-From repo     : updates-testing
-Short desc    : Standalone executable Perl interpreter
+From repo    : updates-testing
+Short desc   : Standalone executable Perl interpreter
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This is a Perl interpreter as a standalone executable /usr/bin/perl
@@ -9654,8 +9654,8 @@ Descript     : This is a Perl interpreter as a standalone executable /usr/bin/pe
 <summary>perl-less</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma to request less of something
+From repo    : updates-testing
+Short desc   : Perl pragma to request less of something
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : "use less ...;" is a Perl user-pragma. If you're very lucky some code you're
@@ -9669,8 +9669,8 @@ Descript     : "use less ...;" is a Perl user-pragma. If you're very lucky some 
 <summary>perl-lib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Manipulate @INC at compile time
+From repo    : anaconda
+Short desc   : Manipulate @INC at compile time
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module simplifies the manipulation of @INC at compile time.
@@ -9682,8 +9682,8 @@ Descript     : This module simplifies the manipulation of @INC at compile time.
 <summary>perl-lib</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Manipulate @INC at compile time
+From repo    : updates-testing
+Short desc   : Manipulate @INC at compile time
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This module simplifies the manipulation of @INC at compile time.
@@ -9695,8 +9695,8 @@ Descript     : This module simplifies the manipulation of @INC at compile time.
 <summary>perl-libintl-perl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Internationalization library for Perl, compatible with gettext
+From repo    : fedora
+Short desc   : Internationalization library for Perl, compatible with gettext
 URL          : https://metacpan.org/release/libintl-perl
 License      : GPLv3+ and LGPLv2+
 Descript     : The package libintl-perl is an internationalization library for Perl that
@@ -9710,8 +9710,8 @@ Descript     : The package libintl-perl is an internationalization library for P
 <summary>perl-libnet</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl clients for various network protocols
+From repo    : anaconda
+Short desc   : Perl clients for various network protocols
 URL          : https://metacpan.org/release/libnet
 License      : GPL+ or Artistic
 Descript     : This is a collection of Perl modules which provides a simple and
@@ -9726,8 +9726,8 @@ Descript     : This is a collection of Perl modules which provides a simple and
 
 ```
 Эпоха        : 4
-From repo     : updates-testing
-Short desc    : Configure libnet
+From repo    : updates-testing
+Short desc   : Configure libnet
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The libnetcfg utility can be used to configure the libnet.
@@ -9740,8 +9740,8 @@ Descript     : The libnetcfg utility can be used to configure the libnet.
 
 ```
 Эпоха        : 4
-From repo     : anaconda
-Short desc    : The libraries for the perl run-time
+From repo    : anaconda
+Short desc   : The libraries for the perl run-time
 URL          : https://www.perl.org/
 License      : (GPL+ or Artistic) and BSD and HSRL and MIT and UCD and Public domain
 Descript     : The is a perl run-time (interpreter as a shared library and include
@@ -9755,8 +9755,8 @@ Descript     : The is a perl run-time (interpreter as a shared library and inclu
 
 ```
 Эпоха        : 4
-From repo     : updates-testing
-Short desc    : The libraries for the perl run-time
+From repo    : updates-testing
+Short desc   : The libraries for the perl run-time
 URL          : https://www.perl.org/
 License      : (GPL+ or Artistic) and BSD and HSRL and MIT and UCD and Public domain
 Descript     : The is a perl run-time (interpreter as a shared library and include
@@ -9769,8 +9769,8 @@ Descript     : The is a perl run-time (interpreter as a shared library and inclu
 <summary>perl-libwww-perl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A Perl interface to the World-Wide Web
+From repo    : updates-testing
+Short desc   : A Perl interface to the World-Wide Web
 URL          : https://metacpan.org/release/libwww-perl
 License      : GPL+ or Artistic
 Descript     : The libwww-perl collection is a set of Perl modules which provides a simple and
@@ -9786,8 +9786,8 @@ Descript     : The libwww-perl collection is a set of Perl modules which provide
 <summary>perl-local-lib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Create and use a local lib/ for perl modules
+From repo    : fedora
+Short desc   : Create and use a local lib/ for perl modules
 URL          : https://metacpan.org/release/local-lib
 License      : GPL+ or Artistic
 Descript     : This module provides a quick, convenient way of bootstrapping a user-
@@ -9811,8 +9811,8 @@ Descript     : This module provides a quick, convenient way of bootstrapping a u
 <summary>perl-locale</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Pragma to use or avoid POSIX locales for built-in operations
+From repo    : updates-testing
+Short desc   : Pragma to use or avoid POSIX locales for built-in operations
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This pragma tells the compiler to enable (or disable) the use of POSIX locales
@@ -9829,8 +9829,8 @@ Descript     : This pragma tells the compiler to enable (or disable) the use of 
 
 ```
 Эпоха        : 4
-From repo     : updates-testing
-Short desc    : Macros for rpmbuild
+From repo    : updates-testing
+Short desc   : Macros for rpmbuild
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : RPM macros that are handy when building binary RPM packages.
@@ -9842,8 +9842,8 @@ Descript     : RPM macros that are handy when building binary RPM packages.
 <summary>perl-meta-notation</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Change nonprintable characters below 0x100 into printables
+From repo    : updates-testing
+Short desc   : Change nonprintable characters below 0x100 into printables
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Returns a copy of the input string with the nonprintable characters below
@@ -9857,8 +9857,8 @@ Descript     : Returns a copy of the input string with the nonprintable characte
 <summary>perl-mro</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Method resolution order
+From repo    : anaconda
+Short desc   : Method resolution order
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "mro" name space provides several utilities for dealing with method
@@ -9871,8 +9871,8 @@ Descript     : The "mro" name space provides several utilities for dealing with 
 <summary>perl-mro</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Method resolution order
+From repo    : updates-testing
+Short desc   : Method resolution order
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "mro" name space provides several utilities for dealing with method
@@ -9885,8 +9885,8 @@ Descript     : The "mro" name space provides several utilities for dealing with 
 <summary>perl-namespace-autoclean</summary>
 
 ```
-From repo     : fedora
-Short desc    : Keep imports out of your namespace
+From repo    : fedora
+Short desc   : Keep imports out of your namespace
 URL          : https://metacpan.org/release/namespace-autoclean
 License      : GPL+ or Artistic
 Descript     : When you import a function into a Perl package, it will naturally also be
@@ -9905,8 +9905,8 @@ Descript     : When you import a function into a Perl package, it will naturally
 <summary>perl-namespace-clean</summary>
 
 ```
-From repo     : fedora
-Short desc    : Keep your namespace tidy
+From repo    : fedora
+Short desc   : Keep your namespace tidy
 URL          : https://metacpan.org/release/namespace-clean
 License      : GPL+ or Artistic
 Descript     : When you define a function, or import one, into a Perl package, it will
@@ -9927,8 +9927,8 @@ Descript     : When you define a function, or import one, into a Perl package, i
 <summary>perl-open</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma to set default PerlIO layers for input and output
+From repo    : updates-testing
+Short desc   : Perl pragma to set default PerlIO layers for input and output
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "open" pragma serves as one of the interfaces to declare default "layers"
@@ -9941,8 +9941,8 @@ Descript     : The "open" pragma serves as one of the interfaces to declare defa
 <summary>perl-overload</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Overloading Perl operations
+From repo    : anaconda
+Short desc   : Overloading Perl operations
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "overload" pragma allows overloading of Perl operators for a class. To
@@ -9956,8 +9956,8 @@ Descript     : The "overload" pragma allows overloading of Perl operators for a 
 <summary>perl-overload</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Overloading Perl operations
+From repo    : updates-testing
+Short desc   : Overloading Perl operations
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "overload" pragma allows overloading of Perl operators for a class. To
@@ -9971,8 +9971,8 @@ Descript     : The "overload" pragma allows overloading of Perl operators for a 
 <summary>perl-overloading</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl pragma to lexically control overloading
+From repo    : anaconda
+Short desc   : Perl pragma to lexically control overloading
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Overloading pragma allows you to lexically disable or enable overloading.
@@ -9984,8 +9984,8 @@ Descript     : Overloading pragma allows you to lexically disable or enable over
 <summary>perl-overloading</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma to lexically control overloading
+From repo    : updates-testing
+Short desc   : Perl pragma to lexically control overloading
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Overloading pragma allows you to lexically disable or enable overloading.
@@ -9998,8 +9998,8 @@ Descript     : Overloading pragma allows you to lexically disable or enable over
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Establish an ISA relationship with base classes at compile time
+From repo    : anaconda
+Short desc   : Establish an ISA relationship with base classes at compile time
 URL          : https://metacpan.org/release/parent
 License      : GPL+ or Artistic
 Descript     : Allows you to both load one or more modules, while setting up inheritance
@@ -10021,8 +10021,8 @@ Descript     : Allows you to both load one or more modules, while setting up inh
 <summary>perl-perlfaq</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Frequently asked questions about Perl
+From repo    : updates-testing
+Short desc   : Frequently asked questions about Perl
 URL          : https://metacpan.org/release/perlfaq
 License      : (GPL+ or Artistic) and Public Domain
 Descript     : The perlfaq comprises several documents that answer the most commonly asked
@@ -10035,8 +10035,8 @@ Descript     : The perlfaq comprises several documents that answer the most comm
 <summary>perl-ph</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Selected system header files converted to Perl headers
+From repo    : updates-testing
+Short desc   : Selected system header files converted to Perl headers
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Contemporary Perl still refers to some Perl header (ph) files although it does
@@ -10052,8 +10052,8 @@ Descript     : Contemporary Perl still refers to some Perl header (ph) files alt
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Format POD source into various output formats
+From repo    : anaconda
+Short desc   : Format POD source into various output formats
 URL          : https://metacpan.org/release/podlators
 License      : (GPL+ or Artistic) and FSFAP
 Descript     : This package contains Pod::Man and Pod::Text modules which convert POD input
@@ -10068,8 +10068,8 @@ Descript     : This package contains Pod::Man and Pod::Text modules which conver
 <summary>perl-sigtrap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma to enable simple signal handling
+From repo    : updates-testing
+Short desc   : Perl pragma to enable simple signal handling
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The sigtrap pragma is a simple interface for installing signal handlers.
@@ -10081,8 +10081,8 @@ Descript     : The sigtrap pragma is a simple interface for installing signal ha
 <summary>perl-sort</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma to control sort() behavior
+From repo    : updates-testing
+Short desc   : Perl pragma to control sort() behavior
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : With the "sort" pragma you can control the behavior of the builtin "sort()"
@@ -10095,8 +10095,8 @@ Descript     : With the "sort" pragma you can control the behavior of the builti
 <summary>perl-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM macros for building Perl source package from source repository
+From repo    : fedora
+Short desc   : RPM macros for building Perl source package from source repository
 License      : GPLv3+
 Descript     : These RPM macros are used for building Perl source packages from source
              : repositories. They influence build-requires set into the source package.
@@ -10108,8 +10108,8 @@ Descript     : These RPM macros are used for building Perl source packages from 
 <summary>perl-strictures</summary>
 
 ```
-From repo     : fedora
-Short desc    : Turn on strict and make most warnings fatal
+From repo    : fedora
+Short desc   : Turn on strict and make most warnings fatal
 URL          : https://metacpan.org/release/strictures
 License      : GPL+ or Artistic
 Descript     : This package turns on strict and makes most warnings fatal.
@@ -10121,8 +10121,8 @@ Descript     : This package turns on strict and makes most warnings fatal.
 <summary>perl-subs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma to predeclare subroutine names
+From repo    : updates-testing
+Short desc   : Perl pragma to predeclare subroutine names
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This will predeclare all the subroutines whose names are in the list,
@@ -10137,8 +10137,8 @@ Descript     : This will predeclare all the subroutines whose names are in the l
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Perl interpreter-based threads
+From repo    : fedora
+Short desc   : Perl interpreter-based threads
 URL          : https://metacpan.org/release/threads
 License      : GPL+ or Artistic
 Descript     : Since Perl 5.8, thread programming has been available using a model called
@@ -10156,8 +10156,8 @@ Descript     : Since Perl 5.8, thread programming has been available using a mod
 <summary>perl-threads-shared</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl extension for sharing data structures between threads
+From repo    : fedora
+Short desc   : Perl extension for sharing data structures between threads
 URL          : https://metacpan.org/release/threads-shared
 License      : GPL+ or Artistic
 Descript     : By default, variables are private to each thread, and each newly created
@@ -10172,8 +10172,8 @@ Descript     : By default, variables are private to each thread, and each newly 
 <summary>perl-utils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utilities packaged with the Perl distribution
+From repo    : updates-testing
+Short desc   : Utilities packaged with the Perl distribution
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : Several utilities which come with Perl distribution like h2ph, perlbug,
@@ -10187,8 +10187,8 @@ Descript     : Several utilities which come with Perl distribution like h2ph, pe
 <summary>perl-vars</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Perl pragma to predeclare global variable names
+From repo    : anaconda
+Short desc   : Perl pragma to predeclare global variable names
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This pragma will predeclare all the variables whose names are in the
@@ -10207,8 +10207,8 @@ Descript     : This pragma will predeclare all the variables whose names are in 
 <summary>perl-vars</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma to predeclare global variable names
+From repo    : updates-testing
+Short desc   : Perl pragma to predeclare global variable names
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : This pragma will predeclare all the variables whose names are in the
@@ -10228,8 +10228,8 @@ Descript     : This pragma will predeclare all the variables whose names are in 
 
 ```
 Эпоха        : 7
-From repo     : fedora
-Short desc    : Perl extension for Version Objects
+From repo    : fedora
+Short desc   : Perl extension for Version Objects
 URL          : https://metacpan.org/release/version
 License      : GPL+ or Artistic
 Descript     : Version objects were added to Perl in 5.10. This module implements version
@@ -10246,8 +10246,8 @@ Descript     : Version objects were added to Perl in 5.10. This module implement
 <summary>perl-vmsish</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Perl pragma to control VMS-specific language features
+From repo    : updates-testing
+Short desc   : Perl pragma to control VMS-specific language features
 URL          : https://www.perl.org/
 License      : GPL+ or Artistic
 Descript     : The "vmsish" pragma control VMS-specific features of the Perl language. If
@@ -10260,8 +10260,8 @@ Descript     : The "vmsish" pragma control VMS-specific features of the Perl lan
 <summary>perltidy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tool for indenting and re-formatting Perl scripts
+From repo    : updates-testing
+Short desc   : Tool for indenting and re-formatting Perl scripts
 URL          : http://perltidy.sourceforge.net/
 License      : GPLv2+
 Descript     : Perltidy is a Perl script that indents and re-formats Perl scripts to
@@ -10281,8 +10281,8 @@ Descript     : Perltidy is a Perl script that indents and re-formats Perl script
 <summary>pgplot</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : Graphic library for making simple scientific graphs
+From repo    : rpmfusion-nonfree
+Short desc   : Graphic library for making simple scientific graphs
 URL          : http://www.astro.caltech.edu/~tjp/pgplot
 License      : freely available for non-commercial use
 Descript     : The PGPLOT Graphics Subroutine Library is a Fortran- or C-callable,
@@ -10299,8 +10299,8 @@ Descript     : The PGPLOT Graphics Subroutine Library is a Fortran- or C-callabl
 <summary>pgplot-devel</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : Libraries, includes, etc. used to develop an application with pgplot
+From repo    : rpmfusion-nonfree
+Short desc   : Libraries, includes, etc. used to develop an application with pgplot
 URL          : http://www.astro.caltech.edu/~tjp/pgplot
 License      : freely available for non-commercial use
 Descript     : These are the header files and static libraries needed to develop a pgplot
@@ -10313,8 +10313,8 @@ Descript     : These are the header files and static libraries needed to develop
 <summary>php</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PHP scripting language for creating dynamic web sites
+From repo    : updates-testing
+Short desc   : PHP scripting language for creating dynamic web sites
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA
 Descript     : PHP is an HTML-embedded scripting language. PHP attempts to make it
@@ -10331,8 +10331,8 @@ Descript     : PHP is an HTML-embedded scripting language. PHP attempts to make 
 <summary>php-JMSParser</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for writing recursive-descent parsers
+From repo    : fedora
+Short desc   : Library for writing recursive-descent parsers
 URL          : http://jmsyst.com/libs/parser-lib
 License      : ASL 2.0
 Descript     : Library for writing recursive-descent parsers.
@@ -10346,8 +10346,8 @@ Descript     : Library for writing recursive-descent parsers.
 <summary>php-Metadata</summary>
 
 ```
-From repo     : fedora
-Short desc    : Class/method/property metadata management in PHP
+From repo    : fedora
+Short desc   : Class/method/property metadata management in PHP
 URL          : https://github.com/schmittjoh/metadata
 License      : MIT
 Descript     : This library provides some commonly needed base classes for managing metadata
@@ -10366,8 +10366,8 @@ Descript     : This library provides some commonly needed base classes for manag
 <summary>php-Monolog</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sends your logs to files, sockets, inboxes, databases and various web services
+From repo    : fedora
+Short desc   : Sends your logs to files, sockets, inboxes, databases and various web services
 URL          : https://github.com/Seldaek/monolog
 License      : MIT
 Descript     : Monolog sends your logs to files, sockets, inboxes, databases and various web
@@ -10387,8 +10387,8 @@ Descript     : Monolog sends your logs to files, sockets, inboxes, databases and
 <summary>php-PHPParser</summary>
 
 ```
-From repo     : fedora
-Short desc    : A PHP parser written in PHP - version 1
+From repo    : fedora
+Short desc   : A PHP parser written in PHP - version 1
 URL          : https://github.com/nikic/PHP-Parser
 License      : BSD
 Descript     : A PHP parser written in PHP to simplify static analysis and code manipulation.
@@ -10409,8 +10409,8 @@ Descript     : A PHP parser written in PHP to simplify static analysis and code 
 <summary>php-PhpCollection</summary>
 
 ```
-From repo     : fedora
-Short desc    : General purpose collection library for PHP
+From repo    : fedora
+Short desc   : General purpose collection library for PHP
 URL          : http://jmsyst.com/libs/php-collection
 License      : ASL 2.0
 Descript     : This library adds basic collections for PHP.
@@ -10450,8 +10450,8 @@ Descript     : This library adds basic collections for PHP.
 <summary>php-PhpOption</summary>
 
 ```
-From repo     : fedora
-Short desc    : Option type for PHP
+From repo    : fedora
+Short desc   : Option type for PHP
 URL          : https://github.com/schmittjoh/php-option
 License      : ASL 2.0
 Descript     : An Option type for PHP.
@@ -10483,8 +10483,8 @@ Descript     : An Option type for PHP.
 <summary>php-PsrLog</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common interface for logging libraries
+From repo    : fedora
+Short desc   : Common interface for logging libraries
 URL          : http://www.php-fig.org/psr/psr-3/
 License      : MIT
 Descript     : This package holds all interfaces/classes/traits related to PSR-3 [1].
@@ -10501,8 +10501,8 @@ Descript     : This package holds all interfaces/classes/traits related to PSR-3
 <summary>php-cilex1</summary>
 
 ```
-From repo     : fedora
-Short desc    : PHP micro-framework for Command line tools
+From repo    : fedora
+Short desc   : PHP micro-framework for Command line tools
 URL          : http://cilex.github.io/
 License      : MIT
 Descript     : Cilex provides the means to build anything from small script collections to
@@ -10525,8 +10525,8 @@ Descript     : Cilex provides the means to build anything from small script coll
 <summary>php-cli</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Command-line interface for PHP
+From repo    : updates-testing
+Short desc   : Command-line interface for PHP
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA and PostgreSQL
 Descript     : The php-cli package contains the command-line interface
@@ -10539,8 +10539,8 @@ Descript     : The php-cli package contains the command-line interface
 <summary>php-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common files for PHP
+From repo    : updates-testing
+Short desc   : Common files for PHP
 URL          : http://www.php.net/
 License      : PHP and BSD
 Descript     : The php-common package contains files used by both the php
@@ -10553,8 +10553,8 @@ Descript     : The php-common package contains files used by both the php
 <summary>php-composer-ca-bundle</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lets you find a path to the system CA
+From repo    : fedora
+Short desc   : Lets you find a path to the system CA
 URL          : https://github.com/composer/ca-bundle
 License      : MIT
 Descript     : Small utility library that lets you find a path to the system CA bundle.
@@ -10568,8 +10568,8 @@ Descript     : Small utility library that lets you find a path to the system CA 
 <summary>php-composer-semver3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Semver library version 3
+From repo    : fedora
+Short desc   : Semver library version 3
 URL          : https://github.com/composer/semver
 License      : MIT
 Descript     : Semver library version 3 that offers utilities, version constraint
@@ -10587,8 +10587,8 @@ Descript     : Semver library version 3 that offers utilities, version constrain
 <summary>php-composer-spdx-licenses</summary>
 
 ```
-From repo     : fedora
-Short desc    : SPDX licenses list and validation library
+From repo    : fedora
+Short desc   : SPDX licenses list and validation library
 URL          : https://github.com/composer/spdx-licenses
 License      : MIT
 Descript     : SPDX licenses list and validation library.
@@ -10603,8 +10603,8 @@ Descript     : SPDX licenses list and validation library.
 <summary>php-composer-xdebug-handler</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Restarts a process without Xdebug
+From repo    : updates-testing
+Short desc   : Restarts a process without Xdebug
 URL          : https://github.com/composer/xdebug-handler
 License      : MIT
 Descript     : Restart a CLI process without loading the xdebug extension.
@@ -10621,8 +10621,8 @@ Descript     : Restart a CLI process without loading the xdebug extension.
 <summary>php-container-interop</summary>
 
 ```
-From repo     : fedora
-Short desc    : Promoting the interoperability of container objects (DIC, SL, etc.)
+From repo    : fedora
+Short desc   : Promoting the interoperability of container objects (DIC, SL, etc.)
 URL          : https://github.com/container-interop/container-interop
 License      : MIT
 Descript     : container-interop tries to identify and standardize features in container
@@ -10654,8 +10654,8 @@ Descript     : container-interop tries to identify and standardize features in c
 <summary>php-cs-fixer</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A tool to automatically fix PHP code style
+From repo    : updates-testing
+Short desc   : A tool to automatically fix PHP code style
 URL          : https://github.com/FriendsOfPHP/PHP-CS-Fixer
 License      : MIT
 Descript     : The PHP Coding Standards Fixer tool fixes most issues in your code when you
@@ -10673,8 +10673,8 @@ Descript     : The PHP Coding Standards Fixer tool fixes most issues in your cod
 <summary>php-cs-fixer-phpunit-constraint-isidenticalstring</summary>
 
 ```
-From repo     : fedora
-Short desc    : Constraint for testing strings considering not-same line endings
+From repo    : fedora
+Short desc   : Constraint for testing strings considering not-same line endings
 URL          : https://github.com/PHP-CS-Fixer/phpunit-constraint-isidenticalstring
 License      : MIT
 Descript     : Constraint for testing strings considering not-same line endings.
@@ -10688,8 +10688,8 @@ Descript     : Constraint for testing strings considering not-same line endings.
 <summary>php-cs-fixer-phpunit-constraint-xmlmatchesxsd</summary>
 
 ```
-From repo     : fedora
-Short desc    : Constraint for testing XML against XSD
+From repo    : fedora
+Short desc   : Constraint for testing XML against XSD
 URL          : https://github.com/PHP-CS-Fixer/phpunit-constraint-xmlmatchesxsd
 License      : MIT
 Descript     : Constraint for testing XML against XSD.
@@ -10703,8 +10703,8 @@ Descript     : Constraint for testing XML against XSD.
 <summary>php-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Files needed for building PHP extensions
+From repo    : updates-testing
+Short desc   : Files needed for building PHP extensions
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA
 Descript     : The php-devel package contains the files needed for building PHP
@@ -10718,8 +10718,8 @@ Descript     : The php-devel package contains the files needed for building PHP
 <summary>php-doctrine-annotations</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PHP docblock annotations parser library
+From repo    : updates-testing
+Short desc   : PHP docblock annotations parser library
 URL          : https://github.com/doctrine/annotations
 License      : MIT
 Descript     : PHP docblock annotations parser library (extracted from Doctrine Common).
@@ -10733,8 +10733,8 @@ Descript     : PHP docblock annotations parser library (extracted from Doctrine 
 <summary>php-doctrine-cache</summary>
 
 ```
-From repo     : fedora
-Short desc    : Doctrine Cache
+From repo    : fedora
+Short desc   : Doctrine Cache
 URL          : https://github.com/doctrine/cache
 License      : MIT
 Descript     : Cache component extracted from the Doctrine Common project.
@@ -10748,8 +10748,8 @@ Descript     : Cache component extracted from the Doctrine Common project.
 <summary>php-doctrine-collections</summary>
 
 ```
-From repo     : fedora
-Short desc    : Collections abstraction library
+From repo    : fedora
+Short desc   : Collections abstraction library
 URL          : https://github.com/doctrine/collections
 License      : MIT
 Descript     : Collections abstraction library.
@@ -10764,8 +10764,8 @@ Descript     : Collections abstraction library.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Common library for Doctrine projects
+From repo    : fedora
+Short desc   : Common library for Doctrine projects
 URL          : https://github.com/doctrine/common
 License      : MIT
 Descript     : The Doctrine Common project is a library that provides extensions to core PHP
@@ -10780,8 +10780,8 @@ Descript     : The Doctrine Common project is a library that provides extensions
 <summary>php-doctrine-event-manager</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple PHP event system
+From repo    : fedora
+Short desc   : Simple PHP event system
 URL          : https://github.com/doctrine/event-manager
 License      : MIT
 Descript     : The Doctrine Event Manager is a simple PHP event system that was built
@@ -10796,8 +10796,8 @@ Descript     : The Doctrine Event Manager is a simple PHP event system that was 
 <summary>php-doctrine-inflector</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common string manipulations with regard to casing and singular/plural rules
+From repo    : fedora
+Short desc   : Common string manipulations with regard to casing and singular/plural rules
 URL          : https://github.com/doctrine/inflector
 License      : MIT
 Descript     : Doctrine Inflector is a small library that can perform string manipulations
@@ -10812,8 +10812,8 @@ Descript     : Doctrine Inflector is a small library that can perform string man
 <summary>php-doctrine-instantiator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Instantiate objects in PHP without invoking their constructors
+From repo    : fedora
+Short desc   : Instantiate objects in PHP without invoking their constructors
 URL          : https://github.com/doctrine/instantiator
 License      : MIT
 Descript     : This library provides a way of avoiding usage of constructors when
@@ -10826,8 +10826,8 @@ Descript     : This library provides a way of avoiding usage of constructors whe
 <summary>php-doctrine-lexer</summary>
 
 ```
-From repo     : fedora
-Short desc    : Base library for a lexer that can be used in top-down, recursive descent parsers
+From repo    : fedora
+Short desc   : Base library for a lexer that can be used in top-down, recursive descent parsers
 URL          : https://github.com/doctrine/lexer
 License      : MIT
 Descript     : Base library for a lexer that can be used in top-down, recursive descent
@@ -10844,8 +10844,8 @@ Descript     : Base library for a lexer that can be used in top-down, recursive 
 <summary>php-doctrine-persistence</summary>
 
 ```
-From repo     : fedora
-Short desc    : Doctrine Persistence abstractions
+From repo    : fedora
+Short desc   : Doctrine Persistence abstractions
 URL          : https://github.com/doctrine/persistence
 License      : MIT
 Descript     : The Doctrine Persistence project is a set of shared interfaces and
@@ -10860,8 +10860,8 @@ Descript     : The Doctrine Persistence project is a set of shared interfaces an
 <summary>php-doctrine-reflection</summary>
 
 ```
-From repo     : fedora
-Short desc    : Additional reflection functionality
+From repo    : fedora
+Short desc   : Additional reflection functionality
 URL          : https://github.com/doctrine/reflection
 License      : MIT
 Descript     : The Doctrine Reflection project is a simple library used by the various
@@ -10878,8 +10878,8 @@ Descript     : The Doctrine Reflection project is a simple library used by the v
 <summary>php-domxml-php4-php5</summary>
 
 ```
-From repo     : fedora
-Short desc    : XML transition from PHP4 domxml to PHP5 dom module
+From repo    : fedora
+Short desc   : XML transition from PHP4 domxml to PHP5 dom module
 URL          : http://alexandre.alapetite.fr/doc-alex/domxml-php4-php5/
 License      : LGPLv3+
 Descript     : XML transition from PHP4 domxml to PHP5 dom module.
@@ -10891,8 +10891,8 @@ Descript     : XML transition from PHP4 domxml to PHP5 dom module.
 <summary>php-egulias-email-validator</summary>
 
 ```
-From repo     : fedora
-Short desc    : A library for validating emails
+From repo    : fedora
+Short desc   : A library for validating emails
 URL          : https://github.com/egulias/EmailValidator
 License      : MIT
 Descript     : A library for validating emails.
@@ -10906,8 +10906,8 @@ Descript     : A library for validating emails.
 <summary>php-embedded</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PHP library for embedding in applications
+From repo    : updates-testing
+Short desc   : PHP library for embedding in applications
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA
 Descript     : The php-embedded package contains a library which can be embedded
@@ -10920,8 +10920,8 @@ Descript     : The php-embedded package contains a library which can be embedded
 <summary>php-erusev-parsedown</summary>
 
 ```
-From repo     : fedora
-Short desc    : Markdown parser in PHP
+From repo    : fedora
+Short desc   : Markdown parser in PHP
 URL          : http://parsedown.org
 License      : MIT
 Descript     : Markdown parser in PHP.
@@ -10935,8 +10935,8 @@ Descript     : Markdown parser in PHP.
 <summary>php-fedora-autoloader</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fedora Autoloader
+From repo    : fedora
+Short desc   : Fedora Autoloader
 URL          : https://github.com/php-fedora/autoloader
 License      : MIT
 Descript     : Static PSR-4 [1], PSR-0 [2], and classmap autoloader.  Includes loader for
@@ -10952,8 +10952,8 @@ Descript     : Static PSR-4 [1], PSR-0 [2], and classmap autoloader.  Includes l
 <summary>php-fpm</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PHP FastCGI Process Manager
+From repo    : updates-testing
+Short desc   : PHP FastCGI Process Manager
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA
 Descript     : PHP-FPM (FastCGI Process Manager) is an alternative PHP FastCGI
@@ -10967,8 +10967,8 @@ Descript     : PHP-FPM (FastCGI Process Manager) is an alternative PHP FastCGI
 <summary>php-gd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A module for PHP applications for using the gd graphics library
+From repo    : updates-testing
+Short desc   : A module for PHP applications for using the gd graphics library
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-gd package contains a dynamic shared object that will add
@@ -10981,8 +10981,8 @@ Descript     : The php-gd package contains a dynamic shared object that will add
 <summary>php-intl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Internationalization extension for PHP applications
+From repo    : updates-testing
+Short desc   : Internationalization extension for PHP applications
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-intl package contains a dynamic shared object that will add
@@ -10995,8 +10995,8 @@ Descript     : The php-intl package contains a dynamic shared object that will a
 <summary>php-jms-serializer</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for (de-)serializing data of any complexity
+From repo    : fedora
+Short desc   : Library for (de-)serializing data of any complexity
 URL          : http://jmsyst.com/libs/serializer
 License      : MIT
 Descript     : This library allows you to (de-)serialize data of any complexity. Currently, it
@@ -11022,8 +11022,8 @@ Descript     : This library allows you to (de-)serialize data of any complexity.
 <summary>php-json</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : JavaScript Object Notation extension for PHP
+From repo    : updates-testing
+Short desc   : JavaScript Object Notation extension for PHP
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-json package provides an extension that will add
@@ -11036,8 +11036,8 @@ Descript     : The php-json package provides an extension that will add
 <summary>php-jsonlint</summary>
 
 ```
-From repo     : fedora
-Short desc    : JSON Lint for PHP
+From repo    : fedora
+Short desc   : JSON Lint for PHP
 URL          : https://github.com/Seldaek/jsonlint
 License      : MIT
 Descript     : JSON Lint for PHP.
@@ -11059,8 +11059,8 @@ Descript     : JSON Lint for PHP.
 <summary>php-justinrainbow-json-schema5</summary>
 
 ```
-From repo     : fedora
-Short desc    : A library to validate a json schema
+From repo    : fedora
+Short desc   : A library to validate a json schema
 URL          : https://github.com/justinrainbow/json-schema
 License      : MIT
 Descript     : A PHP Implementation for validating JSON Structures against a given Schema.
@@ -11078,8 +11078,8 @@ Descript     : A PHP Implementation for validating JSON Structures against a giv
 <summary>php-laminas-cache</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Laminas Framework Cache component
+From repo    : updates-testing
+Short desc   : Laminas Framework Cache component
 URL          : https://github.com/laminas/laminas-cache
 License      : BSD
 Descript     : Laminas\Cache provides a general cache system for PHP.
@@ -11096,8 +11096,8 @@ Descript     : Laminas\Cache provides a general cache system for PHP.
 <summary>php-laminas-config</summary>
 
 ```
-From repo     : fedora
-Short desc    : Laminas Framework Config component
+From repo    : fedora
+Short desc   : Laminas Framework Config component
 URL          : https://github.com/laminas/laminas-config
 License      : BSD
 Descript     : Laminas\Config is designed to simplify access to configuration data within
@@ -11115,8 +11115,8 @@ Descript     : Laminas\Config is designed to simplify access to configuration da
 <summary>php-laminas-eventmanager</summary>
 
 ```
-From repo     : fedora
-Short desc    : Trigger and listen to events within a PHP application
+From repo    : fedora
+Short desc   : Trigger and listen to events within a PHP application
 URL          : https://github.com/laminas/laminas-eventmanager
 License      : BSD
 Descript     : The laminas-eventmanager is a component designed for the following use cases:
@@ -11138,8 +11138,8 @@ Descript     : The laminas-eventmanager is a component designed for the followin
 <summary>php-laminas-filter</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Laminas Framework Filter component
+From repo    : updates-testing
+Short desc   : Laminas Framework Filter component
 URL          : https://github.com/laminas/laminas-filter
 License      : BSD
 Descript     : The Laminas\Filter component provides a set of commonly needed data filters.
@@ -11155,8 +11155,8 @@ Descript     : The Laminas\Filter component provides a set of commonly needed da
 <summary>php-laminas-i18n</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Laminas Framework I18n component
+From repo    : updates-testing
+Short desc   : Laminas Framework I18n component
 URL          : https://github.com/laminas/laminas-i18n
 License      : BSD
 Descript     : Laminas\I18n comes with a complete translation suite which supports all major
@@ -11177,8 +11177,8 @@ Descript     : Laminas\I18n comes with a complete translation suite which suppor
 <summary>php-laminas-json</summary>
 
 ```
-From repo     : fedora
-Short desc    : Laminas Framework Json component
+From repo    : fedora
+Short desc   : Laminas Framework Json component
 URL          : https://github.com/laminas/laminas-json
 License      : BSD
 Descript     : laminas-json provides convenience methods for serializing native PHP to JSON
@@ -11193,8 +11193,8 @@ Descript     : laminas-json provides convenience methods for serializing native 
 <summary>php-laminas-serializer</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Laminas Framework Serializer component
+From repo    : updates-testing
+Short desc   : Laminas Framework Serializer component
 URL          : https://github.com/laminas/laminas-serializer
 License      : BSD
 Descript     : The laminas-serializer component provides an adapter based interface
@@ -11210,8 +11210,8 @@ Descript     : The laminas-serializer component provides an adapter based interf
 <summary>php-laminas-servicemanager</summary>
 
 ```
-From repo     : fedora
-Short desc    : Laminas Framework ServiceManager component
+From repo    : fedora
+Short desc   : Laminas Framework ServiceManager component
 URL          : https://github.com/laminas/laminas-servicemanager
 License      : BSD
 Descript     : The Service Locator design pattern is implemented by the laminas-servicemanager
@@ -11227,8 +11227,8 @@ Descript     : The Service Locator design pattern is implemented by the laminas-
 <summary>php-laminas-session</summary>
 
 ```
-From repo     : fedora
-Short desc    : Laminas Framework Session component
+From repo    : fedora
+Short desc   : Laminas Framework Session component
 URL          : https://github.com/laminas/laminas-session
 License      : BSD
 Descript     : Laminas\Session is a component to manage PHP session using an object
@@ -11243,8 +11243,8 @@ Descript     : Laminas\Session is a component to manage PHP session using an obj
 <summary>php-laminas-stdlib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Laminas Framework Stdlib component
+From repo    : fedora
+Short desc   : Laminas Framework Stdlib component
 URL          : https://github.com/laminas/laminas-stdlib
 License      : BSD
 Descript     : laminas-stdlib is a set of components that implements general purpose utility
@@ -11263,8 +11263,8 @@ Descript     : laminas-stdlib is a set of components that implements general pur
 <summary>php-laminas-zendframework-bridge</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Alias legacy ZF class names to Laminas Project equivalents
+From repo    : updates-testing
+Short desc   : Alias legacy ZF class names to Laminas Project equivalents
 URL          : https://github.com/laminas/laminas-zendframework-bridge
 License      : BSD
 Descript     : This library provides a custom autoloader that aliases legacy
@@ -11280,8 +11280,8 @@ Descript     : This library provides a custom autoloader that aliases legacy
 <summary>php-ldap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A module for PHP applications that use LDAP
+From repo    : updates-testing
+Short desc   : A module for PHP applications that use LDAP
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-ldap adds Lightweight Directory Access Protocol (LDAP)
@@ -11296,8 +11296,8 @@ Descript     : The php-ldap adds Lightweight Directory Access Protocol (LDAP)
 <summary>php-masterminds-html5</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An HTML5 parser and serializer
+From repo    : updates-testing
+Short desc   : An HTML5 parser and serializer
 URL          : http://masterminds.github.io/html5-php
 License      : MIT
 Descript     : The need for an HTML5 parser in PHP is clear. This project initially began with
@@ -11318,8 +11318,8 @@ Descript     : The need for an HTML5 parser in PHP is clear. This project initia
 <summary>php-mbstring</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A module for PHP applications which need multi-byte string handling
+From repo    : updates-testing
+Short desc   : A module for PHP applications which need multi-byte string handling
 URL          : http://www.php.net/
 License      : PHP and LGPLv2 and OpenLDAP
 Descript     : The php-mbstring package contains a dynamic shared object that will add
@@ -11332,8 +11332,8 @@ Descript     : The php-mbstring package contains a dynamic shared object that wi
 <summary>php-myclabs-deep-copy</summary>
 
 ```
-From repo     : fedora
-Short desc    : Create deep copies (clones) of your objects
+From repo    : fedora
+Short desc   : Create deep copies (clones) of your objects
 URL          : https://github.com/myclabs/DeepCopy
 License      : MIT
 Descript     : DeepCopy helps you create deep copies (clones) of your objects.
@@ -11346,8 +11346,8 @@ Descript     : DeepCopy helps you create deep copies (clones) of your objects.
 <summary>php-mysqlnd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A module for PHP applications that use MySQL databases
+From repo    : updates-testing
+Short desc   : A module for PHP applications that use MySQL databases
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-mysqlnd package contains a dynamic shared object that will add
@@ -11365,8 +11365,8 @@ Descript     : The php-mysqlnd package contains a dynamic shared object that wil
 <summary>php-nikic-php-parser4</summary>
 
 ```
-From repo     : fedora
-Short desc    : A PHP parser written in PHP - version 4
+From repo    : fedora
+Short desc   : A PHP parser written in PHP - version 4
 URL          : https://github.com/nikic/PHP-Parser
 License      : BSD
 Descript     : This is a PHP 5.2 to PHP 7.4 parser written in PHP.
@@ -11385,8 +11385,8 @@ Descript     : This is a PHP 5.2 to PHP 7.4 parser written in PHP.
 <summary>php-opcache</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Zend OPcache
+From repo    : updates-testing
+Short desc   : The Zend OPcache
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The Zend OPcache provides faster PHP execution through opcode caching and
@@ -11402,8 +11402,8 @@ Descript     : The Zend OPcache provides faster PHP execution through opcode cac
 <summary>php-pclzip</summary>
 
 ```
-From repo     : fedora
-Short desc    : Compression and extraction functions for Zip formatted archives
+From repo    : fedora
+Short desc   : Compression and extraction functions for Zip formatted archives
 URL          : http://www.phpconcept.net/pclzip
 License      : LGPLv2
 Descript     : PclZip library offers compression and extraction functions for Zip formatted
@@ -11424,8 +11424,8 @@ Descript     : PclZip library offers compression and extraction functions for Zi
 <summary>php-pdo</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A database access abstraction module for PHP applications
+From repo    : updates-testing
+Short desc   : A database access abstraction module for PHP applications
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-pdo package contains a dynamic shared object that will add
@@ -11440,8 +11440,8 @@ Descript     : The php-pdo package contains a dynamic shared object that will ad
 <summary>php-pdo-dblib</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PDO driver for Microsoft SQL Server and Sybase databases
+From repo    : updates-testing
+Short desc   : PDO driver for Microsoft SQL Server and Sybase databases
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-pdo-dblib package contains a dynamic shared object
@@ -11455,8 +11455,8 @@ Descript     : The php-pdo-dblib package contains a dynamic shared object
 <summary>php-pdo-firebird</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PDO driver for Interbase/Firebird databases
+From repo    : updates-testing
+Short desc   : PDO driver for Interbase/Firebird databases
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-pdo-firebird package contains the PDO driver for
@@ -11470,8 +11470,8 @@ Descript     : The php-pdo-firebird package contains the PDO driver for
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : PHP Extension and Application Repository framework
+From repo    : fedora
+Short desc   : PHP Extension and Application Repository framework
 URL          : http://pear.php.net/package/PEAR
 License      : BSD and LGPLv3+
 Descript     : PEAR is a framework and distribution system for reusable PHP
@@ -11484,8 +11484,8 @@ Descript     : PEAR is a framework and distribution system for reusable PHP
 <summary>php-pear-CAS</summary>
 
 ```
-From repo     : fedora
-Short desc    : Central Authentication Service client library in php
+From repo    : fedora
+Short desc   : Central Authentication Service client library in php
 URL          : https://wiki.jasig.org/display/CASC/phpCAS
 License      : ASL 2.0
 Descript     : This package is a PEAR library for using a Central Authentication Service.
@@ -11499,8 +11499,8 @@ Descript     : This package is a PEAR library for using a Central Authentication
 <summary>php-pear-MDB2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Database Abstraction Layer
+From repo    : fedora
+Short desc   : Database Abstraction Layer
 URL          : http://pear.php.net/package/MDB2
 License      : BSD
 Descript     : PEAR::MDB2 is a merge of the PEAR::DB and Metabase php database abstraction
@@ -11517,8 +11517,8 @@ Descript     : PEAR::MDB2 is a merge of the PEAR::DB and Metabase php database a
 <summary>php-pear-MDB2-Driver-mysqli</summary>
 
 ```
-From repo     : fedora
-Short desc    : MySQL Improved MDB2 driver
+From repo    : fedora
+Short desc   : MySQL Improved MDB2 driver
 URL          : http://pear.php.net/package/MDB2_Driver_mysqli
 License      : BSD
 Descript     : This is the MySQL Improved MDB2 driver.
@@ -11530,8 +11530,8 @@ Descript     : This is the MySQL Improved MDB2 driver.
 <summary>php-pear-PHP-CodeSniffer</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PHP coding standards enforcement tool
+From repo    : updates-testing
+Short desc   : PHP coding standards enforcement tool
 URL          : http://pear.php.net/package/PHP_CodeSniffer
 License      : BSD
 Descript     : PHP_CodeSniffer provides functionality to verify that code conforms to
@@ -11544,8 +11544,8 @@ Descript     : PHP_CodeSniffer provides functionality to verify that code confor
 <summary>php-pecl-apcu</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : APC User Cache
+From repo    : updates-testing
+Short desc   : APC User Cache
 URL          : https://pecl.php.net/package/APCu
 License      : PHP
 Descript     : APCu is userland caching: APC stripped of opcode caching.
@@ -11562,8 +11562,8 @@ Descript     : APCu is userland caching: APC stripped of opcode caching.
 <summary>php-pecl-apcu-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : APCu developer files (header)
+From repo    : updates-testing
+Short desc   : APCu developer files (header)
 URL          : https://pecl.php.net/package/APCu
 License      : PHP
 Descript     : These are the files needed to compile programs using APCu.
@@ -11575,8 +11575,8 @@ Descript     : These are the files needed to compile programs using APCu.
 <summary>php-pecl-igbinary</summary>
 
 ```
-From repo     : fedora
-Short desc    : Replacement for the standard PHP serializer
+From repo    : fedora
+Short desc   : Replacement for the standard PHP serializer
 URL          : https://pecl.php.net/package/igbinary
 License      : BSD
 Descript     : Igbinary is a drop in replacement for the standard PHP serializer.
@@ -11593,8 +11593,8 @@ Descript     : Igbinary is a drop in replacement for the standard PHP serializer
 <summary>php-pecl-krb5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Kerberos authentification extension
+From repo    : fedora
+Short desc   : Kerberos authentification extension
 URL          : https://pecl.php.net/package/krb5
 License      : BSD
 Descript     : Features:
@@ -11611,8 +11611,8 @@ Descript     : Features:
 <summary>php-pecl-krb5-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Kerberos extension developer files (header)
+From repo    : fedora
+Short desc   : Kerberos extension developer files (header)
 URL          : https://pecl.php.net/package/krb5
 License      : BSD
 Descript     : These are the files needed to compile programs using the Kerberos extension.
@@ -11624,8 +11624,8 @@ Descript     : These are the files needed to compile programs using the Kerberos
 <summary>php-pecl-memcache</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extension to work with the Memcached caching daemon
+From repo    : fedora
+Short desc   : Extension to work with the Memcached caching daemon
 URL          : https://pecl.php.net/package/memcache
 License      : PHP
 Descript     : Memcached is a caching daemon designed especially for
@@ -11644,8 +11644,8 @@ Descript     : Memcached is a caching daemon designed especially for
 <summary>php-pecl-memcached</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extension to work with the Memcached caching daemon
+From repo    : fedora
+Short desc   : Extension to work with the Memcached caching daemon
 URL          : http://pecl.php.net/package/memcached
 License      : PHP
 Descript     : This extension uses libmemcached library to provide API for communicating
@@ -11664,8 +11664,8 @@ Descript     : This extension uses libmemcached library to provide API for commu
 <summary>php-pecl-msgpack</summary>
 
 ```
-From repo     : fedora
-Short desc    : API for communicating with MessagePack serialization
+From repo    : fedora
+Short desc   : API for communicating with MessagePack serialization
 URL          : https://pecl.php.net/package/msgpack
 License      : BSD
 Descript     : This extension provide API for communicating with MessagePack serialization.
@@ -11689,8 +11689,8 @@ Descript     : This extension provide API for communicating with MessagePack ser
 <summary>php-pecl-pcov</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Code coverage driver
+From repo    : updates-testing
+Short desc   : Code coverage driver
 URL          : https://pecl.php.net/package/pcov
 License      : PHP
 Descript     : A self contained php-code-coverage compatible driver for PHP7.
@@ -11702,8 +11702,8 @@ Descript     : A self contained php-code-coverage compatible driver for PHP7.
 <summary>php-pecl-yaml</summary>
 
 ```
-From repo     : fedora
-Short desc    : Support for YAML 1.1 serialization using the LibYAML library
+From repo    : fedora
+Short desc   : Support for YAML 1.1 serialization using the LibYAML library
 URL          : https://pecl.php.net/package/yaml
 License      : MIT
 Descript     : The YAML PHP Extension provides a wrapper to the LibYAML library. It gives the
@@ -11717,8 +11717,8 @@ Descript     : The YAML PHP Extension provides a wrapper to the LibYAML library.
 <summary>php-pecl-zip</summary>
 
 ```
-From repo     : fedora
-Short desc    : A ZIP archive management extension
+From repo    : fedora
+Short desc   : A ZIP archive management extension
 URL          : https://pecl.php.net/package/zip
 License      : PHP
 Descript     : Zip is an extension to create and read zip files.
@@ -11730,8 +11730,8 @@ Descript     : Zip is an extension to create and read zip files.
 <summary>php-phar-io-manifest2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Component for reading phar.io manifest information
+From repo    : fedora
+Short desc   : Component for reading phar.io manifest information
 URL          : https://github.com/phar-io/manifest
 License      : BSD
 Descript     : Component for reading phar.io manifest information from a PHP Archive (PHAR).
@@ -11745,8 +11745,8 @@ Descript     : Component for reading phar.io manifest information from a PHP Arc
 <summary>php-phar-io-version3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library for handling version information and constraints
+From repo    : updates-testing
+Short desc   : Library for handling version information and constraints
 URL          : https://github.com/phar-io/version
 License      : BSD
 Descript     : Library for handling version information and constraints.
@@ -11760,8 +11760,8 @@ Descript     : Library for handling version information and constraints.
 <summary>php-phpdocumentor-fileset</summary>
 
 ```
-From repo     : fedora
-Short desc    : Component for collecting a set of files given dirs and file paths
+From repo    : fedora
+Short desc   : Component for collecting a set of files given dirs and file paths
 URL          : https://github.com/phpDocumentor/Fileset
 License      : MIT
 Descript     : A fileset component that manages the collection of files using directories and
@@ -11776,8 +11776,8 @@ Descript     : A fileset component that manages the collection of files using di
 <summary>php-phpdocumentor-graphviz</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library meant for generating .dot files for GraphViz
+From repo    : fedora
+Short desc   : Library meant for generating .dot files for GraphViz
 URL          : https://github.com/phpDocumentor/GraphViz
 License      : MIT
 Descript     : Library meant for generating .dot files for GraphViz.
@@ -11791,8 +11791,8 @@ Descript     : Library meant for generating .dot files for GraphViz.
 <summary>php-phpdocumentor-reflection</summary>
 
 ```
-From repo     : fedora
-Short desc    : Reflection library to do Static Analysis for PHP Projects
+From repo    : fedora
+Short desc   : Reflection library to do Static Analysis for PHP Projects
 URL          : https://github.com/phpDocumentor/Reflection
 License      : MIT
 Descript     : Using this library it is possible to statically reflect one or more files
@@ -11829,8 +11829,8 @@ Descript     : Using this library it is possible to statically reflect one or mo
 <summary>php-phpdocumentor-reflection-common2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common reflection classes used by phpdocumentor
+From repo    : fedora
+Short desc   : Common reflection classes used by phpdocumentor
 URL          : https://github.com/phpDocumentor/ReflectionCommon
 License      : MIT
 Descript     : Common reflection classes used by phpdocumentor to reflect the code structure.
@@ -11844,8 +11844,8 @@ Descript     : Common reflection classes used by phpdocumentor to reflect the co
 <summary>php-phpdocumentor-reflection-docblock2</summary>
 
 ```
-From repo     : fedora
-Short desc    : DocBlock parser (Version 2)
+From repo    : fedora
+Short desc   : DocBlock parser (Version 2)
 URL          : https://github.com/phpDocumentor/ReflectionDocBlock
 License      : MIT
 Descript     : The ReflectionDocBlock component of phpDocumentor provides a DocBlock
@@ -11861,8 +11861,8 @@ Descript     : The ReflectionDocBlock component of phpDocumentor provides a DocB
 <summary>php-phpdocumentor-reflection-docblock5</summary>
 
 ```
-From repo     : fedora
-Short desc    : DocBlock parser
+From repo    : fedora
+Short desc   : DocBlock parser
 URL          : https://github.com/phpDocumentor/ReflectionDocBlock
 License      : MIT
 Descript     : The ReflectionDocBlock component of phpDocumentor provides a DocBlock
@@ -11880,8 +11880,8 @@ Descript     : The ReflectionDocBlock component of phpDocumentor provides a DocB
 <summary>php-phpdocumentor-type-resolver1</summary>
 
 ```
-From repo     : fedora
-Short desc    : A PSR-5 based resolver of Class names, Types and Structural Element Names
+From repo    : fedora
+Short desc   : A PSR-5 based resolver of Class names, Types and Structural Element Names
 URL          : https://github.com/phpDocumentor/TypeResolver
 License      : MIT
 Descript     : The specification on types in DocBlocks (PSR-5) describes various keywords
@@ -11908,8 +11908,8 @@ Descript     : The specification on types in DocBlocks (PSR-5) describes various
 <summary>php-phpspec-prophecy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Highly opinionated mocking framework for PHP
+From repo    : updates-testing
+Short desc   : Highly opinionated mocking framework for PHP
 URL          : https://github.com/phpspec/prophecy
 License      : MIT
 Descript     : Prophecy is a highly opinionated yet very powerful and flexible PHP object
@@ -11925,8 +11925,8 @@ Descript     : Prophecy is a highly opinionated yet very powerful and flexible P
 <summary>php-phpunit-File-Iterator</summary>
 
 ```
-From repo     : fedora
-Short desc    : FilterIterator implementation that filters files based on a list of suffixes
+From repo    : fedora
+Short desc   : FilterIterator implementation that filters files based on a list of suffixes
 URL          : https://github.com/sebastianbergmann/php-file-iterator
 License      : BSD
 Descript     : FilterIterator implementation that filters files based on a list of suffixes.
@@ -11938,8 +11938,8 @@ Descript     : FilterIterator implementation that filters files based on a list 
 <summary>php-phpunit-PHP-CodeCoverage</summary>
 
 ```
-From repo     : fedora
-Short desc    : PHP code coverage information
+From repo    : fedora
+Short desc   : PHP code coverage information
 URL          : https://github.com/sebastianbergmann/php-code-coverage
 License      : BSD
 Descript     : Library that provides collection, processing, and rendering functionality
@@ -11952,8 +11952,8 @@ Descript     : Library that provides collection, processing, and rendering funct
 <summary>php-phpunit-PHP-Invoker</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility class for invoking callables with a timeout
+From repo    : fedora
+Short desc   : Utility class for invoking callables with a timeout
 URL          : https://github.com/sebastianbergmann/php-invoker
 License      : BSD
 Descript     : Utility class for invoking callables with a timeout.
@@ -11965,8 +11965,8 @@ Descript     : Utility class for invoking callables with a timeout.
 <summary>php-phpunit-PHP-Timer</summary>
 
 ```
-From repo     : fedora
-Short desc    : PHP Utility class for timing
+From repo    : fedora
+Short desc   : PHP Utility class for timing
 URL          : https://github.com/sebastianbergmann/php-timer
 License      : BSD
 Descript     : PHP Utility class for timing
@@ -11978,8 +11978,8 @@ Descript     : PHP Utility class for timing
 <summary>php-phpunit-PHPUnit</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The PHP Unit Testing framework version 5
+From repo    : updates-testing
+Short desc   : The PHP Unit Testing framework version 5
 URL          : https://github.com/sebastianbergmann/phpunit
 License      : BSD
 Descript     : PHPUnit is a family of PEAR packages that supports the development of
@@ -12004,8 +12004,8 @@ Descript     : PHPUnit is a family of PEAR packages that supports the developmen
 <summary>php-phpunit-PHPUnit-MockObject</summary>
 
 ```
-From repo     : fedora
-Short desc    : Mock Object library for PHPUnit
+From repo    : fedora
+Short desc   : Mock Object library for PHPUnit
 URL          : https://github.com/sebastianbergmann/phpunit-mock-objects
 License      : BSD
 Descript     : Mock Object library for PHPUnit
@@ -12017,8 +12017,8 @@ Descript     : Mock Object library for PHPUnit
 <summary>php-phpunit-Text-Template</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple template engine
+From repo    : fedora
+Short desc   : Simple template engine
 URL          : https://github.com/sebastianbergmann/php-text-template
 License      : BSD
 Descript     : Simple template engine.
@@ -12030,8 +12030,8 @@ Descript     : Simple template engine.
 <summary>php-phpunit-Version</summary>
 
 ```
-From repo     : fedora
-Short desc    : Managing the version number of Git-hosted PHP projects
+From repo    : fedora
+Short desc   : Managing the version number of Git-hosted PHP projects
 URL          : https://github.com/sebastianbergmann/version
 License      : BSD
 Descript     : Library that helps with managing the version number
@@ -12044,8 +12044,8 @@ Descript     : Library that helps with managing the version number
 <summary>php-phpunit-comparator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Compare PHP values for equality
+From repo    : fedora
+Short desc   : Compare PHP values for equality
 URL          : https://github.com/sebastianbergmann/comparator
 License      : BSD
 Descript     : This component provides the functionality to compare PHP values for equality.
@@ -12059,8 +12059,8 @@ Descript     : This component provides the functionality to compare PHP values f
 <summary>php-phpunit-diff</summary>
 
 ```
-From repo     : fedora
-Short desc    : Diff implementation
+From repo    : fedora
+Short desc   : Diff implementation
 URL          : https://github.com/sebastianbergmann/diff
 License      : BSD
 Descript     : Diff implementation.
@@ -12072,8 +12072,8 @@ Descript     : Diff implementation.
 <summary>php-phpunit-environment</summary>
 
 ```
-From repo     : fedora
-Short desc    : Handle HHVM/PHP environments
+From repo    : fedora
+Short desc   : Handle HHVM/PHP environments
 URL          : https://github.com/sebastianbergmann/environment
 License      : BSD
 Descript     : This component provides functionality that helps writing PHP code that
@@ -12086,8 +12086,8 @@ Descript     : This component provides functionality that helps writing PHP code
 <summary>php-phpunit-exporter</summary>
 
 ```
-From repo     : fedora
-Short desc    : Export PHP variables for visualization
+From repo    : fedora
+Short desc   : Export PHP variables for visualization
 URL          : https://github.com/sebastianbergmann/exporter
 License      : BSD
 Descript     : Provides the functionality to export PHP variables for visualization.
@@ -12099,8 +12099,8 @@ Descript     : Provides the functionality to export PHP variables for visualizat
 <summary>php-phpunit-mock-objects5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Mock Object library for PHPUnit
+From repo    : fedora
+Short desc   : Mock Object library for PHPUnit
 URL          : https://github.com/sebastianbergmann/phpunit-mock-objects
 License      : BSD
 Descript     : Mock Object library for PHPUnit
@@ -12114,8 +12114,8 @@ Descript     : Mock Object library for PHPUnit
 <summary>php-phpunit-php-code-coverage5</summary>
 
 ```
-From repo     : fedora
-Short desc    : PHP code coverage information
+From repo    : fedora
+Short desc   : PHP code coverage information
 URL          : https://github.com/sebastianbergmann/php-code-coverage
 License      : BSD and MIT and ASL 2.0
 Descript     : Library that provides collection, processing, and rendering functionality
@@ -12130,8 +12130,8 @@ Descript     : Library that provides collection, processing, and rendering funct
 <summary>php-phpunit-php-code-coverage7</summary>
 
 ```
-From repo     : fedora
-Short desc    : PHP code coverage information
+From repo    : fedora
+Short desc   : PHP code coverage information
 URL          : https://github.com/sebastianbergmann/php-code-coverage
 License      : BSD and MIT and ASL 2.0
 Descript     : Library that provides collection, processing, and rendering functionality
@@ -12146,8 +12146,8 @@ Descript     : Library that provides collection, processing, and rendering funct
 <summary>php-phpunit-php-code-coverage9</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PHP code coverage information
+From repo    : updates-testing
+Short desc   : PHP code coverage information
 URL          : https://github.com/sebastianbergmann/php-code-coverage
 License      : BSD and MIT and ASL 2.0
 Descript     : Library that provides collection, processing, and rendering functionality
@@ -12162,8 +12162,8 @@ Descript     : Library that provides collection, processing, and rendering funct
 <summary>php-phpunit-php-file-iterator2</summary>
 
 ```
-From repo     : fedora
-Short desc    : FilterIterator implementation that filters files based on a list of suffixes
+From repo    : fedora
+Short desc   : FilterIterator implementation that filters files based on a list of suffixes
 URL          : https://github.com/sebastianbergmann/php-file-iterator
 License      : BSD
 Descript     : FilterIterator implementation that filters files based on a list of suffixes.
@@ -12175,8 +12175,8 @@ Descript     : FilterIterator implementation that filters files based on a list 
 <summary>php-phpunit-php-file-iterator3</summary>
 
 ```
-From repo     : fedora
-Short desc    : FilterIterator implementation that filters files based on a list of suffixes
+From repo    : fedora
+Short desc   : FilterIterator implementation that filters files based on a list of suffixes
 URL          : https://github.com/sebastianbergmann/php-file-iterator
 License      : BSD
 Descript     : FilterIterator implementation that filters files based on a list of suffixes.
@@ -12188,8 +12188,8 @@ Descript     : FilterIterator implementation that filters files based on a list 
 <summary>php-phpunit-php-invoker2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Invoke callables with a timeout
+From repo    : fedora
+Short desc   : Invoke callables with a timeout
 URL          : https://github.com/sebastianbergmann/php-invoker
 License      : BSD
 Descript     : phpunit/php-invoker provides the means to invoke a callable with a timeout.
@@ -12203,8 +12203,8 @@ Descript     : phpunit/php-invoker provides the means to invoke a callable with 
 <summary>php-phpunit-php-invoker3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Invoke callables with a timeout
+From repo    : fedora
+Short desc   : Invoke callables with a timeout
 URL          : https://github.com/sebastianbergmann/php-invoker
 License      : BSD
 Descript     : phpunit/php-invoker provides the means to invoke a callable with a timeout.
@@ -12218,8 +12218,8 @@ Descript     : phpunit/php-invoker provides the means to invoke a callable with 
 <summary>php-phpunit-php-text-template2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple template engine, version 2
+From repo    : fedora
+Short desc   : Simple template engine, version 2
 URL          : https://github.com/sebastianbergmann/php-text-template
 License      : BSD
 Descript     : Simple template engine.
@@ -12231,8 +12231,8 @@ Descript     : Simple template engine.
 <summary>php-phpunit-php-timer2</summary>
 
 ```
-From repo     : fedora
-Short desc    : PHP Utility class for timing
+From repo    : fedora
+Short desc   : PHP Utility class for timing
 URL          : https://github.com/sebastianbergmann/php-timer
 License      : BSD
 Descript     : Utility class for timing things, factored out of PHPUnit into a stand-alone
@@ -12245,8 +12245,8 @@ Descript     : Utility class for timing things, factored out of PHPUnit into a s
 <summary>php-phpunit-php-timer5</summary>
 
 ```
-From repo     : fedora
-Short desc    : PHP Utility class for timing, version 5
+From repo    : fedora
+Short desc   : PHP Utility class for timing, version 5
 URL          : https://github.com/sebastianbergmann/php-timer
 License      : BSD
 Descript     : Utility class for timing things, factored out of PHPUnit into a stand-alone
@@ -12259,8 +12259,8 @@ Descript     : Utility class for timing things, factored out of PHPUnit into a s
 <summary>php-phpunit-php-token-stream2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Wrapper around PHP tokenizer extension
+From repo    : fedora
+Short desc   : Wrapper around PHP tokenizer extension
 URL          : https://github.com/sebastianbergmann/php-token-stream
 License      : BSD
 Descript     : Wrapper around PHP tokenizer extension.
@@ -12274,8 +12274,8 @@ Descript     : Wrapper around PHP tokenizer extension.
 <summary>php-phpunit-php-token-stream4</summary>
 
 ```
-From repo     : fedora
-Short desc    : Wrapper around PHP tokenizer extension
+From repo    : fedora
+Short desc   : Wrapper around PHP tokenizer extension
 URL          : https://github.com/sebastianbergmann/php-token-stream
 License      : BSD
 Descript     : Wrapper around PHP tokenizer extension.
@@ -12289,8 +12289,8 @@ Descript     : Wrapper around PHP tokenizer extension.
 <summary>php-phpunitgoodpractices-polyfill</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lacking future-compat polyfills for PHPUnit
+From repo    : fedora
+Short desc   : Lacking future-compat polyfills for PHPUnit
 URL          : https://github.com/PHPUnitGoodPractices/polyfill
 License      : MIT
 Descript     : Lacking future-compat polyfills for PHPUnit.
@@ -12304,8 +12304,8 @@ Descript     : Lacking future-compat polyfills for PHPUnit.
 <summary>php-pimple1</summary>
 
 ```
-From repo     : fedora
-Short desc    : A simple dependency injection container for PHP
+From repo    : fedora
+Short desc   : A simple dependency injection container for PHP
 URL          : https://github.com/silexphp/Pimple/tree/1.1
 License      : MIT
 Descript     : Pimple is a small dependency injection container for PHP that consists of
@@ -12318,8 +12318,8 @@ Descript     : Pimple is a small dependency injection container for PHP that con
 <summary>php-process</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Modules for PHP script using system process interfaces
+From repo    : updates-testing
+Short desc   : Modules for PHP script using system process interfaces
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-process package contains dynamic shared objects which add
@@ -12333,8 +12333,8 @@ Descript     : The php-process package contains dynamic shared objects which add
 <summary>php-psr-cache</summary>
 
 ```
-From repo     : fedora
-Short desc    : PSR Cache: Common interface for caching libraries
+From repo    : fedora
+Short desc   : PSR Cache: Common interface for caching libraries
 URL          : https://github.com/php-fig/cache
 License      : MIT
 Descript     : This package holds all interfaces defined by PSR-6 [1].
@@ -12354,8 +12354,8 @@ Descript     : This package holds all interfaces defined by PSR-6 [1].
 <summary>php-psr-container</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common Container Interface
+From repo    : updates-testing
+Short desc   : Common Container Interface
 URL          : https://github.com/php-fig/container
 License      : MIT
 Descript     : This package holds all interfaces/classes/traits related to PSR-11.
@@ -12371,8 +12371,8 @@ Descript     : This package holds all interfaces/classes/traits related to PSR-1
 <summary>php-psr-event-dispatcher</summary>
 
 ```
-From repo     : fedora
-Short desc    : Standard interfaces for event handling
+From repo    : fedora
+Short desc   : Standard interfaces for event handling
 URL          : https://github.com/php-fig/event-dispatcher
 License      : MIT
 Descript     : This repository holds all interfaces related to PSR-14 (Event Dispatcher).
@@ -12390,8 +12390,8 @@ Descript     : This repository holds all interfaces related to PSR-14 (Event Dis
 <summary>php-psr-simple-cache</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common interfaces for simple caching (PSR-16)
+From repo    : fedora
+Short desc   : Common interfaces for simple caching (PSR-16)
 URL          : http://www.php-fig.org/psr/psr-16/
 License      : MIT
 Descript     : This repository holds all interfaces related to PSR-16.
@@ -12415,8 +12415,8 @@ Descript     : This repository holds all interfaces related to PSR-16.
 <summary>php-react-promise</summary>
 
 ```
-From repo     : fedora
-Short desc    : A lightweight implementation of CommonJS Promises/A for PHP
+From repo    : fedora
+Short desc   : A lightweight implementation of CommonJS Promises/A for PHP
 URL          : https://reactphp.org/promise/
 License      : MIT
 Descript     : A lightweight implementation of CommonJS Promises/A [1] for PHP.
@@ -12432,8 +12432,8 @@ Descript     : A lightweight implementation of CommonJS Promises/A [1] for PHP.
 <summary>php-sabre-event5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lightweight library for event-based programming
+From repo    : fedora
+Short desc   : Lightweight library for event-based programming
 URL          : http://sabre.io/event
 License      : BSD
 Descript     : This library provides the following event-based concepts:
@@ -12454,8 +12454,8 @@ Descript     : This library provides the following event-based concepts:
 <summary>php-sebastian-cli-parser</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for parsing CLI options
+From repo    : fedora
+Short desc   : Library for parsing CLI options
 URL          : https://github.com/sebastianbergmann/cli-parser
 License      : BSD
 Descript     : Library for parsing $_SERVER['argv'], extracted from phpunit/phpunit.
@@ -12469,8 +12469,8 @@ Descript     : Library for parsing $_SERVER['argv'], extracted from phpunit/phpu
 <summary>php-sebastian-code-unit</summary>
 
 ```
-From repo     : fedora
-Short desc    : Collection of value objects that represent the PHP code units
+From repo    : fedora
+Short desc   : Collection of value objects that represent the PHP code units
 URL          : https://github.com/sebastianbergmann/code-unit
 License      : BSD
 Descript     : Collection of value objects that represent the PHP code units.
@@ -12484,8 +12484,8 @@ Descript     : Collection of value objects that represent the PHP code units.
 <summary>php-sebastian-code-unit-reverse-lookup</summary>
 
 ```
-From repo     : fedora
-Short desc    : Looks up which function or method a line of code belongs to
+From repo    : fedora
+Short desc   : Looks up which function or method a line of code belongs to
 URL          : https://github.com/sebastianbergmann/code-unit-reverse-lookup
 License      : BSD
 Descript     : Looks up which function or method a line of code belongs to.
@@ -12499,8 +12499,8 @@ Descript     : Looks up which function or method a line of code belongs to.
 <summary>php-sebastian-code-unit-reverse-lookup2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Looks up which function or method a line of code belongs to
+From repo    : fedora
+Short desc   : Looks up which function or method a line of code belongs to
 URL          : https://github.com/sebastianbergmann/code-unit-reverse-lookup
 License      : BSD
 Descript     : Looks up which function or method a line of code belongs to.
@@ -12514,8 +12514,8 @@ Descript     : Looks up which function or method a line of code belongs to.
 <summary>php-sebastian-comparator3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Compare PHP values for equality
+From repo    : fedora
+Short desc   : Compare PHP values for equality
 URL          : https://github.com/sebastianbergmann/comparator
 License      : BSD
 Descript     : This component provides the functionality to compare PHP values for equality.
@@ -12529,8 +12529,8 @@ Descript     : This component provides the functionality to compare PHP values f
 <summary>php-sebastian-comparator4</summary>
 
 ```
-From repo     : fedora
-Short desc    : Compare PHP values for equality, version 4
+From repo    : fedora
+Short desc   : Compare PHP values for equality, version 4
 URL          : https://github.com/sebastianbergmann/comparator
 License      : BSD
 Descript     : This component provides the functionality to compare PHP values for equality.
@@ -12544,8 +12544,8 @@ Descript     : This component provides the functionality to compare PHP values f
 <summary>php-sebastian-complexity</summary>
 
 ```
-From repo     : fedora
-Short desc    : Calculating the complexity of PHP code units
+From repo    : fedora
+Short desc   : Calculating the complexity of PHP code units
 URL          : https://github.com/sebastianbergmann/complexity
 License      : BSD
 Descript     : Library for calculating the complexity of PHP code units.
@@ -12557,8 +12557,8 @@ Descript     : Library for calculating the complexity of PHP code units.
 <summary>php-sebastian-diff3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Diff implementation
+From repo    : fedora
+Short desc   : Diff implementation
 URL          : https://github.com/sebastianbergmann/diff
 License      : BSD
 Descript     : Diff implementation.
@@ -12572,8 +12572,8 @@ Descript     : Diff implementation.
 <summary>php-sebastian-diff4</summary>
 
 ```
-From repo     : fedora
-Short desc    : Diff implementation, version 4
+From repo    : fedora
+Short desc   : Diff implementation, version 4
 URL          : https://github.com/sebastianbergmann/diff
 License      : BSD
 Descript     : Diff implementation.
@@ -12587,8 +12587,8 @@ Descript     : Diff implementation.
 <summary>php-sebastian-environment3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Handle HHVM/PHP environments
+From repo    : fedora
+Short desc   : Handle HHVM/PHP environments
 URL          : https://github.com/sebastianbergmann/environment
 License      : BSD
 Descript     : This component provides functionality that helps writing PHP code that
@@ -12601,8 +12601,8 @@ Descript     : This component provides functionality that helps writing PHP code
 <summary>php-sebastian-environment4</summary>
 
 ```
-From repo     : fedora
-Short desc    : Handle HHVM/PHP environments
+From repo    : fedora
+Short desc   : Handle HHVM/PHP environments
 URL          : https://github.com/sebastianbergmann/environment
 License      : BSD
 Descript     : This component provides functionality that helps writing PHP code that
@@ -12615,8 +12615,8 @@ Descript     : This component provides functionality that helps writing PHP code
 <summary>php-sebastian-environment5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Handle HHVM/PHP environments version 5
+From repo    : fedora
+Short desc   : Handle HHVM/PHP environments version 5
 URL          : https://github.com/sebastianbergmann/environment
 License      : BSD
 Descript     : This component provides functionality that helps writing PHP code that
@@ -12629,8 +12629,8 @@ Descript     : This component provides functionality that helps writing PHP code
 <summary>php-sebastian-exporter3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Export PHP variables for visualization
+From repo    : fedora
+Short desc   : Export PHP variables for visualization
 URL          : https://github.com/sebastianbergmann/exporter
 License      : BSD
 Descript     : Provides the functionality to export PHP variables for visualization.
@@ -12642,8 +12642,8 @@ Descript     : Provides the functionality to export PHP variables for visualizat
 <summary>php-sebastian-exporter4</summary>
 
 ```
-From repo     : fedora
-Short desc    : Export PHP variables for visualization version 4
+From repo    : fedora
+Short desc   : Export PHP variables for visualization version 4
 URL          : https://github.com/sebastianbergmann/exporter
 License      : BSD
 Descript     : Provides the functionality to export PHP variables for visualization.
@@ -12655,8 +12655,8 @@ Descript     : Provides the functionality to export PHP variables for visualizat
 <summary>php-sebastian-global-state</summary>
 
 ```
-From repo     : fedora
-Short desc    : Snapshotting of global state
+From repo    : fedora
+Short desc   : Snapshotting of global state
 URL          : https://github.com/sebastianbergmann/global-state
 License      : BSD
 Descript     : Snapshotting of global state,
@@ -12669,8 +12669,8 @@ Descript     : Snapshotting of global state,
 <summary>php-sebastian-global-state3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Snapshotting of global state
+From repo    : fedora
+Short desc   : Snapshotting of global state
 URL          : https://github.com/sebastianbergmann/global-state
 License      : BSD
 Descript     : Snapshotting of global state,
@@ -12683,8 +12683,8 @@ Descript     : Snapshotting of global state,
 <summary>php-sebastian-global-state5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Snapshotting of global state, version 5
+From repo    : fedora
+Short desc   : Snapshotting of global state, version 5
 URL          : https://github.com/sebastianbergmann/global-state
 License      : BSD
 Descript     : Snapshotting of global state,
@@ -12697,8 +12697,8 @@ Descript     : Snapshotting of global state,
 <summary>php-sebastian-lines-of-code</summary>
 
 ```
-From repo     : fedora
-Short desc    : Counting the lines of code in PHP source code
+From repo    : fedora
+Short desc   : Counting the lines of code in PHP source code
 URL          : https://github.com/sebastianbergmann/lines-of-code
 License      : BSD
 Descript     : Library for counting the lines of code in PHP source code.
@@ -12710,8 +12710,8 @@ Descript     : Library for counting the lines of code in PHP source code.
 <summary>php-sebastian-object-enumerator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Traverses array and object to enumerate all referenced objects
+From repo    : fedora
+Short desc   : Traverses array and object to enumerate all referenced objects
 URL          : https://github.com/sebastianbergmann/object-enumerator
 License      : BSD
 Descript     : Traverses array structures and object graphs to enumerate all
@@ -12726,8 +12726,8 @@ Descript     : Traverses array structures and object graphs to enumerate all
 <summary>php-sebastian-object-enumerator3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Traverses array and object to enumerate all referenced objects
+From repo    : fedora
+Short desc   : Traverses array and object to enumerate all referenced objects
 URL          : https://github.com/sebastianbergmann/object-enumerator
 License      : BSD
 Descript     : Traverses array structures and object graphs to enumerate all
@@ -12742,8 +12742,8 @@ Descript     : Traverses array structures and object graphs to enumerate all
 <summary>php-sebastian-object-enumerator4</summary>
 
 ```
-From repo     : fedora
-Short desc    : Traverses array and object to enumerate all referenced objects, version 4
+From repo    : fedora
+Short desc   : Traverses array and object to enumerate all referenced objects, version 4
 URL          : https://github.com/sebastianbergmann/object-enumerator
 License      : BSD
 Descript     : Traverses array structures and object graphs to enumerate all
@@ -12758,8 +12758,8 @@ Descript     : Traverses array structures and object graphs to enumerate all
 <summary>php-sebastian-object-reflector</summary>
 
 ```
-From repo     : fedora
-Short desc    : Allows reflection of object attributes
+From repo    : fedora
+Short desc   : Allows reflection of object attributes
 URL          : https://github.com/sebastianbergmann/object-reflector
 License      : BSD
 Descript     : Allows reflection of object attributes, including inherited
@@ -12772,8 +12772,8 @@ Descript     : Allows reflection of object attributes, including inherited
 <summary>php-sebastian-object-reflector2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Allows reflection of object attributes, version 2
+From repo    : fedora
+Short desc   : Allows reflection of object attributes, version 2
 URL          : https://github.com/sebastianbergmann/object-reflector
 License      : BSD
 Descript     : Allows reflection of object attributes, including inherited
@@ -12786,8 +12786,8 @@ Descript     : Allows reflection of object attributes, including inherited
 <summary>php-sebastian-recursion-context</summary>
 
 ```
-From repo     : fedora
-Short desc    : Recursively process PHP variables
+From repo    : fedora
+Short desc   : Recursively process PHP variables
 URL          : https://github.com/sebastianbergmann/recursion-context
 License      : BSD
 Descript     : Provides functionality to recursively process PHP variables.
@@ -12799,8 +12799,8 @@ Descript     : Provides functionality to recursively process PHP variables.
 <summary>php-sebastian-recursion-context3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Recursively process PHP variables
+From repo    : fedora
+Short desc   : Recursively process PHP variables
 URL          : https://github.com/sebastianbergmann/recursion-context
 License      : BSD
 Descript     : Provides functionality to recursively process PHP variables.
@@ -12812,8 +12812,8 @@ Descript     : Provides functionality to recursively process PHP variables.
 <summary>php-sebastian-recursion-context4</summary>
 
 ```
-From repo     : fedora
-Short desc    : Recursively process PHP variables, version 4
+From repo    : fedora
+Short desc   : Recursively process PHP variables, version 4
 URL          : https://github.com/sebastianbergmann/recursion-context
 License      : BSD
 Descript     : Provides functionality to recursively process PHP variables.
@@ -12825,8 +12825,8 @@ Descript     : Provides functionality to recursively process PHP variables.
 <summary>php-sebastian-resource-operations</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provides a list of PHP built-in functions that operate on resources
+From repo    : fedora
+Short desc   : Provides a list of PHP built-in functions that operate on resources
 URL          : https://github.com/sebastianbergmann/resource-operations
 License      : BSD
 Descript     : Provides a list of PHP built-in functions that operate on resources.
@@ -12838,8 +12838,8 @@ Descript     : Provides a list of PHP built-in functions that operate on resourc
 <summary>php-sebastian-resource-operations2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provides a list of PHP built-in functions that operate on resources
+From repo    : fedora
+Short desc   : Provides a list of PHP built-in functions that operate on resources
 URL          : https://github.com/sebastianbergmann/resource-operations
 License      : BSD
 Descript     : Provides a list of PHP built-in functions that operate on resources.
@@ -12855,8 +12855,8 @@ Descript     : Provides a list of PHP built-in functions that operate on resourc
 <summary>php-sebastian-resource-operations3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provides a list of PHP built-in functions that operate on resources, version 3
+From repo    : fedora
+Short desc   : Provides a list of PHP built-in functions that operate on resources, version 3
 URL          : https://github.com/sebastianbergmann/resource-operations
 License      : BSD
 Descript     : Provides a list of PHP built-in functions that operate on resources, version 3.
@@ -12872,8 +12872,8 @@ Descript     : Provides a list of PHP built-in functions that operate on resourc
 <summary>php-sebastian-type</summary>
 
 ```
-From repo     : fedora
-Short desc    : Collection of value objects that represent the types of the PHP type system
+From repo    : fedora
+Short desc   : Collection of value objects that represent the types of the PHP type system
 URL          : https://github.com/sebastianbergmann/type
 License      : BSD
 Descript     : Collection of value objects that represent the types of the PHP type system.
@@ -12885,8 +12885,8 @@ Descript     : Collection of value objects that represent the types of the PHP t
 <summary>php-sebastian-type2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Collection of value objects that represent the types of the PHP type system, version 2
+From repo    : fedora
+Short desc   : Collection of value objects that represent the types of the PHP type system, version 2
 URL          : https://github.com/sebastianbergmann/type
 License      : BSD
 Descript     : Collection of value objects that represent the types of the PHP type system.
@@ -12898,8 +12898,8 @@ Descript     : Collection of value objects that represent the types of the PHP t
 <summary>php-sebastian-version3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Managing the version number of Git-hosted PHP projects, version 3
+From repo    : fedora
+Short desc   : Managing the version number of Git-hosted PHP projects, version 3
 URL          : https://github.com/sebastianbergmann/version
 License      : BSD
 Descript     : Library that helps with managing the version number
@@ -12912,8 +12912,8 @@ Descript     : Library that helps with managing the version number
 <summary>php-seld-phar-utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : PHAR file format utilities
+From repo    : fedora
+Short desc   : PHAR file format utilities
 URL          : https://github.com/Seldaek/phar-utils
 License      : MIT
 Descript     : PHAR file format utilities, for when PHP phars you up.
@@ -12928,8 +12928,8 @@ Descript     : PHAR file format utilities, for when PHP phars you up.
 <summary>php-soap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A module for PHP applications that use the SOAP protocol
+From repo    : updates-testing
+Short desc   : A module for PHP applications that use the SOAP protocol
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-soap package contains a dynamic shared object that will add
@@ -12942,8 +12942,8 @@ Descript     : The php-soap package contains a dynamic shared object that will a
 <summary>php-sodium</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Wrapper for the Sodium cryptographic library
+From repo    : updates-testing
+Short desc   : Wrapper for the Sodium cryptographic library
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-sodium package provides a simple,
@@ -12956,8 +12956,8 @@ Descript     : The php-sodium package provides a simple,
 <summary>php-symfony-browser-kit</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony BrowserKit Component
+From repo    : fedora
+Short desc   : Symfony BrowserKit Component
 URL          : https://symfony.com
 License      : MIT
 Descript     : BrowserKit simulates the behavior of a web browser.
@@ -12972,8 +12972,8 @@ Descript     : BrowserKit simulates the behavior of a web browser.
 <summary>php-symfony-class-loader</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony ClassLoader Component
+From repo    : fedora
+Short desc   : Symfony ClassLoader Component
 URL          : http://symfony.com/doc/2.8/components/class_loader/index.html
 License      : MIT
 Descript     : The ClassLoader Component loads your project classes automatically if they
@@ -13005,8 +13005,8 @@ Descript     : The ClassLoader Component loads your project classes automaticall
 <summary>php-symfony-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony common files
+From repo    : fedora
+Short desc   : Symfony common files
 URL          : https://symfony.com
 License      : MIT
 Descript     : Symfony common files
@@ -13018,8 +13018,8 @@ Descript     : Symfony common files
 <summary>php-symfony-config</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Config Component
+From repo    : fedora
+Short desc   : Symfony Config Component
 URL          : http://symfony.com/doc/2.8/components/config/index.html
 License      : MIT
 Descript     : The Config Component provides several classes to help you find, load, combine,
@@ -13033,8 +13033,8 @@ Descript     : The Config Component provides several classes to help you find, l
 <summary>php-symfony-console</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Console Component
+From repo    : fedora
+Short desc   : Symfony Console Component
 URL          : http://symfony.com/doc/2.8/components/console/index.html
 License      : MIT
 Descript     : The Console component eases the creation of beautiful and testable command line
@@ -13051,8 +13051,8 @@ Descript     : The Console component eases the creation of beautiful and testabl
 <summary>php-symfony-contracts</summary>
 
 ```
-From repo     : fedora
-Short desc    : A set of abstractions extracted out of the Symfony
+From repo    : fedora
+Short desc   : A set of abstractions extracted out of the Symfony
 URL          : https://github.com/symfony/contracts
 License      : MIT
 Descript     : A set of abstractions extracted out of the Symfony components.
@@ -13069,8 +13069,8 @@ Descript     : A set of abstractions extracted out of the Symfony components.
 <summary>php-symfony-css-selector</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony CssSelector Component
+From repo    : fedora
+Short desc   : Symfony CssSelector Component
 URL          : http://symfony.com/doc/2.8/components/css_selector.html
 License      : MIT
 Descript     : The CssSelector Component converts CSS selectors to XPath expressions.
@@ -13082,8 +13082,8 @@ Descript     : The CssSelector Component converts CSS selectors to XPath express
 <summary>php-symfony-debug</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Debug Component
+From repo    : fedora
+Short desc   : Symfony Debug Component
 URL          : http://symfony.com/doc/2.8/components/debug/index.html
 License      : MIT
 Descript     : The Debug Component provides tools to ease debugging PHP code.
@@ -13098,8 +13098,8 @@ Descript     : The Debug Component provides tools to ease debugging PHP code.
 <summary>php-symfony-dependency-injection</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony DependencyInjection Component
+From repo    : fedora
+Short desc   : Symfony DependencyInjection Component
 URL          : http://symfony.com/doc/2.8/components/dependency_injection/index.html
 License      : MIT
 Descript     : The Dependency Injection component allows you to standardize and centralize
@@ -13116,8 +13116,8 @@ Descript     : The Dependency Injection component allows you to standardize and 
 <summary>php-symfony-dom-crawler</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony DomCrawler Component
+From repo    : fedora
+Short desc   : Symfony DomCrawler Component
 URL          : http://symfony.com/doc/2.8/components/dom_crawler.html
 License      : MIT
 Descript     : The DomCrawler Component eases DOM navigation for HTML and XML documents.
@@ -13129,8 +13129,8 @@ Descript     : The DomCrawler Component eases DOM navigation for HTML and XML do
 <summary>php-symfony-event-dispatcher</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony EventDispatcher Component
+From repo    : fedora
+Short desc   : Symfony EventDispatcher Component
 URL          : http://symfony.com/doc/2.8/components/event_dispatcher/index.html
 License      : MIT
 Descript     : The Symfony Event Dispatcher component implements the Observer [1] pattern in
@@ -13146,8 +13146,8 @@ Descript     : The Symfony Event Dispatcher component implements the Observer [1
 <summary>php-symfony-expression-language</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony ExpressionLanguage Component
+From repo    : fedora
+Short desc   : Symfony ExpressionLanguage Component
 URL          : http://symfony.com/doc/2.8/components/expression_language/index.html
 License      : MIT
 Descript     : The ExpressionLanguage component provides an engine that can compile and
@@ -13161,8 +13161,8 @@ Descript     : The ExpressionLanguage component provides an engine that can comp
 <summary>php-symfony-filesystem</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Filesystem Component
+From repo    : fedora
+Short desc   : Symfony Filesystem Component
 URL          : http://symfony.com/doc/2.8/components/filesystem/index.html
 License      : MIT
 Descript     : The Filesystem component provides basic utilities for the filesystem.
@@ -13174,8 +13174,8 @@ Descript     : The Filesystem component provides basic utilities for the filesys
 <summary>php-symfony-finder</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Finder Component
+From repo    : fedora
+Short desc   : Symfony Finder Component
 URL          : http://symfony.com/doc/2.8/components/finder.html
 License      : MIT
 Descript     : The Finder Component finds files and directories via an intuitive fluent
@@ -13188,8 +13188,8 @@ Descript     : The Finder Component finds files and directories via an intuitive
 <summary>php-symfony-http-foundation</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony HttpFoundation Component
+From repo    : fedora
+Short desc   : Symfony HttpFoundation Component
 URL          : http://symfony.com/doc/2.8/components/http_foundation/index.html
 License      : MIT
 Descript     : The HttpFoundation Component defines an object-oriented layer for the HTTP
@@ -13214,8 +13214,8 @@ Descript     : The HttpFoundation Component defines an object-oriented layer for
 <summary>php-symfony-http-kernel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony HttpKernel Component
+From repo    : fedora
+Short desc   : Symfony HttpKernel Component
 URL          : http://symfony.com/doc/2.8/components/http_kernel/index.html
 License      : MIT
 Descript     : The HttpKernel Component provides a structured process for converting a Request
@@ -13241,8 +13241,8 @@ Descript     : The HttpKernel Component provides a structured process for conver
 <summary>php-symfony-intl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Intl Component
+From repo    : fedora
+Short desc   : Symfony Intl Component
 URL          : http://symfony.com/doc/2.8/components/intl.html
 License      : MIT
 Descript     : A PHP replacement layer for the C intl extension [1] that also provides access
@@ -13258,8 +13258,8 @@ Descript     : A PHP replacement layer for the C intl extension [1] that also pr
 <summary>php-symfony-polyfill</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Symfony polyfills backporting features to lower PHP versions
+From repo    : updates-testing
+Short desc   : Symfony polyfills backporting features to lower PHP versions
 URL          : https://github.com/symfony/polyfill
 License      : MIT
 Descript     : Symfony polyfills backporting features to lower PHP versions.
@@ -13273,8 +13273,8 @@ Descript     : Symfony polyfills backporting features to lower PHP versions.
 <summary>php-symfony-process</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Process Component
+From repo    : fedora
+Short desc   : Symfony Process Component
 URL          : http://symfony.com/doc/2.8/components/process.html
 License      : MIT
 Descript     : The Process component executes commands in sub-processes.
@@ -13286,8 +13286,8 @@ Descript     : The Process component executes commands in sub-processes.
 <summary>php-symfony-property-access</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony PropertyAccess Component
+From repo    : fedora
+Short desc   : Symfony PropertyAccess Component
 URL          : http://symfony.com/doc/2.8/components/property_access/index.html
 License      : MIT
 Descript     : The PropertyAccess component provides function to read and write from/to an
@@ -13300,8 +13300,8 @@ Descript     : The PropertyAccess component provides function to read and write 
 <summary>php-symfony-stopwatch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Stopwatch Component
+From repo    : fedora
+Short desc   : Symfony Stopwatch Component
 URL          : http://symfony.com/doc/2.8/components/stopwatch.html
 License      : MIT
 Descript     : Stopwatch component provides a way to profile code.
@@ -13313,8 +13313,8 @@ Descript     : Stopwatch component provides a way to profile code.
 <summary>php-symfony-translation</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Translation Component
+From repo    : fedora
+Short desc   : Symfony Translation Component
 URL          : http://symfony.com/doc/2.8/components/translation/index.html
 License      : MIT
 Descript     : Translation provides tools for loading translation files and generating
@@ -13327,8 +13327,8 @@ Descript     : Translation provides tools for loading translation files and gene
 <summary>php-symfony-validator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Validator Component
+From repo    : fedora
+Short desc   : Symfony Validator Component
 URL          : https://symfony.com
 License      : MIT
 Descript     : This component is based on the JSR-303 Bean Validation specification and
@@ -13345,8 +13345,8 @@ Descript     : This component is based on the JSR-303 Bean Validation specificat
 <summary>php-symfony-var-dumper</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony mechanism for exploring and dumping PHP variables
+From repo    : fedora
+Short desc   : Symfony mechanism for exploring and dumping PHP variables
 URL          : http://symfony.com/doc/2.8/components/var_dumper/index.html
 License      : MIT
 Descript     : This component provides a mechanism that allows exploring then dumping any PHP
@@ -13374,8 +13374,8 @@ Descript     : This component provides a mechanism that allows exploring then du
 <summary>php-symfony-yaml</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Yaml Component
+From repo    : fedora
+Short desc   : Symfony Yaml Component
 URL          : http://symfony.com/doc/2.8/components/yaml/index.html
 License      : MIT
 Descript     : The YAML Component loads and dumps YAML files.
@@ -13387,8 +13387,8 @@ Descript     : The YAML Component loads and dumps YAML files.
 <summary>php-symfony3-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony common (version 3)
+From repo    : fedora
+Short desc   : Symfony common (version 3)
 URL          : https://symfony.com
 License      : MIT and CC-BY-SA
 Descript     : Symfony common (version 3).
@@ -13400,8 +13400,8 @@ Descript     : Symfony common (version 3).
 <summary>php-symfony3-console</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Console Component (version 3)
+From repo    : fedora
+Short desc   : Symfony Console Component (version 3)
 URL          : http://symfony.com/doc/3.4/components/console.html
 License      : MIT and CC-BY-SA
 Descript     : The Console component eases the creation of beautiful and testable command line
@@ -13420,8 +13420,8 @@ Descript     : The Console component eases the creation of beautiful and testabl
 <summary>php-symfony3-debug</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Debug Component (version 3)
+From repo    : fedora
+Short desc   : Symfony Debug Component (version 3)
 URL          : http://symfony.com/doc/3.4/components/debug.html
 License      : MIT and CC-BY-SA
 Descript     : The Debug Component provides tools to ease debugging PHP code.
@@ -13435,8 +13435,8 @@ Descript     : The Debug Component provides tools to ease debugging PHP code.
 <summary>php-symfony3-event-dispatcher</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony EventDispatcher Component (version 3)
+From repo    : fedora
+Short desc   : Symfony EventDispatcher Component (version 3)
 URL          : http://symfony.com/doc/3.4/components/event_dispatcher.html
 License      : MIT and CC-BY-SA
 Descript     : The Symfony Event Dispatcher component implements the Observer [1] pattern in
@@ -13454,8 +13454,8 @@ Descript     : The Symfony Event Dispatcher component implements the Observer [1
 <summary>php-symfony3-filesystem</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Filesystem Component (version 3)
+From repo    : fedora
+Short desc   : Symfony Filesystem Component (version 3)
 URL          : http://symfony.com/doc/3.4/components/filesystem.html
 License      : MIT and CC-BY-SA
 Descript     : The Filesystem component provides basic utilities for the filesystem.
@@ -13469,8 +13469,8 @@ Descript     : The Filesystem component provides basic utilities for the filesys
 <summary>php-symfony3-finder</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Finder Component (version 3)
+From repo    : fedora
+Short desc   : Symfony Finder Component (version 3)
 URL          : http://symfony.com/doc/3.4/components/finder.html
 License      : MIT and CC-BY-SA
 Descript     : The Finder Component finds files and directories via an intuitive fluent
@@ -13485,8 +13485,8 @@ Descript     : The Finder Component finds files and directories via an intuitive
 <summary>php-symfony3-options-resolver</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony OptionsResolver Component (version 3)
+From repo    : fedora
+Short desc   : Symfony OptionsResolver Component (version 3)
 URL          : http://symfony.com/doc/3.4/components/options_resolver.html
 License      : MIT and CC-BY-SA
 Descript     : The OptionsResolver Component helps you configure objects with option arrays.
@@ -13501,8 +13501,8 @@ Descript     : The OptionsResolver Component helps you configure objects with op
 <summary>php-symfony3-process</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Process Component (version 3)
+From repo    : fedora
+Short desc   : Symfony Process Component (version 3)
 URL          : http://symfony.com/doc/3.4/components/process.html
 License      : MIT and CC-BY-SA
 Descript     : The Process component executes commands in sub-processes.
@@ -13516,8 +13516,8 @@ Descript     : The Process component executes commands in sub-processes.
 <summary>php-symfony3-stopwatch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symfony Stopwatch Component (version 3)
+From repo    : fedora
+Short desc   : Symfony Stopwatch Component (version 3)
 URL          : http://symfony.com/doc/3.4/components/stopwatch.html
 License      : MIT and CC-BY-SA
 Descript     : Stopwatch component provides a way to profile code.
@@ -13531,8 +13531,8 @@ Descript     : Stopwatch component provides a way to profile code.
 <summary>php-symfony4-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Symfony common (version 4)
+From repo    : updates-testing
+Short desc   : Symfony common (version 4)
 URL          : https://symfony.com
 License      : MIT
 Descript     : Symfony common (version 4).
@@ -13544,8 +13544,8 @@ Descript     : Symfony common (version 4).
 <summary>php-symfony4-console</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Symfony Console Component (version 4)
+From repo    : updates-testing
+Short desc   : Symfony Console Component (version 4)
 URL          : http://symfony.com/doc/4.4/components/console.html
 License      : MIT
 Descript     : The Console component eases the creation of beautiful and testable command line
@@ -13564,8 +13564,8 @@ Descript     : The Console component eases the creation of beautiful and testabl
 <summary>php-symfony4-debug</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Symfony Debug Component (version 4)
+From repo    : updates-testing
+Short desc   : Symfony Debug Component (version 4)
 URL          : http://symfony.com/doc/4.4/components/debug.html
 License      : MIT
 Descript     : The Debug Component provides tools to ease debugging PHP code.
@@ -13579,8 +13579,8 @@ Descript     : The Debug Component provides tools to ease debugging PHP code.
 <summary>php-symfony4-filesystem</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Symfony Filesystem Component (version 4)
+From repo    : updates-testing
+Short desc   : Symfony Filesystem Component (version 4)
 URL          : http://symfony.com/doc/4.4/components/filesystem.html
 License      : MIT
 Descript     : The Filesystem component provides basic utilities for the filesystem.
@@ -13594,8 +13594,8 @@ Descript     : The Filesystem component provides basic utilities for the filesys
 <summary>php-symfony4-finder</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Symfony Finder Component (version 4)
+From repo    : updates-testing
+Short desc   : Symfony Finder Component (version 4)
 URL          : http://symfony.com/doc/4.4/components/finder.html
 License      : MIT
 Descript     : The Finder Component finds files and directories via an intuitive fluent
@@ -13610,8 +13610,8 @@ Descript     : The Finder Component finds files and directories via an intuitive
 <summary>php-symfony4-process</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Symfony Process Component (version 4)
+From repo    : updates-testing
+Short desc   : Symfony Process Component (version 4)
 URL          : http://symfony.com/doc/4.4/components/process.html
 License      : MIT
 Descript     : The Process component executes commands in sub-processes.
@@ -13625,8 +13625,8 @@ Descript     : The Process component executes commands in sub-processes.
 <summary>php-symfony4-yaml</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Symfony Yaml Component (version 4)
+From repo    : updates-testing
+Short desc   : Symfony Yaml Component (version 4)
 URL          : http://symfony.com/doc/4.4/components/yaml.html
 License      : MIT
 Descript     : The YAML Component loads and dumps YAML files.
@@ -13640,8 +13640,8 @@ Descript     : The YAML Component loads and dumps YAML files.
 <summary>php-theseer-tokenizer</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for converting tokenized PHP source code into XML
+From repo    : fedora
+Short desc   : Library for converting tokenized PHP source code into XML
 URL          : https://github.com/theseer/tokenizer
 License      : BSD
 Descript     : A small library for converting tokenized PHP source code into XML
@@ -13656,8 +13656,8 @@ Descript     : A small library for converting tokenized PHP source code into XML
 <summary>php-twig</summary>
 
 ```
-From repo     : fedora
-Short desc    : The flexible, fast, and secure template engine for PHP
+From repo    : fedora
+Short desc   : The flexible, fast, and secure template engine for PHP
 URL          : http://twig.sensiolabs.org
 License      : BSD
 Descript     : The flexible, fast, and secure template engine for PHP.
@@ -13682,8 +13682,8 @@ Descript     : The flexible, fast, and secure template engine for PHP.
 <summary>php-vlucas-phpdotenv</summary>
 
 ```
-From repo     : fedora
-Short desc    : Loads environment variables from .env
+From repo    : fedora
+Short desc   : Loads environment variables from .env
 URL          : https://github.com/vlucas/phpdotenv
 License      : BSD
 Descript     : Loads environment variables from .env to getenv(), $_ENV and $_SERVER
@@ -13702,8 +13702,8 @@ Descript     : Loads environment variables from .env to getenv(), $_ENV and $_SE
 <summary>php-webmozart-assert</summary>
 
 ```
-From repo     : fedora
-Short desc    : Assertions to validate method input/output with nice error messages
+From repo    : fedora
+Short desc   : Assertions to validate method input/output with nice error messages
 URL          : https://github.com/webmozart/assert
 License      : MIT
 Descript     : This library contains efficient assertions to test the input and output of your
@@ -13722,8 +13722,8 @@ Descript     : This library contains efficient assertions to test the input and 
 <summary>php-whitehat101-apr1-md5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Apache's APR1-MD5 algorithm in pure PHP
+From repo    : fedora
+Short desc   : Apache's APR1-MD5 algorithm in pure PHP
 URL          : https://github.com/whitehat101/apr1-md5
 License      : MIT
 Descript     : A tested, referenced, documented, and packaged implementation of Apache's APR1
@@ -13736,8 +13736,8 @@ Descript     : A tested, referenced, documented, and packaged implementation of 
 <summary>php-xml</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A module for PHP applications which use XML
+From repo    : updates-testing
+Short desc   : A module for PHP applications which use XML
 URL          : http://www.php.net/
 License      : PHP
 Descript     : The php-xml package contains dynamic shared objects which add support
@@ -13751,8 +13751,8 @@ Descript     : The php-xml package contains dynamic shared objects which add sup
 <summary>php-xmlrpc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A module for PHP applications which use the XML-RPC protocol
+From repo    : updates-testing
+Short desc   : A module for PHP applications which use the XML-RPC protocol
 URL          : http://www.php.net/
 License      : PHP and BSD
 Descript     : The php-xmlrpc package contains a dynamic shared object that will add
@@ -13767,8 +13767,8 @@ Descript     : The php-xmlrpc package contains a dynamic shared object that will
 <summary>php-zetacomponents-base</summary>
 
 ```
-From repo     : fedora
-Short desc    : Zeta Base Component
+From repo    : fedora
+Short desc   : Zeta Base Component
 URL          : http://zetacomponents.org/
 License      : ASL 2.0
 Descript     : This is the base package of the Zeta components, offering the basic
@@ -13782,8 +13782,8 @@ Descript     : This is the base package of the Zeta components, offering the bas
 <summary>php-zetacomponents-document</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provides a general conversion framework for different documents
+From repo    : fedora
+Short desc   : Provides a general conversion framework for different documents
 URL          : http://zetacomponents.org/
 License      : ASL 2.0
 Descript     : The document component offers transformations between different semantic markup
@@ -13819,8 +13819,8 @@ Descript     : The document component offers transformations between different s
 <summary>phpdoc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation generator for PHP
+From repo    : fedora
+Short desc   : Documentation generator for PHP
 URL          : http://www.phpdoc.org
 License      : MIT and ASL 2.0 and BSD and CC-BY and (DWPL and MIT) and (MIT and GPLv2) and (MIT and GPLv2 and Public Domain and CC-BY) and (MIT and GPLv3) and (MIT or GPLv2) and OFL
 Descript     : phpDocumentor is an application that is capable of analyzing your PHP source
@@ -13856,8 +13856,8 @@ Descript     : phpDocumentor is an application that is capable of analyzing your
 <summary>phpunit8</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The PHP Unit Testing framework version 8
+From repo    : updates-testing
+Short desc   : The PHP Unit Testing framework version 8
 URL          : https://github.com/sebastianbergmann/phpunit
 License      : BSD
 Descript     : PHPUnit is a programmer-oriented testing framework for PHP.
@@ -13875,8 +13875,8 @@ Descript     : PHPUnit is a programmer-oriented testing framework for PHP.
 <summary>phpunit9</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The PHP Unit Testing framework version 9
+From repo    : updates-testing
+Short desc   : The PHP Unit Testing framework version 9
 URL          : https://github.com/%{gh_vendor}/phpunit
 License      : BSD
 Descript     : PHPUnit is a programmer-oriented testing framework for PHP.
@@ -13894,8 +13894,8 @@ Descript     : PHPUnit is a programmer-oriented testing framework for PHP.
 <summary>physfs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library to provide abstract access to various archives
+From repo    : fedora
+Short desc   : Library to provide abstract access to various archives
 URL          : http://www.icculus.org/physfs/
 License      : zlib
 Descript     : PhysicsFS is a library to provide abstract access to various archives. It is
@@ -13921,8 +13921,8 @@ Descript     : PhysicsFS is a library to provide abstract access to various arch
 <summary>pigz</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Parallel implementation of gzip
+From repo    : anaconda
+Short desc   : Parallel implementation of gzip
 URL          : https://www.zlib.net/pigz/
 License      : zlib
 Descript     : pigz, which stands for parallel implementation of gzip,
@@ -13937,8 +13937,8 @@ Descript     : pigz, which stands for parallel implementation of gzip,
 <summary>pinentry</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Collection of simple PIN or passphrase entry dialogs
+From repo    : anaconda
+Short desc   : Collection of simple PIN or passphrase entry dialogs
 URL          : https://www.gnupg.org/
 License      : GPLv2+
 Descript     : Pinentry is a collection of simple PIN or passphrase entry dialogs which
@@ -13953,8 +13953,8 @@ Descript     : Pinentry is a collection of simple PIN or passphrase entry dialog
 <summary>pinentry-gnome3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Passphrase/PIN entry dialog for GNOME 3
+From repo    : anaconda
+Short desc   : Passphrase/PIN entry dialog for GNOME 3
 URL          : https://www.gnupg.org/
 License      : GPLv2+
 Descript     : Pinentry is a collection of simple PIN or passphrase entry dialogs which
@@ -13969,8 +13969,8 @@ Descript     : Pinentry is a collection of simple PIN or passphrase entry dialog
 <summary>pinfo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An info file viewer
+From repo    : anaconda
+Short desc   : An info file viewer
 URL          : http://pinfo.alioth.debian.org
 License      : GPLv2
 Descript     : Pinfo is an info file (or man page) viewer with a user interface
@@ -13984,8 +13984,8 @@ Descript     : Pinfo is an info file (or man page) viewer with a user interface
 <summary>pipewire</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Media Sharing Server
+From repo    : updates-testing
+Short desc   : Media Sharing Server
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : PipeWire is a multimedia server for Linux and other Unix like operating
@@ -13998,8 +13998,8 @@ Descript     : PipeWire is a multimedia server for Linux and other Unix like ope
 <summary>pipewire-alsa</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PipeWire media server ALSA support
+From repo    : updates-testing
+Short desc   : PipeWire media server ALSA support
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : This package contains an ALSA plugin for the PipeWire media server.
@@ -14011,8 +14011,8 @@ Descript     : This package contains an ALSA plugin for the PipeWire media serve
 <summary>pipewire-gstreamer</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GStreamer elements for PipeWire
+From repo    : anaconda
+Short desc   : GStreamer elements for PipeWire
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : This package contains GStreamer elements to interface with a
@@ -14025,8 +14025,8 @@ Descript     : This package contains GStreamer elements to interface with a
 <summary>pipewire-gstreamer</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GStreamer elements for PipeWire
+From repo    : updates-testing
+Short desc   : GStreamer elements for PipeWire
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : This package contains GStreamer elements to interface with a
@@ -14039,8 +14039,8 @@ Descript     : This package contains GStreamer elements to interface with a
 <summary>pipewire-jack-audio-connection-kit</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PipeWire JACK implementation
+From repo    : updates-testing
+Short desc   : PipeWire JACK implementation
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : This package provides a JACK implementation based on PipeWire
@@ -14052,8 +14052,8 @@ Descript     : This package provides a JACK implementation based on PipeWire
 <summary>pipewire-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for PipeWire clients
+From repo    : anaconda
+Short desc   : Libraries for PipeWire clients
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : This package contains the runtime libraries for any application that wishes
@@ -14066,8 +14066,8 @@ Descript     : This package contains the runtime libraries for any application t
 <summary>pipewire-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for PipeWire clients
+From repo    : updates-testing
+Short desc   : Libraries for PipeWire clients
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : This package contains the runtime libraries for any application that wishes
@@ -14080,8 +14080,8 @@ Descript     : This package contains the runtime libraries for any application t
 <summary>pipewire-pulseaudio</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PipeWire PulseAudio implementation
+From repo    : anaconda
+Short desc   : PipeWire PulseAudio implementation
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : This package provides a PulseAudio implementation based on PipeWire
@@ -14093,8 +14093,8 @@ Descript     : This package provides a PulseAudio implementation based on PipeWi
 <summary>pipewire-pulseaudio</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PipeWire PulseAudio implementation
+From repo    : updates-testing
+Short desc   : PipeWire PulseAudio implementation
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : This package provides a PulseAudio implementation based on PipeWire
@@ -14106,8 +14106,8 @@ Descript     : This package provides a PulseAudio implementation based on PipeWi
 <summary>pipewire-utils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PipeWire media server utilities
+From repo    : updates-testing
+Short desc   : PipeWire media server utilities
 URL          : https://pipewire.org/
 License      : MIT
 Descript     : This package contains command line utilities for the PipeWire media server.
@@ -14119,8 +14119,8 @@ Descript     : This package contains command line utilities for the PipeWire med
 <summary>pipewire0.2-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Compatibility Libraries for PipeWire clients
+From repo    : anaconda
+Short desc   : Compatibility Libraries for PipeWire clients
 URL          : https://pipewire.org/
 License      : LGPLv2+
 Descript     : This package contains the runtime libraries for any application that wishes
@@ -14133,8 +14133,8 @@ Descript     : This package contains the runtime libraries for any application t
 <summary>pixman</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Pixel manipulation library
+From repo    : anaconda
+Short desc   : Pixel manipulation library
 URL          : https://gitlab.freedesktop.org/pixman/pixman
 License      : MIT
 Descript     : Pixman is a pixel manipulation library for X and Cairo.
@@ -14146,8 +14146,8 @@ Descript     : Pixman is a pixel manipulation library for X and Cairo.
 <summary>pixman-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pixel manipulation library development package
+From repo    : fedora
+Short desc   : Pixel manipulation library development package
 URL          : https://gitlab.freedesktop.org/pixman/pixman
 License      : MIT
 Descript     : Development library for pixman.
@@ -14159,8 +14159,8 @@ Descript     : Development library for pixman.
 <summary>pkcs11-helper</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for using PKCS#11 providers
+From repo    : anaconda
+Short desc   : A library for using PKCS#11 providers
 URL          : http://www.opensc-project.org/opensc/wiki/pkcs11-helper
 License      : GPLv2 or BSD
 Descript     : pkcs11-helper is a library that simplifies the interaction with PKCS#11
@@ -14178,8 +14178,8 @@ Descript     : pkcs11-helper is a library that simplifies the interaction with P
 <summary>pkgconf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Package compiler and linker metadata toolkit
+From repo    : anaconda
+Short desc   : Package compiler and linker metadata toolkit
 URL          : http://pkgconf.org/
 License      : ISC
 Descript     : pkgconf is a program which helps to configure compiler and linker flags
@@ -14193,8 +14193,8 @@ Descript     : pkgconf is a program which helps to configure compiler and linker
 <summary>pkgconf-m4</summary>
 
 ```
-From repo     : anaconda
-Short desc    : m4 macros for pkgconf
+From repo    : anaconda
+Short desc   : m4 macros for pkgconf
 URL          : http://pkgconf.org/
 License      : GPLv2+ with exceptions
 Descript     : This package includes m4 macros used to support PKG_CHECK_MODULES
@@ -14207,8 +14207,8 @@ Descript     : This package includes m4 macros used to support PKG_CHECK_MODULES
 <summary>pkgconf-pkg-config</summary>
 
 ```
-From repo     : anaconda
-Short desc    : pkgconf shim to provide /usr/bin/pkg-config
+From repo    : anaconda
+Short desc   : pkgconf shim to provide /usr/bin/pkg-config
 URL          : http://pkgconf.org/
 License      : ISC
 Descript     : This package provides the shim links for pkgconf to be automatically
@@ -14222,8 +14222,8 @@ Descript     : This package provides the shim links for pkgconf to be automatica
 <summary>plymouth</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Graphical Boot Animation and Logger
+From repo    : anaconda
+Short desc   : Graphical Boot Animation and Logger
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : Plymouth provides an attractive graphical boot animation in
@@ -14238,8 +14238,8 @@ Descript     : Plymouth provides an attractive graphical boot animation in
 <summary>plymouth</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Graphical Boot Animation and Logger
+From repo    : updates-testing
+Short desc   : Graphical Boot Animation and Logger
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : Plymouth provides an attractive graphical boot animation in
@@ -14254,8 +14254,8 @@ Descript     : Plymouth provides an attractive graphical boot animation in
 <summary>plymouth-core-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plymouth core libraries
+From repo    : anaconda
+Short desc   : Plymouth core libraries
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the core libraries used by Plymouth.
@@ -14267,8 +14267,8 @@ Descript     : This package contains the core libraries used by Plymouth.
 <summary>plymouth-core-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth core libraries
+From repo    : updates-testing
+Short desc   : Plymouth core libraries
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the core libraries used by Plymouth.
@@ -14280,8 +14280,8 @@ Descript     : This package contains the core libraries used by Plymouth.
 <summary>plymouth-graphics-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plymouth graphics libraries
+From repo    : anaconda
+Short desc   : Plymouth graphics libraries
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the libraries used by graphical Plymouth splashes.
@@ -14293,8 +14293,8 @@ Descript     : This package contains the libraries used by graphical Plymouth sp
 <summary>plymouth-graphics-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth graphics libraries
+From repo    : updates-testing
+Short desc   : Plymouth graphics libraries
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the libraries used by graphical Plymouth splashes.
@@ -14306,8 +14306,8 @@ Descript     : This package contains the libraries used by graphical Plymouth sp
 <summary>plymouth-kcm</summary>
 
 ```
-From repo     : fedora
-Short desc    : Plymouth configuration module for systemsettings
+From repo    : fedora
+Short desc   : Plymouth configuration module for systemsettings
 URL          : https://cgit.kde.org/plymouth-kcm.git
 License      : GPLv2+
 Descript     : This is a System Settings configuration module for configuring the
@@ -14320,8 +14320,8 @@ Descript     : This is a System Settings configuration module for configuring th
 <summary>plymouth-plugin-fade-throbber</summary>
 
 ```
-From repo     : fedora
-Short desc    : Plymouth "Fade-Throbber" plugin
+From repo    : fedora
+Short desc   : Plymouth "Fade-Throbber" plugin
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "Fade-In" boot splash plugin for
@@ -14335,8 +14335,8 @@ Descript     : This package contains the "Fade-In" boot splash plugin for
 <summary>plymouth-plugin-label</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plymouth label plugin
+From repo    : anaconda
+Short desc   : Plymouth label plugin
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the label control plugin for Plymouth.
@@ -14349,8 +14349,8 @@ Descript     : This package contains the label control plugin for Plymouth.
 <summary>plymouth-plugin-label</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth label plugin
+From repo    : updates-testing
+Short desc   : Plymouth label plugin
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the label control plugin for Plymouth.
@@ -14363,8 +14363,8 @@ Descript     : This package contains the label control plugin for Plymouth.
 <summary>plymouth-plugin-script</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth "script" plugin
+From repo    : updates-testing
+Short desc   : Plymouth "script" plugin
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "script" boot splash plugin for
@@ -14379,8 +14379,8 @@ Descript     : This package contains the "script" boot splash plugin for
 <summary>plymouth-plugin-space-flares</summary>
 
 ```
-From repo     : fedora
-Short desc    : Plymouth "space-flares" plugin
+From repo    : fedora
+Short desc   : Plymouth "space-flares" plugin
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "space-flares" boot splash plugin for
@@ -14393,8 +14393,8 @@ Descript     : This package contains the "space-flares" boot splash plugin for
 <summary>plymouth-plugin-two-step</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plymouth "two-step" plugin
+From repo    : anaconda
+Short desc   : Plymouth "two-step" plugin
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "two-step" boot splash plugin for
@@ -14409,8 +14409,8 @@ Descript     : This package contains the "two-step" boot splash plugin for
 <summary>plymouth-plugin-two-step</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth "two-step" plugin
+From repo    : updates-testing
+Short desc   : Plymouth "two-step" plugin
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "two-step" boot splash plugin for
@@ -14425,8 +14425,8 @@ Descript     : This package contains the "two-step" boot splash plugin for
 <summary>plymouth-scripts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plymouth related scripts
+From repo    : anaconda
+Short desc   : Plymouth related scripts
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains scripts that help integrate Plymouth with
@@ -14439,8 +14439,8 @@ Descript     : This package contains scripts that help integrate Plymouth with
 <summary>plymouth-scripts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth related scripts
+From repo    : updates-testing
+Short desc   : Plymouth related scripts
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains scripts that help integrate Plymouth with
@@ -14453,8 +14453,8 @@ Descript     : This package contains scripts that help integrate Plymouth with
 <summary>plymouth-system-theme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth default theme
+From repo    : updates-testing
+Short desc   : Plymouth default theme
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This meta-package tracks the current distribution default theme.
@@ -14466,8 +14466,8 @@ Descript     : This meta-package tracks the current distribution default theme.
 <summary>plymouth-theme-breeze</summary>
 
 ```
-From repo     : fedora
-Short desc    : Breeze theme for Plymouth
+From repo    : fedora
+Short desc   : Breeze theme for Plymouth
 URL          : https://cgit.kde.org/plymouth-theme-breeze.git
 License      : GPLv3
 Descript     : Breeze theme for Plymouth.
@@ -14479,8 +14479,8 @@ Descript     : Breeze theme for Plymouth.
 <summary>plymouth-theme-charge</summary>
 
 ```
-From repo     : fedora
-Short desc    : Plymouth "Charge" plugin
+From repo    : fedora
+Short desc   : Plymouth "Charge" plugin
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "charge" boot splash theme for
@@ -14494,8 +14494,8 @@ Descript     : This package contains the "charge" boot splash theme for
 <summary>plymouth-theme-fade-in</summary>
 
 ```
-From repo     : fedora
-Short desc    : Plymouth "Fade-In" theme
+From repo    : fedora
+Short desc   : Plymouth "Fade-In" theme
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "Fade-In" boot splash theme for
@@ -14509,8 +14509,8 @@ Descript     : This package contains the "Fade-In" boot splash theme for
 <summary>plymouth-theme-hot-dog</summary>
 
 ```
-From repo     : fedora
-Short desc    : Plymouth Happy Hot Dog Theme
+From repo    : fedora
+Short desc   : Plymouth Happy Hot Dog Theme
 URL          : http://wwoods.fedorapeople.org/hot-dog/
 License      : CC-BY-SA
 Descript     : This package contains the Happy Hot Dog boot splash theme for Plymouth.
@@ -14523,8 +14523,8 @@ Descript     : This package contains the Happy Hot Dog boot splash theme for Ply
 <summary>plymouth-theme-script</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth "Script" plugin
+From repo    : updates-testing
+Short desc   : Plymouth "Script" plugin
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "script" boot splash theme for
@@ -14538,8 +14538,8 @@ Descript     : This package contains the "script" boot splash theme for
 <summary>plymouth-theme-solar</summary>
 
 ```
-From repo     : fedora
-Short desc    : Plymouth "Solar" theme
+From repo    : fedora
+Short desc   : Plymouth "Solar" theme
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "Solar" boot splash theme for
@@ -14552,8 +14552,8 @@ Descript     : This package contains the "Solar" boot splash theme for
 <summary>plymouth-theme-spinfinity</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth "Spinfinity" theme
+From repo    : updates-testing
+Short desc   : Plymouth "Spinfinity" theme
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "Spinfinity" boot splash theme for
@@ -14567,8 +14567,8 @@ Descript     : This package contains the "Spinfinity" boot splash theme for
 <summary>plymouth-theme-spinner</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plymouth "Spinner" theme
+From repo    : anaconda
+Short desc   : Plymouth "Spinner" theme
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "spinner" boot splash theme for
@@ -14581,8 +14581,8 @@ Descript     : This package contains the "spinner" boot splash theme for
 <summary>plymouth-theme-spinner</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plymouth "Spinner" theme
+From repo    : updates-testing
+Short desc   : Plymouth "Spinner" theme
 URL          : http://www.freedesktop.org/wiki/Software/Plymouth
 License      : GPLv2+
 Descript     : This package contains the "spinner" boot splash theme for
@@ -14595,8 +14595,8 @@ Descript     : This package contains the "spinner" boot splash theme for
 <summary>pocl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Portable Computing Language - an OpenCL implementation
+From repo    : fedora
+Short desc   : Portable Computing Language - an OpenCL implementation
 URL          : http://portablecl.org/
 License      : MIT and BSD and (GPLv3+ or LGPLv3+)
 Descript     : Pocl's goal is to become an efficient open source (MIT-licensed) implementation
@@ -14621,8 +14621,8 @@ Descript     : Pocl's goal is to become an efficient open source (MIT-licensed) 
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Manage Pods, Containers and Container Images
+From repo    : updates-testing
+Short desc   : Manage Pods, Containers and Container Images
 URL          : https://podman.io/
 License      : ASL 2.0
 Descript     : podman (Pod Manager) is a fully featured container engine that is a simple
@@ -14647,8 +14647,8 @@ Descript     : podman (Pod Manager) is a fully featured container engine that is
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Plugins for podman
+From repo    : anaconda
+Short desc   : Plugins for podman
 URL          : https://podman.io/
 License      : ASL 2.0
 Descript     : This plugin sets up the use of dnsmasq on a given CNI network so
@@ -14666,8 +14666,8 @@ Descript     : This plugin sets up the use of dnsmasq on a given CNI network so
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Plugins for podman
+From repo    : updates-testing
+Short desc   : Plugins for podman
 URL          : https://podman.io/
 License      : ASL 2.0
 Descript     : This plugin sets up the use of dnsmasq on a given CNI network so
@@ -14684,8 +14684,8 @@ Descript     : This plugin sets up the use of dnsmasq on a given CNI network so
 <summary>policycoreutils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SELinux policy core utilities
+From repo    : anaconda
+Short desc   : SELinux policy core utilities
 URL          : https://github.com/SELinuxProject/selinux
 License      : GPLv2
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
@@ -14710,8 +14710,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>policycoreutils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux policy core utilities
+From repo    : updates-testing
+Short desc   : SELinux policy core utilities
 URL          : https://github.com/SELinuxProject/selinux
 License      : GPLv2
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
@@ -14736,8 +14736,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>policycoreutils-python-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SELinux policy core python utilities
+From repo    : anaconda
+Short desc   : SELinux policy core python utilities
 URL          : https://github.com/SELinuxProject/selinux
 License      : GPLv2
 Descript     : The policycoreutils-python-utils package contains the management tools use to manage
@@ -14750,8 +14750,8 @@ Descript     : The policycoreutils-python-utils package contains the management 
 <summary>policycoreutils-python-utils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux policy core python utilities
+From repo    : updates-testing
+Short desc   : SELinux policy core python utilities
 URL          : https://github.com/SELinuxProject/selinux
 License      : GPLv2
 Descript     : The policycoreutils-python-utils package contains the management tools use to manage
@@ -14764,8 +14764,8 @@ Descript     : The policycoreutils-python-utils package contains the management 
 <summary>polkit</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An authorization framework
+From repo    : anaconda
+Short desc   : An authorization framework
 URL          : http://www.freedesktop.org/wiki/Software/polkit
 License      : LGPLv2+
 Descript     : polkit is a toolkit for defining and handling authorizations.  It is
@@ -14779,8 +14779,8 @@ Descript     : polkit is a toolkit for defining and handling authorizations.  It
 <summary>polkit-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for polkit
+From repo    : anaconda
+Short desc   : Libraries for polkit
 URL          : http://www.freedesktop.org/wiki/Software/polkit
 License      : LGPLv2+
 Descript     : Libraries files for polkit.
@@ -14792,8 +14792,8 @@ Descript     : Libraries files for polkit.
 <summary>polkit-pkla-compat</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Rules for polkit to add compatibility with pklocalauthority
+From repo    : anaconda
+Short desc   : Rules for polkit to add compatibility with pklocalauthority
 URL          : https://pagure.io/polkit-pkla-compat
 License      : LGPLv2+
 Descript     : A polkit JavaScript rule and associated helpers that mostly provide
@@ -14807,8 +14807,8 @@ Descript     : A polkit JavaScript rule and associated helpers that mostly provi
 <summary>polkit-qt5-1</summary>
 
 ```
-From repo     : fedora
-Short desc    : PolicyKit Qt5 bindings
+From repo    : fedora
+Short desc   : PolicyKit Qt5 bindings
 URL          : https://api.kde.org/kdesupport-api/polkit-qt-1-apidocs/
 License      : GPLv2+
 Descript     : Polkit-qt is a library that lets developers use the PolicyKit API
@@ -14821,8 +14821,8 @@ Descript     : Polkit-qt is a library that lets developers use the PolicyKit API
 <summary>poppler</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PDF rendering library
+From repo    : anaconda
+Short desc   : PDF rendering library
 URL          : http://poppler.freedesktop.org/
 License      : (GPLv2 or GPLv3) and GPLv2+ and LGPLv2+ and MIT
 Descript     : poppler is a PDF rendering library.
@@ -14834,8 +14834,8 @@ Descript     : poppler is a PDF rendering library.
 <summary>poppler</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PDF rendering library
+From repo    : updates-testing
+Short desc   : PDF rendering library
 URL          : http://poppler.freedesktop.org/
 License      : (GPLv2 or GPLv3) and GPLv2+ and LGPLv2+ and MIT
 Descript     : poppler is a PDF rendering library.
@@ -14847,8 +14847,8 @@ Descript     : poppler is a PDF rendering library.
 <summary>poppler-cpp</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Pure C++ wrapper for poppler
+From repo    : updates-testing
+Short desc   : Pure C++ wrapper for poppler
 URL          : http://poppler.freedesktop.org/
 License      : (GPLv2 or GPLv3) and GPLv2+ and LGPLv2+ and MIT
 Descript     : Pure C++ wrapper for poppler.
@@ -14860,8 +14860,8 @@ Descript     : Pure C++ wrapper for poppler.
 <summary>poppler-data</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Encoding files for use with poppler
+From repo    : anaconda
+Short desc   : Encoding files for use with poppler
 URL          : https://poppler.freedesktop.org/
 License      : BSD and GPLv2
 Descript     : This package consists of encoding files for use with poppler. The encoding
@@ -14877,8 +14877,8 @@ Descript     : This package consists of encoding files for use with poppler. The
 <summary>poppler-glib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Glib wrapper for poppler
+From repo    : anaconda
+Short desc   : Glib wrapper for poppler
 URL          : http://poppler.freedesktop.org/
 License      : (GPLv2 or GPLv3) and GPLv2+ and LGPLv2+ and MIT
 Descript     : Glib wrapper for poppler.
@@ -14890,8 +14890,8 @@ Descript     : Glib wrapper for poppler.
 <summary>poppler-glib</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Glib wrapper for poppler
+From repo    : updates-testing
+Short desc   : Glib wrapper for poppler
 URL          : http://poppler.freedesktop.org/
 License      : (GPLv2 or GPLv3) and GPLv2+ and LGPLv2+ and MIT
 Descript     : Glib wrapper for poppler.
@@ -14903,8 +14903,8 @@ Descript     : Glib wrapper for poppler.
 <summary>poppler-utils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Command line utilities for converting PDF files
+From repo    : updates-testing
+Short desc   : Command line utilities for converting PDF files
 URL          : http://poppler.freedesktop.org/
 License      : (GPLv2 or GPLv3) and GPLv2+ and LGPLv2+ and MIT
 Descript     : Command line tools for manipulating PDF files and converting them to
@@ -14917,8 +14917,8 @@ Descript     : Command line tools for manipulating PDF files and converting them
 <summary>popt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C library for parsing command line parameters
+From repo    : anaconda
+Short desc   : C library for parsing command line parameters
 URL          : https://github.com/rpm-software-management/popt/
 License      : MIT
 Descript     : Popt is a C library for parsing command line parameters. Popt was
@@ -14937,8 +14937,8 @@ Descript     : Popt is a C library for parsing command line parameters. Popt was
 <summary>popt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C library for parsing command line parameters
+From repo    : updates-testing
+Short desc   : C library for parsing command line parameters
 URL          : https://github.com/rpm-software-management/popt/
 License      : MIT
 Descript     : Popt is a C library for parsing command line parameters. Popt was
@@ -14957,8 +14957,8 @@ Descript     : Popt is a C library for parsing command line parameters. Popt was
 <summary>portaudio</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Free, cross platform, open-source, audio I/O library
+From repo    : updates-testing
+Short desc   : Free, cross platform, open-source, audio I/O library
 URL          : http://www.portaudio.com/
 License      : MIT
 Descript     : PortAudio is a portable audio I/O library designed for cross-platform
@@ -14973,8 +14973,8 @@ Descript     : PortAudio is a portable audio I/O library designed for cross-plat
 <summary>potrace</summary>
 
 ```
-From repo     : fedora
-Short desc    : Transform bitmaps into vector graphics
+From repo    : fedora
+Short desc   : Transform bitmaps into vector graphics
 URL          : http://potrace.sourceforge.net
 License      : GPLv2+
 Descript     : Potrace is a utility for tracing a bitmap, which means, transforming a bitmap
@@ -14998,8 +14998,8 @@ Descript     : Potrace is a utility for tracing a bitmap, which means, transform
 <summary>powertop</summary>
 
 ```
-From repo     : fedora
-Short desc    : Power consumption monitor
+From repo    : fedora
+Short desc   : Power consumption monitor
 URL          : http://01.org/powertop/
 License      : GPLv2
 Descript     : PowerTOP is a tool that finds the software component(s) that make your
@@ -15012,8 +15012,8 @@ Descript     : PowerTOP is a tool that finds the software component(s) that make
 <summary>ppp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Point-to-Point Protocol daemon
+From repo    : anaconda
+Short desc   : The Point-to-Point Protocol daemon
 URL          : http://www.samba.org/ppp
 License      : BSD and LGPLv2+ and GPLv2+ and Public Domain
 Descript     : The ppp package contains the PPP (Point-to-Point Protocol) daemon and
@@ -15029,8 +15029,8 @@ Descript     : The ppp package contains the PPP (Point-to-Point Protocol) daemon
 <summary>pprof</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : CPU and Heap Profiler tool
+From repo    : updates-testing
+Short desc   : CPU and Heap Profiler tool
 URL          : https://github.com/gperftools/gperftools
 License      : BSD
 Descript     : Pprof is a heap and CPU profiler tool, part of the gperftools suite.
@@ -15042,8 +15042,8 @@ Descript     : Pprof is a heap and CPU profiler tool, part of the gperftools sui
 <summary>pptp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Point-to-Point Tunneling Protocol (PPTP) Client
+From repo    : anaconda
+Short desc   : Point-to-Point Tunneling Protocol (PPTP) Client
 URL          : http://pptpclient.sourceforge.net/
 License      : GPLv2+
 Descript     : Client for the proprietary Microsoft Point-to-Point Tunneling
@@ -15057,8 +15057,8 @@ Descript     : Client for the proprietary Microsoft Point-to-Point Tunneling
 <summary>prestopalette</summary>
 
 ```
-From repo     : fedora
-Short desc    : An artist's tool for creating harmonious color palettes
+From repo    : fedora
+Short desc   : An artist's tool for creating harmonious color palettes
 URL          : https://github.com/PrestoPalette/PrestoPalette
 License      : MIT
 Descript     : prestopalette is an artist's tool for creating harmonious color palettes.
@@ -15070,8 +15070,8 @@ Descript     : prestopalette is an artist's tool for creating harmonious color p
 <summary>procinfo</summary>
 
 ```
-From repo     : fedora
-Short desc    : A tool for gathering and displaying system information
+From repo    : fedora
+Short desc   : A tool for gathering and displaying system information
 License      : GPL+
 Descript     : The procinfo command gets system data from the /proc directory (the
              : kernel filesystem), formats it and displays it on standard output.
@@ -15088,8 +15088,8 @@ Descript     : The procinfo command gets system data from the /proc directory (t
 <summary>procps-ng</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System and process monitoring utilities
+From repo    : anaconda
+Short desc   : System and process monitoring utilities
 URL          : https://sourceforge.net/projects/procps-ng/
 License      : GPL+ and GPLv2 and GPLv2+ and GPLv3+ and LGPLv2+
 Descript     : The procps package contains a set of system utilities that provide
@@ -15121,8 +15121,8 @@ Descript     : The procps package contains a set of system utilities that provid
 <summary>proj</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cartographic projection software (PROJ)
+From repo    : fedora
+Short desc   : Cartographic projection software (PROJ)
 URL          : https://proj.org
 License      : MIT
 Descript     : Proj and invproj perform respective forward and inverse transformation of
@@ -15136,8 +15136,8 @@ Descript     : Proj and invproj perform respective forward and inverse transform
 <summary>proj-data-at</summary>
 
 ```
-From repo     : fedora
-Short desc    : Austria datum grids for Proj
+From repo    : fedora
+Short desc   : Austria datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Austria datum grids for Proj.
@@ -15149,8 +15149,8 @@ Descript     : Austria datum grids for Proj.
 <summary>proj-data-au</summary>
 
 ```
-From repo     : fedora
-Short desc    : Australia datum grids for Proj
+From repo    : fedora
+Short desc   : Australia datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Australia datum grids for Proj.
@@ -15162,8 +15162,8 @@ Descript     : Australia datum grids for Proj.
 <summary>proj-data-be</summary>
 
 ```
-From repo     : fedora
-Short desc    : Belgium datum grids for Proj
+From repo    : fedora
+Short desc   : Belgium datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Belgium datum grids for Proj.
@@ -15175,8 +15175,8 @@ Descript     : Belgium datum grids for Proj.
 <summary>proj-data-br</summary>
 
 ```
-From repo     : fedora
-Short desc    : Brasil datum grids for Proj
+From repo    : fedora
+Short desc   : Brasil datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Brasil datum grids for Proj.
@@ -15188,8 +15188,8 @@ Descript     : Brasil datum grids for Proj.
 <summary>proj-data-ca</summary>
 
 ```
-From repo     : fedora
-Short desc    : Canada datum grids for Proj
+From repo    : fedora
+Short desc   : Canada datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Canada datum grids for Proj.
@@ -15201,8 +15201,8 @@ Descript     : Canada datum grids for Proj.
 <summary>proj-data-ch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Switzerland datum grids for Proj
+From repo    : fedora
+Short desc   : Switzerland datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Switzerland datum grids for Proj.
@@ -15214,8 +15214,8 @@ Descript     : Switzerland datum grids for Proj.
 <summary>proj-data-de</summary>
 
 ```
-From repo     : fedora
-Short desc    : Germany datum grids for Proj
+From repo    : fedora
+Short desc   : Germany datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Germany datum grids for Proj.
@@ -15227,8 +15227,8 @@ Descript     : Germany datum grids for Proj.
 <summary>proj-data-dk</summary>
 
 ```
-From repo     : fedora
-Short desc    : Denmark datum grids for Proj
+From repo    : fedora
+Short desc   : Denmark datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Denmark datum grids for Proj.
@@ -15240,8 +15240,8 @@ Descript     : Denmark datum grids for Proj.
 <summary>proj-data-es</summary>
 
 ```
-From repo     : fedora
-Short desc    : Spain datum grids for Proj
+From repo    : fedora
+Short desc   : Spain datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Spain datum grids for Proj.
@@ -15253,8 +15253,8 @@ Descript     : Spain datum grids for Proj.
 <summary>proj-data-eur</summary>
 
 ```
-From repo     : fedora
-Short desc    : Nordic + Baltic datum grids for Proj
+From repo    : fedora
+Short desc   : Nordic + Baltic datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Nordic + Baltic datum grids for Proj.
@@ -15266,8 +15266,8 @@ Descript     : Nordic + Baltic datum grids for Proj.
 <summary>proj-data-fi</summary>
 
 ```
-From repo     : fedora
-Short desc    : Finland datum grids for Proj
+From repo    : fedora
+Short desc   : Finland datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Finland datum grids for Proj.
@@ -15279,8 +15279,8 @@ Descript     : Finland datum grids for Proj.
 <summary>proj-data-fo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Faroe Island datum grids for Proj
+From repo    : fedora
+Short desc   : Faroe Island datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Faroe Island datum grids for Proj.
@@ -15292,8 +15292,8 @@ Descript     : Faroe Island datum grids for Proj.
 <summary>proj-data-fr</summary>
 
 ```
-From repo     : fedora
-Short desc    : France datum grids for Proj
+From repo    : fedora
+Short desc   : France datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : France datum grids for Proj.
@@ -15305,8 +15305,8 @@ Descript     : France datum grids for Proj.
 <summary>proj-data-is</summary>
 
 ```
-From repo     : fedora
-Short desc    : Island datum grids for Proj
+From repo    : fedora
+Short desc   : Island datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Island datum grids for Proj.
@@ -15318,8 +15318,8 @@ Descript     : Island datum grids for Proj.
 <summary>proj-data-jp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Japan datum grids for Proj
+From repo    : fedora
+Short desc   : Japan datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Japan datum grids for Proj.
@@ -15331,8 +15331,8 @@ Descript     : Japan datum grids for Proj.
 <summary>proj-data-nc</summary>
 
 ```
-From repo     : fedora
-Short desc    : New Caledonia datum grids for Proj
+From repo    : fedora
+Short desc   : New Caledonia datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : New Caledonia datum grids for Proj.
@@ -15344,8 +15344,8 @@ Descript     : New Caledonia datum grids for Proj.
 <summary>proj-data-nl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Netherlands datum grids for Proj
+From repo    : fedora
+Short desc   : Netherlands datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Netherlands datum grids for Proj.
@@ -15357,8 +15357,8 @@ Descript     : Netherlands datum grids for Proj.
 <summary>proj-data-nz</summary>
 
 ```
-From repo     : fedora
-Short desc    : New Zealand datum grids for Proj
+From repo    : fedora
+Short desc   : New Zealand datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : New Zealand datum grids for Proj.
@@ -15370,8 +15370,8 @@ Descript     : New Zealand datum grids for Proj.
 <summary>proj-data-pt</summary>
 
 ```
-From repo     : fedora
-Short desc    : Portugal datum grids for Proj
+From repo    : fedora
+Short desc   : Portugal datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Portugal datum grids for Proj.
@@ -15383,8 +15383,8 @@ Descript     : Portugal datum grids for Proj.
 <summary>proj-data-se</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sweden datum grids for Proj
+From repo    : fedora
+Short desc   : Sweden datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Sweden datum grids for Proj.
@@ -15396,8 +15396,8 @@ Descript     : Sweden datum grids for Proj.
 <summary>proj-data-sk</summary>
 
 ```
-From repo     : fedora
-Short desc    : Slovakia datum grids for Proj
+From repo    : fedora
+Short desc   : Slovakia datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : Slovakia datum grids for Proj.
@@ -15409,8 +15409,8 @@ Descript     : Slovakia datum grids for Proj.
 <summary>proj-data-uk</summary>
 
 ```
-From repo     : fedora
-Short desc    : United Kingdom datum grids for Proj
+From repo    : fedora
+Short desc   : United Kingdom datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : United Kingdom datum grids for Proj.
@@ -15422,8 +15422,8 @@ Descript     : United Kingdom datum grids for Proj.
 <summary>proj-data-us</summary>
 
 ```
-From repo     : fedora
-Short desc    : United States datum grids for Proj
+From repo    : fedora
+Short desc   : United States datum grids for Proj
 URL          : https://proj.org
 License      : CC-BY and MIT and BSD and Public Domain
 Descript     : United States datum grids for Proj.
@@ -15435,8 +15435,8 @@ Descript     : United States datum grids for Proj.
 <summary>protobuf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Protocol Buffers - Google's data interchange format
+From repo    : anaconda
+Short desc   : Protocol Buffers - Google's data interchange format
 URL          : https://github.com/protocolbuffers/protobuf
 License      : BSD
 Descript     : Protocol Buffers are a way of encoding structured data in an efficient
@@ -15458,8 +15458,8 @@ Descript     : Protocol Buffers are a way of encoding structured data in an effi
 <summary>protobuf</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Protocol Buffers - Google's data interchange format
+From repo    : updates-testing
+Short desc   : Protocol Buffers - Google's data interchange format
 URL          : https://github.com/protocolbuffers/protobuf
 License      : BSD
 Descript     : Protocol Buffers are a way of encoding structured data in an efficient
@@ -15481,8 +15481,8 @@ Descript     : Protocol Buffers are a way of encoding structured data in an effi
 <summary>protobuf-c</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C bindings for Google's Protocol Buffers
+From repo    : anaconda
+Short desc   : C bindings for Google's Protocol Buffers
 URL          : https://github.com/protobuf-c/protobuf-c
 License      : BSD
 Descript     : Protocol Buffers are a way of encoding structured data in an efficient yet
@@ -15498,8 +15498,8 @@ Descript     : Protocol Buffers are a way of encoding structured data in an effi
 <summary>protobuf-c</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C bindings for Google's Protocol Buffers
+From repo    : updates-testing
+Short desc   : C bindings for Google's Protocol Buffers
 URL          : https://github.com/protobuf-c/protobuf-c
 License      : BSD
 Descript     : Protocol Buffers are a way of encoding structured data in an efficient yet
@@ -15515,8 +15515,8 @@ Descript     : Protocol Buffers are a way of encoding structured data in an effi
 <summary>psacct</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities for monitoring process activities
+From repo    : anaconda
+Short desc   : Utilities for monitoring process activities
 URL          : http://www.gnu.org/software/acct/
 License      : GPLv3+
 Descript     : The psacct package contains several utilities for monitoring process
@@ -15534,8 +15534,8 @@ Descript     : The psacct package contains several utilities for monitoring proc
 <summary>psmisc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities for managing processes on your system
+From repo    : anaconda
+Short desc   : Utilities for managing processes on your system
 URL          : https://gitlab.com/psmisc/psmisc
 License      : GPLv2+
 Descript     : The psmisc package contains utilities for managing processes on your
@@ -15553,8 +15553,8 @@ Descript     : The psmisc package contains utilities for managing processes on y
 <summary>pt-sans-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PT Sans, a grotesque pan-Cyrillic font family
+From repo    : anaconda
+Short desc   : PT Sans, a grotesque pan-Cyrillic font family
 URL          : http://www.paratype.com/public/
 License      : OFL
 Descript     : The PT Sans family was developed as part of the “Public Types of Russian
@@ -15584,8 +15584,8 @@ Descript     : The PT Sans family was developed as part of the “Public Types o
 <summary>publicsuffix-list-dafsa</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Cross-vendor public domain suffix database in DAFSA form
+From repo    : anaconda
+Short desc   : Cross-vendor public domain suffix database in DAFSA form
 URL          : https://publicsuffix.org/
 License      : MPLv2.0
 Descript     : The Public Suffix List is a cross-vendor initiative to provide
@@ -15605,8 +15605,8 @@ Descript     : The Public Suffix List is a cross-vendor initiative to provide
 <summary>pugixml</summary>
 
 ```
-From repo     : fedora
-Short desc    : A light-weight C++ XML processing library
+From repo    : fedora
+Short desc   : A light-weight C++ XML processing library
 URL          : http://pugixml.org
 License      : MIT
 Descript     : pugixml is a light-weight C++ XML processing library.
@@ -15625,8 +15625,8 @@ Descript     : pugixml is a light-weight C++ XML processing library.
 <summary>pulseaudio-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for PulseAudio clients
+From repo    : anaconda
+Short desc   : Libraries for PulseAudio clients
 URL          : http://www.freedesktop.org/wiki/Software/PulseAudio
 License      : LGPLv2+
 Descript     : This package contains the runtime libraries for any application that wishes
@@ -15639,8 +15639,8 @@ Descript     : This package contains the runtime libraries for any application t
 <summary>pulseaudio-libs-glib2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GLIB 2.x bindings for PulseAudio clients
+From repo    : anaconda
+Short desc   : GLIB 2.x bindings for PulseAudio clients
 URL          : http://www.freedesktop.org/wiki/Software/PulseAudio
 License      : LGPLv2+
 Descript     : This package contains bindings to integrate the PulseAudio client library with
@@ -15653,8 +15653,8 @@ Descript     : This package contains bindings to integrate the PulseAudio client
 <summary>pulseaudio-utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : PulseAudio sound server utilities
+From repo    : fedora
+Short desc   : PulseAudio sound server utilities
 URL          : http://www.freedesktop.org/wiki/Software/PulseAudio
 License      : LGPLv2+
 Descript     : This package contains command line utilities for the PulseAudio sound server.
@@ -15666,8 +15666,8 @@ Descript     : This package contains command line utilities for the PulseAudio s
 <summary>puppet</summary>
 
 ```
-From repo     : fedora
-Short desc    : A network tool for managing many disparate systems
+From repo    : fedora
+Short desc   : A network tool for managing many disparate systems
 URL          : http://puppetlabs.com
 License      : ASL 2.0
 Descript     : Puppet lets you centrally manage every important aspect of your system using a
@@ -15682,8 +15682,8 @@ Descript     : Puppet lets you centrally manage every important aspect of your s
 <summary>puppet-firewalld</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Puppet module for FirewallD
+From repo    : fedora
+Short desc   : A Puppet module for FirewallD
 URL          : https://github.com/jpopelka/puppet-firewalld
 License      : GPLv2+
 Descript     : A Puppet module used for installing, configuring and managing FirewallD.
@@ -15695,8 +15695,8 @@ Descript     : A Puppet module used for installing, configuring and managing Fir
 <summary>puppet-headless</summary>
 
 ```
-From repo     : fedora
-Short desc    : Headless Puppet
+From repo    : fedora
+Short desc   : Headless Puppet
 URL          : http://puppetlabs.com
 License      : ASL 2.0
 Descript     : This puppet headless subpackage may be used when there is no need to
@@ -15710,8 +15710,8 @@ Descript     : This puppet headless subpackage may be used when there is no need
 <summary>puppet-server</summary>
 
 ```
-From repo     : fedora
-Short desc    : Server for the puppet system management tool
+From repo    : fedora
+Short desc   : Server for the puppet system management tool
 URL          : http://puppetlabs.com
 License      : ASL 2.0
 Descript     : Provides the central puppet server daemon which provides manifests to clients.
@@ -15724,8 +15724,8 @@ Descript     : Provides the central puppet server daemon which provides manifest
 <summary>puppetlabs-stdlib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Puppet Labs Standard Library
+From repo    : fedora
+Short desc   : Puppet Labs Standard Library
 URL          : https://github.com/puppetlabs/puppetlabs-stdlib
 License      : ASL 2.0
 Descript     : Puppet Labs Standard Library module.
@@ -15737,8 +15737,8 @@ Descript     : Puppet Labs Standard Library module.
 <summary>pwgen</summary>
 
 ```
-From repo     : fedora
-Short desc    : Automatic password generation
+From repo    : fedora
+Short desc   : Automatic password generation
 URL          : http://sf.net/projects/pwgen
 License      : GPL+
 Descript     : pwgen generates random, meaningless but pronounceable passwords. These
@@ -15753,8 +15753,8 @@ Descript     : pwgen generates random, meaningless but pronounceable passwords. 
 <summary>pygobject2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 2 bindings for GObject
+From repo    : fedora
+Short desc   : Python 2 bindings for GObject
 URL          : http://www.pygtk.org/
 License      : LGPLv2+
 Descript     : The pygobject2 package provides a convenient wrapper for the GObject library
@@ -15767,8 +15767,8 @@ Descript     : The pygobject2 package provides a convenient wrapper for the GObj
 <summary>pygtk2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python bindings for GTK+
+From repo    : fedora
+Short desc   : Python bindings for GTK+
 URL          : http://www.pygtk.org/
 License      : LGPLv2+
 Descript     : PyGTK is an extension module for Python that gives you access to the GTK+
@@ -15783,8 +15783,8 @@ Descript     : PyGTK is an extension module for Python that gives you access to 
 <summary>python-btrfs-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python module to inspect btrfs filesystems
+From repo    : fedora
+Short desc   : Python module to inspect btrfs filesystems
 URL          : https://github.com/knorrie/python-btrfs
 License      : LGPLv3+ and MIT
 Descript     : The primary goal of this module is to be able to inspect the internals of an
@@ -15801,8 +15801,8 @@ Descript     : The primary goal of this module is to be able to inspect the inte
 <summary>python-josepy-doc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Documentation for python-josepy
+From repo    : updates-testing
+Short desc   : Documentation for python-josepy
 URL          : https://pypi.python.org/pypi/josepy
 License      : ASL 2.0
 Descript     : Documentation for python-josepy
@@ -15814,8 +15814,8 @@ Descript     : Documentation for python-josepy
 <summary>python-jupyter-filesystem</summary>
 
 ```
-From repo     : fedora
-Short desc    : Jupyter filesystem layout
+From repo    : fedora
+Short desc   : Jupyter filesystem layout
 URL          : http://jupyter.org
 License      : BSD
 Descript     : This package provides directories required by other packages that add
@@ -15828,8 +15828,8 @@ Descript     : This package provides directories required by other packages that
 <summary>python-pip-wheel</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The pip wheel
+From repo    : anaconda
+Short desc   : The pip wheel
 URL          : https://pip.pypa.io/
 License      : MIT and Python and ASL 2.0 and BSD and ISC and LGPLv2 and MPLv2.0 and (ASL 2.0 or BSD)
 Descript     : A Python wheel of pip to use with venv.
@@ -15841,8 +15841,8 @@ Descript     : A Python wheel of pip to use with venv.
 <summary>python-pip-wheel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The pip wheel
+From repo    : updates-testing
+Short desc   : The pip wheel
 URL          : https://pip.pypa.io/
 License      : MIT and Python and ASL 2.0 and BSD and ISC and LGPLv2 and MPLv2.0 and (ASL 2.0 or BSD)
 Descript     : A Python wheel of pip to use with venv.
@@ -15854,8 +15854,8 @@ Descript     : A Python wheel of pip to use with venv.
 <summary>python-rpm-macros</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The common Python RPM macros
+From repo    : updates-testing
+Short desc   : The common Python RPM macros
 License      : MIT and Python
 Descript     : This package contains the unversioned Python RPM macros, that most
              : implementations should rely on.
@@ -15870,8 +15870,8 @@ Descript     : This package contains the unversioned Python RPM macros, that mos
 <summary>python-setuptools-wheel</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The setuptools wheel
+From repo    : anaconda
+Short desc   : The setuptools wheel
 URL          : https://pypi.python.org/pypi/setuptools
 License      : MIT and (BSD or ASL 2.0)
 Descript     : A Python wheel of setuptools to use with venv.
@@ -15883,8 +15883,8 @@ Descript     : A Python wheel of setuptools to use with venv.
 <summary>python-srpm-macros</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : RPM macros for building Python source packages
+From repo    : updates-testing
+Short desc   : RPM macros for building Python source packages
 License      : MIT and Python
 Descript     : RPM macros for building Python source packages.
 ```
@@ -15895,8 +15895,8 @@ Descript     : RPM macros for building Python source packages.
 <summary>python-systemd-doc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : HTML documentation for python-systemd
+From repo    : anaconda
+Short desc   : HTML documentation for python-systemd
 URL          : https://github.com/systemd/python-systemd
 License      : LGPLv2+
 Descript     : HTML documentation for python-systemd.
@@ -15908,8 +15908,8 @@ Descript     : HTML documentation for python-systemd.
 <summary>python-unversioned-command</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The "python" command that runs Python 3
+From repo    : anaconda
+Short desc   : The "python" command that runs Python 3
 URL          : https://www.python.org/
 License      : Python
 Descript     : This package contains /usr/bin/python - the "python" command that runs Python 3.
@@ -15921,8 +15921,8 @@ Descript     : This package contains /usr/bin/python - the "python" command that
 <summary>python-unversioned-command</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The "python" command that runs Python 3
+From repo    : updates-testing
+Short desc   : The "python" command that runs Python 3
 URL          : https://www.python.org/
 License      : Python
 Descript     : This package contains /usr/bin/python - the "python" command that runs Python 3.
@@ -15934,8 +15934,8 @@ Descript     : This package contains /usr/bin/python - the "python" command that
 <summary>python2-cairo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 2 bindings for the cairo library
+From repo    : fedora
+Short desc   : Python 2 bindings for the cairo library
 URL          : http://cairographics.org/pycairo
 License      : MPLv1.1 or LGPLv2
 Descript     : Python 2 bindings for the cairo library.
@@ -15947,8 +15947,8 @@ Descript     : Python 2 bindings for the cairo library.
 <summary>python2.7</summary>
 
 ```
-From repo     : fedora
-Short desc    : Version 2.7 of the Python interpreter
+From repo    : fedora
+Short desc   : Version 2.7 of the Python interpreter
 URL          : https://www.python.org/
 License      : Python and MIT and ASL 2.0 and BSD and ISC and LGPLv2 and MPLv2.0 and (ASL 2.0 or BSD)
 Descript     : Python 2 is an old version of the language that is incompatible with the 3.x
@@ -15969,8 +15969,8 @@ Descript     : Python 2 is an old version of the language that is incompatible w
 <summary>python3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3.9 interpreter
+From repo    : anaconda
+Short desc   : Python 3.9 interpreter
 URL          : https://www.python.org/
 License      : Python
 Descript     : Python 3.9 is an accessible, high-level, dynamically typed, interpreted
@@ -15998,8 +15998,8 @@ Descript     : Python 3.9 is an accessible, high-level, dynamically typed, inter
 <summary>python3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3.9 interpreter
+From repo    : updates-testing
+Short desc   : Python 3.9 interpreter
 URL          : https://www.python.org/
 License      : Python
 Descript     : Python 3.9 is an accessible, high-level, dynamically typed, interpreted
@@ -16027,8 +16027,8 @@ Descript     : Python 3.9 is an accessible, high-level, dynamically typed, inter
 <summary>python3-Automat</summary>
 
 ```
-From repo     : fedora
-Short desc    : Self-service finite-state machines for the programmer on the go
+From repo    : fedora
+Short desc   : Self-service finite-state machines for the programmer on the go
 URL          : https://github.com/glyph/automat
 License      : MIT
 Descript     : Automat is a library for concise, idiomatic Python expression of finite-state
@@ -16041,8 +16041,8 @@ Descript     : Automat is a library for concise, idiomatic Python expression of 
 <summary>python3-Bottleneck</summary>
 
 ```
-From repo     : fedora
-Short desc    : Collection of fast NumPy array functions written in Cython
+From repo    : fedora
+Short desc   : Collection of fast NumPy array functions written in Cython
 URL          : https://pypi.org/project/Bottleneck/
 License      : BSD
 Descript     : python3-Bottleneck is a collection of fast NumPy array functions
@@ -16055,8 +16055,8 @@ Descript     : python3-Bottleneck is a collection of fast NumPy array functions
 <summary>python3-Cython</summary>
 
 ```
-From repo     : fedora
-Short desc    : Language for writing Python extension modules
+From repo    : fedora
+Short desc   : Language for writing Python extension modules
 URL          : http://www.cython.org
 License      : ASL 2.0
 Descript     : This is a development version of Pyrex, a language
@@ -16071,8 +16071,8 @@ Descript     : This is a development version of Pyrex, a language
 <summary>python3-GitPython</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python Git Library
+From repo    : fedora
+Short desc   : Python Git Library
 URL          : https://github.com/gitpython-developers/GitPython
 License      : BSD
 Descript     : GitPython is a python library used to interact with git repositories,
@@ -16096,8 +16096,8 @@ Descript     : GitPython is a python library used to interact with git repositor
 <summary>python3-Levenshtein</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python extension computing string distances and similarities
+From repo    : fedora
+Short desc   : Python extension computing string distances and similarities
 URL          : http://pypi.python.org/pypi/python-Levenshtein/
 License      : GPLv2+
 Descript     : Levenshtein computes Levenshtein distances, similarity ratios, generalized
@@ -16112,8 +16112,8 @@ Descript     : Levenshtein computes Levenshtein distances, similarity ratios, ge
 <summary>python3-abrt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : ABRT Python 3 API
+From repo    : anaconda
+Short desc   : ABRT Python 3 API
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : High-level API for querying, creating and manipulating
@@ -16126,8 +16126,8 @@ Descript     : High-level API for querying, creating and manipulating
 <summary>python3-abrt-addon</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's addon for catching and analyzing Python 3 exceptions
+From repo    : anaconda
+Short desc   : abrt's addon for catching and analyzing Python 3 exceptions
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains python 3 hook and python analyzer plugin for handling
@@ -16140,8 +16140,8 @@ Descript     : This package contains python 3 hook and python analyzer plugin fo
 <summary>python3-acme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python library for the ACME protocol
+From repo    : updates-testing
+Short desc   : Python library for the ACME protocol
 URL          : https://pypi.python.org/pypi/acme
 License      : ASL 2.0
 Descript     : Python 3 library for use of the Automatic Certificate Management Environment
@@ -16154,8 +16154,8 @@ Descript     : Python 3 library for use of the Automatic Certificate Management 
 <summary>python3-alembic</summary>
 
 ```
-From repo     : fedora
-Short desc    : Database migration tool for SQLAlchemy
+From repo    : fedora
+Short desc   : Database migration tool for SQLAlchemy
 URL          : https://pypi.io/project/alembic
 License      : MIT
 Descript     : Alembic is a new database migrations tool, written by the author of
@@ -16178,8 +16178,8 @@ Descript     : Alembic is a new database migrations tool, written by the author 
 <summary>python3-amqp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Client library for AMQP
+From repo    : fedora
+Short desc   : Client library for AMQP
 URL          : http://pypi.python.org/pypi/amqp
 License      : BSD
 Descript     : Low-level AMQP client for Python
@@ -16195,8 +16195,8 @@ Descript     : Low-level AMQP client for Python
 <summary>python3-argcomplete</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Bash tab completion for argparse
+From repo    : anaconda
+Short desc   : Bash tab completion for argparse
 URL          : https://github.com/kislyuk/argcomplete
 License      : ASL 2.0
 Descript     : Argcomplete provides easy, extensible command line tab completion of
@@ -16219,8 +16219,8 @@ Descript     : Argcomplete provides easy, extensible command line tab completion
 <summary>python3-argon2-cffi</summary>
 
 ```
-From repo     : fedora
-Short desc    : The secure Argon2 password hashing algorithm
+From repo    : fedora
+Short desc   : The secure Argon2 password hashing algorithm
 URL          : https://argon2-cffi.readthedocs.io/
 License      : MIT
 Descript     : CFFI-based Argon2 Bindings for Python.
@@ -16232,8 +16232,8 @@ Descript     : CFFI-based Argon2 Bindings for Python.
 <summary>python3-arrow</summary>
 
 ```
-From repo     : fedora
-Short desc    : Better dates and times for Python
+From repo    : fedora
+Short desc   : Better dates and times for Python
 URL          : https://pypi.io/project/arrow
 License      : ASL 2.0
 Descript     : Arrow is a Python library that offers a sensible, human-friendly approach to
@@ -16253,8 +16253,8 @@ Descript     : Arrow is a Python library that offers a sensible, human-friendly 
 <summary>python3-async-generator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Async generators and context managers
+From repo    : fedora
+Short desc   : Async generators and context managers
 URL          : https://github.com/python-trio/async_generator
 License      : MIT or ASL 2.0
 Descript     : This library generally tries hard to match the semantics of Python 3.6's native
@@ -16269,8 +16269,8 @@ Descript     : This library generally tries hard to match the semantics of Pytho
 <summary>python3-attrs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python attributes without boilerplate
+From repo    : fedora
+Short desc   : Python attributes without boilerplate
 URL          : http://www.attrs.org/
 License      : MIT
 Descript     : attrs is an MIT-licensed Python package with class decorators that
@@ -16284,8 +16284,8 @@ Descript     : attrs is an MIT-licensed Python package with class decorators tha
 <summary>python3-audit</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python3 bindings for libaudit
+From repo    : anaconda
+Short desc   : Python3 bindings for libaudit
 URL          : http://people.redhat.com/sgrubb/audit/
 License      : LGPLv2+
 Descript     : The python3-audit package contains the bindings so that libaudit
@@ -16298,8 +16298,8 @@ Descript     : The python3-audit package contains the bindings so that libaudit
 <summary>python3-augeas</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings to augeas
+From repo    : anaconda
+Short desc   : Python 3 bindings to augeas
 URL          : http://augeas.net/
 License      : LGPLv2+
 Descript     : python3-augeas is a set of Python bindings around augeas.
@@ -16311,8 +16311,8 @@ Descript     : python3-augeas is a set of Python bindings around augeas.
 <summary>python3-babel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for internationalizing Python applications
+From repo    : fedora
+Short desc   : Library for internationalizing Python applications
 URL          : https://babel.pocoo.org/
 License      : BSD
 Descript     : Babel is composed of two major parts:
@@ -16330,8 +16330,8 @@ Descript     : Babel is composed of two major parts:
 <summary>python3-backcall</summary>
 
 ```
-From repo     : fedora
-Short desc    : Specifications for callback functions passed in to an API
+From repo    : fedora
+Short desc   : Specifications for callback functions passed in to an API
 URL          : https://github.com/takluyver/backcall
 License      : BSD
 Descript     : Specifications for callback functions passed in to an API.
@@ -16348,8 +16348,8 @@ Descript     : Specifications for callback functions passed in to an API.
 <summary>python3-beaker</summary>
 
 ```
-From repo     : anaconda
-Short desc    : WSGI middleware layer to provide sessions
+From repo    : anaconda
+Short desc   : WSGI middleware layer to provide sessions
 URL          : http://beaker.readthedocs.io
 License      : BSD and MIT
 Descript     : Beaker is a caching library that includes Session and Cache objects built on
@@ -16363,8 +16363,8 @@ Descript     : Beaker is a caching library that includes Session and Cache objec
 <summary>python3-beautifulsoup4</summary>
 
 ```
-From repo     : anaconda
-Short desc    : HTML/XML parser for quick-turnaround applications like screen-scraping
+From repo    : anaconda
+Short desc   : HTML/XML parser for quick-turnaround applications like screen-scraping
 URL          : http://www.crummy.com/software/BeautifulSoup/
 License      : MIT
 Descript     : Beautiful Soup is a Python HTML/XML parser designed for quick
@@ -16393,8 +16393,8 @@ Descript     : Beautiful Soup is a Python HTML/XML parser designed for quick
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A multiprocessing pool extensions
+From repo    : fedora
+Short desc   : A multiprocessing pool extensions
 URL          : https://github.com/celery/billiard
 License      : BSD
 Descript     : This package contains extensions to the multiprocessing pool.
@@ -16406,8 +16406,8 @@ Descript     : This package contains extensions to the multiprocessing pool.
 <summary>python3-bleach</summary>
 
 ```
-From repo     : fedora
-Short desc    : An easy whitelist-based HTML-sanitizing tool
+From repo    : fedora
+Short desc   : An easy whitelist-based HTML-sanitizing tool
 URL          : https://github.com/mozilla/bleach
 License      : ASL 2.0
 Descript     : Bleach is an HTML sanitizing library that escapes or strips markup and
@@ -16423,8 +16423,8 @@ Descript     : Bleach is an HTML sanitizing library that escapes or strips marku
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : A python3 package for examining and modifying storage configuration.
+From repo    : updates-testing
+Short desc   : A python3 package for examining and modifying storage configuration.
 URL          : https://storageapis.wordpress.com/projects/blivet
 License      : LGPLv2+
 Descript     : The python3-blivet is a python3 package for examining and modifying storage
@@ -16437,8 +16437,8 @@ Descript     : The python3-blivet is a python3 package for examining and modifyi
 <summary>python3-blockdev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python3 gobject-introspection bindings for libblockdev
+From repo    : anaconda
+Short desc   : Python3 gobject-introspection bindings for libblockdev
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains enhancements to the gobject-introspection bindings for
@@ -16451,8 +16451,8 @@ Descript     : This package contains enhancements to the gobject-introspection b
 <summary>python3-bodhi</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common files shared by bodhi-client and bodhi-server
+From repo    : fedora
+Short desc   : Common files shared by bodhi-client and bodhi-server
 URL          : https://github.com/fedora-infra/bodhi
 License      : GPLv2+
 Descript     : Common files shared by bodhi-client and bodhi-server.
@@ -16464,8 +16464,8 @@ Descript     : Common files shared by bodhi-client and bodhi-server.
 <summary>python3-bodhi-client</summary>
 
 ```
-From repo     : fedora
-Short desc    : REST API bindings for Python.
+From repo    : fedora
+Short desc   : REST API bindings for Python.
 URL          : https://github.com/fedora-infra/bodhi
 License      : GPLv2+
 Descript     : REST API bindings for Python.
@@ -16477,8 +16477,8 @@ Descript     : REST API bindings for Python.
 <summary>python3-brlapi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 binding for BrlAPI
+From repo    : anaconda
+Short desc   : Python 3 binding for BrlAPI
 URL          : http://brltty.app/
 License      : LGPLv2+
 Descript     : This package provides the Python 3 binding for BrlAPI.
@@ -16490,8 +16490,8 @@ Descript     : This package provides the Python 3 binding for BrlAPI.
 <summary>python3-btrfs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python module to inspect btrfs filesystems
+From repo    : fedora
+Short desc   : Python module to inspect btrfs filesystems
 URL          : https://github.com/knorrie/python-btrfs
 License      : LGPLv3+ and MIT
 Descript     : The primary goal of this module is to be able to inspect the internals of an
@@ -16508,8 +16508,8 @@ Descript     : The primary goal of this module is to be able to inspect the inte
 <summary>python3-btrfsutil</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 bindings for libbtrfsutil
+From repo    : fedora
+Short desc   : Python 3 bindings for libbtrfsutil
 URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 License      : LGPLv3
 Descript     : python3-btrfsutil contains Python 3 bindings to the libbtrfsutil library,
@@ -16525,8 +16525,8 @@ Descript     : python3-btrfsutil contains Python 3 bindings to the libbtrfsutil 
 <summary>python3-bugzilla</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python library for interacting with Bugzilla
+From repo    : fedora
+Short desc   : Python library for interacting with Bugzilla
 URL          : https://github.com/python-bugzilla/python-bugzilla
 License      : GPLv2+
 Descript     : python-bugzilla is a python library for interacting with bugzilla instances
@@ -16539,8 +16539,8 @@ Descript     : python-bugzilla is a python library for interacting with bugzilla
 <summary>python3-bytesize</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for libbytesize
+From repo    : anaconda
+Short desc   : Python 3 bindings for libbytesize
 URL          : https://github.com/storaged-project/libbytesize
 License      : LGPLv2+
 Descript     : This package contains Python 3 bindings for libbytesize making the use of
@@ -16553,8 +16553,8 @@ Descript     : This package contains Python 3 bindings for libbytesize making th
 <summary>python3-cairo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for the cairo library
+From repo    : anaconda
+Short desc   : Python 3 bindings for the cairo library
 URL          : http://cairographics.org/pycairo
 License      : MPLv1.1 or LGPLv2
 Descript     : Python 3 bindings for the cairo library.
@@ -16566,8 +16566,8 @@ Descript     : Python 3 bindings for the cairo library.
 <summary>python3-cccolutils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python Kerberos Credential Cache Collection Utilities
+From repo    : fedora
+Short desc   : Python Kerberos Credential Cache Collection Utilities
 URL          : https://pagure.io/cccolutils
 License      : GPLv2+
 Descript     : Python utilities for Kerberos Credential Cache Collections
@@ -16579,8 +16579,8 @@ Descript     : Python utilities for Kerberos Credential Cache Collections
 <summary>python3-celery</summary>
 
 ```
-From repo     : fedora
-Short desc    : Distributed Task Queue
+From repo    : fedora
+Short desc   : Distributed Task Queue
 URL          : https://celeryproject.org
 License      : BSD
 Descript     : %{desc}
@@ -16592,8 +16592,8 @@ Descript     : %{desc}
 <summary>python3-certbot</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 libraries used by certbot
+From repo    : updates-testing
+Short desc   : Python 3 libraries used by certbot
 URL          : https://pypi.python.org/pypi/certbot
 License      : ASL 2.0
 Descript     : The python3 libraries to interface with certbot
@@ -16605,8 +16605,8 @@ Descript     : The python3 libraries to interface with certbot
 <summary>python3-certbot-apache</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The apache plugin for certbot
+From repo    : updates-testing
+Short desc   : The apache plugin for certbot
 URL          : https://pypi.python.org/pypi/certbot-apache
 License      : ASL 2.0
 Descript     : Plugin for certbot that allows for automatic configuration of apache
@@ -16618,8 +16618,8 @@ Descript     : Plugin for certbot that allows for automatic configuration of apa
 <summary>python3-certbot-dns-rfc2136</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : RFC 2136 DNS Authenticator plugin for Certbot
+From repo    : updates-testing
+Short desc   : RFC 2136 DNS Authenticator plugin for Certbot
 URL          : https://github.com/certbot/certbot
 License      : ASL 2.0
 Descript     : The certbot-dns-rfc2136 plugin automates the process of completing an ACME
@@ -16635,8 +16635,8 @@ Descript     : The certbot-dns-rfc2136 plugin automates the process of completin
 <summary>python3-certbot-nginx</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The nginx plugin for certbot
+From repo    : updates-testing
+Short desc   : The nginx plugin for certbot
 URL          : https://pypi.python.org/pypi/certbot-nginx
 License      : ASL 2.0
 Descript     : Plugin for certbot that allows for automatic configuration of nginx
@@ -16648,8 +16648,8 @@ Descript     : Plugin for certbot that allows for automatic configuration of ngi
 <summary>python3-cffi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Foreign Function Interface for Python 3 to call C code
+From repo    : anaconda
+Short desc   : Foreign Function Interface for Python 3 to call C code
 URL          : https://cffi.readthedocs.org/
 License      : MIT
 Descript     : Foreign Function Interface for Python, providing a convenient and
@@ -16663,8 +16663,8 @@ Descript     : Foreign Function Interface for Python, providing a convenient and
 <summary>python3-chardet</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Character encoding auto-detection in Python
+From repo    : anaconda
+Short desc   : Character encoding auto-detection in Python
 URL          : https://github.com/chardet/chardet
 License      : LGPLv2
 Descript     : Character encoding auto-detection in Python. As
@@ -16677,8 +16677,8 @@ Descript     : Character encoding auto-detection in Python. As
 <summary>python3-click</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple wrapper around optparse for powerful command line utilities
+From repo    : fedora
+Short desc   : Simple wrapper around optparse for powerful command line utilities
 URL          : https://github.com/mitsuhiko/click
 License      : BSD
 Descript     : click is a Python package for creating beautiful command line
@@ -16693,8 +16693,8 @@ Descript     : click is a Python package for creating beautiful command line
 <summary>python3-click-didyoumean</summary>
 
 ```
-From repo     : fedora
-Short desc    : Enable git-like did-you-mean feature in click
+From repo    : fedora
+Short desc   : Enable git-like did-you-mean feature in click
 URL          : https://github.com/timofurrer/click-didyoumean
 License      : MIT
 Descript     : Enable git-like did-you-mean feature in click
@@ -16706,8 +16706,8 @@ Descript     : Enable git-like did-you-mean feature in click
 <summary>python3-click-plugins</summary>
 
 ```
-From repo     : fedora
-Short desc    : Click extension to register CLI commands via setuptools
+From repo    : fedora
+Short desc   : Click extension to register CLI commands via setuptools
 URL          : https://pypi.python.org/pypi/click-plugins
 License      : MIT
 Descript     : An extension module for click to register external CLI commands via setuptools
@@ -16720,8 +16720,8 @@ Descript     : An extension module for click to register external CLI commands v
 <summary>python3-click-repl</summary>
 
 ```
-From repo     : fedora
-Short desc    : REPL plugin for Click
+From repo    : fedora
+Short desc   : REPL plugin for Click
 URL          : https://github.com/untitaker/click-repl
 License      : MIT
 Descript     : REPL plugin for Click
@@ -16733,8 +16733,8 @@ Descript     : REPL plugin for Click
 <summary>python3-cloudpickle</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extended pickling support for Python objects
+From repo    : fedora
+Short desc   : Extended pickling support for Python objects
 URL          : https://github.com/cloudpipe/cloudpickle
 License      : BSD
 Descript     : cloudpickle makes it possible to serialize Python constructs
@@ -16752,8 +16752,8 @@ Descript     : cloudpickle makes it possible to serialize Python constructs
 <summary>python3-configargparse</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python module with support for argparse, config files, and env variables
+From repo    : fedora
+Short desc   : Python module with support for argparse, config files, and env variables
 URL          : https://github.com/bw2/ConfigArgParse
 License      : MIT
 Descript     : Applications with more than a handful of user-settable options are best
@@ -16771,8 +16771,8 @@ Descript     : Applications with more than a handful of user-settable options ar
 <summary>python3-configobj</summary>
 
 ```
-From repo     : fedora
-Short desc    : Config file reading, writing, and validation
+From repo    : fedora
+Short desc   : Config file reading, writing, and validation
 URL          : http://configobj.readthedocs.org/
 License      : BSD
 Descript     : ConfigObj is a simple but powerful configuration file reader and writer: an ini
@@ -16787,8 +16787,8 @@ Descript     : ConfigObj is a simple but powerful configuration file reader and 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A framework to implement simple but nice CLIs
+From repo    : fedora
+Short desc   : A framework to implement simple but nice CLIs
 URL          : https://github.com/open-iscsi/configshell-fb
 License      : ASL 2.0
 Descript     : A framework to implement simple but nice configuration-oriented
@@ -16801,8 +16801,8 @@ Descript     : A framework to implement simple but nice configuration-oriented
 <summary>python3-constantly</summary>
 
 ```
-From repo     : fedora
-Short desc    : Symbolic constants in Python
+From repo    : fedora
+Short desc   : Symbolic constants in Python
 URL          : https://github.com/twisted/constantly
 License      : MIT
 Descript     : 
@@ -16817,8 +16817,8 @@ Descript     :
 <summary>python3-crypto</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Cryptography library for Python 3
+From repo    : anaconda
+Short desc   : Cryptography library for Python 3
 URL          : http://www.pycrypto.org/
 License      : Public Domain and Python
 Descript     : PyCrypto is a collection of both secure hash functions (such as MD5 and
@@ -16833,8 +16833,8 @@ Descript     : PyCrypto is a collection of both secure hash functions (such as M
 <summary>python3-cryptography</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : PyCA's cryptography library
+From repo    : updates-testing
+Short desc   : PyCA's cryptography library
 URL          : https://cryptography.io/en/latest/
 License      : ASL 2.0 or BSD
 Descript     : cryptography is a package designed to expose cryptographic primitives and
@@ -16847,8 +16847,8 @@ Descript     : cryptography is a package designed to expose cryptographic primit
 <summary>python3-cups</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python3 bindings for CUPS API, known as pycups.
+From repo    : anaconda
+Short desc   : Python3 bindings for CUPS API, known as pycups.
 URL          : https://github.com/OpenPrinting/pycups/
 License      : GPLv2+
 Descript     : This package provides Python 3 bindings for CUPS API,
@@ -16862,8 +16862,8 @@ Descript     : This package provides Python 3 bindings for CUPS API,
 <summary>python3-cycler</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cycle through lists in various ways (used by matplotlib)
+From repo    : fedora
+Short desc   : Cycle through lists in various ways (used by matplotlib)
 URL          : https://github.com/matplotlib/cycler.git
 License      : BSD
 Descript     : General purpose library used by matplotlib to cycle through lists for colors,
@@ -16876,8 +16876,8 @@ Descript     : General purpose library used by matplotlib to cycle through lists
 <summary>python3-daemon</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library to implement a well-behaved Unix daemon process
+From repo    : fedora
+Short desc   : Library to implement a well-behaved Unix daemon process
 URL          : https://pagure.io/python-daemon
 License      : ASL 2.0
 Descript     : This library implements the well-behaved daemon specification of PEP 3143,
@@ -16892,8 +16892,8 @@ Descript     : This library implements the well-behaved daemon specification of 
 <summary>python3-dasbus</summary>
 
 ```
-From repo     : anaconda
-Short desc    : DBus library in Python 3
+From repo    : anaconda
+Short desc   : DBus library in Python 3
 URL          : https://pypi.python.org/pypi/dasbus
 License      : LGPLv2+
 Descript     : Dasbus is a DBus library written in Python 3, based on
@@ -16908,8 +16908,8 @@ Descript     : Dasbus is a DBus library written in Python 3, based on
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Powerful extensions to the standard datetime module
+From repo    : anaconda
+Short desc   : Powerful extensions to the standard datetime module
 URL          : https://github.com/dateutil/dateutil
 License      : BSD
 Descript     : The dateutil module provides powerful extensions to the standard datetime
@@ -16922,8 +16922,8 @@ Descript     : The dateutil module provides powerful extensions to the standard 
 <summary>python3-dbus</summary>
 
 ```
-From repo     : anaconda
-Short desc    : D-Bus bindings for python3
+From repo    : anaconda
+Short desc   : D-Bus bindings for python3
 URL          : http://www.freedesktop.org/wiki/Software/DBusBindings/
 License      : MIT
 Descript     : D-Bus bindings for python3.
@@ -16935,8 +16935,8 @@ Descript     : D-Bus bindings for python3.
 <summary>python3-dbus-next</summary>
 
 ```
-From repo     : fedora
-Short desc    : Zero-dependency DBus library for Python with asyncio support
+From repo    : fedora
+Short desc   : Zero-dependency DBus library for Python with asyncio support
 URL          : https://github.com/altdesktop/python-dbus-next
 License      : MIT
 Descript     : python-dbus-next is a Python library for DBus that aims to be a fully
@@ -16972,8 +16972,8 @@ Descript     : python-dbus-next is a Python library for DBus that aims to be a f
 <summary>python3-decorator</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Module to simplify usage of decorators in python3
+From repo    : anaconda
+Short desc   : Module to simplify usage of decorators in python3
 URL          : https://github.com/micheles/decorator
 License      : BSD
 Descript     : The aim of the decorator module is to simplify the usage of decorators for
@@ -16988,8 +16988,8 @@ Descript     : The aim of the decorator module is to simplify the usage of decor
 <summary>python3-defusedxml</summary>
 
 ```
-From repo     : fedora
-Short desc    : XML bomb protection for Python stdlib modules
+From repo    : fedora
+Short desc   : XML bomb protection for Python stdlib modules
 URL          : https://github.com/tiran/defusedxml
 License      : Python
 Descript     : The defusedxml package contains several Python-only workarounds and fixes for
@@ -17005,8 +17005,8 @@ Descript     : The defusedxml package contains several Python-only workarounds a
 <summary>python3-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries and header files needed for Python development
+From repo    : fedora
+Short desc   : Libraries and header files needed for Python development
 URL          : https://www.python.org/
 License      : Python
 Descript     : This package contains the header files and configuration needed to compile
@@ -17023,8 +17023,8 @@ Descript     : This package contains the header files and configuration needed t
 <summary>python3-distro</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux Distribution - a Linux OS platform information API
+From repo    : anaconda
+Short desc   : Linux Distribution - a Linux OS platform information API
 URL          : https://github.com/nir0s/distro
 License      : ASL 2.0
 Descript     : The distro (for: Linux Distribution) package provides information about the
@@ -17049,8 +17049,8 @@ Descript     : The distro (for: Linux Distribution) package provides information
 <summary>python3-dnf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 interface to DNF
+From repo    : anaconda
+Short desc   : Python 3 interface to DNF
 URL          : https://github.com/rpm-software-management/dnf
 License      : GPLv2+
 Descript     : Python 3 interface to DNF.
@@ -17062,8 +17062,8 @@ Descript     : Python 3 interface to DNF.
 <summary>python3-dnf</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 interface to DNF
+From repo    : updates-testing
+Short desc   : Python 3 interface to DNF
 URL          : https://github.com/rpm-software-management/dnf
 License      : GPLv2+
 Descript     : Python 3 interface to DNF.
@@ -17075,8 +17075,8 @@ Descript     : Python 3 interface to DNF.
 <summary>python3-dnf-plugin-system-upgrade</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System Upgrade Plugin for DNF
+From repo    : anaconda
+Short desc   : System Upgrade Plugin for DNF
 URL          : https://github.com/rpm-software-management/dnf-plugins-extras
 License      : GPLv2+
 Descript     : System Upgrade Plugin for DNF, Python 3 version. Enables offline system upgrades
@@ -17089,8 +17089,8 @@ Descript     : System Upgrade Plugin for DNF, Python 3 version. Enables offline 
 <summary>python3-dnf-plugins-core</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Core Plugins for DNF
+From repo    : anaconda
+Short desc   : Core Plugins for DNF
 URL          : https://github.com/rpm-software-management/dnf-plugins-core
 License      : GPLv2+
 Descript     : Core Plugins for DNF, Python 3 interface. This package enhances DNF with builddep,
@@ -17106,8 +17106,8 @@ Descript     : Core Plugins for DNF, Python 3 interface. This package enhances D
 <summary>python3-dnf-plugins-extras-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common files for Extras Plugins for DNF
+From repo    : anaconda
+Short desc   : Common files for Extras Plugins for DNF
 URL          : https://github.com/rpm-software-management/dnf-plugins-extras
 License      : GPLv2+
 Descript     : Common files for Extras Plugins for DNF.
@@ -17119,8 +17119,8 @@ Descript     : Common files for Extras Plugins for DNF.
 <summary>python3-dns</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : DNS toolkit for Python
+From repo    : updates-testing
+Short desc   : DNS toolkit for Python
 URL          : http://www.dnspython.org
 License      : ISC and MIT
 Descript     : dnspython is a DNS toolkit for Python. It supports almost all record
@@ -17139,8 +17139,8 @@ Descript     : dnspython is a DNS toolkit for Python. It supports almost all rec
 <summary>python3-docutils</summary>
 
 ```
-From repo     : fedora
-Short desc    : System for processing plaintext documentation
+From repo    : fedora
+Short desc   : System for processing plaintext documentation
 URL          : http://docutils.sourceforge.net
 License      : Public Domain and BSD and Python and GPLv3+
 Descript     : The Docutils project specifies a plaintext markup language, reStructuredText,
@@ -17160,8 +17160,8 @@ Descript     : The Docutils project specifies a plaintext markup language, reStr
 <summary>python3-dogpile-cache</summary>
 
 ```
-From repo     : fedora
-Short desc    : A caching front-end based on the Dogpile lock
+From repo    : fedora
+Short desc   : A caching front-end based on the Dogpile lock
 URL          : https://pypi.io/project/dogpile.cache
 License      : MIT
 Descript     : Dogpile consists of two subsystems, one building on top of the other.
@@ -17192,8 +17192,8 @@ Descript     : Dogpile consists of two subsystems, one building on top of the ot
 <summary>python3-editor</summary>
 
 ```
-From repo     : fedora
-Short desc    : Programmatically open an editor, capture the result.
+From repo    : fedora
+Short desc   : Programmatically open an editor, capture the result.
 URL          : https://github.com/fmoo/python-editor
 License      : ASL 2.0
 Descript     : Programmatically open an editor, capture the result.
@@ -17205,8 +17205,8 @@ Descript     : Programmatically open an editor, capture the result.
 <summary>python3-enchant</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for Enchant spellchecking library
+From repo    : anaconda
+Short desc   : Python 3 bindings for Enchant spellchecking library
 URL          : http://packages.python.org/pyenchant/
 License      : LGPLv2+
 Descript     : PyEnchant is a spellchecking library for Python 3, based on the Enchant
@@ -17219,8 +17219,8 @@ Descript     : PyEnchant is a spellchecking library for Python 3, based on the E
 <summary>python3-entrypoints</summary>
 
 ```
-From repo     : fedora
-Short desc    : Discover and load entry points from installed packages
+From repo    : fedora
+Short desc   : Discover and load entry points from installed packages
 URL          : https://entrypoints.readthedocs.io/
 License      : MIT
 Descript     : Entry points are a way for Python packages to advertise objects with some
@@ -17236,8 +17236,8 @@ Descript     : Entry points are a way for Python packages to advertise objects w
 <summary>python3-fastcache</summary>
 
 ```
-From repo     : fedora
-Short desc    : C implementation of python3 lru_cache
+From repo    : fedora
+Short desc   : C implementation of python3 lru_cache
 URL          : https://github.com/pbrady/fastcache
 License      : MIT
 Descript     : This package contains a C implementation of the python 3 lru_cache.  It
@@ -17250,8 +17250,8 @@ Descript     : This package contains a C implementation of the python 3 lru_cach
 <summary>python3-fedmsg</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 API and CLI for fedmsg
+From repo    : fedora
+Short desc   : Python 3 API and CLI for fedmsg
 URL          : https://github.com/fedora-infra/fedmsg
 License      : LGPLv2+
 Descript     : Python 3 API used around Fedora Infrastructure to send and receive messages
@@ -17264,8 +17264,8 @@ Descript     : Python 3 API used around Fedora Infrastructure to send and receiv
 <summary>python3-fedora</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python modules for talking to Fedora Infrastructure Services
+From repo    : fedora
+Short desc   : Python modules for talking to Fedora Infrastructure Services
 URL          : https://github.com/fedora-infra/python-fedora
 License      : LGPLv2+
 Descript     : Python modules that help with building Fedora Services.  The client module
@@ -17280,8 +17280,8 @@ Descript     : Python modules that help with building Fedora Services.  The clie
 <summary>python3-file-magic</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 bindings for the libmagic API
+From repo    : fedora
+Short desc   : Python 3 bindings for the libmagic API
 URL          : https://www.darwinsys.com/file/
 License      : BSD
 Descript     : This package contains the Python 3 bindings to allow access to the
@@ -17295,8 +17295,8 @@ Descript     : This package contains the Python 3 bindings to allow access to th
 <summary>python3-firewall</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python3 bindings for firewalld
+From repo    : anaconda
+Short desc   : Python3 bindings for firewalld
 URL          : http://www.firewalld.org
 License      : GPLv2+
 Descript     : Python3 bindings for firewalld.
@@ -17309,8 +17309,8 @@ Descript     : Python3 bindings for firewalld.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A micro-framework for Python based on Werkzeug, Jinja 2 and good intentions
+From repo    : fedora
+Short desc   : A micro-framework for Python based on Werkzeug, Jinja 2 and good intentions
 URL          : http://flask.pocoo.org/
 License      : BSD
 Descript     : Flask is called a “micro-framework” because the idea to keep the core
@@ -17331,8 +17331,8 @@ Descript     : Flask is called a “micro-framework” because the idea to keep 
 <summary>python3-flask-migrate</summary>
 
 ```
-From repo     : fedora
-Short desc    : SQLAlchemy database migrations for Flask applications using Alembic
+From repo    : fedora
+Short desc   : SQLAlchemy database migrations for Flask applications using Alembic
 URL          : http://pypi.python.org/pypi/flask-migrate
 License      : MIT
 Descript     : SQLAlchemy database migrations for Flask applications using Alembic.
@@ -17344,8 +17344,8 @@ Descript     : SQLAlchemy database migrations for Flask applications using Alemb
 <summary>python3-flask-script</summary>
 
 ```
-From repo     : fedora
-Short desc    : Scripting support for flask in python3-flask
+From repo    : fedora
+Short desc   : Scripting support for flask in python3-flask
 URL          : http://flask-script.readthedocs.org/en/latest/
 License      : BSD
 Descript     : The Flask-Script extension provides support for writing external scripts in
@@ -17360,8 +17360,8 @@ Descript     : The Flask-Script extension provides support for writing external 
 <summary>python3-flask-sqlalchemy</summary>
 
 ```
-From repo     : fedora
-Short desc    : Adds SQLAlchemy support to Flask application
+From repo    : fedora
+Short desc   : Adds SQLAlchemy support to Flask application
 URL          : https://github.com/pallets/flask-sqlalchemy
 License      : BSD
 Descript     : Flask-SQLAlchemy is an extension for Flask that adds support for
@@ -17378,8 +17378,8 @@ Descript     : Flask-SQLAlchemy is an extension for Flask that adds support for
 <summary>python3-flatpak-module-tools</summary>
 
 ```
-From repo     : fedora
-Short desc    : Shared code for building Flatpak applications and runtimes from Fedora modules
+From repo    : fedora
+Short desc   : Shared code for building Flatpak applications and runtimes from Fedora modules
 URL          : https://pagure.io/flatpak-module-tools
 License      : MIT
 Descript     : Python3 library for Flatpak handling
@@ -17391,8 +17391,8 @@ Descript     : Python3 library for Flatpak handling
 <summary>python3-funcsigs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+
+From repo    : fedora
+Short desc   : Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+
 URL          : https://github.com/testing-cabal/funcsigs?
 License      : ASL 2.0
 Descript     : funcsigs is a backport of the PEP 362 function signature features from
@@ -17406,8 +17406,8 @@ Descript     : funcsigs is a backport of the PEP 362 function signature features
 <summary>python3-future</summary>
 
 ```
-From repo     : fedora
-Short desc    : Easy, clean, reliable Python 2/3 compatibility
+From repo    : fedora
+Short desc   : Easy, clean, reliable Python 2/3 compatibility
 URL          : http://python-future.org/
 License      : MIT
 Descript     : 
@@ -17428,8 +17428,8 @@ Descript     :
 <summary>python3-gdal</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python modules for the GDAL file format library
+From repo    : updates-testing
+Short desc   : Python modules for the GDAL file format library
 URL          : http://www.gdal.org
 License      : MIT
 Descript     : The GDAL Python 3 modules provide support to handle multiple GIS file formats.
@@ -17441,8 +17441,8 @@ Descript     : The GDAL Python 3 modules provide support to handle multiple GIS 
 <summary>python3-gexiv2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python3 bindings for libgexiv2
+From repo    : fedora
+Short desc   : Python3 bindings for libgexiv2
 URL          : https://wiki.gnome.org/Projects/gexiv2
 License      : GPLv2+
 Descript     : This package contains the python3 bindings for libgexiv2
@@ -17454,8 +17454,8 @@ Descript     : This package contains the python3 bindings for libgexiv2
 <summary>python3-git-revise</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python modules for git-revise
+From repo    : fedora
+Short desc   : Python modules for git-revise
 URL          : https://github.com/mystor/git-revise
 License      : MIT
 Descript     : This package contains the python modules for the git-revise program.
@@ -17467,8 +17467,8 @@ Descript     : This package contains the python modules for the git-revise progr
 <summary>python3-gitdb</summary>
 
 ```
-From repo     : fedora
-Short desc    : Git Object Database
+From repo    : fedora
+Short desc   : Git Object Database
 URL          : https://github.com/gitpython-developers/gitdb
 License      : BSD
 Descript     : GitDB allows you to access bare git repositories for reading and writing.
@@ -17485,8 +17485,8 @@ Descript     : GitDB allows you to access bare git repositories for reading and 
 <summary>python3-gitlab</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interact with GitLab API
+From repo    : fedora
+Short desc   : Interact with GitLab API
 URL          : https://github.com/python-gitlab/python-gitlab
 License      : LGPLv3
 Descript     : Interact with GitLab API
@@ -17498,8 +17498,8 @@ Descript     : Interact with GitLab API
 <summary>python3-gmpy2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 interface to GMP, MPFR, and MPC
+From repo    : fedora
+Short desc   : Python 3 interface to GMP, MPFR, and MPC
 URL          : https://pypi.python.org/pypi/gmpy2
 License      : LGPLv3+
 Descript     : 
@@ -17519,8 +17519,8 @@ Descript     :
 <summary>python3-gobject</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for GObject Introspection
+From repo    : anaconda
+Short desc   : Python 3 bindings for GObject Introspection
 URL          : https://wiki.gnome.org/Projects/PyGObject
 License      : LGPLv2+ and MIT
 Descript     : The python3-gobject package provides a convenient wrapper for the GObject
@@ -17534,8 +17534,8 @@ Descript     : The python3-gobject package provides a convenient wrapper for the
 <summary>python3-gobject</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 bindings for GObject Introspection
+From repo    : updates-testing
+Short desc   : Python 3 bindings for GObject Introspection
 URL          : https://wiki.gnome.org/Projects/PyGObject
 License      : LGPLv2+ and MIT
 Descript     : The python3-gobject package provides a convenient wrapper for the GObject
@@ -17549,8 +17549,8 @@ Descript     : The python3-gobject package provides a convenient wrapper for the
 <summary>python3-gobject-base</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for GObject Introspection base package
+From repo    : anaconda
+Short desc   : Python 3 bindings for GObject Introspection base package
 URL          : https://wiki.gnome.org/Projects/PyGObject
 License      : LGPLv2+ and MIT
 Descript     : This package provides the non-cairo specific bits of the GObject Introspection
@@ -17563,8 +17563,8 @@ Descript     : This package provides the non-cairo specific bits of the GObject 
 <summary>python3-gobject-base</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 bindings for GObject Introspection base package
+From repo    : updates-testing
+Short desc   : Python 3 bindings for GObject Introspection base package
 URL          : https://wiki.gnome.org/Projects/PyGObject
 License      : LGPLv2+ and MIT
 Descript     : This package provides the non-cairo specific bits of the GObject Introspection
@@ -17577,8 +17577,8 @@ Descript     : This package provides the non-cairo specific bits of the GObject 
 <summary>python3-gpg</summary>
 
 ```
-From repo     : anaconda
-Short desc    : gpgme bindings for Python 3
+From repo    : anaconda
+Short desc   : gpgme bindings for Python 3
 URL          : https://gnupg.org/related_software/gpgme/
 License      : LGPLv2+
 Descript     : gpgme bindings for Python 3.
@@ -17590,8 +17590,8 @@ Descript     : gpgme bindings for Python 3.
 <summary>python3-gssapi</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 Bindings for GSSAPI (RFC 2743/2744 and extensions)
+From repo    : fedora
+Short desc   : Python 3 Bindings for GSSAPI (RFC 2743/2744 and extensions)
 URL          : https://github.com/pythongssapi/python-gssapi
 License      : ISC
 Descript     : A set of Python bindings to the GSSAPI C library providing both
@@ -17611,8 +17611,8 @@ Descript     : A set of Python bindings to the GSSAPI C library providing both
 <summary>python3-hawkey</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for the hawkey library
+From repo    : anaconda
+Short desc   : Python 3 bindings for the hawkey library
 URL          : https://github.com/rpm-software-management/libdnf
 License      : LGPLv2+
 Descript     : Python 3 bindings for the hawkey library.
@@ -17624,8 +17624,8 @@ Descript     : Python 3 bindings for the hawkey library.
 <summary>python3-hawkey</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 bindings for the hawkey library
+From repo    : updates-testing
+Short desc   : Python 3 bindings for the hawkey library
 URL          : https://github.com/rpm-software-management/libdnf
 License      : LGPLv2+
 Descript     : Python 3 bindings for the hawkey library.
@@ -17638,8 +17638,8 @@ Descript     : Python 3 bindings for the hawkey library.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A python based HTML parser/tokenizer
+From repo    : fedora
+Short desc   : A python based HTML parser/tokenizer
 URL          : https://github.com/html5lib/html5lib-python
 License      : MIT
 Descript     : A python based HTML parser/tokenizer based on the WHATWG HTML5
@@ -17652,8 +17652,8 @@ Descript     : A python based HTML parser/tokenizer based on the WHATWG HTML5
 <summary>python3-httplib2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Comprehensive HTTP client library
+From repo    : updates-testing
+Short desc   : Comprehensive HTTP client library
 URL          : https://pypi.python.org/pypi/httplib2
 License      : MIT
 Descript     : A comprehensive HTTP client library that supports many features left out of
@@ -17666,8 +17666,8 @@ Descript     : A comprehensive HTTP client library that supports many features l
 <summary>python3-humanize</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Turns dates in to human readable format, e.g '3 minutes ago'
+From repo    : anaconda
+Short desc   : Turns dates in to human readable format, e.g '3 minutes ago'
 URL          : https://github.com/jmoiron/humanize
 License      : MIT
 Descript     : This modest package contains various common humanization utilities, like turning
@@ -17681,8 +17681,8 @@ Descript     : This modest package contains various common humanization utilitie
 <summary>python3-hyperlink</summary>
 
 ```
-From repo     : fedora
-Short desc    : A featureful, immutable, and correct URL for Python
+From repo    : fedora
+Short desc   : A featureful, immutable, and correct URL for Python
 URL          : https://github.com/python-hyper/hyperlink
 License      : MIT and BSD and OFL
 Descript     : 
@@ -17697,8 +17697,8 @@ Descript     :
 <summary>python3-i3ipc</summary>
 
 ```
-From repo     : fedora
-Short desc    : An improved Python library to control i3wm
+From repo    : fedora
+Short desc   : An improved Python library to control i3wm
 URL          : https://github.com/altdesktop/i3ipc-python
 License      : BSD
 Descript     : i3's interprocess communication (or ipc) is the interface i3wm uses to receive
@@ -17718,8 +17718,8 @@ Descript     : i3's interprocess communication (or ipc) is the interface i3wm us
 <summary>python3-idna</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Internationalized Domain Names in Applications (IDNA)
+From repo    : anaconda
+Short desc   : Internationalized Domain Names in Applications (IDNA)
 URL          : https://github.com/kjd/idna
 License      : BSD and Python and Unicode
 Descript     : A library to support the Internationalised Domain Names in Applications (IDNA)
@@ -17738,8 +17738,8 @@ Descript     : A library to support the Internationalised Domain Names in Applic
 <summary>python3-imageio</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python IO of image, video, scientific, and volumetric data formats.
+From repo    : fedora
+Short desc   : Python IO of image, video, scientific, and volumetric data formats.
 URL          : https://imageio.github.io
 License      : BSD
 Descript     : Imageio is a Python library that provides an easy interface to read and write a wide range of image data, including animated images, volumetric data, and scientific formats.
@@ -17751,8 +17751,8 @@ Descript     : Imageio is a Python library that provides an easy interface to re
 <summary>python3-imagesize</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python module for analyzing image file headers and returning image sizes
+From repo    : fedora
+Short desc   : Python module for analyzing image file headers and returning image sizes
 URL          : https://github.com/shibukawa/imagesize_py
 License      : MIT
 Descript     : The imagesize package parses image file headers and returns the image sizes.
@@ -17771,8 +17771,8 @@ Descript     : The imagesize package parses image file headers and returns the i
 <summary>python3-incremental</summary>
 
 ```
-From repo     : fedora
-Short desc    : It versions your Python projects
+From repo    : fedora
+Short desc   : It versions your Python projects
 URL          : https://github.com/twisted/incremental
 License      : MIT
 Descript     : Incremental is a small library that versions your Python projects.
@@ -17784,8 +17784,8 @@ Descript     : Incremental is a small library that versions your Python projects
 <summary>python3-ipykernel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : IPython Kernel for Jupyter
+From repo    : updates-testing
+Short desc   : IPython Kernel for Jupyter
 URL          : https://github.com/ipython/ipykernel
 License      : BSD
 Descript     : This package provides the IPython kernel for Jupyter.
@@ -17797,8 +17797,8 @@ Descript     : This package provides the IPython kernel for Jupyter.
 <summary>python3-ipython</summary>
 
 ```
-From repo     : fedora
-Short desc    : An enhanced interactive Python shell
+From repo    : fedora
+Short desc   : An enhanced interactive Python shell
 URL          : http://ipython.org/
 License      : (BSD and MIT and Python) and GPLv2+
 Descript     : 
@@ -17830,8 +17830,8 @@ Descript     :
 <summary>python3-ipython_genutils</summary>
 
 ```
-From repo     : fedora
-Short desc    : IPython vestigial utilities
+From repo    : fedora
+Short desc   : IPython vestigial utilities
 URL          : https://github.com/ipython/ipython_genutils
 License      : BSD
 Descript     : This package is a stop-gap that contains some common utilities shared by
@@ -17849,8 +17849,8 @@ Descript     : This package is a stop-gap that contains some common utilities sh
 <summary>python3-itsdangerous</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python library for passing trusted data to untrusted environments
+From repo    : fedora
+Short desc   : Python library for passing trusted data to untrusted environments
 URL          : https://itsdangerous.palletsprojects.com
 License      : BSD
 Descript     : Itsdangerous is a Python library for passing data through untrusted
@@ -17870,8 +17870,8 @@ Descript     : Itsdangerous is a Python library for passing data through untrust
 <summary>python3-jedi</summary>
 
 ```
-From repo     : fedora
-Short desc    : An auto completion tool for Python that can be used for text editors
+From repo    : fedora
+Short desc   : An auto completion tool for Python that can be used for text editors
 URL          : https://jedi.readthedocs.org
 License      : MIT and ASL 2.0
 Descript     : Jedi is a static analysis tool for Python that can be used in IDEs/editors. Its
@@ -17886,8 +17886,8 @@ Descript     : Jedi is a static analysis tool for Python that can be used in IDE
 <summary>python3-jinja2</summary>
 
 ```
-From repo     : fedora
-Short desc    : General purpose template engine for python3
+From repo    : fedora
+Short desc   : General purpose template engine for python3
 URL          : https://palletsprojects.com/p/jinja/
 License      : BSD
 Descript     : Jinja2 is a template engine written in pure Python.  It provides a
@@ -17907,8 +17907,8 @@ Descript     : Jinja2 is a template engine written in pure Python.  It provides 
 <summary>python3-joblib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lightweight pipelining: using Python functions as pipeline jobs
+From repo    : fedora
+Short desc   : Lightweight pipelining: using Python functions as pipeline jobs
 URL          : https://joblib.readthedocs.io
 License      : BSD
 Descript     : Joblib is a set of tools to provide lightweight pipelining in Python.
@@ -17925,8 +17925,8 @@ Descript     : Joblib is a set of tools to provide lightweight pipelining in Pyt
 <summary>python3-josepy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : JOSE protocol implementation in Python
+From repo    : updates-testing
+Short desc   : JOSE protocol implementation in Python
 URL          : https://pypi.python.org/pypi/josepy
 License      : ASL 2.0
 Descript     : JOSE protocol implementation in Python using cryptography.
@@ -17940,8 +17940,8 @@ Descript     : JOSE protocol implementation in Python using cryptography.
 <summary>python3-jsonschema</summary>
 
 ```
-From repo     : fedora
-Short desc    : Implementation of JSON Schema validation for Python
+From repo    : fedora
+Short desc   : Implementation of JSON Schema validation for Python
 URL          : https://github.com/Julian/jsonschema
 License      : MIT
 Descript     : jsonschema is an implementation of JSON Schema for Python (supporting
@@ -17959,8 +17959,8 @@ Descript     : jsonschema is an implementation of JSON Schema for Python (suppor
 <summary>python3-jupyter-client</summary>
 
 ```
-From repo     : fedora
-Short desc    : Jupyter protocol implementation and client libraries
+From repo    : fedora
+Short desc   : Jupyter protocol implementation and client libraries
 URL          : http://jupyter.org
 License      : BSD
 Descript     : This package contains the reference implementation of the Jupyter protocol.
@@ -17976,8 +17976,8 @@ Descript     : This package contains the reference implementation of the Jupyter
 <summary>python3-jupyter-core</summary>
 
 ```
-From repo     : fedora
-Short desc    : The base package for Jupyter projects
+From repo    : fedora
+Short desc   : The base package for Jupyter projects
 URL          : http://jupyter.org
 License      : BSD
 Descript     : Core common functionality of Jupyter projects.
@@ -17992,8 +17992,8 @@ Descript     : Core common functionality of Jupyter projects.
 <summary>python3-jupyterlab_pygments</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pygments theme
+From repo    : fedora
+Short desc   : Pygments theme
 URL          : https://github.com/jupyterlab/jupyterlab_pygments
 License      : BSD
 Descript     : This package contains a syntax coloring theme for pygments making use of the
@@ -18006,8 +18006,8 @@ Descript     : This package contains a syntax coloring theme for pygments making
 <summary>python3-kickstart</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 library for manipulating kickstart files.
+From repo    : anaconda
+Short desc   : Python 3 library for manipulating kickstart files.
 URL          : http://fedoraproject.org/wiki/pykickstart
 License      : GPLv2 and MIT
 Descript     : Python 3 library for manipulating kickstart files.  The binaries are found in
@@ -18020,8 +18020,8 @@ Descript     : Python 3 library for manipulating kickstart files.  The binaries 
 <summary>python3-kitchen</summary>
 
 ```
-From repo     : fedora
-Short desc    : Small, useful pieces of code to make python 3 coding easier
+From repo    : fedora
+Short desc   : Small, useful pieces of code to make python 3 coding easier
 URL          : https://pypi.python.org/pypi/kitchen/
 License      : LGPLv2+
 Descript     : kitchen includes functions to make gettext easier to use, handling unicode
@@ -18037,8 +18037,8 @@ Descript     : kitchen includes functions to make gettext easier to use, handlin
 <summary>python3-kiwisolver</summary>
 
 ```
-From repo     : fedora
-Short desc    : A fast implementation of the Cassowary constraint solver
+From repo    : fedora
+Short desc   : A fast implementation of the Cassowary constraint solver
 URL          : https://github.com/nucleic/kiwi
 License      : BSD
 Descript     : Kiwi is an efficient C++ implementation of the Cassowary constraint solving
@@ -18053,8 +18053,8 @@ Descript     : Kiwi is an efficient C++ implementation of the Cassowary constrai
 <summary>python3-kmod</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python module to work with kernel modules
+From repo    : fedora
+Short desc   : Python module to work with kernel modules
 URL          : https://github.com/agrover/python-kmod/
 License      : LGPLv2+
 Descript     : Python module to allow listing, loading, and unloading
@@ -18067,8 +18067,8 @@ Descript     : Python module to allow listing, loading, and unloading
 <summary>python3-kobo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python modules for tools development
+From repo    : fedora
+Short desc   : Python modules for tools development
 URL          : https://github.com/release-engineering/kobo
 License      : LGPLv2
 Descript     : Kobo is a set of python modules designed for rapid tools development.
@@ -18080,8 +18080,8 @@ Descript     : Kobo is a set of python modules designed for rapid tools developm
 <summary>python3-kobo-rpmlib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Functions to manipulate with RPM files
+From repo    : fedora
+Short desc   : Functions to manipulate with RPM files
 URL          : https://github.com/release-engineering/kobo
 License      : LGPLv2
 Descript     : Rpmlib contains functions to manipulate with RPM files.
@@ -18093,8 +18093,8 @@ Descript     : Rpmlib contains functions to manipulate with RPM files.
 <summary>python3-koji</summary>
 
 ```
-From repo     : fedora
-Short desc    : Build system tools python library
+From repo    : fedora
+Short desc   : Build system tools python library
 URL          : https://pagure.io/koji/
 License      : LGPLv2 and GPLv2+
 Descript     : Koji is a system for building and tracking RPMS.
@@ -18108,8 +18108,8 @@ Descript     : Koji is a system for building and tracking RPMS.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : An AMQP Messaging Framework for Python
+From repo    : fedora
+Short desc   : An AMQP Messaging Framework for Python
 URL          : http://kombu.readthedocs.org/
 License      : BSD and Python
 Descript     : AMQP is the Advanced Message Queuing Protocol, an open standard protocol
@@ -18128,8 +18128,8 @@ Descript     : AMQP is the Advanced Message Queuing Protocol, an open standard p
 <summary>python3-langtable</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python module to query the langtable-data
+From repo    : anaconda
+Short desc   : Python module to query the langtable-data
 URL          : https://github.com/mike-fabian/langtable
 License      : GPLv3+
 Descript     : This package contains a Python module to query the data
@@ -18142,8 +18142,8 @@ Descript     : This package contains a Python module to query the data
 <summary>python3-ldap3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Strictly RFC 4511 conforming LDAP V3 pure Python client
+From repo    : fedora
+Short desc   : Strictly RFC 4511 conforming LDAP V3 pure Python client
 URL          : https://github.com/cannatag/ldap3
 License      : LGPLv2+
 Descript     : ldap3 is a strictly RFC 4510 conforming LDAP V3 pure Python client library.
@@ -18157,8 +18157,8 @@ Descript     : ldap3 is a strictly RFC 4510 conforming LDAP V3 pure Python clien
 <summary>python3-libcomps</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for libcomps library
+From repo    : anaconda
+Short desc   : Python 3 bindings for libcomps library
 URL          : https://github.com/rpm-software-management/libcomps
 License      : GPLv2+
 Descript     : Python3 bindings for libcomps library.
@@ -18170,8 +18170,8 @@ Descript     : Python3 bindings for libcomps library.
 <summary>python3-libdnf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for the libdnf library.
+From repo    : anaconda
+Short desc   : Python 3 bindings for the libdnf library.
 URL          : https://github.com/rpm-software-management/libdnf
 License      : LGPLv2+
 Descript     : Python 3 bindings for the libdnf library.
@@ -18183,8 +18183,8 @@ Descript     : Python 3 bindings for the libdnf library.
 <summary>python3-libdnf</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 bindings for the libdnf library.
+From repo    : updates-testing
+Short desc   : Python 3 bindings for the libdnf library.
 URL          : https://github.com/rpm-software-management/libdnf
 License      : LGPLv2+
 Descript     : Python 3 bindings for the libdnf library.
@@ -18196,8 +18196,8 @@ Descript     : Python 3 bindings for the libdnf library.
 <summary>python3-libmodulemd</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 bindings for libmodulemd
+From repo    : fedora
+Short desc   : Python 3 bindings for libmodulemd
 URL          : https://github.com/fedora-modularity/libmodulemd
 License      : MIT
 Descript     : Python 3 bindings for libmodulemd
@@ -18209,8 +18209,8 @@ Descript     : Python 3 bindings for libmodulemd
 <summary>python3-libreport</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for report-libs
+From repo    : anaconda
+Short desc   : Python 3 bindings for report-libs
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Python 3 bindings for report-libs.
@@ -18222,8 +18222,8 @@ Descript     : Python 3 bindings for report-libs.
 <summary>python3-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python runtime libraries
+From repo    : anaconda
+Short desc   : Python runtime libraries
 URL          : https://www.python.org/
 License      : Python
 Descript     : This package contains runtime libraries for use by Python:
@@ -18238,8 +18238,8 @@ Descript     : This package contains runtime libraries for use by Python:
 <summary>python3-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python runtime libraries
+From repo    : updates-testing
+Short desc   : Python runtime libraries
 URL          : https://www.python.org/
 License      : Python
 Descript     : This package contains runtime libraries for use by Python:
@@ -18254,8 +18254,8 @@ Descript     : This package contains runtime libraries for use by Python:
 <summary>python3-libselinux</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SELinux python 3 bindings for libselinux
+From repo    : anaconda
+Short desc   : SELinux python 3 bindings for libselinux
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : Public Domain
 Descript     : The libselinux-python3 package contains python 3 bindings for developing
@@ -18268,8 +18268,8 @@ Descript     : The libselinux-python3 package contains python 3 bindings for dev
 <summary>python3-libselinux</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux python 3 bindings for libselinux
+From repo    : updates-testing
+Short desc   : SELinux python 3 bindings for libselinux
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : Public Domain
 Descript     : The libselinux-python3 package contains python 3 bindings for developing
@@ -18282,8 +18282,8 @@ Descript     : The libselinux-python3 package contains python 3 bindings for dev
 <summary>python3-libsemanage</summary>
 
 ```
-From repo     : anaconda
-Short desc    : semanage python 3 bindings for libsemanage
+From repo    : anaconda
+Short desc   : semanage python 3 bindings for libsemanage
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : LGPLv2+
 Descript     : The libsemanage-python3 package contains the python 3 bindings for developing
@@ -18296,8 +18296,8 @@ Descript     : The libsemanage-python3 package contains the python 3 bindings fo
 <summary>python3-libsemanage</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : semanage python 3 bindings for libsemanage
+From repo    : updates-testing
+Short desc   : semanage python 3 bindings for libsemanage
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : LGPLv2+
 Descript     : The libsemanage-python3 package contains the python 3 bindings for developing
@@ -18310,8 +18310,8 @@ Descript     : The libsemanage-python3 package contains the python 3 bindings fo
 <summary>python3-libstoragemgmt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 client libraries and plug-in support for libstoragemgmt
+From repo    : updates-testing
+Short desc   : Python 3 client libraries and plug-in support for libstoragemgmt
 URL          : https://github.com/libstorage/libstoragemgmt
 License      : LGPLv2+
 Descript     : This contains python 3 client libraries as well as python framework
@@ -18324,8 +18324,8 @@ Descript     : This contains python 3 client libraries as well as python framewo
 <summary>python3-libxml2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for the libxml2 library
+From repo    : anaconda
+Short desc   : Python 3 bindings for the libxml2 library
 URL          : http://xmlsoft.org/
 License      : MIT
 Descript     : The libxml2-python3 package contains a Python 3 module that permits
@@ -18345,8 +18345,8 @@ Descript     : The libxml2-python3 package contains a Python 3 module that permi
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Platform-independent file locking module
+From repo    : fedora
+Short desc   : Platform-independent file locking module
 URL          : https://github.com/openstack/pylockfile
 License      : MIT
 Descript     : The lockfile module exports a FileLock class which provides a simple API for
@@ -18363,8 +18363,8 @@ Descript     : The lockfile module exports a FileLock class which provides a sim
 <summary>python3-louis</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 language bindings for liblouis
+From repo    : anaconda
+Short desc   : Python 3 language bindings for liblouis
 URL          : http://liblouis.org
 License      : LGPLv3+
 Descript     : This package provides Python 3 language bindings for liblouis.
@@ -18376,8 +18376,8 @@ Descript     : This package provides Python 3 language bindings for liblouis.
 <summary>python3-lxml</summary>
 
 ```
-From repo     : anaconda
-Short desc    : XML processing library combining libxml2/libxslt with the ElementTree API
+From repo    : anaconda
+Short desc   : XML processing library combining libxml2/libxslt with the ElementTree API
 URL          : https://github.com/lxml/lxml
 License      : BSD
 Descript     : lxml is a Pythonic, mature binding for the libxml2 and libxslt libraries. It
@@ -18395,8 +18395,8 @@ Descript     : lxml is a Pythonic, mature binding for the libxml2 and libxslt li
 <summary>python3-lz4</summary>
 
 ```
-From repo     : fedora
-Short desc    : LZ4 Bindings for Python 3
+From repo    : fedora
+Short desc   : LZ4 Bindings for Python 3
 URL          : https://github.com/python-lz4/python-lz4
 License      : BSD
 Descript     : Python 3 bindings for the lz4 compression library.
@@ -18408,8 +18408,8 @@ Descript     : Python 3 bindings for the lz4 compression library.
 <summary>python3-m2crypto</summary>
 
 ```
-From repo     : fedora
-Short desc    : Support for using OpenSSL in Python 3 scripts
+From repo    : fedora
+Short desc   : Support for using OpenSSL in Python 3 scripts
 URL          : https://gitlab.com/m2crypto/m2crypto/
 License      : MIT
 Descript     : This package allows you to call OpenSSL functions from Python 3 scripts.
@@ -18421,8 +18421,8 @@ Descript     : This package allows you to call OpenSSL functions from Python 3 s
 <summary>python3-mako</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Mako template library for Python
+From repo    : updates-testing
+Short desc   : Mako template library for Python
 URL          : http://www.makotemplates.org/
 License      : (MIT and Python) and (BSD or GPLv2)
 Descript     : Mako is a template library written in Python. It provides a familiar, non-XML
@@ -18443,8 +18443,8 @@ Descript     : Mako is a template library written in Python. It provides a famil
 <summary>python3-markupsafe</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Implements a XML/HTML/XHTML Markup safe string for Python 3
+From repo    : anaconda
+Short desc   : Implements a XML/HTML/XHTML Markup safe string for Python 3
 URL          : https://pypi.org/project/MarkupSafe/
 License      : BSD
 Descript     : A library for safe markup escaping. Python 3 version.
@@ -18456,8 +18456,8 @@ Descript     : A library for safe markup escaping. Python 3 version.
 <summary>python3-matplotlib</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 2D plotting library
+From repo    : updates-testing
+Short desc   : Python 2D plotting library
 URL          : http://matplotlib.org
 License      : Python and MIT and Public Domain
 Descript     : Matplotlib is a Python 2D plotting library which produces publication
@@ -18477,8 +18477,8 @@ Descript     : Matplotlib is a Python 2D plotting library which produces publica
 <summary>python3-matplotlib-data</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Data used by python-matplotlib
+From repo    : updates-testing
+Short desc   : Data used by python-matplotlib
 URL          : http://matplotlib.org
 License      : Python and MIT and Public Domain
 Descript     : Data used by python-matplotlib
@@ -18490,8 +18490,8 @@ Descript     : Data used by python-matplotlib
 <summary>python3-matplotlib-data-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fonts used by python-matplotlib
+From repo    : updates-testing
+Short desc   : Fonts used by python-matplotlib
 URL          : http://matplotlib.org
 License      : OFL and Bitstream Vera and Public Domain
 Descript     : Fonts used by python-matplotlib
@@ -18503,8 +18503,8 @@ Descript     : Fonts used by python-matplotlib
 <summary>python3-matplotlib-tk</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tk backend for python3-matplotlib
+From repo    : updates-testing
+Short desc   : Tk backend for python3-matplotlib
 URL          : http://matplotlib.org
 License      : Python and MIT and Public Domain
 Descript     : Tk backend for python3-matplotlib
@@ -18516,8 +18516,8 @@ Descript     : Tk backend for python3-matplotlib
 <summary>python3-meh</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A python 3 library for handling exceptions
+From repo    : anaconda
+Short desc   : A python 3 library for handling exceptions
 URL          : https://github.com/rhinstaller/python-meh
 License      : GPLv2+
 Descript     : The python3-meh package is a python 3 library for handling, saving, and reporting
@@ -18530,8 +18530,8 @@ Descript     : The python3-meh package is a python 3 library for handling, savin
 <summary>python3-meh-gui</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Graphical user interface for the python3-meh library
+From repo    : anaconda
+Short desc   : Graphical user interface for the python3-meh library
 URL          : https://github.com/rhinstaller/python-meh
 License      : GPLv2+
 Descript     : The python3-meh-gui package provides a GUI for the python3-meh library.
@@ -18543,8 +18543,8 @@ Descript     : The python3-meh-gui package provides a GUI for the python3-meh li
 <summary>python3-mistune</summary>
 
 ```
-From repo     : fedora
-Short desc    : Markdown parser for Python
+From repo    : fedora
+Short desc   : Markdown parser for Python
 URL          : https://github.com/lepture/mistune
 License      : BSD
 Descript     : The fastest markdown parser in pure Python, inspired by marked.
@@ -18556,8 +18556,8 @@ Descript     : The fastest markdown parser in pure Python, inspired by marked.
 <summary>python3-moksha-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common components for Moksha
+From repo    : fedora
+Short desc   : Common components for Moksha
 URL          : https://pypi.io/project/moksha.common
 License      : ASL 2.0 or MIT
 Descript     : Common components for Moksha.
@@ -18569,8 +18569,8 @@ Descript     : Common components for Moksha.
 <summary>python3-moksha-hub</summary>
 
 ```
-From repo     : fedora
-Short desc    : Hub components for Moksha
+From repo    : fedora
+Short desc   : Hub components for Moksha
 URL          : https://pypi.io/project/moksha.hub
 License      : ASL 2.0
 Descript     : Hub components for Moksha.
@@ -18582,8 +18582,8 @@ Descript     : Hub components for Moksha.
 <summary>python3-mpmath</summary>
 
 ```
-From repo     : fedora
-Short desc    : A pure Python library for multiprecision floating-point arithmetic
+From repo    : fedora
+Short desc   : A pure Python library for multiprecision floating-point arithmetic
 URL          : https://mpmath.org
 License      : BSD
 Descript     : Mpmath is a pure-Python library for multiprecision floating-point
@@ -18605,8 +18605,8 @@ Descript     : Mpmath is a pure-Python library for multiprecision floating-point
 <summary>python3-munch</summary>
 
 ```
-From repo     : fedora
-Short desc    : A dot-accessible dictionary (a la JavaScript objects)
+From repo    : fedora
+Short desc   : A dot-accessible dictionary (a la JavaScript objects)
 URL          : https://pypi.io/project/munch
 License      : MIT
 Descript     : munch is a fork of David Schoonover's **Bunch** package, providing similar
@@ -18624,8 +18624,8 @@ Descript     : munch is a fork of David Schoonover's **Bunch** package, providin
 <summary>python3-nbclient</summary>
 
 ```
-From repo     : fedora
-Short desc    : A client library for executing notebooks
+From repo    : fedora
+Short desc   : A client library for executing notebooks
 URL          : https://jupyter.org
 License      : BSD
 Descript     : 
@@ -18640,8 +18640,8 @@ Descript     :
 <summary>python3-nbconvert</summary>
 
 ```
-From repo     : fedora
-Short desc    : Converting Jupyter Notebooks
+From repo    : fedora
+Short desc   : Converting Jupyter Notebooks
 URL          : http://jupyter.org
 License      : BSD and MIT
 Descript     : 
@@ -18657,8 +18657,8 @@ Descript     :
 <summary>python3-nbformat</summary>
 
 ```
-From repo     : fedora
-Short desc    : The Jupyter Notebook format
+From repo    : fedora
+Short desc   : The Jupyter Notebook format
 URL          : https://pypi.python.org/pypi/nbformat
 License      : BSD
 Descript     : This package contains the base implementation of the Jupyter Notebook format,
@@ -18671,8 +18671,8 @@ Descript     : This package contains the base implementation of the Jupyter Note
 <summary>python3-nest_asyncio</summary>
 
 ```
-From repo     : fedora
-Short desc    : Patch asyncio to allow nested event loops
+From repo    : fedora
+Short desc   : Patch asyncio to allow nested event loops
 URL          : https://github.com/erdewit/nest_asyncio
 License      : BSD
 Descript     : 
@@ -18691,8 +18691,8 @@ Descript     :
 <summary>python3-netifaces</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 library to retrieve information about network interfaces
+From repo    : fedora
+Short desc   : Python 3 library to retrieve information about network interfaces
 URL          : https://pypi.python.org/pypi/netifaces
 License      : MIT
 Descript     : This package provides a cross platform API for getting address information
@@ -18705,8 +18705,8 @@ Descript     : This package provides a cross platform API for getting address in
 <summary>python3-networkx</summary>
 
 ```
-From repo     : fedora
-Short desc    : Creates and Manipulates Graphs and Networks
+From repo    : fedora
+Short desc   : Creates and Manipulates Graphs and Networks
 URL          : http://networkx.github.io/
 License      : BSD
 Descript     : NetworkX is a Python 3 package for the creation, manipulation, and
@@ -18720,8 +18720,8 @@ Descript     : NetworkX is a Python 3 package for the creation, manipulation, an
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Python module providing an interface to libnftables
+From repo    : anaconda
+Short desc   : Python module providing an interface to libnftables
 URL          : https://netfilter.org/projects/nftables/
 License      : GPLv2
 Descript     : The nftables python module provides an interface to libnftables via ctypes.
@@ -18733,8 +18733,8 @@ Descript     : The nftables python module provides an interface to libnftables v
 <summary>python3-notebook</summary>
 
 ```
-From repo     : fedora
-Short desc    : A web-based notebook environment for interactive computing
+From repo    : fedora
+Short desc   : A web-based notebook environment for interactive computing
 URL          : http://jupyter.org
 License      : BSD
 Descript     : The Jupyter Notebook is a web application that allows you to create and
@@ -18749,8 +18749,8 @@ Descript     : The Jupyter Notebook is a web application that allows you to crea
 <summary>python3-numexpr</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fast numerical array expression evaluator for Python and NumPy
+From repo    : fedora
+Short desc   : Fast numerical array expression evaluator for Python and NumPy
 URL          : https://github.com/pydata/numexpr
 License      : MIT
 Descript     : The numexpr package evaluates multiple-operator array expressions many
@@ -18770,8 +18770,8 @@ Descript     : The numexpr package evaluates multiple-operator array expressions
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A fast multidimensional array facility for Python
+From repo    : fedora
+Short desc   : A fast multidimensional array facility for Python
 URL          : http://www.numpy.org/
 License      : BSD
 Descript     : NumPy is a general-purpose array-processing package designed to
@@ -18793,8 +18793,8 @@ Descript     : NumPy is a general-purpose array-processing package designed to
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : f2py for numpy
+From repo    : fedora
+Short desc   : f2py for numpy
 URL          : http://www.numpy.org/
 License      : BSD and Python and ASL 2.0
 Descript     : This package includes a version of f2py that works properly with NumPy.
@@ -18806,8 +18806,8 @@ Descript     : This package includes a version of f2py that works properly with 
 <summary>python3-olefile</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python package to parse, read and write Microsoft OLE2 files
+From repo    : anaconda
+Short desc   : Python package to parse, read and write Microsoft OLE2 files
 URL          : https://www.decalage.info/python/olefile
 License      : BSD
 Descript     : olefile is a Python package to parse, read and write Microsoft OLE2 files
@@ -18826,8 +18826,8 @@ Descript     : olefile is a Python package to parse, read and write Microsoft OL
 <summary>python3-openidc-client</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python OpenID Connect client with token caching and management
+From repo    : fedora
+Short desc   : Python OpenID Connect client with token caching and management
 URL          : https://github.com/puiterwijk/python-openidc-client
 License      : MIT
 Descript     : Python OpenID Connect client with token caching and management.
@@ -18841,8 +18841,8 @@ Descript     : Python OpenID Connect client with token caching and management.
 <summary>python3-packaging</summary>
 
 ```
-From repo     : fedora
-Short desc    : Core utilities for Python packages
+From repo    : fedora
+Short desc   : Core utilities for Python packages
 URL          : https://github.com/pypa/packaging
 License      : BSD or ASL 2.0
 Descript     : python-packaging provides core utilities for Python packages like utilities for
@@ -18855,8 +18855,8 @@ Descript     : python-packaging provides core utilities for Python packages like
 <summary>python3-pandas</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python library providing high-performance data analysis tools
+From repo    : fedora
+Short desc   : Python library providing high-performance data analysis tools
 URL          : https://pandas.pydata.org/
 License      : BSD
 Descript     : pandas is an open source, BSD-licensed library providing
@@ -18870,8 +18870,8 @@ Descript     : pandas is an open source, BSD-licensed library providing
 <summary>python3-pandas-datareader</summary>
 
 ```
-From repo     : fedora
-Short desc    : Data readers from the pandas codebase
+From repo    : fedora
+Short desc   : Data readers from the pandas codebase
 URL          : https://github.com/pydata/pandas-datareader
 License      : BSD
 Descript     : 
@@ -18885,8 +18885,8 @@ Descript     :
 <summary>python3-pandocfilters</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python module for writing pandoc filters
+From repo    : fedora
+Short desc   : Python module for writing pandoc filters
 URL          : https://github.com/jgm/pandocfilters
 License      : BSD
 Descript     : This package provides a few utility functions which make it easier to
@@ -18899,8 +18899,8 @@ Descript     : This package provides a few utility functions which make it easie
 <summary>python3-parameterized</summary>
 
 ```
-From repo     : fedora
-Short desc    : Parameterized testing with any Python test framework
+From repo    : fedora
+Short desc   : Parameterized testing with any Python test framework
 URL          : https://pypi.python.org/pypi/parameterized
 License      : BSD
 Descript     : Parameterized testing with any Python test framework.
@@ -18914,8 +18914,8 @@ Descript     : Parameterized testing with any Python test framework.
 <summary>python3-parsedatetime</summary>
 
 ```
-From repo     : fedora
-Short desc    : Parse human-readable date/time strings in Python
+From repo    : fedora
+Short desc   : Parse human-readable date/time strings in Python
 URL          : https://github.com/bear/parsedatetime
 License      : ASL 2.0
 Descript     : parsedatetime is a python module that can parse human-readable date/time
@@ -18928,8 +18928,8 @@ Descript     : parsedatetime is a python module that can parse human-readable da
 <summary>python3-parso</summary>
 
 ```
-From repo     : fedora
-Short desc    : Parser that supports error recovery and round-trip parsing
+From repo    : fedora
+Short desc   : Parser that supports error recovery and round-trip parsing
 URL          : https://parso.readthedocs.io
 License      : MIT and Python
 Descript     : Parso is a Python parser that supports error recovery and round-trip parsing
@@ -18946,8 +18946,8 @@ Descript     : Parso is a Python parser that supports error recovery and round-t
 <summary>python3-paste</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tools for using a Web Server Gateway Interface stack
+From repo    : anaconda
+Short desc   : Tools for using a Web Server Gateway Interface stack
 URL          : https://github.com/cdent/paste
 License      : MIT and ZPLv2.0 and Python and (AFL or MIT) and (MIT or ASL 2.0)
 Descript     : These provide several pieces of "middleware" (or filters) that can be nested
@@ -18962,8 +18962,8 @@ Descript     : These provide several pieces of "middleware" (or filters) that ca
 <summary>python3-pathspec</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility library for gitignore style pattern matching of file paths
+From repo    : fedora
+Short desc   : Utility library for gitignore style pattern matching of file paths
 URL          : https://github.com/cpburnz/python-path-specification
 License      : MPL 2.0
 Descript     : Path Specification (pathspec) is a utility library for pattern matching of file
@@ -18977,8 +18977,8 @@ Descript     : Path Specification (pathspec) is a utility library for pattern ma
 <summary>python3-patsy</summary>
 
 ```
-From repo     : fedora
-Short desc    : Describing statistical models in Python using symbolic formulas
+From repo    : fedora
+Short desc   : Describing statistical models in Python using symbolic formulas
 URL          : https://github.com/pydata/patsy
 License      : BSD and Python
 Descript     : 
@@ -18993,8 +18993,8 @@ Descript     :
 <summary>python3-pbr</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python Build Reasonableness
+From repo    : fedora
+Short desc   : Python Build Reasonableness
 URL          : http://pypi.python.org/pypi/pbr
 License      : ASL 2.0
 Descript     : Manage dynamic plugins for Python applications
@@ -19006,8 +19006,8 @@ Descript     : Manage dynamic plugins for Python applications
 <summary>python3-pexpect</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Unicode-aware Pure Python Expect-like module
+From repo    : anaconda
+Short desc   : Unicode-aware Pure Python Expect-like module
 URL          : https://github.com/pexpect/pexpect
 License      : ISC
 Descript     : Pexpect is a pure Python module for spawning child applications; controlling
@@ -19032,8 +19032,8 @@ Descript     : Pexpect is a pure Python module for spawning child applications; 
 <summary>python3-pickleshare</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tiny 'shelve'-like database with concurrency support
+From repo    : fedora
+Short desc   : Tiny 'shelve'-like database with concurrency support
 URL          : https://github.com/pickleshare/pickleshare
 License      : MIT
 Descript     : 
@@ -19055,8 +19055,8 @@ Descript     :
 <summary>python3-pid</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PID file management library
+From repo    : anaconda
+Short desc   : PID file management library
 URL          : https://github.com/trbs/pid
 License      : ASL 2.0
 Descript     : pid provides a PidFile class that manages PID files. PidFile features:
@@ -19075,8 +19075,8 @@ Descript     : pid provides a PidFile class that manages PID files. PidFile feat
 <summary>python3-pillow</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 image processing library
+From repo    : anaconda
+Short desc   : Python 3 image processing library
 URL          : http://python-pillow.github.io/
 License      : MIT
 Descript     : Python image processing library, fork of the Python Imaging Library (PIL)
@@ -19094,8 +19094,8 @@ Descript     : Python image processing library, fork of the Python Imaging Libra
 <summary>python3-pillow</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 image processing library
+From repo    : updates-testing
+Short desc   : Python 3 image processing library
 URL          : http://python-pillow.github.io/
 License      : MIT
 Descript     : Python image processing library, fork of the Python Imaging Library (PIL)
@@ -19113,8 +19113,8 @@ Descript     : Python image processing library, fork of the Python Imaging Libra
 <summary>python3-pillow-tk</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tk interface for pillow
+From repo    : updates-testing
+Short desc   : Tk interface for pillow
 URL          : http://python-pillow.github.io/
 License      : MIT
 Descript     : Tk interface for python-pillow.
@@ -19126,8 +19126,8 @@ Descript     : Tk interface for python-pillow.
 <summary>python3-pip</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A tool for installing and managing Python3 packages
+From repo    : anaconda
+Short desc   : A tool for installing and managing Python3 packages
 URL          : https://pip.pypa.io/
 License      : MIT and Python and ASL 2.0 and BSD and ISC and LGPLv2 and MPLv2.0 and (ASL 2.0 or BSD)
 Descript     : pip is a package management system used to install and manage software packages
@@ -19142,8 +19142,8 @@ Descript     : pip is a package management system used to install and manage sof
 <summary>python3-pip</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A tool for installing and managing Python3 packages
+From repo    : updates-testing
+Short desc   : A tool for installing and managing Python3 packages
 URL          : https://pip.pypa.io/
 License      : MIT and Python and ASL 2.0 and BSD and ISC and LGPLv2 and MPLv2.0 and (ASL 2.0 or BSD)
 Descript     : pip is a package management system used to install and manage software packages
@@ -19158,8 +19158,8 @@ Descript     : pip is a package management system used to install and manage sof
 <summary>python3-ply</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python Lex-Yacc
+From repo    : anaconda
+Short desc   : Python Lex-Yacc
 URL          : http://www.dabeaz.com/ply/
 License      : BSD
 Descript     : PLY is a straightforward lex/yacc implementation. Here is a list of its
@@ -19184,8 +19184,8 @@ Descript     : PLY is a straightforward lex/yacc implementation. Here is a list 
 <summary>python3-policycoreutils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SELinux policy core python3 interfaces
+From repo    : anaconda
+Short desc   : SELinux policy core python3 interfaces
 URL          : https://github.com/SELinuxProject/selinux
 License      : GPLv2
 Descript     : The python3-policycoreutils package contains the interfaces that can be used
@@ -19198,8 +19198,8 @@ Descript     : The python3-policycoreutils package contains the interfaces that 
 <summary>python3-policycoreutils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux policy core python3 interfaces
+From repo    : updates-testing
+Short desc   : SELinux policy core python3 interfaces
 URL          : https://github.com/SELinuxProject/selinux
 License      : GPLv2
 Descript     : The python3-policycoreutils package contains the interfaces that can be used
@@ -19212,8 +19212,8 @@ Descript     : The python3-policycoreutils package contains the interfaces that 
 <summary>python3-productmd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing parsers for metadata related to OS installation
+From repo    : anaconda
+Short desc   : Library providing parsers for metadata related to OS installation
 URL          : https://github.com/release-engineering/productmd
 License      : LGPLv2+
 Descript     : Python library providing parsers for metadata related to composes
@@ -19226,8 +19226,8 @@ Descript     : Python library providing parsers for metadata related to composes
 <summary>python3-progressbar2</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Progressbar library to provide visual progress to long running operations
+From repo    : fedora
+Short desc   : A Progressbar library to provide visual progress to long running operations
 URL          : https://pypi.python.org/pypi/progressbar2
 License      : BSD
 Descript     : 
@@ -19247,8 +19247,8 @@ Descript     :
 <summary>python3-prometheus_client</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python client for Prometheus
+From repo    : fedora
+Short desc   : Python client for Prometheus
 URL          : https://github.com/prometheus/client_python
 License      : ASL 2.0
 Descript     : Python client for Prometheus.
@@ -19260,8 +19260,8 @@ Descript     : Python client for Prometheus.
 <summary>python3-prompt-toolkit</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for building powerful interactive command lines in Python
+From repo    : fedora
+Short desc   : Library for building powerful interactive command lines in Python
 URL          : https://github.com/prompt-toolkit/python-prompt-toolkit
 License      : BSD
 Descript     : prompt_toolkit is a library for building powerful interactive command lines and
@@ -19274,8 +19274,8 @@ Descript     : prompt_toolkit is a library for building powerful interactive com
 <summary>python3-protobuf</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 bindings for Google Protocol Buffers
+From repo    : updates-testing
+Short desc   : Python 3 bindings for Google Protocol Buffers
 URL          : https://github.com/protocolbuffers/protobuf
 License      : BSD
 Descript     : This package contains Python 3 libraries for Google Protocol Buffers
@@ -19287,8 +19287,8 @@ Descript     : This package contains Python 3 libraries for Google Protocol Buff
 <summary>python3-psutil</summary>
 
 ```
-From repo     : fedora
-Short desc    : A process and system utilities module for Python
+From repo    : fedora
+Short desc   : A process and system utilities module for Python
 URL          : https://github.com/giampaolo/psutil
 License      : BSD
 Descript     : psutil is a module providing an interface for retrieving information on all
@@ -19304,8 +19304,8 @@ Descript     : psutil is a module providing an interface for retrieving informat
 <summary>python3-ptyprocess</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Run a subprocess in a pseudo terminal
+From repo    : anaconda
+Short desc   : Run a subprocess in a pseudo terminal
 URL          : https://github.com/pexpect/ptyprocess
 License      : ISC
 Descript     : Launch a subprocess in a pseudo terminal (pty), and interact with both the
@@ -19318,8 +19318,8 @@ Descript     : Launch a subprocess in a pseudo terminal (pty), and interact with
 <summary>python3-pungi</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 libraries for pungi
+From repo    : fedora
+Short desc   : Python 3 libraries for pungi
 URL          : https://pagure.io/pungi
 License      : GPLv2
 Descript     : Python library with code for Pungi. This is not a public library and there are
@@ -19332,8 +19332,8 @@ Descript     : Python library with code for Pungi. This is not a public library 
 <summary>python3-pwquality</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python bindings for the libpwquality library
+From repo    : anaconda
+Short desc   : Python bindings for the libpwquality library
 URL          : https://github.com/libpwquality/libpwquality/
 License      : BSD or GPLv2+
 Descript     : This is pwquality Python module that provides Python bindings
@@ -19348,8 +19348,8 @@ Descript     : This is pwquality Python module that provides Python bindings
 <summary>python3-py3nvml</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 Bindings for the NVIDIA Management Library
+From repo    : fedora
+Short desc   : Python 3 Bindings for the NVIDIA Management Library
 URL          : https://github.com/fbcotter/py3nvml
 License      : BSD
 Descript     : Python 3 compatible bindings to the NVIDIA Management Library. Can be used to
@@ -19362,8 +19362,8 @@ Descript     : Python 3 compatible bindings to the NVIDIA Management Library. Ca
 <summary>python3-pyOpenSSL</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 wrapper module around the OpenSSL library
+From repo    : anaconda
+Short desc   : Python 3 wrapper module around the OpenSSL library
 URL          : https://pyopenssl.readthedocs.org/
 License      : ASL 2.0
 Descript     : High-level wrapper around a subset of the OpenSSL library, includes among others
@@ -19379,8 +19379,8 @@ Descript     : High-level wrapper around a subset of the OpenSSL library, includ
 <summary>python3-pyasn1</summary>
 
 ```
-From repo     : fedora
-Short desc    : ASN.1 tools for Python 3
+From repo    : fedora
+Short desc   : ASN.1 tools for Python 3
 URL          : http://pyasn1.sourceforge.net/
 License      : BSD
 Descript     : This is an implementation of ASN.1 types and codecs in the Python 3 programming
@@ -19393,8 +19393,8 @@ Descript     : This is an implementation of ASN.1 types and codecs in the Python
 <summary>python3-pyasn1-modules</summary>
 
 ```
-From repo     : fedora
-Short desc    : Modules for pyasn1
+From repo    : fedora
+Short desc   : Modules for pyasn1
 URL          : http://pyasn1.sourceforge.net/
 License      : BSD
 Descript     : ASN.1 types modules for python3-pyasn1.
@@ -19406,8 +19406,8 @@ Descript     : ASN.1 types modules for python3-pyasn1.
 <summary>python3-pyatspi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python3 bindings for at-spi
+From repo    : anaconda
+Short desc   : Python3 bindings for at-spi
 URL          : http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus
 License      : LGPLv2 and GPLv2
 Descript     : at-spi allows assistive technologies to access GTK-based
@@ -19424,8 +19424,8 @@ Descript     : at-spi allows assistive technologies to access GTK-based
 <summary>python3-pyatspi</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python3 bindings for at-spi
+From repo    : updates-testing
+Short desc   : Python3 bindings for at-spi
 URL          : http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus
 License      : LGPLv2 and GPLv2
 Descript     : at-spi allows assistive technologies to access GTK-based
@@ -19442,8 +19442,8 @@ Descript     : at-spi allows assistive technologies to access GTK-based
 <summary>python3-pycparser</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C parser and AST generator written in Python
+From repo    : anaconda
+Short desc   : C parser and AST generator written in Python
 URL          : http://github.com/eliben/pycparser
 License      : BSD
 Descript     : pycparser is a complete parser for the C language, written in pure Python.
@@ -19457,8 +19457,8 @@ Descript     : pycparser is a complete parser for the C language, written in pur
 <summary>python3-pycurl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python interface to libcurl for Python 3
+From repo    : anaconda
+Short desc   : Python interface to libcurl for Python 3
 URL          : http://pycurl.sourceforge.net/
 License      : LGPLv2+ or MIT
 Descript     : PycURL is a Python interface to libcurl. PycURL can be used to fetch
@@ -19475,8 +19475,8 @@ Descript     : PycURL is a Python interface to libcurl. PycURL can be used to fe
 <summary>python3-pydot</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python3 interface to Graphviz's Dot language
+From repo    : fedora
+Short desc   : Python3 interface to Graphviz's Dot language
 URL          : https://github.com/erocarrera/pydot
 License      : MIT
 Descript     : 
@@ -19495,8 +19495,8 @@ Descript     :
 <summary>python3-pyglet</summary>
 
 ```
-From repo     : fedora
-Short desc    : A cross-platform windowing and multimedia library for Python 3
+From repo    : fedora
+Short desc   : A cross-platform windowing and multimedia library for Python 3
 URL          : http://www.pyglet.org/
 License      : BSD
 Descript     : This library provides an object-oriented programming interface for developing
@@ -19515,8 +19515,8 @@ Descript     : This library provides an object-oriented programming interface fo
 <summary>python3-pygments</summary>
 
 ```
-From repo     : fedora
-Short desc    : Syntax highlighting engine written in Python
+From repo    : fedora
+Short desc   : Syntax highlighting engine written in Python
 URL          : https://pygments.org/
 License      : BSD
 Descript     : Pygments is a generic syntax highlighter for general use in all kinds
@@ -19540,8 +19540,8 @@ Descript     : Pygments is a generic syntax highlighter for general use in all k
 <summary>python3-pygpu</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python 3 interface to manipulate tensors on a GPU
+From repo    : fedora
+Short desc   : Python 3 interface to manipulate tensors on a GPU
 URL          : http://deeplearning.net/software/libgpuarray/
 License      : ISC and MIT
 Descript     : The goal of this project is to make a common GPU ndarray (n dimensional
@@ -19555,8 +19555,8 @@ Descript     : The goal of this project is to make a common GPU ndarray (n dimen
 <summary>python3-pygraphviz</summary>
 
 ```
-From repo     : fedora
-Short desc    : Create and Manipulate Graphs and Networks
+From repo    : fedora
+Short desc   : Create and Manipulate Graphs and Networks
 URL          : http://networkx.lanl.gov/pygraphviz/
 License      : BSD
 Descript     : PyGraphviz is a Python interface to the Graphviz graph layout and
@@ -19572,8 +19572,8 @@ Descript     : PyGraphviz is a Python interface to the Graphviz graph layout and
 <summary>python3-pylibacl</summary>
 
 ```
-From repo     : fedora
-Short desc    : POSIX.1e ACLs library wrapper for Python
+From repo    : fedora
+Short desc   : POSIX.1e ACLs library wrapper for Python
 URL          : https://pylibacl.k1024.org
 License      : LGPLv2+
 Descript     : Python extension module for POSIX ACLs. It allows to query, list,
@@ -19586,8 +19586,8 @@ Descript     : Python extension module for POSIX ACLs. It allows to query, list,
 <summary>python3-pypandoc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Thin wrapper for pandoc
+From repo    : fedora
+Short desc   : Thin wrapper for pandoc
 URL          : https://github.com/bebraw/pypandoc
 License      : MIT
 Descript     : pypandoc provides a thin Python wrapper for pandoc, a universal
@@ -19601,8 +19601,8 @@ Descript     : pypandoc provides a thin Python wrapper for pandoc, a universal
 <summary>python3-pyparsing</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python package with an object-oriented approach to text processing
+From repo    : fedora
+Short desc   : Python package with an object-oriented approach to text processing
 URL          : https://github.com/pyparsing/pyparsing
 License      : MIT
 Descript     : pyparsing is a module that can be used to easily and directly configure syntax
@@ -19618,8 +19618,8 @@ Descript     : pyparsing is a module that can be used to easily and directly con
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Python 3 module for GNU parted
+From repo    : anaconda
+Short desc   : Python 3 module for GNU parted
 URL          : https://github.com/dcantrell/pyparted
 License      : GPLv2+
 Descript     : Python module for the parted library.  It is used for manipulating
@@ -19632,8 +19632,8 @@ Descript     : Python module for the parted library.  It is used for manipulatin
 <summary>python3-pyrfc3339</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generate and parse RFC 3339 timestamps
+From repo    : fedora
+Short desc   : Generate and parse RFC 3339 timestamps
 URL          : https://pypi.python.org/pypi/pyRFC3339
 License      : MIT
 Descript     : This package contains a Python 3 library to parse and generate
@@ -19646,8 +19646,8 @@ Descript     : This package contains a Python 3 library to parse and generate
 <summary>python3-pyroute2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pure Python netlink library
+From repo    : fedora
+Short desc   : Pure Python netlink library
 URL          : https://github.com/svinota/pyroute2
 License      : GPLv2+
 Descript     : PyRoute2 provides several levels of API to work with Netlink
@@ -19661,8 +19661,8 @@ Descript     : PyRoute2 provides several levels of API to work with Netlink
 <summary>python3-pyrsistent</summary>
 
 ```
-From repo     : fedora
-Short desc    : Persistent/Functional/Immutable data structures
+From repo    : fedora
+Short desc   : Persistent/Functional/Immutable data structures
 URL          : https://github.com/tobgu/pyrsistent/
 License      : MIT and BSD
 Descript     : Pyrsistent is a number of persistent collections (by some referred to as
@@ -19680,8 +19680,8 @@ Descript     : Pyrsistent is a number of persistent collections (by some referre
 <summary>python3-pysocks</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A Python SOCKS client module
+From repo    : anaconda
+Short desc   : A Python SOCKS client module
 URL          : https://github.com/Anorov/PySocks
 License      : BSD
 Descript     : 
@@ -19703,8 +19703,8 @@ Descript     :
 <summary>python3-pytz</summary>
 
 ```
-From repo     : anaconda
-Short desc    : World Timezone Definitions for Python
+From repo    : anaconda
+Short desc   : World Timezone Definitions for Python
 URL          : http://pytz.sourceforge.net/
 License      : MIT
 Descript     : pytz brings the Olson tz database into Python. This library allows accurate
@@ -19722,8 +19722,8 @@ Descript     : pytz brings the Olson tz database into Python. This library allow
 <summary>python3-pytz</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : World Timezone Definitions for Python
+From repo    : updates-testing
+Short desc   : World Timezone Definitions for Python
 URL          : http://pytz.sourceforge.net/
 License      : MIT
 Descript     : pytz brings the Olson tz database into Python. This library allows accurate
@@ -19741,8 +19741,8 @@ Descript     : pytz brings the Olson tz database into Python. This library allow
 <summary>python3-pyudev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A libudev binding
+From repo    : anaconda
+Short desc   : A libudev binding
 URL          : http://pypi.python.org/pypi/pyudev
 License      : LGPLv2+
 Descript     : pyudev is a LGPL licensed, pure Python binding for libudev, the device
@@ -19763,8 +19763,8 @@ Descript     : pyudev is a LGPL licensed, pure Python binding for libudev, the d
 <summary>python3-pyusb</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python bindings for libusb
+From repo    : fedora
+Short desc   : Python bindings for libusb
 URL          : https://github.com/pyusb/pyusb/
 License      : BSD
 Descript     : PyUSB provides easy USB access to python. The module contains classes and
@@ -19777,8 +19777,8 @@ Descript     : PyUSB provides easy USB access to python. The module contains cla
 <summary>python3-pywt</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for python-pywt
+From repo    : fedora
+Short desc   : Documentation for python-pywt
 URL          : https://pywavelets.readthedocs.io/en/latest
 License      : MIT
 Descript     : PyWavelets is a Python wavelet transforms module that can do:
@@ -19800,8 +19800,8 @@ Descript     : PyWavelets is a Python wavelet transforms module that can do:
 <summary>python3-pyxattr</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extended attributes library wrapper for Python
+From repo    : fedora
+Short desc   : Extended attributes library wrapper for Python
 URL          : https://pyxattr.k1024.org/
 License      : LGPLv2+
 Descript     : Python extension module wrapper for libattr. It allows to query, list,
@@ -19814,8 +19814,8 @@ Descript     : Python extension module wrapper for libattr. It allows to query, 
 <summary>python3-pyxdg</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python3 library to access freedesktop.org standards
+From repo    : updates-testing
+Short desc   : Python3 library to access freedesktop.org standards
 URL          : http://freedesktop.org/Software/pyxdg
 License      : LGPLv2
 Descript     : PyXDG is a python library to access freedesktop.org standards. This
@@ -19828,8 +19828,8 @@ Descript     : PyXDG is a python library to access freedesktop.org standards. Th
 <summary>python3-pyyaml</summary>
 
 ```
-From repo     : fedora
-Short desc    : YAML parser and emitter for Python
+From repo    : fedora
+Short desc   : YAML parser and emitter for Python
 URL          : https://github.com/yaml/pyyaml
 License      : MIT
 Descript     : YAML is a data serialization format designed for human readability and
@@ -19851,8 +19851,8 @@ Descript     : YAML is a data serialization format designed for human readabilit
 <summary>python3-regex</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Alternative regular expression module, to replace re
+From repo    : updates-testing
+Short desc   : Alternative regular expression module, to replace re
 URL          : https://bitbucket.org/mrabarnett/mrab-regex
 License      : Python and CNRI
 Descript     : This new regex implementation is intended eventually to replace
@@ -19868,8 +19868,8 @@ Descript     : This new regex implementation is intended eventually to replace
 <summary>python3-requests</summary>
 
 ```
-From repo     : anaconda
-Short desc    : HTTP library, written in Python, for human beings
+From repo    : anaconda
+Short desc   : HTTP library, written in Python, for human beings
 URL          : https://pypi.io/project/requests
 License      : ASL 2.0
 Descript     : Most existing Python modules for sending HTTP requests are extremely verbose and
@@ -19884,8 +19884,8 @@ Descript     : Most existing Python modules for sending HTTP requests are extrem
 <summary>python3-requests-file</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Transport adapter for using file:// URLs with python3-requests
+From repo    : anaconda
+Short desc   : Transport adapter for using file:// URLs with python3-requests
 URL          : https://github.com/dashea/requests-file
 License      : ASL 2.0
 Descript     : Requests-File is a transport adapter for use with the Requests Python
@@ -19900,8 +19900,8 @@ Descript     : Requests-File is a transport adapter for use with the Requests Py
 <summary>python3-requests-ftp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : FTP transport adapter for python3-requests
+From repo    : anaconda
+Short desc   : FTP transport adapter for python3-requests
 URL          : https://github.com/Lukasa/requests-ftp
 License      : ASL 2.0
 Descript     : Requests-FTP is an implementation of a very stupid FTP transport adapter for
@@ -19916,8 +19916,8 @@ Descript     : Requests-FTP is an implementation of a very stupid FTP transport 
 <summary>python3-requests-gssapi</summary>
 
 ```
-From repo     : fedora
-Short desc    : A GSSAPI/SPNEGO authentication handler for python-requests
+From repo    : fedora
+Short desc   : A GSSAPI/SPNEGO authentication handler for python-requests
 URL          : https://github.com/pythongssapi/requests-gssapi
 License      : ISC
 Descript     : Requests is an HTTP library, written in Python, for human beings. This
@@ -19932,8 +19932,8 @@ Descript     : Requests is an HTTP library, written in Python, for human beings.
 <summary>python3-requests-toolbelt</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility belt for advanced users of python-requests
+From repo    : fedora
+Short desc   : Utility belt for advanced users of python-requests
 URL          : https://toolbelt.readthedocs.io
 License      : ASL 2.0
 Descript     : This is just a collection of utilities for python-requests, but don’t really
@@ -19948,8 +19948,8 @@ Descript     : This is just a collection of utilities for python-requests, but d
 <summary>python3-rpkg</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python library for interacting with rpm+git
+From repo    : fedora
+Short desc   : Python library for interacting with rpm+git
 URL          : https://pagure.io/rpkg
 License      : GPLv2+ and LGPLv2
 Descript     : A python library for managing RPM package sources in a git repository.
@@ -19961,8 +19961,8 @@ Descript     : A python library for managing RPM package sources in a git reposi
 <summary>python3-rpm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 bindings for apps which will manipulate RPM packages
+From repo    : anaconda
+Short desc   : Python 3 bindings for apps which will manipulate RPM packages
 URL          : http://www.rpm.org/
 License      : GPLv2+
 Descript     : The python3-rpm package contains a module that permits applications
@@ -19979,8 +19979,8 @@ Descript     : The python3-rpm package contains a module that permits applicatio
 <summary>python3-rpm</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 bindings for apps which will manipulate RPM packages
+From repo    : updates-testing
+Short desc   : Python 3 bindings for apps which will manipulate RPM packages
 URL          : http://www.rpm.org/
 License      : GPLv2+
 Descript     : The python3-rpm package contains a module that permits applications
@@ -19997,8 +19997,8 @@ Descript     : The python3-rpm package contains a module that permits applicatio
 <summary>python3-rpm-generators</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Dependency generators for Python RPMs
+From repo    : updates-testing
+Short desc   : Dependency generators for Python RPMs
 URL          : https://src.fedoraproject.org/python-rpm-generators
 License      : GPLv2+
 Descript     : Dependency generators for Python RPMs.
@@ -20010,8 +20010,8 @@ Descript     : Dependency generators for Python RPMs.
 <summary>python3-rpm-macros</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : RPM macros for building Python 3 packages
+From repo    : updates-testing
+Short desc   : RPM macros for building Python 3 packages
 License      : MIT and Python
 Descript     : RPM macros for building Python 3 packages.
 ```
@@ -20022,8 +20022,8 @@ Descript     : RPM macros for building Python 3 packages.
 <summary>python3-scikit-image</summary>
 
 ```
-From repo     : fedora
-Short desc    : Image processing in Python
+From repo    : fedora
+Short desc   : Image processing in Python
 URL          : http://scikit-image.org/
 License      : BSD
 Descript     : The scikit-image SciKit (toolkit for SciPy) extends scipy.ndimage to provide a
@@ -20036,8 +20036,8 @@ Descript     : The scikit-image SciKit (toolkit for SciPy) extends scipy.ndimage
 <summary>python3-scikit-learn</summary>
 
 ```
-From repo     : fedora
-Short desc    : Machine learning in Python
+From repo    : fedora
+Short desc   : Machine learning in Python
 URL          : http://scikit-learn.org/
 License      : BSD and MIT
 Descript     : 
@@ -20055,8 +20055,8 @@ Descript     :
 <summary>python3-scipy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Scientific Tools for Python
+From repo    : updates-testing
+Short desc   : Scientific Tools for Python
 URL          : http://www.scipy.org/scipylib/index.html
 License      : BSD and Boost and Public Domain
 Descript     : Scipy is open-source software for mathematics, science, and
@@ -20076,8 +20076,8 @@ Descript     : Scipy is open-source software for mathematics, science, and
 <summary>python3-scour</summary>
 
 ```
-From repo     : fedora
-Short desc    : An SVG scrubber
+From repo    : fedora
+Short desc   : An SVG scrubber
 URL          : https://github.com/scour-project/scour
 License      : ASL 2.0
 Descript     : An SVG scrubber.
@@ -20089,8 +20089,8 @@ Descript     : An SVG scrubber.
 <summary>python3-send2trash</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python library to natively send files to Trash
+From repo    : fedora
+Short desc   : Python library to natively send files to Trash
 URL          : https://github.com/hsoft/send2trash
 License      : BSD
 Descript     : Send2Trash is a small package that sends files to the Trash (or Recycle Bin)
@@ -20107,8 +20107,8 @@ Descript     : Send2Trash is a small package that sends files to the Trash (or R
 <summary>python3-service-identity</summary>
 
 ```
-From repo     : fedora
-Short desc    : Service identity verification for pyOpenSSL
+From repo    : fedora
+Short desc   : Service identity verification for pyOpenSSL
 URL          : https://github.com/pyca/service_identity
 License      : MIT
 Descript     : Service Identity Verification for pyOpenSSL.
@@ -20131,8 +20131,8 @@ Descript     : Service Identity Verification for pyOpenSSL.
 <summary>python3-setools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Policy analysis tools for SELinux
+From repo    : anaconda
+Short desc   : Policy analysis tools for SELinux
 URL          : https://github.com/SELinuxProject/setools/wiki
 License      : GPLv2
 Descript     : SETools is a collection of graphical tools, command-line tools, and
@@ -20145,8 +20145,8 @@ Descript     : SETools is a collection of graphical tools, command-line tools, a
 <summary>python3-setools</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Policy analysis tools for SELinux
+From repo    : updates-testing
+Short desc   : Policy analysis tools for SELinux
 URL          : https://github.com/SELinuxProject/setools/wiki
 License      : GPLv2
 Descript     : SETools is a collection of graphical tools, command-line tools, and
@@ -20159,8 +20159,8 @@ Descript     : SETools is a collection of graphical tools, command-line tools, a
 <summary>python3-setuptools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Easily build and distribute Python 3 packages
+From repo    : anaconda
+Short desc   : Easily build and distribute Python 3 packages
 URL          : https://pypi.python.org/pypi/setuptools
 License      : MIT and (BSD or ASL 2.0)
 Descript     : Setuptools is a collection of enhancements to the Python 3 distutils that allow
@@ -20177,8 +20177,8 @@ Descript     : Setuptools is a collection of enhancements to the Python 3 distut
 <summary>python3-simpleline</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A Python3 library for creating text UI
+From repo    : anaconda
+Short desc   : A Python3 library for creating text UI
 URL          : https://github.com/rhinstaller/python-simpleline
 License      : LGPLv3+
 Descript     : Simpleline is a Python3 library for creating text UI.
@@ -20194,8 +20194,8 @@ Descript     : Simpleline is a Python3 library for creating text UI.
 <summary>python3-six</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 2 and 3 compatibility utilities
+From repo    : anaconda
+Short desc   : Python 2 and 3 compatibility utilities
 URL          : https://pypi.python.org/pypi/six
 License      : MIT
 Descript     : python-six provides simple utilities for wrapping over differences between
@@ -20209,8 +20209,8 @@ Descript     : python-six provides simple utilities for wrapping over difference
 <summary>python3-six</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 2 and 3 compatibility utilities
+From repo    : updates-testing
+Short desc   : Python 2 and 3 compatibility utilities
 URL          : https://pypi.python.org/pypi/six
 License      : MIT
 Descript     : python-six provides simple utilities for wrapping over differences between
@@ -20223,8 +20223,8 @@ Descript     : python-six provides simple utilities for wrapping over difference
 <summary>python3-slip</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Convenience, extension and workaround code for Python 3.x
+From repo    : anaconda
+Short desc   : Convenience, extension and workaround code for Python 3.x
 URL          : https://github.com/nphilipp/python-slip
 License      : GPLv2+
 Descript     : The Simple Library for Python 3.x packages contain miscellaneous code for
@@ -20239,8 +20239,8 @@ Descript     : The Simple Library for Python 3.x packages contain miscellaneous 
 <summary>python3-slip-dbus</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Convenience functions for dbus services in Python 3.x
+From repo    : anaconda
+Short desc   : Convenience functions for dbus services in Python 3.x
 URL          : https://github.com/nphilipp/python-slip
 License      : GPLv2+
 Descript     : The Simple Library for Python 3.x packages contain miscellaneous code for
@@ -20258,8 +20258,8 @@ Descript     : The Simple Library for Python 3.x packages contain miscellaneous 
 <summary>python3-smmap</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sliding window memory map manager
+From repo    : fedora
+Short desc   : Sliding window memory map manager
 URL          : https://github.com/gitpython-developers/smmap
 License      : BSD
 Descript     : Smmap wraps an interface around mmap and tracks the mapped files as well as
@@ -20276,8 +20276,8 @@ Descript     : Smmap wraps an interface around mmap and tracks the mapped files 
 <summary>python3-snowballstemmer</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provides 16 stemmer algorithms generated from Snowball algorithms
+From repo    : fedora
+Short desc   : Provides 16 stemmer algorithms generated from Snowball algorithms
 URL          : https://pypi.python.org/pypi/snowballstemmer
 License      : BSD
 Descript     : It includes following language algorithms:
@@ -20308,8 +20308,8 @@ Descript     : It includes following language algorithms:
 <summary>python3-solv</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python bindings for the libsolv library
+From repo    : fedora
+Short desc   : Python bindings for the libsolv library
 URL          : https://github.com/openSUSE/libsolv
 License      : BSD
 Descript     : Python bindings for the libsolv library.
@@ -20323,8 +20323,8 @@ Descript     : Python bindings for the libsolv library.
 <summary>python3-soupsieve</summary>
 
 ```
-From repo     : anaconda
-Short desc    : CSS selector library
+From repo    : anaconda
+Short desc   : CSS selector library
 URL          : https://github.com/facelessuser/soupsieve
 License      : MIT
 Descript     : Soup Sieve is a CSS selector library designed to be used with Beautiful Soup 4.
@@ -20350,8 +20350,8 @@ Descript     : Soup Sieve is a CSS selector library designed to be used with Bea
 <summary>python3-speechd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 Client API for speech-dispatcher
+From repo    : anaconda
+Short desc   : Python 3 Client API for speech-dispatcher
 URL          : http://devel.freebsoft.org/speechd
 License      : GPLv2+
 Descript     : Python 3 module for speech-dispatcher
@@ -20364,8 +20364,8 @@ Descript     : Python 3 module for speech-dispatcher
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Python documentation generator
+From repo    : fedora
+Short desc   : Python documentation generator
 URL          : https://www.sphinx-doc.org/
 License      : BSD and Python and MIT
 Descript     : Sphinx is a tool that makes it easy to create intelligent and
@@ -20402,8 +20402,8 @@ Descript     : Sphinx is a tool that makes it easy to create intelligent and
 <summary>python3-sphinx-theme-alabaster</summary>
 
 ```
-From repo     : fedora
-Short desc    : Configurable sidebar-enabled Sphinx theme
+From repo    : fedora
+Short desc   : Configurable sidebar-enabled Sphinx theme
 URL          : https://pypi.python.org/pypi/alabaster
 License      : BSD
 Descript     : This theme is a modified "Kr" Sphinx theme from @kennethreitz (especially as
@@ -20417,8 +20417,8 @@ Descript     : This theme is a modified "Kr" Sphinx theme from @kennethreitz (es
 <summary>python3-sphinx_rtd_theme</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sphinx theme for readthedocs.org
+From repo    : fedora
+Short desc   : Sphinx theme for readthedocs.org
 URL          : https://github.com/rtfd/sphinx_rtd_theme
 License      : MIT
 Descript     : This is a prototype mobile-friendly sphinx theme for readthedocs.org.
@@ -20433,8 +20433,8 @@ Descript     : This is a prototype mobile-friendly sphinx theme for readthedocs.
 <summary>python3-sphinxcontrib-applehelp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sphinx extension for Apple help books
+From repo    : fedora
+Short desc   : Sphinx extension for Apple help books
 URL          : http://sphinx-doc.org/
 License      : BSD
 Descript     : sphinxcontrib-applehelp is a sphinx extension which outputs Apple help books.
@@ -20446,8 +20446,8 @@ Descript     : sphinxcontrib-applehelp is a sphinx extension which outputs Apple
 <summary>python3-sphinxcontrib-devhelp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sphinx extension for Devhelp documents
+From repo    : fedora
+Short desc   : Sphinx extension for Devhelp documents
 URL          : http://sphinx-doc.org/
 License      : BSD
 Descript     : sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp document.
@@ -20459,8 +20459,8 @@ Descript     : sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp
 <summary>python3-sphinxcontrib-htmlhelp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sphinx extension for HTML help files
+From repo    : fedora
+Short desc   : Sphinx extension for HTML help files
 URL          : http://sphinx-doc.org/
 License      : BSD
 Descript     : sphinxcontrib-htmlhelp is a sphinx extension which renders HTML help files.
@@ -20472,8 +20472,8 @@ Descript     : sphinxcontrib-htmlhelp is a sphinx extension which renders HTML h
 <summary>python3-sphinxcontrib-jsmath</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sphinx extension for math in HTML via JavaScript
+From repo    : fedora
+Short desc   : Sphinx extension for math in HTML via JavaScript
 URL          : http://sphinx-doc.org/
 License      : BSD
 Descript     : sphinxcontrib-jsmath is a sphinx extension which renders display math in HTML
@@ -20486,8 +20486,8 @@ Descript     : sphinxcontrib-jsmath is a sphinx extension which renders display 
 <summary>python3-sphinxcontrib-qthelp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sphinx extension for QtHelp documents
+From repo    : fedora
+Short desc   : Sphinx extension for QtHelp documents
 URL          : http://sphinx-doc.org/
 License      : BSD
 Descript     : sphinxcontrib-qthelp is a sphinx extension which outputs QtHelp document.
@@ -20499,8 +20499,8 @@ Descript     : sphinxcontrib-qthelp is a sphinx extension which outputs QtHelp d
 <summary>python3-sphinxcontrib-serializinghtml</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sphinx extension for serialized HTML
+From repo    : fedora
+Short desc   : Sphinx extension for serialized HTML
 URL          : http://sphinx-doc.org/
 License      : BSD
 Descript     : sphinxcontrib-serializinghtml is a sphinx extension which outputs "serialized"
@@ -20513,8 +20513,8 @@ Descript     : sphinxcontrib-serializinghtml is a sphinx extension which outputs
 <summary>python3-sqlalchemy</summary>
 
 ```
-From repo     : fedora
-Short desc    : Modular and flexible ORM library for python
+From repo    : fedora
+Short desc   : Modular and flexible ORM library for python
 URL          : http://www.sqlalchemy.org/
 License      : MIT
 Descript     : SQLAlchemy is an Object Relational Mapper (ORM) that provides a flexible,
@@ -20534,8 +20534,8 @@ Descript     : SQLAlchemy is an Object Relational Mapper (ORM) that provides a f
 <summary>python3-statsmodels</summary>
 
 ```
-From repo     : fedora
-Short desc    : Statistics in Python
+From repo    : fedora
+Short desc   : Statistics in Python
 URL          : https://www.statsmodels.org/
 License      : BSD and Public Domain
 Descript     : statsmodels is a Python module that provides classes and functions for the
@@ -20551,8 +20551,8 @@ Descript     : statsmodels is a Python module that provides classes and function
 <summary>python3-stevedore</summary>
 
 ```
-From repo     : fedora
-Short desc    : Manage dynamic plugins for Python applications
+From repo    : fedora
+Short desc   : Manage dynamic plugins for Python applications
 URL          : https://github.com/openstack/stevedore
 License      : ASL 2.0
 Descript     : Manage dynamic plugins for Python applications
@@ -20564,8 +20564,8 @@ Descript     : Manage dynamic plugins for Python applications
 <summary>python3-stomper</summary>
 
 ```
-From repo     : fedora
-Short desc    : A python client implementation of the STOMP protocol
+From repo    : fedora
+Short desc   : A python client implementation of the STOMP protocol
 URL          : https://pypi.io/project/stomper
 License      : ASL 2.0
 Descript     : This is a python client implementation of the STOMP protocol. The client is
@@ -20579,8 +20579,8 @@ Descript     : This is a python client implementation of the STOMP protocol. The
 <summary>python3-sympy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A Python3 library for symbolic mathematics
+From repo    : updates-testing
+Short desc   : A Python3 library for symbolic mathematics
 URL          : http://sympy.org/
 License      : BSD
 Descript     : SymPy aims to become a full-featured computer algebra system (CAS)
@@ -20595,8 +20595,8 @@ Descript     : SymPy aims to become a full-featured computer algebra system (CAS
 <summary>python3-systemd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python module wrapping systemd functionality
+From repo    : anaconda
+Short desc   : Python module wrapping systemd functionality
 URL          : https://github.com/systemd/python-systemd
 License      : LGPLv2+
 Descript     : Python module for native access to the systemd facilities.
@@ -20612,8 +20612,8 @@ Descript     : Python module for native access to the systemd facilities.
 <summary>python3-tables</summary>
 
 ```
-From repo     : fedora
-Short desc    : HDF5 support in Python
+From repo    : fedora
+Short desc   : HDF5 support in Python
 URL          : https://www.pytables.org
 License      : BSD
 Descript     : PyTables is a package for managing hierarchical datasets and designed
@@ -20626,8 +20626,8 @@ Descript     : PyTables is a package for managing hierarchical datasets and desi
 <summary>python3-tabulate</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pretty-print tabular data in Python, a library and a command-line utility
+From repo    : fedora
+Short desc   : Pretty-print tabular data in Python, a library and a command-line utility
 URL          : https://pypi.python.org/pypi/tabulate
 License      : MIT
 Descript     : The main use cases of the library are:
@@ -20648,8 +20648,8 @@ Descript     : The main use cases of the library are:
 <summary>python3-tabulate+widechars</summary>
 
 ```
-From repo     : fedora
-Short desc    : Metapackage for python3-tabulate: widechars extras
+From repo    : fedora
+Short desc   : Metapackage for python3-tabulate: widechars extras
 URL          : https://pypi.python.org/pypi/tabulate
 License      : MIT
 Descript     : This is a metapackage bringing in widechars extras requires for python3-tabulate.
@@ -20662,8 +20662,8 @@ Descript     : This is a metapackage bringing in widechars extras requires for p
 <summary>python3-tempita</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A very small text templating language
+From repo    : anaconda
+Short desc   : A very small text templating language
 URL          : http://pythonpaste.org/tempita/
 License      : MIT
 Descript     : Tempita is a small templating language for text substitution.
@@ -20675,8 +20675,8 @@ Descript     : Tempita is a small templating language for text substitution.
 <summary>python3-templated-dictionary</summary>
 
 ```
-From repo     : fedora
-Short desc    : Dictionary with Jinja2 expansion
+From repo    : fedora
+Short desc   : Dictionary with Jinja2 expansion
 URL          : https://github.com/xsuchy/templated-dictionary
 License      : GPLv2+
 Descript     : Dictionary where __getitem__() is run through Jinja2 template.
@@ -20688,8 +20688,8 @@ Descript     : Dictionary where __getitem__() is run through Jinja2 template.
 <summary>python3-terminado</summary>
 
 ```
-From repo     : fedora
-Short desc    : Terminals served to term.js using Tornado websockets
+From repo    : fedora
+Short desc   : Terminals served to term.js using Tornado websockets
 URL          : https://github.com/jupyter/terminado
 License      : BSD
 Descript     : This is a Tornado websocket backend for the term.js Javascript terminal
@@ -20702,8 +20702,8 @@ Descript     : This is a Tornado websocket backend for the term.js Javascript te
 <summary>python3-testpath</summary>
 
 ```
-From repo     : fedora
-Short desc    : Test utilities for code working with files and commands
+From repo    : fedora
+Short desc   : Test utilities for code working with files and commands
 URL          : https://github.com/jupyter/testpath
 License      : MIT
 Descript     : 
@@ -20721,8 +20721,8 @@ Descript     :
 <summary>python3-theano</summary>
 
 ```
-From repo     : fedora
-Short desc    : Mathematical expressions involving multidimensional arrays
+From repo    : fedora
+Short desc   : Mathematical expressions involving multidimensional arrays
 URL          : https://docs.pymc.io/PyMC3_and_Theano.html
 License      : BSD
 Descript     : Theano is a Python library that allows you to define, optimize, and
@@ -20747,8 +20747,8 @@ Descript     : Theano is a Python library that allows you to define, optimize, a
 <summary>python3-threadpoolctl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Thread-pool Controls
+From repo    : fedora
+Short desc   : Thread-pool Controls
 URL          : https://github.com/joblib/threadpoolctl
 License      : BSD
 Descript     : 
@@ -20766,8 +20766,8 @@ Descript     :
 <summary>python3-tifffile</summary>
 
 ```
-From repo     : fedora
-Short desc    : Read and write TIFF(r) files
+From repo    : fedora
+Short desc   : Read and write TIFF(r) files
 URL          : https://www.lfd.uci.edu/~gohlke/
 License      : BSD
 Descript     : Tifffile is a Python library to:
@@ -20781,8 +20781,8 @@ Descript     : Tifffile is a Python library to:
 <summary>python3-tkinter</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A GUI toolkit for Python
+From repo    : updates-testing
+Short desc   : A GUI toolkit for Python
 URL          : https://www.python.org/
 License      : Python
 Descript     : The Tkinter (Tk interface) library is a graphical user interface toolkit for
@@ -20795,8 +20795,8 @@ Descript     : The Tkinter (Tk interface) library is a graphical user interface 
 <summary>python3-tornado</summary>
 
 ```
-From repo     : fedora
-Short desc    : Scalable, non-blocking web server and tools
+From repo    : fedora
+Short desc   : Scalable, non-blocking web server and tools
 URL          : http://www.tornadoweb.org
 License      : ASL 2.0
 Descript     : Tornado is an open source version of the scalable, non-blocking web
@@ -20815,8 +20815,8 @@ Descript     : Tornado is an open source version of the scalable, non-blocking w
 <summary>python3-traitlets</summary>
 
 ```
-From repo     : fedora
-Short desc    : A lightweight derivative of Enthought Traits for configuring Python objects
+From repo    : fedora
+Short desc   : A lightweight derivative of Enthought Traits for configuring Python objects
 URL          : https://github.com/ipython/traitlets
 License      : BSD
 Descript     : A lightweight pure-Python derivative of Enthought Traits, used for
@@ -20831,8 +20831,8 @@ Descript     : A lightweight pure-Python derivative of Enthought Traits, used fo
 <summary>python3-twisted</summary>
 
 ```
-From repo     : fedora
-Short desc    : Twisted is a networking engine written in Python
+From repo    : fedora
+Short desc   : Twisted is a networking engine written in Python
 URL          : http://twistedmatrix.com/
 License      : MIT
 Descript     : 
@@ -20847,8 +20847,8 @@ Descript     :
 <summary>python3-twisted+tls</summary>
 
 ```
-From repo     : fedora
-Short desc    : Metapackage for python3-twisted: tls extras
+From repo    : fedora
+Short desc   : Metapackage for python3-twisted: tls extras
 URL          : http://twistedmatrix.com/
 License      : MIT
 Descript     : This is a metapackage bringing in tls extras requires for python3-twisted.
@@ -20861,8 +20861,8 @@ Descript     : This is a metapackage bringing in tls extras requires for python3
 <summary>python3-txws</summary>
 
 ```
-From repo     : fedora
-Short desc    : Twisted WebSockets wrapper
+From repo    : fedora
+Short desc   : Twisted WebSockets wrapper
 URL          : https://github.com/MostAwesomeDude/txWS
 License      : MIT
 Descript     : txWS (pronounced "Twisted WebSockets") is a small, short, simple library
@@ -20875,8 +20875,8 @@ Descript     : txWS (pronounced "Twisted WebSockets") is a small, short, simple 
 <summary>python3-txzmq</summary>
 
 ```
-From repo     : fedora
-Short desc    : Twisted bindings for ZeroMQ
+From repo    : fedora
+Short desc   : Twisted bindings for ZeroMQ
 URL          : https://github.com/smira/txZMQ
 License      : GPLv2
 Descript     : txZMQ allows to integrate easily ZeroMQ sockets into Twisted event loop
@@ -20889,8 +20889,8 @@ Descript     : txZMQ allows to integrate easily ZeroMQ sockets into Twisted even
 <summary>python3-unbound</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 modules and extensions for unbound
+From repo    : anaconda
+Short desc   : Python 3 modules and extensions for unbound
 URL          : https://nlnetlabs.nl/projects/unbound/
 License      : BSD
 Descript     : Python 3 modules and extensions for unbound
@@ -20902,8 +20902,8 @@ Descript     : Python 3 modules and extensions for unbound
 <summary>python3-urllib3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python3 HTTP library with thread-safe connection pooling and file post
+From repo    : anaconda
+Short desc   : Python3 HTTP library with thread-safe connection pooling and file post
 URL          : https://github.com/urllib3/urllib3
 License      : MIT
 Descript     : Python3 HTTP module with connection pooling and file POST abilities.
@@ -20915,8 +20915,8 @@ Descript     : Python3 HTTP module with connection pooling and file POST abiliti
 <summary>python3-urwid</summary>
 
 ```
-From repo     : fedora
-Short desc    : Console user interface library
+From repo    : fedora
+Short desc   : Console user interface library
 URL          : http://excess.org/urwid/
 License      : LGPLv2+
 Descript     : Urwid is a Python library for making text console applications.  It has
@@ -20933,8 +20933,8 @@ Descript     : Urwid is a Python library for making text console applications.  
 <summary>python3-utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python Utils is a module with some convenient utilities
+From repo    : fedora
+Short desc   : Python Utils is a module with some convenient utilities
 URL          : https://github.com/WoLpH/python-utils
 License      : BSD
 Descript     : Python Utils is a collection of small Python functions and classes which
@@ -20949,8 +20949,8 @@ Descript     : Python Utils is a collection of small Python functions and classe
 <summary>python3-vine</summary>
 
 ```
-From repo     : fedora
-Short desc    : Promises, promises, promises
+From repo    : fedora
+Short desc   : Promises, promises, promises
 URL          : http://github.com/celery/vine
 License      : BSD
 Descript     : Promises, promises, promises
@@ -20962,8 +20962,8 @@ Descript     : Promises, promises, promises
 <summary>python3-wcwidth</summary>
 
 ```
-From repo     : fedora
-Short desc    : Measures number of Terminal column cells of wide-character codes
+From repo    : fedora
+Short desc   : Measures number of Terminal column cells of wide-character codes
 URL          : https://github.com/jquast/wcwidth
 License      : MIT
 Descript     : This API is mainly for Terminal Emulator implementors, or those writing programs
@@ -20977,8 +20977,8 @@ Descript     : This API is mainly for Terminal Emulator implementors, or those w
 <summary>python3-webencodings</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for python-webencodings
+From repo    : fedora
+Short desc   : Documentation for python-webencodings
 URL          : https://github.com/gsnedders/python-webencodings
 License      : BSD
 Descript     : This is a Python implementation of the WHATWG Encoding standard.
@@ -20990,8 +20990,8 @@ Descript     : This is a Python implementation of the WHATWG Encoding standard.
 <summary>python3-werkzeug</summary>
 
 ```
-From repo     : fedora
-Short desc    : Comprehensive WSGI web application library
+From repo    : fedora
+Short desc   : Comprehensive WSGI web application library
 URL          : https://werkzeug.palletsprojects.com
 License      : BSD
 Descript     : Werkzeug
@@ -21018,8 +21018,8 @@ Descript     : Werkzeug
 <summary>python3-xlib</summary>
 
 ```
-From repo     : fedora
-Short desc    : X client library for Python 3
+From repo    : fedora
+Short desc   : X client library for Python 3
 URL          : https://github.com/python-xlib/python-xlib
 License      : LGPLv2+
 Descript     : The Python X Library is a complete X11R6 client-side implementation,
@@ -21033,8 +21033,8 @@ Descript     : The Python X Library is a complete X11R6 client-side implementati
 <summary>python3-xlrd</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library to extract data from Microsoft Excel (TM) spreadsheet files
+From repo    : fedora
+Short desc   : Library to extract data from Microsoft Excel (TM) spreadsheet files
 URL          : http://www.python-excel.org/
 License      : BSD
 Descript     : Extract data from Excel spreadsheets (.xls and .xlsx, versions 2.0 onwards)
@@ -21048,8 +21048,8 @@ Descript     : Extract data from Excel spreadsheets (.xls and .xlsx, versions 2.
 <summary>python3-xlwt</summary>
 
 ```
-From repo     : fedora
-Short desc    : Spreadsheet python library
+From repo    : fedora
+Short desc   : Spreadsheet python library
 URL          : http://pypi.python.org/pypi/xlwt
 License      : LGPLv2+ and BSD and BSD with advertising
 Descript     : A library for generating spreadsheet files that are compatible with
@@ -21065,8 +21065,8 @@ Descript     : A library for generating spreadsheet files that are compatible wi
 <summary>python3-xmltodict</summary>
 
 ```
-From repo     : fedora
-Short desc    : Python to transform XML to JSON
+From repo    : fedora
+Short desc   : Python to transform XML to JSON
 URL          : https://github.com/martinblech/xmltodict
 License      : MIT
 Descript     : xmltodict is a Python module that makes working with XML feel like you are
@@ -21081,8 +21081,8 @@ Descript     : xmltodict is a Python module that makes working with XML feel lik
 <summary>python3-yubico</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pure-python library for interacting with Yubikeys
+From repo    : fedora
+Short desc   : Pure-python library for interacting with Yubikeys
 URL          : https://github.com/Yubico/python-yubico
 License      : BSD
 Descript     : Pure-python library for interacting with Yubikeys. For Python 3.
@@ -21094,8 +21094,8 @@ Descript     : Pure-python library for interacting with Yubikeys. For Python 3.
 <summary>python3-zmq</summary>
 
 ```
-From repo     : fedora
-Short desc    : Software library for fast, message-based applications
+From repo    : fedora
+Short desc   : Software library for fast, message-based applications
 URL          : https://zeromq.org/languages/python/
 License      : LGPLv3+
 Descript     : The 0MQ lightweight messaging kernel is a library which extends the
@@ -21114,8 +21114,8 @@ Descript     : The 0MQ lightweight messaging kernel is a library which extends t
 <summary>python3-zope-component</summary>
 
 ```
-From repo     : fedora
-Short desc    : Zope Component Architecture
+From repo    : fedora
+Short desc   : Zope Component Architecture
 URL          : https://pypi.io/project/zope.component
 License      : ZPLv2.1
 Descript     : This package represents the core of the Zope Component Architecture.
@@ -21129,8 +21129,8 @@ Descript     : This package represents the core of the Zope Component Architectu
 <summary>python3-zope-event</summary>
 
 ```
-From repo     : fedora
-Short desc    : Zope Event Publication (Python 3)
+From repo    : fedora
+Short desc   : Zope Event Publication (Python 3)
 URL          : http://pypi.python.org/pypi/zope.event/
 License      : ZPLv2.1
 Descript     : The zope.event package provides a simple event system. It provides
@@ -21148,8 +21148,8 @@ Descript     : The zope.event package provides a simple event system. It provide
 <summary>python3-zope-interface</summary>
 
 ```
-From repo     : fedora
-Short desc    : Zope 3 Interface Infrastructure
+From repo    : fedora
+Short desc   : Zope 3 Interface Infrastructure
 URL          : https://pypi.io/project/zope.interface
 License      : ZPLv2.1
 Descript     : Interfaces are a mechanism for labeling objects as conforming to a given API

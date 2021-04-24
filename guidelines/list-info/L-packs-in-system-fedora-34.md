@@ -4,8 +4,8 @@
 <summary>LibRaw</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for reading RAW files obtained from digital photo cameras
+From repo    : anaconda
+Short desc   : Library for reading RAW files obtained from digital photo cameras
 URL          : http://www.libraw.org
 License      : BSD and (CDDL or LGPLv2)
 Descript     : LibRaw is a library for reading RAW files obtained from digital photo
@@ -21,8 +21,8 @@ Descript     : LibRaw is a library for reading RAW files obtained from digital p
 <summary>Lmod</summary>
 
 ```
-From repo     : fedora
-Short desc    : Environmental Modules System in Lua
+From repo    : fedora
+Short desc   : Environmental Modules System in Lua
 URL          : https://www.tacc.utexas.edu/tacc-projects/lmod
 License      : MIT and LGPLv2
 Descript     : Lmod is a Lua based module system that easily handles the MODULEPATH

@@ -4,8 +4,8 @@
 <summary>MUMPS</summary>
 
 ```
-From repo     : fedora
-Short desc    : A MUltifrontal Massively Parallel sparse direct Solver
+From repo    : fedora
+Short desc   : A MUltifrontal Massively Parallel sparse direct Solver
 URL          : http://mumps.enseeiht.fr/
 License      : CeCILL-C
 Descript     : MUMPS implements a direct solver for large sparse linear systems, with a
@@ -20,8 +20,8 @@ Descript     : MUMPS implements a direct solver for large sparse linear systems,
 <summary>MUMPS-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation files for MUMPS
+From repo    : fedora
+Short desc   : Documentation files for MUMPS
 URL          : http://mumps.enseeiht.fr/
 License      : CeCILL-C
 Descript     : This package contains common documentation files for MUMPS.
@@ -33,8 +33,8 @@ Descript     : This package contains common documentation files for MUMPS.
 <summary>ModemManager</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Mobile broadband modem management service
+From repo    : anaconda
+Short desc   : Mobile broadband modem management service
 URL          : http://www.freedesktop.org/wiki/Software/ModemManager/
 License      : GPLv2+
 Descript     : The ModemManager service manages WWAN modems and provides a consistent API for
@@ -47,8 +47,8 @@ Descript     : The ModemManager service manages WWAN modems and provides a consi
 <summary>ModemManager-glib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for adding ModemManager support to applications that use glib.
+From repo    : anaconda
+Short desc   : Libraries for adding ModemManager support to applications that use glib.
 URL          : http://www.freedesktop.org/wiki/Software/ModemManager/
 License      : GPLv2+
 Descript     : This package contains the libraries that make it easier to use some ModemManager

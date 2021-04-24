@@ -4,8 +4,8 @@
 <summary>vala</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A modern programming language for GNOME
+From repo    : updates-testing
+Short desc   : A modern programming language for GNOME
 URL          : https://wiki.gnome.org/Projects/Vala
 License      : LGPLv2+ and BSD
 Descript     : Vala is a new programming language that aims to bring modern programming
@@ -29,8 +29,8 @@ Descript     : Vala is a new programming language that aims to bring modern prog
 <summary>vala-doc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Documentation for vala
+From repo    : updates-testing
+Short desc   : Documentation for vala
 URL          : https://wiki.gnome.org/Projects/Vala
 License      : LGPLv2+
 Descript     : Vala is a new programming language that aims to bring modern programming
@@ -47,8 +47,8 @@ Descript     : Vala is a new programming language that aims to bring modern prog
 <summary>valadoc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Vala documentation generator
+From repo    : updates-testing
+Short desc   : Vala documentation generator
 URL          : https://wiki.gnome.org/Projects/Vala
 License      : LGPLv2+ and BSD
 Descript     : Valadoc is a documentation generator for generating API documentation from Vala
@@ -61,8 +61,8 @@ Descript     : Valadoc is a documentation generator for generating API documenta
 <summary>valadoc-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for valadoc
+From repo    : updates-testing
+Short desc   : Development files for valadoc
 URL          : https://wiki.gnome.org/Projects/Vala
 License      : LGPLv2+ and BSD
 Descript     : Valadoc is a documentation generator for generating API documentation from Vala
@@ -78,8 +78,8 @@ Descript     : Valadoc is a documentation generator for generating API documenta
 <summary>vanityhash</summary>
 
 ```
-From repo     : fedora
-Short desc    : Hexadecimal hash fragment creation tool
+From repo    : fedora
+Short desc   : Hexadecimal hash fragment creation tool
 URL          : http://www.finnie.org/software/vanityhash/
 License      : GPLv2+
 Descript     : This is a tool that can discover data to be added to the end of a file to
@@ -96,8 +96,8 @@ Descript     : This is a tool that can discover data to be added to the end of a
 <summary>vapoursynth-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : VapourSynth's core library with a C++ API
+From repo    : updates-testing
+Short desc   : VapourSynth's core library with a C++ API
 URL          : http://www.vapoursynth.com
 License      : LGPLv2
 Descript     : VapourSynth's core library with a C++ API.
@@ -109,8 +109,8 @@ Descript     : VapourSynth's core library with a C++ API.
 <summary>variety</summary>
 
 ```
-From repo     : fedora
-Short desc    : Wallpaper changer that automatically downloads wallpapers
+From repo    : fedora
+Short desc   : Wallpaper changer that automatically downloads wallpapers
 URL          : https://github.com/varietywalls/variety
 License      : GPLv3
 Descript     : Variety changes the desktop wallpaper on a regular basis,
@@ -137,8 +137,8 @@ Descript     : Variety changes the desktop wallpaper on a regular basis,
 <summary>vdpauinfo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tool to query the capabilities of a VDPAU implementation
+From repo    : fedora
+Short desc   : Tool to query the capabilities of a VDPAU implementation
 URL          : https://gitlab.freedesktop.org/vdpau/vdpauinfo
 License      : MIT
 Descript     : Tool to query the capabilities of a VDPAU implementation.
@@ -150,8 +150,8 @@ Descript     : Tool to query the capabilities of a VDPAU implementation.
 <summary>vid.stab</summary>
 
 ```
-From repo     : fedora
-Short desc    : Video stabilize library for fmpeg, mlt or transcode
+From repo    : fedora
+Short desc   : Video stabilize library for fmpeg, mlt or transcode
 URL          : http://public.hronopik.de/vid.stab
 License      : GPLv2+
 Descript     : Vidstab is a video stabilization library which can be plugged-in with Ffmpeg
@@ -165,8 +165,8 @@ Descript     : Vidstab is a video stabilization library which can be plugged-in 
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : The common files needed by any version of the VIM editor
+From repo    : updates-testing
+Short desc   : The common files needed by any version of the VIM editor
 URL          : http://www.vim.org/
 License      : Vim and MIT
 Descript     : VIM (VIsual editor iMproved) is an updated and improved version of the
@@ -187,8 +187,8 @@ Descript     : VIM (VIsual editor iMproved) is an updated and improved version o
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : A version of the VIM editor which includes recent enhancements
+From repo    : updates-testing
+Short desc   : A version of the VIM editor which includes recent enhancements
 URL          : http://www.vim.org/
 License      : Vim and MIT
 Descript     : VIM (VIsual editor iMproved) is an updated and improved version of the
@@ -211,8 +211,8 @@ Descript     : VIM (VIsual editor iMproved) is an updated and improved version o
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : VIM filesystem layout
+From repo    : updates-testing
+Short desc   : VIM filesystem layout
 URL          : http://www.vim.org/
 License      : Vim and MIT
 Descript     : This package provides some directories which are required by other
@@ -226,8 +226,8 @@ Descript     : This package provides some directories which are required by othe
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : A minimal version of the VIM editor
+From repo    : updates-testing
+Short desc   : A minimal version of the VIM editor
 URL          : http://www.vim.org/
 License      : Vim and MIT
 Descript     : VIM (VIsual editor iMproved) is an updated and improved version of the
@@ -245,8 +245,8 @@ Descript     : VIM (VIsual editor iMproved) is an updated and improved version o
 <summary>vim-syntastic</summary>
 
 ```
-From repo     : fedora
-Short desc    : A vim plugins to check syntax for programming languages
+From repo    : fedora
+Short desc   : A vim plugins to check syntax for programming languages
 URL          : https://github.com/scrooloose/syntastic
 License      : WTFPL
 Descript     : Syntastic is a syntax checking plugin that runs files through external syntax
@@ -262,8 +262,8 @@ Descript     : Syntastic is a syntax checking plugin that runs files through ext
 <summary>vim-syntastic-vala</summary>
 
 ```
-From repo     : fedora
-Short desc    : A syntax checker for vala programming language
+From repo    : fedora
+Short desc   : A syntax checker for vala programming language
 URL          : https://github.com/scrooloose/syntastic
 License      : WTFPL
 Descript     : Allows checking vala sources files.
@@ -275,8 +275,8 @@ Descript     : Allows checking vala sources files.
 <summary>virglrenderer</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Virgl Rendering library.
+From repo    : anaconda
+Short desc   : Virgl Rendering library.
 License      : MIT
 Descript     : The virgil3d rendering library is a library used by
              : qemu to implement 3D GPU support for the virtio GPU.
@@ -288,8 +288,8 @@ Descript     : The virgil3d rendering library is a library used by
 <summary>virtualbox-guest-additions</summary>
 
 ```
-From repo     : anaconda
-Short desc    : VirtualBox Guest Additions
+From repo    : anaconda
+Short desc   : VirtualBox Guest Additions
 URL          : https://www.virtualbox.org/wiki/VirtualBox
 License      : GPLv2 or (GPLv2 and CDDL)
 Descript     : VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for
@@ -304,8 +304,8 @@ Descript     : VirtualBox is a powerful x86 and AMD64/Intel64 virtualization pro
 <summary>vnstat</summary>
 
 ```
-From repo     : fedora
-Short desc    : Console-based network traffic monitor
+From repo    : fedora
+Short desc   : Console-based network traffic monitor
 URL          : http://humdi.net/vnstat/
 License      : GPLv2
 Descript     : vnStat is a console-based network traffic monitor that keeps a log of daily
@@ -320,8 +320,8 @@ Descript     : vnStat is a console-based network traffic monitor that keeps a lo
 <summary>vo-amrwbenc</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : VisualOn AMR-WB encoder library
+From repo    : rpmfusion-free
+Short desc   : VisualOn AMR-WB encoder library
 URL          : http://opencore-amr.sourceforge.net/
 License      : ASL 2.0
 Descript     : This library contains an encoder implementation of the Adaptive
@@ -336,8 +336,8 @@ Descript     : This library contains an encoder implementation of the Adaptive
 <summary>volume_key-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library for manipulating storage encryption keys and passphrases
+From repo    : updates-testing
+Short desc   : A library for manipulating storage encryption keys and passphrases
 URL          : https://pagure.io/volume_key/
 License      : GPLv2 and (MPLv1.1 or GPLv2 or LGPLv2)
 Descript     : This package provides libvolume_key, a library for manipulating storage volume
@@ -356,8 +356,8 @@ Descript     : This package provides libvolume_key, a library for manipulating s
 <summary>vpnc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : IPSec VPN client compatible with Cisco equipment
+From repo    : anaconda
+Short desc   : IPSec VPN client compatible with Cisco equipment
 URL          : http://www.unix-ag.uni-kl.de/~massar/vpnc/
 License      : GPLv2+
 Descript     : A VPN client compatible with Cisco's EasyVPN equipment.
@@ -372,8 +372,8 @@ Descript     : A VPN client compatible with Cisco's EasyVPN equipment.
 <summary>vpnc-script</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Routing setup script for vpnc and openconnect
+From repo    : anaconda
+Short desc   : Routing setup script for vpnc and openconnect
 URL          : https://gitlab.com/openconnect/vpnc-scripts/
 License      : GPLv2+
 Descript     : This script sets up routing for VPN connectivity, when invoked by vpnc
@@ -386,8 +386,8 @@ Descript     : This script sets up routing for VPN connectivity, when invoked by
 <summary>vte-profile</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Profile script for VTE terminal emulator library
+From repo    : anaconda
+Short desc   : Profile script for VTE terminal emulator library
 URL          : https://wiki.gnome.org/Apps/Terminal/VTE
 License      : GPLv3+
 Descript     : The vte-profile package contains a profile.d script for the VTE terminal
@@ -400,8 +400,8 @@ Descript     : The vte-profile package contains a profile.d script for the VTE t
 <summary>vte291</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Terminal emulator library
+From repo    : anaconda
+Short desc   : Terminal emulator library
 URL          : https://wiki.gnome.org/Apps/Terminal/VTE
 License      : LGPLv2+
 Descript     : VTE is a library implementing a terminal emulator widget for GTK+. VTE
@@ -415,8 +415,8 @@ Descript     : VTE is a library implementing a terminal emulator widget for GTK+
 <summary>vtk</summary>
 
 ```
-From repo     : fedora
-Short desc    : The Visualization Toolkit - A high level 3D visualization library
+From repo    : fedora
+Short desc   : The Visualization Toolkit - A high level 3D visualization library
 URL          : https://vtk.org/
 License      : BSD
 Descript     : VTK is an open-source software system for image processing, 3D
@@ -439,8 +439,8 @@ Descript     : VTK is an open-source software system for image processing, 3D
 <summary>vulkan-headers</summary>
 
 ```
-From repo     : fedora
-Short desc    : Vulkan Header files and API registry
+From repo    : fedora
+Short desc   : Vulkan Header files and API registry
 URL          : https://github.com/KhronosGroup/Vulkan-Headers
 License      : ASL 2.0
 Descript     : Vulkan Header files and API registry
@@ -452,8 +452,8 @@ Descript     : Vulkan Header files and API registry
 <summary>vulkan-loader</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Vulkan ICD desktop loader
+From repo    : anaconda
+Short desc   : Vulkan ICD desktop loader
 URL          : https://github.com/KhronosGroup/Vulkan-Loader
 License      : ASL 2.0
 Descript     : This project provides the Khronos official Vulkan ICD desktop
@@ -466,8 +466,8 @@ Descript     : This project provides the Khronos official Vulkan ICD desktop
 <summary>vulkan-loader-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for vulkan-loader
+From repo    : fedora
+Short desc   : Development files for vulkan-loader
 URL          : https://github.com/KhronosGroup/Vulkan-Loader
 License      : ASL 2.0
 Descript     : The vulkan-loader-devel package contains libraries and header files for
@@ -480,8 +480,8 @@ Descript     : The vulkan-loader-devel package contains libraries and header fil
 <summary>vulkan-tools</summary>
 
 ```
-From repo     : fedora
-Short desc    : Vulkan tools
+From repo    : fedora
+Short desc   : Vulkan tools
 URL          : https://github.com/KhronosGroup/Vulkan-Tools
 License      : ASL 2.0
 Descript     : Vulkan tools

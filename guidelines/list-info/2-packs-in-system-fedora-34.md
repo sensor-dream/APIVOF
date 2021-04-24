@@ -4,8 +4,8 @@
 <summary>2ping</summary>
 
 ```
-From repo     : fedora
-Short desc    : Bi-directional ping utility
+From repo    : fedora
+Short desc   : Bi-directional ping utility
 URL          : https://www.finnie.org/software/2ping
 License      : GPLv2+
 Descript     : 2ping is a bi-directional ping utility. It uses 3-way pings (akin to TCP SYN,

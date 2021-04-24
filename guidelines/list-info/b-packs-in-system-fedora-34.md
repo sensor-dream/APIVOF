@@ -4,8 +4,8 @@
 <summary>b43-fwcutter</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Firmware extraction tool for Broadcom wireless driver
+From repo    : anaconda
+Short desc   : Firmware extraction tool for Broadcom wireless driver
 URL          : http://bues.ch/b43/fwcutter/
 License      : BSD
 Descript     : This package contains the 'b43-fwcutter' tool which is used to
@@ -21,8 +21,8 @@ Descript     : This package contains the 'b43-fwcutter' tool which is used to
 <summary>b43-openfwwf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Open firmware for some Broadcom 43xx series WLAN chips
+From repo    : anaconda
+Short desc   : Open firmware for some Broadcom 43xx series WLAN chips
 URL          : http://www.ing.unibs.it/openfwwf/
 License      : GPLv2
 Descript     : Open firmware for some Broadcom 43xx series WLAN chips.
@@ -35,8 +35,8 @@ Descript     : Open firmware for some Broadcom 43xx series WLAN chips.
 <summary>babl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A dynamic, any to any, pixel format conversion library
+From repo    : anaconda
+Short desc   : A dynamic, any to any, pixel format conversion library
 URL          : http://www.gegl.org/babl/
 License      : LGPLv3+ and GPLv3+
 Descript     : Babl is a dynamic, any to any, pixel format conversion library. It
@@ -51,8 +51,8 @@ Descript     : Babl is a dynamic, any to any, pixel format conversion library. I
 <summary>babl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A dynamic, any to any, pixel format conversion library
+From repo    : updates-testing
+Short desc   : A dynamic, any to any, pixel format conversion library
 URL          : http://www.gegl.org/babl/
 License      : LGPLv3+ and GPLv3+
 Descript     : Babl is a dynamic, any to any, pixel format conversion library. It
@@ -67,8 +67,8 @@ Descript     : Babl is a dynamic, any to any, pixel format conversion library. I
 <summary>babl-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Headers for developing programs that will use babl
+From repo    : updates-testing
+Short desc   : Headers for developing programs that will use babl
 URL          : http://www.gegl.org/babl/
 License      : LGPLv3+ and GPLv3+
 Descript     : This package contains the libraries and header files needed for
@@ -81,8 +81,8 @@ Descript     : This package contains the libraries and header files needed for
 <summary>baobab</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A graphical directory tree analyzer
+From repo    : updates-testing
+Short desc   : A graphical directory tree analyzer
 URL          : https://wiki.gnome.org/Apps/Baobab
 License      : GPLv2+ and GFDL
 Descript     : Baobab is able to scan either specific directories or the whole filesystem, in
@@ -97,8 +97,8 @@ Descript     : Baobab is able to scan either specific directories or the whole f
 <summary>baobab</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A graphical directory tree analyzer
+From repo    : anaconda
+Short desc   : A graphical directory tree analyzer
 URL          : https://wiki.gnome.org/Apps/Baobab
 License      : GPLv2+ and GFDL
 Descript     : Baobab is able to scan either specific directories or the whole filesystem, in
@@ -113,8 +113,8 @@ Descript     : Baobab is able to scan either specific directories or the whole f
 <summary>basesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The skeleton package which defines a simple Fedora system
+From repo    : anaconda
+Short desc   : The skeleton package which defines a simple Fedora system
 License      : Public Domain
 Descript     : Basesystem defines the components of a basic Fedora system
              : (for example, the package installation order to use during bootstrapping).
@@ -128,8 +128,8 @@ Descript     : Basesystem defines the components of a basic Fedora system
 <summary>bash</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The GNU Bourne Again shell
+From repo    : anaconda
+Short desc   : The GNU Bourne Again shell
 URL          : https://www.gnu.org/software/bash
 License      : GPLv3+
 Descript     : The GNU Bourne Again shell (Bash) is a shell or command language
@@ -145,8 +145,8 @@ Descript     : The GNU Bourne Again shell (Bash) is a shell or command language
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Programmable completion for Bash
+From repo    : anaconda
+Short desc   : Programmable completion for Bash
 URL          : https://github.com/scop/bash-completion
 License      : GPLv2+
 Descript     : bash-completion is a collection of shell functions that take advantage
@@ -159,8 +159,8 @@ Descript     : bash-completion is a collection of shell functions that take adva
 <summary>bc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNU's bc (a numeric processing language) and dc (a calculator)
+From repo    : anaconda
+Short desc   : GNU's bc (a numeric processing language) and dc (a calculator)
 URL          : http://www.gnu.org/software/bc/
 License      : GPLv2+
 Descript     : The bc package includes bc and dc. Bc is an arbitrary precision
@@ -178,8 +178,8 @@ Descript     : The bc package includes bc and dc. Bc is an arbitrary precision
 <summary>bcache-tools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tools for Linux kernel block layer cache
+From repo    : anaconda
+Short desc   : Tools for Linux kernel block layer cache
 URL          : http://bcache.evilpiepirate.org/
 License      : GPLv2
 Descript     : Bcache is a Linux kernel block layer cache. It allows one or more fast disk
@@ -194,8 +194,8 @@ Descript     : Bcache is a Linux kernel block layer cache. It allows one or more
 <summary>bibata-cursor-themes</summary>
 
 ```
-From repo     : copr:copr.fedorainfracloud.org:peterwu:rendezvous
-Short desc    : OpenSource, Compact and Material Designed Cursor Set
+From repo    : copr:copr.fedorainfracloud.org:peterwu:rendezvous
+Short desc   : OpenSource, Compact and Material Designed Cursor Set
 URL          : https://github.com/ful1e5/Bibata_Cursor
 License      : GNU General Public License v3.0
 Descript     : OpenSource, Compact and Material Designed Cursor Set
@@ -207,8 +207,8 @@ Descript     : OpenSource, Compact and Material Designed Cursor Set
 <summary>biber</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command-line bibliographic manager, BibTeX replacement
+From repo    : fedora
+Short desc   : Command-line bibliographic manager, BibTeX replacement
 URL          : http://biblatex-biber.sourceforge.net/
 License      : (GPL+ or Artistic 2.0) and Artistic 2.0
 Descript     : Biber is a command-line tool for dealing with bibliographic databases.
@@ -224,8 +224,8 @@ Descript     : Biber is a command-line tool for dealing with bibliographic datab
 
 ```
 Эпоха        : 32
-From repo     : anaconda
-Short desc    : Libraries used by the BIND DNS packages
+From repo    : anaconda
+Short desc   : Libraries used by the BIND DNS packages
 URL          : https://www.isc.org/downloads/bind/
 License      : MPLv2.0
 Descript     : Contains heavyweight version of BIND suite libraries used by both named DNS
@@ -239,8 +239,8 @@ Descript     : Contains heavyweight version of BIND suite libraries used by both
 
 ```
 Эпоха        : 32
-From repo     : updates-testing
-Short desc    : Libraries used by the BIND DNS packages
+From repo    : updates-testing
+Short desc   : Libraries used by the BIND DNS packages
 URL          : https://www.isc.org/downloads/bind/
 License      : MPLv2.0
 Descript     : Contains heavyweight version of BIND suite libraries used by both named DNS
@@ -254,8 +254,8 @@ Descript     : Contains heavyweight version of BIND suite libraries used by both
 
 ```
 Эпоха        : 32
-From repo     : anaconda
-Short desc    : Libraries for working with the DNS protocol
+From repo    : anaconda
+Short desc   : Libraries for working with the DNS protocol
 URL          : https://www.isc.org/downloads/bind/
 License      : MPLv2.0
 Descript     : Contains lite version of BIND suite libraries which are used by various
@@ -269,8 +269,8 @@ Descript     : Contains lite version of BIND suite libraries which are used by v
 
 ```
 Эпоха        : 32
-From repo     : updates-testing
-Short desc    : Libraries for working with the DNS protocol
+From repo    : updates-testing
+Short desc   : Libraries for working with the DNS protocol
 URL          : https://www.isc.org/downloads/bind/
 License      : MPLv2.0
 Descript     : Contains lite version of BIND suite libraries which are used by various
@@ -284,8 +284,8 @@ Descript     : Contains lite version of BIND suite libraries which are used by v
 
 ```
 Эпоха        : 32
-From repo     : anaconda
-Short desc    : License of the BIND DNS suite
+From repo    : anaconda
+Short desc   : License of the BIND DNS suite
 URL          : https://www.isc.org/downloads/bind/
 License      : MPLv2.0
 Descript     : Contains license of the BIND DNS suite.
@@ -298,8 +298,8 @@ Descript     : Contains license of the BIND DNS suite.
 
 ```
 Эпоха        : 32
-From repo     : updates-testing
-Short desc    : License of the BIND DNS suite
+From repo    : updates-testing
+Short desc   : License of the BIND DNS suite
 URL          : https://www.isc.org/downloads/bind/
 License      : MPLv2.0
 Descript     : Contains license of the BIND DNS suite.
@@ -312,8 +312,8 @@ Descript     : Contains license of the BIND DNS suite.
 
 ```
 Эпоха        : 32
-From repo     : anaconda
-Short desc    : Utilities for querying DNS name servers
+From repo    : anaconda
+Short desc   : Utilities for querying DNS name servers
 URL          : https://www.isc.org/downloads/bind/
 License      : MPLv2.0
 Descript     : Bind-utils contains a collection of utilities for querying DNS (Domain
@@ -333,8 +333,8 @@ Descript     : Bind-utils contains a collection of utilities for querying DNS (D
 
 ```
 Эпоха        : 32
-From repo     : updates-testing
-Short desc    : Utilities for querying DNS name servers
+From repo    : updates-testing
+Short desc   : Utilities for querying DNS name servers
 URL          : https://www.isc.org/downloads/bind/
 License      : MPLv2.0
 Descript     : Bind-utils contains a collection of utilities for querying DNS (Domain
@@ -353,8 +353,8 @@ Descript     : Bind-utils contains a collection of utilities for querying DNS (D
 <summary>binutils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GNU collection of binary utilities
+From repo    : anaconda
+Short desc   : A GNU collection of binary utilities
 URL          : https://sourceware.org/binutils
 License      : GPLv3+
 Descript     : Binutils is a collection of binary utilities, including ar (for
@@ -376,8 +376,8 @@ Descript     : Binutils is a collection of binary utilities, including ar (for
 <summary>binutils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A GNU collection of binary utilities
+From repo    : updates-testing
+Short desc   : A GNU collection of binary utilities
 URL          : https://sourceware.org/binutils
 License      : GPLv3+
 Descript     : Binutils is a collection of binary utilities, including ar (for
@@ -399,8 +399,8 @@ Descript     : Binutils is a collection of binary utilities, including ar (for
 <summary>binutils-gold</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The GOLD linker, a faster alternative to the BFD linker
+From repo    : anaconda
+Short desc   : The GOLD linker, a faster alternative to the BFD linker
 URL          : https://sourceware.org/binutils
 License      : GPLv3+
 Descript     : This package provides the GOLD linker, which can be used as an alternative to
@@ -425,8 +425,8 @@ Descript     : This package provides the GOLD linker, which can be used as an al
 <summary>binutils-gold</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The GOLD linker, a faster alternative to the BFD linker
+From repo    : updates-testing
+Short desc   : The GOLD linker, a faster alternative to the BFD linker
 URL          : https://sourceware.org/binutils
 License      : GPLv3+
 Descript     : This package provides the GOLD linker, which can be used as an alternative to
@@ -452,8 +452,8 @@ Descript     : This package provides the GOLD linker, which can be used as an al
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Data for the blivet python module.
+From repo    : updates-testing
+Short desc   : Data for the blivet python module.
 URL          : https://storageapis.wordpress.com/projects/blivet
 License      : LGPLv2+
 Descript     : The blivet-data package provides data files required by the blivet
@@ -466,8 +466,8 @@ Descript     : The blivet-data package provides data files required by the blive
 <summary>blivet-gui</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tool for data storage configuration
+From repo    : fedora
+Short desc   : Tool for data storage configuration
 URL          : http://github.com/storaged-project/blivet-gui
 License      : GPLv2+
 Descript     : Graphical (GTK) tool for manipulation and configuration of data storage
@@ -480,8 +480,8 @@ Descript     : Graphical (GTK) tool for manipulation and configuration of data s
 <summary>blivet-gui-runtime</summary>
 
 ```
-From repo     : anaconda
-Short desc    : blivet-gui runtime
+From repo    : anaconda
+Short desc   : blivet-gui runtime
 URL          : http://github.com/storaged-project/blivet-gui
 License      : GPLv2+
 Descript     : This package provides a blivet-gui runtime for applications that want to use
@@ -494,8 +494,8 @@ Descript     : This package provides a blivet-gui runtime for applications that 
 <summary>blosc</summary>
 
 ```
-From repo     : fedora
-Short desc    : High performance compressor optimized for binary data
+From repo    : fedora
+Short desc   : High performance compressor optimized for binary data
 URL          : https://github.com/Blosc/c-blosc
 License      : MIT
 Descript     : Blosc is a compression library designed to transmit data to the processor
@@ -511,8 +511,8 @@ Descript     : Blosc is a compression library designed to transmit data to the p
 <summary>blt</summary>
 
 ```
-From repo     : fedora
-Short desc    : Widget extension to the Tcl/Tk scripting language
+From repo    : fedora
+Short desc   : Widget extension to the Tcl/Tk scripting language
 URL          : http://sourceforge.net/projects/blt/
 License      : MIT
 Descript     : BLT is a very powerful extension to Tk. It adds plotting widgets
@@ -530,8 +530,8 @@ Descript     : BLT is a very powerful extension to Tk. It adds plotting widgets
 <summary>bluez</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Bluetooth utilities
+From repo    : anaconda
+Short desc   : Bluetooth utilities
 URL          : http://www.bluez.org/
 License      : GPLv2+
 Descript     : Utilities for use in Bluetooth applications:
@@ -557,8 +557,8 @@ Descript     : Utilities for use in Bluetooth applications:
 <summary>bluez</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Bluetooth utilities
+From repo    : updates-testing
+Short desc   : Bluetooth utilities
 URL          : http://www.bluez.org/
 License      : GPLv2+
 Descript     : Utilities for use in Bluetooth applications:
@@ -583,8 +583,8 @@ Descript     : Utilities for use in Bluetooth applications:
 <summary>bluez-cups</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : CUPS printer backend for Bluetooth printers
+From repo    : updates-testing
+Short desc   : CUPS printer backend for Bluetooth printers
 URL          : http://www.bluez.org/
 License      : GPLv2+
 Descript     : This package contains the CUPS backend
@@ -596,8 +596,8 @@ Descript     : This package contains the CUPS backend
 <summary>bluez-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for use in Bluetooth applications
+From repo    : anaconda
+Short desc   : Libraries for use in Bluetooth applications
 URL          : http://www.bluez.org/
 License      : GPLv2+
 Descript     : Libraries for use in Bluetooth applications.
@@ -609,8 +609,8 @@ Descript     : Libraries for use in Bluetooth applications.
 <summary>bluez-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for use in Bluetooth applications
+From repo    : updates-testing
+Short desc   : Libraries for use in Bluetooth applications
 URL          : http://www.bluez.org/
 License      : GPLv2+
 Descript     : Libraries for use in Bluetooth applications.
@@ -622,8 +622,8 @@ Descript     : Libraries for use in Bluetooth applications.
 <summary>bluez-obexd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Object Exchange daemon for sharing content
+From repo    : anaconda
+Short desc   : Object Exchange daemon for sharing content
 URL          : http://www.bluez.org/
 License      : GPLv2+
 Descript     : Object Exchange daemon for sharing files, contacts etc over bluetooth
@@ -635,8 +635,8 @@ Descript     : Object Exchange daemon for sharing files, contacts etc over bluet
 <summary>bluez-obexd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Object Exchange daemon for sharing content
+From repo    : updates-testing
+Short desc   : Object Exchange daemon for sharing content
 URL          : http://www.bluez.org/
 License      : GPLv2+
 Descript     : Object Exchange daemon for sharing files, contacts etc over bluetooth
@@ -648,8 +648,8 @@ Descript     : Object Exchange daemon for sharing files, contacts etc over bluet
 <summary>bodhi-client</summary>
 
 ```
-From repo     : fedora
-Short desc    : Bodhi Client
+From repo    : fedora
+Short desc   : Bodhi Client
 URL          : https://github.com/fedora-infra/bodhi
 License      : GPLv2+
 Descript     : Client tools for interacting with bodhi.
@@ -661,8 +661,8 @@ Descript     : Client tools for interacting with bodhi.
 <summary>bolt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Thunderbolt device manager
+From repo    : anaconda
+Short desc   : Thunderbolt device manager
 URL          : https://gitlab.freedesktop.org/bolt/bolt
 License      : LGPLv2+
 Descript     : bolt is a system daemon to manage Thunderbolt devices via a D-BUS
@@ -683,8 +683,8 @@ Descript     : bolt is a system daemon to manage Thunderbolt devices via a D-BUS
 <summary>boost</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The free peer-reviewed portable C++ source libraries
+From repo    : updates-testing
+Short desc   : The free peer-reviewed portable C++ source libraries
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : Boost provides free peer-reviewed portable C++ source libraries.  The
@@ -703,8 +703,8 @@ Descript     : Boost provides free peer-reviewed portable C++ source libraries. 
 <summary>boost-atomic</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost atomic library
+From repo    : updates-testing
+Short desc   : Run-time component of boost atomic library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -720,8 +720,8 @@ Descript     :
 <summary>boost-chrono</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Run-time component of boost chrono library
+From repo    : anaconda
+Short desc   : Run-time component of boost chrono library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -734,8 +734,8 @@ Descript     :
 <summary>boost-chrono</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost chrono library
+From repo    : updates-testing
+Short desc   : Run-time component of boost chrono library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -748,8 +748,8 @@ Descript     :
 <summary>boost-container</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost container library
+From repo    : updates-testing
+Short desc   : Run-time component of boost container library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -765,8 +765,8 @@ Descript     :
 <summary>boost-context</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost context switching library
+From repo    : updates-testing
+Short desc   : Run-time component of boost context switching library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -780,8 +780,8 @@ Descript     :
 <summary>boost-contract</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost contract library
+From repo    : updates-testing
+Short desc   : Run-time component of boost contract library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -799,8 +799,8 @@ Descript     :
 <summary>boost-coroutine</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost coroutine library
+From repo    : updates-testing
+Short desc   : Run-time component of boost coroutine library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : Run-time support for Boost.Coroutine, a library that provides
@@ -814,8 +814,8 @@ Descript     : Run-time support for Boost.Coroutine, a library that provides
 <summary>boost-date-time</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Run-time component of boost date-time library
+From repo    : anaconda
+Short desc   : Run-time component of boost date-time library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -829,8 +829,8 @@ Descript     :
 <summary>boost-date-time</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost date-time library
+From repo    : updates-testing
+Short desc   : Run-time component of boost date-time library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -844,8 +844,8 @@ Descript     :
 <summary>boost-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Boost C++ headers and shared development libraries
+From repo    : updates-testing
+Short desc   : The Boost C++ headers and shared development libraries
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : Headers and shared object symbolic links for the Boost C++ libraries.
@@ -857,8 +857,8 @@ Descript     : Headers and shared object symbolic links for the Boost C++ librar
 <summary>boost-fiber</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost fiber library
+From repo    : updates-testing
+Short desc   : Run-time component of boost fiber library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -872,8 +872,8 @@ Descript     :
 <summary>boost-filesystem</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost filesystem library
+From repo    : updates-testing
+Short desc   : Run-time component of boost filesystem library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -888,8 +888,8 @@ Descript     :
 <summary>boost-graph</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost graph library
+From repo    : updates-testing
+Short desc   : Run-time component of boost graph library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -904,8 +904,8 @@ Descript     :
 <summary>boost-iostreams</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Run-time component of boost iostreams library
+From repo    : anaconda
+Short desc   : Run-time component of boost iostreams library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -919,8 +919,8 @@ Descript     :
 <summary>boost-iostreams</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost iostreams library
+From repo    : updates-testing
+Short desc   : Run-time component of boost iostreams library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -934,8 +934,8 @@ Descript     :
 <summary>boost-locale</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Run-time component of boost locale library
+From repo    : anaconda
+Short desc   : Run-time component of boost locale library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -949,8 +949,8 @@ Descript     :
 <summary>boost-locale</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost locale library
+From repo    : updates-testing
+Short desc   : Run-time component of boost locale library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -964,8 +964,8 @@ Descript     :
 <summary>boost-log</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost logging library
+From repo    : updates-testing
+Short desc   : Run-time component of boost logging library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -980,8 +980,8 @@ Descript     :
 <summary>boost-math</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Math functions for boost TR1 library
+From repo    : updates-testing
+Short desc   : Math functions for boost TR1 library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -995,8 +995,8 @@ Descript     :
 <summary>boost-nowide</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Standard library functions with UTF-8 API on Windows
+From repo    : updates-testing
+Short desc   : Standard library functions with UTF-8 API on Windows
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1009,8 +1009,8 @@ Descript     :
 <summary>boost-numpy3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost numpy library for Python 3
+From repo    : updates-testing
+Short desc   : Run-time component of boost numpy library for Python 3
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1027,8 +1027,8 @@ Descript     :
 <summary>boost-program-options</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost program_options library
+From repo    : updates-testing
+Short desc   : Run-time component of boost program_options library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1043,8 +1043,8 @@ Descript     :
 <summary>boost-python3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost python library for Python 3
+From repo    : updates-testing
+Short desc   : Run-time component of boost python library for Python 3
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1061,8 +1061,8 @@ Descript     :
 <summary>boost-random</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost random library
+From repo    : updates-testing
+Short desc   : Run-time component of boost random library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1075,8 +1075,8 @@ Descript     :
 <summary>boost-regex</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Run-time component of boost regular expression library
+From repo    : anaconda
+Short desc   : Run-time component of boost regular expression library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1089,8 +1089,8 @@ Descript     :
 <summary>boost-regex</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost regular expression library
+From repo    : updates-testing
+Short desc   : Run-time component of boost regular expression library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1103,8 +1103,8 @@ Descript     :
 <summary>boost-serialization</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost serialization library
+From repo    : updates-testing
+Short desc   : Run-time component of boost serialization library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1117,8 +1117,8 @@ Descript     :
 <summary>boost-stacktrace</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost stacktrace library
+From repo    : updates-testing
+Short desc   : Run-time component of boost stacktrace library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1131,8 +1131,8 @@ Descript     :
 <summary>boost-system</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Run-time component of boost system support library
+From repo    : anaconda
+Short desc   : Run-time component of boost system support library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1146,8 +1146,8 @@ Descript     :
 <summary>boost-system</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost system support library
+From repo    : updates-testing
+Short desc   : Run-time component of boost system support library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1161,8 +1161,8 @@ Descript     :
 <summary>boost-test</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost test library
+From repo    : updates-testing
+Short desc   : Run-time component of boost test library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1176,8 +1176,8 @@ Descript     :
 <summary>boost-thread</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Run-time component of boost thread library
+From repo    : anaconda
+Short desc   : Run-time component of boost thread library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1193,8 +1193,8 @@ Descript     :
 <summary>boost-thread</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost thread library
+From repo    : updates-testing
+Short desc   : Run-time component of boost thread library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1210,8 +1210,8 @@ Descript     :
 <summary>boost-timer</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost timer library
+From repo    : updates-testing
+Short desc   : Run-time component of boost timer library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1226,8 +1226,8 @@ Descript     :
 <summary>boost-type_erasure</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost type erasure library
+From repo    : updates-testing
+Short desc   : Run-time component of boost type erasure library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1241,8 +1241,8 @@ Descript     :
 <summary>boost-wave</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Run-time component of boost C99/C++ preprocessing library
+From repo    : updates-testing
+Short desc   : Run-time component of boost C99/C++ preprocessing library
 URL          : http://www.boost.org
 License      : Boost and MIT and Python
 Descript     : 
@@ -1257,8 +1257,8 @@ Descript     :
 <summary>botan2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Crypto and TLS for C++11
+From repo    : fedora
+Short desc   : Crypto and TLS for C++11
 URL          : https://botan.randombit.net/
 License      : BSD
 Descript     : Botan is a BSD-licensed crypto library written in C++. It provides a
@@ -1276,8 +1276,8 @@ Descript     : Botan is a BSD-licensed crypto library written in C++. It provide
 <summary>brasero-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for brasero
+From repo    : updates-testing
+Short desc   : Libraries for brasero
 URL          : https://wiki.gnome.org/Apps/Brasero
 License      : GPLv3+
 Descript     : The brasero-libs package contains the runtime shared libraries for
@@ -1290,8 +1290,8 @@ Descript     : The brasero-libs package contains the runtime shared libraries fo
 <summary>breeze-icon-theme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Breeze icon theme
+From repo    : updates-testing
+Short desc   : Breeze icon theme
 URL          : https://api.kde.org/frameworks-api/frameworks-apidocs/frameworks/breeze-icons/html/
 License      : LGPLv3+
 Descript     : Breeze icon theme.
@@ -1303,8 +1303,8 @@ Descript     : Breeze icon theme.
 <summary>brlapi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Application Programming Interface for BRLTTY
+From repo    : anaconda
+Short desc   : Application Programming Interface for BRLTTY
 URL          : http://brltty.app/
 License      : LGPLv2+
 Descript     : This package provides the run-time support for the Application
@@ -1320,8 +1320,8 @@ Descript     : This package provides the run-time support for the Application
 <summary>brltty</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Braille display driver for Linux/Unix
+From repo    : anaconda
+Short desc   : Braille display driver for Linux/Unix
 URL          : http://brltty.app/
 License      : LGPLv2+
 Descript     : BRLTTY is a background process (daemon) which provides
@@ -1340,8 +1340,8 @@ Descript     : BRLTTY is a background process (daemon) which provides
 <summary>brotli</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lossless compression algorithm
+From repo    : fedora
+Short desc   : Lossless compression algorithm
 URL          : https://github.com/google/brotli
 License      : MIT
 Descript     : Brotli is a generic-purpose lossless compression algorithm that compresses
@@ -1357,8 +1357,8 @@ Descript     : Brotli is a generic-purpose lossless compression algorithm that c
 <summary>brotli-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lossless compression algorithm (development files)
+From repo    : fedora
+Short desc   : Lossless compression algorithm (development files)
 URL          : https://github.com/google/brotli
 License      : MIT
 Descript     : Brotli is a generic-purpose lossless compression algorithm that compresses
@@ -1375,8 +1375,8 @@ Descript     : Brotli is a generic-purpose lossless compression algorithm that c
 <summary>btrfs-heatmap</summary>
 
 ```
-From repo     : fedora
-Short desc    : Visualize the layout of data on your btrfs filesystem over time
+From repo    : fedora
+Short desc   : Visualize the layout of data on your btrfs filesystem over time
 URL          : https://github.com/knorrie/btrfs-heatmap
 License      : MIT
 Descript     : The btrfs heatmap script creates a visualization of how a btrfs filesystem is
@@ -1389,8 +1389,8 @@ Descript     : The btrfs heatmap script creates a visualization of how a btrfs f
 <summary>btrfs-heatmap-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for btrfs-heatmap
+From repo    : fedora
+Short desc   : Documentation for btrfs-heatmap
 URL          : https://github.com/knorrie/btrfs-heatmap
 License      : MIT
 Descript     : The btrfs heatmap script creates a visualization of how a btrfs filesystem is
@@ -1405,8 +1405,8 @@ Descript     : The btrfs heatmap script creates a visualization of how a btrfs f
 <summary>btrfs-progs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Userspace programs for btrfs
+From repo    : fedora
+Short desc   : Userspace programs for btrfs
 URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 License      : GPLv2
 Descript     : The btrfs-progs package provides all the userspace programs needed to create,
@@ -1419,8 +1419,8 @@ Descript     : The btrfs-progs package provides all the userspace programs neede
 <summary>btrfs-progs-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : btrfs filesystem-specific libraries and headers
+From repo    : fedora
+Short desc   : btrfs filesystem-specific libraries and headers
 URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 License      : GPLv2 and LGPLv3
 Descript     : btrfs-progs-devel contains the libraries and header files needed to
@@ -1440,8 +1440,8 @@ Descript     : btrfs-progs-devel contains the libraries and header files needed 
 <summary>btrfs-sxbackup</summary>
 
 ```
-From repo     : fedora
-Short desc    : Incremental btrfs snapshot backups with push/pull support via SSH
+From repo    : fedora
+Short desc   : Incremental btrfs snapshot backups with push/pull support via SSH
 URL          : https://github.com/masc3d/btrfs-sxbackup
 License      : GPLv2+
 Descript     : Btrfs snapshot backup utility with push/pull support via SSH, retention, Email
@@ -1454,8 +1454,8 @@ Descript     : Btrfs snapshot backup utility with push/pull support via SSH, ret
 <summary>btrfsmaintenance</summary>
 
 ```
-From repo     : fedora
-Short desc    : Scripts for btrfs maintenance tasks
+From repo    : fedora
+Short desc   : Scripts for btrfs maintenance tasks
 URL          : https://github.com/kdave/btrfsmaintenance
 License      : GPLv2+
 Descript     : Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or
@@ -1480,8 +1480,8 @@ Descript     : Scripts for btrfs maintenance tasks like periodic scrub, balance,
 <summary>bubblewrap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Core execution tool for unprivileged containers
+From repo    : anaconda
+Short desc   : Core execution tool for unprivileged containers
 URL          : https://github.com/projectatomic/bubblewrap
 License      : LGPLv2+
 Descript     : Bubblewrap (/usr/bin/bwrap) is a core execution engine for unprivileged
@@ -1495,8 +1495,8 @@ Descript     : Bubblewrap (/usr/bin/bwrap) is a core execution engine for unpriv
 <summary>bustle</summary>
 
 ```
-From repo     : fedora
-Short desc    : Draw sequence diagrams of D-Bus traffic
+From repo    : fedora
+Short desc   : Draw sequence diagrams of D-Bus traffic
 URL          : https://hackage.haskell.org/package/bustle
 License      : LGPLv2+
 Descript     : Bustle records and draws sequence diagrams of D-Bus activity, showing signal
@@ -1513,8 +1513,8 @@ Descript     : Bustle records and draws sequence diagrams of D-Bus activity, sho
 <summary>bwidget</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extended widget set for Tk
+From repo    : fedora
+Short desc   : Extended widget set for Tk
 URL          : http://tcllib.sourceforge.net/
 License      : TCL
 Descript     : An extended widget set for Tcl/Tk.
@@ -1526,8 +1526,8 @@ Descript     : An extended widget set for Tcl/Tk.
 <summary>byte-buddy</summary>
 
 ```
-From repo     : fedora
-Short desc    : Runtime code generation for the Java virtual machine
+From repo    : fedora
+Short desc   : Runtime code generation for the Java virtual machine
 URL          : http://bytebuddy.net/
 License      : ASL 2.0
 Descript     : Byte Buddy is a code generation library for creating Java classes during the
@@ -1543,8 +1543,8 @@ Descript     : Byte Buddy is a code generation library for creating Java classes
 <summary>byte-buddy-agent</summary>
 
 ```
-From repo     : fedora
-Short desc    : Byte Buddy Java agent
+From repo    : fedora
+Short desc   : Byte Buddy Java agent
 URL          : http://bytebuddy.net/
 License      : ASL 2.0
 Descript     : The Byte Buddy Java agent allows to access the JVM's HotSwap feature.
@@ -1556,8 +1556,8 @@ Descript     : The Byte Buddy Java agent allows to access the JVM's HotSwap feat
 <summary>bzip2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A file compression utility
+From repo    : anaconda
+Short desc   : A file compression utility
 URL          : http://www.bzip.org/
 License      : BSD
 Descript     : Bzip2 is a freely available, patent-free, high quality data compressor.
@@ -1577,8 +1577,8 @@ Descript     : Bzip2 is a freely available, patent-free, high quality data compr
 <summary>bzip2-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries and header files for apps which will use bzip2
+From repo    : fedora
+Short desc   : Libraries and header files for apps which will use bzip2
 URL          : http://www.bzip.org/
 License      : BSD
 Descript     : 
@@ -1592,8 +1592,8 @@ Descript     :
 <summary>bzip2-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for applications using bzip2
+From repo    : anaconda
+Short desc   : Libraries for applications using bzip2
 URL          : http://www.bzip.org/
 License      : BSD
 Descript     : 

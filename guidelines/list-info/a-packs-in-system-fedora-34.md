@@ -4,8 +4,8 @@
 <summary>aajohan-comfortaa-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Modern style true type font
+From repo    : anaconda
+Short desc   : Modern style true type font
 URL          : http://aajohan.deviantart.com
 License      : OFL
 Descript     : Comfortaa is a sans-serif font comfortable in every aspect with
@@ -19,8 +19,8 @@ Descript     : Comfortaa is a sans-serif font comfortable in every aspect with
 <summary>aalib-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library files for aalib
+From repo    : fedora
+Short desc   : Library files for aalib
 URL          : http://aa-project.sourceforge.net/aalib/
 License      : LGPLv2+
 Descript     : This package contains library files for aalib.
@@ -32,8 +32,8 @@ Descript     : This package contains library files for aalib.
 <summary>abattis-cantarell-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Humanist sans serif font
+From repo    : anaconda
+Short desc   : Humanist sans serif font
 URL          : https://git.gnome.org/browse/cantarell-fonts/
 License      : OFL
 Descript     : The Cantarell font family is a contemporary Humanist sans serif
@@ -47,8 +47,8 @@ Descript     : The Cantarell font family is a contemporary Humanist sans serif
 <summary>abrt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Automatic bug detection and reporting tool
+From repo    : anaconda
+Short desc   : Automatic bug detection and reporting tool
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : abrt is a tool to help users to detect defects in applications and
@@ -62,8 +62,8 @@ Descript     : abrt is a tool to help users to detect defects in applications an
 <summary>abrt-addon-ccpp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's C/C++ addon
+From repo    : anaconda
+Short desc   : abrt's C/C++ addon
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains abrt's C/C++ analyzer plugin.
@@ -75,8 +75,8 @@ Descript     : This package contains abrt's C/C++ analyzer plugin.
 <summary>abrt-addon-kerneloops</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's kerneloops addon
+From repo    : anaconda
+Short desc   : abrt's kerneloops addon
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains plugin for collecting kernel crash information from
@@ -89,8 +89,8 @@ Descript     : This package contains plugin for collecting kernel crash informat
 <summary>abrt-addon-pstoreoops</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's pstore oops addon
+From repo    : anaconda
+Short desc   : abrt's pstore oops addon
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains plugin for collecting kernel oopses from pstore storage.
@@ -102,8 +102,8 @@ Descript     : This package contains plugin for collecting kernel oopses from ps
 <summary>abrt-addon-vmcore</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's vmcore addon
+From repo    : anaconda
+Short desc   : abrt's vmcore addon
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains plugin for collecting kernel crash information from
@@ -116,8 +116,8 @@ Descript     : This package contains plugin for collecting kernel crash informat
 <summary>abrt-addon-xorg</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's Xorg addon
+From repo    : anaconda
+Short desc   : abrt's Xorg addon
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains plugin for collecting Xorg crash information from Xorg
@@ -130,8 +130,8 @@ Descript     : This package contains plugin for collecting Xorg crash informatio
 <summary>abrt-cli</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Virtual package to make easy default installation on non-graphical environments
+From repo    : anaconda
+Short desc   : Virtual package to make easy default installation on non-graphical environments
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Virtual package to install all necessary packages for usage from command line
@@ -144,8 +144,8 @@ Descript     : Virtual package to install all necessary packages for usage from 
 <summary>abrt-dbus</summary>
 
 ```
-From repo     : anaconda
-Short desc    : ABRT DBus service
+From repo    : anaconda
+Short desc   : ABRT DBus service
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : ABRT DBus service which provides org.freedesktop.problems API on dbus and
@@ -158,8 +158,8 @@ Descript     : ABRT DBus service which provides org.freedesktop.problems API on 
 <summary>abrt-desktop</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Virtual package to make easy default installation on desktop environments
+From repo    : anaconda
+Short desc   : Virtual package to make easy default installation on desktop environments
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Virtual package to install all necessary packages for usage from desktop
@@ -172,8 +172,8 @@ Descript     : Virtual package to install all necessary packages for usage from 
 <summary>abrt-gui</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's gui
+From repo    : anaconda
+Short desc   : abrt's gui
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : GTK+ wizard for convenient bug reporting.
@@ -185,8 +185,8 @@ Descript     : GTK+ wizard for convenient bug reporting.
 <summary>abrt-gui-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for abrt-gui
+From repo    : anaconda
+Short desc   : Libraries for abrt-gui
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Libraries for abrt-gui.
@@ -198,8 +198,8 @@ Descript     : Libraries for abrt-gui.
 <summary>abrt-java-connector</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : JNI Agent library converting Java exceptions to ABRT problems
+From repo    : updates-testing
+Short desc   : JNI Agent library converting Java exceptions to ABRT problems
 URL          : https://github.com/abrt/abrt-java-connector
 License      : GPLv2+
 Descript     : JNI library providing an agent capable to process both caught and uncaught
@@ -212,8 +212,8 @@ Descript     : JNI library providing an agent capable to process both caught and
 <summary>abrt-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for abrt
+From repo    : anaconda
+Short desc   : Libraries for abrt
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Libraries for abrt.
@@ -225,8 +225,8 @@ Descript     : Libraries for abrt.
 <summary>abrt-plugin-bodhi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's bodhi plugin
+From repo    : anaconda
+Short desc   : abrt's bodhi plugin
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Search for a new updates in bodhi server.
@@ -238,8 +238,8 @@ Descript     : Search for a new updates in bodhi server.
 <summary>abrt-retrace-client</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's retrace client
+From repo    : anaconda
+Short desc   : abrt's retrace client
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains the client application for Retrace server
@@ -252,8 +252,8 @@ Descript     : This package contains the client application for Retrace server
 <summary>abrt-tui</summary>
 
 ```
-From repo     : anaconda
-Short desc    : abrt's command line interface
+From repo    : anaconda
+Short desc   : abrt's command line interface
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains a simple command line client for processing abrt reports
@@ -266,8 +266,8 @@ Descript     : This package contains a simple command line client for processing
 <summary>accerciser</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interactive Python accessibility explorer for the GNOME desktop
+From repo    : fedora
+Short desc   : Interactive Python accessibility explorer for the GNOME desktop
 URL          : https://wiki.gnome.org/Apps/Accerciser
 License      : BSD
 Descript     : Accerciser is an interactive Python accessibility explorer for the GNOME
@@ -283,8 +283,8 @@ Descript     : Accerciser is an interactive Python accessibility explorer for th
 <summary>accountsservice</summary>
 
 ```
-From repo     : anaconda
-Short desc    : D-Bus interfaces for querying and manipulating user account information
+From repo    : anaconda
+Short desc   : D-Bus interfaces for querying and manipulating user account information
 URL          : https://www.freedesktop.org/wiki/Software/AccountsService/
 License      : GPLv3+
 Descript     : The accountsservice project provides a set of D-Bus interfaces for
@@ -298,8 +298,8 @@ Descript     : The accountsservice project provides a set of D-Bus interfaces fo
 <summary>accountsservice-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Client-side library to talk to accountsservice
+From repo    : anaconda
+Short desc   : Client-side library to talk to accountsservice
 URL          : https://www.freedesktop.org/wiki/Software/AccountsService/
 License      : GPLv3+
 Descript     : The accountsservice-libs package contains a library that can
@@ -313,8 +313,8 @@ Descript     : The accountsservice-libs package contains a library that can
 <summary>acl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Access control list utilities
+From repo    : anaconda
+Short desc   : Access control list utilities
 URL          : https://savannah.nongnu.org/projects/acl
 License      : GPLv2+
 Descript     : This package contains the getfacl and setfacl utilities needed for
@@ -327,8 +327,8 @@ Descript     : This package contains the getfacl and setfacl utilities needed fo
 <summary>acl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Access control list utilities
+From repo    : updates-testing
+Short desc   : Access control list utilities
 URL          : https://savannah.nongnu.org/projects/acl
 License      : GPLv2+
 Descript     : This package contains the getfacl and setfacl utilities needed for
@@ -341,8 +341,8 @@ Descript     : This package contains the getfacl and setfacl utilities needed fo
 <summary>acpi</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command-line ACPI client
+From repo    : fedora
+Short desc   : Command-line ACPI client
 URL          : http://sourceforge.net/projects/acpiclient/
 License      : GPLv2+
 Descript     : Linux ACPI client is a small command-line program that attempts to
@@ -356,8 +356,8 @@ Descript     : Linux ACPI client is a small command-line program that attempts t
 <summary>acpica-tools</summary>
 
 ```
-From repo     : fedora
-Short desc    : ACPICA tools for the development and debug of ACPI tables
+From repo    : fedora
+Short desc   : ACPICA tools for the development and debug of ACPI tables
 URL          : https://www.acpica.org/
 License      : GPLv2
 Descript     : The ACPI Component Architecture (ACPICA) project provides an OS-independent
@@ -391,8 +391,8 @@ Descript     : The ACPI Component Architecture (ACPICA) project provides an OS-i
 <summary>acpid</summary>
 
 ```
-From repo     : fedora
-Short desc    : ACPI Event Daemon
+From repo    : fedora
+Short desc   : ACPI Event Daemon
 URL          : http://sourceforge.net/projects/acpid2/
 License      : GPLv2+
 Descript     : acpid is a daemon that dispatches ACPI events to user-space programs.
@@ -404,8 +404,8 @@ Descript     : acpid is a daemon that dispatches ACPI events to user-space progr
 <summary>acpitool</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command line ACPI client
+From repo    : fedora
+Short desc   : Command line ACPI client
 URL          : https://sourceforge.net/projects/acpitool/
 License      : GPLv2+
 Descript     : AcpiTool is a Linux ACPI client. It's a small command line application,
@@ -422,8 +422,8 @@ Descript     : AcpiTool is a Linux ACPI client. It's a small command line applic
 <summary>adcli</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Active Directory enrollment
+From repo    : anaconda
+Short desc   : Active Directory enrollment
 URL          : https://gitlab.freedesktop.org/realmd/adcli
 License      : LGPLv2+
 Descript     : adcli is a tool for joining an Active Directory domain using
@@ -436,8 +436,8 @@ Descript     : adcli is a tool for joining an Active Directory domain using
 <summary>adcli</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Active Directory enrollment
+From repo    : updates-testing
+Short desc   : Active Directory enrollment
 URL          : https://gitlab.freedesktop.org/realmd/adcli
 License      : LGPLv2+
 Descript     : adcli is a tool for joining an Active Directory domain using
@@ -450,8 +450,8 @@ Descript     : adcli is a tool for joining an Active Directory domain using
 <summary>adobe-mappings-cmap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : CMap resources for Adobe's character collections
+From repo    : anaconda
+Short desc   : CMap resources for Adobe's character collections
 URL          : https://www.adobe.com/
 License      : BSD
 Descript     : CMap (Character Map) resources are used to unidirectionally map character codes,
@@ -469,8 +469,8 @@ Descript     : CMap (Character Map) resources are used to unidirectionally map c
 <summary>adobe-mappings-cmap-deprecated</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Deprecated CMap resources for Adobe's character collections
+From repo    : anaconda
+Short desc   : Deprecated CMap resources for Adobe's character collections
 URL          : https://www.adobe.com/
 License      : BSD
 Descript     : This sub-package contains currently deprecated CMap resources that some
@@ -483,8 +483,8 @@ Descript     : This sub-package contains currently deprecated CMap resources tha
 <summary>adobe-mappings-pdf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PDF mapping resources from Adobe
+From repo    : anaconda
+Short desc   : PDF mapping resources from Adobe
 URL          : https://www.adobe.com/
 License      : BSD
 Descript     : Mapping resources for PDF have a variety of functions, such as mapping CIDs
@@ -505,8 +505,8 @@ Descript     : Mapping resources for PDF have a variety of functions, such as ma
 <summary>adobe-release-x86_64</summary>
 
 ```
-From repo     : @commandline
-Short desc    : linux.adobe.com Repository Configuration
+From repo    : @commandline
+Short desc   : linux.adobe.com Repository Configuration
 URL          : http://linuxdownload.adobe.com/
 License      : BSD
 Descript     : linuxdownload.adobe.com repository contains RPM packages of Adobe Linux Software
@@ -518,8 +518,8 @@ Descript     : linuxdownload.adobe.com repository contains RPM packages of Adobe
 <summary>adobe-source-code-pro-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A set of mono-spaced OpenType fonts designed for coding environments
+From repo    : anaconda
+Short desc   : A set of mono-spaced OpenType fonts designed for coding environments
 URL          : https://github.com/adobe-fonts/source-code-pro
 License      : OFL
 Descript     : This font was designed by Paul D. Hunt as a companion to Source Sans. It has
@@ -534,8 +534,8 @@ Descript     : This font was designed by Paul D. Hunt as a companion to Source S
 <summary>adwaita-cursor-theme</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Adwaita cursor theme
+From repo    : anaconda
+Short desc   : Adwaita cursor theme
 URL          : http://www.gnome.org
 License      : LGPLv3+ or CC-BY-SA
 Descript     : The adwaita-cursor-theme package contains a modern set of cursors originally
@@ -548,8 +548,8 @@ Descript     : The adwaita-cursor-theme package contains a modern set of cursors
 <summary>adwaita-cursor-theme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Adwaita cursor theme
+From repo    : updates-testing
+Short desc   : Adwaita cursor theme
 URL          : http://www.gnome.org
 License      : LGPLv3+ or CC-BY-SA
 Descript     : The adwaita-cursor-theme package contains a modern set of cursors originally
@@ -562,8 +562,8 @@ Descript     : The adwaita-cursor-theme package contains a modern set of cursors
 <summary>adwaita-gtk2-theme</summary>
 
 ```
-From repo     : fedora
-Short desc    : Adwaita gtk2 theme
+From repo    : fedora
+Short desc   : Adwaita gtk2 theme
 URL          : https://gitlab.gnome.org/GNOME/gnome-themes-extra
 License      : LGPLv2+
 Descript     : The adwaita-gtk2-theme package contains a gtk2 theme for presenting widgets
@@ -576,8 +576,8 @@ Descript     : The adwaita-gtk2-theme package contains a gtk2 theme for presenti
 <summary>adwaita-icon-theme</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Adwaita icon theme
+From repo    : anaconda
+Short desc   : Adwaita icon theme
 URL          : http://www.gnome.org
 License      : LGPLv3+ or CC-BY-SA
 Descript     : This package contains the Adwaita icon theme used by the GNOME desktop.
@@ -589,8 +589,8 @@ Descript     : This package contains the Adwaita icon theme used by the GNOME de
 <summary>adwaita-icon-theme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Adwaita icon theme
+From repo    : updates-testing
+Short desc   : Adwaita icon theme
 URL          : http://www.gnome.org
 License      : LGPLv3+ or CC-BY-SA
 Descript     : This package contains the Adwaita icon theme used by the GNOME desktop.
@@ -602,8 +602,8 @@ Descript     : This package contains the Adwaita icon theme used by the GNOME de
 <summary>adwaita-qt5</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Adwaita Qt5 theme
+From repo    : anaconda
+Short desc   : Adwaita Qt5 theme
 URL          : https://github.com/FedoraQt/adwaita-qt
 License      : LGPLv2+ and GPLv2+
 Descript     : Adwaita theme variant for applications utilizing Qt5.
@@ -615,8 +615,8 @@ Descript     : Adwaita theme variant for applications utilizing Qt5.
 <summary>adwaita-qt5</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Adwaita Qt5 theme
+From repo    : updates-testing
+Short desc   : Adwaita Qt5 theme
 URL          : https://github.com/FedoraQt/adwaita-qt
 License      : LGPLv2+ and GPLv2+
 Descript     : Adwaita theme variant for applications utilizing Qt5.
@@ -628,8 +628,8 @@ Descript     : Adwaita theme variant for applications utilizing Qt5.
 <summary>akmods</summary>
 
 ```
-From repo     : fedora
-Short desc    : Automatic kmods build and install tool
+From repo    : fedora
+Short desc   : Automatic kmods build and install tool
 URL          : http://rpmfusion.org/Packaging/KernelModules/Akmods
 License      : MIT
 Descript     : Akmods startup script will rebuild akmod packages during system
@@ -643,8 +643,8 @@ Descript     : Akmods startup script will rebuild akmod packages during system
 <summary>alacritty</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fast, cross-platform, OpenGL terminal emulator
+From repo    : fedora
+Short desc   : Fast, cross-platform, OpenGL terminal emulator
 URL          : https://crates.io/crates/alacritty
 License      : ASL 2.0 and BSD and CC0 and ISC and MIT and WTFPL and zlib
 Descript     : Fast, cross-platform, OpenGL terminal emulator.
@@ -656,8 +656,8 @@ Descript     : Fast, cross-platform, OpenGL terminal emulator.
 <summary>alsa-lib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Advanced Linux Sound Architecture (ALSA) library
+From repo    : anaconda
+Short desc   : The Advanced Linux Sound Architecture (ALSA) library
 URL          : http://www.alsa-project.org/
 License      : LGPLv2+
 Descript     : The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI
@@ -674,8 +674,8 @@ Descript     : The Advanced Linux Sound Architecture (ALSA) provides audio and M
 <summary>alsa-lib-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files from the ALSA library
+From repo    : fedora
+Short desc   : Development files from the ALSA library
 URL          : http://www.alsa-project.org/
 License      : LGPLv2+
 Descript     : The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI
@@ -691,8 +691,8 @@ Descript     : The Advanced Linux Sound Architecture (ALSA) provides audio and M
 <summary>alsa-sof-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware and topology files for Sound Open Firmware project
+From repo    : updates-testing
+Short desc   : Firmware and topology files for Sound Open Firmware project
 URL          : https://github.com/thesofproject/sof-bin
 License      : BSD
 Descript     : This package contains the firmware binaries for the Sound Open Firmware project.
@@ -704,8 +704,8 @@ Descript     : This package contains the firmware binaries for the Sound Open Fi
 <summary>alsa-ucm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : ALSA Use Case Manager configuration
+From repo    : anaconda
+Short desc   : ALSA Use Case Manager configuration
 URL          : http://www.alsa-project.org/
 License      : BSD
 Descript     : The Advanced Linux Sound Architecture (ALSA) Use Case Manager configuration
@@ -718,8 +718,8 @@ Descript     : The Advanced Linux Sound Architecture (ALSA) Use Case Manager con
 <summary>alsa-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Advanced Linux Sound Architecture (ALSA) utilities
+From repo    : anaconda
+Short desc   : Advanced Linux Sound Architecture (ALSA) utilities
 URL          : http://www.alsa-project.org/
 License      : GPLv2+
 Descript     : This package contains command line utilities for the Advanced Linux Sound
@@ -732,8 +732,8 @@ Descript     : This package contains command line utilities for the Advanced Lin
 <summary>alternatives</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A tool to maintain symbolic links determining default commands
+From repo    : anaconda
+Short desc   : A tool to maintain symbolic links determining default commands
 URL          : https://github.com/fedora-sysv/chkconfig
 License      : GPLv2
 Descript     : alternatives creates, removes, maintains and displays information about the
@@ -748,8 +748,8 @@ Descript     : alternatives creates, removes, maintains and displays information
 <summary>amtk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Actions, Menus and Toolbars Kit for GTK+ applications
+From repo    : anaconda
+Short desc   : Actions, Menus and Toolbars Kit for GTK+ applications
 URL          : https://wiki.gnome.org/Projects/Amtk
 License      : LGPLv2+
 Descript     : Amtk is the acronym for “Actions, Menus and Toolbars Kit”. It is a basic
@@ -763,8 +763,8 @@ Descript     : Amtk is the acronym for “Actions, Menus and Toolbars Kit”. It
 <summary>anaconda</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Graphical system installer
+From repo    : updates-testing
+Short desc   : Graphical system installer
 URL          : http://fedoraproject.org/wiki/Anaconda
 License      : GPLv2+ and MIT
 Descript     : The anaconda package is a metapackage for the Anaconda installer.
@@ -776,8 +776,8 @@ Descript     : The anaconda package is a metapackage for the Anaconda installer.
 <summary>anaconda-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Core of the Anaconda installer
+From repo    : updates-testing
+Short desc   : Core of the Anaconda installer
 URL          : http://fedoraproject.org/wiki/Anaconda
 License      : GPLv2+ and MIT
 Descript     : The anaconda-core package contains the program which was used to install your
@@ -790,8 +790,8 @@ Descript     : The anaconda-core package contains the program which was used to 
 <summary>anaconda-gui</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Graphical user interface for the Anaconda installer
+From repo    : updates-testing
+Short desc   : Graphical user interface for the Anaconda installer
 URL          : http://fedoraproject.org/wiki/Anaconda
 License      : GPLv2+ and MIT
 Descript     : This package contains graphical user interface for the Anaconda installer.
@@ -803,8 +803,8 @@ Descript     : This package contains graphical user interface for the Anaconda i
 <summary>anaconda-install-env-deps</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Installation environment specific dependencies
+From repo    : updates-testing
+Short desc   : Installation environment specific dependencies
 URL          : http://fedoraproject.org/wiki/Anaconda
 License      : GPLv2+ and MIT
 Descript     : The anaconda-install-env-deps metapackage lists all installation environment dependencies.
@@ -818,8 +818,8 @@ Descript     : The anaconda-install-env-deps metapackage lists all installation 
 <summary>anaconda-live</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Live installation specific files and dependencies
+From repo    : updates-testing
+Short desc   : Live installation specific files and dependencies
 URL          : http://fedoraproject.org/wiki/Anaconda
 License      : GPLv2+ and MIT
 Descript     : The anaconda-live package contains scripts, data and dependencies required
@@ -832,8 +832,8 @@ Descript     : The anaconda-live package contains scripts, data and dependencies
 <summary>anaconda-tui</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Textual user interface for the Anaconda installer
+From repo    : updates-testing
+Short desc   : Textual user interface for the Anaconda installer
 URL          : http://fedoraproject.org/wiki/Anaconda
 License      : GPLv2+ and MIT
 Descript     : This package contains textual user interface for the Anaconda installer.
@@ -845,8 +845,8 @@ Descript     : This package contains textual user interface for the Anaconda ins
 <summary>anaconda-user-help</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Content for the Anaconda built-in help system
+From repo    : anaconda
+Short desc   : Content for the Anaconda built-in help system
 URL          : https://pagure.io/install-guide
 License      : CC-BY-SA
 Descript     : This package provides content for the Anaconda built-in help system.
@@ -858,8 +858,8 @@ Descript     : This package provides content for the Anaconda built-in help syst
 <summary>anaconda-widgets</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A set of custom GTK+ widgets for use with anaconda
+From repo    : updates-testing
+Short desc   : A set of custom GTK+ widgets for use with anaconda
 URL          : http://fedoraproject.org/wiki/Anaconda
 License      : GPLv2+ and MIT
 Descript     : This package contains a set of custom GTK+ widgets used by the anaconda installer.
@@ -871,8 +871,8 @@ Descript     : This package contains a set of custom GTK+ widgets used by the an
 <summary>annobin</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Annotate and examine compiled binary files
+From repo    : updates-testing
+Short desc   : Annotate and examine compiled binary files
 License      : GPLv3+
 Descript     : Provides a plugin for GCC that records extra information in the files
              : that it compiles.
@@ -894,8 +894,8 @@ Descript     : Provides a plugin for GCC that records extra information in the f
 <summary>anthy-unicode</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Japanese character set input library for Unicode
+From repo    : anaconda
+Short desc   : Japanese character set input library for Unicode
 URL          : https://github.com/fujiwarat/anthy-unicode/wiki
 License      : LGPLv2+ and GPLv2 and Public Domain
 Descript     : Anthy Unicode is another Anthy project and provides the library to input
@@ -911,8 +911,8 @@ Descript     : Anthy Unicode is another Anthy project and provides the library t
 <summary>apostrophe</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Distraction free Markdown editor for GNU/Linux made with GTK+
+From repo    : updates-testing
+Short desc   : Distraction free Markdown editor for GNU/Linux made with GTK+
 URL          : https://gitlab.gnome.org/somas/apostrophe
 License      : GPLv3+ and GPLv2 and LGPLv2.1 and MIT
 Descript     : Apostrophe is a GTK+ based distraction free Markdown editor, mainly developed by
@@ -926,8 +926,8 @@ Descript     : Apostrophe is a GTK+ based distraction free Markdown editor, main
 <summary>appeditor</summary>
 
 ```
-From repo     : fedora
-Short desc    : Изменяйте меню приложений
+From repo    : fedora
+Short desc   : Изменяйте меню приложений
 URL          : https://github.com/donadigo/appeditor
 License      : GPLv3 and LGPLv2+ and CC0
 Descript     : Редактирование описания и свойств программ в меню приложений.
@@ -945,8 +945,8 @@ Descript     : Редактирование описания и свойств �
 <summary>appstream</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities to generate, maintain and access the AppStream database
+From repo    : anaconda
+Short desc   : Utilities to generate, maintain and access the AppStream database
 URL          : https://github.com/ximion/appstream
 License      : GPLv2+ and LGPLv2+
 Descript     : AppStream makes it easy to access application information from the
@@ -959,8 +959,8 @@ Descript     : AppStream makes it easy to access application information from th
 <summary>appstream</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utilities to generate, maintain and access the AppStream database
+From repo    : updates-testing
+Short desc   : Utilities to generate, maintain and access the AppStream database
 URL          : https://github.com/ximion/appstream
 License      : GPLv2+ and LGPLv2+
 Descript     : AppStream makes it easy to access application information from the
@@ -973,8 +973,8 @@ Descript     : AppStream makes it easy to access application information from th
 <summary>appstream-data</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Fedora AppStream metadata
+From repo    : anaconda
+Short desc   : Fedora AppStream metadata
 URL          : https://github.com/hughsie/appstream-glib
 License      : CC0 and CC-BY and CC-BY-SA and GFDL
 Descript     : This package provides the distribution specific AppStream metadata required
@@ -989,8 +989,8 @@ Descript     : This package provides the distribution specific AppStream metadat
 <summary>appstream-data</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fedora AppStream metadata
+From repo    : updates-testing
+Short desc   : Fedora AppStream metadata
 URL          : https://github.com/hughsie/appstream-glib
 License      : CC0 and CC-BY and CC-BY-SA and GFDL
 Descript     : This package provides the distribution specific AppStream metadata required
@@ -1005,8 +1005,8 @@ Descript     : This package provides the distribution specific AppStream metadat
 <summary>apr</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Apache Portable Runtime library
+From repo    : anaconda
+Short desc   : Apache Portable Runtime library
 URL          : https://apr.apache.org/
 License      : ASL 2.0 and BSD with advertising and ISC and BSD
 Descript     : The mission of the Apache Portable Runtime (APR) is to provide a
@@ -1021,8 +1021,8 @@ Descript     : The mission of the Apache Portable Runtime (APR) is to provide a
 <summary>apr-util</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Apache Portable Runtime Utility library
+From repo    : anaconda
+Short desc   : Apache Portable Runtime Utility library
 URL          : https://apr.apache.org/
 License      : ASL 2.0
 Descript     : The mission of the Apache Portable Runtime (APR) is to provide a
@@ -1037,8 +1037,8 @@ Descript     : The mission of the Apache Portable Runtime (APR) is to provide a
 <summary>apr-util-bdb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : APR utility library Berkeley DB driver
+From repo    : anaconda
+Short desc   : APR utility library Berkeley DB driver
 URL          : https://apr.apache.org/
 License      : ASL 2.0
 Descript     : This package provides the Berkeley DB driver for the apr-util
@@ -1051,8 +1051,8 @@ Descript     : This package provides the Berkeley DB driver for the apr-util
 <summary>apr-util-openssl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : APR utility library OpenSSL crypto support
+From repo    : anaconda
+Short desc   : APR utility library OpenSSL crypto support
 URL          : https://apr.apache.org/
 License      : ASL 2.0
 Descript     : This package provides the OpenSSL crypto support for the apr-util.
@@ -1064,8 +1064,8 @@ Descript     : This package provides the OpenSSL crypto support for the apr-util
 <summary>arj</summary>
 
 ```
-From repo     : fedora
-Short desc    : Archiver for .arj files
+From repo    : fedora
+Short desc   : Archiver for .arj files
 URL          : http://arj.sourceforge.net/
 License      : GPL+
 Descript     : This package is an open source version of the arj archiver. It has
@@ -1080,8 +1080,8 @@ Descript     : This package is an open source version of the arj archiver. It ha
 <summary>armadillo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fast C++ matrix library with syntax similar to MATLAB and Octave
+From repo    : fedora
+Short desc   : Fast C++ matrix library with syntax similar to MATLAB and Octave
 URL          : http://arma.sourceforge.net/
 License      : ASL 2.0
 Descript     : Armadillo is a C++ linear algebra library (matrix maths)
@@ -1105,8 +1105,8 @@ Descript     : Armadillo is a C++ linear algebra library (matrix maths)
 <summary>arpack</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fortran 77 subroutines for solving large scale eigenvalue problems
+From repo    : fedora
+Short desc   : Fortran 77 subroutines for solving large scale eigenvalue problems
 URL          : https://github.com/opencollab/arpack-ng
 License      : BSD
 Descript     : ARPACK is a collection of Fortran 77 subroutines designed to solve large
@@ -1128,8 +1128,8 @@ Descript     : ARPACK is a collection of Fortran 77 subroutines designed to solv
 
 ```
 Эпоха        : 14
-From repo     : fedora
-Short desc    : Network monitoring tools for tracking IP addresses on a network
+From repo    : fedora
+Short desc   : Network monitoring tools for tracking IP addresses on a network
 URL          : https://ee.lbl.gov/
 License      : BSD with advertising
 Descript     : The arpwatch package contains arpwatch and arpsnmp. Arpwatch and arpsnmp are
@@ -1148,8 +1148,8 @@ Descript     : The arpwatch package contains arpwatch and arpsnmp. Arpwatch and 
 
 ```
 Эпоха        : 12
-From repo     : fedora
-Short desc    : Spell checker
+From repo    : fedora
+Short desc   : Spell checker
 URL          : http://aspell.net/
 License      : LGPLv2+ and LGPLv2 and GPLv2+ and BSD
 Descript     : GNU Aspell is a spell checker designed to eventually replace Ispell. It can
@@ -1168,8 +1168,8 @@ Descript     : GNU Aspell is a spell checker designed to eventually replace Ispe
 <summary>at</summary>
 
 ```
-From repo     : fedora
-Short desc    : Job spooling tools
+From repo    : fedora
+Short desc   : Job spooling tools
 URL          : http://ftp.debian.org/debian/pool/main/a/at
 License      : GPLv3+ and GPLv2+ and ISC and MIT and Public Domain
 Descript     : At and batch read commands from standard input or from a specified
@@ -1189,8 +1189,8 @@ Descript     : At and batch read commands from standard input or from a specifie
 <summary>at-spi2-atk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GTK+ module that bridges ATK to D-Bus at-spi
+From repo    : anaconda
+Short desc   : A GTK+ module that bridges ATK to D-Bus at-spi
 URL          : https://wiki.linuxfoundation.org/en/AT-SPI_on_D-Bus
 License      : LGPLv2+
 Descript     : at-spi allows assistive technologies to access GTK-based
@@ -1212,8 +1212,8 @@ Descript     : at-spi allows assistive technologies to access GTK-based
 <summary>at-spi2-core</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Protocol definitions and daemon for D-Bus at-spi
+From repo    : anaconda
+Short desc   : Protocol definitions and daemon for D-Bus at-spi
 URL          : http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus
 License      : LGPLv2+
 Descript     : at-spi allows assistive technologies to access GTK-based
@@ -1232,8 +1232,8 @@ Descript     : at-spi allows assistive technologies to access GTK-based
 <summary>at-spi2-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Protocol definitions and daemon for D-Bus at-spi
+From repo    : updates-testing
+Short desc   : Protocol definitions and daemon for D-Bus at-spi
 URL          : http://www.linuxfoundation.org/en/AT-SPI_on_D-Bus
 License      : LGPLv2+
 Descript     : at-spi allows assistive technologies to access GTK-based
@@ -1252,8 +1252,8 @@ Descript     : at-spi allows assistive technologies to access GTK-based
 <summary>atk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Interfaces for accessibility support
+From repo    : anaconda
+Short desc   : Interfaces for accessibility support
 URL          : http://developer.gnome.org/platform-overview/stable/atk
 License      : LGPLv2+
 Descript     : The ATK library provides a set of interfaces for adding accessibility
@@ -1269,8 +1269,8 @@ Descript     : The ATK library provides a set of interfaces for adding accessibi
 <summary>atk-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the ATK accessibility toolkit
+From repo    : fedora
+Short desc   : Development files for the ATK accessibility toolkit
 URL          : http://developer.gnome.org/platform-overview/stable/atk
 License      : LGPLv2+
 Descript     : This package includes libraries, header files, and developer documentation
@@ -1283,8 +1283,8 @@ Descript     : This package includes libraries, header files, and developer docu
 <summary>atkmm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C++ interface for the ATK library
+From repo    : anaconda
+Short desc   : C++ interface for the ATK library
 URL          : https://www.gtkmm.org/
 License      : LGPLv2+
 Descript     : atkmm provides a C++ interface for the ATK library. Highlights
@@ -1299,8 +1299,8 @@ Descript     : atkmm provides a C++ interface for the ATK library. Highlights
 <summary>atmel-firmware</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Firmware for Atmel at76c50x wireless network chips
+From repo    : anaconda
+Short desc   : Firmware for Atmel at76c50x wireless network chips
 URL          : http://at76c503a.berlios.de/
 License      : Redistributable, no modification permitted
 Descript     : The drivers for Atmel at76c50x wireless network chips in the Linux 2.6.x kernel
@@ -1314,8 +1314,8 @@ Descript     : The drivers for Atmel at76c50x wireless network chips in the Linu
 <summary>atop</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An advanced interactive monitor to view the load on system and process level
+From repo    : updates-testing
+Short desc   : An advanced interactive monitor to view the load on system and process level
 URL          : http://www.atoptool.nl
 License      : GPLv2+
 Descript     : An advanced interactive monitor for Linux-systems to view the load on
@@ -1341,8 +1341,8 @@ Descript     : An advanced interactive monitor for Linux-systems to view the loa
 <summary>attr</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities for managing filesystem extended attributes
+From repo    : anaconda
+Short desc   : Utilities for managing filesystem extended attributes
 URL          : https://savannah.nongnu.org/projects/attr
 License      : GPLv2+
 Descript     : A set of tools for manipulating extended attributes on filesystem
@@ -1357,8 +1357,8 @@ Descript     : A set of tools for manipulating extended attributes on filesystem
 <summary>attr</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utilities for managing filesystem extended attributes
+From repo    : updates-testing
+Short desc   : Utilities for managing filesystem extended attributes
 URL          : https://savannah.nongnu.org/projects/attr
 License      : GPLv2+
 Descript     : A set of tools for manipulating extended attributes on filesystem
@@ -1373,8 +1373,8 @@ Descript     : A set of tools for manipulating extended attributes on filesystem
 <summary>audit</summary>
 
 ```
-From repo     : anaconda
-Short desc    : User space tools for kernel auditing
+From repo    : anaconda
+Short desc   : User space tools for kernel auditing
 URL          : http://people.redhat.com/sgrubb/audit/
 License      : GPLv2+
 Descript     : The audit package contains the user space utilities for
@@ -1388,8 +1388,8 @@ Descript     : The audit package contains the user space utilities for
 <summary>audit-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Dynamic library for libaudit
+From repo    : anaconda
+Short desc   : Dynamic library for libaudit
 URL          : http://people.redhat.com/sgrubb/audit/
 License      : LGPLv2+
 Descript     : The audit-libs package contains the dynamic libraries needed for
@@ -1402,8 +1402,8 @@ Descript     : The audit-libs package contains the dynamic libraries needed for
 <summary>augeas-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for augeas
+From repo    : updates-testing
+Short desc   : Development files for augeas
 URL          : http://augeas.net/
 License      : LGPLv2+
 Descript     : The augeas-devel package contains libraries and header files for
@@ -1416,8 +1416,8 @@ Descript     : The augeas-devel package contains libraries and header files for
 <summary>augeas-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for augeas
+From repo    : updates-testing
+Short desc   : Libraries for augeas
 URL          : http://augeas.net/
 License      : LGPLv2+
 Descript     : The libraries for augeas.
@@ -1434,8 +1434,8 @@ Descript     : The libraries for augeas.
 <summary>augeas-vala</summary>
 
 ```
-From repo     : fedora
-Short desc    : Vala bindings for augeas
+From repo    : fedora
+Short desc   : Vala bindings for augeas
 URL          : http://www.gitorious.org/valastuff/augeas-vala/
 License      : LGPLv2+
 Descript     : Vala bindings for augeas.
@@ -1447,8 +1447,8 @@ Descript     : Vala bindings for augeas.
 <summary>authselect</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Configures authentication and identity sources from supported profiles
+From repo    : anaconda
+Short desc   : Configures authentication and identity sources from supported profiles
 URL          : https://github.com/authselect/authselect
 License      : GPLv3+
 Descript     : Authselect is designed to be a replacement for authconfig but it takes
@@ -1466,8 +1466,8 @@ Descript     : Authselect is designed to be a replacement for authconfig but it 
 <summary>authselect</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Configures authentication and identity sources from supported profiles
+From repo    : updates-testing
+Short desc   : Configures authentication and identity sources from supported profiles
 URL          : https://github.com/authselect/authselect
 License      : GPLv3+
 Descript     : Authselect is designed to be a replacement for authconfig but it takes
@@ -1485,8 +1485,8 @@ Descript     : Authselect is designed to be a replacement for authconfig but it 
 <summary>authselect-compat</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tool to provide minimum backwards compatibility with authconfig
+From repo    : updates-testing
+Short desc   : Tool to provide minimum backwards compatibility with authconfig
 URL          : https://github.com/authselect/authselect
 License      : GPLv3+
 Descript     : This package will replace /usr/sbin/authconfig with a tool that will
@@ -1501,8 +1501,8 @@ Descript     : This package will replace /usr/sbin/authconfig with a tool that w
 <summary>authselect-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utility library used by the authselect tool
+From repo    : anaconda
+Short desc   : Utility library used by the authselect tool
 URL          : https://github.com/authselect/authselect
 License      : GPLv3+
 Descript     : Common library files for authselect. This package is used by the authselect
@@ -1515,8 +1515,8 @@ Descript     : Common library files for authselect. This package is used by the 
 <summary>authselect-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utility library used by the authselect tool
+From repo    : updates-testing
+Short desc   : Utility library used by the authselect tool
 URL          : https://github.com/authselect/authselect
 License      : GPLv3+
 Descript     : Common library files for authselect. This package is used by the authselect
@@ -1529,8 +1529,8 @@ Descript     : Common library files for authselect. This package is used by the 
 <summary>autoconf</summary>
 
 ```
-From repo     : fedora
-Short desc    : A GNU tool for automatically configuring source code
+From repo    : fedora
+Short desc   : A GNU tool for automatically configuring source code
 URL          : https://www.gnu.org/software/autoconf/
 License      : GPLv2+ and GFDL
 Descript     : GNU's Autoconf is a tool for configuring source code and Makefiles.
@@ -1556,8 +1556,8 @@ Descript     : GNU's Autoconf is a tool for configuring source code and Makefile
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : English auto-correction rules
+From repo    : updates-testing
+Short desc   : English auto-correction rules
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Rules for auto-correcting common English typing errors.
@@ -1570,8 +1570,8 @@ Descript     : Rules for auto-correcting common English typing errors.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Russian auto-correction rules
+From repo    : updates-testing
+Short desc   : Russian auto-correction rules
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Rules for auto-correcting common Russian typing errors.
@@ -1583,8 +1583,8 @@ Descript     : Rules for auto-correcting common Russian typing errors.
 <summary>autogen-libopts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Automated option processing library based on autogen
+From repo    : anaconda
+Short desc   : Automated option processing library based on autogen
 URL          : http://www.gnu.org/software/autogen/
 License      : LGPLv3+
 Descript     : Libopts is very powerful command line option parser consisting of a set of
@@ -1598,8 +1598,8 @@ Descript     : Libopts is very powerful command line option parser consisting of
 <summary>automake</summary>
 
 ```
-From repo     : fedora
-Short desc    : A GNU tool for automatically creating Makefiles
+From repo    : fedora
+Short desc   : A GNU tool for automatically creating Makefiles
 URL          : http://www.gnu.org/software/automake/
 License      : GPLv2+ and GFDL and Public Domain and MIT
 Descript     : Automake is a tool for automatically generating `Makefile.in'
@@ -1616,8 +1616,8 @@ Descript     : Automake is a tool for automatically generating `Makefile.in'
 <summary>avahi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Local network service discovery
+From repo    : anaconda
+Short desc   : Local network service discovery
 URL          : http://avahi.org
 License      : LGPLv2+
 Descript     : Avahi is a system which facilitates service discovery on
@@ -1635,8 +1635,8 @@ Descript     : Avahi is a system which facilitates service discovery on
 <summary>avahi-glib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Glib libraries for avahi
+From repo    : anaconda
+Short desc   : Glib libraries for avahi
 URL          : http://avahi.org
 License      : LGPLv2+
 Descript     : Libraries for easy use of avahi from glib applications.
@@ -1648,8 +1648,8 @@ Descript     : Libraries for easy use of avahi from glib applications.
 <summary>avahi-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for avahi run-time use
+From repo    : anaconda
+Short desc   : Libraries for avahi run-time use
 URL          : http://avahi.org
 License      : LGPLv2+
 Descript     : The avahi-libs package contains the libraries needed
@@ -1662,8 +1662,8 @@ Descript     : The avahi-libs package contains the libraries needed
 <summary>avahi-ui-gtk3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gtk user interface library for Avahi (Gtk+ 3 version)
+From repo    : fedora
+Short desc   : Gtk user interface library for Avahi (Gtk+ 3 version)
 URL          : http://avahi.org
 License      : LGPLv2+
 Descript     : This library contains a Gtk 3.x widget for browsing services.
@@ -1675,8 +1675,8 @@ Descript     : This library contains a Gtk 3.x widget for browsing services.
 <summary>awesome</summary>
 
 ```
-From repo     : fedora
-Short desc    : Highly configurable, framework window manager for X. Fast, light and extensible
+From repo    : fedora
+Short desc   : Highly configurable, framework window manager for X. Fast, light and extensible
 URL          : https://awesomewm.org
 License      : GPLv2+ and BSD
 Descript     : Awesome is a highly configurable, next generation framework window
@@ -1693,8 +1693,8 @@ Descript     : Awesome is a highly configurable, next generation framework windo
 <summary>awesome-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : API doc files
+From repo    : fedora
+Short desc   : API doc files
 URL          : https://awesomewm.org
 License      : GPLv2+ and BSD
 Descript     : API doc files for awesome generated by luadoc.
@@ -1706,8 +1706,8 @@ Descript     : API doc files for awesome generated by luadoc.
 <summary>awesome-vim-colorschemes</summary>
 
 ```
-From repo     : fedora
-Short desc    : Collection of color schemes for Neo/vim, merged for quick use
+From repo    : fedora
+Short desc   : Collection of color schemes for Neo/vim, merged for quick use
 URL          : https://github.com/rafi/awesome-vim-colorschemes
 License      : Vim and MIT and CC-BY
 Descript     : Collection of awesome color schemes for Neo/vim, merged for quick use.

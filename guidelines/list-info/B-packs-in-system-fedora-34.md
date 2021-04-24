@@ -4,8 +4,8 @@
 <summary>Box2D</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A 2D Physics Engine for Games
+From repo    : anaconda
+Short desc   : A 2D Physics Engine for Games
 URL          : http://box2d.org/
 License      : zlib
 Descript     : Box2D is an open source C++ engine for simulating rigid bodies in 2D.

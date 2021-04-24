@@ -4,8 +4,8 @@
 <summary>CharLS</summary>
 
 ```
-From repo     : fedora
-Short desc    : An optimized implementation of the JPEG-LS standard
+From repo    : fedora
+Short desc   : An optimized implementation of the JPEG-LS standard
 URL          : https://github.com/team-charls/charls
 License      : BSD
 Descript     : An optimized implementation of the JPEG-LS standard for loss less and

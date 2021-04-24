@@ -4,8 +4,8 @@
 <summary>radeon-profile</summary>
 
 ```
-From repo     : fedora
-Short desc    : Application to read current clocks of ATi Radeon cards
+From repo    : fedora
+Short desc   : Application to read current clocks of ATi Radeon cards
 URL          : https://github.com/marazmista/radeon-profile
 License      : GPLv2+
 Descript     : Simple application to read current clocks of ATi Radeon cards (xf86-video-ati,
@@ -30,8 +30,8 @@ Descript     : Simple application to read current clocks of ATi Radeon cards (xf
 <summary>radeon-profile-daemon</summary>
 
 ```
-From repo     : fedora
-Short desc    : Daemon for radeon-profile GUI
+From repo    : fedora
+Short desc   : Daemon for radeon-profile GUI
 URL          : https://github.com/marazmista/radeon-profile-daemon
 License      : GPLv2+
 Descript     : System daemon for reading info about Radeon GPU clocks and volts as well as
@@ -47,8 +47,8 @@ Descript     : System daemon for reading info about Radeon GPU clocks and volts 
 <summary>radeontool</summary>
 
 ```
-From repo     : fedora
-Short desc    : Backlight and video output configuration tool for radeon cards
+From repo    : fedora
+Short desc   : Backlight and video output configuration tool for radeon cards
 URL          : http://people.freedesktop.org/~airlied/radeontool/
 License      : zlib
 Descript     : radeontool is used for debugging radeon related issues. In the past it has
@@ -61,8 +61,8 @@ Descript     : radeontool is used for debugging radeon related issues. In the pa
 <summary>radeontop</summary>
 
 ```
-From repo     : fedora
-Short desc    : AMD Radeon video cards monitoring utility
+From repo    : fedora
+Short desc   : AMD Radeon video cards monitoring utility
 URL          : https://github.com/clbr/radeontop
 License      : GPLv3
 Descript     : RadeonTop is a monitoring utility for AMD Radeon cards from R600 and up.
@@ -74,8 +74,8 @@ Descript     : RadeonTop is a monitoring utility for AMD Radeon cards from R600 
 <summary>radvd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A Router Advertisement daemon
+From repo    : anaconda
+Short desc   : A Router Advertisement daemon
 URL          : http://www.litech.org/radvd/
 License      : BSD with advertising
 Descript     : radvd is the router advertisement daemon for IPv6.  It listens to router
@@ -95,8 +95,8 @@ Descript     : radvd is the router advertisement daemon for IPv6.  It listens to
 <summary>raptor2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : RDF Parser Toolkit for Redland
+From repo    : anaconda
+Short desc   : RDF Parser Toolkit for Redland
 URL          : http://librdf.org/raptor/
 License      : GPLv2+ or LGPLv2+ or ASL 2.0
 Descript     : Raptor is the RDF Parser Toolkit for Redland that provides
@@ -110,8 +110,8 @@ Descript     : Raptor is the RDF Parser Toolkit for Redland that provides
 <summary>rasqal</summary>
 
 ```
-From repo     : anaconda
-Short desc    : RDF Query Library
+From repo    : anaconda
+Short desc   : RDF Query Library
 URL          : http://librdf.org/rasqal/
 License      : LGPLv2+ or ASL 2.0
 Descript     : Rasqal is a library providing full support for querying Resource
@@ -126,8 +126,8 @@ Descript     : Rasqal is a library providing full support for querying Resource
 <summary>rav1e-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library files for rav1e
+From repo    : updates-testing
+Short desc   : Library files for rav1e
 URL          : https://crates.io/crates/rav1e
 License      : BSD and ASL 2.0 and ISC and MIT and zlib
 Descript     : Library files for rav1e, the fastest and safest AV1 encoder.
@@ -139,8 +139,8 @@ Descript     : Library files for rav1e, the fastest and safest AV1 encoder.
 <summary>rb_libtorrent</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A C++ BitTorrent library aiming to be the best alternative
+From repo    : updates-testing
+Short desc   : A C++ BitTorrent library aiming to be the best alternative
 URL          : https://www.libtorrent.org
 License      : BSD
 Descript     : rb_libtorrent is a C++ library that aims to be a good alternative to all
@@ -157,8 +157,8 @@ Descript     : rb_libtorrent is a C++ library that aims to be a good alternative
 <summary>rdiff-backup</summary>
 
 ```
-From repo     : fedora
-Short desc    : Convenient and transparent local/remote incremental mirror/backup
+From repo    : fedora
+Short desc   : Convenient and transparent local/remote incremental mirror/backup
 URL          : https://rdiff-backup.net/
 License      : GPLv2+
 Descript     : rdiff-backup is a script, written in Python, that backs up one
@@ -180,8 +180,8 @@ Descript     : rdiff-backup is a script, written in Python, that backs up one
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : C++ fast alternative to backtracking RE engines
+From repo    : updates-testing
+Short desc   : C++ fast alternative to backtracking RE engines
 URL          : http://github.com/google/re2/
 License      : BSD
 Descript     : RE2 is a C++ library providing a fast, safe, thread-friendly alternative to
@@ -203,8 +203,8 @@ Descript     : RE2 is a C++ library providing a fast, safe, thread-friendly alte
 <summary>readline</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for editing typed command lines
+From repo    : anaconda
+Short desc   : A library for editing typed command lines
 URL          : https://tiswww.case.edu/php/chet/readline/rltop.html
 License      : GPLv3+
 Descript     : The Readline library provides a set of functions that allow users to
@@ -221,8 +221,8 @@ Descript     : The Readline library provides a set of functions that allow users
 <summary>realmd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Kerberos realm enrollment service
+From repo    : anaconda
+Short desc   : Kerberos realm enrollment service
 URL          : https://gitlab.freedesktop.org/realmd/realmd
 License      : LGPLv2+
 Descript     : realmd is a DBus system service which manages discovery and enrollment in realms
@@ -236,8 +236,8 @@ Descript     : realmd is a DBus system service which manages discovery and enrol
 <summary>realmd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Kerberos realm enrollment service
+From repo    : updates-testing
+Short desc   : Kerberos realm enrollment service
 URL          : https://gitlab.freedesktop.org/realmd/realmd
 License      : LGPLv2+
 Descript     : realmd is a DBus system service which manages discovery and enrollment in realms
@@ -251,8 +251,8 @@ Descript     : realmd is a DBus system service which manages discovery and enrol
 <summary>rear</summary>
 
 ```
-From repo     : fedora
-Short desc    : Relax-and-Recover is a Linux disaster recovery and system migration tool
+From repo    : fedora
+Short desc   : Relax-and-Recover is a Linux disaster recovery and system migration tool
 URL          : http://relax-and-recover.org/
 License      : GPLv3
 Descript     : Relax-and-Recover is the leading Open Source disaster recovery and system
@@ -281,8 +281,8 @@ Descript     : Relax-and-Recover is the leading Open Source disaster recovery an
 <summary>redhat-menus</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Configuration and data files for the desktop menus
+From repo    : anaconda
+Short desc   : Configuration and data files for the desktop menus
 URL          : http://www.redhat.com
 License      : GPL+
 Descript     : This package contains the XML files that describe the menu layout for
@@ -296,8 +296,8 @@ Descript     : This package contains the XML files that describe the menu layout
 <summary>redhat-rpm-config</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Red Hat specific rpm configuration files
+From repo    : updates-testing
+Short desc   : Red Hat specific rpm configuration files
 URL          : https://src.fedoraproject.org/rpms/redhat-rpm-config
 License      : GPL+
 Descript     : Red Hat specific rpm configuration files.
@@ -309,8 +309,8 @@ Descript     : Red Hat specific rpm configuration files.
 <summary>redland</summary>
 
 ```
-From repo     : anaconda
-Short desc    : RDF Application Framework
+From repo    : anaconda
+Short desc   : RDF Application Framework
 URL          : http://librdf.org/
 License      : LGPLv2+ or ASL 2.0
 Descript     : Redland is a library that provides a high-level interface for RDF
@@ -327,8 +327,8 @@ Descript     : Redland is a library that provides a high-level interface for RDF
 <summary>redland</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : RDF Application Framework
+From repo    : updates-testing
+Short desc   : RDF Application Framework
 URL          : http://librdf.org/
 License      : LGPLv2+ or ASL 2.0
 Descript     : Redland is a library that provides a high-level interface for RDF
@@ -345,8 +345,8 @@ Descript     : Redland is a library that provides a high-level interface for RDF
 <summary>remmina</summary>
 
 ```
-From repo     : fedora
-Short desc    : Remote Desktop Client
+From repo    : fedora
+Short desc   : Remote Desktop Client
 URL          : http://remmina.org
 License      : GPLv2+ and MIT
 Descript     : Remmina is a remote desktop client written in GTK+, aiming to be useful for
@@ -365,8 +365,8 @@ Descript     : Remmina is a remote desktop client written in GTK+, aiming to be 
 <summary>remmina-plugins-exec</summary>
 
 ```
-From repo     : fedora
-Short desc    : External execution plugin for Remmina Remote Desktop Client
+From repo    : fedora
+Short desc   : External execution plugin for Remmina Remote Desktop Client
 URL          : http://remmina.org
 License      : GPLv2+ and MIT
 Descript     : Remmina is a remote desktop client written in GTK+, aiming to be useful for
@@ -383,8 +383,8 @@ Descript     : Remmina is a remote desktop client written in GTK+, aiming to be 
 <summary>remmina-plugins-nx</summary>
 
 ```
-From repo     : fedora
-Short desc    : NX plugin for Remmina Remote Desktop Client
+From repo    : fedora
+Short desc   : NX plugin for Remmina Remote Desktop Client
 URL          : http://remmina.org
 License      : GPLv2+ and MIT
 Descript     : Remmina is a remote desktop client written in GTK+, aiming to be useful for
@@ -400,8 +400,8 @@ Descript     : Remmina is a remote desktop client written in GTK+, aiming to be 
 <summary>remmina-plugins-rdp</summary>
 
 ```
-From repo     : fedora
-Short desc    : RDP plugin for Remmina Remote Desktop Client
+From repo    : fedora
+Short desc   : RDP plugin for Remmina Remote Desktop Client
 URL          : http://remmina.org
 License      : GPLv2+ and MIT
 Descript     : Remmina is a remote desktop client written in GTK+, aiming to be useful for
@@ -418,8 +418,8 @@ Descript     : Remmina is a remote desktop client written in GTK+, aiming to be 
 <summary>remmina-plugins-secret</summary>
 
 ```
-From repo     : fedora
-Short desc    : Keyring integration for Remmina Remote Desktop Client
+From repo    : fedora
+Short desc   : Keyring integration for Remmina Remote Desktop Client
 URL          : http://remmina.org
 License      : GPLv2+ and MIT
 Descript     : Remmina is a remote desktop client written in GTK+, aiming to be useful for
@@ -436,8 +436,8 @@ Descript     : Remmina is a remote desktop client written in GTK+, aiming to be 
 <summary>remmina-plugins-st</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple Terminal plugin for Remmina Remote Desktop Client
+From repo    : fedora
+Short desc   : Simple Terminal plugin for Remmina Remote Desktop Client
 URL          : http://remmina.org
 License      : GPLv2+ and MIT
 Descript     : Remmina is a remote desktop client written in GTK+, aiming to be useful for
@@ -454,8 +454,8 @@ Descript     : Remmina is a remote desktop client written in GTK+, aiming to be 
 <summary>remmina-plugins-vnc</summary>
 
 ```
-From repo     : fedora
-Short desc    : VNC plugin for Remmina Remote Desktop Client
+From repo    : fedora
+Short desc   : VNC plugin for Remmina Remote Desktop Client
 URL          : http://remmina.org
 License      : GPLv2+ and MIT
 Descript     : Remmina is a remote desktop client written in GTK+, aiming to be useful for
@@ -472,8 +472,8 @@ Descript     : Remmina is a remote desktop client written in GTK+, aiming to be 
 <summary>remmina-plugins-xdmcp</summary>
 
 ```
-From repo     : fedora
-Short desc    : XDMCP plugin for Remmina Remote Desktop Client
+From repo    : fedora
+Short desc   : XDMCP plugin for Remmina Remote Desktop Client
 URL          : http://remmina.org
 License      : GPLv2+ and MIT
 Descript     : Remmina is a remote desktop client written in GTK+, aiming to be useful for
@@ -490,8 +490,8 @@ Descript     : Remmina is a remote desktop client written in GTK+, aiming to be 
 <summary>reptyr</summary>
 
 ```
-From repo     : fedora
-Short desc    : Attach a running process to a new terminal
+From repo    : fedora
+Short desc   : Attach a running process to a new terminal
 URL          : http://github.com/nelhage/reptyr
 License      : MIT
 Descript     : reptyr is a utility for taking an existing running program and
@@ -507,8 +507,8 @@ Descript     : reptyr is a utility for taking an existing running program and
 <summary>rest</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for access to RESTful web services
+From repo    : anaconda
+Short desc   : A library for access to RESTful web services
 URL          : http://www.gnome.org
 License      : LGPLv2
 Descript     : This library was designed to make it easier to access web services that
@@ -526,8 +526,8 @@ Descript     : This library was designed to make it easier to access web service
 <summary>rgb</summary>
 
 ```
-From repo     : fedora
-Short desc    : X color name database
+From repo    : fedora
+Short desc   : X color name database
 URL          : https://www.x.org
 License      : MIT
 Descript     : This package includes both the list mapping X color names to RGB values
@@ -541,8 +541,8 @@ Descript     : This package includes both the list mapping X color names to RGB 
 <summary>rhash</summary>
 
 ```
-From repo     : fedora
-Short desc    : Great utility for computing hash sums
+From repo    : fedora
+Short desc   : Great utility for computing hash sums
 URL          : https://github.com/rhash/RHash
 License      : MIT
 Descript     : RHash is a console utility for calculation  and verification of magnet links
@@ -568,8 +568,8 @@ Descript     : RHash is a console utility for calculation  and verification of m
 <summary>rhythmbox</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Music Management Application
+From repo    : anaconda
+Short desc   : Music Management Application
 URL          : https://wiki.gnome.org/Apps/Rhythmbox
 License      : GPLv2+ with exceptions and GFDL
 Descript     : Rhythmbox is an integrated music management application based on the powerful
@@ -586,8 +586,8 @@ Descript     : Rhythmbox is an integrated music management application based on 
 <summary>rlwrap</summary>
 
 ```
-From repo     : fedora
-Short desc    : Wrapper for GNU readline
+From repo    : fedora
+Short desc   : Wrapper for GNU readline
 URL          : https://github.com/hanslub42/rlwrap
 License      : GPLv2+
 Descript     : rlwrap is a 'readline wrapper' that uses the GNU readline library to
@@ -603,8 +603,8 @@ Descript     : rlwrap is a 'readline wrapper' that uses the GNU readline library
 <summary>rocm-opencl</summary>
 
 ```
-From repo     : ROCm
-Short desc    : OpenCL: Open Computing Language on ROCclr
+From repo    : ROCm
+Short desc   : OpenCL: Open Computing Language on ROCclr
 License      : unknown
 Descript     : DESCRIPTION
              : ===========
@@ -618,7 +618,7 @@ Descript     : DESCRIPTION
 <summary>rocminfo</summary>
 
 ```
-Short desc    : ROCm system info utility
+Short desc   : ROCm system info utility
 URL          : https://github.com/RadeonOpenCompute/rocminfo
 License      : NCSA
 Descript     : ROCm system info utility
@@ -630,8 +630,8 @@ Descript     : ROCm system info utility
 <summary>rootfiles</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The basic required files for the root user's directory
+From repo    : anaconda
+Short desc   : The basic required files for the root user's directory
 License      : Public Domain
 Descript     : The rootfiles package contains basic required files that are placed
              : in the root user's account.  These files are basically the same
@@ -645,8 +645,8 @@ Descript     : The rootfiles package contains basic required files that are plac
 <summary>rootsh</summary>
 
 ```
-From repo     : fedora
-Short desc    : Shell wrapper for auditing
+From repo    : fedora
+Short desc   : Shell wrapper for auditing
 URL          : http://sourceforge.net/projects/rootsh
 License      : GPLv3+
 Descript     : Rootsh is a wrapper for shells which logs all echoed keystrokes and
@@ -661,8 +661,8 @@ Descript     : Rootsh is a wrapper for shells which logs all echoed keystrokes a
 <summary>rpcbind</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Universal Addresses to RPC Program Number Mapper
+From repo    : anaconda
+Short desc   : Universal Addresses to RPC Program Number Mapper
 URL          : http://nfsv4.bullopensource.org
 License      : BSD
 Descript     : The rpcbind utility is a server that converts RPC program numbers into
@@ -676,8 +676,8 @@ Descript     : The rpcbind utility is a server that converts RPC program numbers
 <summary>rpkg-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common files for rpkg
+From repo    : fedora
+Short desc   : Common files for rpkg
 URL          : https://pagure.io/rpkg
 License      : GPLv2+ and LGPLv2
 Descript     : Common files for python2-rpkg and python3-rpkg.
@@ -689,8 +689,8 @@ Descript     : Common files for python2-rpkg and python3-rpkg.
 <summary>rpm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The RPM package management system
+From repo    : anaconda
+Short desc   : The RPM package management system
 URL          : http://www.rpm.org/
 License      : GPLv2+
 Descript     : The RPM Package Manager (RPM) is a powerful command line driven
@@ -706,8 +706,8 @@ Descript     : The RPM Package Manager (RPM) is a powerful command line driven
 <summary>rpm</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The RPM package management system
+From repo    : updates-testing
+Short desc   : The RPM package management system
 URL          : http://www.rpm.org/
 License      : GPLv2+
 Descript     : The RPM Package Manager (RPM) is a powerful command line driven
@@ -723,8 +723,8 @@ Descript     : The RPM Package Manager (RPM) is a powerful command line driven
 <summary>rpm-build</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Scripts and executable programs used to build packages
+From repo    : updates-testing
+Short desc   : Scripts and executable programs used to build packages
 URL          : http://www.rpm.org/
 License      : GPLv2+
 Descript     : The rpm-build package contains the scripts and executable programs
@@ -737,8 +737,8 @@ Descript     : The rpm-build package contains the scripts and executable program
 <summary>rpm-build-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for building RPM packages
+From repo    : anaconda
+Short desc   : Libraries for building RPM packages
 URL          : http://www.rpm.org/
 License      : GPLv2+ and LGPLv2+ with exceptions
 Descript     : This package contains the RPM shared libraries for building packages.
@@ -750,8 +750,8 @@ Descript     : This package contains the RPM shared libraries for building packa
 <summary>rpm-build-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for building RPM packages
+From repo    : updates-testing
+Short desc   : Libraries for building RPM packages
 URL          : http://www.rpm.org/
 License      : GPLv2+ and LGPLv2+ with exceptions
 Descript     : This package contains the RPM shared libraries for building packages.
@@ -763,8 +763,8 @@ Descript     : This package contains the RPM shared libraries for building packa
 <summary>rpm-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for manipulating RPM packages
+From repo    : anaconda
+Short desc   : Libraries for manipulating RPM packages
 URL          : http://www.rpm.org/
 License      : GPLv2+ and LGPLv2+ with exceptions
 Descript     : This package contains the RPM shared libraries.
@@ -776,8 +776,8 @@ Descript     : This package contains the RPM shared libraries.
 <summary>rpm-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for manipulating RPM packages
+From repo    : updates-testing
+Short desc   : Libraries for manipulating RPM packages
 URL          : http://www.rpm.org/
 License      : GPLv2+ and LGPLv2+ with exceptions
 Descript     : This package contains the RPM shared libraries.
@@ -789,8 +789,8 @@ Descript     : This package contains the RPM shared libraries.
 <summary>rpm-plugin-selinux</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Rpm plugin for SELinux functionality
+From repo    : anaconda
+Short desc   : Rpm plugin for SELinux functionality
 URL          : http://www.rpm.org/
 License      : GPLv2+
 Descript     : Rpm plugin for SELinux functionality.
@@ -802,8 +802,8 @@ Descript     : Rpm plugin for SELinux functionality.
 <summary>rpm-plugin-selinux</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Rpm plugin for SELinux functionality
+From repo    : updates-testing
+Short desc   : Rpm plugin for SELinux functionality
 URL          : http://www.rpm.org/
 License      : GPLv2+
 Descript     : Rpm plugin for SELinux functionality.
@@ -815,8 +815,8 @@ Descript     : Rpm plugin for SELinux functionality.
 <summary>rpm-plugin-systemd-inhibit</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Rpm plugin for systemd inhibit functionality
+From repo    : anaconda
+Short desc   : Rpm plugin for systemd inhibit functionality
 URL          : http://www.rpm.org/
 License      : GPLv2+
 Descript     : This plugin blocks systemd from entering idle, sleep or shutdown while an rpm
@@ -829,8 +829,8 @@ Descript     : This plugin blocks systemd from entering idle, sleep or shutdown 
 <summary>rpm-plugin-systemd-inhibit</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Rpm plugin for systemd inhibit functionality
+From repo    : updates-testing
+Short desc   : Rpm plugin for systemd inhibit functionality
 URL          : http://www.rpm.org/
 License      : GPLv2+
 Descript     : This plugin blocks systemd from entering idle, sleep or shutdown while an rpm
@@ -843,8 +843,8 @@ Descript     : This plugin blocks systemd from entering idle, sleep or shutdown 
 <summary>rpm-sign-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for signing RPM packages
+From repo    : anaconda
+Short desc   : Libraries for signing RPM packages
 URL          : http://www.rpm.org/
 License      : GPLv2+ and LGPLv2+ with exceptions
 Descript     : This package contains the RPM shared libraries for signing packages.
@@ -856,8 +856,8 @@ Descript     : This package contains the RPM shared libraries for signing packag
 <summary>rpm-sign-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for signing RPM packages
+From repo    : updates-testing
+Short desc   : Libraries for signing RPM packages
 URL          : http://www.rpm.org/
 License      : GPLv2+ and LGPLv2+ with exceptions
 Descript     : This package contains the RPM shared libraries for signing packages.
@@ -869,8 +869,8 @@ Descript     : This package contains the RPM shared libraries for signing packag
 <summary>rpmdevtools</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM Development Tools
+From repo    : fedora
+Short desc   : RPM Development Tools
 URL          : https://pagure.io/rpmdevtools
 License      : GPLv2+ and GPLv2
 Descript     : This package contains scripts and (X)Emacs support files to aid in
@@ -896,8 +896,8 @@ Descript     : This package contains scripts and (X)Emacs support files to aid i
 <summary>rpmfusion-free-appstream-data</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : Appstream metadata for the RPM Fusion free repository
+From repo    : rpmfusion-free
+Short desc   : Appstream metadata for the RPM Fusion free repository
 URL          : http://rpmfusion.org
 License      : CC0
 Descript     : Appstream metadata for packages in the RPM Fusion free repository
@@ -909,8 +909,8 @@ Descript     : Appstream metadata for packages in the RPM Fusion free repository
 <summary>rpmfusion-free-obsolete-packages</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : A package to obsolete retired packages from rpmfusion-free
+From repo    : rpmfusion-free
+Short desc   : A package to obsolete retired packages from rpmfusion-free
 URL          : http://rpmfusion.org
 License      : MIT
 Descript     : This package exists only to obsolete other packages which need to be removed
@@ -923,8 +923,8 @@ Descript     : This package exists only to obsolete other packages which need to
 <summary>rpmfusion-free-release</summary>
 
 ```
-From repo     : @commandline
-Short desc    : RPM Fusion (free) Repository Configuration
+From repo    : @commandline
+Short desc   : RPM Fusion (free) Repository Configuration
 URL          : http://rpmfusion.org
 License      : BSD
 Descript     : RPM Fusion free package repository files for yum and dnf
@@ -937,8 +937,8 @@ Descript     : RPM Fusion free package repository files for yum and dnf
 <summary>rpmfusion-nonfree-appstream-data</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : Appstream metadata for the RPM Fusion nonfree repository
+From repo    : rpmfusion-nonfree
+Short desc   : Appstream metadata for the RPM Fusion nonfree repository
 URL          : http://rpmfusion.org
 License      : CC0
 Descript     : Appstream metadata for packages in the RPM Fusion nonfree repository
@@ -950,8 +950,8 @@ Descript     : Appstream metadata for packages in the RPM Fusion nonfree reposit
 <summary>rpmfusion-nonfree-release</summary>
 
 ```
-From repo     : @commandline
-Short desc    : RPM Fusion (nonfree) Repository Configuration
+From repo    : @commandline
+Short desc   : RPM Fusion (nonfree) Repository Configuration
 URL          : http://rpmfusion.org
 License      : BSD
 Descript     : RPM Fusion nonfree package repository files for yum and dnf
@@ -964,8 +964,8 @@ Descript     : RPM Fusion nonfree package repository files for yum and dnf
 <summary>rpmlint</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tool for checking common errors in RPM packages
+From repo    : fedora
+Short desc   : Tool for checking common errors in RPM packages
 URL          : https://github.com/rpm-software-management/rpmlint
 License      : GPLv2
 Descript     : rpmlint is a tool for checking common errors in RPM packages. Binary
@@ -978,8 +978,8 @@ Descript     : rpmlint is a tool for checking common errors in RPM packages. Bin
 <summary>rsnapshot</summary>
 
 ```
-From repo     : fedora
-Short desc    : Local and remote filesystem snapshot utility
+From repo    : fedora
+Short desc   : Local and remote filesystem snapshot utility
 URL          : https://rsnapshot.org/
 License      : GPLv2+
 Descript     : This is a remote backup program that uses rsync to take backup snapshots of
@@ -992,8 +992,8 @@ Descript     : This is a remote backup program that uses rsync to take backup sn
 <summary>rsync</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A program for synchronizing files over a network
+From repo    : anaconda
+Short desc   : A program for synchronizing files over a network
 URL          : https://rsync.samba.org/
 License      : GPLv3+
 Descript     : Rsync uses a reliable algorithm to bring remote and host files into
@@ -1011,8 +1011,8 @@ Descript     : Rsync uses a reliable algorithm to bring remote and host files in
 <summary>rtkit</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Realtime Policy and Watchdog Daemon
+From repo    : anaconda
+Short desc   : Realtime Policy and Watchdog Daemon
 URL          : http://git.0pointer.net/rtkit.git/
 License      : GPLv3+ and BSD
 Descript     : RealtimeKit is a D-Bus system service that changes the
@@ -1028,8 +1028,8 @@ Descript     : RealtimeKit is a D-Bus system service that changes the
 <summary>ruby</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An interpreter of object-oriented scripting language
+From repo    : updates-testing
+Short desc   : An interpreter of object-oriented scripting language
 URL          : https://www.ruby-lang.org/
 License      : (Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD
 Descript     : Ruby is the interpreted scripting language for quick and easy
@@ -1044,8 +1044,8 @@ Descript     : Ruby is the interpreted scripting language for quick and easy
 <summary>ruby-augeas</summary>
 
 ```
-From repo     : fedora
-Short desc    : Ruby bindings for Augeas
+From repo    : fedora
+Short desc   : Ruby bindings for Augeas
 URL          : http://augeas.net
 License      : LGPLv2+
 Descript     : Ruby bindings for augeas.
@@ -1057,8 +1057,8 @@ Descript     : Ruby bindings for augeas.
 <summary>ruby-default-gems</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Default gems which are part of Ruby StdLib
+From repo    : updates-testing
+Short desc   : Default gems which are part of Ruby StdLib
 URL          : https://www.ruby-lang.org/
 License      : (Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD
 Descript     : The .gemspec files and executables of default gems, which are part of Ruby
@@ -1071,8 +1071,8 @@ Descript     : The .gemspec files and executables of default gems, which are par
 <summary>ruby-facter</summary>
 
 ```
-From repo     : fedora
-Short desc    : Ruby bindings for facter
+From repo    : fedora
+Short desc   : Ruby bindings for facter
 URL          : https://puppetlabs.com/facter
 License      : ASL 2.0
 Descript     : The ruby bindings for libfacter.
@@ -1084,8 +1084,8 @@ Descript     : The ruby bindings for libfacter.
 <summary>ruby-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries necessary to run Ruby
+From repo    : updates-testing
+Short desc   : Libraries necessary to run Ruby
 URL          : https://www.ruby-lang.org/
 License      : Ruby or BSD
 Descript     : This package includes the libruby, necessary to run Ruby.
@@ -1097,8 +1097,8 @@ Descript     : This package includes the libruby, necessary to run Ruby.
 <summary>rubygem-bigdecimal</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : BigDecimal provides arbitrary-precision floating point decimal arithmetic
+From repo    : updates-testing
+Short desc   : BigDecimal provides arbitrary-precision floating point decimal arithmetic
 URL          : https://www.ruby-lang.org/
 License      : Ruby or BSD
 Descript     : Ruby provides built-in support for arbitrary precision integer arithmetic.
@@ -1119,8 +1119,8 @@ Descript     : Ruby provides built-in support for arbitrary precision integer ar
 <summary>rubygem-bundler</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library and utilities to manage a Ruby application's gem dependencies
+From repo    : updates-testing
+Short desc   : Library and utilities to manage a Ruby application's gem dependencies
 URL          : https://www.ruby-lang.org/
 License      : MIT
 Descript     : Bundler manages an application's dependencies through its entire life, across
@@ -1133,8 +1133,8 @@ Descript     : Bundler manages an application's dependencies through its entire 
 <summary>rubygem-io-console</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : IO/Console is a simple console utilizing library
+From repo    : updates-testing
+Short desc   : IO/Console is a simple console utilizing library
 URL          : https://www.ruby-lang.org/
 License      : (Ruby or BSD) and Public Domain and MIT and CC0 and zlib and UCD
 Descript     : IO/Console provides very simple and portable access to console. It doesn't
@@ -1147,8 +1147,8 @@ Descript     : IO/Console provides very simple and portable access to console. I
 <summary>rubygem-json</summary>
 
 ```
-From repo     : fedora
-Short desc    : A JSON implementation in Ruby
+From repo    : fedora
+Short desc   : A JSON implementation in Ruby
 URL          : http://json.rubyforge.org
 License      : Ruby or GPLv2
 Descript     : This is a implementation of the JSON specification according
@@ -1164,8 +1164,8 @@ Descript     : This is a implementation of the JSON specification according
 <summary>rubygem-multi_json</summary>
 
 ```
-From repo     : fedora
-Short desc    : A common interface to multiple JSON libraries
+From repo    : fedora
+Short desc   : A common interface to multiple JSON libraries
 URL          : https://github.com/intridea/multi_json
 License      : MIT
 Descript     : A common interface to multiple JSON libraries, including Oj, Yajl, the JSON
@@ -1179,8 +1179,8 @@ Descript     : A common interface to multiple JSON libraries, including Oj, Yajl
 <summary>rubygem-pathspec</summary>
 
 ```
-From repo     : fedora
-Short desc    : Use to match path patterns such as gitignore
+From repo    : fedora
+Short desc   : Use to match path patterns such as gitignore
 URL          : https://rubygems.org/gems/pathspec
 License      : ASL 2.0
 Descript     : Use to match path patterns such as gitignore.
@@ -1192,8 +1192,8 @@ Descript     : Use to match path patterns such as gitignore.
 <summary>rubygem-psych</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A libyaml wrapper for Ruby
+From repo    : updates-testing
+Short desc   : A libyaml wrapper for Ruby
 URL          : https://www.ruby-lang.org/
 License      : MIT
 Descript     : Psych is a YAML parser and emitter. Psych leverages
@@ -1208,8 +1208,8 @@ Descript     : Psych is a YAML parser and emitter. Psych leverages
 <summary>rubygem-rdoc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A tool to generate HTML and command-line documentation for Ruby projects
+From repo    : updates-testing
+Short desc   : A tool to generate HTML and command-line documentation for Ruby projects
 URL          : https://www.ruby-lang.org/
 License      : GPLv2 and Ruby and MIT and OFL
 Descript     : RDoc produces HTML and command-line documentation for Ruby projects.  RDoc
@@ -1223,8 +1223,8 @@ Descript     : RDoc produces HTML and command-line documentation for Ruby projec
 <summary>rubygem-rgen</summary>
 
 ```
-From repo     : fedora
-Short desc    : Ruby Modelling and Generator Framework
+From repo    : fedora
+Short desc   : Ruby Modelling and Generator Framework
 URL          : https://github.com/mthiede/rgen
 License      : MIT
 Descript     : RGen is a framework for Model Driven Software Development (MDSD) in Ruby. This
@@ -1238,8 +1238,8 @@ Descript     : RGen is a framework for Model Driven Software Development (MDSD) 
 <summary>rubygem-ruby-shadow</summary>
 
 ```
-From repo     : fedora
-Short desc    : Ruby shadow password module
+From repo    : fedora
+Short desc   : Ruby shadow password module
 URL          : https://github.com/apalmblad/ruby-shadow
 License      : Public Domain
 Descript     : This module provides access to shadow passwords on Linux and Solaris.
@@ -1251,8 +1251,8 @@ Descript     : This module provides access to shadow passwords on Linux and Sola
 <summary>rubygems</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Ruby standard for packaging ruby libraries
+From repo    : updates-testing
+Short desc   : The Ruby standard for packaging ruby libraries
 URL          : https://www.ruby-lang.org/
 License      : Ruby or MIT
 Descript     : RubyGems is the Ruby standard for publishing and managing third party
@@ -1265,8 +1265,8 @@ Descript     : RubyGems is the Ruby standard for publishing and managing third p
 <summary>rubypick</summary>
 
 ```
-From repo     : fedora
-Short desc    : Stub to allow choosing Ruby runtime
+From repo    : fedora
+Short desc   : Stub to allow choosing Ruby runtime
 URL          : https://github.com/fedora-ruby/rubypick
 License      : MIT
 Descript     : Fedora /usr/bin/ruby stub to allow choosing Ruby runtime. Similarly to rbenv
@@ -1281,8 +1281,8 @@ Descript     : Fedora /usr/bin/ruby stub to allow choosing Ruby runtime. Similar
 
 ```
 Эпоха        : 2
-From repo     : fedora
-Short desc    : CLI for running Open Containers
+From repo    : fedora
+Short desc   : CLI for running Open Containers
 URL          : https://github.com/opencontainers/runc
 License      : ASL 2.0
 Descript     : The runc command can be used to start containers which are packaged
@@ -1296,8 +1296,8 @@ Descript     : The runc command can be used to start containers which are packag
 <summary>rust-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM macros for building Rust source packages
+From repo    : fedora
+Short desc   : RPM macros for building Rust source packages
 URL          : https://pagure.io/fedora-rust/rust2rpm
 License      : MIT
 Descript     : RPM macros for building Rust source packages.
@@ -1309,8 +1309,8 @@ Descript     : RPM macros for building Rust source packages.
 <summary>rxvt-unicode</summary>
 
 ```
-From repo     : fedora
-Short desc    : Unicode version of rxvt
+From repo    : fedora
+Short desc   : Unicode version of rxvt
 URL          : http://software.schmorp.de/
 License      : GPLv3
 Descript     : rxvt-unicode is a clone of the well known terminal emulator rxvt, modified to
@@ -1325,8 +1325,8 @@ Descript     : rxvt-unicode is a clone of the well known terminal emulator rxvt,
 <summary>rygel</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A collection of UPnP/DLNA services
+From repo    : anaconda
+Short desc   : A collection of UPnP/DLNA services
 URL          : https://wiki.gnome.org/Projects/Rygel
 License      : LGPLv2+
 Descript     : Rygel is a home media solution that allows you to easily share audio, video and

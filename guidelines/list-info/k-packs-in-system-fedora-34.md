@@ -4,8 +4,8 @@
 <summary>kasumi-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Anthy dictionary management common files between kasumi and kasumi-unicode
+From repo    : anaconda
+Short desc   : Anthy dictionary management common files between kasumi and kasumi-unicode
 URL          : http://kasumi.sourceforge.jp/
 License      : GPLv2+
 Descript     : This package contains common files for kasumi and kasumi-unicode.
@@ -17,8 +17,8 @@ Descript     : This package contains common files for kasumi and kasumi-unicode.
 <summary>kasumi-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Anthy dictionary management common files between kasumi and kasumi-unicode
+From repo    : updates-testing
+Short desc   : Anthy dictionary management common files between kasumi and kasumi-unicode
 URL          : http://kasumi.sourceforge.jp/
 License      : GPLv2+
 Descript     : This package contains common files for kasumi and kasumi-unicode.
@@ -30,8 +30,8 @@ Descript     : This package contains common files for kasumi and kasumi-unicode.
 <summary>kasumi-unicode</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An anthy-unicode dictionary management tool
+From repo    : anaconda
+Short desc   : An anthy-unicode dictionary management tool
 URL          : http://kasumi.sourceforge.jp/
 License      : GPLv2+
 Descript     : Kasumi-unicode is a dictionary management tool for Anthy-unicode.
@@ -43,8 +43,8 @@ Descript     : Kasumi-unicode is a dictionary management tool for Anthy-unicode.
 <summary>kasumi-unicode</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An anthy-unicode dictionary management tool
+From repo    : updates-testing
+Short desc   : An anthy-unicode dictionary management tool
 URL          : http://kasumi.sourceforge.jp/
 License      : GPLv2+
 Descript     : Kasumi-unicode is a dictionary management tool for Anthy-unicode.
@@ -56,8 +56,8 @@ Descript     : Kasumi-unicode is a dictionary management tool for Anthy-unicode.
 <summary>kbd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tools for configuring the console (keyboard, virtual terminals, etc.)
+From repo    : anaconda
+Short desc   : Tools for configuring the console (keyboard, virtual terminals, etc.)
 URL          : http://www.kbd-project.org/
 License      : GPLv2+
 Descript     : The kbd package contains tools for managing a Linux
@@ -71,8 +71,8 @@ Descript     : The kbd package contains tools for managing a Linux
 <summary>kbd-misc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Data for kbd package
+From repo    : anaconda
+Short desc   : Data for kbd package
 URL          : http://www.kbd-project.org/
 License      : GPLv2+
 Descript     : The kbd-misc package contains data for kbd package - console fonts,
@@ -85,8 +85,8 @@ Descript     : The kbd-misc package contains data for kbd package - console font
 <summary>kcolorpicker</summary>
 
 ```
-From repo     : fedora
-Short desc    : QToolButton control with color popup menu
+From repo    : fedora
+Short desc   : QToolButton control with color popup menu
 URL          : https://github.com/ksnip/kColorPicker
 License      : LGPLv3+
 Descript     : QToolButton with color popup menu which lets you select a color.
@@ -101,8 +101,8 @@ Descript     : QToolButton with color popup menu which lets you select a color.
 <summary>kde-filesystem</summary>
 
 ```
-From repo     : fedora
-Short desc    : KDE filesystem layout
+From repo    : fedora
+Short desc   : KDE filesystem layout
 License      : Public Domain
 Descript     : This package provides some directories that are required/used by KDE.
 ```
@@ -113,8 +113,8 @@ Descript     : This package provides some directories that are required/used by 
 <summary>kde-settings</summary>
 
 ```
-From repo     : fedora
-Short desc    : Config files for kde
+From repo    : fedora
+Short desc   : Config files for kde
 URL          : https://pagure.io/fedora-kde/kde-settings
 License      : MIT
 Descript     : Config files for kde.
@@ -126,8 +126,8 @@ Descript     : Config files for kde.
 <summary>kdump-anaconda-addon</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Kdump configuration anaconda addon
+From repo    : anaconda
+Short desc   : Kdump configuration anaconda addon
 URL          : https://github.com/daveyoung/kdump-anaconda-addon
 License      : GPLv2
 Descript     : Kdump anaconda addon
@@ -139,8 +139,8 @@ Descript     : Kdump anaconda addon
 <summary>keepassxc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cross-platform password manager
+From repo    : fedora
+Short desc   : Cross-platform password manager
 URL          : http://www.keepassxc.org/
 License      : Boost and BSD and CC0 and GPLv3 and LGPLv2 and LGPLv2+ and LGPLv3+ and Public Domain
 Descript     : KeePassXC is a community fork of KeePassX
@@ -166,8 +166,8 @@ Descript     : KeePassXC is a community fork of KeePassX
 <summary>kernel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Linux kernel
+From repo    : updates-testing
+Short desc   : The Linux kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : The kernel meta package
@@ -179,8 +179,8 @@ Descript     : The kernel meta package
 <summary>kernel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Linux kernel
+From repo    : updates-testing
+Short desc   : The Linux kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : The kernel meta package
@@ -192,8 +192,8 @@ Descript     : The kernel meta package
 <summary>kernel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Linux kernel
+From repo    : updates-testing
+Short desc   : The Linux kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : The kernel meta package
@@ -205,8 +205,8 @@ Descript     : The kernel meta package
 <summary>kernel-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Linux kernel
+From repo    : updates-testing
+Short desc   : The Linux kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : The kernel package contains the Linux kernel (vmlinuz), the core of any
@@ -221,8 +221,8 @@ Descript     : The kernel package contains the Linux kernel (vmlinuz), the core 
 <summary>kernel-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Linux kernel
+From repo    : updates-testing
+Short desc   : The Linux kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : The kernel package contains the Linux kernel (vmlinuz), the core of any
@@ -237,8 +237,8 @@ Descript     : The kernel package contains the Linux kernel (vmlinuz), the core 
 <summary>kernel-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Linux kernel
+From repo    : updates-testing
+Short desc   : The Linux kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : The kernel package contains the Linux kernel (vmlinuz), the core of any
@@ -253,8 +253,8 @@ Descript     : The kernel package contains the Linux kernel (vmlinuz), the core 
 <summary>kernel-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development package for building kernel modules to match the kernel
+From repo    : updates-testing
+Short desc   : Development package for building kernel modules to match the kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : This package provides kernel headers and makefiles sufficient to build modules
@@ -267,8 +267,8 @@ Descript     : This package provides kernel headers and makefiles sufficient to 
 <summary>kernel-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development package for building kernel modules to match the kernel
+From repo    : updates-testing
+Short desc   : Development package for building kernel modules to match the kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : This package provides kernel headers and makefiles sufficient to build modules
@@ -281,8 +281,8 @@ Descript     : This package provides kernel headers and makefiles sufficient to 
 <summary>kernel-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development package for building kernel modules to match the kernel
+From repo    : updates-testing
+Short desc   : Development package for building kernel modules to match the kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : This package provides kernel headers and makefiles sufficient to build modules
@@ -295,8 +295,8 @@ Descript     : This package provides kernel headers and makefiles sufficient to 
 <summary>kernel-headers</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Header files for the Linux kernel for use by glibc
+From repo    : updates-testing
+Short desc   : Header files for the Linux kernel for use by glibc
 URL          : http://www.kernel.org/
 License      : GPLv2
 Descript     : Kernel-headers includes the C header files that specify the interface
@@ -312,8 +312,8 @@ Descript     : Kernel-headers includes the C header files that specify the inter
 <summary>kernel-modules</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : kernel modules to match the core kernel
+From repo    : updates-testing
+Short desc   : kernel modules to match the core kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : This package provides commonly used kernel modules for the core kernel package.
@@ -325,8 +325,8 @@ Descript     : This package provides commonly used kernel modules for the core k
 <summary>kernel-modules</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : kernel modules to match the core kernel
+From repo    : updates-testing
+Short desc   : kernel modules to match the core kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : This package provides commonly used kernel modules for the core kernel package.
@@ -338,8 +338,8 @@ Descript     : This package provides commonly used kernel modules for the core k
 <summary>kernel-modules</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : kernel modules to match the core kernel
+From repo    : updates-testing
+Short desc   : kernel modules to match the core kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : This package provides commonly used kernel modules for the core kernel package.
@@ -351,8 +351,8 @@ Descript     : This package provides commonly used kernel modules for the core k
 <summary>kernel-modules-extra</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Extra kernel modules to match the kernel
+From repo    : updates-testing
+Short desc   : Extra kernel modules to match the kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : This package provides less commonly used kernel modules for the kernel package.
@@ -364,8 +364,8 @@ Descript     : This package provides less commonly used kernel modules for the k
 <summary>kernel-modules-extra</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Extra kernel modules to match the kernel
+From repo    : updates-testing
+Short desc   : Extra kernel modules to match the kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : This package provides less commonly used kernel modules for the kernel package.
@@ -377,8 +377,8 @@ Descript     : This package provides less commonly used kernel modules for the k
 <summary>kernel-modules-extra</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Extra kernel modules to match the kernel
+From repo    : updates-testing
+Short desc   : Extra kernel modules to match the kernel
 URL          : https://www.kernel.org/
 License      : GPLv2 and Redistributable, no modification permitted
 Descript     : This package provides less commonly used kernel modules for the kernel package.
@@ -390,8 +390,8 @@ Descript     : This package provides less commonly used kernel modules for the k
 <summary>kernel-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM macros that list arches the full kernel is built on
+From repo    : fedora
+Short desc   : RPM macros that list arches the full kernel is built on
 URL          : https://src.fedoraproject.org/rpms/kernel-srpm-macros
 License      : MIT
 Descript     : This packages contains the rpm macro that list what arches
@@ -405,8 +405,8 @@ Descript     : This packages contains the rpm macro that list what arches
 <summary>kexec-tools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The kexec/kdump userspace component
+From repo    : anaconda
+Short desc   : The kexec/kdump userspace component
 License      : GPLv2
 Descript     : kexec-tools provides /sbin/kexec binary that facilitates a new
              : kernel to boot using the kernel's kexec feature either on a
@@ -421,8 +421,8 @@ Descript     : kexec-tools provides /sbin/kexec binary that facilitates a new
 <summary>keybinder3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for registering global keyboard shortcuts
+From repo    : anaconda
+Short desc   : A library for registering global keyboard shortcuts
 URL          : https://github.com/kupferlauncher/keybinder
 License      : MIT
 Descript     : Keybinder is a library for registering global keyboard shortcuts.
@@ -439,8 +439,8 @@ Descript     : Keybinder is a library for registering global keyboard shortcuts.
 <summary>keychain</summary>
 
 ```
-From repo     : fedora
-Short desc    : Agent manager for OpenSSH, ssh.com, Sun SSH, and GnuPG
+From repo    : fedora
+Short desc   : Agent manager for OpenSSH, ssh.com, Sun SSH, and GnuPG
 URL          : https://www.funtoo.org/Keychain
 License      : GPLv2
 Descript     : Keychain is a manager for OpenSSH, ssh.com, Sun SSH and GnuPG agents.
@@ -457,8 +457,8 @@ Descript     : Keychain is a manager for OpenSSH, ssh.com, Sun SSH and GnuPG age
 <summary>keyutils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux Key Management Utilities
+From repo    : anaconda
+Short desc   : Linux Key Management Utilities
 URL          : http://people.redhat.com/~dhowells/keyutils/
 License      : GPLv2+ and LGPLv2+
 Descript     : Utilities to control the kernel key management facility and to provide
@@ -472,8 +472,8 @@ Descript     : Utilities to control the kernel key management facility and to pr
 <summary>keyutils-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Key utilities library
+From repo    : anaconda
+Short desc   : Key utilities library
 URL          : http://people.redhat.com/~dhowells/keyutils/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package provides a wrapper library for the key management facility system
@@ -486,8 +486,8 @@ Descript     : This package provides a wrapper library for the key management fa
 <summary>keyutils-libs-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development package for building Linux key management utilities
+From repo    : fedora
+Short desc   : Development package for building Linux key management utilities
 URL          : http://people.redhat.com/~dhowells/keyutils/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package provides headers and libraries for building key utilities.
@@ -499,8 +499,8 @@ Descript     : This package provides headers and libraries for building key util
 <summary>kf5-attica</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks Tier 1 Addon with Open Collaboration Services API
+From repo    : updates-testing
+Short desc   : KDE Frameworks Tier 1 Addon with Open Collaboration Services API
 URL          : https://invent.kde.org/frameworks/attica
 License      : LGPLv2+
 Descript     : Attica is a Qt library that implements the Open Collaboration Services
@@ -513,8 +513,8 @@ Descript     : Attica is a Qt library that implements the Open Collaboration Ser
 <summary>kf5-filesystem</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Filesystem for KDE Frameworks 5
+From repo    : updates-testing
+Short desc   : Filesystem for KDE Frameworks 5
 URL          : http://www.kde.org
 License      : BSD
 Descript     : Filesystem for KDE Frameworks 5.
@@ -526,8 +526,8 @@ Descript     : Filesystem for KDE Frameworks 5.
 <summary>kf5-karchive</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 addon with archive functions
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 addon with archive functions
 URL          : https://invent.kde.org/frameworks/karchive
 License      : LGPLv2+ and BSD
 Descript     : KDE Frameworks 5 Tier 1 addon with archive functions.
@@ -539,8 +539,8 @@ Descript     : KDE Frameworks 5 Tier 1 addon with archive functions.
 <summary>kf5-kauth</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 2 integration module to perform actions as privileged user
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 2 integration module to perform actions as privileged user
 URL          : https://invent.kde.org/frameworks/kauth
 License      : LGPLv2+
 Descript     : KAuth is a framework to let applications perform actions as a privileged user.
@@ -552,8 +552,8 @@ Descript     : KAuth is a framework to let applications perform actions as a pri
 <summary>kf5-kbookmarks</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 addon for bookmarks manipulation
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 addon for bookmarks manipulation
 URL          : https://invent.kde.org/frameworks/kbookmarks
 License      : LGPLv2+
 Descript     : KBookmarks lets you access and manipulate bookmarks stored using the
@@ -566,8 +566,8 @@ Descript     : KBookmarks lets you access and manipulate bookmarks stored using 
 <summary>kf5-kcmutils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 addon with extra API to write KConfigModules
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 addon with extra API to write KConfigModules
 URL          : https://invent.kde.org/frameworks/kcmutils
 License      : LGPLv2+
 Descript     : KCMUtils provides various classes to work with KCModules. KCModules can be
@@ -580,8 +580,8 @@ Descript     : KCMUtils provides various classes to work with KCModules. KCModul
 <summary>kf5-kcodecs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 addon with string manipulation methods
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 addon with string manipulation methods
 URL          : https://invent.kde.org/frameworks/kcodecs
 License      : GPLv2+ and LGPLv2+ and BSD
 Descript     : KDE Frameworks 5 Tier 1 addon with string manipulation methods.
@@ -593,8 +593,8 @@ Descript     : KDE Frameworks 5 Tier 1 addon with string manipulation methods.
 <summary>kf5-kcompletion</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 2 addon with auto completion widgets and classes
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 2 addon with auto completion widgets and classes
 URL          : https://invent.kde.org/frameworks/kcompletion
 License      : LGPLv2+
 Descript     : KCompletion provides widgets with advanced completion support as well as a
@@ -607,8 +607,8 @@ Descript     : KCompletion provides widgets with advanced completion support as 
 <summary>kf5-kconfig-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Non-GUI part of KConfig framework
+From repo    : updates-testing
+Short desc   : Non-GUI part of KConfig framework
 URL          : https://invent.kde.org/frameworks/kconfig
 License      : GPLv2+ and LGPLv2+ and MIT
 Descript     : KConfigCore provides access to the configuration files themselves. It features
@@ -621,8 +621,8 @@ Descript     : KConfigCore provides access to the configuration files themselves
 <summary>kf5-kconfig-gui</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GUI part of KConfig framework
+From repo    : updates-testing
+Short desc   : GUI part of KConfig framework
 URL          : https://invent.kde.org/frameworks/kconfig
 License      : GPLv2+ and LGPLv2+ and MIT
 Descript     : KConfigGui provides a way to hook widgets to the configuration so that they are
@@ -636,8 +636,8 @@ Descript     : KConfigGui provides a way to hook widgets to the configuration so
 <summary>kf5-kconfigwidgets</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 addon for creating configuration dialogs
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 addon for creating configuration dialogs
 URL          : https://invent.kde.org/frameworks/kconfigwidgets
 License      : GPLv2+ and LGPLv2+ and MIT
 Descript     : KConfigWidgets provides easy-to-use classes to create configuration dialogs, as
@@ -650,8 +650,8 @@ Descript     : KConfigWidgets provides easy-to-use classes to create configurati
 <summary>kf5-kcoreaddons</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 addon with various classes on top of QtCore
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 addon with various classes on top of QtCore
 URL          : https://invent.kde.org/frameworks/kcoreaddons
 License      : LGPLv2+
 Descript     : KCoreAddons provides classes built on top of QtCore to perform various tasks
@@ -666,8 +666,8 @@ Descript     : KCoreAddons provides classes built on top of QtCore to perform va
 <summary>kf5-kcrash</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 2 addon for handling application crashes
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 2 addon for handling application crashes
 URL          : https://invent.kde.org/frameworks/kcrash
 License      : LGPLv2+
 Descript     : KCrash provides support for intercepting and handling application crashes.
@@ -679,8 +679,8 @@ Descript     : KCrash provides support for intercepting and handling application
 <summary>kf5-kdbusaddons</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 addon with various classes on top of QtDBus
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 addon with various classes on top of QtDBus
 URL          : https://invent.kde.org/frameworks/kdbusaddons
 License      : LGPLv2+
 Descript     : KDBusAddons provides convenience classes on top of QtDBus, as well as an API to
@@ -693,8 +693,8 @@ Descript     : KDBusAddons provides convenience classes on top of QtDBus, as wel
 <summary>kf5-kdeclarative</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 addon for Qt declarative
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 addon for Qt declarative
 URL          : https://invent.kde.org/frameworks/kdeclarative
 License      : LGPLv2+
 Descript     : KDE Frameworks 5 Tier 3 addon for Qt declarative
@@ -706,8 +706,8 @@ Descript     : KDE Frameworks 5 Tier 3 addon for Qt declarative
 <summary>kf5-kdoctools</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 2 addon for generating documentation
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 2 addon for generating documentation
 URL          : https://invent.kde.org/frameworks/kdoctools
 License      : GPLv2+ and MIT
 Descript     : Provides tools to generate documentation in various format from DocBook files.
@@ -719,8 +719,8 @@ Descript     : Provides tools to generate documentation in various format from D
 <summary>kf5-kglobalaccel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 integration module for global shortcuts
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 integration module for global shortcuts
 URL          : https://invent.kde.org/frameworks/kglobalaccel
 License      : LGPLv2+
 Descript     : KDE Frameworks 5 Tier 3 integration module for global shortcuts.
@@ -732,8 +732,8 @@ Descript     : KDE Frameworks 5 Tier 3 integration module for global shortcuts.
 <summary>kf5-kglobalaccel-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Runtime libraries for kf5-kglobalaccel
+From repo    : updates-testing
+Short desc   : Runtime libraries for kf5-kglobalaccel
 URL          : https://invent.kde.org/frameworks/kglobalaccel
 License      : LGPLv2+
 Descript     : Runtime libraries for kf5-kglobalaccel.
@@ -745,8 +745,8 @@ Descript     : Runtime libraries for kf5-kglobalaccel.
 <summary>kf5-kguiaddons</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 addon with various classes on top of QtGui
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 addon with various classes on top of QtGui
 URL          : https://invent.kde.org/frameworks/kguiaddons
 License      : GPLv2+ and LGPLv2+
 Descript     : KDBusAddons provides convenience classes on top of QtGui.
@@ -758,8 +758,8 @@ Descript     : KDBusAddons provides convenience classes on top of QtGui.
 <summary>kf5-ki18n</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 addon for localization
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 addon for localization
 URL          : https://invent.kde.org/frameworks/ki18n
 License      : LGPLv2+
 Descript     : KDE Frameworks 5 Tier 1 addon for localization.
@@ -771,8 +771,8 @@ Descript     : KDE Frameworks 5 Tier 1 addon for localization.
 <summary>kf5-kiconthemes</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 integration module with icon themes
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 integration module with icon themes
 URL          : https://api.kde.org/frameworks/kiconthemes/
 License      : LGPLv2+ and GPLv2+
 Descript     : KDE Frameworks 5 Tier 3 integration module with icon themes
@@ -784,8 +784,8 @@ Descript     : KDE Frameworks 5 Tier 3 integration module with icon themes
 <summary>kf5-kinit</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 tier 3 solution for process launching
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 tier 3 solution for process launching
 URL          : https://invent.kde.org/frameworks/kinit
 License      : LGPLv2+ and BSD
 Descript     : kdeinit is a process launcher somewhat similar to the famous init used for
@@ -801,8 +801,8 @@ Descript     : kdeinit is a process launcher somewhat similar to the famous init
 <summary>kf5-kio-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Core components of the KIO Framework
+From repo    : updates-testing
+Short desc   : Core components of the KIO Framework
 URL          : https://invent.kde.org/frameworks/kio
 License      : GPLv2+ and MIT and BSD
 Descript     : KIOCore library provides core non-GUI components for working with KIO.
@@ -814,8 +814,8 @@ Descript     : KIOCore library provides core non-GUI components for working with
 <summary>kf5-kio-core-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Runtime libraries for KIO Core
+From repo    : updates-testing
+Short desc   : Runtime libraries for KIO Core
 URL          : https://invent.kde.org/frameworks/kio
 License      : GPLv2+ and MIT and BSD
 Descript     : Runtime libraries for KIO Core.
@@ -827,8 +827,8 @@ Descript     : Runtime libraries for KIO Core.
 <summary>kf5-kio-doc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Documentation files for kf5-kio
+From repo    : updates-testing
+Short desc   : Documentation files for kf5-kio
 URL          : https://invent.kde.org/frameworks/kio
 License      : GPLv2+ and MIT and BSD
 Descript     : Documentation for kf5-kio.
@@ -840,8 +840,8 @@ Descript     : Documentation for kf5-kio.
 <summary>kf5-kio-file-widgets</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Widgets for file-handling for KIO Framework
+From repo    : updates-testing
+Short desc   : Widgets for file-handling for KIO Framework
 URL          : https://invent.kde.org/frameworks/kio
 License      : GPLv2+ and MIT and BSD
 Descript     : The KIOFileWidgets library provides the file selection dialog and
@@ -854,8 +854,8 @@ Descript     : The KIOFileWidgets library provides the file selection dialog and
 <summary>kf5-kio-gui</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Gui components for the KIO Framework
+From repo    : updates-testing
+Short desc   : Gui components for the KIO Framework
 URL          : https://invent.kde.org/frameworks/kio
 License      : GPLv2+ and MIT and BSD
 Descript     : Gui components for the KIO Framework.
@@ -867,8 +867,8 @@ Descript     : Gui components for the KIO Framework.
 <summary>kf5-kio-ntlm</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : NTLM support for KIO Framework
+From repo    : updates-testing
+Short desc   : NTLM support for KIO Framework
 URL          : https://invent.kde.org/frameworks/kio
 License      : GPLv2+ and MIT and BSD
 Descript     : KIONTLM provides support for NTLM authentication mechanism in KIO
@@ -880,8 +880,8 @@ Descript     : KIONTLM provides support for NTLM authentication mechanism in KIO
 <summary>kf5-kio-widgets</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Widgets for KIO Framework
+From repo    : updates-testing
+Short desc   : Widgets for KIO Framework
 URL          : https://invent.kde.org/frameworks/kio
 License      : GPLv2+ and MIT and BSD
 Descript     : KIOWidgets contains classes that provide generic job control, progress
@@ -894,8 +894,8 @@ Descript     : KIOWidgets contains classes that provide generic job control, pro
 <summary>kf5-kio-widgets-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Runtime libraries for KIO Widgets library
+From repo    : updates-testing
+Short desc   : Runtime libraries for KIO Widgets library
 URL          : https://invent.kde.org/frameworks/kio
 License      : GPLv2+ and MIT and BSD
 Descript     : Runtime libraries for KIO Widgets library.
@@ -907,8 +907,8 @@ Descript     : Runtime libraries for KIO Widgets library.
 <summary>kf5-kitemviews</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 addon with item views
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 addon with item views
 URL          : https://invent.kde.org/frameworks/kitemviews
 License      : GPLv2+ and LGPLv2+
 Descript     : KDE Frameworks 5 Tier 1 addon with item views.
@@ -920,8 +920,8 @@ Descript     : KDE Frameworks 5 Tier 1 addon with item views.
 <summary>kf5-kjobwidgets</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 2 addon for KJobs
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 2 addon for KJobs
 URL          : https://invent.kde.org/frameworks/kjobwidgets
 License      : LGPLv2+
 Descript     : KDE Frameworks 5 Tier 2 addon for KJobs
@@ -933,8 +933,8 @@ Descript     : KDE Frameworks 5 Tier 2 addon for KJobs
 <summary>kf5-knewstuff</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 module for downloading application assets
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 module for downloading application assets
 URL          : https://invent.kde.org/frameworks/knewstuff
 License      : LGPLv2+
 Descript     : KDE Frameworks 5 Tier 3 module for downloading and sharing additional
@@ -947,8 +947,8 @@ Descript     : KDE Frameworks 5 Tier 3 module for downloading and sharing additi
 <summary>kf5-knotifications</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 2 solution with abstraction for system notifications
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 2 solution with abstraction for system notifications
 URL          : https://invent.kde.org/frameworks/knotifications
 License      : LGPLv2+
 Descript     : KDE Frameworks 5 Tier 3 solution with abstraction for system
@@ -961,8 +961,8 @@ Descript     : KDE Frameworks 5 Tier 3 solution with abstraction for system
 <summary>kf5-kpackage</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 2 library to load and install packages as plugins
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 2 library to load and install packages as plugins
 URL          : https://invent.kde.org/frameworks/kpackage
 License      : LGPLv2+
 Descript     : KDE Frameworks 5 Tier 2 library to load and install non-binary packages as
@@ -975,8 +975,8 @@ Descript     : KDE Frameworks 5 Tier 2 library to load and install non-binary pa
 <summary>kf5-kparts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 solution for KParts
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 solution for KParts
 URL          : https://invent.kde.org/frameworks/kparts
 License      : GPLv2+
 Descript     : KDE Frameworks 5 Tier 3 solution for KParts
@@ -988,8 +988,8 @@ Descript     : KDE Frameworks 5 Tier 3 solution for KParts
 <summary>kf5-kservice</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 solution for advanced plugin and service introspection
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 solution for advanced plugin and service introspection
 URL          : https://invent.kde.org/frameworks/kservice
 License      : LGPLv2
 Descript     : KDE Frameworks 5 Tier 3 solution for advanced plugin and service
@@ -1002,8 +1002,8 @@ Descript     : KDE Frameworks 5 Tier 3 solution for advanced plugin and service
 <summary>kf5-ktextwidgets</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 addon with advanced text editing widgets
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 addon with advanced text editing widgets
 URL          : https://invent.kde.org/frameworks/ktextwidgets
 License      : LGPLv2+
 Descript     : KDE Frameworks 5 Tier 3 addon with advanced text edting widgets.
@@ -1015,8 +1015,8 @@ Descript     : KDE Frameworks 5 Tier 3 addon with advanced text edting widgets.
 <summary>kf5-kwallet</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 solution for password management
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 solution for password management
 URL          : https://invent.kde.org/frameworks/kwallet
 License      : LGPLv2+
 Descript     : KWallet is a secure and unified container for user passwords.
@@ -1028,8 +1028,8 @@ Descript     : KWallet is a secure and unified container for user passwords.
 <summary>kf5-kwallet-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KWallet framework libraries
+From repo    : updates-testing
+Short desc   : KWallet framework libraries
 URL          : https://invent.kde.org/frameworks/kwallet
 License      : LGPLv2+
 Descript     : Provides API to access KWallet data from applications.
@@ -1041,8 +1041,8 @@ Descript     : Provides API to access KWallet data from applications.
 <summary>kf5-kwidgetsaddons</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 addon with various classes on top of QtWidgets
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 addon with various classes on top of QtWidgets
 URL          : https://invent.kde.org/frameworks/kwidgetsaddons
 License      : GPLv2+ and LGPLv2+
 Descript     : KDE Frameworks 5 Tier 1 addon with various classes on top of QtWidgets.
@@ -1054,8 +1054,8 @@ Descript     : KDE Frameworks 5 Tier 1 addon with various classes on top of QtWi
 <summary>kf5-kwindowsystem</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 integration module with classes for windows management
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 integration module with classes for windows management
 URL          : https://invent.kde.org/frameworks/kwindowsystem
 License      : LGPLv2+ and MIT
 Descript     : KDE Frameworks Tier 1 integration module that provides classes for managing and
@@ -1068,8 +1068,8 @@ Descript     : KDE Frameworks Tier 1 integration module that provides classes fo
 <summary>kf5-kxmlgui</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 3 solution for user-configurable main windows
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 3 solution for user-configurable main windows
 URL          : https://invent.kde.org/frameworks/kxmlgui
 License      : GPLv2+ and LGPLv2+
 Descript     : KDE Frameworks 5 Tier 3 solution for user-configurable main windows.
@@ -1081,8 +1081,8 @@ Descript     : KDE Frameworks 5 Tier 3 solution for user-configurable main windo
 <summary>kf5-solid</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : KDE Frameworks 5 Tier 1 integration module that provides hardware information
+From repo    : updates-testing
+Short desc   : KDE Frameworks 5 Tier 1 integration module that provides hardware information
 URL          : https://solid.kde.org/
 License      : LGPLv2+
 Descript     : Solid provides the following features for application developers:
@@ -1097,8 +1097,8 @@ Descript     : Solid provides the following features for application developers:
 <summary>kf5-sonnet-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Non-gui part of the Sonnet framework
+From repo    : updates-testing
+Short desc   : Non-gui part of the Sonnet framework
 URL          : https://invent.kde.org/frameworks/sonnet
 License      : LGPLv2+
 Descript     : Non-gui part of the Sonnet framework provides low-level spell checking tools
@@ -1110,8 +1110,8 @@ Descript     : Non-gui part of the Sonnet framework provides low-level spell che
 <summary>kf5-sonnet-ui</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GUI part of the Sonnet framework
+From repo    : updates-testing
+Short desc   : GUI part of the Sonnet framework
 URL          : https://invent.kde.org/frameworks/sonnet
 License      : LGPLv2+
 Descript     : GUI part of the Sonnet framework provides widgets with spell checking support.
@@ -1123,8 +1123,8 @@ Descript     : GUI part of the Sonnet framework provides widgets with spell chec
 <summary>khmer-os-system-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System font
+From repo    : anaconda
+Short desc   : System font
 URL          : http://www.khmeros.info/en/fonts
 License      : LGPLv2+
 Descript     : 
@@ -1143,8 +1143,8 @@ Descript     :
 <summary>kmod</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux kernel module management utilities
+From repo    : anaconda
+Short desc   : Linux kernel module management utilities
 URL          : http://git.kernel.org/?p=utils/kernel/kmod/kmod.git;a=summary
 License      : GPLv2+
 Descript     : The kmod package provides various programs needed for automatic
@@ -1159,8 +1159,8 @@ Descript     : The kmod package provides various programs needed for automatic
 <summary>kmod-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries to handle kernel module loading and unloading
+From repo    : anaconda
+Short desc   : Libraries to handle kernel module loading and unloading
 URL          : http://git.kernel.org/?p=utils/kernel/kmod/kmod.git;a=summary
 License      : LGPLv2+
 Descript     : The kmod-libs package provides runtime libraries for any application that
@@ -1173,8 +1173,8 @@ Descript     : The kmod-libs package provides runtime libraries for any applicat
 <summary>kmodtool</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tool for building kmod packages
+From repo    : fedora
+Short desc   : Tool for building kmod packages
 URL          : http://rpmfusion.org/Packaging/KernelModules/Kmods2
 License      : MIT
 Descript     : This package contains tools and list of recent kernels that get used when
@@ -1187,8 +1187,8 @@ Descript     : This package contains tools and list of recent kernels that get u
 <summary>koji</summary>
 
 ```
-From repo     : fedora
-Short desc    : Build system tools
+From repo    : fedora
+Short desc   : Build system tools
 URL          : https://pagure.io/koji/
 License      : LGPLv2 and GPLv2+
 Descript     : Koji is a system for building and tracking RPMS.  The base package
@@ -1201,8 +1201,8 @@ Descript     : Koji is a system for building and tracking RPMS.  The base packag
 <summary>kpartx</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Partition device manager for device-mapper devices
+From repo    : anaconda
+Short desc   : Partition device manager for device-mapper devices
 URL          : http://christophe.varoqui.free.fr/
 License      : GPLv2
 Descript     : kpartx manages partition creation and removal for device-mapper devices.
@@ -1214,8 +1214,8 @@ Descript     : kpartx manages partition creation and removal for device-mapper d
 <summary>krb5-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files needed to compile Kerberos 5 programs
+From repo    : updates-testing
+Short desc   : Development files needed to compile Kerberos 5 programs
 URL          : https://web.mit.edu/kerberos/www/
 License      : MIT
 Descript     : Kerberos is a network authentication system. The krb5-devel package
@@ -1230,8 +1230,8 @@ Descript     : Kerberos is a network authentication system. The krb5-devel packa
 <summary>krb5-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The non-admin shared libraries used by Kerberos 5
+From repo    : anaconda
+Short desc   : The non-admin shared libraries used by Kerberos 5
 URL          : https://web.mit.edu/kerberos/www/
 License      : MIT
 Descript     : Kerberos is a network authentication system. The krb5-libs package
@@ -1245,8 +1245,8 @@ Descript     : Kerberos is a network authentication system. The krb5-libs packag
 <summary>krb5-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The non-admin shared libraries used by Kerberos 5
+From repo    : updates-testing
+Short desc   : The non-admin shared libraries used by Kerberos 5
 URL          : https://web.mit.edu/kerberos/www/
 License      : MIT
 Descript     : Kerberos is a network authentication system. The krb5-libs package
@@ -1260,8 +1260,8 @@ Descript     : Kerberos is a network authentication system. The krb5-libs packag
 <summary>krb5-pkinit</summary>
 
 ```
-From repo     : fedora
-Short desc    : The PKINIT module for Kerberos 5
+From repo    : fedora
+Short desc   : The PKINIT module for Kerberos 5
 URL          : https://web.mit.edu/kerberos/www/
 License      : MIT
 Descript     : Kerberos is a network authentication system. The krb5-pkinit
@@ -1276,8 +1276,8 @@ Descript     : Kerberos is a network authentication system. The krb5-pkinit
 <summary>krb5-workstation</summary>
 
 ```
-From repo     : fedora
-Short desc    : Kerberos 5 programs for use on workstations
+From repo    : fedora
+Short desc   : Kerberos 5 programs for use on workstations
 URL          : https://web.mit.edu/kerberos/www/
 License      : MIT
 Descript     : Kerberos is a network authentication system. The krb5-workstation

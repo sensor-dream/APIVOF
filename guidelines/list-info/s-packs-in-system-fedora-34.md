@@ -1,13 +1,12 @@
 # For first letter s, information about installation packages
 
-Установленные пакеты
 <details>
 <summary>saidar</summary>
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : System information real-time monitor
+From repo    : fedora
+Short desc   : System information real-time monitor
 URL          : http://www.i-scream.org/libstatgrab
 License      : GPLv2+
 Descript     : Saidar is a curses-based interface to viewing the current state of the
@@ -21,8 +20,8 @@ Descript     : Saidar is a curses-based interface to viewing the current state o
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Samba client programs
+From repo    : updates-testing
+Short desc   : Samba client programs
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The samba-client package provides some SMB/CIFS clients to complement
@@ -37,8 +36,8 @@ Descript     : The samba-client package provides some SMB/CIFS clients to comple
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Samba client libraries
+From repo    : anaconda
+Short desc   : Samba client libraries
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The samba-client-libs package contains internal libraries needed by the
@@ -52,8 +51,8 @@ Descript     : The samba-client-libs package contains internal libraries needed 
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Samba client libraries
+From repo    : updates-testing
+Short desc   : Samba client libraries
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The samba-client-libs package contains internal libraries needed by the
@@ -67,8 +66,8 @@ Descript     : The samba-client-libs package contains internal libraries needed 
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Files used by both Samba servers and clients
+From repo    : anaconda
+Short desc   : Files used by both Samba servers and clients
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : samba-common provides files necessary for both the server and client
@@ -82,8 +81,8 @@ Descript     : samba-common provides files necessary for both the server and cli
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Files used by both Samba servers and clients
+From repo    : updates-testing
+Short desc   : Files used by both Samba servers and clients
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : samba-common provides files necessary for both the server and client
@@ -97,8 +96,8 @@ Descript     : samba-common provides files necessary for both the server and cli
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Libraries used by both Samba servers and clients
+From repo    : anaconda
+Short desc   : Libraries used by both Samba servers and clients
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The samba-common-libs package contains internal libraries needed by the
@@ -112,8 +111,8 @@ Descript     : The samba-common-libs package contains internal libraries needed 
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Libraries used by both Samba servers and clients
+From repo    : updates-testing
+Short desc   : Libraries used by both Samba servers and clients
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The samba-common-libs package contains internal libraries needed by the
@@ -126,8 +125,8 @@ Descript     : The samba-common-libs package contains internal libraries needed 
 <summary>sane-airscan</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SANE backend for AirScan (eSCL) and WSD document scanners
+From repo    : anaconda
+Short desc   : SANE backend for AirScan (eSCL) and WSD document scanners
 URL          : https://github.com/alexpevzner/sane-airscan
 License      : GPLv2+ with exceptions
 Descript     : This package contains a tool for discovering scanning devices in cases
@@ -140,8 +139,8 @@ Descript     : This package contains a tool for discovering scanning devices in 
 <summary>sane-backends</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Scanner access software
+From repo    : anaconda
+Short desc   : Scanner access software
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
 Descript     : Scanner Access Now Easy (SANE) is a universal scanner interface.  The
@@ -156,8 +155,8 @@ Descript     : Scanner Access Now Easy (SANE) is a universal scanner interface. 
 <summary>sane-backends</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Scanner access software
+From repo    : updates-testing
+Short desc   : Scanner access software
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
 Descript     : Scanner Access Now Easy (SANE) is a universal scanner interface.  The
@@ -172,8 +171,8 @@ Descript     : Scanner Access Now Easy (SANE) is a universal scanner interface. 
 <summary>sane-backends-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SANE development toolkit
+From repo    : updates-testing
+Short desc   : SANE development toolkit
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
 Descript     : This package contains libraries and header files for writing Scanner Access Now
@@ -186,8 +185,8 @@ Descript     : This package contains libraries and header files for writing Scan
 <summary>sane-backends-drivers-cameras</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Scanner backend drivers for digital cameras
+From repo    : anaconda
+Short desc   : Scanner backend drivers for digital cameras
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
 Descript     : This package contains backend drivers to access digital cameras through SANE.
@@ -199,8 +198,8 @@ Descript     : This package contains backend drivers to access digital cameras t
 <summary>sane-backends-drivers-cameras</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Scanner backend drivers for digital cameras
+From repo    : updates-testing
+Short desc   : Scanner backend drivers for digital cameras
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
 Descript     : This package contains backend drivers to access digital cameras through SANE.
@@ -212,8 +211,8 @@ Descript     : This package contains backend drivers to access digital cameras t
 <summary>sane-backends-drivers-scanners</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SANE backend drivers for scanners
+From repo    : anaconda
+Short desc   : SANE backend drivers for scanners
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
 Descript     : This package contains backend drivers to access scanner hardware through SANE.
@@ -225,8 +224,8 @@ Descript     : This package contains backend drivers to access scanner hardware 
 <summary>sane-backends-drivers-scanners</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SANE backend drivers for scanners
+From repo    : updates-testing
+Short desc   : SANE backend drivers for scanners
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
 Descript     : This package contains backend drivers to access scanner hardware through SANE.
@@ -238,8 +237,8 @@ Descript     : This package contains backend drivers to access scanner hardware 
 <summary>sane-backends-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SANE libraries
+From repo    : anaconda
+Short desc   : SANE libraries
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
 Descript     : This package contains the SANE libraries which are needed by applications that
@@ -252,8 +251,8 @@ Descript     : This package contains the SANE libraries which are needed by appl
 <summary>sane-backends-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SANE libraries
+From repo    : updates-testing
+Short desc   : SANE libraries
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
 Descript     : This package contains the SANE libraries which are needed by applications that
@@ -266,8 +265,8 @@ Descript     : This package contains the SANE libraries which are needed by appl
 <summary>satyr</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tools to create anonymous, machine-friendly problem reports
+From repo    : anaconda
+Short desc   : Tools to create anonymous, machine-friendly problem reports
 URL          : https://github.com/abrt/satyr
 License      : GPLv2+
 Descript     : Satyr is a library that can be used to create and process microreports.
@@ -285,8 +284,8 @@ Descript     : Satyr is a library that can be used to create and process microre
 <summary>scala</summary>
 
 ```
-From repo     : fedora
-Short desc    : Hybrid functional/object-oriented language for the JVM
+From repo    : fedora
+Short desc   : Hybrid functional/object-oriented language for the JVM
 URL          : http://www.scala-lang.org/
 License      : ASL 2.0 and BSD and MIT
 Descript     : Scala is a general purpose programming language designed to express
@@ -303,8 +302,8 @@ Descript     : Scala is a general purpose programming language designed to expre
 <summary>scala-library</summary>
 
 ```
-From repo     : fedora
-Short desc    : Scala standard library
+From repo    : fedora
+Short desc   : Scala standard library
 URL          : http://www.scala-lang.org/
 License      : ASL 2.0 and BSD and MIT
 Descript     : Scala is a general purpose programming language designed to express
@@ -322,8 +321,8 @@ Descript     : Scala is a general purpose programming language designed to expre
 <summary>scala-reflect</summary>
 
 ```
-From repo     : fedora
-Short desc    : Scala reflection library
+From repo    : fedora
+Short desc   : Scala reflection library
 URL          : http://www.scala-lang.org/
 License      : ASL 2.0 and BSD and MIT
 Descript     : Scala is a general purpose programming language designed to express
@@ -341,8 +340,8 @@ Descript     : Scala is a general purpose programming language designed to expre
 <summary>scotch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Graph, mesh and hypergraph partitioning library
+From repo    : fedora
+Short desc   : Graph, mesh and hypergraph partitioning library
 URL          : https://gforge.inria.fr/projects/scotch/
 License      : CeCILL-C
 Descript     : Scotch is a software package for graph and mesh/hypergraph partitioning and
@@ -356,8 +355,8 @@ Descript     : Scotch is a software package for graph and mesh/hypergraph partit
 <summary>screen</summary>
 
 ```
-From repo     : fedora
-Short desc    : A screen manager that supports multiple logins on one terminal
+From repo    : fedora
+Short desc   : A screen manager that supports multiple logins on one terminal
 URL          : http://www.gnu.org/software/screen
 License      : GPLv3+
 Descript     : The screen utility allows you to have multiple logins on just one
@@ -375,8 +374,8 @@ Descript     : The screen utility allows you to have multiple logins on just one
 <summary>screenfetch</summary>
 
 ```
-From repo     : fedora
-Short desc    : A "Bash Screenshot Information Tool"
+From repo    : fedora
+Short desc   : A "Bash Screenshot Information Tool"
 URL          : https://github.com/KittyKatt/screenFetch
 License      : GPLv3+
 Descript     : This handy Bash script can be used to generate one of
@@ -396,8 +395,8 @@ Descript     : This handy Bash script can be used to generate one of
 <summary>scrub</summary>
 
 ```
-From repo     : fedora
-Short desc    : Disk scrubbing program
+From repo    : fedora
+Short desc   : Disk scrubbing program
 URL          : https://github.com/chaos/scrub/
 License      : GPLv2+
 Descript     : Scrub writes patterns on files or disk devices to make
@@ -415,8 +414,8 @@ Descript     : Scrub writes patterns on files or disk devices to make
 <summary>seabios-bin</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Seabios for x86
+From repo    : anaconda
+Short desc   : Seabios for x86
 URL          : http://www.coreboot.org/SeaBIOS
 License      : LGPLv3
 Descript     : SeaBIOS is an open-source legacy BIOS implementation which can be used as
@@ -430,8 +429,8 @@ Descript     : SeaBIOS is an open-source legacy BIOS implementation which can be
 <summary>seavgabios-bin</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Seavgabios for x86
+From repo    : anaconda
+Short desc   : Seavgabios for x86
 URL          : http://www.coreboot.org/SeaBIOS
 License      : LGPLv3
 Descript     : SeaVGABIOS is an open-source VGABIOS implementation.
@@ -443,8 +442,8 @@ Descript     : SeaVGABIOS is an open-source VGABIOS implementation.
 <summary>sed</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GNU stream text editor
+From repo    : anaconda
+Short desc   : A GNU stream text editor
 URL          : http://sed.sourceforge.net/
 License      : GPLv3+
 Descript     : The sed (Stream EDitor) editor is a stream or batch (non-interactive)
@@ -460,8 +459,8 @@ Descript     : The sed (Stream EDitor) editor is a stream or batch (non-interact
 <summary>selinux-policy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux policy configuration
+From repo    : updates-testing
+Short desc   : SELinux policy configuration
 URL          : https://github.com/fedora-selinux/selinux-policy
 License      : GPLv2+
 Descript     : SELinux core policy package.
@@ -475,8 +474,8 @@ Descript     : SELinux core policy package.
 <summary>selinux-policy-targeted</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux targeted policy
+From repo    : updates-testing
+Short desc   : SELinux targeted policy
 URL          : https://github.com/fedora-selinux/selinux-policy
 License      : GPLv2+
 Descript     : SELinux targeted policy package.
@@ -488,8 +487,8 @@ Descript     : SELinux targeted policy package.
 <summary>serd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A lightweight C library for RDF syntax
+From repo    : anaconda
+Short desc   : A lightweight C library for RDF syntax
 URL          : http://drobilla.net/software/serd/
 License      : ISC
 Descript     : serd is a lightweight C library for RDF syntax which supports reading and
@@ -506,8 +505,8 @@ Descript     : serd is a lightweight C library for RDF syntax which supports rea
 <summary>sessreg</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utility to manage utmp/wtmp entries for X sessions
+From repo    : updates-testing
+Short desc   : Utility to manage utmp/wtmp entries for X sessions
 URL          : https://www.x.org
 License      : MIT
 Descript     : Sessreg is a simple program for managing utmp/wtmp entries for X sessions.
@@ -521,8 +520,8 @@ Descript     : Sessreg is a simple program for managing utmp/wtmp entries for X 
 <summary>setup</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A set of system configuration and setup files
+From repo    : anaconda
+Short desc   : A set of system configuration and setup files
 URL          : https://pagure.io/setup/
 License      : Public Domain
 Descript     : The setup package contains a set of important system configuration and
@@ -535,8 +534,8 @@ Descript     : The setup package contains a set of important system configuratio
 <summary>setxkbmap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X11 keymap client
+From repo    : anaconda
+Short desc   : X11 keymap client
 URL          : https://www.x.org
 License      : MIT
 Descript     : setxkbmap is an X11 client to change the keymaps in the X server for a
@@ -550,8 +549,8 @@ Descript     : setxkbmap is an X11 client to change the keymaps in the X server 
 <summary>sg3_utils-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Shared library for sg3_utils
+From repo    : anaconda
+Short desc   : Shared library for sg3_utils
 URL          : http://sg.danny.cz/sg/sg3_utils.html
 License      : GPLv2+ and BSD
 Descript     : This package contains the shared library for sg3_utils.
@@ -563,8 +562,8 @@ Descript     : This package contains the shared library for sg3_utils.
 <summary>sg3_utils-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Shared library for sg3_utils
+From repo    : updates-testing
+Short desc   : Shared library for sg3_utils
 URL          : http://sg.danny.cz/sg/sg3_utils.html
 License      : GPLv2+ and BSD
 Descript     : This package contains the shared library for sg3_utils.
@@ -577,8 +576,8 @@ Descript     : This package contains the shared library for sg3_utils.
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Sgabios for x86
+From repo    : anaconda
+Short desc   : Sgabios for x86
 URL          : https://github.com/qemu/sgabios
 License      : ASL 2.0
 Descript     : SGABIOS is designed to be inserted into a BIOS as an option rom to provide over
@@ -593,8 +592,8 @@ Descript     : SGABIOS is designed to be inserted into a BIOS as an option rom t
 <summary>sgml-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common SGML catalog and DTD files
+From repo    : fedora
+Short desc   : Common SGML catalog and DTD files
 URL          : https://www.w3.org/2003/entities/
 License      : GPL+
 Descript     : The sgml-common package contains a collection of entities and DTDs
@@ -609,8 +608,8 @@ Descript     : The sgml-common package contains a collection of entities and DTD
 <summary>sgpio</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SGPIO captive backplane tool
+From repo    : anaconda
+Short desc   : SGPIO captive backplane tool
 URL          : http://sources.redhat.com/lvm2/wiki/DMRAID_Eventing
 License      : GPLv2+
 Descript     : Intel SGPIO enclosure management utility
@@ -622,8 +621,8 @@ Descript     : Intel SGPIO enclosure management utility
 <summary>sha</summary>
 
 ```
-From repo     : fedora
-Short desc    : File hashing utility
+From repo    : fedora
+Short desc   : File hashing utility
 URL          : http://hg.saddi.com/sha-asaddi
 License      : BSD
 Descript     : file hashing utility that uses the
@@ -640,8 +639,8 @@ Descript     : file hashing utility that uses the
 <summary>sha-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for sha
+From repo    : fedora
+Short desc   : Development files for sha
 URL          : http://hg.saddi.com/sha-asaddi
 License      : BSD
 Descript     : This package contains the libraries needed to develop applications
@@ -654,8 +653,8 @@ Descript     : This package contains the libraries needed to develop application
 <summary>sha2</summary>
 
 ```
-From repo     : fedora
-Short desc    : SHA Implementation Library
+From repo    : fedora
+Short desc   : SHA Implementation Library
 URL          : http://www.aarongifford.com/computers/sha.html
 License      : BSD
 Descript     : The library implements the SHA-256, SHA-384, and SHA-512 hash algorithms. The
@@ -673,8 +672,8 @@ Descript     : The library implements the SHA-256, SHA-384, and SHA-512 hash alg
 <summary>sha2-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for sha2
+From repo    : fedora
+Short desc   : Development files for sha2
 URL          : http://www.aarongifford.com/computers/sha.html
 License      : BSD
 Descript     : The sha2-devel package contains libraries and header files for
@@ -687,8 +686,8 @@ Descript     : The sha2-devel package contains libraries and header files for
 <summary>sha3sum</summary>
 
 ```
-From repo     : fedora
-Short desc    : Compute and check SHA3 message digest
+From repo    : fedora
+Short desc   : Compute and check SHA3 message digest
 URL          : https://metacpan.org/release/Digest-SHA3
 License      : GPL+ or Artistic
 Descript     : This script will compute and check the SHA3 message digest of a file
@@ -701,8 +700,8 @@ Descript     : This script will compute and check the SHA3 message digest of a f
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Utilities for managing accounts and shadow password files
+From repo    : anaconda
+Short desc   : Utilities for managing accounts and shadow password files
 URL          : https://github.com/shadow-maint/shadow
 License      : BSD and GPLv2+
 Descript     : The shadow-utils package includes the necessary programs for
@@ -724,8 +723,8 @@ Descript     : The shadow-utils package includes the necessary programs for
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Utilities for managing accounts and shadow password files
+From repo    : updates-testing
+Short desc   : Utilities for managing accounts and shadow password files
 URL          : https://github.com/shadow-maint/shadow
 License      : BSD and GPLv2+
 Descript     : The shadow-utils package includes the necessary programs for
@@ -746,8 +745,8 @@ Descript     : The shadow-utils package includes the necessary programs for
 <summary>shared-mime-info</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Shared MIME information database
+From repo    : anaconda
+Short desc   : Shared MIME information database
 URL          : http://freedesktop.org/Software/shared-mime-info
 License      : GPLv2+
 Descript     : This is the freedesktop.org shared MIME info database.
@@ -764,8 +763,8 @@ Descript     : This is the freedesktop.org shared MIME info database.
 <summary>sheepdog</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Sheepdog distributed storage system for KVM/QEMU
+From repo    : anaconda
+Short desc   : The Sheepdog distributed storage system for KVM/QEMU
 URL          : http://sheepdog.github.io/sheepdog
 License      : GPLv2 and GPLv2+
 Descript     : This package contains the Sheepdog server and the "dog" command line tool,
@@ -778,8 +777,8 @@ Descript     : This package contains the Sheepdog server and the "dog" command l
 <summary>shim-ia32</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : First-stage UEFI bootloader
+From repo    : updates-testing
+Short desc   : First-stage UEFI bootloader
 URL          : https://github.com/rhboot/shim/
 License      : BSD
 Descript     : Initial UEFI bootloader that handles chaining to a trusted full
@@ -793,8 +792,8 @@ Descript     : Initial UEFI bootloader that handles chaining to a trusted full
 <summary>shim-x64</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : First-stage UEFI bootloader
+From repo    : updates-testing
+Short desc   : First-stage UEFI bootloader
 URL          : https://github.com/rhboot/shim/
 License      : BSD
 Descript     : Initial UEFI bootloader that handles chaining to a trusted full
@@ -808,8 +807,8 @@ Descript     : Initial UEFI bootloader that handles chaining to a trusted full
 <summary>sil-abyssinica-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SIL Abyssinica fonts
+From repo    : anaconda
+Short desc   : SIL Abyssinica fonts
 URL          : https://software.sil.org/AbyssinicaSIL/
 License      : OFL
 Descript     : SIL Abyssinica is a Unicode typeface family containing glyphs for the
@@ -832,8 +831,8 @@ Descript     : SIL Abyssinica is a Unicode typeface family containing glyphs for
 <summary>sil-mingzat-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A font for Lepcha script
+From repo    : anaconda
+Short desc   : A font for Lepcha script
 URL          : http://scripts.sil.org/Mingzat
 License      : OFL
 Descript     : Mingzat is based on Jason Glavy's JG Lepcha font which was a custom-encoded
@@ -851,8 +850,8 @@ Descript     : Mingzat is based on Jason Glavy's JG Lepcha font which was a cust
 <summary>sil-nuosu-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Nuosu SIL Font
+From repo    : anaconda
+Short desc   : The Nuosu SIL Font
 URL          : http://scripts.sil.org/SILYi_home
 License      : OFL
 Descript     : The Nuosu SIL Font is a single Unicode font for the standardized Yi script
@@ -866,8 +865,8 @@ Descript     : The Nuosu SIL Font is a single Unicode font for the standardized 
 <summary>sil-padauk-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A font for Burmese and the Myanmar script
+From repo    : anaconda
+Short desc   : A font for Burmese and the Myanmar script
 URL          : https://software.sil.org/padauk/
 License      : OFL
 Descript     : 
@@ -882,8 +881,8 @@ Descript     :
 <summary>simple-scan</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Simple scanning utility
+From repo    : updates-testing
+Short desc   : Simple scanning utility
 URL          : https://launchpad.net/simple-scan
 License      : GPLv3+
 Descript     : Simple Scan is an easy-to-use application, designed to let users connect their
@@ -896,8 +895,8 @@ Descript     : Simple Scan is an easy-to-use application, designed to let users 
 <summary>slang</summary>
 
 ```
-From repo     : fedora
-Short desc    : Shared library for the S-Lang extension language
+From repo    : fedora
+Short desc   : Shared library for the S-Lang extension language
 URL          : https://www.jedsoft.org/slang/
 License      : GPLv2+
 Descript     : S-Lang is an interpreted language and a programming library.  The
@@ -914,8 +913,8 @@ Descript     : S-Lang is an interpreted language and a programming library.  The
 <summary>slirp4netns</summary>
 
 ```
-From repo     : anaconda
-Short desc    : slirp for network namespaces
+From repo    : anaconda
+Short desc   : slirp for network namespaces
 URL          : https://github.com/rootless-containers/slirp4netns
 License      : GPLv2
 Descript     : slirp for network namespaces, without copying buffers across the namespaces.
@@ -927,8 +926,8 @@ Descript     : slirp for network namespaces, without copying buffers across the 
 <summary>slirp4netns</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : slirp for network namespaces
+From repo    : updates-testing
+Short desc   : slirp for network namespaces
 URL          : https://github.com/rootless-containers/slirp4netns
 License      : GPLv2
 Descript     : slirp for network namespaces, without copying buffers across the namespaces.
@@ -940,8 +939,8 @@ Descript     : slirp for network namespaces, without copying buffers across the 
 <summary>smc-meera-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Open Type Fonts for Malayalam script
+From repo    : anaconda
+Short desc   : Open Type Fonts for Malayalam script
 URL          : https://gitlab.com/smc/fonts/meera
 License      : OFL
 Descript     : Meera font is a Malayalam font designed by Hussain K H and
@@ -956,8 +955,8 @@ Descript     : Meera font is a Malayalam font designed by Hussain K H and
 <summary>smp_utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utilities for SAS management protocol (SMP)
+From repo    : fedora
+Short desc   : Utilities for SAS management protocol (SMP)
 URL          : http://sg.danny.cz/sg/smp_utils.html
 License      : BSD
 Descript     : This is a package of utilities. Each utility sends a Serial Attached
@@ -979,8 +978,8 @@ Descript     : This is a package of utilities. Each utility sends a Serial Attac
 <summary>smp_utils-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Shared library for smp_utils
+From repo    : fedora
+Short desc   : Shared library for smp_utils
 URL          : http://sg.danny.cz/sg/smp_utils.html
 License      : BSD
 Descript     : This package contains the shared library for smp_utils.
@@ -992,8 +991,8 @@ Descript     : This package contains the shared library for smp_utils.
 <summary>snappy</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Fast compression and decompression library
+From repo    : anaconda
+Short desc   : Fast compression and decompression library
 URL          : https://github.com/google/snappy
 License      : BSD
 Descript     : Snappy is a compression/decompression library. It does not aim for maximum
@@ -1010,8 +1009,8 @@ Descript     : Snappy is a compression/decompression library. It does not aim fo
 <summary>sni-qt</summary>
 
 ```
-From repo     : fedora
-Short desc    : Plugin for Qt4 that turns QSystemTrayIcons into status notifiers
+From repo    : fedora
+Short desc   : Plugin for Qt4 that turns QSystemTrayIcons into status notifiers
 URL          : https://launchpad.net/sni-qt
 License      : LGPLv3
 Descript     : This package contains a Qt4 plugin which turns all QSystemTrayIcon into
@@ -1024,8 +1023,8 @@ Descript     : This package contains a Qt4 plugin which turns all QSystemTrayIco
 <summary>socat</summary>
 
 ```
-From repo     : fedora
-Short desc    : Bidirectional data relay between two data channels ('netcat++')
+From repo    : fedora
+Short desc   : Bidirectional data relay between two data channels ('netcat++')
 URL          : http://www.dest-unreach.org/socat/
 License      : GPLv2
 Descript     : Socat is a relay for bidirectional data transfer between two independent data
@@ -1041,8 +1040,8 @@ Descript     : Socat is a relay for bidirectional data transfer between two inde
 <summary>sombok</summary>
 
 ```
-From repo     : fedora
-Short desc    : Unicode Text Segmentation Package
+From repo    : fedora
+Short desc   : Unicode Text Segmentation Package
 URL          : http://sf.net/projects/linefold/
 License      : GPLv2+ or Artistic clarified
 Descript     : Sombok library package performs Line Breaking Algorithm described in Unicode
@@ -1058,8 +1057,8 @@ Descript     : Sombok library package performs Line Breaking Algorithm described
 <summary>sord</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A lightweight Resource Description Framework (RDF) C library
+From repo    : anaconda
+Short desc   : A lightweight Resource Description Framework (RDF) C library
 URL          : http://drobilla.net/software/sord/
 License      : ISC
 Descript     : sord is a lightweight C library for storing Resource Description
@@ -1074,8 +1073,8 @@ Descript     : sord is a lightweight C library for storing Resource Description
 <summary>sos</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A set of tools to gather troubleshooting information from a system
+From repo    : updates-testing
+Short desc   : A set of tools to gather troubleshooting information from a system
 URL          : https://github.com/sosreport/sos
 License      : GPLv2+
 Descript     : Sos is a set of tools that gathers information about system
@@ -1090,8 +1089,8 @@ Descript     : Sos is a set of tools that gathers information about system
 <summary>sound-theme-freedesktop</summary>
 
 ```
-From repo     : anaconda
-Short desc    : freedesktop.org sound theme
+From repo    : anaconda
+Short desc   : freedesktop.org sound theme
 URL          : http://www.freedesktop.org/wiki/Specifications/sound-theme-spec
 License      : GPLv2+ and LGPLv2+ and CC-BY-SA and CC-BY
 Descript     : The default freedesktop.org sound theme following the XDG theming
@@ -1104,8 +1103,8 @@ Descript     : The default freedesktop.org sound theme following the XDG theming
 <summary>soundtouch</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Audio Processing library for changing Tempo, Pitch and Playback Rates
+From repo    : anaconda
+Short desc   : Audio Processing library for changing Tempo, Pitch and Playback Rates
 URL          : http://www.surina.net/soundtouch/
 License      : LGPLv2+
 Descript     : SoundTouch is a LGPL-licensed open-source audio processing library for
@@ -1125,8 +1124,8 @@ Descript     : SoundTouch is a LGPL-licensed open-source audio processing librar
 <summary>source-highlight</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Produces a document with syntax highlighting
+From repo    : anaconda
+Short desc   : Produces a document with syntax highlighting
 URL          : http://www.gnu.org/software/src-highlite/
 License      : GPLv3+
 Descript     : This program, given a source file, produces a document with syntax
@@ -1142,8 +1141,8 @@ Descript     : This program, given a source file, produces a document with synta
 <summary>source-highlight</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Produces a document with syntax highlighting
+From repo    : updates-testing
+Short desc   : Produces a document with syntax highlighting
 URL          : http://www.gnu.org/software/src-highlite/
 License      : GPLv3+
 Descript     : This program, given a source file, produces a document with syntax
@@ -1159,8 +1158,8 @@ Descript     : This program, given a source file, produces a document with synta
 <summary>soxr</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The SoX Resampler library
+From repo    : anaconda
+Short desc   : The SoX Resampler library
 URL          : https://sourceforge.net/p/soxr/wiki/Home/
 License      : LGPLv2+
 Descript     : The SoX Resampler library `libsoxr' performs one-dimensional sample-rate
@@ -1173,8 +1172,8 @@ Descript     : The SoX Resampler library `libsoxr' performs one-dimensional samp
 <summary>speech-dispatcher</summary>
 
 ```
-From repo     : anaconda
-Short desc    : To provide a high-level device independent layer for speech synthesis
+From repo    : anaconda
+Short desc   : To provide a high-level device independent layer for speech synthesis
 URL          : http://devel.freebsoft.org/speechd
 License      : GPLv2+ and LGPLv2
 Descript     : * Common interface to different TTS engines
@@ -1198,8 +1197,8 @@ Descript     : * Common interface to different TTS engines
 <summary>speech-dispatcher-espeak-ng</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Speech Dispatcher espeak-ng module
+From repo    : anaconda
+Short desc   : Speech Dispatcher espeak-ng module
 URL          : http://devel.freebsoft.org/speechd
 License      : GPLv2+ and LGPLv2
 Descript     : This package contains the espeak-ng output module for Speech Dispatcher.
@@ -1211,8 +1210,8 @@ Descript     : This package contains the espeak-ng output module for Speech Disp
 <summary>speex</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A voice compression format (codec)
+From repo    : anaconda
+Short desc   : A voice compression format (codec)
 URL          : https://www.speex.org/
 License      : BSD
 Descript     : Speex is a patent-free compression format designed especially for
@@ -1228,8 +1227,8 @@ Descript     : Speex is a patent-free compression format designed especially for
 <summary>speexdsp</summary>
 
 ```
-From repo     : fedora
-Short desc    : A voice compression format (DSP)
+From repo    : fedora
+Short desc   : A voice compression format (DSP)
 URL          : http://www.speex.org/
 License      : BSD
 Descript     : Speex is a patent-free compression format designed especially for
@@ -1247,8 +1246,8 @@ Descript     : Speex is a patent-free compression format designed especially for
 <summary>sphinx</summary>
 
 ```
-From repo     : fedora
-Short desc    : Free open-source SQL full-text search engine
+From repo    : fedora
+Short desc   : Free open-source SQL full-text search engine
 URL          : http://sphinxsearch.com
 License      : GPLv2+
 Descript     : Sphinx is a full-text search engine, distributed under GPL version 2.
@@ -1278,8 +1277,8 @@ Descript     : Sphinx is a full-text search engine, distributed under GPL versio
 <summary>spice-glib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GObject for communicating with Spice servers
+From repo    : anaconda
+Short desc   : A GObject for communicating with Spice servers
 URL          : https://www.spice-space.org/spice-gtk.html
 License      : LGPLv2+
 Descript     : spice-client-glib-2.0 is a SPICE client library for GLib2.
@@ -1291,8 +1290,8 @@ Descript     : spice-client-glib-2.0 is a SPICE client library for GLib2.
 <summary>spice-gtk3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GTK3 widget for SPICE clients
+From repo    : anaconda
+Short desc   : A GTK3 widget for SPICE clients
 URL          : https://www.spice-space.org/spice-gtk.html
 License      : LGPLv2+
 Descript     : spice-client-glib-3.0 is a SPICE client library for Gtk3.
@@ -1304,8 +1303,8 @@ Descript     : spice-client-glib-3.0 is a SPICE client library for Gtk3.
 <summary>spice-server</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Implements the server side of the SPICE protocol
+From repo    : anaconda
+Short desc   : Implements the server side of the SPICE protocol
 URL          : http://www.spice-space.org/
 License      : LGPLv2+
 Descript     : The Simple Protocol for Independent Computing Environments (SPICE) is
@@ -1324,8 +1323,8 @@ Descript     : The Simple Protocol for Independent Computing Environments (SPICE
 <summary>spice-vdagent</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Agent for Spice guests
+From repo    : anaconda
+Short desc   : Agent for Spice guests
 URL          : https://spice-space.org/
 License      : GPLv3+
 Descript     : Spice agent for Linux guests offering the following features:
@@ -1346,8 +1345,8 @@ Descript     : Spice agent for Linux guests offering the following features:
 <summary>spirv-tools-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library files for spirv-tools
+From repo    : fedora
+Short desc   : Library files for spirv-tools
 URL          : https://github.com/KhronosGroup/SPIRV-Tools
 License      : ASL 2.0
 Descript     : library files for spirv-tools
@@ -1359,8 +1358,8 @@ Descript     : library files for spirv-tools
 <summary>splix</summary>
 
 ```
-From repo     : fedora
-Short desc    : Driver for QPDL/SPL2 printers (Samsung and several Xerox printers)
+From repo    : fedora
+Short desc   : Driver for QPDL/SPL2 printers (Samsung and several Xerox printers)
 URL          : http://splix.sourceforge.net/
 License      : GPLv2
 Descript     : This driver is usable by all printer devices which understand the QPDL
@@ -1375,8 +1374,8 @@ Descript     : This driver is usable by all printer devices which understand the
 <summary>sqlite</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library that implements an embeddable SQL database engine
+From repo    : anaconda
+Short desc   : Library that implements an embeddable SQL database engine
 URL          : http://www.sqlite.org/
 License      : Public Domain
 Descript     : SQLite is a C library that implements an SQL database engine. A large
@@ -1394,8 +1393,8 @@ Descript     : SQLite is a C library that implements an SQL database engine. A l
 <summary>sqlite-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Shared library for the sqlite3 embeddable SQL database engine.
+From repo    : anaconda
+Short desc   : Shared library for the sqlite3 embeddable SQL database engine.
 URL          : http://www.sqlite.org/
 License      : Public Domain
 Descript     : This package contains the shared library for sqlite.
@@ -1407,8 +1406,8 @@ Descript     : This package contains the shared library for sqlite.
 <summary>squashfs-tools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utility for the creation of squashfs filesystems
+From repo    : anaconda
+Short desc   : Utility for the creation of squashfs filesystems
 URL          : https://github.com/plougher/squashfs-tools/archive/4.4-git.1.tar.gz
 License      : GPLv2+
 Descript     : Squashfs is a highly compressed read-only filesystem for Linux.  This package
@@ -1421,8 +1420,8 @@ Descript     : Squashfs is a highly compressed read-only filesystem for Linux.  
 <summary>sratom</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A C library for serializing LV2 plugins
+From repo    : anaconda
+Short desc   : A C library for serializing LV2 plugins
 URL          : http://drobilla.net/software/sratom/
 License      : MIT
 Descript     : sratom is a new C library for serializing LV2 atoms to/from Turtle. It is
@@ -1438,8 +1437,8 @@ Descript     : sratom is a new C library for serializing LV2 atoms to/from Turtl
 <summary>srt-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Secure Reliable Transport protocol libraries
+From repo    : updates-testing
+Short desc   : Secure Reliable Transport protocol libraries
 URL          : https://www.srtalliance.org
 License      : MPLv2.0
 Descript     : Secure Reliable Transport protocol libraries
@@ -1451,8 +1450,8 @@ Descript     : Secure Reliable Transport protocol libraries
 <summary>sscg</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Simple SSL certificate generator
+From repo    : updates-testing
+Short desc   : Simple SSL certificate generator
 URL          : https://github.com/sgallagher/sscg
 License      : GPLv3+ with exceptions
 Descript     : A utility to aid in the creation of more secure "self-signed"
@@ -1469,8 +1468,8 @@ Descript     : A utility to aid in the creation of more secure "self-signed"
 <summary>ssh-contact</summary>
 
 ```
-From repo     : fedora
-Short desc    : Establish SSH connections to your IM contacts using Telepathy
+From repo    : fedora
+Short desc   : Establish SSH connections to your IM contacts using Telepathy
 URL          : http://telepathy.freedesktop.org/wiki/SSH-Contact
 License      : GPLv2+
 Descript     : ssh-contact is a client/service tool that makes it easy to connect to
@@ -1485,8 +1484,8 @@ Descript     : ssh-contact is a client/service tool that makes it easy to connec
 <summary>sshexport</summary>
 
 ```
-From repo     : fedora
-Short desc    : Install your SSH keys on remote sites
+From repo    : fedora
+Short desc   : Install your SSH keys on remote sites
 URL          : http://www.catb.org/~esr/sshexport
 License      : BSD and ISC
 Descript     : This script tries to export SSH public keys to specified sites.
@@ -1503,8 +1502,8 @@ Descript     : This script tries to export SSH public keys to specified sites.
 <summary>sshguard</summary>
 
 ```
-From repo     : fedora
-Short desc    : Protects hosts from brute-force attacks against SSH and other services
+From repo    : fedora
+Short desc   : Protects hosts from brute-force attacks against SSH and other services
 URL          : http://www.sshguard.net
 License      : BSD and GPLv2+
 Descript     : Sshguard protects hosts from brute-force attacks against SSH and other
@@ -1524,8 +1523,8 @@ Descript     : Sshguard protects hosts from brute-force attacks against SSH and 
 <summary>sshguard-nftables</summary>
 
 ```
-From repo     : fedora
-Short desc    : Configuration for nftables backend of SSHGuard
+From repo    : fedora
+Short desc   : Configuration for nftables backend of SSHGuard
 URL          : http://www.sshguard.net
 License      : BSD and GPLv2+
 Descript     : Sshguard-nftables provides a configuration file for SSHGuard to use nftables
@@ -1538,8 +1537,8 @@ Descript     : Sshguard-nftables provides a configuration file for SSHGuard to u
 <summary>sshpass</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Non-interactive SSH authentication utility
+From repo    : anaconda
+Short desc   : Non-interactive SSH authentication utility
 URL          : http://sshpass.sourceforge.net/
 License      : GPLv2
 Descript     : Tool for non-interactively performing password authentication with so called
@@ -1553,8 +1552,8 @@ Descript     : Tool for non-interactively performing password authentication wit
 <summary>sshrc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Bring your bash and vim configuration in your ssh session
+From repo    : fedora
+Short desc   : Bring your bash and vim configuration in your ssh session
 URL          : https://github.com/Russell91/sshrc
 License      : MIT
 Descript     : You can use this to set environment variables, define functions,
@@ -1568,8 +1567,8 @@ Descript     : You can use this to set environment variables, define functions,
 <summary>sssd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System Security Services Daemon
+From repo    : anaconda
+Short desc   : System Security Services Daemon
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides a set of daemons to manage access to remote directories and
@@ -1588,8 +1587,8 @@ Descript     : Provides a set of daemons to manage access to remote directories 
 <summary>sssd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : System Security Services Daemon
+From repo    : updates-testing
+Short desc   : System Security Services Daemon
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides a set of daemons to manage access to remote directories and
@@ -1608,8 +1607,8 @@ Descript     : Provides a set of daemons to manage access to remote directories 
 <summary>sssd-ad</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The AD back end of the SSSD
+From repo    : anaconda
+Short desc   : The AD back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the Active Directory back end that the SSSD can utilize to fetch
@@ -1622,8 +1621,8 @@ Descript     : Provides the Active Directory back end that the SSSD can utilize 
 <summary>sssd-ad</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The AD back end of the SSSD
+From repo    : updates-testing
+Short desc   : The AD back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the Active Directory back end that the SSSD can utilize to fetch
@@ -1636,8 +1635,8 @@ Descript     : Provides the Active Directory back end that the SSSD can utilize 
 <summary>sssd-client</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SSSD Client libraries for NSS and PAM
+From repo    : anaconda
+Short desc   : SSSD Client libraries for NSS and PAM
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Provides the libraries needed by the PAM and NSS stacks to connect to the SSSD
@@ -1650,8 +1649,8 @@ Descript     : Provides the libraries needed by the PAM and NSS stacks to connec
 <summary>sssd-client</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SSSD Client libraries for NSS and PAM
+From repo    : updates-testing
+Short desc   : SSSD Client libraries for NSS and PAM
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Provides the libraries needed by the PAM and NSS stacks to connect to the SSSD
@@ -1664,8 +1663,8 @@ Descript     : Provides the libraries needed by the PAM and NSS stacks to connec
 <summary>sssd-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common files for the SSSD
+From repo    : anaconda
+Short desc   : Common files for the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Common files for the SSSD. The common package includes all the files needed
@@ -1679,8 +1678,8 @@ Descript     : Common files for the SSSD. The common package includes all the fi
 <summary>sssd-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common files for the SSSD
+From repo    : updates-testing
+Short desc   : Common files for the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Common files for the SSSD. The common package includes all the files needed
@@ -1694,8 +1693,8 @@ Descript     : Common files for the SSSD. The common package includes all the fi
 <summary>sssd-common-pac</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common files needed for supporting PAC processing
+From repo    : anaconda
+Short desc   : Common files needed for supporting PAC processing
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides common files needed by SSSD providers such as IPA and Active Directory
@@ -1708,8 +1707,8 @@ Descript     : Provides common files needed by SSSD providers such as IPA and Ac
 <summary>sssd-common-pac</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common files needed for supporting PAC processing
+From repo    : updates-testing
+Short desc   : Common files needed for supporting PAC processing
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides common files needed by SSSD providers such as IPA and Active Directory
@@ -1722,8 +1721,8 @@ Descript     : Provides common files needed by SSSD providers such as IPA and Ac
 <summary>sssd-ipa</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The IPA back end of the SSSD
+From repo    : anaconda
+Short desc   : The IPA back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the IPA back end that the SSSD can utilize to fetch identity data
@@ -1736,8 +1735,8 @@ Descript     : Provides the IPA back end that the SSSD can utilize to fetch iden
 <summary>sssd-ipa</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The IPA back end of the SSSD
+From repo    : updates-testing
+Short desc   : The IPA back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the IPA back end that the SSSD can utilize to fetch identity data
@@ -1750,8 +1749,8 @@ Descript     : Provides the IPA back end that the SSSD can utilize to fetch iden
 <summary>sssd-kcm</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An implementation of a Kerberos KCM server
+From repo    : updates-testing
+Short desc   : An implementation of a Kerberos KCM server
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : An implementation of a Kerberos KCM server. Use this package if you want to
@@ -1764,8 +1763,8 @@ Descript     : An implementation of a Kerberos KCM server. Use this package if y
 <summary>sssd-krb5</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Kerberos authentication back end for the SSSD
+From repo    : anaconda
+Short desc   : The Kerberos authentication back end for the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the Kerberos back end that the SSSD can utilize authenticate
@@ -1778,8 +1777,8 @@ Descript     : Provides the Kerberos back end that the SSSD can utilize authenti
 <summary>sssd-krb5</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Kerberos authentication back end for the SSSD
+From repo    : updates-testing
+Short desc   : The Kerberos authentication back end for the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the Kerberos back end that the SSSD can utilize authenticate
@@ -1792,8 +1791,8 @@ Descript     : Provides the Kerberos back end that the SSSD can utilize authenti
 <summary>sssd-krb5-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SSSD helpers needed for Kerberos and GSSAPI authentication
+From repo    : anaconda
+Short desc   : SSSD helpers needed for Kerberos and GSSAPI authentication
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides helper processes that the LDAP and Kerberos back ends can use for
@@ -1806,8 +1805,8 @@ Descript     : Provides helper processes that the LDAP and Kerberos back ends ca
 <summary>sssd-krb5-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SSSD helpers needed for Kerberos and GSSAPI authentication
+From repo    : updates-testing
+Short desc   : SSSD helpers needed for Kerberos and GSSAPI authentication
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides helper processes that the LDAP and Kerberos back ends can use for
@@ -1820,8 +1819,8 @@ Descript     : Provides helper processes that the LDAP and Kerberos back ends ca
 <summary>sssd-ldap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The LDAP back end of the SSSD
+From repo    : anaconda
+Short desc   : The LDAP back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the LDAP back end that the SSSD can utilize to fetch identity data
@@ -1834,8 +1833,8 @@ Descript     : Provides the LDAP back end that the SSSD can utilize to fetch ide
 <summary>sssd-ldap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The LDAP back end of the SSSD
+From repo    : updates-testing
+Short desc   : The LDAP back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the LDAP back end that the SSSD can utilize to fetch identity data
@@ -1848,8 +1847,8 @@ Descript     : Provides the LDAP back end that the SSSD can utilize to fetch ide
 <summary>sssd-nfs-idmap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SSSD plug-in for NFSv4 rpc.idmapd
+From repo    : anaconda
+Short desc   : SSSD plug-in for NFSv4 rpc.idmapd
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : The libnfsidmap sssd module provides a way for rpc.idmapd to call SSSD to map
@@ -1863,8 +1862,8 @@ Descript     : The libnfsidmap sssd module provides a way for rpc.idmapd to call
 <summary>sssd-nfs-idmap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SSSD plug-in for NFSv4 rpc.idmapd
+From repo    : updates-testing
+Short desc   : SSSD plug-in for NFSv4 rpc.idmapd
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : The libnfsidmap sssd module provides a way for rpc.idmapd to call SSSD to map
@@ -1878,8 +1877,8 @@ Descript     : The libnfsidmap sssd module provides a way for rpc.idmapd to call
 <summary>sssd-proxy</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The proxy back end of the SSSD
+From repo    : anaconda
+Short desc   : The proxy back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the proxy back end which can be used to wrap an existing NSS and/or
@@ -1892,8 +1891,8 @@ Descript     : Provides the proxy back end which can be used to wrap an existing
 <summary>sssd-proxy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The proxy back end of the SSSD
+From repo    : updates-testing
+Short desc   : The proxy back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : GPLv3+
 Descript     : Provides the proxy back end which can be used to wrap an existing NSS and/or
@@ -1906,8 +1905,8 @@ Descript     : Provides the proxy back end which can be used to wrap an existing
 <summary>startup-notification</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for tracking application startup
+From repo    : anaconda
+Short desc   : Library for tracking application startup
 URL          : http://www.freedesktop.org/software/startup-notification/
 License      : LGPLv2
 Descript     : This package contains libstartup-notification which implements a
@@ -1922,8 +1921,8 @@ Descript     : This package contains libstartup-notification which implements a
 <summary>stix-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : STIX, a scientific and engineering font family
+From repo    : anaconda
+Short desc   : STIX, a scientific and engineering font family
 URL          : http://www.stixfonts.org/
 License      : OFL
 Descript     : The mission of the Scientific and Technical Information Exchange (STIX) font
@@ -1938,8 +1937,8 @@ Descript     : The mission of the Scientific and Technical Information Exchange 
 <summary>stoken-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for stoken
+From repo    : anaconda
+Short desc   : Libraries for stoken
 URL          : http://stoken.sf.net
 License      : LGPLv2+
 Descript     : Software Token for Linux/UNIX. It's a token code generator compatible with RSA
@@ -1955,8 +1954,8 @@ Descript     : Software Token for Linux/UNIX. It's a token code generator compat
 <summary>stress</summary>
 
 ```
-From repo     : fedora
-Short desc    : A tool to put given subsystems under a specified load
+From repo    : fedora
+Short desc   : A tool to put given subsystems under a specified load
 URL          : http://people.seas.harvard.edu/~apw/stress/
 License      : GPLv2+
 Descript     : stress is not a benchmark, but is rather a tool designed to put given
@@ -1972,8 +1971,8 @@ Descript     : stress is not a benchmark, but is rather a tool designed to put g
 <summary>subversion</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Modern Concurrent Version Control System
+From repo    : fedora
+Short desc   : A Modern Concurrent Version Control System
 URL          : https://subversion.apache.org/
 License      : ASL 2.0
 Descript     : Subversion is a concurrent version control system which enables one
@@ -1990,8 +1989,8 @@ Descript     : Subversion is a concurrent version control system which enables o
 <summary>subversion-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries for Subversion Version Control system
+From repo    : fedora
+Short desc   : Libraries for Subversion Version Control system
 URL          : https://subversion.apache.org/
 License      : ASL 2.0
 Descript     : The subversion-libs package includes the essential shared libraries
@@ -2004,8 +2003,8 @@ Descript     : The subversion-libs package includes the essential shared librari
 <summary>subversion-perl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Perl bindings to the Subversion libraries
+From repo    : fedora
+Short desc   : Perl bindings to the Subversion libraries
 URL          : https://subversion.apache.org/
 License      : ASL 2.0
 Descript     : This package includes the Perl bindings to the Subversion libraries.
@@ -2017,8 +2016,8 @@ Descript     : This package includes the Perl bindings to the Subversion librari
 <summary>sudo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Allows restricted root access for specified users
+From repo    : anaconda
+Short desc   : Allows restricted root access for specified users
 URL          : https://www.sudo.ws
 License      : ISC
 Descript     : Sudo (superuser do) allows a system administrator to give certain
@@ -2038,8 +2037,8 @@ Descript     : Sudo (superuser do) allows a system administrator to give certain
 <summary>sudo-python-plugin</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python plugin for sudo
+From repo    : anaconda
+Short desc   : Python plugin for sudo
 URL          : https://www.sudo.ws
 License      : ISC
 Descript     : sudo-python-plugin allows using sudo plugins written in Python.
@@ -2051,8 +2050,8 @@ Descript     : sudo-python-plugin allows using sudo plugins written in Python.
 <summary>suitesparse</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A collection of sparse matrix libraries
+From repo    : anaconda
+Short desc   : A collection of sparse matrix libraries
 URL          : http://faculty.cse.tamu.edu/davis/suitesparse.html
 License      : (LGPLv2+ or BSD) and LGPLv2+ and GPLv2+
 Descript     : suitesparse is a collection of libraries for computations involving sparse
@@ -2080,8 +2079,8 @@ Descript     : suitesparse is a collection of libraries for computations involvi
 <summary>supermin</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tool for creating supermin appliances
+From repo    : fedora
+Short desc   : Tool for creating supermin appliances
 URL          : http://people.redhat.com/~rjones/supermin/
 License      : GPLv2+
 Descript     : Supermin is a tool for building supermin appliances.  These are tiny
@@ -2096,8 +2095,8 @@ Descript     : Supermin is a tool for building supermin appliances.  These are t
 <summary>sushi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A quick previewer for Nautilus
+From repo    : anaconda
+Short desc   : A quick previewer for Nautilus
 URL          : https://gitlab.gnome.org/GNOME/sushi
 License      : GPLv2+ with exceptions
 Descript     : This is sushi, a quick previewer for Nautilus, the GNOME desktop
@@ -2110,8 +2109,8 @@ Descript     : This is sushi, a quick previewer for Nautilus, the GNOME desktop
 <summary>svt-av1-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : SVT-AV1 libraries
+From repo    : fedora
+Short desc   : SVT-AV1 libraries
 URL          : https://github.com/AOMediaCodec/SVT-AV1
 License      : BSD-2-Clause-Patent and BSD and MIT and ISC and Public Domain
 Descript     : The Scalable Video Technology for AV1 Encoder (SVT-AV1 Encoder) is an
@@ -2128,8 +2127,8 @@ Descript     : The Scalable Video Technology for AV1 Encoder (SVT-AV1 Encoder) i
 <summary>svt-hevc-libs</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : Libraries for svt-hevc
+From repo    : rpmfusion-free
+Short desc   : Libraries for svt-hevc
 URL          : https://github.com/OpenVisualCloud/SVT-HEVC
 License      : BSD-2-Clause-Patent
 Descript     : Libraries for development svt-hevc.
@@ -2141,8 +2140,8 @@ Descript     : Libraries for development svt-hevc.
 <summary>swaks</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command-line SMTP transaction tester
+From repo    : fedora
+Short desc   : Command-line SMTP transaction tester
 URL          : http://www.jetmore.org/john/code/swaks
 License      : GPLv2+
 Descript     : Swiss Army Knife SMTP: A command line SMTP tester.  Swaks can test
@@ -2155,8 +2154,8 @@ Descript     : Swiss Army Knife SMTP: A command line SMTP tester.  Swaks can tes
 <summary>swatch</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tool for actively monitoring log files
+From repo    : fedora
+Short desc   : Tool for actively monitoring log files
 URL          : http://swatch.sourceforge.net/
 License      : GPLv2+
 Descript     : The Simple WATCHer is an automated monitoring tool that is capable
@@ -2171,8 +2170,8 @@ Descript     : The Simple WATCHer is an automated monitoring tool that is capabl
 <summary>sway</summary>
 
 ```
-From repo     : fedora
-Short desc    : i3-compatible window manager for Wayland
+From repo    : fedora
+Short desc   : i3-compatible window manager for Wayland
 URL          : https://github.com/swaywm/sway
 License      : MIT
 Descript     : Sway is a tiling window manager supporting Wayland compositor protocol and
@@ -2185,8 +2184,8 @@ Descript     : Sway is a tiling window manager supporting Wayland compositor pro
 <summary>sway-systemd</summary>
 
 ```
-From repo     : fedora
-Short desc    : Systemd integration for Sway session
+From repo    : fedora
+Short desc   : Systemd integration for Sway session
 URL          : https://github.com/alebastr/sway-systemd
 License      : MIT
 Descript     : Systemd integration for Sway session.
@@ -2206,8 +2205,8 @@ Descript     : Systemd integration for Sway session.
 <summary>swaybg</summary>
 
 ```
-From repo     : fedora
-Short desc    : Wallpaper tool for Wayland compositors
+From repo    : fedora
+Short desc   : Wallpaper tool for Wayland compositors
 URL          : https://github.com/swaywm/swaybg
 License      : MIT
 Descript     : Wallpaper tool for Wayland compositors.
@@ -2219,8 +2218,8 @@ Descript     : Wallpaper tool for Wayland compositors.
 <summary>switcheroo-control</summary>
 
 ```
-From repo     : anaconda
-Short desc    : D-Bus service to check the availability of dual-GPU
+From repo    : anaconda
+Short desc   : D-Bus service to check the availability of dual-GPU
 URL          : https://gitlab.freedesktop.org/hadess/switcheroo-control/
 License      : GPLv3
 Descript     : D-Bus service to check the availability of dual-GPU.
@@ -2232,8 +2231,8 @@ Descript     : D-Bus service to check the availability of dual-GPU.
 <summary>swtpm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : TPM Emulator
+From repo    : anaconda
+Short desc   : TPM Emulator
 URL          : http://github.com/stefanberger/swtpm
 License      : BSD
 Descript     : TPM emulator built on libtpms providing TPM functionality for QEMU VMs
@@ -2245,8 +2244,8 @@ Descript     : TPM emulator built on libtpms providing TPM functionality for QEM
 <summary>swtpm-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Private libraries for swtpm TPM emulators
+From repo    : anaconda
+Short desc   : Private libraries for swtpm TPM emulators
 URL          : http://github.com/stefanberger/swtpm
 License      : BSD
 Descript     : A private library with callback functions for libtpms based swtpm TPM emulator
@@ -2258,8 +2257,8 @@ Descript     : A private library with callback functions for libtpms based swtpm
 <summary>swtpm-tools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tools for the TPM emulator
+From repo    : anaconda
+Short desc   : Tools for the TPM emulator
 URL          : http://github.com/stefanberger/swtpm
 License      : BSD
 Descript     : Tools for the TPM emulator from the swtpm package
@@ -2271,8 +2270,8 @@ Descript     : Tools for the TPM emulator from the swtpm package
 <summary>symlinks</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A utility which maintains a system's symbolic links
+From repo    : anaconda
+Short desc   : A utility which maintains a system's symbolic links
 URL          : http://ibiblio.org/pub/Linux/utils/file/
 License      : Copyright only
 Descript     : The symlinks utility performs maintenance on symbolic links.  Symlinks
@@ -2290,8 +2289,8 @@ Descript     : The symlinks utility performs maintenance on symbolic links.  Sym
 <summary>sysbench</summary>
 
 ```
-From repo     : fedora
-Short desc    : System performance benchmark
+From repo    : fedora
+Short desc   : System performance benchmark
 URL          : https://github.com/akopytov/sysbench/
 License      : GPLv2+
 Descript     : SysBench is a modular, cross-platform and multi-threaded benchmark
@@ -2319,8 +2318,8 @@ Descript     : SysBench is a modular, cross-platform and multi-threaded benchmar
 <summary>syslinux</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Simple kernel loader which boots from a FAT filesystem
+From repo    : anaconda
+Short desc   : Simple kernel loader which boots from a FAT filesystem
 URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 License      : GPLv2+
 Descript     : SYSLINUX is a suite of bootloaders, currently supporting DOS FAT
@@ -2335,8 +2334,8 @@ Descript     : SYSLINUX is a suite of bootloaders, currently supporting DOS FAT
 <summary>syslinux-extlinux</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The EXTLINUX bootloader, for booting the local system.
+From repo    : anaconda
+Short desc   : The EXTLINUX bootloader, for booting the local system.
 URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 License      : GPLv2+
 Descript     : The EXTLINUX bootloader, for booting the local system, as well as all
@@ -2349,8 +2348,8 @@ Descript     : The EXTLINUX bootloader, for booting the local system, as well as
 <summary>syslinux-extlinux-nonlinux</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The parts of the EXTLINUX bootloader which aren't run from linux.
+From repo    : anaconda
+Short desc   : The parts of the EXTLINUX bootloader which aren't run from linux.
 URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 License      : GPLv2+
 Descript     : All the EXTLINUX binaries that run from the firmware rather than
@@ -2363,8 +2362,8 @@ Descript     : All the EXTLINUX binaries that run from the firmware rather than
 <summary>syslinux-nonlinux</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SYSLINUX modules which aren't run from linux.
+From repo    : anaconda
+Short desc   : SYSLINUX modules which aren't run from linux.
 URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 License      : GPLv2+
 Descript     : All the SYSLINUX binaries that run from the firmware rather than from a
@@ -2378,8 +2377,8 @@ Descript     : All the SYSLINUX binaries that run from the firmware rather than 
 <summary>sysprof-capture-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for sysprof-capture static library
+From repo    : updates-testing
+Short desc   : Development files for sysprof-capture static library
 URL          : http://www.sysprof.com
 License      : BSD-2-Clause-Patent
 Descript     : The sysprof-capture-devel package contains the sysprof-capture static library and header files.
@@ -2391,8 +2390,8 @@ Descript     : The sysprof-capture-devel package contains the sysprof-capture st
 <summary>system-config-printer-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries and shared code for printer administration tool
+From repo    : anaconda
+Short desc   : Libraries and shared code for printer administration tool
 URL          : https://github.com/OpenPrinting/system-config-printer
 License      : GPLv2+
 Descript     : The common code used by both the graphical and non-graphical parts of
@@ -2405,8 +2404,8 @@ Descript     : The common code used by both the graphical and non-graphical part
 <summary>system-config-printer-udev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Rules for udev for automatic configuration of USB printers
+From repo    : anaconda
+Short desc   : Rules for udev for automatic configuration of USB printers
 URL          : https://github.com/OpenPrinting/system-config-printer
 License      : GPLv2+
 Descript     : The udev rules and helper programs for automatically configuring USB
@@ -2419,8 +2418,8 @@ Descript     : The udev rules and helper programs for automatically configuring 
 <summary>systemd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : System and Service Manager
+From repo    : updates-testing
+Short desc   : System and Service Manager
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT and GPLv2+
 Descript     : systemd is a system and service manager that runs as PID 1 and starts
@@ -2444,8 +2443,8 @@ Descript     : systemd is a system and service manager that runs as PID 1 and st
 <summary>systemd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System and Service Manager
+From repo    : anaconda
+Short desc   : System and Service Manager
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT and GPLv2+
 Descript     : systemd is a system and service manager that runs as PID 1 and starts
@@ -2469,8 +2468,8 @@ Descript     : systemd is a system and service manager that runs as PID 1 and st
 <summary>systemd-container</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tools for containers and VMs
+From repo    : updates-testing
+Short desc   : Tools for containers and VMs
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+
 Descript     : Systemd tools to spawn and manage containers and virtual machines.
@@ -2485,8 +2484,8 @@ Descript     : Systemd tools to spawn and manage containers and virtual machines
 <summary>systemd-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development headers for systemd
+From repo    : fedora
+Short desc   : Development headers for systemd
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT
 Descript     : Development headers and auxiliary files for developing applications linking
@@ -2499,8 +2498,8 @@ Descript     : Development headers and auxiliary files for developing applicatio
 <summary>systemd-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : systemd libraries
+From repo    : updates-testing
+Short desc   : systemd libraries
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT
 Descript     : Libraries for systemd and udev.
@@ -2512,8 +2511,8 @@ Descript     : Libraries for systemd and udev.
 <summary>systemd-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : systemd libraries
+From repo    : anaconda
+Short desc   : systemd libraries
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT
 Descript     : Libraries for systemd and udev.
@@ -2525,8 +2524,8 @@ Descript     : Libraries for systemd and udev.
 <summary>systemd-networkd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : System daemon that manages network configurations
+From repo    : updates-testing
+Short desc   : System daemon that manages network configurations
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+
 Descript     : systemd-networkd is a system service that manages networks. It detects
@@ -2540,8 +2539,8 @@ Descript     : systemd-networkd is a system service that manages networks. It de
 <summary>systemd-networkd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System daemon that manages network configurations
+From repo    : anaconda
+Short desc   : System daemon that manages network configurations
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+
 Descript     : systemd-networkd is a system service that manages networks. It detects
@@ -2555,8 +2554,8 @@ Descript     : systemd-networkd is a system service that manages networks. It de
 <summary>systemd-oomd-defaults</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Configuration files for systemd-oomd
+From repo    : updates-testing
+Short desc   : Configuration files for systemd-oomd
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+
 Descript     : A set of drop-in files for systemd units to enable action from systemd-oomd,
@@ -2569,8 +2568,8 @@ Descript     : A set of drop-in files for systemd units to enable action from sy
 <summary>systemd-pam</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : systemd PAM module
+From repo    : updates-testing
+Short desc   : systemd PAM module
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT and GPLv2+
 Descript     : Systemd PAM module registers the session with systemd-logind.
@@ -2582,8 +2581,8 @@ Descript     : Systemd PAM module registers the session with systemd-logind.
 <summary>systemd-pam</summary>
 
 ```
-From repo     : anaconda
-Short desc    : systemd PAM module
+From repo    : anaconda
+Short desc   : systemd PAM module
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT and GPLv2+
 Descript     : Systemd PAM module registers the session with systemd-logind.
@@ -2595,8 +2594,8 @@ Descript     : Systemd PAM module registers the session with systemd-logind.
 <summary>systemd-rpm-macros</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Macros that define paths and scriptlets related to systemd
+From repo    : updates-testing
+Short desc   : Macros that define paths and scriptlets related to systemd
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT and GPLv2+
 Descript     : Just the definitions of rpm macros.
@@ -2612,8 +2611,8 @@ Descript     : Just the definitions of rpm macros.
 <summary>systemd-rpm-macros</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Macros that define paths and scriptlets related to systemd
+From repo    : anaconda
+Short desc   : Macros that define paths and scriptlets related to systemd
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT and GPLv2+
 Descript     : Just the definitions of rpm macros.
@@ -2629,8 +2628,8 @@ Descript     : Just the definitions of rpm macros.
 <summary>systemd-udev</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Rule-based device node and kernel event manager
+From repo    : updates-testing
+Short desc   : Rule-based device node and kernel event manager
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+
 Descript     : This package contains systemd-udev and the rules and hardware database
@@ -2644,8 +2643,8 @@ Descript     : This package contains systemd-udev and the rules and hardware dat
 <summary>systemd-udev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Rule-based device node and kernel event manager
+From repo    : anaconda
+Short desc   : Rule-based device node and kernel event manager
 URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+
 Descript     : This package contains systemd-udev and the rules and hardware database
@@ -2659,8 +2658,8 @@ Descript     : This package contains systemd-udev and the rules and hardware dat
 <summary>systemtap-sdt-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Static probe support tools
+From repo    : fedora
+Short desc   : Static probe support tools
 URL          : http://sourceware.org/systemtap/
 License      : GPLv2+ and Public Domain
 Descript     : This package includes the <sys/sdt.h> header file used for static

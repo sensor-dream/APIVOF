@@ -4,8 +4,8 @@
 <summary>ladspa</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux Audio Developer's Simple Plug-in API, examples and tools
+From repo    : anaconda
+Short desc   : Linux Audio Developer's Simple Plug-in API, examples and tools
 URL          : http://www.ladspa.org/
 License      : LGPLv2+
 Descript     : There is a large number of synthesis packages in use or development on
@@ -23,8 +23,8 @@ Descript     : There is a large number of synthesis packages in use or developme
 <summary>lame-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : LAME MP3 encoding library
+From repo    : anaconda
+Short desc   : LAME MP3 encoding library
 URL          : http://lame.sourceforge.net/
 License      : GPLv2+
 Descript     : LAME MP3 encoding library.
@@ -36,8 +36,8 @@ Descript     : LAME MP3 encoding library.
 <summary>langpacks-core-en</summary>
 
 ```
-From repo     : anaconda
-Short desc    : English langpacks core meta-package
+From repo    : anaconda
+Short desc   : English langpacks core meta-package
 License      : GPLv2+
 Descript     : This package provides English core langpacks packages.
 ```
@@ -48,8 +48,8 @@ Descript     : This package provides English core langpacks packages.
 <summary>langpacks-core-en</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : English langpacks core meta-package
+From repo    : updates-testing
+Short desc   : English langpacks core meta-package
 License      : GPLv2+
 Descript     : This package provides English core langpacks packages.
 ```
@@ -60,8 +60,8 @@ Descript     : This package provides English core langpacks packages.
 <summary>langpacks-core-font-en</summary>
 
 ```
-From repo     : anaconda
-Short desc    : English core font meta-package
+From repo    : anaconda
+Short desc   : English core font meta-package
 License      : GPLv2+
 Descript     : This package defines the default font for English language.
 ```
@@ -72,8 +72,8 @@ Descript     : This package defines the default font for English language.
 <summary>langpacks-core-font-en</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : English core font meta-package
+From repo    : updates-testing
+Short desc   : English core font meta-package
 License      : GPLv2+
 Descript     : This package defines the default font for English language.
 ```
@@ -84,8 +84,8 @@ Descript     : This package defines the default font for English language.
 <summary>langpacks-core-font-ru</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Russian core font meta-package
+From repo    : updates-testing
+Short desc   : Russian core font meta-package
 License      : GPLv2+
 Descript     : This package defines the default font for Russian language.
 ```
@@ -96,8 +96,8 @@ Descript     : This package defines the default font for Russian language.
 <summary>langpacks-core-ru</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Russian langpacks core meta-package
+From repo    : updates-testing
+Short desc   : Russian langpacks core meta-package
 License      : GPLv2+
 Descript     : This package provides Russian core langpacks packages.
 ```
@@ -108,8 +108,8 @@ Descript     : This package provides Russian core langpacks packages.
 <summary>langpacks-en</summary>
 
 ```
-From repo     : anaconda
-Short desc    : English langpacks meta-package
+From repo    : anaconda
+Short desc   : English langpacks meta-package
 License      : GPLv2+
 Descript     : This package provides English langpacks meta-package.
 ```
@@ -120,8 +120,8 @@ Descript     : This package provides English langpacks meta-package.
 <summary>langpacks-en</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : English langpacks meta-package
+From repo    : updates-testing
+Short desc   : English langpacks meta-package
 License      : GPLv2+
 Descript     : This package provides English langpacks meta-package.
 ```
@@ -132,8 +132,8 @@ Descript     : This package provides English langpacks meta-package.
 <summary>langpacks-ru</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Russian langpacks meta-package
+From repo    : updates-testing
+Short desc   : Russian langpacks meta-package
 License      : GPLv2+
 Descript     : This package provides Russian langpacks meta-package.
 ```
@@ -144,8 +144,8 @@ Descript     : This package provides Russian langpacks meta-package.
 <summary>langtable</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Guessing reasonable defaults for locale, keyboard layout, territory, and language.
+From repo    : anaconda
+Short desc   : Guessing reasonable defaults for locale, keyboard layout, territory, and language.
 URL          : https://github.com/mike-fabian/langtable
 License      : GPLv3+
 Descript     : langtable is used to guess reasonable defaults for locale, keyboard layout,
@@ -161,8 +161,8 @@ Descript     : langtable is used to guess reasonable defaults for locale, keyboa
 <summary>lasi</summary>
 
 ```
-From repo     : fedora
-Short desc    : C++ library for creating Postscript documents
+From repo    : fedora
+Short desc   : C++ library for creating Postscript documents
 URL          : http://www.unifont.org/lasi/
 License      : LGPLv2+
 Descript     : LASi is a library written by Larry Siden  that provides a C++ stream output
@@ -188,8 +188,8 @@ Descript     : LASi is a library written by Larry Siden  that provides a C++ str
 <summary>latencytop</summary>
 
 ```
-From repo     : fedora
-Short desc    : System latency monitor (with GUI)
+From repo    : fedora
+Short desc   : System latency monitor (with GUI)
 URL          : http://www.latencytop.org/
 License      : GPLv2
 Descript     : LatencyTOP is a tool for software developers (both kernel and userspace), aimed
@@ -206,8 +206,8 @@ Descript     : LatencyTOP is a tool for software developers (both kernel and use
 <summary>latencytop-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : System latency monitor (shared files for both GUI and TUI builds)
+From repo    : fedora
+Short desc   : System latency monitor (shared files for both GUI and TUI builds)
 URL          : http://www.latencytop.org/
 License      : GPLv2
 Descript     : LatencyTOP is a tool for software developers (both kernel and userspace), aimed
@@ -223,8 +223,8 @@ Descript     : LatencyTOP is a tool for software developers (both kernel and use
 <summary>lato-fonts</summary>
 
 ```
-From repo     : fedora
-Short desc    : A sanserif typeface family
+From repo    : fedora
+Short desc   : A sanserif typeface family
 URL          : http://www.latofonts.com/
 License      : OFL
 Descript     : Lato is a sanserif typeface family designed in the Summer 2010 by Warsaw-based
@@ -256,8 +256,8 @@ Descript     : Lato is a sanserif typeface family designed in the Summer 2010 by
 <summary>lcms2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Color Management Engine
+From repo    : anaconda
+Short desc   : Color Management Engine
 URL          : http://www.littlecms.com/
 License      : MIT
 Descript     : LittleCMS intends to be a small-footprint, speed optimized color management
@@ -271,8 +271,8 @@ Descript     : LittleCMS intends to be a small-footprint, speed optimized color 
 <summary>lcms2-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for LittleCMS
+From repo    : fedora
+Short desc   : Development files for LittleCMS
 URL          : http://www.littlecms.com/
 License      : MIT
 Descript     : Development files for LittleCMS.
@@ -284,8 +284,8 @@ Descript     : Development files for LittleCMS.
 <summary>leatherman</summary>
 
 ```
-From repo     : fedora
-Short desc    : Collection of C++ and CMake utility libraries
+From repo    : fedora
+Short desc   : Collection of C++ and CMake utility libraries
 URL          : https://github.com/puppetlabs/leatherman
 License      : ASL 2.0 and MIT
 Descript     : Collection of C++ and CMake utility libraries.
@@ -297,8 +297,8 @@ Descript     : Collection of C++ and CMake utility libraries.
 <summary>lensfun</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library to rectify defects introduced by photographic lenses
+From repo    : fedora
+Short desc   : Library to rectify defects introduced by photographic lenses
 URL          : https://lensfun.github.io/
 License      : LGPLv3 and CC-BY-SA
 Descript     : The lensfun library provides an open source database of photographic lenses and
@@ -315,8 +315,8 @@ Descript     : The lensfun library provides an open source database of photograp
 <summary>leptonica</summary>
 
 ```
-From repo     : fedora
-Short desc    : C library for efficient image processing and image analysis operations
+From repo    : fedora
+Short desc   : C library for efficient image processing and image analysis operations
 URL          : https://github.com/danbloomberg/leptonica
 License      : Leptonica
 Descript     : The library supports many operations that are useful on
@@ -343,8 +343,8 @@ Descript     : The library supports many operations that are useful on
 <summary>less</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A text file browser similar to more, but better
+From repo    : anaconda
+Short desc   : A text file browser similar to more, but better
 URL          : https://www.greenwoodsoftware.com/less/
 License      : GPLv3+ or BSD
 Descript     : The less utility is a text file browser that resembles more, but has
@@ -363,8 +363,8 @@ Descript     : The less utility is a text file browser that resembles more, but 
 <summary>lha</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : Archiving and compression utility for LHarc/lha/lzh archives
+From repo    : rpmfusion-nonfree
+Short desc   : Archiving and compression utility for LHarc/lha/lzh archives
 URL          : https://github.com/jca02266/lha
 License      : Distributable
 Descript     : LHA is an archiving and compression utility for LHarc/lha/lzh format archives.
@@ -376,8 +376,8 @@ Descript     : LHA is an archiving and compression utility for LHarc/lha/lzh for
 <summary>lib3ds</summary>
 
 ```
-From repo     : fedora
-Short desc    : 3D Studio file format library
+From repo    : fedora
+Short desc   : 3D Studio file format library
 URL          : http://lib3ds.sourceforge.net
 License      : LGPLv2+
 Descript     : lib3ds is a free ANSI-C library for working with the popular "3ds" 3D model
@@ -398,8 +398,8 @@ Descript     : lib3ds is a free ANSI-C library for working with the popular "3ds
 <summary>libGLEW</summary>
 
 ```
-From repo     : fedora
-Short desc    : libGLEW
+From repo    : fedora
+Short desc   : libGLEW
 URL          : http://glew.sourceforge.net
 License      : BSD and MIT
 Descript     : libGLEW
@@ -411,8 +411,8 @@ Descript     : libGLEW
 <summary>libICE</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 ICE runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 ICE runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : The X.Org X11 ICE (Inter-Client Exchange) runtime library.
@@ -424,8 +424,8 @@ Descript     : The X.Org X11 ICE (Inter-Client Exchange) runtime library.
 <summary>libICE-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 ICE development package
+From repo    : fedora
+Short desc   : X.Org X11 ICE development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : The X.Org X11 ICE (Inter-Client Exchange) development package.
@@ -437,8 +437,8 @@ Descript     : The X.Org X11 ICE (Inter-Client Exchange) development package.
 <summary>libIDL</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for parsing IDL (Interface Definition Language)
+From repo    : fedora
+Short desc   : Library for parsing IDL (Interface Definition Language)
 URL          : https://download.gnome.org/sources/libIDL/0.8/
 License      : LGPLv2+
 Descript     : libIDL is a library for parsing IDL (Interface Definition Language). It can be
@@ -451,8 +451,8 @@ Descript     : libIDL is a library for parsing IDL (Interface Definition Languag
 <summary>libSM</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 SM runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 SM runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : The X.Org X11 SM (Session Management) runtime library.
@@ -464,8 +464,8 @@ Descript     : The X.Org X11 SM (Session Management) runtime library.
 <summary>libSM-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 SM development package
+From repo    : fedora
+Short desc   : X.Org X11 SM development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : The X.Org X11 SM (Session Management) development package.
@@ -477,8 +477,8 @@ Descript     : The X.Org X11 SM (Session Management) development package.
 <summary>libX11</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Core X11 protocol client library
+From repo    : anaconda
+Short desc   : Core X11 protocol client library
 URL          : http://www.x.org
 License      : MIT
 Descript     : Core X11 protocol client library.
@@ -490,8 +490,8 @@ Descript     : Core X11 protocol client library.
 <summary>libX11-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common data for libX11
+From repo    : anaconda
+Short desc   : Common data for libX11
 URL          : http://www.x.org
 License      : MIT
 Descript     : libX11 common data
@@ -503,8 +503,8 @@ Descript     : libX11 common data
 <summary>libX11-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libX11
+From repo    : fedora
+Short desc   : Development files for libX11
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libX11 development package
@@ -516,8 +516,8 @@ Descript     : X.Org X11 libX11 development package
 <summary>libX11-xcb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : XCB interop for libX11
+From repo    : anaconda
+Short desc   : XCB interop for libX11
 URL          : http://www.x.org
 License      : MIT
 Descript     : libX11/libxcb interoperability library
@@ -529,8 +529,8 @@ Descript     : libX11/libxcb interoperability library
 <summary>libXScrnSaver</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXss runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXss runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXss runtime library
@@ -542,8 +542,8 @@ Descript     : X.Org X11 libXss runtime library
 <summary>libXau</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Sample Authorization Protocol for X
+From repo    : anaconda
+Short desc   : Sample Authorization Protocol for X
 URL          : http://www.x.org
 License      : MIT
 Descript     : This is a very simple mechanism for providing individual access to an X Window
@@ -559,8 +559,8 @@ Descript     : This is a very simple mechanism for providing individual access t
 <summary>libXau-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libXau
+From repo    : fedora
+Short desc   : Development files for libXau
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXau development package
@@ -572,8 +572,8 @@ Descript     : X.Org X11 libXau development package
 <summary>libXaw</summary>
 
 ```
-From repo     : fedora
-Short desc    : X Athena Widget Set
+From repo    : fedora
+Short desc   : X Athena Widget Set
 URL          : http://www.x.org
 License      : MIT
 Descript     : Xaw is a widget set based on the X Toolkit Intrinsics (Xt) Library.
@@ -585,8 +585,8 @@ Descript     : Xaw is a widget set based on the X Toolkit Intrinsics (Xt) Librar
 <summary>libXcomp</summary>
 
 ```
-From repo     : fedora
-Short desc    : NX differential compression library
+From repo    : fedora
+Short desc   : NX differential compression library
 URL          : https://github.com/ArcticaProject/nx-libs
 License      : GPLv2+
 Descript     : NX is a software suite from NoMachine which implements very efficient
@@ -602,8 +602,8 @@ Descript     : NX is a software suite from NoMachine which implements very effic
 <summary>libXcomposite</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X Composite Extension library
+From repo    : anaconda
+Short desc   : X Composite Extension library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X Composite Extension library
@@ -615,8 +615,8 @@ Descript     : X Composite Extension library
 <summary>libXcomposite-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libXcomposite
+From repo    : fedora
+Short desc   : Development files for libXcomposite
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXcomposite development package
@@ -628,8 +628,8 @@ Descript     : X.Org X11 libXcomposite development package
 <summary>libXcursor</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Cursor management library
+From repo    : anaconda
+Short desc   : Cursor management library
 URL          : http://www.x.org
 License      : MIT
 Descript     : This is  a simple library designed to help locate and load cursors.
@@ -644,8 +644,8 @@ Descript     : This is  a simple library designed to help locate and load cursor
 <summary>libXcursor-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libXcursor
+From repo    : fedora
+Short desc   : Development files for libXcursor
 URL          : http://www.x.org
 License      : MIT
 Descript     : libXcursor development package.
@@ -657,8 +657,8 @@ Descript     : libXcursor development package.
 <summary>libXdamage</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X Damage extension library
+From repo    : anaconda
+Short desc   : X Damage extension library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXdamage runtime library.
@@ -670,8 +670,8 @@ Descript     : X.Org X11 libXdamage runtime library.
 <summary>libXdmcp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X Display Manager Control Protocol library
+From repo    : anaconda
+Short desc   : X Display Manager Control Protocol library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X Display Manager Control Protocol library.
@@ -683,8 +683,8 @@ Descript     : X Display Manager Control Protocol library.
 <summary>libXext</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXext runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXext runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXext runtime library
@@ -696,8 +696,8 @@ Descript     : X.Org X11 libXext runtime library
 <summary>libXext-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXext development package
+From repo    : fedora
+Short desc   : X.Org X11 libXext development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXext development package
@@ -709,8 +709,8 @@ Descript     : X.Org X11 libXext development package
 <summary>libXfixes</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X Fixes library
+From repo    : anaconda
+Short desc   : X Fixes library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X Fixes library.
@@ -722,8 +722,8 @@ Descript     : X Fixes library.
 <summary>libXfixes-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libXfixes
+From repo    : fedora
+Short desc   : Development files for libXfixes
 URL          : http://www.x.org
 License      : MIT
 Descript     : libXfixes development package
@@ -735,8 +735,8 @@ Descript     : libXfixes development package
 <summary>libXfont2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXfont2 runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXfont2 runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXfont2 runtime library
@@ -748,8 +748,8 @@ Descript     : X.Org X11 libXfont2 runtime library
 <summary>libXft</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXft runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXft runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXft runtime library
@@ -761,8 +761,8 @@ Descript     : X.Org X11 libXft runtime library
 <summary>libXft-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXft development package
+From repo    : fedora
+Short desc   : X.Org X11 libXft development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXft development package
@@ -774,8 +774,8 @@ Descript     : X.Org X11 libXft development package
 <summary>libXi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXi runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXi runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXi runtime library
@@ -787,8 +787,8 @@ Descript     : X.Org X11 libXi runtime library
 <summary>libXi-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXi development package
+From repo    : fedora
+Short desc   : X.Org X11 libXi development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXi development package
@@ -800,8 +800,8 @@ Descript     : X.Org X11 libXi development package
 <summary>libXinerama</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXinerama runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXinerama runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXinerama runtime library
@@ -813,8 +813,8 @@ Descript     : X.Org X11 libXinerama runtime library
 <summary>libXinerama-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXinerama development package
+From repo    : fedora
+Short desc   : X.Org X11 libXinerama development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXinerama development package
@@ -826,8 +826,8 @@ Descript     : X.Org X11 libXinerama development package
 <summary>libXmu</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXmu/libXmuu runtime libraries
+From repo    : anaconda
+Short desc   : X.Org X11 libXmu/libXmuu runtime libraries
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXmu/libXmuu runtime libraries
@@ -839,8 +839,8 @@ Descript     : X.Org X11 libXmu/libXmuu runtime libraries
 <summary>libXmu-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXmu development package
+From repo    : fedora
+Short desc   : X.Org X11 libXmu development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXmu development package
@@ -852,8 +852,8 @@ Descript     : X.Org X11 libXmu development package
 <summary>libXp</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXp runtime library
+From repo    : fedora
+Short desc   : X.Org X11 libXp runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXp runtime library
@@ -865,8 +865,8 @@ Descript     : X.Org X11 libXp runtime library
 <summary>libXpm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXpm runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXpm runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXpm runtime library
@@ -878,8 +878,8 @@ Descript     : X.Org X11 libXpm runtime library
 <summary>libXpm-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXpm development package
+From repo    : fedora
+Short desc   : X.Org X11 libXpm development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXpm development package
@@ -891,8 +891,8 @@ Descript     : X.Org X11 libXpm development package
 <summary>libXrandr</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXrandr runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXrandr runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXrandr runtime library
@@ -904,8 +904,8 @@ Descript     : X.Org X11 libXrandr runtime library
 <summary>libXrandr-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXrandr development package
+From repo    : fedora
+Short desc   : X.Org X11 libXrandr development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXrandr development package
@@ -917,8 +917,8 @@ Descript     : X.Org X11 libXrandr development package
 <summary>libXrender</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXrender runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXrender runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXrender runtime library
@@ -930,8 +930,8 @@ Descript     : X.Org X11 libXrender runtime library
 <summary>libXrender-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXrender development package
+From repo    : fedora
+Short desc   : X.Org X11 libXrender development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXrender development package
@@ -943,8 +943,8 @@ Descript     : X.Org X11 libXrender development package
 <summary>libXres</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X-Resource extension client library
+From repo    : anaconda
+Short desc   : X-Resource extension client library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X-Resource is an extension that allows a client to query
@@ -957,8 +957,8 @@ Descript     : X-Resource is an extension that allows a client to query
 <summary>libXt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXt runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXt runtime library
 URL          : https://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXt runtime library
@@ -970,8 +970,8 @@ Descript     : X.Org X11 libXt runtime library
 <summary>libXt-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : X.Org X11 libXt development package
+From repo    : fedora
+Short desc   : X.Org X11 libXt development package
 URL          : https://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXt development package
@@ -983,8 +983,8 @@ Descript     : X.Org X11 libXt development package
 <summary>libXtst</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXtst runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXtst runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXtst runtime library
@@ -996,8 +996,8 @@ Descript     : X.Org X11 libXtst runtime library
 <summary>libXv</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXv runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXv runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXv runtime library
@@ -1009,8 +1009,8 @@ Descript     : X.Org X11 libXv runtime library
 <summary>libXvMC</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXvMC runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXvMC runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXvMC runtime library
@@ -1022,8 +1022,8 @@ Descript     : X.Org X11 libXvMC runtime library
 <summary>libXxf86dga</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXxf86dga runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXxf86dga runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXxf86dga runtime library
@@ -1035,8 +1035,8 @@ Descript     : X.Org X11 libXxf86dga runtime library
 <summary>libXxf86vm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libXxf86vm runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libXxf86vm runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXxf86vm runtime library
@@ -1048,8 +1048,8 @@ Descript     : X.Org X11 libXxf86vm runtime library
 <summary>liba52</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A free ATSC A/52 stream decoder, also known as AC-3 or AC3
+From repo    : anaconda
+Short desc   : A free ATSC A/52 stream decoder, also known as AC-3 or AC3
 URL          : http://liba52.sourceforge.net
 License      : GPLv2
 Descript     : liba52 is a free library for decoding ATSC A/52 streams. The A/52
@@ -1063,8 +1063,8 @@ Descript     : liba52 is a free library for decoding ATSC A/52 streams. The A/52
 <summary>libabw</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of AbiWord files
+From repo    : anaconda
+Short desc   : A library for import of AbiWord files
 URL          : https://wiki.documentfoundation.org/DLP/Libraries/libabw
 License      : MPLv2.0
 Descript     : libabw is a library for import of AbiWord files.
@@ -1076,8 +1076,8 @@ Descript     : libabw is a library for import of AbiWord files.
 <summary>libacl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Dynamic library for access control list support
+From repo    : anaconda
+Short desc   : Dynamic library for access control list support
 URL          : https://savannah.nongnu.org/projects/acl
 License      : LGPLv2+
 Descript     : This package contains the libacl.so dynamic library which contains
@@ -1091,8 +1091,8 @@ Descript     : This package contains the libacl.so dynamic library which contain
 <summary>libacl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Dynamic library for access control list support
+From repo    : updates-testing
+Short desc   : Dynamic library for access control list support
 URL          : https://savannah.nongnu.org/projects/acl
 License      : LGPLv2+
 Descript     : This package contains the libacl.so dynamic library which contains
@@ -1106,8 +1106,8 @@ Descript     : This package contains the libacl.so dynamic library which contain
 <summary>libadwaita-qt5</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Adwaita Qt5 library
+From repo    : anaconda
+Short desc   : Adwaita Qt5 library
 URL          : https://github.com/FedoraQt/adwaita-qt
 License      : LGPLv2+ and GPLv2+
 Descript     : Adwaita Qt5 library.
@@ -1119,8 +1119,8 @@ Descript     : Adwaita Qt5 library.
 <summary>libadwaita-qt5</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Adwaita Qt5 library
+From repo    : updates-testing
+Short desc   : Adwaita Qt5 library
 URL          : https://github.com/FedoraQt/adwaita-qt
 License      : LGPLv2+ and GPLv2+
 Descript     : Adwaita Qt5 library.
@@ -1132,8 +1132,8 @@ Descript     : Adwaita Qt5 library.
 <summary>libaec</summary>
 
 ```
-From repo     : fedora
-Short desc    : Adaptive Entropy Coding library
+From repo    : fedora
+Short desc   : Adaptive Entropy Coding library
 URL          : https://gitlab.dkrz.de/k202009/libaec
 License      : BSD
 Descript     : Libaec provides fast loss-less compression of 1 up to 32 bit wide
@@ -1157,8 +1157,8 @@ Descript     : Libaec provides fast loss-less compression of 1 up to 32 bit wide
 <summary>libaio</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux-native asynchronous I/O access library
+From repo    : anaconda
+Short desc   : Linux-native asynchronous I/O access library
 License      : LGPLv2+
 Descript     : The Linux-native asynchronous I/O facility ("async I/O", or "aio") has a
              : richer API and capability set than the simple POSIX async I/O facility.
@@ -1174,8 +1174,8 @@ Descript     : The Linux-native asynchronous I/O facility ("async I/O", or "aio"
 <summary>libao</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Cross Platform Audio Output Library
+From repo    : anaconda
+Short desc   : Cross Platform Audio Output Library
 URL          : http://xiph.org/ao/
 License      : GPLv2+
 Descript     : Libao is a cross-platform audio library that allows programs to output audio
@@ -1188,8 +1188,8 @@ Descript     : Libao is a cross-platform audio library that allows programs to o
 <summary>libaom</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library files for aom
+From repo    : fedora
+Short desc   : Library files for aom
 URL          : http://aomedia.org/
 License      : BSD
 Descript     : Library files for aom, the royalty-free next-generation
@@ -1202,8 +1202,8 @@ Descript     : Library files for aom, the royalty-free next-generation
 <summary>libappindicator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Application indicators library
+From repo    : fedora
+Short desc   : Application indicators library
 URL          : https://launchpad.net/libappindicator
 License      : LGPLv2 and LGPLv3
 Descript     : A library to allow applications to export a menu into the Unity Menu bar. Based
@@ -1217,8 +1217,8 @@ Descript     : A library to allow applications to export a menu into the Unity M
 <summary>libappindicator-gtk3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Application indicators library - GTK 3
+From repo    : fedora
+Short desc   : Application indicators library - GTK 3
 URL          : https://launchpad.net/libappindicator
 License      : LGPLv2 and LGPLv3
 Descript     : A library to allow applications to export a menu into the Unity Menu bar. Based
@@ -1234,8 +1234,8 @@ Descript     : A library to allow applications to export a menu into the Unity M
 <summary>libappstream-glib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for AppStream metadata
+From repo    : anaconda
+Short desc   : Library for AppStream metadata
 URL          : http://people.freedesktop.org/~hughsient/appstream-glib/
 License      : LGPLv2+
 Descript     : This library provides GObjects and helper methods to make it easy to read and
@@ -1250,8 +1250,8 @@ Descript     : This library provides GObjects and helper methods to make it easy
 <summary>libarchive</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for handling streaming archive formats
+From repo    : anaconda
+Short desc   : A library for handling streaming archive formats
 URL          : https://www.libarchive.org/
 License      : BSD
 Descript     : Libarchive is a programming library that can create and read several different
@@ -1266,8 +1266,8 @@ Descript     : Libarchive is a programming library that can create and read seve
 <summary>libargon2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The password-hashing library
+From repo    : anaconda
+Short desc   : The password-hashing library
 URL          : https://github.com/P-H-C/phc-winner-argon2
 License      : Public Domain or ASL 2.0
 Descript     : Argon2 is a password-hashing function that summarizes the state of the art
@@ -1281,8 +1281,8 @@ Descript     : Argon2 is a password-hashing function that summarizes the state o
 <summary>libart_lgpl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library of graphics routines used by libgnomecanvas
+From repo    : fedora
+Short desc   : Library of graphics routines used by libgnomecanvas
 URL          : http://www.gnome.org/
 License      : LGPLv2+
 Descript     : Graphics routines used by the GnomeCanvas widget and some other
@@ -1295,8 +1295,8 @@ Descript     : Graphics routines used by the GnomeCanvas widget and some other
 <summary>libass</summary>
 
 ```
-From repo     : fedora
-Short desc    : Portable library for SSA/ASS subtitles rendering
+From repo    : fedora
+Short desc   : Portable library for SSA/ASS subtitles rendering
 URL          : https://github.com/libass
 License      : ISC
 Descript     : Libass is a portable library for SSA/ASS subtitles rendering.
@@ -1308,8 +1308,8 @@ Descript     : Libass is a portable library for SSA/ASS subtitles rendering.
 <summary>libassuan</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GnuPG IPC library
+From repo    : anaconda
+Short desc   : GnuPG IPC library
 URL          : https://www.gnupg.org/
 License      : LGPLv2+ and GPLv3+
 Descript     : This is the IPC library used by GnuPG 2, GPGME and a few other
@@ -1322,8 +1322,8 @@ Descript     : This is the IPC library used by GnuPG 2, GPGME and a few other
 <summary>libassuan</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GnuPG IPC library
+From repo    : updates-testing
+Short desc   : GnuPG IPC library
 URL          : https://www.gnupg.org/
 License      : LGPLv2+ and GPLv3+
 Descript     : This is the IPC library used by GnuPG 2, GPGME and a few other
@@ -1336,8 +1336,8 @@ Descript     : This is the IPC library used by GnuPG 2, GPGME and a few other
 <summary>libasyncns</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Asynchronous Name Service Library
+From repo    : anaconda
+Short desc   : Asynchronous Name Service Library
 URL          : http://0pointer.de/lennart/projects/libasyncns/
 License      : LGPLv2+
 Descript     : A small and lightweight library that implements easy to use asynchronous
@@ -1350,8 +1350,8 @@ Descript     : A small and lightweight library that implements easy to use async
 <summary>libatasmart</summary>
 
 ```
-From repo     : anaconda
-Short desc    : ATA S.M.A.R.T. Disk Health Monitoring Library
+From repo    : anaconda
+Short desc   : ATA S.M.A.R.T. Disk Health Monitoring Library
 URL          : http://git.0pointer.de/?p=libatasmart.git;a=summary
 License      : LGPLv2+
 Descript     : A small and lightweight parser library for ATA S.M.A.R.T. hard disk
@@ -1364,8 +1364,8 @@ Descript     : A small and lightweight parser library for ATA S.M.A.R.T. hard di
 <summary>libattr</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Dynamic library for extended attribute support
+From repo    : anaconda
+Short desc   : Dynamic library for extended attribute support
 URL          : https://savannah.nongnu.org/projects/attr
 License      : LGPLv2+
 Descript     : This package contains the libattr.so dynamic library which contains
@@ -1378,8 +1378,8 @@ Descript     : This package contains the libattr.so dynamic library which contai
 <summary>libattr</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Dynamic library for extended attribute support
+From repo    : updates-testing
+Short desc   : Dynamic library for extended attribute support
 URL          : https://savannah.nongnu.org/projects/attr
 License      : LGPLv2+
 Descript     : This package contains the libattr.so dynamic library which contains
@@ -1392,8 +1392,8 @@ Descript     : This package contains the libattr.so dynamic library which contai
 <summary>libavc1394</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Audio/Video Control library for IEEE-1394 devices
+From repo    : anaconda
+Short desc   : Audio/Video Control library for IEEE-1394 devices
 URL          : http://sourceforge.net/projects/libavc1394/
 License      : GPLv2+ and LGPLv2+
 Descript     : The libavc1394 library allows utilities to control IEEE-1394 devices
@@ -1407,8 +1407,8 @@ Descript     : The libavc1394 library allows utilities to control IEEE-1394 devi
 <summary>libavif</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library for encoding and decoding .avif files
+From repo    : updates-testing
+Short desc   : Library for encoding and decoding .avif files
 URL          : https://github.com/AOMediaCodec/libavif
 License      : BSD
 Descript     : This library aims to be a friendly, portable C implementation of the AV1 Image
@@ -1423,8 +1423,8 @@ Descript     : This library aims to be a friendly, portable C implementation of 
 <summary>libavif-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for libavif
+From repo    : updates-testing
+Short desc   : Development files for libavif
 URL          : https://github.com/AOMediaCodec/libavif
 License      : BSD
 Descript     : This package holds the development files for libavif.
@@ -1436,8 +1436,8 @@ Descript     : This package holds the development files for libavif.
 <summary>libb2</summary>
 
 ```
-From repo     : fedora
-Short desc    : C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
+From repo    : fedora
+Short desc   : C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp
 URL          : https://blake2.net/
 License      : CC0
 Descript     : C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp.
@@ -1452,8 +1452,8 @@ Descript     : C library providing BLAKE2b, BLAKE2s, BLAKE2bp, BLAKE2sp.
 <summary>libbabeltrace</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common Trace Format Babel Tower
+From repo    : anaconda
+Short desc   : Common Trace Format Babel Tower
 URL          : https://www.efficios.com/babeltrace
 License      : MIT and GPLv2
 Descript     : This project provides trace read and write libraries, as well as a trace
@@ -1467,8 +1467,8 @@ Descript     : This project provides trace read and write libraries, as well as 
 <summary>libbasicobjects</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Basic object types for C
+From repo    : anaconda
+Short desc   : Basic object types for C
 URL          : https://pagure.io/SSSD/ding-libs
 License      : GPLv3+
 Descript     : Basic object types
@@ -1480,8 +1480,8 @@ Descript     : Basic object types
 <summary>libblkid</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Block device ID library
+From repo    : anaconda
+Short desc   : Block device ID library
 URL          : http://en.wikipedia.org/wiki/Util-linux
 License      : LGPLv2+
 Descript     : This is block device identification library, part of util-linux.
@@ -1493,8 +1493,8 @@ Descript     : This is block device identification library, part of util-linux.
 <summary>libblkid-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Block device ID library
+From repo    : fedora
+Short desc   : Block device ID library
 URL          : http://en.wikipedia.org/wiki/Util-linux
 License      : LGPLv2+
 Descript     : This is the block device identification development library and headers,
@@ -1507,8 +1507,8 @@ Descript     : This is the block device identification development library and h
 <summary>libblockdev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for low-level manipulation with block devices
+From repo    : anaconda
+Short desc   : A library for low-level manipulation with block devices
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev is a C library with GObject introspection support that can be
@@ -1526,8 +1526,8 @@ Descript     : The libblockdev is a C library with GObject introspection support
 <summary>libblockdev-btrfs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The BTRFS plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The BTRFS plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1540,8 +1540,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-btrfs-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-btrfs plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-btrfs plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1554,8 +1554,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-crypto</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The crypto plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The crypto plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1568,8 +1568,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-crypto-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-crypto plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-crypto plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1582,8 +1582,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libblockdev
+From repo    : fedora
+Short desc   : Development files for libblockdev
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1596,8 +1596,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-dm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Device Mapper plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The Device Mapper plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1610,8 +1610,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-dm-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-dm plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-dm plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1624,8 +1624,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-fs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The FS plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The FS plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1638,8 +1638,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-fs-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-fs plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-fs plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1652,8 +1652,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-kbd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The KBD plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The KBD plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1667,8 +1667,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-kbd-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-kbd plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-kbd plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1681,8 +1681,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-loop</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The loop plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The loop plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1695,8 +1695,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-loop-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-loop plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-loop plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1709,8 +1709,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-lvm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The LVM plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The LVM plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1723,8 +1723,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-lvm-dbus</summary>
 
 ```
-From repo     : fedora
-Short desc    : The LVM plugin for the libblockdev library
+From repo    : fedora
+Short desc   : The LVM plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1737,8 +1737,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-lvm-dbus-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-lvm-dbus plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-lvm-dbus plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1751,8 +1751,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-lvm-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-lvm plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-lvm plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1765,8 +1765,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-mdraid</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The MD RAID plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The MD RAID plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1779,8 +1779,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-mdraid-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-mdraid plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-mdraid plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1793,8 +1793,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-mpath</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The multipath plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The multipath plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1807,8 +1807,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-mpath-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-mpath plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-mpath plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1821,8 +1821,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-nvdimm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The NVDIMM plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The NVDIMM plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1835,8 +1835,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-nvdimm-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-nvdimm plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-nvdimm plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1849,8 +1849,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-part</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The partitioning plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The partitioning plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1863,8 +1863,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-part-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-part plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-part plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1877,8 +1877,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-plugins-all</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Meta-package that pulls all the libblockdev plugins as dependencies
+From repo    : anaconda
+Short desc   : Meta-package that pulls all the libblockdev plugins as dependencies
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : A meta-package that pulls all the libblockdev plugins as dependencies.
@@ -1890,8 +1890,8 @@ Descript     : A meta-package that pulls all the libblockdev plugins as dependen
 <summary>libblockdev-swap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The swap plugin for the libblockdev library
+From repo    : anaconda
+Short desc   : The swap plugin for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev library plugin (and in the same time a standalone library)
@@ -1904,8 +1904,8 @@ Descript     : The libblockdev library plugin (and in the same time a standalone
 <summary>libblockdev-swap-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libblockdev-swap plugin/library
+From repo    : fedora
+Short desc   : Development files for the libblockdev-swap plugin/library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1918,8 +1918,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libblockdev-tools</summary>
 
 ```
-From repo     : fedora
-Short desc    : Various nice tools based on libblockdev
+From repo    : fedora
+Short desc   : Various nice tools based on libblockdev
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : Various nice storage-related tools based on libblockdev.
@@ -1931,8 +1931,8 @@ Descript     : Various nice storage-related tools based on libblockdev.
 <summary>libblockdev-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library with utility functions for the libblockdev library
+From repo    : anaconda
+Short desc   : A library with utility functions for the libblockdev library
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : The libblockdev-utils is a library providing utility functions used by the
@@ -1945,8 +1945,8 @@ Descript     : The libblockdev-utils is a library providing utility functions us
 <summary>libblockdev-utils-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libblockdev-utils
+From repo    : fedora
+Short desc   : Development files for libblockdev-utils
 URL          : https://github.com/storaged-project/libblockdev
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -1959,8 +1959,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libbluray</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to access Blu-Ray disks for video playback
+From repo    : anaconda
+Short desc   : Library to access Blu-Ray disks for video playback
 URL          : http://www.videolan.org/developers/libbluray.html
 License      : LGPLv2+
 Descript     : This package is aiming to provide a full portable free open source Blu-Ray
@@ -1976,8 +1976,8 @@ Descript     : This package is aiming to provide a full portable free open sourc
 <summary>libbluray</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library to access Blu-Ray disks for video playback
+From repo    : updates-testing
+Short desc   : Library to access Blu-Ray disks for video playback
 URL          : https://www.videolan.org/developers/libbluray.html
 License      : LGPLv2+
 Descript     : This package is aiming to provide a full portable free open source Blu-Ray
@@ -1993,8 +1993,8 @@ Descript     : This package is aiming to provide a full portable free open sourc
 <summary>libbonobo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Bonobo component system
+From repo    : fedora
+Short desc   : Bonobo component system
 URL          : http://ftp.gnome.org
 License      : GPLv2+ and LGPLv2+
 Descript     : Bonobo is a component system based on CORBA, used by the GNOME desktop.
@@ -2006,8 +2006,8 @@ Descript     : Bonobo is a component system based on CORBA, used by the GNOME de
 <summary>libbonoboui</summary>
 
 ```
-From repo     : fedora
-Short desc    : Bonobo user interface components
+From repo    : fedora
+Short desc   : Bonobo user interface components
 URL          : http://www.gnome.org
 License      : LGPLv2+
 Descript     : 
@@ -2022,8 +2022,8 @@ Descript     :
 <summary>libbrotli</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for brotli lossless compression algorithm
+From repo    : anaconda
+Short desc   : Library for brotli lossless compression algorithm
 URL          : https://github.com/google/brotli
 License      : MIT
 Descript     : Brotli is a generic-purpose lossless compression algorithm that compresses
@@ -2039,8 +2039,8 @@ Descript     : Brotli is a generic-purpose lossless compression algorithm that c
 <summary>libbsd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing BSD-compatible functions for portability
+From repo    : anaconda
+Short desc   : Library providing BSD-compatible functions for portability
 URL          : http://libbsd.freedesktop.org/
 License      : BSD and ISC and Copyright only and Public Domain
 Descript     : libbsd provides useful functions commonly found on BSD systems, and
@@ -2055,8 +2055,8 @@ Descript     : libbsd provides useful functions commonly found on BSD systems, a
 <summary>libbtrfs</summary>
 
 ```
-From repo     : fedora
-Short desc    : btrfs filesystem-specific runtime libraries
+From repo    : fedora
+Short desc   : btrfs filesystem-specific runtime libraries
 URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 License      : GPLv2
 Descript     : libbtrfs contains the main library used by btrfs
@@ -2069,8 +2069,8 @@ Descript     : libbtrfs contains the main library used by btrfs
 <summary>libbtrfsutil</summary>
 
 ```
-From repo     : fedora
-Short desc    : btrfs filesystem-specific runtime utility libraries
+From repo    : fedora
+Short desc   : btrfs filesystem-specific runtime utility libraries
 URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 License      : LGPLv3
 Descript     : libbtrfsutil contains an alternative utility library used by btrfs
@@ -2083,8 +2083,8 @@ Descript     : libbtrfsutil contains an alternative utility library used by btrf
 <summary>libbytesize</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for working with sizes in bytes
+From repo    : anaconda
+Short desc   : A library for working with sizes in bytes
 URL          : https://github.com/storaged-project/libbytesize
 License      : LGPLv2+
 Descript     : The libbytesize is a C library that facilitates work with sizes in
@@ -2099,8 +2099,8 @@ Descript     : The libbytesize is a C library that facilitates work with sizes i
 <summary>libbytesize-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libbytesize
+From repo    : fedora
+Short desc   : Development files for libbytesize
 URL          : https://github.com/storaged-project/libbytesize
 License      : LGPLv2+
 Descript     : This package contains header files and pkg-config files needed for development
@@ -2113,8 +2113,8 @@ Descript     : This package contains header files and pkg-config files needed fo
 <summary>libbytesize-tools</summary>
 
 ```
-From repo     : fedora
-Short desc    : Various nice tools based on libbytesize
+From repo    : fedora
+Short desc   : Various nice tools based on libbytesize
 URL          : https://github.com/storaged-project/libbytesize
 License      : LGPLv2+
 Descript     : Various nice tools based on libbytesize, in particular the calculator
@@ -2127,8 +2127,8 @@ Descript     : Various nice tools based on libbytesize, in particular the calcul
 <summary>libcaca</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for Colour AsCii Art, text mode graphics
+From repo    : fedora
+Short desc   : Library for Colour AsCii Art, text mode graphics
 URL          : http://caca.zoy.org/wiki/libcaca
 License      : WTFPL
 Descript     : libcaca is the Colour AsCii Art library. It provides high level functions
@@ -2143,8 +2143,8 @@ Descript     : libcaca is the Colour AsCii Art library. It provides high level f
 
 ```
 Эпоха        : 3
-From repo     : anaconda
-Short desc    : CAC (Common Access Card) library
+From repo    : anaconda
+Short desc   : CAC (Common Access Card) library
 URL          : https://gitlab.freedesktop.org/spice/libcacard
 License      : LGPLv2+
 Descript     : This library provides emulation of smart cards to a virtual card
@@ -2160,8 +2160,8 @@ Descript     : This library provides emulation of smart cards to a virtual card
 <summary>libcanberra</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Portable Sound Event Library
+From repo    : anaconda
+Short desc   : Portable Sound Event Library
 URL          : http://git.0pointer.de/?p=libcanberra.git;a=summary
 License      : LGPLv2+
 Descript     : A small and lightweight implementation of the XDG Sound Theme Specification
@@ -2174,8 +2174,8 @@ Descript     : A small and lightweight implementation of the XDG Sound Theme Spe
 <summary>libcanberra-gtk2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gtk+ 2.x Bindings for libcanberra
+From repo    : fedora
+Short desc   : Gtk+ 2.x Bindings for libcanberra
 URL          : http://git.0pointer.de/?p=libcanberra.git;a=summary
 License      : LGPLv2+
 Descript     : Gtk+ 2.x bindings for libcanberra
@@ -2187,8 +2187,8 @@ Descript     : Gtk+ 2.x bindings for libcanberra
 <summary>libcanberra-gtk3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Gtk+ 3.x Bindings for libcanberra
+From repo    : anaconda
+Short desc   : Gtk+ 3.x Bindings for libcanberra
 URL          : http://git.0pointer.de/?p=libcanberra.git;a=summary
 License      : LGPLv2+
 Descript     : Gtk+ 3.x bindings for libcanberra
@@ -2200,8 +2200,8 @@ Descript     : Gtk+ 3.x bindings for libcanberra
 <summary>libcap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for getting and setting POSIX.1e capabilities
+From repo    : anaconda
+Short desc   : Library for getting and setting POSIX.1e capabilities
 URL          : https://sites.google.com/site/fullycapable/
 License      : BSD or GPLv2
 Descript     : libcap is a library for getting and setting POSIX.1e (formerly POSIX 6)
@@ -2214,8 +2214,8 @@ Descript     : libcap is a library for getting and setting POSIX.1e (formerly PO
 <summary>libcap-ng</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Alternate posix capabilities library
+From repo    : anaconda
+Short desc   : Alternate posix capabilities library
 URL          : https://people.redhat.com/sgrubb/libcap-ng/
 License      : LGPLv2+
 Descript     : Libcap-ng is a library that makes using posix capabilities easier
@@ -2227,8 +2227,8 @@ Descript     : Libcap-ng is a library that makes using posix capabilities easier
 <summary>libcbor</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A CBOR parsing library
+From repo    : anaconda
+Short desc   : A CBOR parsing library
 URL          : http://libcbor.org
 License      : MIT
 Descript     : libcbor is a C library for parsing and generating CBOR.
@@ -2240,8 +2240,8 @@ Descript     : libcbor is a C library for parsing and generating CBOR.
 <summary>libcdio</summary>
 
 ```
-From repo     : anaconda
-Short desc    : CD-ROM input and control library
+From repo    : anaconda
+Short desc   : CD-ROM input and control library
 URL          : http://www.gnu.org/software/libcdio/
 License      : GPLv3+
 Descript     : This library provides an interface for CD-ROM access. It can be used
@@ -2255,8 +2255,8 @@ Descript     : This library provides an interface for CD-ROM access. It can be u
 <summary>libcdio-paranoia</summary>
 
 ```
-From repo     : anaconda
-Short desc    : CD paranoia on top of libcdio
+From repo    : anaconda
+Short desc   : CD paranoia on top of libcdio
 URL          : http://www.gnu.org/software/libcdio/
 License      : GPLv3+
 Descript     : This CDDA reader distribution ('libcdio-cdparanoia') reads audio from the
@@ -2273,8 +2273,8 @@ Descript     : This CDDA reader distribution ('libcdio-cdparanoia') reads audio 
 <summary>libcdr</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of CorelDRAW drawings
+From repo    : anaconda
+Short desc   : A library for import of CorelDRAW drawings
 URL          : http://wiki.documentfoundation.org/DLP/Libraries/libcdr
 License      : MPLv2.0 and Public Domain
 Descript     : Libcdr is library providing ability to interpret and import CorelDRAW
@@ -2288,8 +2288,8 @@ Descript     : Libcdr is library providing ability to interpret and import Corel
 <summary>libcdr</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library for import of CorelDRAW drawings
+From repo    : updates-testing
+Short desc   : A library for import of CorelDRAW drawings
 URL          : http://wiki.documentfoundation.org/DLP/Libraries/libcdr
 License      : MPLv2.0 and Public Domain
 Descript     : Libcdr is library providing ability to interpret and import CorelDRAW
@@ -2303,8 +2303,8 @@ Descript     : Libcdr is library providing ability to interpret and import Corel
 <summary>libchamplain</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Map view for Clutter
+From repo    : anaconda
+Short desc   : Map view for Clutter
 URL          : https://wiki.gnome.org/Projects/libchamplain
 License      : LGPLv2+
 Descript     : Libchamplain is a C library aimed to provide a ClutterActor to display
@@ -2317,8 +2317,8 @@ Descript     : Libchamplain is a C library aimed to provide a ClutterActor to di
 <summary>libchamplain-gtk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Gtk+ widget wrapper for libchamplain
+From repo    : anaconda
+Short desc   : Gtk+ widget wrapper for libchamplain
 URL          : https://wiki.gnome.org/Projects/libchamplain
 License      : LGPLv2+
 Descript     : Libchamplain-gtk is a library providing a GtkWidget to embed libchamplain
@@ -2331,8 +2331,8 @@ Descript     : Libchamplain-gtk is a library providing a GtkWidget to embed libc
 <summary>libclc</summary>
 
 ```
-From repo     : fedora
-Short desc    : An open source implementation of the OpenCL 1.1 library requirements
+From repo    : fedora
+Short desc   : An open source implementation of the OpenCL 1.1 library requirements
 URL          : https://libclc.llvm.org
 License      : BSD
 Descript     : libclc is an open source, BSD licensed implementation of the library
@@ -2367,8 +2367,8 @@ Descript     : libclc is an open source, BSD licensed implementation of the libr
 <summary>libcmis</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A C/C++ client library for CM interfaces
+From repo    : updates-testing
+Short desc   : A C/C++ client library for CM interfaces
 URL          : https://github.com/tdf/libcmis
 License      : GPLv2+ or LGPLv2+ or MPLv1.1
 Descript     : LibCMIS is a C/C++ client library for working with CM (content management)
@@ -2384,8 +2384,8 @@ Descript     : LibCMIS is a C/C++ client library for working with CM (content ma
 <summary>libcmis</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A C/C++ client library for CM interfaces
+From repo    : anaconda
+Short desc   : A C/C++ client library for CM interfaces
 URL          : https://github.com/tdf/libcmis
 License      : GPLv2+ or LGPLv2+ or MPLv1.1
 Descript     : LibCMIS is a C/C++ client library for working with CM (content management)
@@ -2401,8 +2401,8 @@ Descript     : LibCMIS is a C/C++ client library for working with CM (content ma
 <summary>libcollection</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Collection data-type for C
+From repo    : anaconda
+Short desc   : Collection data-type for C
 URL          : https://pagure.io/SSSD/ding-libs
 License      : LGPLv3+
 Descript     : A data-type to collect data in a hierarchical structure for easy iteration
@@ -2415,8 +2415,8 @@ Descript     : A data-type to collect data in a hierarchical structure for easy 
 <summary>libcom_err</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common error description library
+From repo    : anaconda
+Short desc   : Common error description library
 URL          : http://e2fsprogs.sourceforge.net/
 License      : MIT
 Descript     : This is the common error description library, part of e2fsprogs.
@@ -2430,8 +2430,8 @@ Descript     : This is the common error description library, part of e2fsprogs.
 <summary>libcom_err-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common error description library
+From repo    : fedora
+Short desc   : Common error description library
 URL          : http://e2fsprogs.sourceforge.net/
 License      : MIT
 Descript     : This is the common error description development library and headers,
@@ -2448,8 +2448,8 @@ Descript     : This is the common error description development library and head
 <summary>libcomps</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Comps XML file manipulation library
+From repo    : anaconda
+Short desc   : Comps XML file manipulation library
 URL          : https://github.com/rpm-software-management/libcomps
 License      : GPLv2+
 Descript     : Libcomps is library for structure-like manipulation with content of
@@ -2462,8 +2462,8 @@ Descript     : Libcomps is library for structure-like manipulation with content 
 <summary>libconfig</summary>
 
 ```
-From repo     : fedora
-Short desc    : C/C++ configuration file library
+From repo    : fedora
+Short desc   : C/C++ configuration file library
 URL          : http://www.hyperrealm.com/libconfig/
 License      : LGPLv2+
 Descript     : Libconfig is a simple library for manipulating structured configuration
@@ -2478,8 +2478,8 @@ Descript     : Libconfig is a simple library for manipulating structured configu
 <summary>libconfuse</summary>
 
 ```
-From repo     : fedora
-Short desc    : A configuration file parser library
+From repo    : fedora
+Short desc   : A configuration file parser library
 URL          : https://github.com/martinh/libconfuse
 License      : ISC
 Descript     : libConfuse is a configuration file parser library, licensed under
@@ -2502,8 +2502,8 @@ Descript     : libConfuse is a configuration file parser library, licensed under
 <summary>libcpuid</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provides CPU identification for x86
+From repo    : fedora
+Short desc   : Provides CPU identification for x86
 URL          : https://github.com/anrieff/libcpuid
 License      : BSD
 Descript     : Libcpuid provides CPU identification for the x86 (and x86_64).
@@ -2515,8 +2515,8 @@ Descript     : Libcpuid provides CPU identification for the x86 (and x86_64).
 <summary>libcue</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Cue sheet parser library
+From repo    : anaconda
+Short desc   : Cue sheet parser library
 URL          : https://github.com/lipnitsk/libcue
 License      : GPLv2 and BSD
 Descript     : Libcue is intended for parsing a so-called cue sheet from a char string or
@@ -2529,8 +2529,8 @@ Descript     : Libcue is intended for parsing a so-called cue sheet from a char 
 <summary>libcurl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library for getting files from web servers
+From repo    : updates-testing
+Short desc   : A library for getting files from web servers
 URL          : https://curl.se/
 License      : MIT
 Descript     : libcurl is a free and easy-to-use client-side URL transfer library, supporting
@@ -2547,8 +2547,8 @@ Descript     : libcurl is a free and easy-to-use client-side URL transfer librar
 <summary>libdaemon</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for writing UNIX daemons
+From repo    : anaconda
+Short desc   : Library for writing UNIX daemons
 URL          : http://0pointer.de/lennart/projects/libdaemon/
 License      : LGPLv2+
 Descript     : libdaemon is a lightweight C library which eases the writing of UNIX daemons.
@@ -2570,8 +2570,8 @@ Descript     : libdaemon is a lightweight C library which eases the writing of U
 <summary>libdap</summary>
 
 ```
-From repo     : fedora
-Short desc    : The C++ DAP2 library from OPeNDAP
+From repo    : fedora
+Short desc   : The C++ DAP2 library from OPeNDAP
 URL          : http://www.opendap.org/
 License      : LGPLv2+
 Descript     : The libdap++ library contains an implementation of DAP2. This package
@@ -2587,8 +2587,8 @@ Descript     : The libdap++ library contains an implementation of DAP2. This pac
 <summary>libdatrie</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Implementation of Double-Array structure for representing trie
+From repo    : anaconda
+Short desc   : Implementation of Double-Array structure for representing trie
 URL          : http://linux.thai.net/projects/datrie
 License      : LGPLv2+
 Descript     : datrie is an implementation of double-array structure for representing trie.
@@ -2607,8 +2607,8 @@ Descript     : datrie is an implementation of double-array structure for represe
 <summary>libdatrie-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libdatrie
+From repo    : fedora
+Short desc   : Development files for libdatrie
 URL          : http://linux.thai.net/projects/datrie
 License      : LGPLv2+
 Descript     : This package contains libraries and header files for
@@ -2621,8 +2621,8 @@ Descript     : This package contains libraries and header files for
 <summary>libdav1d</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library files for dav1d
+From repo    : updates-testing
+Short desc   : Library files for dav1d
 URL          : https://code.videolan.org/videolan/dav1d
 License      : BSD
 Descript     : Library files for dav1d, the AV1 cross-platform Decoder.
@@ -2634,8 +2634,8 @@ Descript     : Library files for dav1d, the AV1 cross-platform Decoder.
 <summary>libdazzle</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Experimental new features for GTK+ and GLib
+From repo    : anaconda
+Short desc   : Experimental new features for GTK+ and GLib
 URL          : https://git.gnome.org/browse/libdazzle/
 License      : GPLv3+
 Descript     : libdazzle is a collection of fancy features for GLib and Gtk+ that aren't quite
@@ -2650,8 +2650,8 @@ Descript     : libdazzle is a collection of fancy features for GLib and Gtk+ tha
 <summary>libdazzle</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Experimental new features for GTK+ and GLib
+From repo    : updates-testing
+Short desc   : Experimental new features for GTK+ and GLib
 URL          : https://gitlab.gnome.org/GNOME/libdazzle
 License      : GPLv3+
 Descript     : libdazzle is a collection of fancy features for GLib and Gtk+ that aren't quite
@@ -2666,8 +2666,8 @@ Descript     : libdazzle is a collection of fancy features for GLib and Gtk+ tha
 <summary>libdb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Berkeley DB database library for C
+From repo    : anaconda
+Short desc   : The Berkeley DB database library for C
 URL          : http://www.oracle.com/database/berkeley-db/
 License      : BSD and LGPLv2 and Sleepycat
 Descript     : The Berkeley Database (Berkeley DB) is a programmatic toolkit that
@@ -2686,8 +2686,8 @@ Descript     : The Berkeley Database (Berkeley DB) is a programmatic toolkit tha
 <summary>libdbusmenu</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for passing menus over DBus
+From repo    : fedora
+Short desc   : Library for passing menus over DBus
 URL          : https://launchpad.net/libdbusmenu
 License      : LGPLv3 or LGPLv2 and GPLv3
 Descript     : This is a small library designed to make sharing and displaying of menu
@@ -2701,8 +2701,8 @@ Descript     : This is a small library designed to make sharing and displaying o
 <summary>libdbusmenu-gtk2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for passing menus over DBus - Development files - GTK+2 version
+From repo    : fedora
+Short desc   : Library for passing menus over DBus - Development files - GTK+2 version
 URL          : https://launchpad.net/libdbusmenu
 License      : LGPLv3 or LGPLv2 and GPLv3
 Descript     : Shared libraries for the libdbusmenu-gtk2 library.
@@ -2714,8 +2714,8 @@ Descript     : Shared libraries for the libdbusmenu-gtk2 library.
 <summary>libdbusmenu-gtk3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for passing menus over DBus - Development files - GTK+2 version - GTK+3 version
+From repo    : fedora
+Short desc   : Library for passing menus over DBus - Development files - GTK+2 version - GTK+3 version
 URL          : https://launchpad.net/libdbusmenu
 License      : LGPLv3 or LGPLv2 and GPLv3
 Descript     : Shared libraries for the libdbusmenu-gtk3 library.
@@ -2727,8 +2727,8 @@ Descript     : Shared libraries for the libdbusmenu-gtk3 library.
 <summary>libdc1394</summary>
 
 ```
-From repo     : fedora
-Short desc    : 1394-based digital camera control library
+From repo    : fedora
+Short desc   : 1394-based digital camera control library
 URL          : http://sourceforge.net/projects/libdc1394/
 License      : LGPLv2+
 Descript     : Libdc1394 is a library that is intended to provide a high level programming
@@ -2742,8 +2742,8 @@ Descript     : Libdc1394 is a library that is intended to provide a high level p
 <summary>libdca</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : DTS Coherent Acoustics decoder library
+From repo    : rpmfusion-free
+Short desc   : DTS Coherent Acoustics decoder library
 URL          : https://code.videolan.org/videolan/libdca
 License      : GPLv2+
 Descript     : libdca is a free library for decoding DTS Coherent Acoustics streams. It is
@@ -2758,8 +2758,8 @@ Descript     : libdca is a free library for decoding DTS Coherent Acoustics stre
 <summary>libde265</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : Open H.265 video codec implementation
+From repo    : rpmfusion-free
+Short desc   : Open H.265 video codec implementation
 URL          : https://www.libde265.org/
 License      : LGPLv3+
 Descript     : libde265 is an open source implementation of the H.265 video codec.
@@ -2773,8 +2773,8 @@ Descript     : libde265 is an open source implementation of the H.265 video code
 <summary>libdhash</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Dynamic hash table
+From repo    : anaconda
+Short desc   : Dynamic hash table
 URL          : https://pagure.io/SSSD/ding-libs
 License      : LGPLv3+
 Descript     : A hash table which will dynamically resize to achieve optimal storage & access
@@ -2787,8 +2787,8 @@ Descript     : A hash table which will dynamically resize to achieve optimal sto
 <summary>libdmapsharing</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A DMAP client and server library
+From repo    : anaconda
+Short desc   : A DMAP client and server library
 URL          : http://www.flyn.org/projects/libdmapsharing/
 License      : LGPLv2+
 Descript     : libdmapsharing implements the DMAP protocols. This includes support for
@@ -2801,8 +2801,8 @@ Descript     : libdmapsharing implements the DMAP protocols. This includes suppo
 <summary>libdmx</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 DMX runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 DMX runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : The X.Org X11 DMX (Distributed Multihead X) runtime library.
@@ -2814,8 +2814,8 @@ Descript     : The X.Org X11 DMX (Distributed Multihead X) runtime library.
 <summary>libdnf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing simplified C and Python API to libsolv
+From repo    : anaconda
+Short desc   : Library providing simplified C and Python API to libsolv
 URL          : https://github.com/rpm-software-management/libdnf
 License      : LGPLv2+
 Descript     : A Library providing simplified C and Python API to libsolv.
@@ -2827,8 +2827,8 @@ Descript     : A Library providing simplified C and Python API to libsolv.
 <summary>libdnf</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library providing simplified C and Python API to libsolv
+From repo    : updates-testing
+Short desc   : Library providing simplified C and Python API to libsolv
 URL          : https://github.com/rpm-software-management/libdnf
 License      : LGPLv2+
 Descript     : A Library providing simplified C and Python API to libsolv.
@@ -2840,8 +2840,8 @@ Descript     : A Library providing simplified C and Python API to libsolv.
 <summary>libdrm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Direct Rendering Manager runtime library
+From repo    : anaconda
+Short desc   : Direct Rendering Manager runtime library
 URL          : https://dri.freedesktop.org
 License      : MIT
 Descript     : Direct Rendering Manager runtime library
@@ -2853,8 +2853,8 @@ Descript     : Direct Rendering Manager runtime library
 <summary>libdrm-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Direct Rendering Manager development package
+From repo    : fedora
+Short desc   : Direct Rendering Manager development package
 URL          : https://dri.freedesktop.org
 License      : MIT
 Descript     : Direct Rendering Manager development package.
@@ -2866,8 +2866,8 @@ Descript     : Direct Rendering Manager development package.
 <summary>libdv</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Software decoder for DV format video
+From repo    : anaconda
+Short desc   : Software decoder for DV format video
 URL          : http://libdv.sourceforge.net/
 License      : LGPLv2+
 Descript     : The Quasar DV codec (libdv) is a software codec for DV video, the
@@ -2883,8 +2883,8 @@ Descript     : The Quasar DV codec (libdv) is a software codec for DV video, the
 <summary>libdvdnav</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for reading DVD video discs based on Ogle code
+From repo    : anaconda
+Short desc   : A library for reading DVD video discs based on Ogle code
 URL          : http://dvdnav.mplayerhq.hu/
 License      : GPLv2+
 Descript     : libdvdnav provides a simple library for reading DVD video discs.
@@ -2897,8 +2897,8 @@ Descript     : libdvdnav provides a simple library for reading DVD video discs.
 <summary>libdvdread</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for reading DVD video discs based on Ogle code
+From repo    : anaconda
+Short desc   : A library for reading DVD video discs based on Ogle code
 URL          : http://dvdnav.mplayerhq.hu/
 License      : GPLv2+
 Descript     : libdvdread provides a simple foundation for reading DVD video disks.
@@ -2911,8 +2911,8 @@ Descript     : libdvdread provides a simple foundation for reading DVD video dis
 <summary>libe-book</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of reflowable e-book formats
+From repo    : anaconda
+Short desc   : A library for import of reflowable e-book formats
 URL          : https://sourceforge.net/projects/libebook/
 License      : MPLv2.0
 Descript     : libe-book is a library for import of reflowable e-book formats.
@@ -2926,8 +2926,8 @@ Descript     : libe-book is a library for import of reflowable e-book formats.
 <summary>libeconf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Enhanced config file parser library
+From repo    : anaconda
+Short desc   : Enhanced config file parser library
 URL          : https://github.com/openSUSE/libeconf
 License      : MIT
 Descript     : libeconf is a highly flexible and configurable library to parse and manage
@@ -2941,8 +2941,8 @@ Descript     : libeconf is a highly flexible and configurable library to parse a
 <summary>libedit</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The NetBSD Editline library
+From repo    : anaconda
+Short desc   : The NetBSD Editline library
 URL          : https://www.thrysoee.dk/editline/
 License      : BSD
 Descript     : Libedit is an autotool- and libtoolized port of the NetBSD Editline library.
@@ -2956,8 +2956,8 @@ Descript     : Libedit is an autotool- and libtoolized port of the NetBSD Editli
 <summary>libeot</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for parsing Embedded OpenType font files
+From repo    : anaconda
+Short desc   : A library for parsing Embedded OpenType font files
 URL          : https://github.com/umanwizard/libeot
 License      : MPLv2.0
 Descript     : libeot is a library for parsing Embedded OpenType files (Microsoft
@@ -2970,8 +2970,8 @@ Descript     : libeot is a library for parsing Embedded OpenType files (Microsof
 <summary>libepoxy</summary>
 
 ```
-From repo     : anaconda
-Short desc    : epoxy runtime library
+From repo    : anaconda
+Short desc   : epoxy runtime library
 URL          : https://github.com/anholt/libepoxy
 License      : MIT
 Descript     : A library for handling OpenGL function pointer management.
@@ -2983,8 +2983,8 @@ Descript     : A library for handling OpenGL function pointer management.
 <summary>libepubgen</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An EPUB generator library
+From repo    : anaconda
+Short desc   : An EPUB generator library
 URL          : https://sourceforge.net/projects/libepubgen/
 License      : MPLv2.0
 Descript     : libepubgen is a library for generating EPUB documents. It is directly
@@ -2998,8 +2998,8 @@ Descript     : libepubgen is a library for generating EPUB documents. It is dire
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Fonts to replace commonly used Microsoft Windows fonts
+From repo    : updates-testing
+Short desc   : Fonts to replace commonly used Microsoft Windows fonts
 URL          : https://github.com/liberationfonts/liberation-fonts
 License      : OFL
 Descript     : The Liberation Fonts are intended to be replacements for the 3 most commonly
@@ -3016,8 +3016,8 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Shared common files of Liberation font families
+From repo    : anaconda
+Short desc   : Shared common files of Liberation font families
 URL          : https://github.com/liberationfonts/liberation-fonts
 License      : OFL
 Descript     : The Liberation Fonts are intended to be replacements for the 3 most commonly
@@ -3033,8 +3033,8 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Shared common files of Liberation font families
+From repo    : updates-testing
+Short desc   : Shared common files of Liberation font families
 URL          : https://github.com/liberationfonts/liberation-fonts
 License      : OFL
 Descript     : The Liberation Fonts are intended to be replacements for the 3 most commonly
@@ -3050,8 +3050,8 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Monospace fonts to replace commonly used Microsoft Courier New
+From repo    : anaconda
+Short desc   : Monospace fonts to replace commonly used Microsoft Courier New
 URL          : https://github.com/liberationfonts/liberation-fonts
 License      : OFL
 Descript     : The Liberation Fonts are intended to be replacements for the 3 most commonly
@@ -3068,8 +3068,8 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Monospace fonts to replace commonly used Microsoft Courier New
+From repo    : updates-testing
+Short desc   : Monospace fonts to replace commonly used Microsoft Courier New
 URL          : https://github.com/liberationfonts/liberation-fonts
 License      : OFL
 Descript     : The Liberation Fonts are intended to be replacements for the 3 most commonly
@@ -3086,8 +3086,8 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Sans-serif fonts to replace commonly used Microsoft Arial
+From repo    : anaconda
+Short desc   : Sans-serif fonts to replace commonly used Microsoft Arial
 URL          : https://github.com/liberationfonts/liberation-fonts
 License      : OFL
 Descript     : The Liberation Fonts are intended to be replacements for the 3 most commonly
@@ -3104,8 +3104,8 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Sans-serif fonts to replace commonly used Microsoft Arial
+From repo    : updates-testing
+Short desc   : Sans-serif fonts to replace commonly used Microsoft Arial
 URL          : https://github.com/liberationfonts/liberation-fonts
 License      : OFL
 Descript     : The Liberation Fonts are intended to be replacements for the 3 most commonly
@@ -3122,8 +3122,8 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Serif fonts to replace commonly used Microsoft Times New Roman
+From repo    : anaconda
+Short desc   : Serif fonts to replace commonly used Microsoft Times New Roman
 URL          : https://github.com/liberationfonts/liberation-fonts
 License      : OFL
 Descript     : The Liberation Fonts are intended to be replacements for the 3 most commonly
@@ -3140,8 +3140,8 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Serif fonts to replace commonly used Microsoft Times New Roman
+From repo    : updates-testing
+Short desc   : Serif fonts to replace commonly used Microsoft Times New Roman
 URL          : https://github.com/liberationfonts/liberation-fonts
 License      : OFL
 Descript     : The Liberation Fonts are intended to be replacements for the 3 most commonly
@@ -3158,8 +3158,8 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Firmware for Marvell Libertas USB 8388 Network Adapter
+From repo    : updates-testing
+Short desc   : Firmware for Marvell Libertas USB 8388 Network Adapter
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : Firmware for Marvell Libertas USB 8388 Network Adapter
@@ -3171,8 +3171,8 @@ Descript     : Firmware for Marvell Libertas USB 8388 Network Adapter
 <summary>libesmtp</summary>
 
 ```
-From repo     : fedora
-Short desc    : SMTP client library
+From repo    : fedora
+Short desc   : SMTP client library
 URL          : http://www.stafford.uklinux.net/libesmtp/
 License      : LGPLv2+
 Descript     : LibESMTP is a library to manage posting (or submission of) electronic
@@ -3188,8 +3188,8 @@ Descript     : LibESMTP is a library to manage posting (or submission of) electr
 <summary>libetonyek</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of Apple iWork documents
+From repo    : anaconda
+Short desc   : A library for import of Apple iWork documents
 URL          : http://wiki.documentfoundation.org/DLP/Libraries/libetonyek
 License      : MPLv2.0
 Descript     : libetonyek is library for import of Apple iWork documents. It supports
@@ -3202,8 +3202,8 @@ Descript     : libetonyek is library for import of Apple iWork documents. It sup
 <summary>libev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : High-performance event loop/event model with lots of features
+From repo    : anaconda
+Short desc   : High-performance event loop/event model with lots of features
 URL          : http://software.schmorp.de/pkg/libev.html
 License      : BSD or GPLv2+
 Descript     : Libev is modeled (very loosely) after libevent and the Event Perl
@@ -3217,8 +3217,8 @@ Descript     : Libev is modeled (very loosely) after libevent and the Event Perl
 <summary>libevdev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Kernel Evdev Device Wrapper Library
+From repo    : anaconda
+Short desc   : Kernel Evdev Device Wrapper Library
 URL          : http://www.freedesktop.org/wiki/Software/libevdev
 License      : MIT
 Descript     : libevdev is a library to wrap kernel evdev devices and provide a proper API
@@ -3231,8 +3231,8 @@ Descript     : libevdev is a library to wrap kernel evdev devices and provide a 
 <summary>libevent</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Abstract asynchronous event notification library
+From repo    : anaconda
+Short desc   : Abstract asynchronous event notification library
 URL          : http://libevent.org/
 License      : BSD and ISC
 Descript     : The libevent API provides a mechanism to execute a callback function
@@ -3249,8 +3249,8 @@ Descript     : The libevent API provides a mechanism to execute a callback funct
 <summary>libewf</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for the Expert Witness Compression Format (EWF)
+From repo    : fedora
+Short desc   : Library for the Expert Witness Compression Format (EWF)
 URL          : http://sourceforge.net/projects/libewf/
 License      : LGPLv3+
 Descript     : Libewf is a library for support of the Expert Witness Compression Format (EWF),
@@ -3264,8 +3264,8 @@ Descript     : Libewf is a library for support of the Expert Witness Compression
 <summary>libexif</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for extracting extra information from image files
+From repo    : anaconda
+Short desc   : Library for extracting extra information from image files
 URL          : https://libexif.github.io/
 License      : LGPLv2+
 Descript     : Most digital cameras produce EXIF files, which are JPEG files with
@@ -3279,8 +3279,8 @@ Descript     : Most digital cameras produce EXIF files, which are JPEG files wit
 <summary>libexttextcat</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Text categorization library
+From repo    : anaconda
+Short desc   : Text categorization library
 URL          : https://wiki.documentfoundation.org/Libexttextcat
 License      : BSD
 Descript     : libexttextcat is an N-Gram-Based Text Categorization library primarily
@@ -3293,8 +3293,8 @@ Descript     : libexttextcat is an N-Gram-Based Text Categorization library prim
 <summary>libfbclient2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Firebird SQL server client library
+From repo    : fedora
+Short desc   : Firebird SQL server client library
 URL          : http://www.firebirdsql.org/
 License      : Interbase
 Descript     : Shared client library for Firebird SQL server.
@@ -3312,8 +3312,8 @@ Descript     : Shared client library for Firebird SQL server.
 <summary>libfc14audiodecoder</summary>
 
 ```
-From repo     : fedora
-Short desc    : C wrapper library for Future Composer audio decoding
+From repo    : fedora
+Short desc   : C wrapper library for Future Composer audio decoding
 URL          : http://xmms-fc.sourceforge.net
 License      : GPLv2+
 Descript     : This library provides a C API for a Future Composer audio decoder, which
@@ -3327,8 +3327,8 @@ Descript     : This library provides a C API for a Future Composer audio decoder
 <summary>libfdisk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Partitioning library for fdisk-like programs.
+From repo    : anaconda
+Short desc   : Partitioning library for fdisk-like programs.
 URL          : http://en.wikipedia.org/wiki/Util-linux
 License      : LGPLv2+
 Descript     : This is library for fdisk-like programs, part of util-linux.
@@ -3340,8 +3340,8 @@ Descript     : This is library for fdisk-like programs, part of util-linux.
 <summary>libfdt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Device tree library
+From repo    : anaconda
+Short desc   : Device tree library
 URL          : https://devicetree.org/
 License      : GPLv2+
 Descript     : libfdt is a library to process Open Firmware style device trees on various
@@ -3354,8 +3354,8 @@ Descript     : libfdt is a library to process Open Firmware style device trees o
 <summary>libffi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A portable foreign function interface library
+From repo    : anaconda
+Short desc   : A portable foreign function interface library
 URL          : http://sourceware.org/libffi
 License      : MIT
 Descript     : Compilers for high level languages generate code that follow certain
@@ -3391,8 +3391,8 @@ Descript     : Compilers for high level languages generate code that follow cert
 <summary>libffi-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libffi
+From repo    : fedora
+Short desc   : Development files for libffi
 URL          : http://sourceware.org/libffi
 License      : MIT
 Descript     : The libffi-devel package contains libraries and header files for
@@ -3405,8 +3405,8 @@ Descript     : The libffi-devel package contains libraries and header files for
 <summary>libfido2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : FIDO2 library
+From repo    : anaconda
+Short desc   : FIDO2 library
 URL          : https://github.com/Yubico/libfido2
 License      : BSD
 Descript     : libfido2 is an open source library to support the FIDO2 protocol.  FIDO2 is
@@ -3423,8 +3423,8 @@ Descript     : libfido2 is an open source library to support the FIDO2 protocol.
 <summary>libfontenc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libfontenc runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libfontenc runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libfontenc runtime library
@@ -3436,8 +3436,8 @@ Descript     : X.Org X11 libfontenc runtime library
 <summary>libfprint</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Toolkit for fingerprint scanner
+From repo    : anaconda
+Short desc   : Toolkit for fingerprint scanner
 URL          : http://www.freedesktop.org/wiki/Software/fprint/libfprint
 License      : LGPLv2+
 Descript     : libfprint offers support for consumer fingerprint reader devices.
@@ -3449,8 +3449,8 @@ Descript     : libfprint offers support for consumer fingerprint reader devices.
 <summary>libfreehand</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of Macromedia/Adobe FreeHand documents
+From repo    : anaconda
+Short desc   : A library for import of Macromedia/Adobe FreeHand documents
 URL          : http://wiki.documentfoundation.org/DLP/Libraries/libfreehand
 License      : MPLv2.0
 Descript     : libfreehand is library providing ability to interpret and import
@@ -3463,8 +3463,8 @@ Descript     : libfreehand is library providing ability to interpret and import
 <summary>libftdi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to program and control the FTDI USB controller
+From repo    : anaconda
+Short desc   : Library to program and control the FTDI USB controller
 URL          : http://www.intra2net.com/de/produkte/opensource/ftdi/
 License      : LGPLv2
 Descript     : A library (using libusb) to talk to FTDI's FT2232C,
@@ -3477,8 +3477,8 @@ Descript     : A library (using libusb) to talk to FTDI's FT2232C,
 <summary>libgcab1</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to create Cabinet archives
+From repo    : anaconda
+Short desc   : Library to create Cabinet archives
 URL          : http://ftp.gnome.org/pub/GNOME/sources/gcab
 License      : LGPLv2+
 Descript     : libgcab is a library to manipulate Cabinet archive using GIO/GObject.
@@ -3490,8 +3490,8 @@ Descript     : libgcab is a library to manipulate Cabinet archive using GIO/GObj
 <summary>libgcc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GCC version 11 shared support library
+From repo    : anaconda
+Short desc   : GCC version 11 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains GCC shared support library which is needed
@@ -3504,8 +3504,8 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libgcc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GCC version 11 shared support library
+From repo    : updates-testing
+Short desc   : GCC version 11 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains GCC shared support library which is needed
@@ -3518,8 +3518,8 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libgcrypt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A general-purpose cryptography library
+From repo    : anaconda
+Short desc   : A general-purpose cryptography library
 URL          : https://www.gnupg.org/
 License      : LGPLv2+
 Descript     : Libgcrypt is a general purpose crypto library based on the code used
@@ -3532,8 +3532,8 @@ Descript     : Libgcrypt is a general purpose crypto library based on the code u
 <summary>libgcrypt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A general-purpose cryptography library
+From repo    : updates-testing
+Short desc   : A general-purpose cryptography library
 URL          : https://www.gnupg.org/
 License      : LGPLv2+
 Descript     : Libgcrypt is a general purpose crypto library based on the code used
@@ -3546,8 +3546,8 @@ Descript     : Libgcrypt is a general purpose crypto library based on the code u
 <summary>libgdata</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for the GData protocol
+From repo    : anaconda
+Short desc   : Library for the GData protocol
 URL          : https://wiki.gnome.org/Projects/libgdata
 License      : LGPLv2+
 Descript     : libgdata is a GLib-based library for accessing online service APIs using the
@@ -3561,8 +3561,8 @@ Descript     : libgdata is a GLib-based library for accessing online service API
 <summary>libgdata</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library for the GData protocol
+From repo    : updates-testing
+Short desc   : Library for the GData protocol
 URL          : https://wiki.gnome.org/Projects/libgdata
 License      : LGPLv2+
 Descript     : libgdata is a GLib-based library for accessing online service APIs using the
@@ -3576,8 +3576,8 @@ Descript     : libgdata is a GLib-based library for accessing online service API
 <summary>libgdither</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for applying dithering to PCM audio sources
+From repo    : anaconda
+Short desc   : Library for applying dithering to PCM audio sources
 URL          : http://plugin.org.uk/libgdither/README
 License      : GPLv2+
 Descript     : Libgdither is a GPL'd library library for performing audio dithering on
@@ -3593,8 +3593,8 @@ Descript     : Libgdither is a GPL'd library library for performing audio dither
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : GNOME docking library
+From repo    : fedora
+Short desc   : GNOME docking library
 URL          : http://www.gnome.org/
 License      : LGPLv2+
 Descript     : GDL adds dockable widgets to GTK+. The user can rearrange those widgets by drag
@@ -3608,8 +3608,8 @@ Descript     : GDL adds dockable widgets to GTK+. The user can rearrange those w
 <summary>libgee</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GObject collection library
+From repo    : anaconda
+Short desc   : GObject collection library
 URL          : https://wiki.gnome.org/Projects/Libgee
 License      : LGPLv2+
 Descript     : libgee is a collection library providing GObject-based interfaces and
@@ -3656,8 +3656,8 @@ Descript     : libgee is a collection library providing GObject-based interfaces
 <summary>libgee</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GObject collection library
+From repo    : updates-testing
+Short desc   : GObject collection library
 URL          : https://wiki.gnome.org/Projects/Libgee
 License      : LGPLv2+
 Descript     : libgee is a collection library providing GObject-based interfaces and
@@ -3704,8 +3704,8 @@ Descript     : libgee is a collection library providing GObject-based interfaces
 <summary>libgeotiff</summary>
 
 ```
-From repo     : fedora
-Short desc    : GeoTIFF format library
+From repo    : fedora
+Short desc   : GeoTIFF format library
 URL          : http://trac.osgeo.org/geotiff/
 License      : MIT
 Descript     : GeoTIFF represents an effort by over 160 different remote sensing,
@@ -3720,8 +3720,8 @@ Descript     : GeoTIFF represents an effort by over 160 different remote sensing
 <summary>libgexiv2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Gexiv2 is a GObject-based wrapper around the Exiv2 library
+From repo    : anaconda
+Short desc   : Gexiv2 is a GObject-based wrapper around the Exiv2 library
 URL          : https://wiki.gnome.org/Projects/gexiv2
 License      : GPLv2+
 Descript     : libgexiv2 is a GObject-based wrapper around the Exiv2 library.
@@ -3734,8 +3734,8 @@ Descript     : libgexiv2 is a GObject-based wrapper around the Exiv2 library.
 <summary>libgfapi0</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GlusterFS api library
+From repo    : updates-testing
+Short desc   : GlusterFS api library
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -3754,8 +3754,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>libgfortran</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fortran runtime
+From repo    : updates-testing
+Short desc   : Fortran runtime
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains Fortran shared library which is needed to run
@@ -3768,8 +3768,8 @@ Descript     : This package contains Fortran shared library which is needed to r
 <summary>libgfrpc0</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GlusterFS libgfrpc0 library
+From repo    : anaconda
+Short desc   : GlusterFS libgfrpc0 library
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -3788,8 +3788,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>libgfrpc0</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GlusterFS libgfrpc0 library
+From repo    : updates-testing
+Short desc   : GlusterFS libgfrpc0 library
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -3808,8 +3808,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>libgfxdr0</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GlusterFS libgfxdr0 library
+From repo    : anaconda
+Short desc   : GlusterFS libgfxdr0 library
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -3828,8 +3828,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>libgfxdr0</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GlusterFS libgfxdr0 library
+From repo    : updates-testing
+Short desc   : GlusterFS libgfxdr0 library
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -3848,8 +3848,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>libgit2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C implementation of the Git core methods as a library with a solid API
+From repo    : updates-testing
+Short desc   : C implementation of the Git core methods as a library with a solid API
 URL          : https://libgit2.org/
 License      : GPLv2 with exceptions
 Descript     : libgit2 is a portable, pure C implementation of the Git core methods
@@ -3864,8 +3864,8 @@ Descript     : libgit2 is a portable, pure C implementation of the Git core meth
 <summary>libgit2-glib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Git library for GLib
+From repo    : fedora
+Short desc   : Git library for GLib
 URL          : https://wiki.gnome.org/Projects/Libgit2-glib
 License      : LGPLv2+
 Descript     : libgit2-glib is a glib wrapper library around the libgit2 git access library.
@@ -3877,8 +3877,8 @@ Descript     : libgit2-glib is a glib wrapper library around the libgit2 git acc
 <summary>libglade2</summary>
 
 ```
-From repo     : fedora
-Short desc    : The libglade library for loading user interfaces
+From repo    : fedora
+Short desc   : The libglade library for loading user interfaces
 URL          : http://www.gnome.org
 License      : LGPLv2+
 Descript     : Libglade is a small library that allows a program to load its user
@@ -3899,8 +3899,8 @@ Descript     : Libglade is a small library that allows a program to load its use
 <summary>libgle</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Tubing and Extrusion Library for OpenGL
+From repo    : fedora
+Short desc   : A Tubing and Extrusion Library for OpenGL
 URL          : http://www.linas.org/gle/
 License      : GPLv2 or (Artistic clarified and MIT)
 Descript     : The GLE Tubing and Extrusion Library consists of a number of "C"
@@ -3917,8 +3917,8 @@ Descript     : The GLE Tubing and Extrusion Library consists of a number of "C"
 <summary>libglpng</summary>
 
 ```
-From repo     : fedora
-Short desc    : Toolkit for loading PNG images as OpenGL textures
+From repo    : fedora
+Short desc   : Toolkit for loading PNG images as OpenGL textures
 URL          : https://admin.fedoraproject.org/pkgdb/packages/name/libglpng
 License      : MIT
 Descript     : glpng is a small toolkit to make loading PNG image files as an OpenGL
@@ -3931,8 +3931,8 @@ Descript     : glpng is a small toolkit to make loading PNG image files as an Op
 <summary>libglusterd0</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GlusterFS libglusterd library
+From repo    : anaconda
+Short desc   : GlusterFS libglusterd library
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -3951,8 +3951,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>libglusterd0</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GlusterFS libglusterd library
+From repo    : updates-testing
+Short desc   : GlusterFS libglusterd library
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -3971,8 +3971,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>libglusterfs0</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GlusterFS libglusterfs library
+From repo    : anaconda
+Short desc   : GlusterFS libglusterfs library
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -3991,8 +3991,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>libglusterfs0</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GlusterFS libglusterfs library
+From repo    : updates-testing
+Short desc   : GlusterFS libglusterfs library
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -4012,8 +4012,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : The GL Vendor-Neutral Dispatch library
+From repo    : fedora
+Short desc   : The GL Vendor-Neutral Dispatch library
 URL          : https://github.com/NVIDIA/libglvnd
 License      : MIT
 Descript     : libglvnd is an implementation of the vendor-neutral dispatch layer for
@@ -4027,8 +4027,8 @@ Descript     : libglvnd is an implementation of the vendor-neutral dispatch laye
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Core development files for libglvnd
+From repo    : fedora
+Short desc   : Core development files for libglvnd
 URL          : https://github.com/NVIDIA/libglvnd
 License      : MIT
 Descript     : The libglvnd-core-devel package is a bootstrap trick for Mesa, which wants
@@ -4044,8 +4044,8 @@ Descript     : The libglvnd-core-devel package is a bootstrap trick for Mesa, wh
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Development files for libglvnd
+From repo    : fedora
+Short desc   : Development files for libglvnd
 URL          : https://github.com/NVIDIA/libglvnd
 License      : MIT
 Descript     : The libglvnd-devel package contains libraries and header files for
@@ -4059,8 +4059,8 @@ Descript     : The libglvnd-devel package contains libraries and header files fo
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : EGL support for libglvnd
+From repo    : fedora
+Short desc   : EGL support for libglvnd
 URL          : https://github.com/NVIDIA/libglvnd
 License      : MIT
 Descript     : libEGL are the common dispatch interface for the EGL API.
@@ -4073,8 +4073,8 @@ Descript     : libEGL are the common dispatch interface for the EGL API.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : GLES support for libglvnd
+From repo    : fedora
+Short desc   : GLES support for libglvnd
 URL          : https://github.com/NVIDIA/libglvnd
 License      : MIT
 Descript     : libGLESv[12] are the common dispatch interface for the GLES API.
@@ -4087,8 +4087,8 @@ Descript     : libGLESv[12] are the common dispatch interface for the GLES API.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : GLX support for libglvnd
+From repo    : fedora
+Short desc   : GLX support for libglvnd
 URL          : https://github.com/NVIDIA/libglvnd
 License      : MIT
 Descript     : libGL and libGLX are the common dispatch interface for the GLX API.
@@ -4101,8 +4101,8 @@ Descript     : libGL and libGLX are the common dispatch interface for the GLX AP
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : OpenGL support for libglvnd
+From repo    : fedora
+Short desc   : OpenGL support for libglvnd
 URL          : https://github.com/NVIDIA/libglvnd
 License      : MIT
 Descript     : libOpenGL is the common dispatch interface for the workstation OpenGL API.
@@ -4114,8 +4114,8 @@ Descript     : libOpenGL is the common dispatch interface for the workstation Op
 <summary>libgnome</summary>
 
 ```
-From repo     : fedora
-Short desc    : GNOME base library
+From repo    : fedora
+Short desc   : GNOME base library
 URL          : http://www.gnome.org
 License      : LGPLv2+
 Descript     : GNOME (GNU Network Object Model Environment) is a user-friendly set of
@@ -4131,8 +4131,8 @@ Descript     : GNOME (GNU Network Object Model Environment) is a user-friendly s
 <summary>libgnome-keyring</summary>
 
 ```
-From repo     : fedora
-Short desc    : Framework for managing passwords and other secrets
+From repo    : fedora
+Short desc   : Framework for managing passwords and other secrets
 URL          : http://live.gnome.org/GnomeKeyring
 License      : GPLv2+ and LGPLv2+
 Descript     : gnome-keyring is a program that keep password and other secrets for
@@ -4146,8 +4146,8 @@ Descript     : gnome-keyring is a program that keep password and other secrets f
 <summary>libgnomecanvas</summary>
 
 ```
-From repo     : fedora
-Short desc    : GnomeCanvas widget
+From repo    : fedora
+Short desc   : GnomeCanvas widget
 URL          : http://www.gnome.org/
 License      : LGPLv2+
 Descript     : The canvas widget allows you to create custom displays using stock items
@@ -4161,8 +4161,8 @@ Descript     : The canvas widget allows you to create custom displays using stoc
 <summary>libgnomekbd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A keyboard configuration library
+From repo    : anaconda
+Short desc   : A keyboard configuration library
 URL          : http://gswitchit.sourceforge.net
 License      : LGPLv2+
 Descript     : The libgnomekbd package contains a GNOME library which manages
@@ -4176,8 +4176,8 @@ Descript     : The libgnomekbd package contains a GNOME library which manages
 <summary>libgnomeui</summary>
 
 ```
-From repo     : fedora
-Short desc    : GNOME base GUI library
+From repo    : fedora
+Short desc   : GNOME base GUI library
 URL          : http://www.gnome.org
 License      : LGPLv2+
 Descript     : GNOME (GNU Network Object Model Environment) is a user-friendly set of
@@ -4194,8 +4194,8 @@ Descript     : GNOME (GNU Network Object Model Environment) is a user-friendly s
 <summary>libgomp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GCC OpenMP v4.5 shared support library
+From repo    : anaconda
+Short desc   : GCC OpenMP v4.5 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains GCC shared support library which is needed
@@ -4208,8 +4208,8 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libgomp</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GCC OpenMP v4.5 shared support library
+From repo    : updates-testing
+Short desc   : GCC OpenMP v4.5 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains GCC shared support library which is needed
@@ -4222,8 +4222,8 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libgpg-error</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for error values used by GnuPG components
+From repo    : anaconda
+Short desc   : Library for error values used by GnuPG components
 URL          : https://www.gnupg.org/related_software/libgpg-error/
 License      : LGPLv2+
 Descript     : This is a library that defines common error values for all GnuPG
@@ -4237,8 +4237,8 @@ Descript     : This is a library that defines common error values for all GnuPG
 <summary>libgpg-error</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library for error values used by GnuPG components
+From repo    : updates-testing
+Short desc   : Library for error values used by GnuPG components
 URL          : https://www.gnupg.org/related_software/libgpg-error/
 License      : LGPLv2+
 Descript     : This is a library that defines common error values for all GnuPG
@@ -4252,8 +4252,8 @@ Descript     : This is a library that defines common error values for all GnuPG
 <summary>libgpg-error-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for the libgpg-error package
+From repo    : updates-testing
+Short desc   : Development files for the libgpg-error package
 URL          : https://www.gnupg.org/related_software/libgpg-error/
 License      : LGPLv2+
 Descript     : This is a library that defines common error values for all GnuPG
@@ -4268,8 +4268,8 @@ Descript     : This is a library that defines common error values for all GnuPG
 <summary>libgphoto2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for accessing digital cameras
+From repo    : anaconda
+Short desc   : Library for accessing digital cameras
 URL          : http://www.gphoto.org/
 License      : GPLv2+ and GPLv2
 Descript     : libgphoto2 is a library that can be used by applications to access
@@ -4284,8 +4284,8 @@ Descript     : libgphoto2 is a library that can be used by applications to acces
 <summary>libgphoto2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library for accessing digital cameras
+From repo    : updates-testing
+Short desc   : Library for accessing digital cameras
 URL          : http://www.gphoto.org/
 License      : GPLv2+ and GPLv2
 Descript     : libgphoto2 is a library that can be used by applications to access
@@ -4300,8 +4300,8 @@ Descript     : libgphoto2 is a library that can be used by applications to acces
 <summary>libgpod</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library to access the contents of an iPod
+From repo    : updates-testing
+Short desc   : Library to access the contents of an iPod
 URL          : http://www.gtkpod.org/libgpod.html
 License      : LGPLv2+
 Descript     : Libgpod is a library to access the contents of an iPod. It supports playlists,
@@ -4314,8 +4314,8 @@ Descript     : Libgpod is a library to access the contents of an iPod. It suppor
 <summary>libgpuarray</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library to manipulate tensors on a GPU
+From repo    : fedora
+Short desc   : Library to manipulate tensors on a GPU
 URL          : http://deeplearning.net/software/libgpuarray/
 License      : ISC and BSD
 Descript     : The goal of this project is to make a common GPU ndarray (n dimensional
@@ -4329,8 +4329,8 @@ Descript     : The goal of this project is to make a common GPU ndarray (n dimen
 <summary>libgrss</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for easy management of RSS/Atom/Pie feeds
+From repo    : anaconda
+Short desc   : Library for easy management of RSS/Atom/Pie feeds
 URL          : https://wiki.gnome.org/Projects/Libgrss
 License      : LGPLv3+
 Descript     : libgrss is a Glib abstaction to handle feeds in RSS, Atom and other formats.
@@ -4342,8 +4342,8 @@ Descript     : libgrss is a Glib abstaction to handle feeds in RSS, Atom and oth
 <summary>libgs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing Ghostcript's core functionality
+From repo    : anaconda
+Short desc   : Library providing Ghostcript's core functionality
 URL          : https://ghostscript.com/
 License      : AGPLv3+
 Descript     : This library provides Ghostscript's core functionality, based on Ghostscript's
@@ -4356,8 +4356,8 @@ Descript     : This library provides Ghostscript's core functionality, based on 
 <summary>libgsf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNOME Structured File library
+From repo    : anaconda
+Short desc   : GNOME Structured File library
 URL          : http://www.gnome.org/projects/libgsf/
 License      : LGPLv2
 Descript     : A library for reading and writing structured files (e.g. MS OLE and Zip)
@@ -4369,8 +4369,8 @@ Descript     : A library for reading and writing structured files (e.g. MS OLE a
 <summary>libgta</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library that implements the Generic Tagged Arrays file format
+From repo    : fedora
+Short desc   : Library that implements the Generic Tagged Arrays file format
 URL          : https://marlam.de/gta/
 License      : LGPLv2+
 Descript     : Libgta is a portable library that implements the GTA (Generic Tagged Arrays)
@@ -4383,8 +4383,8 @@ Descript     : Libgta is a portable library that implements the GTA (Generic Tag
 <summary>libgtop2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : LibGTop library (version 2)
+From repo    : anaconda
+Short desc   : LibGTop library (version 2)
 URL          : http://download.gnome.org/sources/libgtop
 License      : GPLv2+
 Descript     : LibGTop is a library for portably obtaining information about processes,
@@ -4397,8 +4397,8 @@ Descript     : LibGTop is a library for portably obtaining information about pro
 <summary>libgudev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GObject-based wrapper library for libudev
+From repo    : anaconda
+Short desc   : GObject-based wrapper library for libudev
 URL          : https://wiki.gnome.org/Projects/libgudev
 License      : LGPLv2+
 Descript     : This library makes it much simpler to use libudev from programs
@@ -4413,8 +4413,8 @@ Descript     : This library makes it much simpler to use libudev from programs
 <summary>libgudev</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GObject-based wrapper library for libudev
+From repo    : updates-testing
+Short desc   : GObject-based wrapper library for libudev
 URL          : https://wiki.gnome.org/Projects/libgudev
 License      : LGPLv2+
 Descript     : This library makes it much simpler to use libudev from programs
@@ -4430,8 +4430,8 @@ Descript     : This library makes it much simpler to use libudev from programs
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Access and modify virtual machine disk images
+From repo    : updates-testing
+Short desc   : Access and modify virtual machine disk images
 URL          : http://libguestfs.org/
 License      : LGPLv2+
 Descript     : Libguestfs is a library for accessing and modifying virtual machine
@@ -4489,8 +4489,8 @@ Descript     : Libguestfs is a library for accessing and modifying virtual machi
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Development tools and libraries for libguestfs
+From repo    : updates-testing
+Short desc   : Development tools and libraries for libguestfs
 URL          : http://libguestfs.org/
 License      : LGPLv2+
 Descript     : libguestfs-devel contains development tools and libraries
@@ -4504,8 +4504,8 @@ Descript     : libguestfs-devel contains development tools and libraries
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Vala for libguestfs
+From repo    : updates-testing
+Short desc   : Vala for libguestfs
 URL          : http://libguestfs.org/
 License      : LGPLv2+
 Descript     : libguestfs-vala contains GObject bindings for libguestfs.
@@ -4517,8 +4517,8 @@ Descript     : libguestfs-vala contains GObject bindings for libguestfs.
 <summary>libgusb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GLib wrapper around libusb1
+From repo    : anaconda
+Short desc   : GLib wrapper around libusb1
 URL          : https://github.com/hughsie/libgusb
 License      : LGPLv2+
 Descript     : GUsb is a GObject wrapper for libusb1 that makes it easy to do
@@ -4532,8 +4532,8 @@ Descript     : GUsb is a GObject wrapper for libusb1 that makes it easy to do
 <summary>libgusb</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GLib wrapper around libusb1
+From repo    : updates-testing
+Short desc   : GLib wrapper around libusb1
 URL          : https://github.com/hughsie/libgusb
 License      : LGPLv2+
 Descript     : GUsb is a GObject wrapper for libusb1 that makes it easy to do
@@ -4547,8 +4547,8 @@ Descript     : GUsb is a GObject wrapper for libusb1 that makes it easy to do
 <summary>libgweather</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library for weather information
+From repo    : updates-testing
+Short desc   : A library for weather information
 URL          : https://wiki.gnome.org/Projects/LibGWeather
 License      : GPLv2+
 Descript     : libgweather is a library to access weather information from online
@@ -4561,8 +4561,8 @@ Descript     : libgweather is a library to access weather information from onlin
 <summary>libgweather</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for weather information
+From repo    : anaconda
+Short desc   : A library for weather information
 URL          : https://wiki.gnome.org/Projects/LibGWeather
 License      : GPLv2+
 Descript     : libgweather is a library to access weather information from online
@@ -4575,8 +4575,8 @@ Descript     : libgweather is a library to access weather information from onlin
 <summary>libgxps</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GObject based library for handling and rendering XPS documents
+From repo    : anaconda
+Short desc   : GObject based library for handling and rendering XPS documents
 URL          : https://wiki.gnome.org/Projects/libgxps
 License      : LGPLv2+
 Descript     : libgxps is a GObject based library for handling and rendering XPS
@@ -4589,8 +4589,8 @@ Descript     : libgxps is a GObject based library for handling and rendering XPS
 <summary>libgxps</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GObject based library for handling and rendering XPS documents
+From repo    : updates-testing
+Short desc   : GObject based library for handling and rendering XPS documents
 URL          : https://wiki.gnome.org/Projects/libgxps
 License      : LGPLv2+
 Descript     : libgxps is a GObject based library for handling and rendering XPS
@@ -4603,8 +4603,8 @@ Descript     : libgxps is a GObject based library for handling and rendering XPS
 <summary>libhandy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Building blocks for modern adaptive GNOME apps
+From repo    : updates-testing
+Short desc   : Building blocks for modern adaptive GNOME apps
 URL          : https://gitlab.gnome.org/GNOME/libhandy
 License      : LGPLv2+
 Descript     : libhandy provides GTK+ widgets and GObjects to ease developing
@@ -4617,8 +4617,8 @@ Descript     : libhandy provides GTK+ widgets and GObjects to ease developing
 <summary>libhangul</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Hangul input library
+From repo    : anaconda
+Short desc   : Hangul input library
 URL          : https://github.com/libhangul/libhangul
 License      : LGPLv2+
 Descript     : libhangul provides common features for Hangul input method programs.
@@ -4630,8 +4630,8 @@ Descript     : libhangul provides common features for Hangul input method progra
 <summary>libharu</summary>
 
 ```
-From repo     : fedora
-Short desc    : C library for generating PDF files
+From repo    : fedora
+Short desc   : C library for generating PDF files
 URL          : http://libharu.org
 License      : zlib with acknowledgement
 Descript     : libHaru is a library for generating PDF files.
@@ -4644,8 +4644,8 @@ Descript     : libHaru is a library for generating PDF files.
 <summary>libheif</summary>
 
 ```
-From repo     : rpmfusion-free-updates-testing
-Short desc    : HEIF file format decoder and encoder
+From repo    : rpmfusion-free-updates-testing
+Short desc   : HEIF file format decoder and encoder
 URL          : https://github.com/strukturag/libheif
 License      : LGPLv3+ and MIT
 Descript     : HEIF is a image format using HEVC image coding for the best compression ratios.
@@ -4659,8 +4659,8 @@ Descript     : HEIF is a image format using HEVC image coding for the best compr
 <summary>libibverbs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library and drivers for direct userspace use of RDMA (InfiniBand/iWARP/RoCE) hardware
+From repo    : anaconda
+Short desc   : A library and drivers for direct userspace use of RDMA (InfiniBand/iWARP/RoCE) hardware
 URL          : https://github.com/linux-rdma/rdma-core
 License      : GPLv2 or BSD
 Descript     : libibverbs is a library that allows userspace processes to use RDMA
@@ -4693,8 +4693,8 @@ Descript     : libibverbs is a library that allows userspace processes to use RD
 <summary>libibverbs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library and drivers for direct userspace use of RDMA (InfiniBand/iWARP/RoCE) hardware
+From repo    : updates-testing
+Short desc   : A library and drivers for direct userspace use of RDMA (InfiniBand/iWARP/RoCE) hardware
 URL          : https://github.com/linux-rdma/rdma-core
 License      : GPLv2 or BSD
 Descript     : libibverbs is a library that allows userspace processes to use RDMA
@@ -4727,8 +4727,8 @@ Descript     : libibverbs is a library that allows userspace processes to use RD
 <summary>libical</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Reference implementation of the iCalendar data type and serialization format
+From repo    : anaconda
+Short desc   : Reference implementation of the iCalendar data type and serialization format
 URL          : https://libical.github.io/libical/
 License      : LGPLv2 or MPLv2.0
 Descript     : Reference implementation of the iCalendar data type and serialization format
@@ -4741,8 +4741,8 @@ Descript     : Reference implementation of the iCalendar data type and serializa
 <summary>libical-glib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GObject wrapper for libical library
+From repo    : anaconda
+Short desc   : GObject wrapper for libical library
 URL          : https://libical.github.io/libical/
 License      : LGPLv2 or MPLv2.0
 Descript     : This package provides a GObject wrapper for libical library with support
@@ -4755,8 +4755,8 @@ Descript     : This package provides a GObject wrapper for libical library with 
 <summary>libicu</summary>
 
 ```
-From repo     : anaconda
-Short desc    : International Components for Unicode - libraries
+From repo    : anaconda
+Short desc   : International Components for Unicode - libraries
 URL          : http://site.icu-project.org/
 License      : MIT and UCD and Public Domain
 Descript     : The International Components for Unicode (ICU) libraries provide
@@ -4777,8 +4777,8 @@ Descript     : The International Components for Unicode (ICU) libraries provide
 <summary>libicu</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : International Components for Unicode - libraries
+From repo    : updates-testing
+Short desc   : International Components for Unicode - libraries
 URL          : http://site.icu-project.org/
 License      : MIT and UCD and Public Domain
 Descript     : The International Components for Unicode (ICU) libraries provide
@@ -4799,8 +4799,8 @@ Descript     : The International Components for Unicode (ICU) libraries provide
 <summary>libicu-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for International Components for Unicode
+From repo    : updates-testing
+Short desc   : Development files for International Components for Unicode
 URL          : http://site.icu-project.org/
 License      : MIT and UCD and Public Domain
 Descript     : Includes and definitions for developing with icu.
@@ -4812,8 +4812,8 @@ Descript     : Includes and definitions for developing with icu.
 <summary>libid3tag</summary>
 
 ```
-From repo     : fedora
-Short desc    : ID3 tag manipulation library
+From repo    : fedora
+Short desc   : ID3 tag manipulation library
 URL          : http://www.underbit.com/products/mad/
 License      : GPLv2+
 Descript     : libid3tag is a library for reading and (eventually) writing ID3 tags,
@@ -4823,11 +4823,27 @@ Descript     : libid3tag is a library for reading and (eventually) writing ID3 t
 </details>
 
 <details>
+<summary>libidn</summary>
+
+```
+From repo    : fedora
+Short desc   : Internationalized Domain Name support library
+URL          : http://www.gnu.org/software/libidn/
+License      : LGPLv2+ and GPLv3+ and GFDL
+Descript     : GNU Libidn is an implementation of the Stringprep, Punycode and
+             : IDNA specifications defined by the IETF Internationalized Domain
+             : Names (IDN) working group, used for internationalized domain
+             : names.
+```
+
+</details>
+
+<details>
 <summary>libidn2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to support IDNA2008 internationalized domain names
+From repo    : anaconda
+Short desc   : Library to support IDNA2008 internationalized domain names
 URL          : https://www.gnu.org/software/libidn/#libidn2
 License      : (GPLv2+ or LGPLv3+) and GPLv3+
 Descript     : Libidn2 is an implementation of the IDNA2008 specifications in RFC
@@ -4841,8 +4857,8 @@ Descript     : Libidn2 is an implementation of the IDNA2008 specifications in RF
 <summary>libiec61883</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Streaming library for IEEE1394
+From repo    : anaconda
+Short desc   : Streaming library for IEEE1394
 URL          : http://ieee1394.wiki.kernel.org/index.php/Libraries#libiec61883
 License      : LGPLv2+
 Descript     : The libiec61883 library provides an higher level API for streaming DV,
@@ -4858,8 +4874,8 @@ Descript     : The libiec61883 library provides an higher level API for streamin
 <summary>libieee1284</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for interfacing IEEE 1284-compatible devices
+From repo    : anaconda
+Short desc   : A library for interfacing IEEE 1284-compatible devices
 URL          : http://cyberelk.net/tim/libieee1284/
 License      : GPLv2+
 Descript     : The libieee1284 library is for communicating with parallel port devices.
@@ -4871,8 +4887,8 @@ Descript     : The libieee1284 library is for communicating with parallel port d
 <summary>libieee1284-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Files for developing applications that use libieee1284
+From repo    : fedora
+Short desc   : Files for developing applications that use libieee1284
 URL          : http://cyberelk.net/tim/libieee1284/
 License      : GPLv2+
 Descript     : The header files, static library, libtool library and man pages for
@@ -4885,8 +4901,8 @@ Descript     : The header files, static library, libtool library and man pages f
 <summary>libijs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : IJS Raster Image Transport Protocol Library
+From repo    : anaconda
+Short desc   : IJS Raster Image Transport Protocol Library
 URL          : https://ghostscript.com/
 License      : AGPLv3+
 Descript     : The IJS (InkJet Server) Raster Image Transport Protocol is a library, which
@@ -4902,8 +4918,8 @@ Descript     : The IJS (InkJet Server) Raster Image Transport Protocol is a libr
 <summary>libimagequant</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Palette quantization library
+From repo    : anaconda
+Short desc   : Palette quantization library
 URL          : https://github.com/ImageOptim/libimagequant
 License      : GPLv3+ and MIT
 Descript     : Small, portable C library for high-quality conversion of RGBA images to 8-bit
@@ -4916,8 +4932,8 @@ Descript     : Small, portable C library for high-quality conversion of RGBA ima
 <summary>libimagequant</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Palette quantization library
+From repo    : updates-testing
+Short desc   : Palette quantization library
 URL          : https://github.com/ImageOptim/libimagequant
 License      : GPLv3+ and MIT
 Descript     : Small, portable C library for high-quality conversion of RGBA images to 8-bit
@@ -4930,8 +4946,8 @@ Descript     : Small, portable C library for high-quality conversion of RGBA ima
 <summary>libimagequant-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for libimagequant
+From repo    : updates-testing
+Short desc   : Development files for libimagequant
 URL          : https://github.com/ImageOptim/libimagequant
 License      : GPLv3+ and MIT
 Descript     : The libimagequant-devel package contains libraries and header files for
@@ -4944,8 +4960,8 @@ Descript     : The libimagequant-devel package contains libraries and header fil
 <summary>libimobiledevice</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for connecting to mobile devices
+From repo    : anaconda
+Short desc   : Library for connecting to mobile devices
 URL          : http://www.libimobiledevice.org/
 License      : LGPLv2+
 Descript     : libimobiledevice is a library for connecting to mobile devices including phones
@@ -4958,8 +4974,8 @@ Descript     : libimobiledevice is a library for connecting to mobile devices in
 <summary>libindicator</summary>
 
 ```
-From repo     : fedora
-Short desc    : Shared functions for Ayatana indicators
+From repo    : fedora
+Short desc   : Shared functions for Ayatana indicators
 URL          : https://launchpad.net/libindicator
 License      : GPLv3
 Descript     : A set of symbols and convenience functions that all Ayatana indicators are
@@ -4972,8 +4988,8 @@ Descript     : A set of symbols and convenience functions that all Ayatana indic
 <summary>libindicator-gtk3</summary>
 
 ```
-From repo     : fedora
-Short desc    : GTK+3 build of libindicator
+From repo    : fedora
+Short desc   : GTK+3 build of libindicator
 URL          : https://launchpad.net/libindicator
 License      : GPLv3
 Descript     : A set of symbols and convenience functions that all Ayatana indicators
@@ -4987,8 +5003,8 @@ Descript     : A set of symbols and convenience functions that all Ayatana indic
 <summary>libini_config</summary>
 
 ```
-From repo     : anaconda
-Short desc    : INI file parser for C
+From repo    : anaconda
+Short desc   : INI file parser for C
 URL          : https://pagure.io/SSSD/ding-libs
 License      : LGPLv3+
 Descript     : Library to process config files in INI format into a libcollection data
@@ -5001,8 +5017,8 @@ Descript     : Library to process config files in INI format into a libcollectio
 <summary>libinput</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Input device library
+From repo    : anaconda
+Short desc   : Input device library
 URL          : http://www.freedesktop.org/wiki/Software/libinput/
 License      : MIT
 Descript     : libinput is a library that handles input devices for display servers and other
@@ -5019,8 +5035,8 @@ Descript     : libinput is a library that handles input devices for display serv
 <summary>libinput</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Input device library
+From repo    : updates-testing
+Short desc   : Input device library
 URL          : http://www.freedesktop.org/wiki/Software/libinput/
 License      : MIT
 Descript     : libinput is a library that handles input devices for display servers and other
@@ -5037,8 +5053,8 @@ Descript     : libinput is a library that handles input devices for display serv
 <summary>libinsane</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cross-platform access to image scanners
+From repo    : fedora
+Short desc   : Cross-platform access to image scanners
 URL          : https://doc.openpaper.work/libinsane/latest/
 License      : LGPLv3+
 Descript     : Libinsane is the library to access scanners on both Linux and Windows. It's
@@ -5052,8 +5068,8 @@ Descript     : Libinsane is the library to access scanners on both Linux and Win
 <summary>libinsane-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libinsane
+From repo    : fedora
+Short desc   : Development files for libinsane
 URL          : https://doc.openpaper.work/libinsane/latest/
 License      : LGPLv3+
 Descript     : Development libraries and header files for libinsane.
@@ -5065,8 +5081,8 @@ Descript     : Development libraries and header files for libinsane.
 <summary>libinsane-gobject</summary>
 
 ```
-From repo     : fedora
-Short desc    : GObject access to image scanners
+From repo    : fedora
+Short desc   : GObject access to image scanners
 URL          : https://doc.openpaper.work/libinsane/latest/
 License      : LGPLv3+
 Descript     : Libinsane is the library to access scanners on both Linux and Windows. It's
@@ -5082,8 +5098,8 @@ Descript     : Libinsane is the library to access scanners on both Linux and Win
 <summary>libinsane-gobject-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libinsane-gobject
+From repo    : fedora
+Short desc   : Development files for libinsane-gobject
 URL          : https://doc.openpaper.work/libinsane/latest/
 License      : LGPLv3+
 Descript     : Development libraries and header files for libinsane-gobject.
@@ -5095,8 +5111,8 @@ Descript     : Development libraries and header files for libinsane-gobject.
 <summary>libinsane-vala</summary>
 
 ```
-From repo     : fedora
-Short desc    : Vala bindings for libinsane
+From repo    : fedora
+Short desc   : Vala bindings for libinsane
 URL          : https://doc.openpaper.work/libinsane/latest/
 License      : LGPLv3+
 Descript     : Vala bindings for libinsane.
@@ -5108,8 +5124,8 @@ Descript     : Vala bindings for libinsane.
 <summary>libipa_hbac</summary>
 
 ```
-From repo     : anaconda
-Short desc    : FreeIPA HBAC Evaluator library
+From repo    : anaconda
+Short desc   : FreeIPA HBAC Evaluator library
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Utility library to validate FreeIPA HBAC rules for authorization requests
@@ -5121,8 +5137,8 @@ Descript     : Utility library to validate FreeIPA HBAC rules for authorization 
 <summary>libipa_hbac</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : FreeIPA HBAC Evaluator library
+From repo    : updates-testing
+Short desc   : FreeIPA HBAC Evaluator library
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Utility library to validate FreeIPA HBAC rules for authorization requests
@@ -5134,8 +5150,8 @@ Descript     : Utility library to validate FreeIPA HBAC rules for authorization 
 <summary>libipt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Intel Processor Trace Decoder Library
+From repo    : anaconda
+Short desc   : Intel Processor Trace Decoder Library
 URL          : https://github.com/intel/libipt
 License      : BSD
 Descript     : The Intel Processor Trace (Intel PT) Decoder Library is Intel's reference
@@ -5149,8 +5165,8 @@ Descript     : The Intel Processor Trace (Intel PT) Decoder Library is Intel's r
 <summary>libipt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Intel Processor Trace Decoder Library
+From repo    : updates-testing
+Short desc   : Intel Processor Trace Decoder Library
 URL          : https://github.com/intel/libipt
 License      : BSD
 Descript     : The Intel Processor Trace (Intel PT) Decoder Library is Intel's reference
@@ -5164,8 +5180,8 @@ Descript     : The Intel Processor Trace (Intel PT) Decoder Library is Intel's r
 <summary>libiptcdata</summary>
 
 ```
-From repo     : anaconda
-Short desc    : IPTC tag library
+From repo    : anaconda
+Short desc   : IPTC tag library
 URL          : https://github.com/ianw/libiptcdata
 License      : LGPLv2+
 Descript     : libiptcdata is a library for parsing, editing, and saving IPTC data
@@ -5181,8 +5197,8 @@ Descript     : libiptcdata is a library for parsing, editing, and saving IPTC da
 <summary>libiscsi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : iSCSI client library
+From repo    : anaconda
+Short desc   : iSCSI client library
 URL          : https://github.com/sahlberg/libiscsi
 License      : LGPLv2+
 Descript     : libiscsi is a library for attaching to iSCSI resources across
@@ -5195,8 +5211,8 @@ Descript     : libiscsi is a library for attaching to iSCSI resources across
 <summary>libjaylink</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for SEGGER J-Link and compatible devices
+From repo    : anaconda
+Short desc   : Library for SEGGER J-Link and compatible devices
 URL          : https://gitlab.zapb.de/libjaylink/libjaylink
 License      : GPLv2+
 Descript     : libjaylink is a shared library written in C to access SEGGER J-Link
@@ -5209,8 +5225,8 @@ Descript     : libjaylink is a shared library written in C to access SEGGER J-Li
 <summary>libjcat</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for reading Jcat files
+From repo    : anaconda
+Short desc   : Library for reading Jcat files
 URL          : https://github.com/hughsie/libjcat
 License      : LGPLv2+
 Descript     : This library allows reading and writing gzip-compressed JSON catalog files,
@@ -5226,8 +5242,8 @@ Descript     : This library allows reading and writing gzip-compressed JSON cata
 <summary>libjpeg-turbo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A MMX/SSE2/SIMD accelerated library for manipulating JPEG image files
+From repo    : anaconda
+Short desc   : A MMX/SSE2/SIMD accelerated library for manipulating JPEG image files
 URL          : http://sourceforge.net/projects/libjpeg-turbo
 License      : IJG
 Descript     : The libjpeg-turbo package contains a library of functions for manipulating JPEG
@@ -5240,8 +5256,8 @@ Descript     : The libjpeg-turbo package contains a library of functions for man
 <summary>libjpeg-turbo</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A MMX/SSE2/SIMD accelerated library for manipulating JPEG image files
+From repo    : updates-testing
+Short desc   : A MMX/SSE2/SIMD accelerated library for manipulating JPEG image files
 URL          : http://sourceforge.net/projects/libjpeg-turbo
 License      : IJG
 Descript     : The libjpeg-turbo package contains a library of functions for manipulating JPEG
@@ -5254,8 +5270,8 @@ Descript     : The libjpeg-turbo package contains a library of functions for man
 <summary>libjpeg-turbo-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Headers for the libjpeg-turbo library
+From repo    : updates-testing
+Short desc   : Headers for the libjpeg-turbo library
 URL          : http://sourceforge.net/projects/libjpeg-turbo
 License      : IJG
 Descript     : This package contains header files necessary for developing programs which will
@@ -5268,8 +5284,8 @@ Descript     : This package contains header files necessary for developing progr
 <summary>libkadm5</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Kerberos 5 Administrative libraries
+From repo    : updates-testing
+Short desc   : Kerberos 5 Administrative libraries
 URL          : https://web.mit.edu/kerberos/www/
 License      : MIT
 Descript     : Kerberos is a network authentication system. The libkadm5 package
@@ -5283,8 +5299,8 @@ Descript     : Kerberos is a network authentication system. The libkadm5 package
 <summary>libkcapi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : User space interface to the Linux Kernel Crypto API
+From repo    : anaconda
+Short desc   : User space interface to the Linux Kernel Crypto API
 URL          : http://www.chronox.de/libkcapi.html
 License      : BSD or GPLv2
 Descript     : libkcapi allows user-space to access the Linux kernel crypto API.
@@ -5307,8 +5323,8 @@ Descript     : libkcapi allows user-space to access the Linux kernel crypto API.
 <summary>libkcapi</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : User space interface to the Linux Kernel Crypto API
+From repo    : updates-testing
+Short desc   : User space interface to the Linux Kernel Crypto API
 URL          : https://www.chronox.de/libkcapi.html
 License      : BSD or GPLv2
 Descript     : libkcapi allows user-space to access the Linux kernel crypto API.
@@ -5331,8 +5347,8 @@ Descript     : libkcapi allows user-space to access the Linux kernel crypto API.
 <summary>libkcapi-hmaccalc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Drop-in replacements for hmaccalc provided by the libkcapi package
+From repo    : anaconda
+Short desc   : Drop-in replacements for hmaccalc provided by the libkcapi package
 URL          : http://www.chronox.de/libkcapi.html
 License      : BSD or GPLv2
 Descript     : Provides drop-in replacements for sha*hmac tools (from package
@@ -5345,8 +5361,8 @@ Descript     : Provides drop-in replacements for sha*hmac tools (from package
 <summary>libkcapi-hmaccalc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Drop-in replacements for hmaccalc provided by the libkcapi package
+From repo    : updates-testing
+Short desc   : Drop-in replacements for hmaccalc provided by the libkcapi package
 URL          : https://www.chronox.de/libkcapi.html
 License      : BSD or GPLv2
 Descript     : Provides drop-in replacements for sha*hmac tools (from package
@@ -5359,8 +5375,8 @@ Descript     : Provides drop-in replacements for sha*hmac tools (from package
 <summary>libkml</summary>
 
 ```
-From repo     : fedora
-Short desc    : Reference implementation of OGC KML 2.2
+From repo    : fedora
+Short desc   : Reference implementation of OGC KML 2.2
 URL          : https://github.com/libkml/libkml
 License      : BSD
 Descript     : Reference implementation of OGC KML 2.2.
@@ -5374,8 +5390,8 @@ Descript     : Reference implementation of OGC KML 2.2.
 <summary>libksba</summary>
 
 ```
-From repo     : anaconda
-Short desc    : CMS and X.509 library
+From repo    : anaconda
+Short desc   : CMS and X.509 library
 URL          : https://www.gnupg.org/
 License      : (LGPLv3+ or GPLv2+) and GPLv3+
 Descript     : KSBA (pronounced Kasbah) is a library to make X.509 certificates as
@@ -5389,8 +5405,8 @@ Descript     : KSBA (pronounced Kasbah) is a library to make X.509 certificates 
 <summary>liblangtag</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An interface library to access tags for identifying languages
+From repo    : anaconda
+Short desc   : An interface library to access tags for identifying languages
 URL          : http://tagoh.bitbucket.org/liblangtag/
 License      : LGPLv3+ or MPLv2.0
 Descript     : liblangtag is an interface library to access tags for identifying
@@ -5418,8 +5434,8 @@ Descript     : liblangtag is an interface library to access tags for identifying
 <summary>liblangtag-data</summary>
 
 ```
-From repo     : anaconda
-Short desc    : liblangtag data files
+From repo    : anaconda
+Short desc   : liblangtag data files
 URL          : http://tagoh.bitbucket.org/liblangtag/
 License      : UCD
 Descript     : The liblangtag-data package contains data files for liblangtag.
@@ -5431,8 +5447,8 @@ Descript     : The liblangtag-data package contains data files for liblangtag.
 <summary>libldac</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A lossy audio codec for Bluetooth connections
+From repo    : anaconda
+Short desc   : A lossy audio codec for Bluetooth connections
 URL          : https://github.com/EHfive/ldacBT
 License      : ASL 2.0
 Descript     : LDAC is an audio coding technology developed by Sony.
@@ -5446,8 +5462,8 @@ Descript     : LDAC is an audio coding technology developed by Sony.
 <summary>libldb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A schema-less, ldap like, API and database
+From repo    : anaconda
+Short desc   : A schema-less, ldap like, API and database
 URL          : http://ldb.samba.org/
 License      : LGPLv3+
 Descript     : An extensible library that implements an LDAP like API to access remote LDAP
@@ -5460,8 +5476,8 @@ Descript     : An extensible library that implements an LDAP like API to access 
 <summary>libldb</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A schema-less, ldap like, API and database
+From repo    : updates-testing
+Short desc   : A schema-less, ldap like, API and database
 URL          : http://ldb.samba.org/
 License      : LGPLv3+
 Descript     : An extensible library that implements an LDAP like API to access remote LDAP
@@ -5474,8 +5490,8 @@ Descript     : An extensible library that implements an LDAP like API to access 
 <summary>liblockfile</summary>
 
 ```
-From repo     : fedora
-Short desc    : This implements a number of functions found in -lmail on SysV systems
+From repo    : fedora
+Short desc   : This implements a number of functions found in -lmail on SysV systems
 URL          : http://packages.qa.debian.org/libl/liblockfile.html
 License      : GPLv2+ and LGPLv2+
 Descript     : This library implements a number of functions found in -lmail on SysV
@@ -5492,8 +5508,8 @@ Descript     : This library implements a number of functions found in -lmail on 
 <summary>liblouis</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Braille translation and back-translation library
+From repo    : anaconda
+Short desc   : Braille translation and back-translation library
 URL          : http://liblouis.org
 License      : LGPLv3+
 Descript     : Liblouis is an open-source braille translator and back-translator named in
@@ -5517,8 +5533,8 @@ Descript     : Liblouis is an open-source braille translator and back-translator
 <summary>liblqr-1</summary>
 
 ```
-From repo     : fedora
-Short desc    : LiquidRescale library
+From repo    : fedora
+Short desc   : LiquidRescale library
 URL          : http://liquidrescale.wikidot.com/
 License      : GPLv3
 Descript     : The LiquidRescale (lqr) library provides a C/C++ API for
@@ -5532,8 +5548,8 @@ Descript     : The LiquidRescale (lqr) library provides a C/C++ API for
 <summary>liblrdf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for manipulating RDF files describing LADSPA plugins
+From repo    : anaconda
+Short desc   : Library for manipulating RDF files describing LADSPA plugins
 URL          : https://github.com/swh/LRDF
 License      : GPLv2+
 Descript     : liblrdf is a library to make it easy to manipulate RDF files describing
@@ -5546,8 +5562,8 @@ Descript     : liblrdf is a library to make it easy to manipulate RDF files desc
 <summary>libmad</summary>
 
 ```
-From repo     : fedora
-Short desc    : MPEG audio decoder library
+From repo    : fedora
+Short desc   : MPEG audio decoder library
 URL          : http://www.underbit.com/products/mad/
 License      : GPLv2+
 Descript     : MAD is a high-quality MPEG audio decoder. It currently supports MPEG-1
@@ -5562,8 +5578,8 @@ Descript     : MAD is a high-quality MPEG audio decoder. It currently supports M
 <summary>libmarkdown</summary>
 
 ```
-From repo     : fedora
-Short desc    : A fast implementation of the Markdown language in C
+From repo    : fedora
+Short desc   : A fast implementation of the Markdown language in C
 URL          : http://www.pell.portland.or.us/~orc/Code/discount
 License      : BSD
 Descript     : libmarkdown is the library portion of discount, a fast Markdown language
@@ -5576,8 +5592,8 @@ Descript     : libmarkdown is the library portion of discount, a fast Markdown l
 <summary>libmaxminddb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C library for the MaxMind DB file format
+From repo    : anaconda
+Short desc   : C library for the MaxMind DB file format
 URL          : https://maxmind.github.io/libmaxminddb
 License      : ASL 2.0 and BSD
 Descript     : The package contains libmaxminddb library.
@@ -5589,8 +5605,8 @@ Descript     : The package contains libmaxminddb library.
 <summary>libmaxminddb</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C library for the MaxMind DB file format
+From repo    : updates-testing
+Short desc   : C library for the MaxMind DB file format
 URL          : https://maxmind.github.io/libmaxminddb
 License      : ASL 2.0 and BSD
 Descript     : The package contains libmaxminddb library.
@@ -5602,8 +5618,8 @@ Descript     : The package contains libmaxminddb library.
 <summary>libmaxminddb-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development header files for libmaxminddb
+From repo    : updates-testing
+Short desc   : Development header files for libmaxminddb
 URL          : https://maxmind.github.io/libmaxminddb
 License      : ASL 2.0 and BSD
 Descript     : The package contains development header files for the libmaxminddb library
@@ -5616,8 +5632,8 @@ Descript     : The package contains development header files for the libmaxmindd
 <summary>libmbim</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Support library for the Mobile Broadband Interface Model protocol
+From repo    : anaconda
+Short desc   : Support library for the Mobile Broadband Interface Model protocol
 URL          : http://freedesktop.org/software/libmbim
 License      : LGPLv2+
 Descript     : This package contains the libraries that make it easier to use MBIM
@@ -5630,8 +5646,8 @@ Descript     : This package contains the libraries that make it easier to use MB
 <summary>libmbim-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities to use the MBIM protocol from the command line
+From repo    : anaconda
+Short desc   : Utilities to use the MBIM protocol from the command line
 URL          : http://freedesktop.org/software/libmbim
 License      : GPLv2+
 Descript     : This package contains the utilities that make it easier to use MBIM
@@ -5644,8 +5660,8 @@ Descript     : This package contains the utilities that make it easier to use MB
 <summary>libmcpp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Alternative C/C++ preprocessor (library build)
+From repo    : anaconda
+Short desc   : Alternative C/C++ preprocessor (library build)
 URL          : http://mcpp.sourceforge.net/
 License      : BSD
 Descript     : This package provides a library build of mcpp.
@@ -5657,8 +5673,8 @@ Descript     : This package provides a library build of mcpp.
 <summary>libmediaart</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for managing media art caches
+From repo    : anaconda
+Short desc   : Library for managing media art caches
 URL          : https://gitlab.gnome.org/GNOME/libmediaart
 License      : LGPLv2+
 Descript     : Library tasked with managing, extracting and handling media art caches.
@@ -5670,8 +5686,8 @@ Descript     : Library tasked with managing, extracting and handling media art c
 <summary>libmemcached-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : libmemcached libraries
+From repo    : fedora
+Short desc   : libmemcached libraries
 URL          : http://libmemcached.org/
 License      : BSD
 Descript     : This package contains the libmemcached libraries version 1.0.18.
@@ -5683,8 +5699,8 @@ Descript     : This package contains the libmemcached libraries version 1.0.18.
 <summary>libmetalink</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Metalink library written in C
+From repo    : anaconda
+Short desc   : Metalink library written in C
 URL          : https://launchpad.net/libmetalink
 License      : MIT
 Descript     : libmetalink is a Metalink C library. It adds Metalink functionality such as
@@ -5697,8 +5713,8 @@ Descript     : libmetalink is a Metalink C library. It adds Metalink functionali
 <summary>libmicrodns</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Minimal mDNS resolver library
+From repo    : anaconda
+Short desc   : Minimal mDNS resolver library
 URL          : https://github.com/videolabs/libmicrodns
 License      : LGPLv2+
 Descript     : Minimal mDNS resolver (and announcer) library.
@@ -5710,8 +5726,8 @@ Descript     : Minimal mDNS resolver (and announcer) library.
 <summary>libmikmod</summary>
 
 ```
-From repo     : fedora
-Short desc    : A MOD music file player library
+From repo    : fedora
+Short desc   : A MOD music file player library
 URL          : http://mikmod.sourceforge.net/
 License      : GPLv2 and LGPLv2+
 Descript     : libmikmod is a library used by the mikmod MOD music file player for
@@ -5725,8 +5741,8 @@ Descript     : libmikmod is a library used by the mikmod MOD music file player f
 <summary>libmms</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : Library for Microsoft Media Server (MMS) streaming protocol
+From repo    : rpmfusion-free
+Short desc   : Library for Microsoft Media Server (MMS) streaming protocol
 URL          : http://www.sf.net/projects/libmms
 License      : LGPLv2+
 Descript     : MMS is a proprietary streaming protocol used in Microsoft server products,
@@ -5742,8 +5758,8 @@ Descript     : MMS is a proprietary streaming protocol used in Microsoft server 
 <summary>libmng</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for Multiple-image Network Graphics support
+From repo    : fedora
+Short desc   : Library for Multiple-image Network Graphics support
 URL          : http://www.libmng.com/
 License      : zlib
 Descript     : LibMNG is a library for accessing graphics in MNG (Multi-image Network
@@ -5758,8 +5774,8 @@ Descript     : LibMNG is a library for accessing graphics in MNG (Multi-image Ne
 <summary>libmnl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A minimalistic Netlink library
+From repo    : anaconda
+Short desc   : A minimalistic Netlink library
 URL          : http://netfilter.org/projects/libmnl
 License      : LGPLv2+
 Descript     : libmnl is a minimalistic user-space library oriented to Netlink developers.
@@ -5775,8 +5791,8 @@ Descript     : libmnl is a minimalistic user-space library oriented to Netlink d
 <summary>libmnl-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libmnl
+From repo    : fedora
+Short desc   : Development files for libmnl
 URL          : http://netfilter.org/projects/libmnl
 License      : LGPLv2+
 Descript     : The libmnl-devel package contains libraries and header files for
@@ -5790,8 +5806,8 @@ Descript     : The libmnl-devel package contains libraries and header files for
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Modplug mod music file format library
+From repo    : fedora
+Short desc   : Modplug mod music file format library
 URL          : http://modplug-xmms.sourceforge.net/
 License      : Public Domain
 Descript     : Modplug mod music file format library.
@@ -5803,8 +5819,8 @@ Descript     : Modplug mod music file format library.
 <summary>libmodulemd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Module metadata manipulation library
+From repo    : anaconda
+Short desc   : Module metadata manipulation library
 URL          : https://github.com/fedora-modularity/libmodulemd
 License      : MIT
 Descript     : C Library for manipulating module metadata files.
@@ -5818,8 +5834,8 @@ Descript     : C Library for manipulating module metadata files.
 <summary>libmount</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Device mounting library
+From repo    : anaconda
+Short desc   : Device mounting library
 URL          : http://en.wikipedia.org/wiki/Util-linux
 License      : LGPLv2+
 Descript     : This is the device mounting library, part of util-linux.
@@ -5831,8 +5847,8 @@ Descript     : This is the device mounting library, part of util-linux.
 <summary>libmount-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Device mounting library
+From repo    : fedora
+Short desc   : Device mounting library
 URL          : http://en.wikipedia.org/wiki/Util-linux
 License      : LGPLv2+
 Descript     : This is the device mounting development library and headers,
@@ -5845,8 +5861,8 @@ Descript     : This is the device mounting development library and headers,
 <summary>libmp3splt</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : Libraries for the mp3Splt project
+From repo    : rpmfusion-free
+Short desc   : Libraries for the mp3Splt project
 URL          : http://mp3splt.sourceforge.net/
 License      : GPLv2
 Descript     : The mp3Splt project provides utilities to split mp3 and ogg files,
@@ -5871,8 +5887,8 @@ Descript     : The mp3Splt project provides utilities to split mp3 and ogg files
 <summary>libmp4v2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for working with files using the mp4 container format
+From repo    : fedora
+Short desc   : Library for working with files using the mp4 container format
 URL          : http://code.google.com/p/mp4v2
 License      : MPLv1.1
 Descript     : The libmp4v2 library provides an abstraction layer for working with files
@@ -5886,8 +5902,8 @@ Descript     : The libmp4v2 library provides an abstraction layer for working wi
 <summary>libmpc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C library for multiple precision complex arithmetic
+From repo    : anaconda
+Short desc   : C library for multiple precision complex arithmetic
 URL          : http://www.multiprecision.org/mpc/
 License      : LGPLv3+
 Descript     : MPC is a C library for the arithmetic of complex numbers with
@@ -5901,8 +5917,8 @@ Descript     : MPC is a C library for the arithmetic of complex numbers with
 <summary>libmpcdec</summary>
 
 ```
-From repo     : fedora
-Short desc    : Musepack audio decoding library
+From repo    : fedora
+Short desc   : Musepack audio decoding library
 URL          : http://www.musepack.net/
 License      : BSD
 Descript     : Musepack is an audio compression format with a strong emphasis on high quality.
@@ -5920,8 +5936,8 @@ Descript     : Musepack is an audio compression format with a strong emphasis on
 <summary>libmpeg2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : MPEG-2 decoder libraries
+From repo    : anaconda
+Short desc   : MPEG-2 decoder libraries
 URL          : http://libmpeg2.sourceforge.net
 License      : GPLv2+
 Descript     : libmpeg2 is a free library for decoding mpeg-2 and mpeg-1 video
@@ -5934,8 +5950,8 @@ Descript     : libmpeg2 is a free library for decoding mpeg-2 and mpeg-1 video
 <summary>libmpeg3</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : Decoder of various derivatives of MPEG standards
+From repo    : rpmfusion-free
+Short desc   : Decoder of various derivatives of MPEG standards
 URL          : http://heroinewarrior.com/libmpeg3.php3
 License      : GPLv2+
 Descript     : LibMPEG3 decodes the many many derivatives of MPEG standards into
@@ -5956,8 +5972,8 @@ Descript     : LibMPEG3 decodes the many many derivatives of MPEG standards into
 <summary>libmpeg3-utils</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : Utilities from libmpeg3
+From repo    : rpmfusion-free
+Short desc   : Utilities from libmpeg3
 URL          : http://heroinewarrior.com/libmpeg3.php3
 License      : GPLv2+
 Descript     : LibMPEG3 decodes the many many derivatives of MPEG standards into
@@ -5972,8 +5988,8 @@ Descript     : LibMPEG3 decodes the many many derivatives of MPEG standards into
 <summary>libmspack</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for CAB and related files compression and decompression
+From repo    : anaconda
+Short desc   : Library for CAB and related files compression and decompression
 URL          : http://www.cabextract.org.uk/libmspack/
 License      : LGPLv2
 Descript     : The purpose of libmspack is to provide both compression and decompression of
@@ -5986,8 +6002,8 @@ Descript     : The purpose of libmspack is to provide both compression and decom
 <summary>libmspub</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of Microsoft Publisher documents
+From repo    : anaconda
+Short desc   : A library for import of Microsoft Publisher documents
 URL          : http://wiki.documentfoundation.org/DLP/Libraries/libmspub
 License      : MPLv2.0
 Descript     : Libmspub is library providing ability to interpret and import Microsoft
@@ -6001,8 +6017,8 @@ Descript     : Libmspub is library providing ability to interpret and import Mic
 <summary>libmtp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Software library for MTP media players
+From repo    : anaconda
+Short desc   : Software library for MTP media players
 URL          : http://libmtp.sourceforge.net/
 License      : LGPLv2+
 Descript     : This package provides a software library for communicating with MTP
@@ -6016,8 +6032,8 @@ Descript     : This package provides a software library for communicating with M
 <summary>libmusicbrainz5</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for accessing MusicBrainz servers
+From repo    : anaconda
+Short desc   : Library for accessing MusicBrainz servers
 URL          : http://www.musicbrainz.org/
 License      : LGPLv2
 Descript     : The MusicBrainz client library allows applications to make metadata
@@ -6031,8 +6047,8 @@ Descript     : The MusicBrainz client library allows applications to make metada
 <summary>libmwaw</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of many old Mac document formats
+From repo    : anaconda
+Short desc   : A library for import of many old Mac document formats
 URL          : http://sourceforge.net/projects/libmwaw/
 License      : LGPLv2+ or MPLv2.0
 Descript     : libmwaw is a library for import of old Mac documents. It supports many
@@ -6049,8 +6065,8 @@ Descript     : libmwaw is a library for import of old Mac documents. It supports
 <summary>libmwaw</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library for import of many old Mac document formats
+From repo    : updates-testing
+Short desc   : A library for import of many old Mac document formats
 URL          : http://sourceforge.net/projects/libmwaw/
 License      : LGPLv2+ or MPLv2.0
 Descript     : libmwaw is a library for import of old Mac documents. It supports many
@@ -6067,8 +6083,8 @@ Descript     : libmwaw is a library for import of old Mac documents. It supports
 <summary>libmypaint</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for making brush strokes
+From repo    : fedora
+Short desc   : Library for making brush strokes
 URL          : https://github.com/mypaint/libmypaint
 License      : ISC
 Descript     : This is a self-contained library containing the MyPaint brush engine.
@@ -6080,8 +6096,8 @@ Descript     : This is a self-contained library containing the MyPaint brush eng
 <summary>libmysofa</summary>
 
 ```
-From repo     : fedora
-Short desc    : C functions for reading HRTFs
+From repo    : fedora
+Short desc   : C functions for reading HRTFs
 URL          : https://github.com/hoene/libmysofa
 License      : BSD
 Descript     : This is a simple set of C functions to read AES SOFA files, if they
@@ -6094,8 +6110,8 @@ Descript     : This is a simple set of C functions to read AES SOFA files, if th
 <summary>libnauty</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for graph automorphism
+From repo    : fedora
+Short desc   : Library for graph automorphism
 URL          : http://pallini.di.uniroma1.it/
 License      : ASL 2.0
 Descript     : Nauty (No AUTomorphisms, Yes?) is a set of procedures for computing
@@ -6109,8 +6125,8 @@ Descript     : Nauty (No AUTomorphisms, Yes?) is a set of procedures for computi
 <summary>libndp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for Neighbor Discovery Protocol
+From repo    : anaconda
+Short desc   : Library for Neighbor Discovery Protocol
 URL          : http://www.libndp.org/
 License      : LGPLv2+
 Descript     : This package contains a library which provides a wrapper
@@ -6124,8 +6140,8 @@ Descript     : This package contains a library which provides a wrapper
 <summary>libnet</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C library for portable packet creation and injection
+From repo    : anaconda
+Short desc   : C library for portable packet creation and injection
 URL          : https://github.com/libnet/libnet
 License      : BSD
 Descript     : Libnet is an API to help with the construction and handling of network
@@ -6142,8 +6158,8 @@ Descript     : Libnet is an API to help with the construction and handling of ne
 <summary>libnet-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libnet library
+From repo    : fedora
+Short desc   : Development files for the libnet library
 URL          : https://github.com/libnet/libnet
 License      : BSD
 Descript     : The libnet-devel package includes header files and libraries necessary
@@ -6158,8 +6174,8 @@ Descript     : The libnet-devel package includes header files and libraries nece
 <summary>libnet-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation files for the libnet library
+From repo    : fedora
+Short desc   : Documentation files for the libnet library
 URL          : https://github.com/libnet/libnet
 License      : BSD
 Descript     : Libnet is an API to help with the construction and handling of network
@@ -6174,8 +6190,8 @@ Descript     : Libnet is an API to help with the construction and handling of ne
 <summary>libnet10</summary>
 
 ```
-From repo     : fedora
-Short desc    : High-level API (toolkit) to construct and inject network packets
+From repo    : fedora
+Short desc   : High-level API (toolkit) to construct and inject network packets
 URL          : http://www.packetfactory.net/libnet/
 License      : BSD
 Descript     : Libnet is a high-level API (toolkit) allowing the application programmer to
@@ -6198,8 +6214,8 @@ Descript     : Libnet is a high-level API (toolkit) allowing the application pro
 <summary>libnet10-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the libnet library
+From repo    : fedora
+Short desc   : Development files for the libnet library
 URL          : http://www.packetfactory.net/libnet/
 License      : BSD
 Descript     : The libnet10-devel package includes header files and libraries necessary for
@@ -6219,8 +6235,8 @@ Descript     : The libnet10-devel package includes header files and libraries ne
 <summary>libnetfilter_acct</summary>
 
 ```
-From repo     : fedora
-Short desc    : A library providing interface to extended accounting infrastructure
+From repo    : fedora
+Short desc   : A library providing interface to extended accounting infrastructure
 URL          : http://www.netfilter.org/projects/libnetfilter_acct/index.html
 License      : LGPLv2+
 Descript     : libnetfilter_acct is the userspace library providing interface to extended
@@ -6235,8 +6251,8 @@ Descript     : libnetfilter_acct is the userspace library providing interface to
 <summary>libnetfilter_acct-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libnetfilter_acct
+From repo    : fedora
+Short desc   : Development files for libnetfilter_acct
 URL          : http://www.netfilter.org/projects/libnetfilter_acct/index.html
 License      : LGPLv2+
 Descript     : The libnetfilter_acct-devel package contains libraries and header files for
@@ -6249,8 +6265,8 @@ Descript     : The libnetfilter_acct-devel package contains libraries and header
 <summary>libnetfilter_conntrack</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Netfilter conntrack userspace library
+From repo    : anaconda
+Short desc   : Netfilter conntrack userspace library
 URL          : http://netfilter.org
 License      : GPLv2+
 Descript     : libnetfilter_conntrack is a userspace library providing a programming
@@ -6263,8 +6279,8 @@ Descript     : libnetfilter_conntrack is a userspace library providing a program
 <summary>libnetfilter_conntrack-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Netfilter conntrack userspace library
+From repo    : fedora
+Short desc   : Netfilter conntrack userspace library
 URL          : http://netfilter.org
 License      : GPLv2+
 Descript     : libnetfilter_conntrack is a userspace library providing a programming
@@ -6277,8 +6293,8 @@ Descript     : libnetfilter_conntrack is a userspace library providing a program
 <summary>libnetfilter_cthelper</summary>
 
 ```
-From repo     : fedora
-Short desc    : User-space infrastructure for connection tracking helpers
+From repo    : fedora
+Short desc   : User-space infrastructure for connection tracking helpers
 URL          : http://www.netfilter.org/projects/libnetfilter_cthelper/index.html
 License      : GPLv2
 Descript     : This library provides the infrastructure for the user-space helper
@@ -6291,8 +6307,8 @@ Descript     : This library provides the infrastructure for the user-space helpe
 <summary>libnetfilter_cthelper-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libnetfilter_cthelper
+From repo    : fedora
+Short desc   : Development files for libnetfilter_cthelper
 URL          : http://www.netfilter.org/projects/libnetfilter_cthelper/index.html
 License      : GPLv2
 Descript     : The libnetfilter_cthelper-devel package contains libraries and header files for
@@ -6305,8 +6321,8 @@ Descript     : The libnetfilter_cthelper-devel package contains libraries and he
 <summary>libnetfilter_cttimeout</summary>
 
 ```
-From repo     : fedora
-Short desc    : Timeout policy tuning for Netfilter/conntrack
+From repo    : fedora
+Short desc   : Timeout policy tuning for Netfilter/conntrack
 URL          : http://netfilter.org
 License      : GPLv2+
 Descript     : This infrastructure allows you to define fine-grain timeout
@@ -6323,8 +6339,8 @@ Descript     : This infrastructure allows you to define fine-grain timeout
 <summary>libnetfilter_cttimeout-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Timeout policy tuning for Netfilter/conntrack
+From repo    : fedora
+Short desc   : Timeout policy tuning for Netfilter/conntrack
 URL          : http://netfilter.org
 License      : GPLv2+
 Descript     : This infrastructure allows you to define fine-grain timeout
@@ -6341,8 +6357,8 @@ Descript     : This infrastructure allows you to define fine-grain timeout
 <summary>libnetfilter_log</summary>
 
 ```
-From repo     : fedora
-Short desc    : Netfilter logging userspace library
+From repo    : fedora
+Short desc   : Netfilter logging userspace library
 URL          : http://netfilter.org
 License      : GPLv2
 Descript     : libnetfilter_log is a userspace library providing interface to packets that
@@ -6360,8 +6376,8 @@ Descript     : libnetfilter_log is a userspace library providing interface to pa
 <summary>libnetfilter_log-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Netfilter logging userspace library
+From repo    : fedora
+Short desc   : Netfilter logging userspace library
 URL          : http://netfilter.org
 License      : GPLv2
 Descript     : libnetfilter_log is a userspace library providing interface to packets that
@@ -6379,8 +6395,8 @@ Descript     : libnetfilter_log is a userspace library providing interface to pa
 <summary>libnetfilter_queue</summary>
 
 ```
-From repo     : fedora
-Short desc    : Netfilter queue userspace library
+From repo    : fedora
+Short desc   : Netfilter queue userspace library
 URL          : http://netfilter.org
 License      : GPLv2
 Descript     : libnetfilter_queue is a userspace library providing an API to packets that have
@@ -6396,8 +6412,8 @@ Descript     : libnetfilter_queue is a userspace library providing an API to pac
 <summary>libnetfilter_queue-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Netfilter queue userspace library
+From repo    : fedora
+Short desc   : Netfilter queue userspace library
 URL          : http://netfilter.org
 License      : GPLv2
 Descript     : libnetfilter_queue is a userspace library providing an API to packets that have
@@ -6413,8 +6429,8 @@ Descript     : libnetfilter_queue is a userspace library providing an API to pac
 <summary>libnfnetlink</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Netfilter netlink userspace library
+From repo    : anaconda
+Short desc   : Netfilter netlink userspace library
 URL          : http://netfilter.org
 License      : GPLv2+
 Descript     : libnfnetlink is a userspace library that provides some low-level
@@ -6429,8 +6445,8 @@ Descript     : libnfnetlink is a userspace library that provides some low-level
 <summary>libnfnetlink-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Netfilter netlink userspace library
+From repo    : fedora
+Short desc   : Netfilter netlink userspace library
 URL          : http://netfilter.org
 License      : GPLv2+
 Descript     : libnfnetlink is a userspace library that provides some low-level
@@ -6445,8 +6461,8 @@ Descript     : libnfnetlink is a userspace library that provides some low-level
 <summary>libnfs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Client library for accessing NFS shares over a network
+From repo    : anaconda
+Short desc   : Client library for accessing NFS shares over a network
 URL          : https://github.com/sahlberg/libnfs
 License      : LGPLv2+ and BSD
 Descript     : The libnfs package contains a library of functions for accessing NFSv2
@@ -6463,8 +6479,8 @@ Descript     : The libnfs package contains a library of functions for accessing 
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : NFSv4 User and Group ID Mapping Library
+From repo    : updates-testing
+Short desc   : NFSv4 User and Group ID Mapping Library
 URL          : http://linux-nfs.org/
 License      : BSD
 Descript     : Library that handles mapping between names and ids for NFSv4.
@@ -6476,8 +6492,8 @@ Descript     : Library that handles mapping between names and ids for NFSv4.
 <summary>libnftnl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for low-level interaction with nftables Netlink's API over libmnl
+From repo    : anaconda
+Short desc   : Library for low-level interaction with nftables Netlink's API over libmnl
 URL          : https://netfilter.org/projects/libnftnl/
 License      : GPLv2+
 Descript     : A library for low-level interaction with nftables Netlink's API over libmnl.
@@ -6489,8 +6505,8 @@ Descript     : A library for low-level interaction with nftables Netlink's API o
 <summary>libnghttp2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library implementing the HTTP/2 protocol
+From repo    : anaconda
+Short desc   : A library implementing the HTTP/2 protocol
 URL          : https://nghttp2.org/
 License      : MIT
 Descript     : libnghttp2 is a library implementing the Hypertext Transfer Protocol
@@ -6503,8 +6519,8 @@ Descript     : libnghttp2 is a library implementing the Hypertext Transfer Proto
 <summary>libnghttp2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library implementing the HTTP/2 protocol
+From repo    : updates-testing
+Short desc   : A library implementing the HTTP/2 protocol
 URL          : https://nghttp2.org/
 License      : MIT
 Descript     : libnghttp2 is a library implementing the Hypertext Transfer Protocol
@@ -6517,8 +6533,8 @@ Descript     : libnghttp2 is a library implementing the Hypertext Transfer Proto
 <summary>libnice</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GLib ICE implementation
+From repo    : anaconda
+Short desc   : GLib ICE implementation
 URL          : https://nice.freedesktop.org/wiki/
 License      : LGPLv2 and MPLv1.1
 Descript     : libnice is an implementation of the IETF draft Interactive Connectivity
@@ -6535,8 +6551,8 @@ Descript     : libnice is an implementation of the IETF draft Interactive Connec
 <summary>libnl3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Convenience library for kernel netlink sockets
+From repo    : anaconda
+Short desc   : Convenience library for kernel netlink sockets
 URL          : http://www.infradead.org/~tgr/libnl/
 License      : LGPLv2
 Descript     : This package contains a convenience library to simplify
@@ -6550,8 +6566,8 @@ Descript     : This package contains a convenience library to simplify
 <summary>libnl3-cli</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Command line interface utils for libnl3
+From repo    : anaconda
+Short desc   : Command line interface utils for libnl3
 URL          : http://www.infradead.org/~tgr/libnl/
 License      : LGPLv2
 Descript     : This package contains various libnl3 utils and additional
@@ -6564,8 +6580,8 @@ Descript     : This package contains various libnl3 utils and additional
 <summary>libnma</summary>
 
 ```
-From repo     : anaconda
-Short desc    : NetworkManager GUI library
+From repo    : anaconda
+Short desc   : NetworkManager GUI library
 URL          : https://gitlab.gnome.org/GNOME/libnma/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains the library used for integrating GUI tools with
@@ -6578,8 +6594,8 @@ Descript     : This package contains the library used for integrating GUI tools 
 <summary>libnotify</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Desktop notification library
+From repo    : anaconda
+Short desc   : Desktop notification library
 URL          : http://www.gnome.org
 License      : LGPLv2+
 Descript     : libnotify is a library for sending desktop notifications to a notification
@@ -6594,8 +6610,8 @@ Descript     : libnotify is a library for sending desktop notifications to a not
 <summary>libnsl2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Public client interface library for NIS(YP) and NIS+
+From repo    : anaconda
+Short desc   : Public client interface library for NIS(YP) and NIS+
 URL          : https://github.com/thkukuk/libnsl
 License      : BSD and LGPLv2+
 Descript     : This package contains the libnsl library. This library contains
@@ -6610,8 +6626,8 @@ Descript     : This package contains the libnsl library. This library contains
 <summary>libnumbertext</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Number to number name and money text conversion library
+From repo    : anaconda
+Short desc   : Number to number name and money text conversion library
 URL          : https://github.com/Numbertext/libnumbertext
 License      : (LGPLv3+ or BSD) and (LGPLv3+ or BSD or CC-BY-SA)
 Descript     : Language-neutral NUMBERTEXT and MONEYTEXT functions for LibreOffice Calc
@@ -6623,8 +6639,8 @@ Descript     : Language-neutral NUMBERTEXT and MONEYTEXT functions for LibreOffi
 <summary>liboauth</summary>
 
 ```
-From repo     : anaconda
-Short desc    : OAuth library functions
+From repo    : anaconda
+Short desc   : OAuth library functions
 URL          : http://liboauth.sourceforge.net/
 License      : MIT
 Descript     : liboauth is a collection of POSIX-c functions implementing the OAuth
@@ -6640,8 +6656,8 @@ Descript     : liboauth is a collection of POSIX-c functions implementing the OA
 <summary>libobjc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Objective-C runtime
+From repo    : fedora
+Short desc   : Objective-C runtime
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains Objective-C shared library which is needed to run
@@ -6654,8 +6670,8 @@ Descript     : This package contains Objective-C shared library which is needed 
 <summary>libodfgen</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An ODF generator library
+From repo    : anaconda
+Short desc   : An ODF generator library
 URL          : https://sourceforge.net/p/libwpd/wiki/libodfgen/
 License      : LGPLv2+ or MPLv2.0
 Descript     : libodfgen is a library for generating ODF documents. It is directly
@@ -6670,8 +6686,8 @@ Descript     : libodfgen is a library for generating ODF documents. It is direct
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : The Ogg bitstream file format library
+From repo    : anaconda
+Short desc   : The Ogg bitstream file format library
 URL          : http://www.xiph.org/
 License      : BSD
 Descript     : Libogg is a library for manipulating Ogg bitstream file formats.
@@ -6685,8 +6701,8 @@ Descript     : Libogg is a library for manipulating Ogg bitstream file formats.
 <summary>libomp</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : OpenMP runtime for clang
+From repo    : updates-testing
+Short desc   : OpenMP runtime for clang
 URL          : http://openmp.llvm.org
 License      : NCSA
 Descript     : OpenMP runtime for clang.
@@ -6698,8 +6714,8 @@ Descript     : OpenMP runtime for clang.
 <summary>libomp-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : OpenMP header files
+From repo    : updates-testing
+Short desc   : OpenMP header files
 URL          : http://openmp.llvm.org
 License      : NCSA
 Descript     : OpenMP header files.
@@ -6711,8 +6727,8 @@ Descript     : OpenMP header files.
 <summary>libomxil-bellagio</summary>
 
 ```
-From repo     : fedora
-Short desc    : OpenMAX Integration Layer
+From repo    : fedora
+Short desc   : OpenMAX Integration Layer
 URL          : http://omxil.sourceforge.net
 License      : LGPLv2+
 Descript     : The OpenMAX IL API defines a standardized media component interface to
@@ -6730,8 +6746,8 @@ Descript     : The OpenMAX IL API defines a standardized media component interfa
 <summary>libopenmpt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C/C++ library to decode tracker music module (MOD) files
+From repo    : updates-testing
+Short desc   : C/C++ library to decode tracker music module (MOD) files
 URL          : https://lib.openmpt.org/libopenmpt/
 License      : BSD
 Descript     : libopenmpt is a cross-platform C++ and C library to decode tracked music
@@ -6748,8 +6764,8 @@ Descript     : libopenmpt is a cross-platform C++ and C library to decode tracke
 <summary>liborcus</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Standalone file import filter library for spreadsheet documents
+From repo    : anaconda
+Short desc   : Standalone file import filter library for spreadsheet documents
 URL          : https://gitlab.com/orcus/orcus
 License      : MPLv2.0
 Descript     : liborcus is a standalone file import filter library for spreadsheet
@@ -6763,8 +6779,8 @@ Descript     : liborcus is a standalone file import filter library for spreadshe
 <summary>libosinfo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for managing OS information for virtualization
+From repo    : anaconda
+Short desc   : A library for managing OS information for virtualization
 URL          : https://libosinfo.org/
 License      : LGPLv2+
 Descript     : libosinfo is a library that allows virtualization provisioning tools to
@@ -6778,8 +6794,8 @@ Descript     : libosinfo is a library that allows virtualization provisioning to
 <summary>libosinfo-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries, includes, etc. to compile with the libosinfo library
+From repo    : fedora
+Short desc   : Libraries, includes, etc. to compile with the libosinfo library
 URL          : https://libosinfo.org/
 License      : LGPLv2+
 Descript     : libosinfo is a library that allows virtualization provisioning tools to
@@ -6795,8 +6811,8 @@ Descript     : libosinfo is a library that allows virtualization provisioning to
 <summary>libpagemaker</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of Adobe PageMaker documents
+From repo    : anaconda
+Short desc   : A library for import of Adobe PageMaker documents
 URL          : http://wiki.documentfoundation.org/DLP/Libraries/libpagemaker
 License      : MPLv2.0
 Descript     : libpagemaker is library providing ability to interpret and import
@@ -6809,8 +6825,8 @@ Descript     : libpagemaker is library providing ability to interpret and import
 <summary>libpaper</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library and tools for handling papersize
+From repo    : anaconda
+Short desc   : Library and tools for handling papersize
 URL          : http://packages.qa.debian.org/libp/libpaper.html
 License      : GPLv2
 Descript     : The paper library and accompanying files are intended to provide a
@@ -6827,8 +6843,8 @@ Descript     : The paper library and accompanying files are intended to provide 
 <summary>libpasswdqc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Passphrase quality checker shared library
+From repo    : anaconda
+Short desc   : Passphrase quality checker shared library
 URL          : https://www.openwall.com/passwdqc/
 License      : BSD-3-Clause
 Descript     : The libpasswdqc is a passphrase strength checking library.
@@ -6846,8 +6862,8 @@ Descript     : The libpasswdqc is a passphrase strength checking library.
 <summary>libpath_utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Filesystem Path Utilities
+From repo    : anaconda
+Short desc   : Filesystem Path Utilities
 URL          : https://pagure.io/SSSD/ding-libs
 License      : LGPLv3+
 Descript     : Utility functions to manipulate filesystem pathnames
@@ -6860,8 +6876,8 @@ Descript     : Utility functions to manipulate filesystem pathnames
 
 ```
 Эпоха        : 14
-From repo     : anaconda
-Short desc    : A system-independent interface for user-level packet capture
+From repo    : anaconda
+Short desc   : A system-independent interface for user-level packet capture
 URL          : https://www.tcpdump.org/
 License      : BSD with advertising
 Descript     : Libpcap provides a portable framework for low-level network
@@ -6882,8 +6898,8 @@ Descript     : Libpcap provides a portable framework for low-level network
 <summary>libpciaccess</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PCI access library
+From repo    : anaconda
+Short desc   : PCI access library
 URL          : https://www.x.org/
 License      : MIT
 Descript     : libpciaccess is a library for portable PCI access routines across multiple
@@ -6896,8 +6912,8 @@ Descript     : libpciaccess is a library for portable PCI access routines across
 <summary>libpeas</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plug-ins implementation convenience library
+From repo    : anaconda
+Short desc   : Plug-ins implementation convenience library
 URL          : https://wiki.gnome.org/Projects/Libpeas
 License      : LGPLv2+
 Descript     : libpeas is a convenience library making adding plug-ins support
@@ -6910,8 +6926,8 @@ Descript     : libpeas is a convenience library making adding plug-ins support
 <summary>libpeas</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plug-ins implementation convenience library
+From repo    : updates-testing
+Short desc   : Plug-ins implementation convenience library
 URL          : https://wiki.gnome.org/Projects/Libpeas
 License      : LGPLv2+
 Descript     : libpeas is a convenience library making adding plug-ins support
@@ -6924,8 +6940,8 @@ Descript     : libpeas is a convenience library making adding plug-ins support
 <summary>libpeas-gtk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GTK+ plug-ins support for libpeas
+From repo    : anaconda
+Short desc   : GTK+ plug-ins support for libpeas
 URL          : https://wiki.gnome.org/Projects/Libpeas
 License      : LGPLv2+
 Descript     : libpeas-gtk is a convenience library making adding plug-ins support
@@ -6938,8 +6954,8 @@ Descript     : libpeas-gtk is a convenience library making adding plug-ins suppo
 <summary>libpeas-gtk</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GTK+ plug-ins support for libpeas
+From repo    : updates-testing
+Short desc   : GTK+ plug-ins support for libpeas
 URL          : https://wiki.gnome.org/Projects/Libpeas
 License      : LGPLv2+
 Descript     : libpeas-gtk is a convenience library making adding plug-ins support
@@ -6952,8 +6968,8 @@ Descript     : libpeas-gtk is a convenience library making adding plug-ins suppo
 <summary>libpeas-loader-python3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Python 3 loader for libpeas
+From repo    : anaconda
+Short desc   : Python 3 loader for libpeas
 URL          : https://wiki.gnome.org/Projects/Libpeas
 License      : LGPLv2+
 Descript     : This package contains the Python 3 loader that is needed to
@@ -6966,8 +6982,8 @@ Descript     : This package contains the Python 3 loader that is needed to
 <summary>libpeas-loader-python3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Python 3 loader for libpeas
+From repo    : updates-testing
+Short desc   : Python 3 loader for libpeas
 URL          : https://wiki.gnome.org/Projects/Libpeas
 License      : LGPLv2+
 Descript     : This package contains the Python 3 loader that is needed to
@@ -6980,8 +6996,8 @@ Descript     : This package contains the Python 3 loader that is needed to
 <summary>libphodav</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library to serve files with WebDAV
+From repo    : anaconda
+Short desc   : A library to serve files with WebDAV
 URL          : https://wiki.gnome.org/phodav
 License      : LGPLv2+
 Descript     : phởdav is a WebDAV server implementation using libsoup (RFC 4918).
@@ -6994,8 +7010,8 @@ Descript     : phởdav is a WebDAV server implementation using libsoup (RFC 491
 <summary>libphonenumber</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to handle international phone numbers
+From repo    : anaconda
+Short desc   : Library to handle international phone numbers
 URL          : https://github.com/google/libphonenumber/
 License      : ASL 2.0 and BSD and MIT
 Descript     : Google's common C++ library for parsing, formatting, storing and validating
@@ -7008,8 +7024,8 @@ Descript     : Google's common C++ library for parsing, formatting, storing and 
 <summary>libphonenumber</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library to handle international phone numbers
+From repo    : updates-testing
+Short desc   : Library to handle international phone numbers
 URL          : https://github.com/google/libphonenumber/
 License      : ASL 2.0 and BSD and MIT
 Descript     : Google's common C++ library for parsing, formatting, storing and validating
@@ -7022,8 +7038,8 @@ Descript     : Google's common C++ library for parsing, formatting, storing and 
 <summary>libpinyin</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to deal with pinyin
+From repo    : anaconda
+Short desc   : Library to deal with pinyin
 URL          : https://github.com/libpinyin/libpinyin
 License      : GPLv3+
 Descript     : The libpinyin project aims to provide the algorithms core
@@ -7036,8 +7052,8 @@ Descript     : The libpinyin project aims to provide the algorithms core
 <summary>libpinyin-data</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Data files for libpinyin
+From repo    : anaconda
+Short desc   : Data files for libpinyin
 URL          : https://github.com/libpinyin/libpinyin
 License      : GPLv3+
 Descript     : The libpinyin-data package contains data files.
@@ -7049,8 +7065,8 @@ Descript     : The libpinyin-data package contains data files.
 <summary>libpipeline</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A pipeline manipulation library
+From repo    : anaconda
+Short desc   : A pipeline manipulation library
 URL          : http://libpipeline.nongnu.org/
 License      : GPLv3+
 Descript     : libpipeline is a C library for setting up and running pipelines of
@@ -7066,8 +7082,8 @@ Descript     : libpipeline is a C library for setting up and running pipelines o
 <summary>libpkgconf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Backend library for pkgconf
+From repo    : anaconda
+Short desc   : Backend library for pkgconf
 URL          : http://pkgconf.org/
 License      : ISC
 Descript     : This package provides libraries for applications to use the functionality
@@ -7080,8 +7096,8 @@ Descript     : This package provides libraries for applications to use the funct
 <summary>libplist</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for manipulating Apple Binary and XML Property Lists
+From repo    : anaconda
+Short desc   : Library for manipulating Apple Binary and XML Property Lists
 URL          : http://www.libimobiledevice.org/
 License      : LGPLv2+
 Descript     : libplist is a library for manipulating Apple Binary and XML Property Lists
@@ -7093,8 +7109,8 @@ Descript     : libplist is a library for manipulating Apple Binary and XML Prope
 <summary>libpmem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Low-level persistent memory support library
+From repo    : anaconda
+Short desc   : Low-level persistent memory support library
 URL          : http://pmem.io/pmdk
 License      : BSD
 Descript     : The libpmem provides low level persistent memory support. In particular,
@@ -7108,8 +7124,8 @@ Descript     : The libpmem provides low level persistent memory support. In part
 <summary>libpmemobj</summary>
 
 ```
-From repo     : fedora
-Short desc    : Persistent Memory Transactional Object Store library
+From repo    : fedora
+Short desc   : Persistent Memory Transactional Object Store library
 URL          : http://pmem.io/pmdk
 License      : BSD
 Descript     : The libpmemobj library provides a transactional object store,
@@ -7124,8 +7140,8 @@ Descript     : The libpmemobj library provides a transactional object store,
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : A library of functions for manipulating PNG image format files
+From repo    : updates-testing
+Short desc   : A library of functions for manipulating PNG image format files
 URL          : http://www.libpng.org/pub/png/
 License      : zlib
 Descript     : The libpng package contains a library of functions for creating and
@@ -7145,8 +7161,8 @@ Descript     : The libpng package contains a library of functions for creating a
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : A library of functions for manipulating PNG image format files
+From repo    : anaconda
+Short desc   : A library of functions for manipulating PNG image format files
 URL          : http://www.libpng.org/pub/png/
 License      : zlib
 Descript     : The libpng package contains a library of functions for creating and
@@ -7166,8 +7182,8 @@ Descript     : The libpng package contains a library of functions for creating a
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Development tools for programs to manipulate PNG image format files
+From repo    : updates-testing
+Short desc   : Development tools for programs to manipulate PNG image format files
 URL          : http://www.libpng.org/pub/png/
 License      : zlib
 Descript     : The libpng-devel package contains header files and documentation necessary
@@ -7184,8 +7200,8 @@ Descript     : The libpng-devel package contains header files and documentation 
 <summary>libportal</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Flatpak portal library
+From repo    : updates-testing
+Short desc   : Flatpak portal library
 URL          : https://github.com/flatpak/libportal
 License      : LGPLv2+
 Descript     : libportal provides GIO-style asynchronous APIs for most Flatpak portals.
@@ -7197,8 +7213,8 @@ Descript     : libportal provides GIO-style asynchronous APIs for most Flatpak p
 <summary>libpq</summary>
 
 ```
-From repo     : fedora
-Short desc    : PostgreSQL client library
+From repo    : fedora
+Short desc   : PostgreSQL client library
 URL          : http://www.postgresql.org/
 License      : PostgreSQL
 Descript     : The libpq package provides the essential shared library for any PostgreSQL
@@ -7213,8 +7229,8 @@ Descript     : The libpq package provides the essential shared library for any P
 <summary>libprelude</summary>
 
 ```
-From repo     : fedora
-Short desc    : Secure Connections between all Sensors and the Prelude Manager
+From repo    : fedora
+Short desc   : Secure Connections between all Sensors and the Prelude Manager
 URL          : https://www.prelude-siem.org/
 License      : LGPL-2.1+
 Descript     : Libprelude is a collection of generic functions providing communication
@@ -7234,8 +7250,8 @@ Descript     : Libprelude is a collection of generic functions providing communi
 <summary>libproxy</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library handling all the details of proxy configuration
+From repo    : anaconda
+Short desc   : A library handling all the details of proxy configuration
 URL          : https://libproxy.github.io/libproxy/
 License      : LGPLv2+
 Descript     : libproxy offers the following features:
@@ -7255,8 +7271,8 @@ Descript     : libproxy offers the following features:
 <summary>libproxy-webkitgtk4</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plugin for libproxy and webkitgtk3
+From repo    : anaconda
+Short desc   : Plugin for libproxy and webkitgtk3
 URL          : https://libproxy.github.io/libproxy/
 License      : LGPLv2+
 Descript     : The libproxy-webkitgtk4 package contains the libproxy plugin for
@@ -7269,8 +7285,8 @@ Descript     : The libproxy-webkitgtk4 package contains the libproxy plugin for
 <summary>libpskc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for PSKC handling
+From repo    : anaconda
+Short desc   : Library for PSKC handling
 URL          : https://www.nongnu.org/oath-toolkit/
 License      : LGPLv2+
 Descript     : Library for managing secret key files, the Portable Symmetric Key
@@ -7283,8 +7299,8 @@ Descript     : Library for managing secret key files, the Portable Symmetric Key
 <summary>libpsl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C library for the Publix Suffix List
+From repo    : anaconda
+Short desc   : C library for the Publix Suffix List
 URL          : https://rockdaboot.github.io/libpsl
 License      : MIT
 Descript     : libpsl is a C library to handle the Public Suffix List. A "public suffix" is a
@@ -7316,8 +7332,8 @@ Descript     : libpsl is a C library to handle the Public Suffix List. A "public
 <summary>libpwquality</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for password generation and password quality checking
+From repo    : anaconda
+Short desc   : A library for password generation and password quality checking
 URL          : https://github.com/libpwquality/libpwquality/
 License      : BSD or GPLv2+
 Descript     : This is a library for password quality checks and generation
@@ -7332,8 +7348,8 @@ Descript     : This is a library for password quality checks and generation
 <summary>libqb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing high performance logging, tracing, ipc, and poll
+From repo    : anaconda
+Short desc   : Library providing high performance logging, tracing, ipc, and poll
 URL          : https://github.com/ClusterLabs/libqb
 License      : LGPLv2+
 Descript     : A "Quite Boring" library that provides high-performance, reusable features for client-server
@@ -7347,8 +7363,8 @@ Descript     : A "Quite Boring" library that provides high-performance, reusable
 <summary>libqb</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library providing high performance logging, tracing, ipc, and poll
+From repo    : updates-testing
+Short desc   : Library providing high performance logging, tracing, ipc, and poll
 URL          : https://github.com/ClusterLabs/libqb
 License      : LGPLv2+
 Descript     : A "Quite Boring" library that provides high-performance, reusable features for client-server
@@ -7363,8 +7379,8 @@ Descript     : A "Quite Boring" library that provides high-performance, reusable
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : libqhull_r
+From repo    : fedora
+Short desc   : libqhull_r
 URL          : http://www.qhull.org
 License      : Qhull
 Descript     : libqhull_r
@@ -7376,8 +7392,8 @@ Descript     : libqhull_r
 <summary>libqmi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Support library to use the Qualcomm MSM Interface (QMI) protocol
+From repo    : anaconda
+Short desc   : Support library to use the Qualcomm MSM Interface (QMI) protocol
 URL          : http://freedesktop.org/software/libqmi
 License      : LGPLv2+
 Descript     : This package contains the libraries that make it easier to use QMI functionality
@@ -7390,8 +7406,8 @@ Descript     : This package contains the libraries that make it easier to use QM
 <summary>libqmi-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities to use the QMI protocol from the command line
+From repo    : anaconda
+Short desc   : Utilities to use the QMI protocol from the command line
 URL          : http://freedesktop.org/software/libqmi
 License      : GPLv2+
 Descript     : This package contains the utilities that make it easier to use QMI functionality
@@ -7404,8 +7420,8 @@ Descript     : This package contains the utilities that make it easier to use QM
 <summary>libqrcodegencpp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : High-quality QR Code generator library (C++ version)
+From repo    : anaconda
+Short desc   : High-quality QR Code generator library (C++ version)
 URL          : https://github.com/nayuki/QR-Code-generator
 License      : MIT
 Descript     : This project aims to be the best, clearest QR Code generator library in
@@ -7422,8 +7438,8 @@ Descript     : This project aims to be the best, clearest QR Code generator libr
 <summary>libquadmath</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GCC __float128 shared support library
+From repo    : anaconda
+Short desc   : GCC __float128 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains GCC shared support library which is needed
@@ -7436,8 +7452,8 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libquadmath</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GCC __float128 shared support library
+From repo    : updates-testing
+Short desc   : GCC __float128 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains GCC shared support library which is needed
@@ -7450,8 +7466,8 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libquadmath-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GCC __float128 support
+From repo    : updates-testing
+Short desc   : GCC __float128 support
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains headers for building Fortran programs using
@@ -7464,8 +7480,8 @@ Descript     : This package contains headers for building Fortran programs using
 <summary>libqxp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for import of QuarkXPress documents
+From repo    : anaconda
+Short desc   : Library for import of QuarkXPress documents
 URL          : http://wiki.documentfoundation.org/DLP/Libraries/libqxp
 License      : MPLv2.0
 Descript     : libqxp is library providing ability to interpret and import QuarkXPress
@@ -7480,8 +7496,8 @@ Descript     : libqxp is library providing ability to interpret and import Quark
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : RADOS distributed object store client library
+From repo    : updates-testing
+Short desc   : RADOS distributed object store client library
 URL          : http://ceph.com/
 License      : (LGPLv2.1 or LGPLv3) and CC-BY-SA-3.0 and GPLv2 and Boost-1.0 and BSD and MIT
 Descript     : RADOS is a reliable, autonomic distributed object storage cluster
@@ -7496,8 +7512,8 @@ Descript     : RADOS is a reliable, autonomic distributed object storage cluster
 <summary>libraqm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Complex Textlayout Library
+From repo    : anaconda
+Short desc   : Complex Textlayout Library
 URL          : https://github.com/HOST-Oman/libraqm
 License      : MIT
 Descript     : Library that encapsulates the logic for complex
@@ -7510,8 +7526,8 @@ Descript     : Library that encapsulates the logic for complex
 <summary>libraqm-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Complex Textlayout Library
+From repo    : fedora
+Short desc   : Complex Textlayout Library
 URL          : https://github.com/HOST-Oman/libraqm
 License      : MIT
 Descript     : Library that encapsulates the logic for complex
@@ -7524,8 +7540,8 @@ Descript     : Library that encapsulates the logic for complex
 <summary>libraw1394</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing low-level IEEE-1394 access - 2.1.2-
+From repo    : anaconda
+Short desc   : Library providing low-level IEEE-1394 access - 2.1.2-
 URL          : http://www.dennedy.org/libraw1394/
 License      : LGPLv2+
 Descript     : The libraw1394 library provides direct access to the IEEE-1394 bus.
@@ -7540,8 +7556,8 @@ Descript     : The libraw1394 library provides direct access to the IEEE-1394 bu
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : RADOS block device client library
+From repo    : updates-testing
+Short desc   : RADOS block device client library
 URL          : http://ceph.com/
 License      : (LGPLv2.1 or LGPLv3) and CC-BY-SA-3.0 and GPLv2 and Boost-1.0 and BSD and MIT
 Descript     : RBD is a block device striped across multiple distributed objects in
@@ -7556,8 +7572,8 @@ Descript     : RBD is a block device striped across multiple distributed objects
 <summary>librdmacm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Userspace RDMA Connection Manager
+From repo    : anaconda
+Short desc   : Userspace RDMA Connection Manager
 URL          : https://github.com/linux-rdma/rdma-core
 License      : GPLv2 or BSD
 Descript     : librdmacm provides a userspace RDMA Communication Management API.
@@ -7569,8 +7585,8 @@ Descript     : librdmacm provides a userspace RDMA Communication Management API.
 <summary>librdmacm</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Userspace RDMA Connection Manager
+From repo    : updates-testing
+Short desc   : Userspace RDMA Connection Manager
 URL          : https://github.com/linux-rdma/rdma-core
 License      : GPLv2 or BSD
 Descript     : librdmacm provides a userspace RDMA Communication Management API.
@@ -7582,8 +7598,8 @@ Descript     : librdmacm provides a userspace RDMA Communication Management API.
 <summary>libref_array</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A refcounted array for C
+From repo    : anaconda
+Short desc   : A refcounted array for C
 URL          : https://pagure.io/SSSD/ding-libs
 License      : LGPLv3+
 Descript     : A dynamically-growing, reference-counted array
@@ -7596,8 +7612,8 @@ Descript     : A dynamically-growing, reference-counted array
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : LibreOffice Spreadsheet Application
+From repo    : updates-testing
+Short desc   : LibreOffice Spreadsheet Application
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : The LibreOffice Spreadsheet application.
@@ -7610,8 +7626,8 @@ Descript     : The LibreOffice Spreadsheet application.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Core modules for LibreOffice
+From repo    : updates-testing
+Short desc   : Core modules for LibreOffice
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : The shared core libraries and support files for LibreOffice.
@@ -7624,8 +7640,8 @@ Descript     : The shared core libraries and support files for LibreOffice.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : LibreOffice data files
+From repo    : updates-testing
+Short desc   : LibreOffice data files
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : libreoffice-data contains platform-independent data files.
@@ -7638,8 +7654,8 @@ Descript     : libreoffice-data contains platform-independent data files.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Email mail-merge component for LibreOffice
+From repo    : updates-testing
+Short desc   : Email mail-merge component for LibreOffice
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Enables the LibreOffice writer module to mail-merge to email.
@@ -7652,8 +7668,8 @@ Descript     : Enables the LibreOffice writer module to mail-merge to email.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : All import / export filters
+From repo    : updates-testing
+Short desc   : All import / export filters
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Metapackage to pull in all subpackages that contain import or export
@@ -7667,8 +7683,8 @@ Descript     : Metapackage to pull in all subpackages that contain import or exp
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : LibreOffice Extra Graphic filters
+From repo    : updates-testing
+Short desc   : LibreOffice Extra Graphic filters
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : The graphicfilter module for LibreOffice provides graphic filters, e.g. svg.
@@ -7681,8 +7697,8 @@ Descript     : The graphicfilter module for LibreOffice provides graphic filters
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : LibreOffice GTK+ 3 integration plug-in
+From repo    : updates-testing
+Short desc   : LibreOffice GTK+ 3 integration plug-in
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : A plug-in for LibreOffice that enables integration into GTK+ 3 environment.
@@ -7695,8 +7711,8 @@ Descript     : A plug-in for LibreOffice that enables integration into GTK+ 3 en
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : English help for LibreOffice
+From repo    : updates-testing
+Short desc   : English help for LibreOffice
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Provides English help for LibreOffice.
@@ -7709,8 +7725,8 @@ Descript     : Provides English help for LibreOffice.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Russian help for LibreOffice
+From repo    : updates-testing
+Short desc   : Russian help for LibreOffice
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Provides Russian help for LibreOffice.
@@ -7723,8 +7739,8 @@ Descript     : Provides Russian help for LibreOffice.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : LibreOffice Presentation Application
+From repo    : updates-testing
+Short desc   : LibreOffice Presentation Application
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : The LibreOffice Presentation Application.
@@ -7737,8 +7753,8 @@ Descript     : The LibreOffice Presentation Application.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : English language pack for LibreOffice
+From repo    : updates-testing
+Short desc   : English language pack for LibreOffice
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Provides additional English translations and resources for LibreOffice.
@@ -7751,8 +7767,8 @@ Descript     : Provides additional English translations and resources for LibreO
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Russian language pack for LibreOffice
+From repo    : updates-testing
+Short desc   : Russian language pack for LibreOffice
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Provides additional Russian translations and resources for LibreOffice.
@@ -7765,8 +7781,8 @@ Descript     : Provides additional Russian translations and resources for LibreO
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : 3D OpenGL slide transitions for LibreOffice
+From repo    : updates-testing
+Short desc   : 3D OpenGL slide transitions for LibreOffice
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : OpenGL Transitions enable 3D slide transitions to be used in LibreOffice.
@@ -7780,8 +7796,8 @@ Descript     : OpenGL Transitions enable 3D slide transitions to be used in Libr
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : LibreOffice dingbats font
+From repo    : updates-testing
+Short desc   : LibreOffice dingbats font
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : A dingbats font, OpenSymbol, suitable for use by LibreOffice for bullets and
@@ -7795,8 +7811,8 @@ Descript     : A dingbats font, OpenSymbol, suitable for use by LibreOffice for 
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : PDF Importer for LibreOffice Draw
+From repo    : updates-testing
+Short desc   : PDF Importer for LibreOffice Draw
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : The PDF Importer imports PDF into drawing documents to preserve layout
@@ -7810,8 +7826,8 @@ Descript     : The PDF Importer imports PDF into drawing documents to preserve l
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Python support for LibreOffice
+From repo    : updates-testing
+Short desc   : Python support for LibreOffice
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Python bindings for the LibreOffice UNO component model. Allows scripts both
@@ -7826,8 +7842,8 @@ Descript     : Python bindings for the LibreOffice UNO component model. Allows s
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : UNO Runtime Environment
+From repo    : updates-testing
+Short desc   : UNO Runtime Environment
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : UNO is the component model of LibreOffice. UNO offers interoperability between
@@ -7845,8 +7861,8 @@ Descript     : UNO is the component model of LibreOffice. UNO offers interoperab
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Common UNO Runtime Environment
+From repo    : updates-testing
+Short desc   : Common UNO Runtime Environment
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : Arch-independent part of libreoffice-ure.
@@ -7859,8 +7875,8 @@ Descript     : Arch-independent part of libreoffice-ure.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : LibreOffice Word Processor Application
+From repo    : updates-testing
+Short desc   : LibreOffice Word Processor Application
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : The LibreOffice Word Processor application.
@@ -7873,8 +7889,8 @@ Descript     : The LibreOffice Word Processor application.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : LibreOffice generic X11 support plug-in
+From repo    : updates-testing
+Short desc   : LibreOffice generic X11 support plug-in
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : A plug-in for LibreOffice that enables generic X11 support.
@@ -7887,8 +7903,8 @@ Descript     : A plug-in for LibreOffice that enables generic X11 support.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Optional xsltfilter module for LibreOffice
+From repo    : updates-testing
+Short desc   : Optional xsltfilter module for LibreOffice
 URL          : http://www.libreoffice.org/
 License      : (MPLv1.1 or LGPLv3+) and LGPLv3 and LGPLv2+ and BSD and (MPLv1.1 or GPLv2 or LGPLv2 or Netscape) and Public Domain and ASL 2.0 and MPLv2.0 and CC0
 Descript     : The xsltfilter module for LibreOffice, provides additional docbook and
@@ -7901,8 +7917,8 @@ Descript     : The xsltfilter module for LibreOffice, provides additional docboo
 <summary>librepo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Repodata downloading library
+From repo    : anaconda
+Short desc   : Repodata downloading library
 URL          : https://github.com/rpm-software-management/librepo
 License      : LGPLv2+
 Descript     : A library providing C and Python (libcURL like) API to downloading repository
@@ -7915,8 +7931,8 @@ Descript     : A library providing C and Python (libcURL like) API to downloadin
 <summary>librepo</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Repodata downloading library
+From repo    : updates-testing
+Short desc   : Repodata downloading library
 URL          : https://github.com/rpm-software-management/librepo
 License      : LGPLv2+
 Descript     : A library providing C and Python (libcURL like) API to downloading repository
@@ -7929,8 +7945,8 @@ Descript     : A library providing C and Python (libcURL like) API to downloadin
 <summary>libreport</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Generic library for reporting various problems
+From repo    : anaconda
+Short desc   : Generic library for reporting various problems
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Libraries providing API for reporting different problems in applications
@@ -7943,8 +7959,8 @@ Descript     : Libraries providing API for reporting different problems in appli
 <summary>libreport-anaconda</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Default configuration for reporting anaconda bugs
+From repo    : anaconda
+Short desc   : Default configuration for reporting anaconda bugs
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Default configuration for reporting Anaconda problems or uploading the gathered
@@ -7957,8 +7973,8 @@ Descript     : Default configuration for reporting Anaconda problems or uploadin
 <summary>libreport-cli</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libreport's command line interface
+From repo    : anaconda
+Short desc   : libreport's command line interface
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains simple command line tool for working
@@ -7971,8 +7987,8 @@ Descript     : This package contains simple command line tool for working
 <summary>libreport-fedora</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Default configuration for reporting bugs via Fedora infrastructure
+From repo    : anaconda
+Short desc   : Default configuration for reporting bugs via Fedora infrastructure
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Default configuration for reporting bugs via Fedora infrastructure
@@ -7986,8 +8002,8 @@ Descript     : Default configuration for reporting bugs via Fedora infrastructur
 <summary>libreport-filesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Filesystem layout for libreport
+From repo    : anaconda
+Short desc   : Filesystem layout for libreport
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Filesystem layout for libreport
@@ -7999,8 +8015,8 @@ Descript     : Filesystem layout for libreport
 <summary>libreport-gtk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GTK front-end for libreport
+From repo    : anaconda
+Short desc   : GTK front-end for libreport
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Applications for reporting bugs using libreport backend
@@ -8012,8 +8028,8 @@ Descript     : Applications for reporting bugs using libreport backend
 <summary>libreport-plugin-bugzilla</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libreport's bugzilla plugin
+From repo    : anaconda
+Short desc   : libreport's bugzilla plugin
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Plugin to report bugs into the bugzilla.
@@ -8025,8 +8041,8 @@ Descript     : Plugin to report bugs into the bugzilla.
 <summary>libreport-plugin-kerneloops</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libreport's kerneloops reporter plugin
+From repo    : anaconda
+Short desc   : libreport's kerneloops reporter plugin
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : This package contains plugin which sends kernel crash information to specified
@@ -8039,8 +8055,8 @@ Descript     : This package contains plugin which sends kernel crash information
 <summary>libreport-plugin-logger</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libreport's logger reporter plugin
+From repo    : anaconda
+Short desc   : libreport's logger reporter plugin
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : The simple reporter plugin which writes a report to a specified file.
@@ -8052,8 +8068,8 @@ Descript     : The simple reporter plugin which writes a report to a specified f
 <summary>libreport-plugin-reportuploader</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libreport's reportuploader plugin
+From repo    : anaconda
+Short desc   : libreport's reportuploader plugin
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Plugin to report bugs into anonymous FTP site associated with ticketing system.
@@ -8065,8 +8081,8 @@ Descript     : Plugin to report bugs into anonymous FTP site associated with tic
 <summary>libreport-plugin-systemd-journal</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libreport's systemd journal reporter plugin
+From repo    : anaconda
+Short desc   : libreport's systemd journal reporter plugin
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : The simple reporter plugin which writes a report to the systemd journal.
@@ -8078,8 +8094,8 @@ Descript     : The simple reporter plugin which writes a report to the systemd j
 <summary>libreport-plugin-ureport</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libreport's micro report plugin
+From repo    : anaconda
+Short desc   : libreport's micro report plugin
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Uploads micro-report to abrt server
@@ -8091,8 +8107,8 @@ Descript     : Uploads micro-report to abrt server
 <summary>libreport-web</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing network API for libreport
+From repo    : anaconda
+Short desc   : Library providing network API for libreport
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Library providing network API for libreport
@@ -8104,8 +8120,8 @@ Descript     : Library providing network API for libreport
 <summary>librevenge</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A base library for writing document import filters
+From repo    : anaconda
+Short desc   : A base library for writing document import filters
 URL          : http://sourceforge.net/p/libwpd/wiki/librevenge/
 License      : (LGPLv2+ or MPLv2.0) and BSD
 Descript     : librevenge is a base library for writing document import filters. It has
@@ -8119,8 +8135,8 @@ Descript     : librevenge is a base library for writing document import filters.
 <summary>librs232</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for serial communications over RS-232 with Lua bindings
+From repo    : fedora
+Short desc   : Library for serial communications over RS-232 with Lua bindings
 URL          : https://github.com/srdgame/librs232/
 License      : MIT
 Descript     : librs232 is a multi-platform library that provides support for communicating
@@ -8133,8 +8149,8 @@ Descript     : librs232 is a multi-platform library that provides support for co
 <summary>librsvg2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An SVG library based on cairo
+From repo    : updates-testing
+Short desc   : An SVG library based on cairo
 URL          : https://wiki.gnome.org/Projects/LibRsvg
 License      : LGPLv2+
 Descript     : An SVG library based on cairo.
@@ -8146,8 +8162,8 @@ Descript     : An SVG library based on cairo.
 <summary>librsync</summary>
 
 ```
-From repo     : fedora
-Short desc    : Rsync remote-delta algorithm library
+From repo    : fedora
+Short desc   : Rsync remote-delta algorithm library
 URL          : https://librsync.github.io/
 License      : LGPLv2+
 Descript     : librsync is a library for calculating and applying network deltas, with an
@@ -8168,8 +8184,8 @@ Descript     : librsync is a library for calculating and applying network deltas
 <summary>librtmp</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : Support library for RTMP streams
+From repo    : rpmfusion-free
+Short desc   : Support library for RTMP streams
 URL          : http://rtmpdump.mplayerhq.hu/
 License      : LGPLv2+
 Descript     : librtmp is a support library for RTMP streams. All forms of RTMP are supported,
@@ -8182,8 +8198,8 @@ Descript     : librtmp is a support library for RTMP streams. All forms of RTMP 
 <summary>librttopo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Create and manage SQL/MM topologies
+From repo    : fedora
+Short desc   : Create and manage SQL/MM topologies
 URL          : https://git.osgeo.org/gitea/rttopo/librttopo
 License      : GPLv2+
 Descript     : The RT Topology Library exposes an API to create and manage standard
@@ -8196,8 +8212,8 @@ Descript     : The RT Topology Library exposes an API to create and manage stand
 <summary>libsamplerate</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Sample rate conversion library for audio data
+From repo    : anaconda
+Short desc   : Sample rate conversion library for audio data
 URL          : http://www.mega-nerd.com/SRC/
 License      : BSD
 Descript     : Secret Rabbit Code is a sample rate converter for audio. It is capable
@@ -8213,8 +8229,8 @@ Descript     : Secret Rabbit Code is a sample rate converter for audio. It is ca
 <summary>libsane-airscan</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SANE backend for eSCL or WSD
+From repo    : anaconda
+Short desc   : SANE backend for eSCL or WSD
 URL          : https://github.com/alexpevzner/sane-airscan
 License      : GPLv2+ with exceptions
 Descript     : This package contain a SANE backend for MFP and document scanners that
@@ -8228,8 +8244,8 @@ Descript     : This package contain a SANE backend for MFP and document scanners
 <summary>libsane-hpaio</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SANE driver for scanners in HP's multi-function devices
+From repo    : anaconda
+Short desc   : SANE driver for scanners in HP's multi-function devices
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 License      : GPLv2+
 Descript     : SANE driver for scanners in HP's multi-function devices (from HPOJ).
@@ -8241,8 +8257,8 @@ Descript     : SANE driver for scanners in HP's multi-function devices (from HPO
 <summary>libsane-hpaio</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SANE driver for scanners in HP's multi-function devices
+From repo    : updates-testing
+Short desc   : SANE driver for scanners in HP's multi-function devices
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 License      : GPLv2+
 Descript     : SANE driver for scanners in HP's multi-function devices (from HPOJ).
@@ -8254,8 +8270,8 @@ Descript     : SANE driver for scanners in HP's multi-function devices (from HPO
 <summary>libsbc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for the SBC (Sub Band Codec)
+From repo    : anaconda
+Short desc   : Library for the SBC (Sub Band Codec)
 URL          : http://www.bluez.org
 License      : GPLv2 and LGPLv2+
 Descript     : Library for SBC (Sub Band Codec) is a low-complexity audio codec used in the
@@ -8270,8 +8286,8 @@ Descript     : Library for SBC (Sub Band Codec) is a low-complexity audio codec 
 <summary>libseccomp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Enhanced seccomp library
+From repo    : anaconda
+Short desc   : Enhanced seccomp library
 URL          : https://github.com/seccomp/libseccomp
 License      : LGPLv2
 Descript     : The libseccomp library provides an easy to use interface to the Linux Kernel's
@@ -8287,8 +8303,8 @@ Descript     : The libseccomp library provides an easy to use interface to the L
 <summary>libsecret</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for storing and retrieving passwords and other secrets
+From repo    : anaconda
+Short desc   : Library for storing and retrieving passwords and other secrets
 URL          : https://wiki.gnome.org/Projects/Libsecret
 License      : LGPLv2+
 Descript     : libsecret is a library for storing and retrieving passwords and other secrets.
@@ -8302,8 +8318,8 @@ Descript     : libsecret is a library for storing and retrieving passwords and o
 <summary>libselinux</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SELinux library and simple utilities
+From repo    : anaconda
+Short desc   : SELinux library and simple utilities
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : Public Domain
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
@@ -8327,8 +8343,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>libselinux</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux library and simple utilities
+From repo    : updates-testing
+Short desc   : SELinux library and simple utilities
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : Public Domain
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
@@ -8352,8 +8368,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>libselinux-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Header files and libraries used to build SELinux
+From repo    : updates-testing
+Short desc   : Header files and libraries used to build SELinux
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : Public Domain
 Descript     : The libselinux-devel package contains the libraries and header files
@@ -8366,8 +8382,8 @@ Descript     : The libselinux-devel package contains the libraries and header fi
 <summary>libselinux-ruby</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux ruby bindings for libselinux
+From repo    : updates-testing
+Short desc   : SELinux ruby bindings for libselinux
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : Public Domain
 Descript     : The libselinux-ruby package contains the ruby bindings for developing
@@ -8380,8 +8396,8 @@ Descript     : The libselinux-ruby package contains the ruby bindings for develo
 <summary>libselinux-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SELinux libselinux utilities
+From repo    : anaconda
+Short desc   : SELinux libselinux utilities
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : Public Domain
 Descript     : The libselinux-utils package contains the utilities
@@ -8393,8 +8409,8 @@ Descript     : The libselinux-utils package contains the utilities
 <summary>libselinux-utils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux libselinux utilities
+From repo    : updates-testing
+Short desc   : SELinux libselinux utilities
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : Public Domain
 Descript     : The libselinux-utils package contains the utilities
@@ -8406,8 +8422,8 @@ Descript     : The libselinux-utils package contains the utilities
 <summary>libsemanage</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SELinux binary policy manipulation library
+From repo    : anaconda
+Short desc   : SELinux binary policy manipulation library
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : LGPLv2+
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
@@ -8432,8 +8448,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>libsemanage</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux binary policy manipulation library
+From repo    : updates-testing
+Short desc   : SELinux binary policy manipulation library
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : LGPLv2+
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
@@ -8458,8 +8474,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>libsepol</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SELinux binary policy manipulation library
+From repo    : anaconda
+Short desc   : SELinux binary policy manipulation library
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : LGPLv2+
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
@@ -8484,8 +8500,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>libsepol</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux binary policy manipulation library
+From repo    : updates-testing
+Short desc   : SELinux binary policy manipulation library
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : LGPLv2+
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
@@ -8510,8 +8526,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>libsepol-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Header files and libraries used to build policy manipulation tools
+From repo    : updates-testing
+Short desc   : Header files and libraries used to build policy manipulation tools
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : LGPLv2+
 Descript     : The libsepol-devel package contains the libraries and header files
@@ -8524,8 +8540,8 @@ Descript     : The libsepol-devel package contains the libraries and header file
 <summary>libserf</summary>
 
 ```
-From repo     : fedora
-Short desc    : High-Performance Asynchronous HTTP Client Library
+From repo    : fedora
+Short desc   : High-Performance Asynchronous HTTP Client Library
 URL          : http://serf.apache.org/
 License      : ASL 2.0
 Descript     : The serf library is a C-based HTTP client library built upon the Apache
@@ -8540,8 +8556,8 @@ Descript     : The serf library is a C-based HTTP client library built upon the 
 <summary>libshout</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Icecast source streaming library
+From repo    : anaconda
+Short desc   : Icecast source streaming library
 URL          : https://www.icecast.org/
 License      : LGPLv2+ and MIT
 Descript     : libshout is a library for communicating with and sending data to an
@@ -8555,8 +8571,8 @@ Descript     : libshout is a library for communicating with and sending data to 
 <summary>libsigc++20</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Typesafe signal framework for C++
+From repo    : anaconda
+Short desc   : Typesafe signal framework for C++
 URL          : https://github.com/libsigcplusplus/libsigcplusplus
 License      : LGPLv2+
 Descript     : libsigc++ implements a typesafe callback system for standard C++. It
@@ -8574,8 +8590,8 @@ Descript     : libsigc++ implements a typesafe callback system for standard C++.
 <summary>libsigsegv</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for handling page faults in user mode
+From repo    : anaconda
+Short desc   : Library for handling page faults in user mode
 URL          : https://www.gnu.org/software/libsigsegv/
 License      : GPLv2+
 Descript     : This is a library for handling page faults in user mode. A page fault
@@ -8595,8 +8611,8 @@ Descript     : This is a library for handling page faults in user mode. A page f
 <summary>libslirp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A general purpose TCP-IP emulator
+From repo    : anaconda
+Short desc   : A general purpose TCP-IP emulator
 URL          : https://gitlab.freedesktop.org/slirp/libslirp
 License      : BSD and MIT
 Descript     : A general purpose TCP-IP emulator used by virtual machine hypervisors
@@ -8609,8 +8625,8 @@ Descript     : A general purpose TCP-IP emulator used by virtual machine hypervi
 <summary>libsmartcols</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Formatting library for ls-like programs.
+From repo    : anaconda
+Short desc   : Formatting library for ls-like programs.
 URL          : http://en.wikipedia.org/wiki/Util-linux
 License      : LGPLv2+
 Descript     : This is library for ls-like terminal programs, part of util-linux.
@@ -8623,8 +8639,8 @@ Descript     : This is library for ls-like terminal programs, part of util-linux
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : The SMB client library
+From repo    : anaconda
+Short desc   : The SMB client library
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The libsmbclient contains the SMB client library from the Samba suite.
@@ -8637,8 +8653,8 @@ Descript     : The libsmbclient contains the SMB client library from the Samba s
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : The SMB client library
+From repo    : updates-testing
+Short desc   : The SMB client library
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The libsmbclient contains the SMB client library from the Samba suite.
@@ -8650,8 +8666,8 @@ Descript     : The libsmbclient contains the SMB client library from the Samba s
 <summary>libsmbios</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libsmbios C/C++ shared libraries
+From repo    : anaconda
+Short desc   : Libsmbios C/C++ shared libraries
 URL          : https://github.com/dell/libsmbios
 License      : GPLv2+ or OSL 2.1
 Descript     : Libsmbios is a library and utilities that can be used by client programs to get
@@ -8666,8 +8682,8 @@ Descript     : Libsmbios is a library and utilities that can be used by client p
 <summary>libsmi</summary>
 
 ```
-From repo     : fedora
-Short desc    : A library to access SMI MIB information
+From repo    : fedora
+Short desc   : A library to access SMI MIB information
 URL          : http://www.ibr.cs.tu-bs.de/projects/libsmi/index.html
 License      : GPLv2+ and BSD
 Descript     : Libsmi is a C library to access MIB module information through
@@ -8685,8 +8701,8 @@ Descript     : Libsmi is a C library to access MIB module information through
 <summary>libsndfile</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for reading and writing sound files
+From repo    : anaconda
+Short desc   : Library for reading and writing sound files
 URL          : http://libsndfile.github.io/libsndfile/
 License      : LGPLv2+ and GPLv2+ and BSD
 Descript     : libsndfile is a C library for reading and writing sound files such as
@@ -8702,8 +8718,8 @@ Descript     : libsndfile is a C library for reading and writing sound files suc
 <summary>libsodium</summary>
 
 ```
-From repo     : fedora
-Short desc    : The Sodium crypto library
+From repo    : fedora
+Short desc   : The Sodium crypto library
 URL          : http://libsodium.org/
 License      : ISC
 Descript     : Sodium is a new, easy-to-use software library for encryption, decryption,
@@ -8725,8 +8741,8 @@ Descript     : Sodium is a new, easy-to-use software library for encryption, dec
 <summary>libsolv</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Package dependency solver
+From repo    : anaconda
+Short desc   : Package dependency solver
 URL          : https://github.com/openSUSE/libsolv
 License      : BSD
 Descript     : A free package dependency solver using a satisfiability algorithm. The
@@ -8745,8 +8761,8 @@ Descript     : A free package dependency solver using a satisfiability algorithm
 <summary>libsoup</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Soup, an HTTP library implementation
+From repo    : anaconda
+Short desc   : Soup, an HTTP library implementation
 URL          : https://wiki.gnome.org/Projects/libsoup
 License      : LGPLv2
 Descript     : Libsoup is an HTTP library implementation in C. It was originally part
@@ -8766,8 +8782,8 @@ Descript     : Libsoup is an HTTP library implementation in C. It was originally
 <summary>libsoup</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Soup, an HTTP library implementation
+From repo    : updates-testing
+Short desc   : Soup, an HTTP library implementation
 URL          : https://wiki.gnome.org/Projects/libsoup
 License      : LGPLv2
 Descript     : Libsoup is an HTTP library implementation in C. It was originally part
@@ -8787,8 +8803,8 @@ Descript     : Libsoup is an HTTP library implementation in C. It was originally
 <summary>libspatialite</summary>
 
 ```
-From repo     : fedora
-Short desc    : Enables SQLite to support spatial data
+From repo    : fedora
+Short desc   : Enables SQLite to support spatial data
 URL          : https://www.gaia-gis.it/fossil/libspatialite
 License      : MPLv1.1 or GPLv2+ or LGPLv2+
 Descript     : SpatiaLite is a a library extending the basic SQLite core in order to
@@ -8802,8 +8818,8 @@ Descript     : SpatiaLite is a a library extending the basic SQLite core in orde
 <summary>libspectre</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for rendering PostScript(TM) documents
+From repo    : anaconda
+Short desc   : A library for rendering PostScript(TM) documents
 URL          : http://libspectre.freedesktop.org
 License      : GPLv2+
 Descript     : libspectre is a small library for rendering PostScript(TM) documents.
@@ -8817,8 +8833,8 @@ Descript     : libspectre is a small library for rendering PostScript(TM) docume
 <summary>libsphinxclient</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pure C search-d client API library
+From repo    : fedora
+Short desc   : Pure C search-d client API library
 URL          : http://sphinxsearch.com
 License      : GPLv2+
 Descript     : Pure C search-d client API library
@@ -8831,8 +8847,8 @@ Descript     : Pure C search-d client API library
 <summary>libsrtp</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An implementation of the Secure Real-time Transport Protocol (SRTP)
+From repo    : updates-testing
+Short desc   : An implementation of the Secure Real-time Transport Protocol (SRTP)
 URL          : https://github.com/cisco/libsrtp
 License      : BSD
 Descript     : This package provides an implementation of the Secure Real-time
@@ -8846,8 +8862,8 @@ Descript     : This package provides an implementation of the Secure Real-time
 <summary>libss</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Command line interface parsing library
+From repo    : anaconda
+Short desc   : Command line interface parsing library
 URL          : http://e2fsprogs.sourceforge.net/
 License      : MIT
 Descript     : This is libss, a command line interface parsing library, part of e2fsprogs.
@@ -8865,8 +8881,8 @@ Descript     : This is libss, a command line interface parsing library, part of 
 <summary>libssh</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library implementing the SSH protocol
+From repo    : anaconda
+Short desc   : A library implementing the SSH protocol
 URL          : http://www.libssh.org
 License      : LGPLv2+
 Descript     : The ssh library was designed to be used by programmers needing a working SSH
@@ -8883,8 +8899,8 @@ Descript     : The ssh library was designed to be used by programmers needing a 
 <summary>libssh-config</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Configuration files for libssh
+From repo    : anaconda
+Short desc   : Configuration files for libssh
 URL          : http://www.libssh.org
 License      : LGPLv2+
 Descript     : The libssh-config package provides the default configuration files for libssh.
@@ -8896,8 +8912,8 @@ Descript     : The libssh-config package provides the default configuration file
 <summary>libssh2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library implementing the SSH2 protocol
+From repo    : anaconda
+Short desc   : A library implementing the SSH2 protocol
 URL          : https://www.libssh2.org/
 License      : BSD
 Descript     : libssh2 is a library implementing the SSH2 protocol as defined by
@@ -8912,8 +8928,8 @@ Descript     : libssh2 is a library implementing the SSH2 protocol as defined by
 <summary>libssh2-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libssh2
+From repo    : fedora
+Short desc   : Development files for libssh2
 URL          : https://www.libssh2.org/
 License      : BSD
 Descript     : The libssh2-devel package contains libraries and header files for
@@ -8926,8 +8942,8 @@ Descript     : The libssh2-devel package contains libraries and header files for
 <summary>libsss_autofs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library to allow communication between Autofs and SSSD
+From repo    : anaconda
+Short desc   : A library to allow communication between Autofs and SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : A utility library to allow communication between Autofs and SSSD
@@ -8939,8 +8955,8 @@ Descript     : A utility library to allow communication between Autofs and SSSD
 <summary>libsss_autofs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library to allow communication between Autofs and SSSD
+From repo    : updates-testing
+Short desc   : A library to allow communication between Autofs and SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : A utility library to allow communication between Autofs and SSSD
@@ -8952,8 +8968,8 @@ Descript     : A utility library to allow communication between Autofs and SSSD
 <summary>libsss_certmap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SSSD Certificate Mapping Library
+From repo    : anaconda
+Short desc   : SSSD Certificate Mapping Library
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Library to map certificates to users based on rules
@@ -8965,8 +8981,8 @@ Descript     : Library to map certificates to users based on rules
 <summary>libsss_certmap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SSSD Certificate Mapping Library
+From repo    : updates-testing
+Short desc   : SSSD Certificate Mapping Library
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Library to map certificates to users based on rules
@@ -8978,8 +8994,8 @@ Descript     : Library to map certificates to users based on rules
 <summary>libsss_idmap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : FreeIPA Idmap library
+From repo    : anaconda
+Short desc   : FreeIPA Idmap library
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Utility library to convert SIDs to Unix uids and gids
@@ -8991,8 +9007,8 @@ Descript     : Utility library to convert SIDs to Unix uids and gids
 <summary>libsss_idmap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : FreeIPA Idmap library
+From repo    : updates-testing
+Short desc   : FreeIPA Idmap library
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Utility library to convert SIDs to Unix uids and gids
@@ -9004,8 +9020,8 @@ Descript     : Utility library to convert SIDs to Unix uids and gids
 <summary>libsss_nss_idmap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for SID and certificate based lookups
+From repo    : anaconda
+Short desc   : Library for SID and certificate based lookups
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Utility library for SID and certificate based lookups
@@ -9017,8 +9033,8 @@ Descript     : Utility library for SID and certificate based lookups
 <summary>libsss_nss_idmap</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library for SID and certificate based lookups
+From repo    : updates-testing
+Short desc   : Library for SID and certificate based lookups
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : Utility library for SID and certificate based lookups
@@ -9030,8 +9046,8 @@ Descript     : Utility library for SID and certificate based lookups
 <summary>libsss_sudo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library to allow communication between SUDO and SSSD
+From repo    : anaconda
+Short desc   : A library to allow communication between SUDO and SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : A utility library to allow communication between SUDO and SSSD
@@ -9043,8 +9059,8 @@ Descript     : A utility library to allow communication between SUDO and SSSD
 <summary>libsss_sudo</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library to allow communication between SUDO and SSSD
+From repo    : updates-testing
+Short desc   : A library to allow communication between SUDO and SSSD
 URL          : https://github.com/SSSD/sssd/
 License      : LGPLv3+
 Descript     : A utility library to allow communication between SUDO and SSSD
@@ -9056,8 +9072,8 @@ Descript     : A utility library to allow communication between SUDO and SSSD
 <summary>libstaroffice</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of binary StarOffice documents
+From repo    : anaconda
+Short desc   : A library for import of binary StarOffice documents
 URL          : https://github.com/fosnola/libstaroffice/wiki
 License      : MPLv2.0 or LGPLv2+
 Descript     : libstaroffice is a library for import of binary StarOffice documents.
@@ -9070,8 +9086,8 @@ Descript     : libstaroffice is a library for import of binary StarOffice docume
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A library that provides cross platform access to statistics of the system
+From repo    : fedora
+Short desc   : A library that provides cross platform access to statistics of the system
 URL          : http://www.i-scream.org/libstatgrab
 License      : LGPLv2+
 Descript     : Libstatgrab is a library that provides cross platform access to statistics
@@ -9090,8 +9106,8 @@ Descript     : Libstatgrab is a library that provides cross platform access to s
 <summary>libstdc++</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNU Standard C++ Library
+From repo    : anaconda
+Short desc   : GNU Standard C++ Library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : The libstdc++ package contains a rewritten standard compliant GCC Standard
@@ -9104,8 +9120,8 @@ Descript     : The libstdc++ package contains a rewritten standard compliant GCC
 <summary>libstdc++</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GNU Standard C++ Library
+From repo    : updates-testing
+Short desc   : GNU Standard C++ Library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : The libstdc++ package contains a rewritten standard compliant GCC Standard
@@ -9118,8 +9134,8 @@ Descript     : The libstdc++ package contains a rewritten standard compliant GCC
 <summary>libstdc++-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Header files and libraries for C++ development
+From repo    : updates-testing
+Short desc   : Header files and libraries for C++ development
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This is the GNU implementation of the standard C++ libraries.  This
@@ -9133,8 +9149,8 @@ Descript     : This is the GNU implementation of the standard C++ libraries.  Th
 <summary>libstemmer</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C stemming algorithm library
+From repo    : anaconda
+Short desc   : C stemming algorithm library
 URL          : http://snowball.tartarus.org
 License      : BSD
 Descript     : Snowball stemming algorithms for use in Information Retrieval Snowball
@@ -9159,8 +9175,8 @@ Descript     : Snowball stemming algorithms for use in Information Retrieval Sno
 <summary>libstoragemgmt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Storage array management library
+From repo    : updates-testing
+Short desc   : Storage array management library
 URL          : https://github.com/libstorage/libstoragemgmt
 License      : LGPLv2+
 Descript     : The libStorageMgmt library will provide a vendor agnostic open source storage
@@ -9176,8 +9192,8 @@ Descript     : The libStorageMgmt library will provide a vendor agnostic open so
 <summary>libsysprof</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Sysprof libraries
+From repo    : updates-testing
+Short desc   : Sysprof libraries
 URL          : http://www.sysprof.com
 License      : GPLv3+
 Descript     : The libsysprof package contains the Sysprof libraries.
@@ -9189,8 +9205,8 @@ Descript     : The libsysprof package contains the Sysprof libraries.
 <summary>libsysprof-ui</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Sysprof UI library
+From repo    : updates-testing
+Short desc   : Sysprof UI library
 URL          : http://www.sysprof.com
 License      : GPLv3+
 Descript     : The libsysprof-ui package contains the Sysprof UI library.
@@ -9202,8 +9218,8 @@ Descript     : The libsysprof-ui package contains the Sysprof UI library.
 <summary>libtalloc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The talloc library
+From repo    : anaconda
+Short desc   : The talloc library
 URL          : https://talloc.samba.org/
 License      : LGPLv3+
 Descript     : A library that implements a hierarchical allocator with destructors.
@@ -9215,8 +9231,8 @@ Descript     : A library that implements a hierarchical allocator with destructo
 <summary>libtar</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tar file manipulation API
+From repo    : anaconda
+Short desc   : Tar file manipulation API
 URL          : http://repo.or.cz/libtar.git
 License      : MIT
 Descript     : libtar is a C library for manipulating tar archives. It supports both
@@ -9230,8 +9246,8 @@ Descript     : libtar is a C library for manipulating tar archives. It supports 
 <summary>libtasn1</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The ASN.1 library used in GNUTLS
+From repo    : anaconda
+Short desc   : The ASN.1 library used in GNUTLS
 URL          : http://www.gnu.org/software/libtasn1/
 License      : GPLv3+ and LGPLv2+
 Descript     : A library that provides Abstract Syntax Notation One (ASN.1, as specified
@@ -9245,8 +9261,8 @@ Descript     : A library that provides Abstract Syntax Notation One (ASN.1, as s
 <summary>libtdb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The tdb library
+From repo    : anaconda
+Short desc   : The tdb library
 URL          : http://tdb.samba.org/
 License      : LGPLv3+
 Descript     : A library that implements a trivial database.
@@ -9258,8 +9274,8 @@ Descript     : A library that implements a trivial database.
 <summary>libteam</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for controlling team network device
+From repo    : anaconda
+Short desc   : Library for controlling team network device
 URL          : http://www.libteam.org
 License      : LGPLv2+
 Descript     : This package contains a library which is a user-space
@@ -9273,8 +9289,8 @@ Descript     : This package contains a library which is a user-space
 <summary>libtevent</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The tevent library
+From repo    : anaconda
+Short desc   : The tevent library
 URL          : http://tevent.samba.org/
 License      : LGPLv3+
 Descript     : Tevent is an event system based on the talloc memory management library.
@@ -9290,8 +9306,8 @@ Descript     : Tevent is an event system based on the talloc memory management l
 <summary>libtextstyle</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Text styling library
+From repo    : anaconda
+Short desc   : Text styling library
 URL          : http://www.gnu.org/software/gettext/
 License      : GPLv3+
 Descript     : Library for producing styled text to be displayed in a terminal
@@ -9304,8 +9320,8 @@ Descript     : Library for producing styled text to be displayed in a terminal
 <summary>libthai</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Thai language support routines
+From repo    : anaconda
+Short desc   : Thai language support routines
 URL          : http://linux.thai.net
 License      : LGPLv2+
 Descript     : LibThai is a set of Thai language support routines aimed to ease
@@ -9320,8 +9336,8 @@ Descript     : LibThai is a set of Thai language support routines aimed to ease
 <summary>libthai-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Thai language support routines
+From repo    : fedora
+Short desc   : Thai language support routines
 URL          : http://linux.thai.net
 License      : LGPLv2+
 Descript     : The libthai-devel package includes the header files and developer docs
@@ -9338,8 +9354,8 @@ Descript     : The libthai-devel package includes the header files and developer
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Theora Video Compression Codec
+From repo    : anaconda
+Short desc   : Theora Video Compression Codec
 URL          : http://www.theora.org
 License      : BSD
 Descript     : Theora is Xiph.Org's first publicly released video codec, intended
@@ -9356,8 +9372,8 @@ Descript     : Theora is Xiph.Org's first publicly released video codec, intende
 <summary>libtiff</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library of functions for manipulating TIFF format image files
+From repo    : anaconda
+Short desc   : Library of functions for manipulating TIFF format image files
 URL          : http://www.simplesystems.org/libtiff/
 License      : libtiff
 Descript     : The libtiff package contains a library of functions for manipulating
@@ -9375,8 +9391,8 @@ Descript     : The libtiff package contains a library of functions for manipulat
 <summary>libtiff-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development tools for programs which will use the libtiff library
+From repo    : fedora
+Short desc   : Development tools for programs which will use the libtiff library
 URL          : http://www.simplesystems.org/libtiff/
 License      : libtiff
 Descript     : This package contains the header files and documentation necessary for
@@ -9394,8 +9410,8 @@ Descript     : This package contains the header files and documentation necessar
 <summary>libtimezonemap</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Time zone map widget for Gtk+
+From repo    : anaconda
+Short desc   : Time zone map widget for Gtk+
 URL          : https://launchpad.net/timezonemap
 License      : GPLv3
 Descript     : libtimezonemap is a time zone map widget for Gtk+. The widget displays a world
@@ -9412,8 +9428,8 @@ Descript     : libtimezonemap is a time zone map widget for Gtk+. The widget dis
 <summary>libtirpc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Transport Independent RPC Library
+From repo    : anaconda
+Short desc   : Transport Independent RPC Library
 URL          : http://git.linux-nfs.org/?p=steved/libtirpc.git;a=summary
 License      : SISSL and BSD
 Descript     : This package contains SunLib's implementation of transport-independent
@@ -9434,8 +9450,8 @@ Descript     : This package contains SunLib's implementation of transport-indepe
 <summary>libtirpc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Transport Independent RPC Library
+From repo    : updates-testing
+Short desc   : Transport Independent RPC Library
 URL          : http://git.linux-nfs.org/?p=steved/libtirpc.git;a=summary
 License      : SISSL and BSD
 Descript     : This package contains SunLib's implementation of transport-independent
@@ -9456,8 +9472,8 @@ Descript     : This package contains SunLib's implementation of transport-indepe
 <summary>libtomcrypt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A comprehensive, portable cryptographic toolkit
+From repo    : updates-testing
+Short desc   : A comprehensive, portable cryptographic toolkit
 URL          : http://www.libtom.net/
 License      : Public Domain or WTFPL
 Descript     : A comprehensive, modular and portable cryptographic toolkit that provides
@@ -9477,8 +9493,8 @@ Descript     : A comprehensive, modular and portable cryptographic toolkit that 
 <summary>libtommath</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A portable number theoretic multiple-precision integer library
+From repo    : anaconda
+Short desc   : A portable number theoretic multiple-precision integer library
 URL          : http://www.libtom.net/
 License      : Public Domain
 Descript     : A free open source portable number theoretic multiple-precision integer library
@@ -9493,8 +9509,8 @@ Descript     : A free open source portable number theoretic multiple-precision i
 <summary>libtool</summary>
 
 ```
-From repo     : fedora
-Short desc    : The GNU Portable Library Tool
+From repo    : fedora
+Short desc   : The GNU Portable Library Tool
 URL          : http://www.gnu.org/software/libtool/
 License      : GPLv2+ and LGPLv2+ and GFDL
 Descript     : GNU Libtool is a set of shell scripts which automatically configure UNIX and
@@ -9518,8 +9534,8 @@ Descript     : GNU Libtool is a set of shell scripts which automatically configu
 <summary>libtool-ltdl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Runtime libraries for GNU Libtool Dynamic Module Loader
+From repo    : anaconda
+Short desc   : Runtime libraries for GNU Libtool Dynamic Module Loader
 URL          : http://www.gnu.org/software/libtool/
 License      : LGPLv2+
 Descript     : The libtool-ltdl package contains the GNU Libtool Dynamic Module Loader, a
@@ -9537,8 +9553,8 @@ Descript     : The libtool-ltdl package contains the GNU Libtool Dynamic Module 
 <summary>libtpms</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library providing Trusted Platform Module (TPM) functionality
+From repo    : updates-testing
+Short desc   : Library providing Trusted Platform Module (TPM) functionality
 URL          : http://github.com/stefanberger/libtpms
 License      : BSD
 Descript     : A library providing TPM functionality for VMs. Targeted for integration
@@ -9551,8 +9567,8 @@ Descript     : A library providing TPM functionality for VMs. Targeted for integ
 <summary>libtracker-control</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tracker control library
+From repo    : anaconda
+Short desc   : Tracker control library
 URL          : https://wiki.gnome.org/Projects/Tracker
 License      : GPLv2+
 Descript     : This package contains the libtracker-control library.
@@ -9564,8 +9580,8 @@ Descript     : This package contains the libtracker-control library.
 <summary>libtracker-miner</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tracker miner library
+From repo    : anaconda
+Short desc   : Tracker miner library
 URL          : https://wiki.gnome.org/Projects/Tracker
 License      : GPLv2+
 Descript     : This package contains the libtracker-miner library.
@@ -9577,8 +9593,8 @@ Descript     : This package contains the libtracker-miner library.
 <summary>libtracker-sparql</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tracker SPARQL library
+From repo    : anaconda
+Short desc   : Tracker SPARQL library
 URL          : https://wiki.gnome.org/Projects/Tracker
 License      : GPLv2+
 Descript     : This package contains the libtracker-sparql library.
@@ -9590,8 +9606,8 @@ Descript     : This package contains the libtracker-sparql library.
 <summary>libtracker-sparql</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tracker SPARQL library
+From repo    : updates-testing
+Short desc   : Tracker SPARQL library
 URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 License      : LGPLv2+
 Descript     : This package contains the libtracker-sparql library.
@@ -9603,8 +9619,8 @@ Descript     : This package contains the libtracker-sparql library.
 <summary>libtracker-sparql3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tracker SPARQL library
+From repo    : anaconda
+Short desc   : Tracker SPARQL library
 URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 License      : LGPLv2+
 Descript     : This package contains the libtracker-sparql library.
@@ -9616,8 +9632,8 @@ Descript     : This package contains the libtracker-sparql library.
 <summary>libudfread</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : UDF reader library
+From repo    : updates-testing
+Short desc   : UDF reader library
 URL          : https://code.videolan.org/videolan/libudfread
 License      : LGPLv2+
 Descript     : This library allows reading UDF filesystems, like raw devices and image files.
@@ -9631,8 +9647,8 @@ Descript     : This library allows reading UDF filesystems, like raw devices and
 <summary>libudisks2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Dynamic library to access the udisksd daemon
+From repo    : anaconda
+Short desc   : Dynamic library to access the udisksd daemon
 URL          : https://github.com/storaged-project/udisks
 License      : LGPLv2+
 Descript     : This package contains the dynamic library, which provides
@@ -9645,8 +9661,8 @@ Descript     : This package contains the dynamic library, which provides
 <summary>libudisks2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Dynamic library to access the udisksd daemon
+From repo    : updates-testing
+Short desc   : Dynamic library to access the udisksd daemon
 URL          : https://github.com/storaged-project/udisks
 License      : LGPLv2+
 Descript     : This package contains the dynamic library, which provides
@@ -9659,8 +9675,8 @@ Descript     : This package contains the dynamic library, which provides
 <summary>libunistring</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNU Unicode string library
+From repo    : anaconda
+Short desc   : GNU Unicode string library
 URL          : https://www.gnu.org/software/libunistring/
 License      : GPLV2+ or LGPLv3+
 Descript     : This portable C library implements Unicode string types in three flavours:
@@ -9676,8 +9692,8 @@ Descript     : This portable C library implements Unicode string types in three 
 <summary>libunwind</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An unwinding library
+From repo    : anaconda
+Short desc   : An unwinding library
 URL          : http://savannah.nongnu.org/projects/libunwind
 License      : BSD
 Descript     : Libunwind provides a C ABI to determine the call-chain of a program.
@@ -9689,8 +9705,8 @@ Descript     : Libunwind provides a C ABI to determine the call-chain of a progr
 <summary>liburing</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux-native io_uring I/O access library
+From repo    : anaconda
+Short desc   : Linux-native io_uring I/O access library
 URL          : https://git.kernel.dk/cgit/liburing/
 License      : (GPLv2 with exceptions and LGPLv2+) or MIT
 Descript     : Provides native async IO for the Linux kernel, in a fast and efficient
@@ -9703,8 +9719,8 @@ Descript     : Provides native async IO for the Linux kernel, in a fast and effi
 <summary>libusal</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to communicate with SCSI devices
+From repo    : anaconda
+Short desc   : Library to communicate with SCSI devices
 URL          : http://cdrkit.org/
 License      : GPLv2
 Descript     : The libusal package contains C libraries that allows applications
@@ -9718,8 +9734,8 @@ Descript     : The libusal package contains C libraries that allows applications
 <summary>libusbmuxd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Client library USB multiplex daemon for Apple's iOS devices
+From repo    : anaconda
+Short desc   : Client library USB multiplex daemon for Apple's iOS devices
 URL          : http://www.libimobiledevice.org/
 License      : LGPLv2+
 Descript     : libusbmuxd is the client library used for communicating with Apple's iPod Touch,
@@ -9733,8 +9749,8 @@ Descript     : libusbmuxd is the client library used for communicating with Appl
 <summary>libusbx</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for accessing USB devices
+From repo    : anaconda
+Short desc   : Library for accessing USB devices
 URL          : http://libusb.info
 License      : LGPLv2+
 Descript     : This package provides a way for applications to access USB devices.
@@ -9754,8 +9770,8 @@ Descript     : This package provides a way for applications to access USB device
 <summary>libusbx-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libusbx
+From repo    : fedora
+Short desc   : Development files for libusbx
 URL          : http://libusb.info
 License      : LGPLv2+
 Descript     : The libusbx-devel package contains libraries and header files for
@@ -9768,8 +9784,8 @@ Descript     : The libusbx-devel package contains libraries and header files for
 <summary>libuser</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A user and group account administration library
+From repo    : updates-testing
+Short desc   : A user and group account administration library
 URL          : https://pagure.io/libuser
 License      : LGPLv2+
 Descript     : The libuser library implements a standardized interface for manipulating
@@ -9786,8 +9802,8 @@ Descript     : The libuser library implements a standardized interface for manip
 <summary>libutempter</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A privileged helper for utmp/wtmp updates
+From repo    : anaconda
+Short desc   : A privileged helper for utmp/wtmp updates
 URL          : ftp://ftp.altlinux.org/pub/people/ldv/utempter
 License      : LGPLv2+
 Descript     : This library provides interface for terminal emulators such as
@@ -9800,8 +9816,8 @@ Descript     : This library provides interface for terminal emulators such as
 <summary>libuuid</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Universally unique ID library
+From repo    : anaconda
+Short desc   : Universally unique ID library
 URL          : http://en.wikipedia.org/wiki/Util-linux
 License      : BSD
 Descript     : This is the universally unique ID library, part of util-linux.
@@ -9823,8 +9839,8 @@ Descript     : This is the universally unique ID library, part of util-linux.
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Platform layer for node.js
+From repo    : anaconda
+Short desc   : Platform layer for node.js
 URL          : http://libuv.org/
 License      : MIT and BSD and ISC
 Descript     : libuv is a new platform layer for Node. Its purpose is to abstract IOCP on
@@ -9839,8 +9855,8 @@ Descript     : libuv is a new platform layer for Node. Its purpose is to abstrac
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Platform layer for node.js
+From repo    : fedora
+Short desc   : Platform layer for node.js
 URL          : http://libuv.org/
 License      : MIT and BSD and ISC
 Descript     : libuv is a new platform layer for Node. Its purpose is to abstract IOCP on
@@ -9854,8 +9870,8 @@ Descript     : libuv is a new platform layer for Node. Its purpose is to abstrac
 <summary>libv4l</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Collection of video4linux support libraries
+From repo    : anaconda
+Short desc   : Collection of video4linux support libraries
 URL          : http://hansdegoede.livejournal.com/3636.html
 License      : LGPLv2+ and GPLv2
 Descript     : libv4l is a collection of libraries which adds a thin abstraction layer on
@@ -9881,8 +9897,8 @@ Descript     : libv4l is a collection of libraries which adds a thin abstraction
 <summary>libva</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Video Acceleration (VA) API for Linux
+From repo    : anaconda
+Short desc   : Video Acceleration (VA) API for Linux
 URL          : https://github.com/intel/libva
 License      : MIT
 Descript     : Libva is a library providing the VA API video acceleration API.
@@ -9894,8 +9910,8 @@ Descript     : Libva is a library providing the VA API video acceleration API.
 <summary>libva</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Video Acceleration (VA) API for Linux
+From repo    : updates-testing
+Short desc   : Video Acceleration (VA) API for Linux
 URL          : https://github.com/intel/libva
 License      : MIT
 Descript     : Libva is a library providing the VA API video acceleration API.
@@ -9907,8 +9923,8 @@ Descript     : Libva is a library providing the VA API video acceleration API.
 <summary>libva-utils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tools for VAAPI (including vainfo)
+From repo    : updates-testing
+Short desc   : Tools for VAAPI (including vainfo)
 URL          : https://github.com/intel/libva-utils
 License      : MIT and BSD
 Descript     : The libva-utils package contains tools that are provided as part
@@ -9922,8 +9938,8 @@ Descript     : The libva-utils package contains tools that are provided as part
 <summary>libva-vdpau-driver</summary>
 
 ```
-From repo     : fedora
-Short desc    : HW video decode support for VDPAU platforms
+From repo    : fedora
+Short desc   : HW video decode support for VDPAU platforms
 URL          : http://cgit.freedesktop.org/vaapi/vdpau-driver
 License      : GPLv2+
 Descript     : VDPAU Backend for Video Acceleration (VA) API.
@@ -9935,8 +9951,8 @@ Descript     : VDPAU Backend for Video Acceleration (VA) API.
 <summary>libvala</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Vala compiler library
+From repo    : updates-testing
+Short desc   : Vala compiler library
 URL          : https://wiki.gnome.org/Projects/Vala
 License      : LGPLv2+ and BSD
 Descript     : Vala is a new programming language that aims to bring modern programming
@@ -9953,8 +9969,8 @@ Descript     : Vala is a new programming language that aims to bring modern prog
 <summary>libvala-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for libvala
+From repo    : updates-testing
+Short desc   : Development files for libvala
 URL          : https://wiki.gnome.org/Projects/Vala
 License      : LGPLv2+ and BSD
 Descript     : Vala is a new programming language that aims to bring modern programming
@@ -9972,8 +9988,8 @@ Descript     : Vala is a new programming language that aims to bring modern prog
 <summary>libvdpau</summary>
 
 ```
-From repo     : fedora
-Short desc    : Wrapper library for the Video Decode and Presentation API
+From repo    : fedora
+Short desc   : Wrapper library for the Video Decode and Presentation API
 URL          : https://freedesktop.org/wiki/Software/VDPAU/
 License      : MIT
 Descript     : VDPAU is the Video Decode and Presentation API for UNIX. It provides an
@@ -9987,8 +10003,8 @@ Descript     : VDPAU is the Video Decode and Presentation API for UNIX. It provi
 <summary>libverto</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Main loop abstraction library
+From repo    : anaconda
+Short desc   : Main loop abstraction library
 URL          : https://github.com/latchset/libverto
 License      : MIT
 Descript     : libverto provides a way for libraries to expose asynchronous interfaces
@@ -10010,8 +10026,8 @@ Descript     : libverto provides a way for libraries to expose asynchronous inte
 <summary>libverto</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Main loop abstraction library
+From repo    : updates-testing
+Short desc   : Main loop abstraction library
 URL          : https://github.com/latchset/libverto
 License      : MIT
 Descript     : libverto provides a way for libraries to expose asynchronous interfaces
@@ -10033,8 +10049,8 @@ Descript     : libverto provides a way for libraries to expose asynchronous inte
 <summary>libverto-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for libverto
+From repo    : updates-testing
+Short desc   : Development files for libverto
 URL          : https://github.com/latchset/libverto
 License      : MIT
 Descript     : The libverto-devel package contains libraries and header files for
@@ -10047,8 +10063,8 @@ Descript     : The libverto-devel package contains libraries and header files fo
 <summary>libverto-libev</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : libev module for libverto
+From repo    : updates-testing
+Short desc   : libev module for libverto
 URL          : https://github.com/latchset/libverto
 License      : MIT
 Descript     : Module for libverto which provides integration with libev.
@@ -10063,8 +10079,8 @@ Descript     : Module for libverto which provides integration with libev.
 <summary>libvidcap</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cross-platform video capture library
+From repo    : fedora
+Short desc   : Cross-platform video capture library
 URL          : http://libvidcap.sourceforge.net/
 License      : LGPLv2+
 Descript     : A cross-platform library for capturing video from webcams and other video
@@ -10077,8 +10093,8 @@ Descript     : A cross-platform library for capturing video from webcams and oth
 <summary>libvirt-daemon</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Server side daemon and supporting files for libvirt library
+From repo    : anaconda
+Short desc   : Server side daemon and supporting files for libvirt library
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : Server side daemon required to manage the virtualization capabilities
@@ -10092,8 +10108,8 @@ Descript     : Server side daemon required to manage the virtualization capabili
 <summary>libvirt-daemon-config-network</summary>
 
 ```
-From repo     : fedora
-Short desc    : Default configuration files for the libvirtd daemon
+From repo    : fedora
+Short desc   : Default configuration files for the libvirtd daemon
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : Default configuration files for setting up NAT based networking
@@ -10105,8 +10121,8 @@ Descript     : Default configuration files for setting up NAT based networking
 <summary>libvirt-daemon-driver-interface</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Interface driver plugin for the libvirtd daemon
+From repo    : anaconda
+Short desc   : Interface driver plugin for the libvirtd daemon
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The interface driver plugin for the libvirtd daemon, providing
@@ -10119,8 +10135,8 @@ Descript     : The interface driver plugin for the libvirtd daemon, providing
 <summary>libvirt-daemon-driver-network</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Network driver plugin for the libvirtd daemon
+From repo    : anaconda
+Short desc   : Network driver plugin for the libvirtd daemon
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The network driver plugin for the libvirtd daemon, providing
@@ -10134,8 +10150,8 @@ Descript     : The network driver plugin for the libvirtd daemon, providing
 <summary>libvirt-daemon-driver-nodedev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Nodedev driver plugin for the libvirtd daemon
+From repo    : anaconda
+Short desc   : Nodedev driver plugin for the libvirtd daemon
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The nodedev driver plugin for the libvirtd daemon, providing
@@ -10149,8 +10165,8 @@ Descript     : The nodedev driver plugin for the libvirtd daemon, providing
 <summary>libvirt-daemon-driver-nwfilter</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Nwfilter driver plugin for the libvirtd daemon
+From repo    : anaconda
+Short desc   : Nwfilter driver plugin for the libvirtd daemon
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The nwfilter driver plugin for the libvirtd daemon, providing
@@ -10164,8 +10180,8 @@ Descript     : The nwfilter driver plugin for the libvirtd daemon, providing
 <summary>libvirt-daemon-driver-qemu</summary>
 
 ```
-From repo     : anaconda
-Short desc    : QEMU driver plugin for the libvirtd daemon
+From repo    : anaconda
+Short desc   : QEMU driver plugin for the libvirtd daemon
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The qemu driver plugin for the libvirtd daemon, providing
@@ -10179,8 +10195,8 @@ Descript     : The qemu driver plugin for the libvirtd daemon, providing
 <summary>libvirt-daemon-driver-secret</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Secret driver plugin for the libvirtd daemon
+From repo    : anaconda
+Short desc   : Secret driver plugin for the libvirtd daemon
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The secret driver plugin for the libvirtd daemon, providing
@@ -10193,8 +10209,8 @@ Descript     : The secret driver plugin for the libvirtd daemon, providing
 <summary>libvirt-daemon-driver-storage</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin including all backends for the libvirtd daemon
+From repo    : anaconda
+Short desc   : Storage driver plugin including all backends for the libvirtd daemon
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver plugin for the libvirtd daemon, providing
@@ -10208,8 +10224,8 @@ Descript     : The storage driver plugin for the libvirtd daemon, providing
 <summary>libvirt-daemon-driver-storage-core</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin including base backends for the libvirtd daemon
+From repo    : anaconda
+Short desc   : Storage driver plugin including base backends for the libvirtd daemon
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver plugin for the libvirtd daemon, providing
@@ -10223,8 +10239,8 @@ Descript     : The storage driver plugin for the libvirtd daemon, providing
 <summary>libvirt-daemon-driver-storage-disk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for disk
+From repo    : anaconda
+Short desc   : Storage driver plugin for disk
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for block
@@ -10237,8 +10253,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-driver-storage-gluster</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for gluster
+From repo    : anaconda
+Short desc   : Storage driver plugin for gluster
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for gluster
@@ -10251,8 +10267,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-driver-storage-iscsi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for iscsi
+From repo    : anaconda
+Short desc   : Storage driver plugin for iscsi
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for iscsi
@@ -10265,8 +10281,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-driver-storage-iscsi-direct</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for iscsi-direct
+From repo    : anaconda
+Short desc   : Storage driver plugin for iscsi-direct
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for iscsi
@@ -10279,8 +10295,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-driver-storage-logical</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for lvm volumes
+From repo    : anaconda
+Short desc   : Storage driver plugin for lvm volumes
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for block
@@ -10293,8 +10309,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-driver-storage-mpath</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for multipath volumes
+From repo    : anaconda
+Short desc   : Storage driver plugin for multipath volumes
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for
@@ -10307,8 +10323,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-driver-storage-rbd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for rbd
+From repo    : anaconda
+Short desc   : Storage driver plugin for rbd
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for rbd
@@ -10321,8 +10337,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-driver-storage-scsi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for local scsi devices
+From repo    : anaconda
+Short desc   : Storage driver plugin for local scsi devices
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for scsi
@@ -10335,8 +10351,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-driver-storage-sheepdog</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for sheepdog
+From repo    : anaconda
+Short desc   : Storage driver plugin for sheepdog
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for
@@ -10349,8 +10365,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-driver-storage-zfs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Storage driver plugin for ZFS
+From repo    : anaconda
+Short desc   : Storage driver plugin for ZFS
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : The storage driver backend adding implementation of the storage APIs for
@@ -10363,8 +10379,8 @@ Descript     : The storage driver backend adding implementation of the storage A
 <summary>libvirt-daemon-kvm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Server side daemon & driver required to run KVM guests
+From repo    : anaconda
+Short desc   : Server side daemon & driver required to run KVM guests
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : Server side daemon and driver required to manage the virtualization
@@ -10377,8 +10393,8 @@ Descript     : Server side daemon and driver required to manage the virtualizati
 <summary>libvirt-designer-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libvirt configuration designer libraries
+From repo    : fedora
+Short desc   : Libvirt configuration designer libraries
 URL          : http://libvirt.org/
 License      : LGPLv2+
 Descript     : This package provides the libvirt configuration designer run-time
@@ -10391,8 +10407,8 @@ Descript     : This package provides the libvirt configuration designer run-time
 <summary>libvirt-designer-vala</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libvirt designer vala language bindings
+From repo    : fedora
+Short desc   : Libvirt designer vala language bindings
 URL          : http://libvirt.org/
 License      : LGPLv2+
 Descript     : This package provides the libvirt configuration designer vala
@@ -10405,8 +10421,8 @@ Descript     : This package provides the libvirt configuration designer vala
 <summary>libvirt-gconfig</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libvirt object APIs for processing object configuration
+From repo    : anaconda
+Short desc   : libvirt object APIs for processing object configuration
 URL          : http://libvirt.org/
 License      : LGPLv2+
 Descript     : This package provides APIs for processing the object configuration
@@ -10419,8 +10435,8 @@ Descript     : This package provides APIs for processing the object configuratio
 <summary>libvirt-gconfig</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : libvirt object APIs for processing object configuration
+From repo    : updates-testing
+Short desc   : libvirt object APIs for processing object configuration
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : This package provides APIs for processing the object configuration
@@ -10433,8 +10449,8 @@ Descript     : This package provides APIs for processing the object configuratio
 <summary>libvirt-glib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libvirt glib integration for events
+From repo    : anaconda
+Short desc   : libvirt glib integration for events
 URL          : http://libvirt.org/
 License      : LGPLv2+
 Descript     : This package provides integration between libvirt and the glib
@@ -10447,8 +10463,8 @@ Descript     : This package provides integration between libvirt and the glib
 <summary>libvirt-glib</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : libvirt glib integration for events
+From repo    : updates-testing
+Short desc   : libvirt glib integration for events
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : This package provides integration between libvirt and the glib
@@ -10461,8 +10477,8 @@ Descript     : This package provides integration between libvirt and the glib
 <summary>libvirt-gobject</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libvirt object APIs for managing virtualization hosts
+From repo    : anaconda
+Short desc   : libvirt object APIs for managing virtualization hosts
 URL          : http://libvirt.org/
 License      : LGPLv2+
 Descript     : This package provides APIs for managing virtualization host
@@ -10475,8 +10491,8 @@ Descript     : This package provides APIs for managing virtualization host
 <summary>libvirt-gobject</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : libvirt object APIs for managing virtualization hosts
+From repo    : updates-testing
+Short desc   : libvirt object APIs for managing virtualization hosts
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : This package provides APIs for managing virtualization host
@@ -10489,8 +10505,8 @@ Descript     : This package provides APIs for managing virtualization host
 <summary>libvirt-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Client side libraries
+From repo    : anaconda
+Short desc   : Client side libraries
 URL          : https://libvirt.org/
 License      : LGPLv2+
 Descript     : Shared libraries for accessing the libvirt daemon.
@@ -10502,8 +10518,8 @@ Descript     : Shared libraries for accessing the libvirt daemon.
 <summary>libvisio</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of Microsoft Visio diagrams
+From repo    : anaconda
+Short desc   : A library for import of Microsoft Visio diagrams
 URL          : http://wiki.documentfoundation.org/DLP/Libraries/libvisio
 License      : MPLv2.0
 Descript     : libvisio is library providing ability to interpret and import
@@ -10518,8 +10534,8 @@ Descript     : libvisio is library providing ability to interpret and import
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Abstraction library for audio visualisation plugins
+From repo    : anaconda
+Short desc   : Abstraction library for audio visualisation plugins
 URL          : http://libvisual.sf.net
 License      : LGPLv2+
 Descript     : Libvisual is an abstraction library that comes between applications and
@@ -10541,8 +10557,8 @@ Descript     : Libvisual is an abstraction library that comes between applicatio
 <summary>libvmaf</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for vmaf
+From repo    : fedora
+Short desc   : Library for vmaf
 URL          : https://github.com/netflix/vmaf
 License      : BSD-2-Clause-Patent
 Descript     : Library for vmaf.
@@ -10554,8 +10570,8 @@ Descript     : Library for vmaf.
 <summary>libvncserver</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to make writing a VNC server easy
+From repo    : anaconda
+Short desc   : Library to make writing a VNC server easy
 URL          : http://libvnc.github.io/
 License      : GPLv2+
 Descript     : LibVNCServer makes writing a VNC server (or more correctly, a program exporting
@@ -10572,8 +10588,8 @@ Descript     : LibVNCServer makes writing a VNC server (or more correctly, a pro
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : The Vorbis General Audio Compression Codec
+From repo    : anaconda
+Short desc   : The Vorbis General Audio Compression Codec
 URL          : https://www.xiph.org/
 License      : BSD
 Descript     : Ogg Vorbis is a fully open, non-proprietary, patent- and royalty-free,
@@ -10590,8 +10606,8 @@ Descript     : Ogg Vorbis is a fully open, non-proprietary, patent- and royalty-
 <summary>libvpx</summary>
 
 ```
-From repo     : anaconda
-Short desc    : VP8/VP9 Video Codec SDK
+From repo    : anaconda
+Short desc   : VP8/VP9 Video Codec SDK
 URL          : http://www.webmproject.org/code/
 License      : BSD
 Descript     : libvpx provides the VP8/VP9 SDK, which allows you to integrate your applications
@@ -10605,8 +10621,8 @@ Descript     : libvpx provides the VP8/VP9 SDK, which allows you to integrate yo
 <summary>libwacom</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tablet Information Client Library
+From repo    : anaconda
+Short desc   : Tablet Information Client Library
 URL          : https://github.com/linuxwacom/libwacom
 License      : MIT
 Descript     : libwacom is a library that provides information about Wacom tablets and
@@ -10620,8 +10636,8 @@ Descript     : libwacom is a library that provides information about Wacom table
 <summary>libwacom</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tablet Information Client Library
+From repo    : updates-testing
+Short desc   : Tablet Information Client Library
 URL          : https://github.com/linuxwacom/libwacom
 License      : MIT
 Descript     : libwacom is a library that provides information about Wacom tablets and
@@ -10635,8 +10651,8 @@ Descript     : libwacom is a library that provides information about Wacom table
 <summary>libwacom-data</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tablet Information Client Library Data Files
+From repo    : anaconda
+Short desc   : Tablet Information Client Library Data Files
 URL          : https://github.com/linuxwacom/libwacom
 License      : MIT
 Descript     : Tablet information client library data files.
@@ -10648,8 +10664,8 @@ Descript     : Tablet information client library data files.
 <summary>libwacom-data</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tablet Information Client Library Data Files
+From repo    : updates-testing
+Short desc   : Tablet Information Client Library Data Files
 URL          : https://github.com/linuxwacom/libwacom
 License      : MIT
 Descript     : Tablet information client library data files.
@@ -10661,8 +10677,8 @@ Descript     : Tablet information client library data files.
 <summary>libwayland-client</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Wayland client library
+From repo    : anaconda
+Short desc   : Wayland client library
 URL          : http://wayland.freedesktop.org/
 License      : MIT
 Descript     : Wayland client library
@@ -10674,8 +10690,8 @@ Descript     : Wayland client library
 <summary>libwayland-cursor</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Wayland cursor library
+From repo    : anaconda
+Short desc   : Wayland cursor library
 URL          : http://wayland.freedesktop.org/
 License      : MIT
 Descript     : Wayland cursor library
@@ -10687,8 +10703,8 @@ Descript     : Wayland cursor library
 <summary>libwayland-egl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Wayland egl library
+From repo    : anaconda
+Short desc   : Wayland egl library
 URL          : http://wayland.freedesktop.org/
 License      : MIT
 Descript     : Wayland egl library
@@ -10700,8 +10716,8 @@ Descript     : Wayland egl library
 <summary>libwayland-server</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Wayland server library
+From repo    : anaconda
+Short desc   : Wayland server library
 URL          : http://wayland.freedesktop.org/
 License      : MIT
 Descript     : Wayland server library
@@ -10714,8 +10730,8 @@ Descript     : Wayland server library
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : The winbind client library
+From repo    : anaconda
+Short desc   : The winbind client library
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The libwbclient package contains the winbind client library from the Samba
@@ -10729,8 +10745,8 @@ Descript     : The libwbclient package contains the winbind client library from 
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : The winbind client library
+From repo    : updates-testing
+Short desc   : The winbind client library
 URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The libwbclient package contains the winbind client library from the Samba
@@ -10743,8 +10759,8 @@ Descript     : The libwbclient package contains the winbind client library from 
 <summary>libwebp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library and tools for the WebP graphics format
+From repo    : anaconda
+Short desc   : Library and tools for the WebP graphics format
 URL          : http://webmproject.org/
 License      : BSD
 Descript     : WebP is an image format that does lossy compression of digital
@@ -10760,8 +10776,8 @@ Descript     : WebP is an image format that does lossy compression of digital
 <summary>libwebp-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libwebp, a library for the WebP format
+From repo    : fedora
+Short desc   : Development files for libwebp, a library for the WebP format
 URL          : http://webmproject.org/
 License      : BSD
 Descript     : WebP is an image format that does lossy compression of digital
@@ -10777,8 +10793,8 @@ Descript     : WebP is an image format that does lossy compression of digital
 <summary>libwebsockets</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lightweight C library for Websockets
+From repo    : fedora
+Short desc   : Lightweight C library for Websockets
 URL          : http://libwebsockets.org
 License      : LGPLv2 and Public Domain and BSD and MIT and zlib
 Descript     : This is the libwebsockets C library for lightweight websocket clients and
@@ -10792,8 +10808,8 @@ Descript     : This is the libwebsockets C library for lightweight websocket cli
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Windows Portable Runtime
+From repo    : anaconda
+Short desc   : Windows Portable Runtime
 URL          : http://www.freerdp.com/
 License      : ASL 2.0
 Descript     : WinPR provides API compatibility for applications targeting non-Windows
@@ -10808,8 +10824,8 @@ Descript     : WinPR provides API compatibility for applications targeting non-W
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Windows Portable Runtime
+From repo    : updates-testing
+Short desc   : Windows Portable Runtime
 URL          : http://www.freerdp.com/
 License      : ASL 2.0
 Descript     : WinPR provides API compatibility for applications targeting non-Windows
@@ -10823,8 +10839,8 @@ Descript     : WinPR provides API compatibility for applications targeting non-W
 <summary>libwmf</summary>
 
 ```
-From repo     : fedora
-Short desc    : Windows MetaFile Library
+From repo    : fedora
+Short desc   : Windows MetaFile Library
 URL          : https://github.com/caolanm/libwmf
 License      : LGPLv2+ and GPLv2+ and GPL+
 Descript     : A library for reading and converting Windows MetaFile vector graphics (WMF).
@@ -10836,8 +10852,8 @@ Descript     : A library for reading and converting Windows MetaFile vector grap
 <summary>libwmf-lite</summary>
 
 ```
-From repo     : fedora
-Short desc    : Windows Metafile parser library
+From repo    : fedora
+Short desc   : Windows Metafile parser library
 URL          : https://github.com/caolanm/libwmf
 License      : LGPLv2+ and GPLv2+ and GPL+
 Descript     : A library for parsing Windows MetaFile vector graphics (WMF).
@@ -10849,8 +10865,8 @@ Descript     : A library for parsing Windows MetaFile vector graphics (WMF).
 <summary>libwnck</summary>
 
 ```
-From repo     : fedora
-Short desc    : Window Navigator Construction Kit
+From repo    : fedora
+Short desc   : Window Navigator Construction Kit
 URL          : http://download.gnome.org/sources/libwnck/
 License      : LGPLv2+
 Descript     : libwnck (pronounced "libwink") is used to implement pagers, tasklists,
@@ -10864,8 +10880,8 @@ Descript     : libwnck (pronounced "libwink") is used to implement pagers, taskl
 <summary>libwnck3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Window Navigator Construction Kit
+From repo    : anaconda
+Short desc   : Window Navigator Construction Kit
 URL          : http://download.gnome.org/sources/libwnck/
 License      : LGPLv2+
 Descript     : libwnck (pronounced "libwink") is used to implement pagers, tasklists,
@@ -10879,8 +10895,8 @@ Descript     : libwnck (pronounced "libwink") is used to implement pagers, taskl
 <summary>libwpd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of WordPerfect documents
+From repo    : anaconda
+Short desc   : A library for import of WordPerfect documents
 URL          : http://libwpd.sf.net/
 License      : LGPLv2+ or MPLv2.0
 Descript     : libwpd is a library for import of WordPerfect documents.
@@ -10892,8 +10908,8 @@ Descript     : libwpd is a library for import of WordPerfect documents.
 <summary>libwpe</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : General-purpose library for the WPE-flavored port of WebKit
+From repo    : updates-testing
+Short desc   : General-purpose library for the WPE-flavored port of WebKit
 URL          : https://github.com/WebPlatformForEmbedded/libwpe
 License      : BSD
 Descript     : General-purpose library developed for the WPE-flavored port of WebKit
@@ -10905,8 +10921,8 @@ Descript     : General-purpose library developed for the WPE-flavored port of We
 <summary>libwpe</summary>
 
 ```
-From repo     : anaconda
-Short desc    : General-purpose library for the WPE-flavored port of WebKit
+From repo    : anaconda
+Short desc   : General-purpose library for the WPE-flavored port of WebKit
 URL          : https://github.com/WebPlatformForEmbedded/libwpe
 License      : BSD
 Descript     : General-purpose library developed for the WPE-flavored port of WebKit
@@ -10918,8 +10934,8 @@ Descript     : General-purpose library developed for the WPE-flavored port of We
 <summary>libwpg</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of WordPerfect Graphics images
+From repo    : anaconda
+Short desc   : A library for import of WordPerfect Graphics images
 URL          : http://libwpg.sourceforge.net/
 License      : LGPLv2+ or MPLv2.0
 Descript     : libwpg is a library for import of images in WPG
@@ -10933,8 +10949,8 @@ Descript     : libwpg is a library for import of images in WPG
 <summary>libwps</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of Microsoft Works documents
+From repo    : anaconda
+Short desc   : A library for import of Microsoft Works documents
 URL          : http://libwps.sourceforge.net/
 License      : LGPLv2+ or MPLv2.0
 Descript     : libwps is a library for import of Microsoft Works text documents,
@@ -10949,8 +10965,8 @@ Descript     : libwps is a library for import of Microsoft Works text documents,
 <summary>libwsman1</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Open source Implementation of WS-Management
+From repo    : anaconda
+Short desc   : Open source Implementation of WS-Management
 URL          : http://www.openwsman.org/
 License      : BSD
 Descript     : Openwsman library for packages dependent on openwsman.
@@ -10962,8 +10978,8 @@ Descript     : Openwsman library for packages dependent on openwsman.
 <summary>libx86emu</summary>
 
 ```
-From repo     : fedora
-Short desc    : x86 emulation library
+From repo    : fedora
+Short desc   : x86 emulation library
 URL          : https://github.com/wfeldt/libx86emu
 License      : BSD
 Descript     : Small x86 emulation library with focus of easy usage and extended execution
@@ -10977,8 +10993,8 @@ Descript     : Small x86 emulation library with focus of easy usage and extended
 <summary>libxcb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A C binding to the X11 protocol
+From repo    : anaconda
+Short desc   : A C binding to the X11 protocol
 URL          : http://xcb.freedesktop.org/
 License      : MIT
 Descript     : The X protocol C-language Binding (XCB) is a replacement for Xlib featuring a
@@ -10992,8 +11008,8 @@ Descript     : The X protocol C-language Binding (XCB) is a replacement for Xlib
 <summary>libxcb-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for libxcb
+From repo    : fedora
+Short desc   : Development files for libxcb
 URL          : http://xcb.freedesktop.org/
 License      : MIT
 Descript     : The libxcb-devel package contains libraries and header files for developing
@@ -11006,8 +11022,8 @@ Descript     : The libxcb-devel package contains libraries and header files for 
 <summary>libxcrypt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Extended crypt library for descrypt, md5crypt, bcrypt, and others
+From repo    : updates-testing
+Short desc   : Extended crypt library for descrypt, md5crypt, bcrypt, and others
 URL          : https://github.com/besser82/libxcrypt
 License      : LGPLv2+ and BSD and Public Domain
 Descript     : libxcrypt is a modern library for one-way hashing of passwords.  It
@@ -11036,8 +11052,8 @@ Descript     : libxcrypt is a modern library for one-way hashing of passwords.  
 <summary>libxcrypt-compat</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Compatibility library providing legacy API functions
+From repo    : updates-testing
+Short desc   : Compatibility library providing legacy API functions
 URL          : https://github.com/besser82/libxcrypt
 License      : LGPLv2+ and BSD and Public Domain
 Descript     : This package contains the library providing the compatibility API
@@ -11057,8 +11073,8 @@ Descript     : This package contains the library providing the compatibility API
 <summary>libxcrypt-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for libxcrypt
+From repo    : updates-testing
+Short desc   : Development files for libxcrypt
 URL          : https://github.com/besser82/libxcrypt
 License      : LGPLv2+ and BSD and Public Domain
 Descript     : The libxcrypt-devel package contains libraries and header files for
@@ -11071,8 +11087,8 @@ Descript     : The libxcrypt-devel package contains libraries and header files f
 <summary>libxdg-basedir</summary>
 
 ```
-From repo     : fedora
-Short desc    : Implementation of the XDG Base Directory Specifications
+From repo    : fedora
+Short desc   : Implementation of the XDG Base Directory Specifications
 URL          : https://github.com/devnev/libxdg-basedir
 License      : MIT
 Descript     : The XDG Base Directory Specification defines where should user files
@@ -11089,8 +11105,8 @@ Descript     : The XDG Base Directory Specification defines where should user fi
 <summary>libxkbcommon</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 XKB parsing library
+From repo    : anaconda
+Short desc   : X.Org X11 XKB parsing library
 URL          : http://www.x.org
 License      : MIT
 Descript     : libxkbcommon is the X.Org library for compiling XKB maps into formats usable by
@@ -11103,8 +11119,8 @@ Descript     : libxkbcommon is the X.Org library for compiling XKB maps into for
 <summary>libxkbcommon-x11</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 XKB keymap creation library
+From repo    : anaconda
+Short desc   : X.Org X11 XKB keymap creation library
 URL          : http://www.x.org
 License      : MIT
 Descript     : libxkbcommon-x11 is the X.Org library for creating keymaps by querying the X
@@ -11117,8 +11133,8 @@ Descript     : libxkbcommon-x11 is the X.Org library for creating keymaps by que
 <summary>libxkbfile</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X.Org X11 libxkbfile runtime library
+From repo    : anaconda
+Short desc   : X.Org X11 libxkbfile runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libxkbfile runtime library
@@ -11130,8 +11146,8 @@ Descript     : X.Org X11 libxkbfile runtime library
 <summary>libxklavier</summary>
 
 ```
-From repo     : anaconda
-Short desc    : High-level API for X Keyboard Extension
+From repo    : anaconda
+Short desc   : High-level API for X Keyboard Extension
 URL          : http://www.freedesktop.org/wiki/Software/LibXklavier
 License      : LGPLv2+
 Descript     : libxklavier is a library providing a high-level API for the X Keyboard
@@ -11146,8 +11162,8 @@ Descript     : libxklavier is a library providing a high-level API for the X Key
 <summary>libxml2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing XML and HTML support
+From repo    : anaconda
+Short desc   : Library providing XML and HTML support
 URL          : http://xmlsoft.org/
 License      : MIT
 Descript     : This library allows to manipulate XML files. It includes support
@@ -11167,8 +11183,8 @@ Descript     : This library allows to manipulate XML files. It includes support
 <summary>libxml2-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries, includes, etc. to develop XML and HTML applications
+From repo    : fedora
+Short desc   : Libraries, includes, etc. to develop XML and HTML applications
 URL          : http://xmlsoft.org/
 License      : MIT
 Descript     : Libraries, include files, etc you can use to develop XML applications.
@@ -11189,8 +11205,8 @@ Descript     : Libraries, include files, etc you can use to develop XML applicat
 <summary>libxmlb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for querying compressed XML metadata
+From repo    : anaconda
+Short desc   : Library for querying compressed XML metadata
 URL          : https://github.com/hughsie/libxmlb
 License      : LGPLv2+
 Descript     : XML is slow to parse and strings inside the document cannot be memory mapped as
@@ -11209,8 +11225,8 @@ Descript     : XML is slow to parse and strings inside the document cannot be me
 <summary>libxmlb</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library for querying compressed XML metadata
+From repo    : updates-testing
+Short desc   : Library for querying compressed XML metadata
 URL          : https://github.com/hughsie/libxmlb
 License      : LGPLv2+
 Descript     : XML is slow to parse and strings inside the document cannot be memory mapped as
@@ -11229,8 +11245,8 @@ Descript     : XML is slow to parse and strings inside the document cannot be me
 <summary>libxshmfence</summary>
 
 ```
-From repo     : anaconda
-Short desc    : X11 shared memory fences
+From repo    : anaconda
+Short desc   : X11 shared memory fences
 URL          : https://www.x.org/
 License      : MIT
 Descript     : Shared memory fences for X11, as used in DRI3.
@@ -11242,8 +11258,8 @@ Descript     : Shared memory fences for X11, as used in DRI3.
 <summary>libxslt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library providing the Gnome XSLT engine
+From repo    : anaconda
+Short desc   : Library providing the Gnome XSLT engine
 URL          : http://xmlsoft.org/XSLT
 License      : MIT
 Descript     : This C library allows to transform XML files into other XML files
@@ -11258,8 +11274,8 @@ Descript     : This C library allows to transform XML files into other XML files
 <summary>libxslt-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development libraries and header files for libxslt
+From repo    : fedora
+Short desc   : Development libraries and header files for libxslt
 URL          : http://xmlsoft.org/XSLT
 License      : MIT
 Descript     : The libxslt-devel package contains libraries and header files for
@@ -11272,8 +11288,8 @@ Descript     : The libxslt-devel package contains libraries and header files for
 <summary>libyaml</summary>
 
 ```
-From repo     : anaconda
-Short desc    : YAML 1.1 parser and emitter written in C
+From repo    : anaconda
+Short desc   : YAML 1.1 parser and emitter written in C
 URL          : https://github.com/yaml/libyaml
 License      : MIT
 Descript     : YAML is a data serialization format designed for human readability and
@@ -11287,8 +11303,8 @@ Descript     : YAML is a data serialization format designed for human readabilit
 <summary>libyaml-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for LibYAML applications
+From repo    : fedora
+Short desc   : Development files for LibYAML applications
 URL          : https://github.com/yaml/libyaml
 License      : MIT
 Descript     : The libyaml-devel package contains libraries and header files for
@@ -11301,8 +11317,8 @@ Descript     : The libyaml-devel package contains libraries and header files for
 <summary>libyubikey</summary>
 
 ```
-From repo     : fedora
-Short desc    : C library for decrypting and parsing Yubikey One-time passwords
+From repo    : fedora
+Short desc   : C library for decrypting and parsing Yubikey One-time passwords
 URL          : http://opensource.yubico.com/yubico-c
 License      : BSD
 Descript     : This package holds a low-level C software development kit for the Yubico
@@ -11315,8 +11331,8 @@ Descript     : This package holds a low-level C software development kit for the
 <summary>libzapojit</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GLib/GObject wrapper for the OneDrive and Hotmail REST APIs
+From repo    : anaconda
+Short desc   : GLib/GObject wrapper for the OneDrive and Hotmail REST APIs
 URL          : https://wiki.gnome.org/Projects/Zapojit
 License      : LGPLv2+
 Descript     : GLib/GObject wrapper for the OneDrive and Hotmail REST APIs. It supports
@@ -11333,8 +11349,8 @@ Descript     : GLib/GObject wrapper for the OneDrive and Hotmail REST APIs. It s
 <summary>libzhuyin</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to deal with zhuyin
+From repo    : anaconda
+Short desc   : Library to deal with zhuyin
 URL          : https://github.com/libpinyin/libpinyin
 License      : GPLv3+
 Descript     : The libzhuyin package contains libzhuyin compatibility library.
@@ -11346,8 +11362,8 @@ Descript     : The libzhuyin package contains libzhuyin compatibility library.
 <summary>libzip</summary>
 
 ```
-From repo     : fedora
-Short desc    : C library for reading, creating, and modifying zip archives
+From repo    : fedora
+Short desc   : C library for reading, creating, and modifying zip archives
 URL          : https://libzip.org/
 License      : BSD
 Descript     : libzip is a C library for reading, creating, and modifying zip archives. Files
@@ -11362,8 +11378,8 @@ Descript     : libzip is a C library for reading, creating, and modifying zip ar
 <summary>libzmf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for import of Zoner document formats
+From repo    : anaconda
+Short desc   : A library for import of Zoner document formats
 URL          : http://wiki.documentfoundation.org/DLP/Libraries/libzmf
 License      : MPLv2.0
 Descript     : libzmf is library providing ability to interpret and import Zoner
@@ -11377,8 +11393,8 @@ Descript     : libzmf is library providing ability to interpret and import Zoner
 <summary>libzstd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Zstd shared library
+From repo    : anaconda
+Short desc   : Zstd shared library
 URL          : https://github.com/facebook/zstd
 License      : BSD and GPLv2
 Descript     : Zstandard compression shared library.
@@ -11390,8 +11406,8 @@ Descript     : Zstandard compression shared library.
 <summary>libzstd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Zstd shared library
+From repo    : updates-testing
+Short desc   : Zstd shared library
 URL          : https://github.com/facebook/zstd
 License      : BSD and GPLv2
 Descript     : Zstandard compression shared library.
@@ -11403,8 +11419,8 @@ Descript     : Zstandard compression shared library.
 <summary>lilv</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An LV2 Resource Description Framework Library
+From repo    : anaconda
+Short desc   : An LV2 Resource Description Framework Library
 URL          : http://drobilla.net/software/lilv/
 License      : MIT
 Descript     : lilv is a library to make the use of LV2 plugins as simple as possible
@@ -11419,8 +11435,8 @@ Descript     : lilv is a library to make the use of LV2 plugins as simple as pos
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Web browser running in both graphics and text mode
+From repo    : fedora
+Short desc   : Web browser running in both graphics and text mode
 URL          : http://links.twibright.com/
 License      : GPLv2+
 Descript     : Links is a web browser capable of running in either graphics or text mode.
@@ -11436,8 +11452,8 @@ Descript     : Links is a web browser capable of running in either graphics or t
 <summary>linux-atm-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux ATM API library
+From repo    : anaconda
+Short desc   : Linux ATM API library
 URL          : http://linux-atm.sourceforge.net/
 License      : LGPLv2+
 Descript     : This package contains the ATM library required for user space ATM tools.
@@ -11449,8 +11465,8 @@ Descript     : This package contains the ATM library required for user space ATM
 <summary>linux-driver-management</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generic driver management framework for Linux
+From repo    : fedora
+Short desc   : Generic driver management framework for Linux
 URL          : https://github.com/solus-project/linux-driver-management
 License      : LGPLv2+ and CC-BY-SA
 Descript     : Linux Driver Management provides a core library and some tooling
@@ -11468,8 +11484,8 @@ Descript     : Linux Driver Management provides a core library and some tooling
 <summary>linux-driver-management-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development documentation for Linux Driver Management
+From repo    : fedora
+Short desc   : Development documentation for Linux Driver Management
 URL          : https://github.com/solus-project/linux-driver-management
 License      : LGPLv2+ and CC-BY-SA
 Descript     : This package contains the developer documentation for integrating
@@ -11482,8 +11498,8 @@ Descript     : This package contains the developer documentation for integrating
 <summary>linux-driver-management-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries for Linux Driver Management
+From repo    : fedora
+Short desc   : Libraries for Linux Driver Management
 URL          : https://github.com/solus-project/linux-driver-management
 License      : LGPLv2+ and CC-BY-SA
 Descript     : This package contains the libraries for Linux Driver Management
@@ -11496,8 +11512,8 @@ Descript     : This package contains the libraries for Linux Driver Management
 <summary>linux-firmware</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Firmware files used by the Linux kernel
+From repo    : anaconda
+Short desc   : Firmware files used by the Linux kernel
 URL          : http://www.kernel.org/
 License      : GPL+ and GPLv2+ and MIT and Redistributable, no modification permitted
 Descript     : This package includes firmware files required for some devices to
@@ -11510,8 +11526,8 @@ Descript     : This package includes firmware files required for some devices to
 <summary>linux-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware files used by the Linux kernel
+From repo    : updates-testing
+Short desc   : Firmware files used by the Linux kernel
 URL          : http://www.kernel.org/
 License      : GPL+ and GPLv2+ and MIT and Redistributable, no modification permitted
 Descript     : This package includes firmware files required for some devices to
@@ -11524,8 +11540,8 @@ Descript     : This package includes firmware files required for some devices to
 <summary>linux-firmware-whence</summary>
 
 ```
-From repo     : anaconda
-Short desc    : WHENCE License file
+From repo    : anaconda
+Short desc   : WHENCE License file
 URL          : http://www.kernel.org/
 License      : GPL+ and GPLv2+ and MIT and Redistributable, no modification permitted
 Descript     : This package contains the WHENCE license file which documents the vendor license details.
@@ -11537,8 +11553,8 @@ Descript     : This package contains the WHENCE license file which documents the
 <summary>linux-firmware-whence</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : WHENCE License file
+From repo    : updates-testing
+Short desc   : WHENCE License file
 URL          : http://www.kernel.org/
 License      : GPL+ and GPLv2+ and MIT and Redistributable, no modification permitted
 Descript     : This package contains the WHENCE license file which documents the vendor license details.
@@ -11550,8 +11566,8 @@ Descript     : This package contains the WHENCE license file which documents the
 <summary>lksctp-tools</summary>
 
 ```
-From repo     : anaconda
-Short desc    : User-space access to Linux Kernel SCTP
+From repo    : anaconda
+Short desc   : User-space access to Linux Kernel SCTP
 URL          : http://lksctp.sourceforge.net
 License      : GPLv2 and GPLv2+ and LGPLv2 and MIT
 Descript     : This is the lksctp-tools package for Linux Kernel SCTP (Stream Control
@@ -11572,8 +11588,8 @@ Descript     : This is the lksctp-tools package for Linux Kernel SCTP (Stream Co
 <summary>lldpad</summary>
 
 ```
-From repo     : fedora
-Short desc    : Intel LLDP Agent
+From repo    : fedora
+Short desc   : Intel LLDP Agent
 URL          : http://open-lldp.org/
 License      : GPLv2
 Descript     : This package contains the Linux user space daemon and configuration tool for
@@ -11586,8 +11602,8 @@ Descript     : This package contains the Linux user space daemon and configurati
 <summary>llvm-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : LLVM shared libraries
+From repo    : updates-testing
+Short desc   : LLVM shared libraries
 URL          : http://llvm.org
 License      : NCSA
 Descript     : Shared libraries for the LLVM compiler infrastructure.
@@ -11599,8 +11615,8 @@ Descript     : Shared libraries for the LLVM compiler infrastructure.
 <summary>llvm11-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : LLVM shared libraries
+From repo    : updates-testing
+Short desc   : LLVM shared libraries
 URL          : http://llvm.org
 License      : NCSA
 Descript     : Shared libraries for the LLVM compiler infrastructure.
@@ -11612,8 +11628,8 @@ Descript     : Shared libraries for the LLVM compiler infrastructure.
 <summary>lm_sensors</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Hardware monitoring tools
+From repo    : updates-testing
+Short desc   : Hardware monitoring tools
 URL          : http://github.com/lm-sensors/lm-sensors/
 License      : GPLv2+ and Verbatim and MIT
 Descript     : The lm_sensors package includes a collection of modules for general SMBus
@@ -11626,8 +11642,8 @@ Descript     : The lm_sensors package includes a collection of modules for gener
 <summary>lm_sensors-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Lm_sensors core libraries
+From repo    : updates-testing
+Short desc   : Lm_sensors core libraries
 URL          : http://github.com/lm-sensors/lm-sensors/
 License      : LGPLv2+
 Descript     : Core libraries for lm_sensors applications
@@ -11639,8 +11655,8 @@ Descript     : Core libraries for lm_sensors applications
 <summary>lmdb-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Shared libraries for lmdb
+From repo    : anaconda
+Short desc   : Shared libraries for lmdb
 URL          : http://symas.com/mdb
 License      : OpenLDAP
 Descript     : The lmdb-libs package contains shared libraries necessary for running
@@ -11653,8 +11669,8 @@ Descript     : The lmdb-libs package contains shared libraries necessary for run
 <summary>lmdb-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Shared libraries for lmdb
+From repo    : updates-testing
+Short desc   : Shared libraries for lmdb
 URL          : http://symas.com/mdb
 License      : OpenLDAP
 Descript     : The lmdb-libs package contains shared libraries necessary for running
@@ -11667,8 +11683,8 @@ Descript     : The lmdb-libs package contains shared libraries necessary for run
 <summary>lockdev</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for locking devices
+From repo    : anaconda
+Short desc   : A library for locking devices
 URL          : https://alioth.debian.org/projects/lockdev/
 License      : LGPLv2
 Descript     : Lockdev provides a reliable way to put an exclusive lock to devices
@@ -11681,8 +11697,8 @@ Descript     : Lockdev provides a reliable way to put an exclusive lock to devic
 <summary>log4cplus</summary>
 
 ```
-From repo     : fedora
-Short desc    : Logging Framework for C++
+From repo    : fedora
+Short desc   : Logging Framework for C++
 URL          : http://sourceforge.net/projects/log4cplus
 License      : ASL 2.0
 Descript     : log4cplus is a simple to use C++ logging API providing thread-safe, flexible,
@@ -11696,8 +11712,8 @@ Descript     : log4cplus is a simple to use C++ logging API providing thread-saf
 <summary>logrotate</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Rotates, compresses, removes and mails system log files
+From repo    : anaconda
+Short desc   : Rotates, compresses, removes and mails system log files
 URL          : https://github.com/logrotate/logrotate
 License      : GPLv2+
 Descript     : The logrotate utility is designed to simplify the administration of
@@ -11716,8 +11732,8 @@ Descript     : The logrotate utility is designed to simplify the administration 
 <summary>lohit-assamese-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free Assamese font
+From repo    : anaconda
+Short desc   : Free Assamese font
 URL          : https://pagure.io/lohit
 License      : OFL
 Descript     : This package provides a free Assamese TrueType/OpenType font.
@@ -11729,8 +11745,8 @@ Descript     : This package provides a free Assamese TrueType/OpenType font.
 <summary>lohit-bengali-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free Bengali script font
+From repo    : anaconda
+Short desc   : Free Bengali script font
 URL          : https://pagure.io/lohit
 License      : OFL
 Descript     : This package provides a free Bengali TrueType/OpenType font.
@@ -11742,8 +11758,8 @@ Descript     : This package provides a free Bengali TrueType/OpenType font.
 <summary>lohit-devanagari-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free Devanagari Script Font
+From repo    : anaconda
+Short desc   : Free Devanagari Script Font
 URL          : https://pagure.io/lohit
 License      : OFL
 Descript     : This package provides a free Devanagari Script TrueType/OpenType font.
@@ -11755,8 +11771,8 @@ Descript     : This package provides a free Devanagari Script TrueType/OpenType 
 <summary>lohit-gujarati-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free Gujarati font
+From repo    : anaconda
+Short desc   : Free Gujarati font
 URL          : https://pagure.io/lohit
 License      : OFL
 Descript     : This package provides a free Gujarati truetype/opentype font.
@@ -11768,8 +11784,8 @@ Descript     : This package provides a free Gujarati truetype/opentype font.
 <summary>lohit-kannada-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free Kannada font
+From repo    : anaconda
+Short desc   : Free Kannada font
 URL          : https://pagure.io/lohit
 License      : OFL
 Descript     : This package provides a free Kannada truetype/opentype font.
@@ -11781,8 +11797,8 @@ Descript     : This package provides a free Kannada truetype/opentype font.
 <summary>lohit-odia-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free truetype font for Odia language
+From repo    : anaconda
+Short desc   : Free truetype font for Odia language
 URL          : https://pagure.io/lohit
 License      : OFL
 Descript     : This package provides a free truetype font for Odia language.
@@ -11794,8 +11810,8 @@ Descript     : This package provides a free truetype font for Odia language.
 <summary>lohit-tamil-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free truetype font for Tamil language
+From repo    : anaconda
+Short desc   : Free truetype font for Tamil language
 URL          : https://pagure.io/lohit/
 License      : OFL
 Descript     : This package provides a free Tamil truetype/opentype font.
@@ -11807,8 +11823,8 @@ Descript     : This package provides a free Tamil truetype/opentype font.
 <summary>lohit-telugu-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free Telugu font
+From repo    : anaconda
+Short desc   : Free Telugu font
 URL          : https://pagure.io/lohit
 License      : OFL
 Descript     : This package provides a free Telugu truetype/opentype font.
@@ -11820,8 +11836,8 @@ Descript     : This package provides a free Telugu truetype/opentype font.
 <summary>low-memory-monitor</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Monitors low-memory conditions
+From repo    : anaconda
+Short desc   : Monitors low-memory conditions
 URL          : https://gitlab.freedesktop.org/hadess/low-memory-monitor
 License      : GPLv3+
 Descript     : The Low Memory Monitor is an early boot daemon that will monitor memory
@@ -11836,8 +11852,8 @@ Descript     : The Low Memory Monitor is an early boot daemon that will monitor 
 <summary>lpsolve</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A Mixed Integer Linear Programming (MILP) solver
+From repo    : anaconda
+Short desc   : A Mixed Integer Linear Programming (MILP) solver
 URL          : http://sourceforge.net/projects/lpsolve
 License      : LGPLv2+
 Descript     : Mixed Integer Linear Programming (MILP) solver lpsolve solves pure linear,
@@ -11850,8 +11866,8 @@ Descript     : Mixed Integer Linear Programming (MILP) solver lpsolve solves pur
 <summary>lrzsz</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The lrz and lsz modem communications programs
+From repo    : anaconda
+Short desc   : The lrz and lsz modem communications programs
 URL          : http://www.ohse.de/uwe/software/lrzsz.html
 License      : GPLv2+
 Descript     : Lrzsz (consisting of lrz and lsz) is a cosmetically modified
@@ -11866,8 +11882,8 @@ Descript     : Lrzsz (consisting of lrz and lsz) is a cosmetically modified
 <summary>lsof</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A utility which lists open files on a Linux/UNIX system
+From repo    : anaconda
+Short desc   : A utility which lists open files on a Linux/UNIX system
 URL          : https://github.com/lsof-org/lsof
 License      : zlib and Sendmail and LGPLv2+
 Descript     : Lsof stands for LiSt Open Files, and it does just that: it lists information
@@ -11880,8 +11896,8 @@ Descript     : Lsof stands for LiSt Open Files, and it does just that: it lists 
 <summary>lsscsi</summary>
 
 ```
-From repo     : fedora
-Short desc    : List SCSI devices (or hosts) and associated information
+From repo    : fedora
+Short desc   : List SCSI devices (or hosts) and associated information
 URL          : http://sg.danny.cz/scsi/lsscsi.html
 License      : GPLv2+
 Descript     : Uses information provided by the sysfs pseudo file system in Linux kernel
@@ -11900,8 +11916,8 @@ Descript     : Uses information provided by the sysfs pseudo file system in Linu
 <summary>lttng-ust</summary>
 
 ```
-From repo     : anaconda
-Short desc    : LTTng Userspace Tracer library
+From repo    : anaconda
+Short desc   : LTTng Userspace Tracer library
 URL          : https://lttng.org
 License      : LGPLv2.1, MIT and GPLv2
 Descript     : This library may be used by user-space applications to generate
@@ -11914,8 +11930,8 @@ Descript     : This library may be used by user-space applications to generate
 <summary>lua</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Powerful light-weight programming language
+From repo    : anaconda
+Short desc   : Powerful light-weight programming language
 URL          : http://www.lua.org/
 License      : MIT
 Descript     : Lua is a powerful light-weight programming language designed for
@@ -11934,8 +11950,8 @@ Descript     : Lua is a powerful light-weight programming language designed for
 <summary>lua-alt-getopt</summary>
 
 ```
-From repo     : fedora
-Short desc    : Argument processing module for Lua
+From repo    : fedora
+Short desc   : Argument processing module for Lua
 URL          : https://github.com/cheusov/lua-alt-getopt
 License      : MIT
 Descript     : alt-getopt is a module for Lua programming language for processing
@@ -11950,8 +11966,8 @@ Descript     : alt-getopt is a module for Lua programming language for processin
 <summary>lua-argparse</summary>
 
 ```
-From repo     : fedora
-Short desc    : Feature-rich command line parser for Lua
+From repo    : fedora
+Short desc   : Feature-rich command line parser for Lua
 URL          : https://github.com/mpeterv/argparse
 License      : MIT
 Descript     : Argparse is a feature-rich command line parser for Lua inspired by argparse
@@ -11968,8 +11984,8 @@ Descript     : Argparse is a feature-rich command line parser for Lua inspired b
 <summary>lua-argparse-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for lua-argparse
+From repo    : fedora
+Short desc   : Documentation for lua-argparse
 URL          : https://github.com/mpeterv/argparse
 License      : MIT
 Descript     : This package contains documentation for lua-argparse.
@@ -11981,8 +11997,8 @@ Descript     : This package contains documentation for lua-argparse.
 <summary>lua-cyrussasl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cyrus SASL library for Lua
+From repo    : fedora
+Short desc   : Cyrus SASL library for Lua
 URL          : https://github.com/JorjBauer/lua-cyrussasl
 License      : BSD
 Descript     : Lua bindings for the Cyrus SASL APIs.
@@ -11994,8 +12010,8 @@ Descript     : Lua bindings for the Cyrus SASL APIs.
 <summary>lua-dbi</summary>
 
 ```
-From repo     : fedora
-Short desc    : Database interface library for Lua
+From repo    : fedora
+Short desc   : Database interface library for Lua
 URL          : https://github.com/mwild1/luadbi
 License      : MIT
 Descript     : LuaDBI is a database interface library for Lua. It is designed to provide a
@@ -12013,8 +12029,8 @@ Descript     : LuaDBI is a database interface library for Lua. It is designed to
 <summary>lua-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for lua
+From repo    : fedora
+Short desc   : Development files for lua
 URL          : http://www.lua.org/
 License      : MIT
 Descript     : This package contains development files for lua.
@@ -12026,8 +12042,8 @@ Descript     : This package contains development files for lua.
 <summary>lua-event</summary>
 
 ```
-From repo     : fedora
-Short desc    : Bindings of libevent to Lua
+From repo    : fedora
+Short desc   : Bindings of libevent to Lua
 URL          : https://github.com/harningt/luaevent/
 License      : MIT
 Descript     : Lua bindings for libevent, an asynchronous event notification library
@@ -12041,8 +12057,8 @@ Descript     : Lua bindings for libevent, an asynchronous event notification lib
 <summary>lua-event-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for lua-event
+From repo    : fedora
+Short desc   : Documentation for lua-event
 URL          : https://github.com/harningt/luaevent/
 License      : MIT
 Descript     : This package contains documentation for developing applications that
@@ -12057,8 +12073,8 @@ Descript     : This package contains documentation for developing applications t
 <summary>lua-expat</summary>
 
 ```
-From repo     : fedora
-Short desc    : SAX XML parser based on the Expat library
+From repo    : fedora
+Short desc   : SAX XML parser based on the Expat library
 URL          : https://matthewwild.co.uk/projects/luaexpat/
 License      : MIT
 Descript     : LuaExpat is a SAX XML parser based on the Expat library.
@@ -12070,8 +12086,8 @@ Descript     : LuaExpat is a SAX XML parser based on the Expat library.
 <summary>lua-filesystem</summary>
 
 ```
-From repo     : fedora
-Short desc    : File System Library for the Lua Programming Language
+From repo    : fedora
+Short desc   : File System Library for the Lua Programming Language
 URL          : https://keplerproject.github.io/luafilesystem/
 License      : MIT
 Descript     : LuaFileSystem is a Lua library developed to complement the set of functions
@@ -12087,8 +12103,8 @@ Descript     : LuaFileSystem is a Lua library developed to complement the set of
 <summary>lua-fun</summary>
 
 ```
-From repo     : fedora
-Short desc    : Functional programming library for Lua
+From repo    : fedora
+Short desc   : Functional programming library for Lua
 URL          : https://github.com/rtsisyk/luafun
 License      : MIT
 Descript     : Lua Fun is a high-performance functional programming library for Lua
@@ -12109,8 +12125,8 @@ Descript     : Lua Fun is a high-performance functional programming library for 
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Lua bindings for libguestfs
+From repo    : updates-testing
+Short desc   : Lua bindings for libguestfs
 URL          : http://libguestfs.org/
 License      : LGPLv2+
 Descript     : lua-guestfs contains Lua bindings for libguestfs.
@@ -12123,8 +12139,8 @@ Descript     : lua-guestfs contains Lua bindings for libguestfs.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Inotify bindings for Lua
+From repo    : fedora
+Short desc   : Inotify bindings for Lua
 URL          : http://hoelz.ro/projects/linotify
 License      : MIT
 Descript     : This is linotify, a binding for Linux's inotify library to Lua.
@@ -12136,8 +12152,8 @@ Descript     : This is linotify, a binding for Linux's inotify library to Lua.
 <summary>lua-json</summary>
 
 ```
-From repo     : fedora
-Short desc    : JSON Parser/Constructor for Lua
+From repo    : fedora
+Short desc   : JSON Parser/Constructor for Lua
 URL          : http://luaforge.net/projects/luajson/
 License      : MIT
 Descript     : LuaJSON is a customizable JSON decoder/encoder, using LPEG for parsing.
@@ -12149,8 +12165,8 @@ Descript     : LuaJSON is a customizable JSON decoder/encoder, using LPEG for pa
 <summary>lua-ldap</summary>
 
 ```
-From repo     : fedora
-Short desc    : LDAP client library for Lua, using OpenLDAP
+From repo    : fedora
+Short desc   : LDAP client library for Lua, using OpenLDAP
 URL          : http://www.keplerproject.org/lualdap/
 License      : MIT
 Descript     : LuaLDAP is a simple interface from Lua to an LDAP client. It enables a Lua
@@ -12166,8 +12182,8 @@ Descript     : LuaLDAP is a simple interface from Lua to an LDAP client. It enab
 <summary>lua-ldap-compat</summary>
 
 ```
-From repo     : fedora
-Short desc    : LDAP client library for Lua 5.1, using OpenLDAP
+From repo    : fedora
+Short desc   : LDAP client library for Lua 5.1, using OpenLDAP
 URL          : http://www.keplerproject.org/lualdap/
 License      : MIT
 Descript     : LuaLDAP is a simple interface from Lua to an LDAP client. It enables a Lua 5.1
@@ -12183,8 +12199,8 @@ Descript     : LuaLDAP is a simple interface from Lua to an LDAP client. It enab
 <summary>lua-ldoc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lua documentation generator
+From repo    : fedora
+Short desc   : Lua documentation generator
 URL          : https://github.com/stevedonovan/ldoc
 License      : MIT and BSD
 Descript     : LDoc is a second-generation documentation tool that can be used as a
@@ -12200,8 +12216,8 @@ Descript     : LDoc is a second-generation documentation tool that can be used a
 <summary>lua-ldoc-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Docs for lua-ldoc
+From repo    : fedora
+Short desc   : Docs for lua-ldoc
 URL          : https://github.com/stevedonovan/ldoc
 License      : MIT and BSD
 Descript     : Docs for lua-ldoc
@@ -12213,8 +12229,8 @@ Descript     : Docs for lua-ldoc
 <summary>lua-lgi</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lua bindings to GObject libraries
+From repo    : fedora
+Short desc   : Lua bindings to GObject libraries
 URL          : https://github.com/pavouk/lgi
 License      : MIT
 Descript     : LGI is gobject-introspection based dynamic Lua binding to GObject
@@ -12228,8 +12244,8 @@ Descript     : LGI is gobject-introspection based dynamic Lua binding to GObject
 <summary>lua-lgi-compat</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lua bindings to GObject libraries for Lua 5.1
+From repo    : fedora
+Short desc   : Lua bindings to GObject libraries for Lua 5.1
 URL          : https://github.com/pavouk/lgi
 License      : MIT
 Descript     : LGI is gobject-introspection based dynamic Lua binding to GObject
@@ -12243,8 +12259,8 @@ Descript     : LGI is gobject-introspection based dynamic Lua binding to GObject
 <summary>lua-lgi-samples</summary>
 
 ```
-From repo     : fedora
-Short desc    : Examples of lua-lgi usage
+From repo    : fedora
+Short desc   : Examples of lua-lgi usage
 URL          : https://github.com/pavouk/lgi
 License      : LGPLv2+ and MIT
 Descript     : Examples of lua-lgi usage
@@ -12256,8 +12272,8 @@ Descript     : Examples of lua-lgi usage
 <summary>lua-librs232</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lua bindings for librs232
+From repo    : fedora
+Short desc   : Lua bindings for librs232
 URL          : https://github.com/srdgame/librs232/
 License      : MIT
 Descript     : The lua-librs232 package provides Lua binding for librs232 library.
@@ -12270,8 +12286,8 @@ Descript     : The lua-librs232 package provides Lua binding for librs232 librar
 <summary>lua-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for lua
+From repo    : anaconda
+Short desc   : Libraries for lua
 URL          : http://www.lua.org/
 License      : MIT
 Descript     : This package contains the shared libraries for lua.
@@ -12283,8 +12299,8 @@ Descript     : This package contains the shared libraries for lua.
 <summary>lua-loop</summary>
 
 ```
-From repo     : fedora
-Short desc    : Class models for Lua
+From repo    : fedora
+Short desc   : Class models for Lua
 URL          : http://loop.luaforge.net/
 License      : MIT
 Descript     : LOOP stands for Lua Object-Oriented Programming and is a set of
@@ -12305,8 +12321,8 @@ Descript     : LOOP stands for Lua Object-Oriented Programming and is a set of
 <summary>lua-loop-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for lua-loop
+From repo    : fedora
+Short desc   : Documentation for lua-loop
 URL          : http://loop.luaforge.net/
 License      : MIT
 Descript     : LOOP stands for Lua Object-Oriented Programming and is a set of
@@ -12322,8 +12338,8 @@ Descript     : LOOP stands for Lua Object-Oriented Programming and is a set of
 <summary>lua-lpeg</summary>
 
 ```
-From repo     : fedora
-Short desc    : Parsing Expression Grammars for Lua
+From repo    : fedora
+Short desc   : Parsing Expression Grammars for Lua
 URL          : http://www.inf.puc-rio.br/~roberto/lpeg/
 License      : MIT
 Descript     : LPeg is a new pattern-matching library for Lua, based on Parsing Expression
@@ -12336,8 +12352,8 @@ Descript     : LPeg is a new pattern-matching library for Lua, based on Parsing 
 <summary>lua-lpeg-patterns</summary>
 
 ```
-From repo     : fedora
-Short desc    : A collection of LPEG patterns
+From repo    : fedora
+Short desc   : A collection of LPEG patterns
 URL          : https://github.com/daurnimator/lpeg_patterns
 License      : MIT
 Descript     : A collection of LPEG patterns for validating/searching user input.
@@ -12349,8 +12365,8 @@ Descript     : A collection of LPEG patterns for validating/searching user input
 <summary>lua-luaossl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Most comprehensive OpenSSL module in the Lua universe
+From repo    : fedora
+Short desc   : Most comprehensive OpenSSL module in the Lua universe
 URL          : https://github.com/wahern/luaossl
 License      : MIT
 Descript     : luaossl is a comprehensive binding to OpenSSL for Lua 5.1, 5.2, and later.
@@ -12362,8 +12378,8 @@ Descript     : luaossl is a comprehensive binding to OpenSSL for Lua 5.1, 5.2, a
 <summary>lua-luaossl-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for OpenSSL Lua module
+From repo    : fedora
+Short desc   : Documentation for OpenSSL Lua module
 URL          : https://github.com/wahern/luaossl
 License      : MIT
 Descript     : Documentation for the Stackable Continuation Queues library
@@ -12376,8 +12392,8 @@ Descript     : Documentation for the Stackable Continuation Queues library
 <summary>lua-lunitx</summary>
 
 ```
-From repo     : fedora
-Short desc    : Unit testing framework for Lua
+From repo    : fedora
+Short desc   : Unit testing framework for Lua
 URL          : https://github.com/dcurrie/lunit/
 License      : MIT
 Descript     : This is lunitx Version 0.8.1, an extended version of Lunit
@@ -12392,8 +12408,8 @@ Descript     : This is lunitx Version 0.8.1, an extended version of Lunit
 <summary>lua-luv</summary>
 
 ```
-From repo     : fedora
-Short desc    : Bare libuv bindings for lua
+From repo    : fedora
+Short desc   : Bare libuv bindings for lua
 URL          : https://github.com/luvit/luv
 License      : ASL 2.0
 Descript     : This library makes libuv available to lua scripts. It was made
@@ -12415,8 +12431,8 @@ Descript     : This library makes libuv available to lua scripts. It was made
 <summary>lua-lxc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lua binding for LXC
+From repo    : fedora
+Short desc   : Lua binding for LXC
 URL          : https://linuxcontainers.org/lxc
 License      : LGPLv2+
 Descript     : Linux Resource Containers provide process and resource isolation
@@ -12431,8 +12447,8 @@ Descript     : Linux Resource Containers provide process and resource isolation
 <summary>lua-markdown</summary>
 
 ```
-From repo     : fedora
-Short desc    : Markdown module for Lua
+From repo    : fedora
+Short desc   : Markdown module for Lua
 URL          : http://www.frykholm.se/files/markdown.lua
 License      : MIT
 Descript     : This is an implementation of the popular text markup language Markdown
@@ -12446,8 +12462,8 @@ Descript     : This is an implementation of the popular text markup language Mar
 <summary>lua-md5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cryptographic Library for MD5 hashes for Lua
+From repo    : fedora
+Short desc   : Cryptographic Library for MD5 hashes for Lua
 URL          : https://github.com/keplerproject/md5
 License      : MIT
 Descript     : MD5 offers basic cryptographic facilities for Lua: a hash (digest)
@@ -12461,8 +12477,8 @@ Descript     : MD5 offers basic cryptographic facilities for Lua: a hash (digest
 <summary>lua-moonscript</summary>
 
 ```
-From repo     : fedora
-Short desc    : A little language that compiles to Lua
+From repo    : fedora
+Short desc   : A little language that compiles to Lua
 URL          : http://moonscript.org/
 License      : MIT
 Descript     : MoonScript is a dynamic scripting language that compiles into Lua. It
@@ -12487,8 +12503,8 @@ Descript     : MoonScript is a dynamic scripting language that compiles into Lua
 <summary>lua-mosquitto</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lua bindings to libmosquitto
+From repo    : fedora
+Short desc   : Lua bindings to libmosquitto
 URL          : https://github.com/flukso/lua-mosquitto/
 License      : MIT
 Descript     : lua-mosquitto is a Lua library that provides complete bindings to the
@@ -12501,8 +12517,8 @@ Descript     : lua-mosquitto is a Lua library that provides complete bindings to
 <summary>lua-mpack</summary>
 
 ```
-From repo     : fedora
-Short desc    : Implementation of MessagePack for Lua
+From repo    : fedora
+Short desc   : Implementation of MessagePack for Lua
 URL          : https://github.com/libmpack/libmpack-lua
 License      : MIT
 Descript     : mpack is a small binary serialization/RPC library that implements
@@ -12515,8 +12531,8 @@ Descript     : mpack is a small binary serialization/RPC library that implements
 <summary>lua-penlight</summary>
 
 ```
-From repo     : fedora
-Short desc    : Penlight Lua Libraries
+From repo    : fedora
+Short desc   : Penlight Lua Libraries
 URL          : https://github.com/lunarmodules/Penlight
 License      : MIT
 Descript     : A set of pure Lua libraries focusing on input data handling (such as
@@ -12531,8 +12547,8 @@ Descript     : A set of pure Lua libraries focusing on input data handling (such
 <summary>lua-penlight-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : API docs for lua-penlight
+From repo    : fedora
+Short desc   : API docs for lua-penlight
 URL          : https://github.com/lunarmodules/Penlight
 License      : MIT
 Descript     : API docs for lua-penlight
@@ -12544,8 +12560,8 @@ Descript     : API docs for lua-penlight
 <summary>lua-penlight-examples</summary>
 
 ```
-From repo     : fedora
-Short desc    : Examples of lua-penlight usage
+From repo    : fedora
+Short desc   : Examples of lua-penlight usage
 URL          : https://github.com/lunarmodules/Penlight
 License      : MIT
 Descript     : Examples of lua-penlight usage
@@ -12557,8 +12573,8 @@ Descript     : Examples of lua-penlight usage
 <summary>lua-posix</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A POSIX library for Lua
+From repo    : anaconda
+Short desc   : A POSIX library for Lua
 URL          : http://luaforge.net/projects/luaposix/
 License      : MIT
 Descript     : This is a POSIX library for Lua which provides access to many POSIX features
@@ -12571,8 +12587,8 @@ Descript     : This is a POSIX library for Lua which provides access to many POS
 <summary>lua-prelude</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lua bindings for prelude
+From repo    : fedora
+Short desc   : Lua bindings for prelude
 URL          : https://www.prelude-siem.org/
 License      : LGPL-2.1+
 Descript     : Provides Lua bindings for prelude generated by SWIG.
@@ -12584,8 +12600,8 @@ Descript     : Provides Lua bindings for prelude generated by SWIG.
 <summary>lua-rpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : The common Lua RPM macros
+From repo    : fedora
+Short desc   : The common Lua RPM macros
 License      : MIT
 Descript     : This package contains Lua RPM macros.
              : 
@@ -12598,8 +12614,8 @@ Descript     : This package contains Lua RPM macros.
 <summary>lua-sec</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lua binding for OpenSSL library
+From repo    : fedora
+Short desc   : Lua binding for OpenSSL library
 URL          : https://github.com/brunoos/luasec
 License      : MIT
 Descript     : Lua binding for OpenSSL library to provide TLS/SSL communication.
@@ -12613,8 +12629,8 @@ Descript     : Lua binding for OpenSSL library to provide TLS/SSL communication.
 <summary>lua-socket</summary>
 
 ```
-From repo     : fedora
-Short desc    : Network support for the Lua language
+From repo    : fedora
+Short desc   : Network support for the Lua language
 URL          : http://www.tecgraf.puc-rio.br/~diego/professional/luasocket/
 License      : MIT
 Descript     : LuaSocket is a Lua extension library that is composed by two parts: The C
@@ -12632,8 +12648,8 @@ Descript     : LuaSocket is a Lua extension library that is composed by two part
 <summary>lua-socket-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for lua-socket
+From repo    : fedora
+Short desc   : Development files for lua-socket
 URL          : http://www.tecgraf.puc-rio.br/~diego/professional/luasocket/
 License      : MIT
 Descript     : Header files necessary for developing and building an extension library
@@ -12646,8 +12662,8 @@ Descript     : Header files necessary for developing and building an extension l
 <summary>lua-sql</summary>
 
 ```
-From repo     : fedora
-Short desc    : Database connectivity for the Lua programming language
+From repo    : fedora
+Short desc   : Database connectivity for the Lua programming language
 URL          : https://keplerproject.github.io/luasql/
 License      : MIT
 Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package of LuaSQL
@@ -12661,8 +12677,8 @@ Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package of 
 <summary>lua-sql-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for LuaSQL
+From repo    : fedora
+Short desc   : Documentation for LuaSQL
 URL          : https://keplerproject.github.io/luasql/
 License      : MIT
 Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package contains the
@@ -12675,8 +12691,8 @@ Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package con
 <summary>lua-sql-mysql</summary>
 
 ```
-From repo     : fedora
-Short desc    : MySQL database connectivity for the Lua programming language
+From repo    : fedora
+Short desc   : MySQL database connectivity for the Lua programming language
 URL          : https://keplerproject.github.io/luasql/
 License      : MIT
 Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package provides access
@@ -12689,8 +12705,8 @@ Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package pro
 <summary>lua-sql-postgresql</summary>
 
 ```
-From repo     : fedora
-Short desc    : PostgreSQL database connectivity for the Lua programming language
+From repo    : fedora
+Short desc   : PostgreSQL database connectivity for the Lua programming language
 URL          : https://keplerproject.github.io/luasql/
 License      : MIT
 Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package provides access
@@ -12703,8 +12719,8 @@ Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package pro
 <summary>lua-sql-sqlite</summary>
 
 ```
-From repo     : fedora
-Short desc    : SQLite database connectivity for the Lua programming language
+From repo    : fedora
+Short desc   : SQLite database connectivity for the Lua programming language
 URL          : https://keplerproject.github.io/luasql/
 License      : MIT
 Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package provides access
@@ -12717,8 +12733,8 @@ Descript     : LuaSQL is a simple interface from Lua to a DBMS. This package pro
 <summary>lua-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM macros for building Lua source packages
+From repo    : fedora
+Short desc   : RPM macros for building Lua source packages
 License      : MIT
 Descript     : RPM macros for building Lua source packages.
 ```
@@ -12729,8 +12745,8 @@ Descript     : RPM macros for building Lua source packages.
 <summary>lua-static</summary>
 
 ```
-From repo     : fedora
-Short desc    : Static library for lua
+From repo    : fedora
+Short desc   : Static library for lua
 URL          : http://www.lua.org/
 License      : MIT
 Descript     : This package contains the static version of liblua for lua.
@@ -12742,8 +12758,8 @@ Descript     : This package contains the static version of liblua for lua.
 <summary>lua-term</summary>
 
 ```
-From repo     : fedora
-Short desc    : Terminal functions for Lua
+From repo    : fedora
+Short desc   : Terminal functions for Lua
 URL          : https://github.com/hoelzro/lua-term
 License      : MIT
 Descript     : Lua module for manipulating a terminal.
@@ -12755,8 +12771,8 @@ Descript     : Lua module for manipulating a terminal.
 <summary>lua5.1-filesystem</summary>
 
 ```
-From repo     : fedora
-Short desc    : File System Library for the Lua Programming Language 5.1
+From repo    : fedora
+Short desc   : File System Library for the Lua Programming Language 5.1
 URL          : https://keplerproject.github.io/luafilesystem/
 License      : MIT
 Descript     : LuaFileSystem is a Lua library developed to complement the set of functions
@@ -12772,8 +12788,8 @@ Descript     : LuaFileSystem is a Lua library developed to complement the set of
 <summary>lua5.1-luaossl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Most comprehensive OpenSSL module in the Lua universe
+From repo    : fedora
+Short desc   : Most comprehensive OpenSSL module in the Lua universe
 URL          : https://github.com/wahern/luaossl
 License      : MIT
 Descript     : luaossl is a comprehensive binding to OpenSSL for Lua 5.1, 5.2, and later.
@@ -12785,8 +12801,8 @@ Descript     : luaossl is a comprehensive binding to OpenSSL for Lua 5.1, 5.2, a
 <summary>lua5.1-socket</summary>
 
 ```
-From repo     : fedora
-Short desc    : Network support for the Lua 5.1 language
+From repo    : fedora
+Short desc   : Network support for the Lua 5.1 language
 URL          : http://www.tecgraf.puc-rio.br/~diego/professional/luasocket/
 License      : MIT
 Descript     : LuaSocket is a Lua 5.1 extension library that is composed by two parts: The
@@ -12804,8 +12820,8 @@ Descript     : LuaSocket is a Lua 5.1 extension library that is composed by two 
 <summary>luabind</summary>
 
 ```
-From repo     : fedora
-Short desc    : A library that helps create bindings between C++ and Lua
+From repo    : fedora
+Short desc   : A library that helps create bindings between C++ and Lua
 URL          : http://www.rasterbar.com/products/luabind.html
 License      : MIT
 Descript     : Luabind is a library that helps you create bindings between C++ and Lua. It
@@ -12822,8 +12838,8 @@ Descript     : Luabind is a library that helps you create bindings between C++ a
 <summary>luabind-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development libraries and headers for luabind
+From repo    : fedora
+Short desc   : Development libraries and headers for luabind
 URL          : http://www.rasterbar.com/products/luabind.html
 License      : MIT
 Descript     : This package contains the development libraries and headers for luabind.
@@ -12835,8 +12851,8 @@ Descript     : This package contains the development libraries and headers for l
 <summary>luajit</summary>
 
 ```
-From repo     : fedora
-Short desc    : Just-In-Time Compiler for Lua
+From repo    : fedora
+Short desc   : Just-In-Time Compiler for Lua
 URL          : http://luajit.org/
 License      : MIT
 Descript     : LuaJIT implements the full set of language features defined by Lua 5.1.
@@ -12850,8 +12866,8 @@ Descript     : LuaJIT implements the full set of language features defined by Lu
 <summary>luajit-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for luajit
+From repo    : fedora
+Short desc   : Development files for luajit
 URL          : http://luajit.org/
 License      : MIT
 Descript     : This package contains development files for luajit.
@@ -12863,8 +12879,8 @@ Descript     : This package contains development files for luajit.
 <summary>luarocks</summary>
 
 ```
-From repo     : fedora
-Short desc    : A deployment and management system for Lua modules
+From repo    : fedora
+Short desc   : A deployment and management system for Lua modules
 URL          : http://luarocks.org
 License      : MIT
 Descript     : LuaRocks allows you to install Lua modules as self-contained packages
@@ -12882,8 +12898,8 @@ Descript     : LuaRocks allows you to install Lua modules as self-contained pack
 <summary>lv2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Audio Plugin Standard
+From repo    : anaconda
+Short desc   : Audio Plugin Standard
 URL          : http://lv2plug.in
 License      : ISC
 Descript     : LV2 is a standard for plugins and matching host applications, mainly
@@ -12906,8 +12922,8 @@ Descript     : LV2 is a standard for plugins and matching host applications, mai
 <summary>lvm2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Userland logical volume management tools
+From repo    : anaconda
+Short desc   : Userland logical volume management tools
 URL          : http://sourceware.org/lvm2
 License      : GPLv2
 Descript     : LVM2 includes all of the support for handling read/write operations on
@@ -12924,8 +12940,8 @@ Descript     : LVM2 includes all of the support for handling read/write operatio
 <summary>lvm2-dbusd</summary>
 
 ```
-From repo     : fedora
-Short desc    : LVM2 D-Bus daemon
+From repo    : fedora
+Short desc   : LVM2 D-Bus daemon
 URL          : http://sourceware.org/lvm2
 License      : GPLv2
 Descript     : 
@@ -12938,8 +12954,8 @@ Descript     :
 <summary>lvm2-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Shared libraries for lvm2
+From repo    : anaconda
+Short desc   : Shared libraries for lvm2
 URL          : http://sourceware.org/lvm2
 License      : LGPLv2
 Descript     : This package contains shared lvm2 libraries for applications.
@@ -12951,8 +12967,8 @@ Descript     : This package contains shared lvm2 libraries for applications.
 <summary>lxc-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Runtime library files for lxc
+From repo    : fedora
+Short desc   : Runtime library files for lxc
 URL          : http://linuxcontainers.org/lxc
 License      : LGPLv2+ and GPLv2
 Descript     : Linux Resource Containers provide process and resource isolation without the
@@ -12967,8 +12983,8 @@ Descript     : Linux Resource Containers provide process and resource isolation 
 <summary>lz4-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libaries for lz4
+From repo    : anaconda
+Short desc   : Libaries for lz4
 URL          : https://lz4.github.io/lz4/
 License      : GPLv2+ and BSD
 Descript     : This package contains the libaries for lz4.
@@ -12980,8 +12996,8 @@ Descript     : This package contains the libaries for lz4.
 <summary>lzma-sdk</summary>
 
 ```
-From repo     : fedora
-Short desc    : SDK for lzma compression
+From repo    : fedora
+Short desc   : SDK for lzma compression
 URL          : http://sourceforge.net/projects/sevenzip/
 License      : LGPLv2
 Descript     : LZMA SDK provides the documentation, samples, header files, libraries,
@@ -13003,8 +13019,8 @@ Descript     : LZMA SDK provides the documentation, samples, header files, libra
 <summary>lzo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Data compression library with very fast (de)compression
+From repo    : anaconda
+Short desc   : Data compression library with very fast (de)compression
 URL          : http://www.oberhumer.com/opensource/lzo/
 License      : GPLv2+
 Descript     : LZO is a portable lossless data compression library written in ANSI C.
@@ -13020,8 +13036,8 @@ Descript     : LZO is a portable lossless data compression library written in AN
 <summary>lzop</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Real-time file compressor
+From repo    : anaconda
+Short desc   : Real-time file compressor
 URL          : https://www.lzop.org/
 License      : GPLv2+
 Descript     : lzop is a compression utility which is designed to be a companion to gzip.

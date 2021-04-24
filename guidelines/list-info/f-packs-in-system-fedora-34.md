@@ -4,8 +4,8 @@
 <summary>f34-backgrounds-base</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Base images for Fedora  34 default background
+From repo    : anaconda
+Short desc   : Base images for Fedora  34 default background
 URL          : https://fedoraproject.org/wiki/_Artwork
 License      : CC-BY-SA
 Descript     : This package contains base images for Fedora  34 default background.
@@ -17,8 +17,8 @@ Descript     : This package contains base images for Fedora  34 default backgrou
 <summary>f34-backgrounds-gnome</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Fedora  34 default wallpaper for Gnome and Cinnamon
+From repo    : anaconda
+Short desc   : Fedora  34 default wallpaper for Gnome and Cinnamon
 URL          : https://fedoraproject.org/wiki/_Artwork
 License      : CC-BY-SA
 Descript     : This package contains Gnome/Cinnamon desktop wallpaper for the
@@ -32,8 +32,8 @@ Descript     : This package contains Gnome/Cinnamon desktop wallpaper for the
 
 ```
 Эпоха        : 1
-From repo     : rpmfusion-free
-Short desc    : Shared libraries of the FAAD 2 AAC decoder
+From repo    : rpmfusion-free
+Short desc   : Shared libraries of the FAAD 2 AAC decoder
 URL          : http://www.audiocoding.com/faad2.html
 License      : GPLv2+
 Descript     : FAAD 2 is a LC, MAIN and LTP profile, MPEG2 and MPEG-4 AAC decoder, completely
@@ -48,8 +48,8 @@ Descript     : FAAD 2 is a LC, MAIN and LTP profile, MPEG2 and MPEG-4 AAC decode
 <summary>facter</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command and ruby library for gathering system information
+From repo    : fedora
+Short desc   : Command and ruby library for gathering system information
 URL          : https://puppetlabs.com/facter
 License      : ASL 2.0
 Descript     : Facter is a lightweight program that gathers basic node information about the
@@ -69,8 +69,8 @@ Descript     : Facter is a lightweight program that gathers basic node informati
 <summary>fail2ban</summary>
 
 ```
-From repo     : fedora
-Short desc    : Daemon to ban hosts that cause multiple authentication errors
+From repo    : fedora
+Short desc   : Daemon to ban hosts that cause multiple authentication errors
 URL          : http://fail2ban.sourceforge.net/
 License      : GPLv2+
 Descript     : Fail2Ban scans log files and bans IP addresses that makes too many password
@@ -94,8 +94,8 @@ Descript     : Fail2Ban scans log files and bans IP addresses that makes too man
 <summary>fail2ban-firewalld</summary>
 
 ```
-From repo     : fedora
-Short desc    : Firewalld support for Fail2Ban
+From repo    : fedora
+Short desc   : Firewalld support for Fail2Ban
 URL          : http://fail2ban.sourceforge.net/
 License      : GPLv2+
 Descript     : This package enables support for manipulating firewalld rules.  This is the
@@ -108,8 +108,8 @@ Descript     : This package enables support for manipulating firewalld rules.  T
 <summary>fail2ban-selinux</summary>
 
 ```
-From repo     : fedora
-Short desc    : SELinux policies for Fail2Ban
+From repo    : fedora
+Short desc   : SELinux policies for Fail2Ban
 URL          : http://fail2ban.sourceforge.net/
 License      : GPLv2+
 Descript     : SELinux policies for Fail2Ban.
@@ -121,8 +121,8 @@ Descript     : SELinux policies for Fail2Ban.
 <summary>fail2ban-sendmail</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sendmail actions for Fail2Ban
+From repo    : fedora
+Short desc   : Sendmail actions for Fail2Ban
 URL          : http://fail2ban.sourceforge.net/
 License      : GPLv2+
 Descript     : This package installs Fail2Ban's sendmail actions.  This is the default
@@ -135,8 +135,8 @@ Descript     : This package installs Fail2Ban's sendmail actions.  This is the d
 <summary>fail2ban-server</summary>
 
 ```
-From repo     : fedora
-Short desc    : Core server component for Fail2Ban
+From repo    : fedora
+Short desc   : Core server component for Fail2Ban
 URL          : http://fail2ban.sourceforge.net/
 License      : GPLv2+
 Descript     : This package contains the core server components for Fail2Ban with minimal
@@ -150,8 +150,8 @@ Descript     : This package contains the core server components for Fail2Ban wit
 <summary>fakeroot</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gives a fake root environment
+From repo    : fedora
+Short desc   : Gives a fake root environment
 URL          : https://tracker.debian.org/pkg/fakeroot
 License      : GPLv3+ and LGPLv2+ and (GPL+ or Artistic)
 Descript     : fakeroot runs a command in an environment wherein it appears to have
@@ -167,8 +167,8 @@ Descript     : fakeroot runs a command in an environment wherein it appears to h
 <summary>fakeroot-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gives a fake root environment (libraries)
+From repo    : fedora
+Short desc   : Gives a fake root environment (libraries)
 URL          : https://tracker.debian.org/pkg/fakeroot
 License      : GPLv3+ and LGPLv2+ and (GPL+ or Artistic)
 Descript     : This package contains the libraries required by fakeroot.
@@ -180,8 +180,8 @@ Descript     : This package contains the libraries required by fakeroot.
 <summary>fastlz</summary>
 
 ```
-From repo     : fedora
-Short desc    : Portable real-time compression library
+From repo    : fedora
+Short desc   : Portable real-time compression library
 URL          : http://fastlz.org/
 License      : MIT
 Descript     : FastLZ is a lossless data compression library designed for real-time
@@ -196,8 +196,8 @@ Descript     : FastLZ is a lossless data compression library designed for real-t
 <summary>fcoe-utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fibre Channel over Ethernet utilities
+From repo    : fedora
+Short desc   : Fibre Channel over Ethernet utilities
 URL          : http://www.open-fcoe.org
 License      : GPLv2
 Descript     : Fibre Channel over Ethernet utilities
@@ -211,8 +211,8 @@ Descript     : Fibre Channel over Ethernet utilities
 <summary>fdk-aac-free</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Third-Party Modified Version of the Fraunhofer FDK AAC Codec Library for Android
+From repo    : anaconda
+Short desc   : Third-Party Modified Version of the Fraunhofer FDK AAC Codec Library for Android
 URL          : https://cgit.freedesktop.org/~wtay/fdk-aac/log/?h=fedora
 License      : FDK-AAC
 Descript     : The Third-Party Modified Version of the Fraunhofer FDK AAC Codec Library
@@ -227,8 +227,8 @@ Descript     : The Third-Party Modified Version of the Fraunhofer FDK AAC Codec 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Finds duplicate files in a given set of directories
+From repo    : fedora
+Short desc   : Finds duplicate files in a given set of directories
 URL          : https://github.com/adrianlopezroche/fdupes
 License      : MIT
 Descript     : FDUPES is a program for identifying duplicate files residing within specified
@@ -241,8 +241,8 @@ Descript     : FDUPES is a program for identifying duplicate files residing with
 <summary>fedmsg-base</summary>
 
 ```
-From repo     : fedora
-Short desc    : Base file system layout for other fedmsg packages
+From repo    : fedora
+Short desc   : Base file system layout for other fedmsg packages
 URL          : https://github.com/fedora-infra/fedmsg
 License      : LGPLv2+
 Descript     : This package contains some of the common filesystem layout shared by the
@@ -255,8 +255,8 @@ Descript     : This package contains some of the common filesystem layout shared
 <summary>fedora-bookmarks</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Fedora bookmarks
+From repo    : anaconda
+Short desc   : Fedora bookmarks
 URL          : http://fedoraproject.org/
 License      : GFDL
 Descript     : This package contains the default bookmarks for Fedora.
@@ -268,8 +268,8 @@ Descript     : This package contains the default bookmarks for Fedora.
 <summary>fedora-chromium-config</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fedora customizations for Chromium/Chrome
+From repo    : updates-testing
+Short desc   : Fedora customizations for Chromium/Chrome
 URL          : https://src.fedoraproject.org/rpms/fedora-chromium-config
 License      : GPLv2+
 Descript     : This package is used to install customizations for Chromium/Chrome that are
@@ -287,8 +287,8 @@ Descript     : This package is used to install customizations for Chromium/Chrom
 <summary>fedora-gpg-keys</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fedora RPM keys
+From repo    : updates-testing
+Short desc   : Fedora RPM keys
 URL          : https://fedoraproject.org/
 License      : MIT
 Descript     : This package provides the RPM signature keys.
@@ -300,8 +300,8 @@ Descript     : This package provides the RPM signature keys.
 <summary>fedora-logos</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fedora-related icons and pictures
+From repo    : updates-testing
+Short desc   : Fedora-related icons and pictures
 URL          : https://pagure.io/fedora-logos
 License      : Licensed only for approved usage, see COPYING for details.
 Descript     : The fedora-logos package contains image files which incorporate the
@@ -324,8 +324,8 @@ Descript     : The fedora-logos package contains image files which incorporate t
 <summary>fedora-logos-httpd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fedora-related icons and pictures used by httpd
+From repo    : updates-testing
+Short desc   : Fedora-related icons and pictures used by httpd
 URL          : https://pagure.io/fedora-logos
 License      : Licensed only for approved usage, see COPYING for details.
 Descript     : The fedora-logos-httpd package contains image files which incorporate the
@@ -348,8 +348,8 @@ Descript     : The fedora-logos-httpd package contains image files which incorpo
 <summary>fedora-packager</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tools for setting up a fedora maintainer environment
+From repo    : fedora
+Short desc   : Tools for setting up a fedora maintainer environment
 URL          : https://pagure.io/fedora-packager
 License      : GPLv2+
 Descript     : Set of utilities useful for a fedora packager in setting up their environment.
@@ -361,8 +361,8 @@ Descript     : Set of utilities useful for a fedora packager in setting up their
 <summary>fedora-packager-yubikey</summary>
 
 ```
-From repo     : fedora
-Short desc    : tool for setting up a yubikey for use in Fedora
+From repo    : fedora
+Short desc   : tool for setting up a yubikey for use in Fedora
 URL          : https://pagure.io/fedora-packager
 License      : GPLv2+
 Descript     : A tool for setting up a yubikey for use in fedora
@@ -374,8 +374,8 @@ Descript     : A tool for setting up a yubikey for use in fedora
 <summary>fedora-release-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fedora release files
+From repo    : updates-testing
+Short desc   : Fedora release files
 URL          : https://fedoraproject.org/
 License      : MIT
 Descript     : Release files common to all Editions and Spins of Fedora
@@ -387,8 +387,8 @@ Descript     : Release files common to all Editions and Spins of Fedora
 <summary>fedora-release-identity-workstation</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Package providing the identity for Fedora Workstation Edition
+From repo    : updates-testing
+Short desc   : Package providing the identity for Fedora Workstation Edition
 URL          : https://fedoraproject.org/
 License      : MIT
 Descript     : Provides the necessary files for a Fedora installation that is identifying
@@ -401,8 +401,8 @@ Descript     : Provides the necessary files for a Fedora installation that is id
 <summary>fedora-release-workstation</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Base package for Fedora Workstation-specific default configurations
+From repo    : updates-testing
+Short desc   : Base package for Fedora Workstation-specific default configurations
 URL          : https://fedoraproject.org/
 License      : MIT
 Descript     : Provides a base package for Fedora Workstation-specific configuration files to
@@ -415,8 +415,8 @@ Descript     : Provides a base package for Fedora Workstation-specific configura
 <summary>fedora-repos</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fedora package repositories
+From repo    : updates-testing
+Short desc   : Fedora package repositories
 URL          : https://fedoraproject.org/
 License      : MIT
 Descript     : Fedora package repository files for yum and dnf along with gpg public keys.
@@ -428,8 +428,8 @@ Descript     : Fedora package repository files for yum and dnf along with gpg pu
 <summary>fedora-repos-modular</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fedora modular package repositories
+From repo    : updates-testing
+Short desc   : Fedora modular package repositories
 URL          : https://fedoraproject.org/
 License      : MIT
 Descript     : This package provides the repo definitions with modular packages.
@@ -441,8 +441,8 @@ Descript     : This package provides the repo definitions with modular packages.
 <summary>fedora-workstation-backgrounds</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Desktop backgrounds for Fedora Workstation
+From repo    : anaconda
+Short desc   : Desktop backgrounds for Fedora Workstation
 URL          : https://pagure.io/fedora-design/fedora-workstation-backgrounds
 License      : CC-BY-SA and CC-BY and CC0
 Descript     : The fedora-workstation-backgrounds packages contains the additional standard
@@ -455,8 +455,8 @@ Descript     : The fedora-workstation-backgrounds packages contains the addition
 <summary>fedora-workstation-repositories</summary>
 
 ```
-From repo     : fedora
-Short desc    : Repository files for searchable repositories
+From repo    : fedora
+Short desc   : Repository files for searchable repositories
 URL          : https://fedoraproject.org/wiki/Workstation/Third_Party_Software_Repositories
 License      : GPL
 Descript     : Repository files that make some select non-Fedora software available
@@ -469,8 +469,8 @@ Descript     : Repository files that make some select non-Fedora software availa
 <summary>fedpkg</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fedora utility for working with dist-git
+From repo    : fedora
+Short desc   : Fedora utility for working with dist-git
 URL          : https://pagure.io/fedpkg
 License      : GPLv2+
 Descript     : Provides the fedpkg command for working with dist-git
@@ -482,8 +482,8 @@ Descript     : Provides the fedpkg command for working with dist-git
 <summary>feh</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fast command line image viewer using Imlib2
+From repo    : fedora
+Short desc   : Fast command line image viewer using Imlib2
 URL          : http://feh.finalrewind.org
 License      : MIT
 Descript     : feh is a versatile and fast image viewer using imlib2, the
@@ -499,8 +499,8 @@ Descript     : feh is a versatile and fast image viewer using imlib2, the
 <summary>ffmpeg-libs</summary>
 
 ```
-From repo     : rpmfusion-free-updates-testing
-Short desc    : Libraries for ffmpeg
+From repo    : rpmfusion-free-updates-testing
+Short desc   : Libraries for ffmpeg
 URL          : http://ffmpeg.org/
 License      : GPLv3+
 Descript     : FFmpeg is a complete and free Internet live audio and video
@@ -516,8 +516,8 @@ Descript     : FFmpeg is a complete and free Internet live audio and video
 <summary>fftw-libs-double</summary>
 
 ```
-From repo     : fedora
-Short desc    : FFTW library, double precision
+From repo    : fedora
+Short desc   : FFTW library, double precision
 URL          : http://www.fftw.org
 License      : GPLv2+
 Descript     : This package contains the FFTW library compiled in double precision.
@@ -529,8 +529,8 @@ Descript     : This package contains the FFTW library compiled in double precisi
 <summary>fftw-libs-single</summary>
 
 ```
-From repo     : fedora
-Short desc    : FFTW library, single precision
+From repo    : fedora
+Short desc   : FFTW library, single precision
 URL          : http://www.fftw.org
 License      : GPLv2+
 Descript     : This package contains the FFTW library compiled in single precision.
@@ -542,8 +542,8 @@ Descript     : This package contains the FFTW library compiled in single precisi
 <summary>file</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utility for determining file types
+From repo    : anaconda
+Short desc   : Utility for determining file types
 URL          : https://www.darwinsys.com/file/
 License      : BSD
 Descript     : The file command is used to identify a particular file according to the
@@ -558,8 +558,8 @@ Descript     : The file command is used to identify a particular file according 
 <summary>file-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for applications using libmagic
+From repo    : anaconda
+Short desc   : Libraries for applications using libmagic
 URL          : https://www.darwinsys.com/file/
 License      : BSD
 Descript     : 
@@ -572,8 +572,8 @@ Descript     :
 <summary>file-roller</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tool for viewing and creating archives
+From repo    : fedora
+Short desc   : Tool for viewing and creating archives
 URL          : https://wiki.gnome.org/Apps/FileRoller
 License      : GPLv2+
 Descript     : File Roller is an application for creating and viewing archives files,
@@ -586,8 +586,8 @@ Descript     : File Roller is an application for creating and viewing archives f
 <summary>filesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The basic directory layout for a Linux system
+From repo    : anaconda
+Short desc   : The basic directory layout for a Linux system
 URL          : https://pagure.io/filesystem
 License      : Public Domain
 Descript     : The filesystem package is one of the basic packages that is installed
@@ -603,8 +603,8 @@ Descript     : The filesystem package is one of the basic packages that is insta
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : The GNU versions of find utilities (find and xargs)
+From repo    : anaconda
+Short desc   : The GNU versions of find utilities (find and xargs)
 URL          : https://www.gnu.org/software/findutils/
 License      : GPLv3+
 Descript     : The findutils package contains programs which will help you locate
@@ -624,8 +624,8 @@ Descript     : The findutils package contains programs which will help you locat
 <summary>fira-code-fonts</summary>
 
 ```
-From repo     : fedora
-Short desc    : Monospaced font with programming ligatures
+From repo    : fedora
+Short desc   : Monospaced font with programming ligatures
 URL          : https://github.com/tonsky/FiraCode
 License      : OFL
 Descript     : Fira Code is an extension of the Fira Mono font containing a set of ligatures
@@ -641,8 +641,8 @@ Descript     : Fira Code is an extension of the Fira Mono font containing a set 
 <summary>firefox</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Mozilla Firefox Web browser
+From repo    : updates-testing
+Short desc   : Mozilla Firefox Web browser
 URL          : https://www.mozilla.org/firefox/
 License      : MPLv1.1 or GPLv2+ or LGPLv2+
 Descript     : Mozilla Firefox is an open-source web browser, designed for standards
@@ -655,8 +655,8 @@ Descript     : Mozilla Firefox is an open-source web browser, designed for stand
 <summary>firefox-pkcs11-loader</summary>
 
 ```
-From repo     : fedora
-Short desc    : Helper script for Firefox that sets up the browser for authentication with Estonian ID-card
+From repo    : fedora
+Short desc   : Helper script for Firefox that sets up the browser for authentication with Estonian ID-card
 URL          : https://github.com/open-eid/firefox-pkcs11-loader
 License      : LGPLv2+
 Descript     : This package provides a helper script for Firefox that sets up the browser for
@@ -669,8 +669,8 @@ Descript     : This package provides a helper script for Firefox that sets up th
 <summary>firefox-testresults</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Results of testsuite
+From repo    : updates-testing
+Short desc   : Results of testsuite
 URL          : https://www.mozilla.org/firefox/
 License      : MPLv1.1 or GPLv2+ or LGPLv2+
 Descript     : This package contains results of tests executed during build.
@@ -682,8 +682,8 @@ Descript     : This package contains results of tests executed during build.
 <summary>firefox-wayland</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firefox Wayland launcher.
+From repo    : updates-testing
+Short desc   : Firefox Wayland launcher.
 URL          : https://www.mozilla.org/firefox/
 License      : MPLv1.1 or GPLv2+ or LGPLv2+
 Descript     : The firefox-wayland package contains launcher and desktop file
@@ -696,8 +696,8 @@ Descript     : The firefox-wayland package contains launcher and desktop file
 <summary>firefox-x11</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firefox X11 launcher.
+From repo    : updates-testing
+Short desc   : Firefox X11 launcher.
 URL          : https://www.mozilla.org/firefox/
 License      : MPLv1.1 or GPLv2+ or LGPLv2+
 Descript     : The firefox-x11 package contains launcher and desktop file
@@ -710,8 +710,8 @@ Descript     : The firefox-x11 package contains launcher and desktop file
 <summary>firewalld</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A firewall daemon with D-Bus interface providing a dynamic firewall
+From repo    : anaconda
+Short desc   : A firewall daemon with D-Bus interface providing a dynamic firewall
 URL          : http://www.firewalld.org
 License      : GPLv2+
 Descript     : firewalld is a firewall service daemon that provides a dynamic customizable
@@ -724,8 +724,8 @@ Descript     : firewalld is a firewall service daemon that provides a dynamic cu
 <summary>firewalld-filesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Firewalld directory layout and rpm macros
+From repo    : anaconda
+Short desc   : Firewalld directory layout and rpm macros
 URL          : http://www.firewalld.org
 License      : GPLv2+
 Descript     : This package provides directories and rpm macros which
@@ -738,8 +738,8 @@ Descript     : This package provides directories and rpm macros which
 <summary>flac-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for the Free Lossless Audio Codec
+From repo    : anaconda
+Short desc   : Libraries for the Free Lossless Audio Codec
 URL          : https://www.xiph.org/flac/
 License      : BSD and GPLv2+ and GFDL
 Descript     : FLAC stands for Free Lossless Audio Codec. Grossly oversimplified, FLAC
@@ -757,8 +757,8 @@ Descript     : FLAC stands for Free Lossless Audio Codec. Grossly oversimplified
 <summary>flash-player-ppapi</summary>
 
 ```
-From repo     : adobe-linux-x86_64
-Short desc    : Adobe Flash Player PPAPI 26.0
+From repo    : adobe-linux-x86_64
+Short desc   : Adobe Flash Player PPAPI 26.0
 URL          : http://www.adobe.com/downloads/
 License      : Commercial
 Descript     : Adobe Flash Player PPAPI 32.0.0.465
@@ -771,8 +771,8 @@ Descript     : Adobe Flash Player PPAPI 32.0.0.465
 <summary>flash-plugin</summary>
 
 ```
-From repo     : adobe-linux-x86_64
-Short desc    : Adobe Flash Player NPAPI
+From repo    : adobe-linux-x86_64
+Short desc   : Adobe Flash Player NPAPI
 URL          : http://www.adobe.com/downloads/
 License      : Commercial
 Descript     : Adobe Flash Plugin 32.0.0.465
@@ -784,8 +784,8 @@ Descript     : Adobe Flash Plugin 32.0.0.465
 <summary>flashrom</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Simple program for reading/writing flash chips content
+From repo    : anaconda
+Short desc   : Simple program for reading/writing flash chips content
 URL          : https://flashrom.org
 License      : GPLv2
 Descript     : flashrom is a utility for identifying, reading, writing, verifying and erasing
@@ -800,8 +800,8 @@ Descript     : flashrom is a utility for identifying, reading, writing, verifyin
 <summary>flat-remix-gtk2-theme</summary>
 
 ```
-From repo     : fedora
-Short desc    : GTK+ 2 support for the Flat Remix GTK theme
+From repo    : fedora
+Short desc   : GTK+ 2 support for the Flat Remix GTK theme
 URL          : https://drasite.com/flat-remix-gtk
 License      : GPLv3+
 Descript     : Flat Remix GTK theme is a pretty simple GTK window theme inspired on material
@@ -827,8 +827,8 @@ Descript     : Flat Remix GTK theme is a pretty simple GTK window theme inspired
 <summary>flat-remix-gtk3-theme</summary>
 
 ```
-From repo     : fedora
-Short desc    : GTK+ 3 support for the Flat Remix GTK theme
+From repo    : fedora
+Short desc   : GTK+ 3 support for the Flat Remix GTK theme
 URL          : https://drasite.com/flat-remix-gtk
 License      : GPLv3+
 Descript     : Flat Remix GTK theme is a pretty simple GTK window theme inspired on material
@@ -854,8 +854,8 @@ Descript     : Flat Remix GTK theme is a pretty simple GTK window theme inspired
 <summary>flat-remix-icon-theme</summary>
 
 ```
-From repo     : fedora
-Short desc    : Icon theme inspired on material design
+From repo    : fedora
+Short desc   : Icon theme inspired on material design
 URL          : https://github.com/daniruiz/flat-remix
 License      : GPLv3+ and CC-BY-SA
 Descript     : Flat Remix icon theme is a pretty simple Linux icon theme inspired on material
@@ -869,8 +869,8 @@ Descript     : Flat Remix icon theme is a pretty simple Linux icon theme inspire
 <summary>flat-remix-theme</summary>
 
 ```
-From repo     : fedora
-Short desc    : Pretty simple theme inspired on material design
+From repo    : fedora
+Short desc   : Pretty simple theme inspired on material design
 URL          : https://drasite.com/flat-remix-gtk
 License      : GPLv3+
 Descript     : Flat Remix GTK theme is a pretty simple GTK window theme inspired on material
@@ -896,8 +896,8 @@ Descript     : Flat Remix GTK theme is a pretty simple GTK window theme inspired
 <summary>flatpak</summary>
 
 ```
-From repo     : fedora
-Short desc    : Application deployment framework for desktop apps
+From repo    : fedora
+Short desc   : Application deployment framework for desktop apps
 URL          : http://flatpak.org/
 License      : LGPLv2+
 Descript     : flatpak is a system for building, distributing and running sandboxed desktop
@@ -911,8 +911,8 @@ Descript     : flatpak is a system for building, distributing and running sandbo
 <summary>flatpak-builder</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tool to build flatpaks from source
+From repo    : updates-testing
+Short desc   : Tool to build flatpaks from source
 URL          : http://flatpak.org/
 License      : LGPLv2+ and GPLv2+
 Descript     : Flatpak-builder is a tool for building flatpaks from sources.
@@ -926,8 +926,8 @@ Descript     : Flatpak-builder is a tool for building flatpaks from sources.
 <summary>flatpak-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for flatpak
+From repo    : fedora
+Short desc   : Development files for flatpak
 URL          : http://flatpak.org/
 License      : LGPLv2+
 Descript     : This package contains the pkg-config file and development headers for flatpak.
@@ -939,8 +939,8 @@ Descript     : This package contains the pkg-config file and development headers
 <summary>flatpak-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries for flatpak
+From repo    : fedora
+Short desc   : Libraries for flatpak
 URL          : http://flatpak.org/
 License      : LGPLv2+
 Descript     : This package contains libflatpak.
@@ -952,8 +952,8 @@ Descript     : This package contains libflatpak.
 <summary>flatpak-module-tools</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tools for maintaining Flatpak applications and runtimes as Fedora modules
+From repo    : fedora
+Short desc   : Tools for maintaining Flatpak applications and runtimes as Fedora modules
 URL          : https://pagure.io/flatpak-module-tools
 License      : MIT
 Descript     : flatpak-module-tools is a set of command line tools (all accessed via a single
@@ -967,8 +967,8 @@ Descript     : flatpak-module-tools is a set of command line tools (all accessed
 <summary>flatpak-rpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : Macros for building RPMS for flatpaks
+From repo    : fedora
+Short desc   : Macros for building RPMS for flatpaks
 License      : MIT
 Descript     : The macros in this package set up the RPM build environment so built
              : applications install in /app rather than /usr. This package is meant
@@ -982,8 +982,8 @@ Descript     : The macros in this package set up the RPM build environment so bu
 <summary>flatpak-selinux</summary>
 
 ```
-From repo     : fedora
-Short desc    : SELinux policy module for flatpak
+From repo    : fedora
+Short desc   : SELinux policy module for flatpak
 URL          : http://flatpak.org/
 License      : LGPLv2+
 Descript     : This package contains the SELinux policy module for flatpak.
@@ -995,8 +995,8 @@ Descript     : This package contains the SELinux policy module for flatpak.
 <summary>flatpak-session-helper</summary>
 
 ```
-From repo     : fedora
-Short desc    : User D-Bus service used by flatpak and others
+From repo    : fedora
+Short desc   : User D-Bus service used by flatpak and others
 URL          : http://flatpak.org/
 License      : LGPLv2+
 Descript     : This package contains the org.freedesktop.Flatpak user D-Bus service
@@ -1009,8 +1009,8 @@ Descript     : This package contains the org.freedesktop.Flatpak user D-Bus serv
 <summary>flatpak-spawn</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command-line frontend for the org.freedesktop.Flatpak service
+From repo    : fedora
+Short desc   : Command-line frontend for the org.freedesktop.Flatpak service
 URL          : https://github.com/flatpak/flatpak-xdg-utils
 License      : LGPLv2+
 Descript     : This package contains the flatpak-spawn command-line utility. It can be
@@ -1024,8 +1024,8 @@ Descript     : This package contains the flatpak-spawn command-line utility. It 
 <summary>flatpak-tests</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tests for flatpak
+From repo    : fedora
+Short desc   : Tests for flatpak
 URL          : http://flatpak.org/
 License      : LGPLv2+
 Descript     : This package contains installed tests for flatpak.
@@ -1037,8 +1037,8 @@ Descript     : This package contains installed tests for flatpak.
 <summary>flatpak-xdg-utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command-line tools for use inside Flatpak sandboxes
+From repo    : fedora
+Short desc   : Command-line tools for use inside Flatpak sandboxes
 URL          : https://github.com/flatpak/flatpak-xdg-utils
 License      : LGPLv2+
 Descript     : This package contains a number of command-line utilities for use inside
@@ -1051,8 +1051,8 @@ Descript     : This package contains a number of command-line utilities for use 
 <summary>flexiblas</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A BLAS/LAPACK wrapper library with runtime exchangeable backends
+From repo    : anaconda
+Short desc   : A BLAS/LAPACK wrapper library with runtime exchangeable backends
 URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 License      : GPLv3 with exceptions and LGPLv2+ and BSD
 Descript     : FlexiBLAS is a wrapper library that enables the exchange of the BLAS and
@@ -1065,8 +1065,8 @@ Descript     : FlexiBLAS is a wrapper library that enables the exchange of the B
 <summary>flexiblas-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development headers and libraries for FlexiBLAS
+From repo    : fedora
+Short desc   : Development headers and libraries for FlexiBLAS
 URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 License      : GPLv3 with exceptions and LGPLv2+ and BSD
 Descript     : FlexiBLAS is a wrapper library that enables the exchange of the BLAS and
@@ -1081,8 +1081,8 @@ Descript     : FlexiBLAS is a wrapper library that enables the exchange of the B
 <summary>flexiblas-netlib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : FlexiBLAS wrapper library
+From repo    : anaconda
+Short desc   : FlexiBLAS wrapper library
 URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 License      : GPLv3 with exceptions and LGPLv2+ and BSD
 Descript     : FlexiBLAS is a wrapper library that enables the exchange of the BLAS and
@@ -1097,8 +1097,8 @@ Descript     : FlexiBLAS is a wrapper library that enables the exchange of the B
 <summary>flexiblas-netlib64</summary>
 
 ```
-From repo     : fedora
-Short desc    : FlexiBLAS wrapper library (64-bit)
+From repo    : fedora
+Short desc   : FlexiBLAS wrapper library (64-bit)
 URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 License      : GPLv3 with exceptions and LGPLv2+ and BSD
 Descript     : FlexiBLAS is a wrapper library that enables the exchange of the BLAS and
@@ -1113,8 +1113,8 @@ Descript     : FlexiBLAS is a wrapper library that enables the exchange of the B
 <summary>flexiblas-openblas-openmp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : FlexiBLAS wrappers for OpenBLAS
+From repo    : anaconda
+Short desc   : FlexiBLAS wrappers for OpenBLAS
 URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 License      : GPLv3 with exceptions and LGPLv2+ and BSD
 Descript     : FlexiBLAS is a wrapper library that enables the exchange of the BLAS and
@@ -1130,8 +1130,8 @@ Descript     : FlexiBLAS is a wrapper library that enables the exchange of the B
 <summary>flexiblas-openblas-openmp64</summary>
 
 ```
-From repo     : fedora
-Short desc    : FlexiBLAS wrappers for OpenBLAS (64-bit)
+From repo    : fedora
+Short desc   : FlexiBLAS wrappers for OpenBLAS (64-bit)
 URL          : https://www.mpi-magdeburg.mpg.de/projects/flexiblas
 License      : GPLv3 with exceptions and LGPLv2+ and BSD
 Descript     : FlexiBLAS is a wrapper library that enables the exchange of the BLAS and
@@ -1147,8 +1147,8 @@ Descript     : FlexiBLAS is a wrapper library that enables the exchange of the B
 <summary>fluidsynth</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Real-time software synthesizer
+From repo    : updates-testing
+Short desc   : Real-time software synthesizer
 URL          : http://www.fluidsynth.org/
 License      : LGPLv2+
 Descript     : FluidSynth is a real-time software synthesizer based on the SoundFont 2
@@ -1165,8 +1165,8 @@ Descript     : FluidSynth is a real-time software synthesizer based on the Sound
 <summary>fluidsynth-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Real-time software synthesizer run-time libraries
+From repo    : updates-testing
+Short desc   : Real-time software synthesizer run-time libraries
 URL          : http://www.fluidsynth.org/
 License      : LGPLv2+
 Descript     : FluidSynth is a real-time software synthesizer based on the SoundFont 2
@@ -1180,8 +1180,8 @@ Descript     : FluidSynth is a real-time software synthesizer based on the Sound
 <summary>fmt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Small, safe and fast formatting library for C++
+From repo    : anaconda
+Short desc   : Small, safe and fast formatting library for C++
 URL          : https://github.com/fmtlib/fmt
 License      : BSD
 Descript     : C++ Format is an open-source formatting library for C++. It can be used as a
@@ -1195,8 +1195,8 @@ Descript     : C++ Format is an open-source formatting library for C++. It can b
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : GObject contact aggregation library
+From repo    : anaconda
+Short desc   : GObject contact aggregation library
 URL          : https://wiki.gnome.org/Projects/Folks
 License      : LGPLv2+
 Descript     : libfolks is a library that aggregates people from multiple sources (e.g.
@@ -1211,8 +1211,8 @@ Descript     : libfolks is a library that aggregates people from multiple source
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Iconic font set
+From repo    : fedora
+Short desc   : Iconic font set
 URL          : http://fontawesome.io
 License      : OFL
 Descript     : Font Awesome gives you scalable vector icons that can instantly be
@@ -1230,8 +1230,8 @@ Descript     : Font Awesome gives you scalable vector icons that can instantly b
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Iconic font set, web files
+From repo    : fedora
+Short desc   : Iconic font set, web files
 URL          : http://fontawesome.io
 License      : OFL and MIT
 Descript     : Font Awesome gives you scalable vector icons that can instantly be
@@ -1249,8 +1249,8 @@ Descript     : Font Awesome gives you scalable vector icons that can instantly b
 <summary>fontconfig</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Font configuration and customization library
+From repo    : anaconda
+Short desc   : Font configuration and customization library
 URL          : http://fontconfig.org
 License      : MIT and Public Domain and UCD
 Descript     : Fontconfig is designed to locate fonts within the
@@ -1264,8 +1264,8 @@ Descript     : Fontconfig is designed to locate fonts within the
 <summary>fontconfig</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Font configuration and customization library
+From repo    : updates-testing
+Short desc   : Font configuration and customization library
 URL          : http://fontconfig.org
 License      : MIT and Public Domain and UCD
 Descript     : Fontconfig is designed to locate fonts within the
@@ -1279,8 +1279,8 @@ Descript     : Fontconfig is designed to locate fonts within the
 <summary>fontconfig-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Font configuration and customization library
+From repo    : updates-testing
+Short desc   : Font configuration and customization library
 URL          : http://fontconfig.org
 License      : MIT and Public Domain and UCD
 Descript     : The fontconfig-devel package includes the header files,
@@ -1297,8 +1297,8 @@ Descript     : The fontconfig-devel package includes the header files,
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Directories used by font packages
+From repo    : anaconda
+Short desc   : Directories used by font packages
 URL          : https://docs.fedoraproject.org/en-US/packaging-guidelines/FontsPolicy/
 License      : MIT
 Descript     : This package contains the basic directory layout used by font packages,
@@ -1312,8 +1312,8 @@ Descript     : This package contains the basic directory layout used by font pac
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Source-stage rpm automation for fonts packages
+From repo    : fedora
+Short desc   : Source-stage rpm automation for fonts packages
 URL          : https://docs.fedoraproject.org/en-US/packaging-guidelines/FontsPolicy/
 License      : GPLv3+
 Descript     : This package provides SRPM-stage rpm automation to simplify the creation of
@@ -1332,8 +1332,8 @@ Descript     : This package provides SRPM-stage rpm automation to simplify the c
 <summary>foomatic</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tools for using the foomatic database of printers and printer drivers
+From repo    : anaconda
+Short desc   : Tools for using the foomatic database of printers and printer drivers
 URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprinting/database/foomatic
 License      : GPLv2+
 Descript     : Foomatic is a comprehensive, spooler-independent database of printers,
@@ -1357,8 +1357,8 @@ Descript     : Foomatic is a comprehensive, spooler-independent database of prin
 <summary>foomatic-db</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Database of printers and printer drivers
+From repo    : anaconda
+Short desc   : Database of printers and printer drivers
 URL          : http://www.openprinting.org
 License      : GPLv2+
 Descript     : This is the database of printers, printer drivers, and driver options
@@ -1373,8 +1373,8 @@ Descript     : This is the database of printers, printer drivers, and driver opt
 <summary>foomatic-db-filesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Directory layout for the foomatic package
+From repo    : anaconda
+Short desc   : Directory layout for the foomatic package
 URL          : http://www.openprinting.org
 License      : Public Domain
 Descript     : Directory layout for the foomatic package.
@@ -1386,8 +1386,8 @@ Descript     : Directory layout for the foomatic package.
 <summary>foomatic-db-ppds</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PPDs from printer manufacturers
+From repo    : anaconda
+Short desc   : PPDs from printer manufacturers
 URL          : http://www.openprinting.org
 License      : GPLv2+ and MIT
 Descript     : PPDs from printer manufacturers.
@@ -1399,8 +1399,8 @@ Descript     : PPDs from printer manufacturers.
 <summary>fpaste</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A simple tool for pasting info onto the Fedora community paste server
+From repo    : anaconda
+Short desc   : A simple tool for pasting info onto the Fedora community paste server
 URL          : https://pagure.io/fpaste
 License      : GPLv3+
 Descript     : It is often useful to be able to easily paste text to the Fedora
@@ -1420,8 +1420,8 @@ Descript     : It is often useful to be able to easily paste text to the Fedora
 <summary>fpc-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM macros needed by packages built with Free Pascal Compiler
+From repo    : fedora
+Short desc   : RPM macros needed by packages built with Free Pascal Compiler
 URL          : https://src.fedoraproject.org/rpms/fpc-srpm-macros
 License      : MIT
 Descript     : This package contains RPM macros needed by packages built with the
@@ -1435,8 +1435,8 @@ Descript     : This package contains RPM macros needed by packages built with th
 <summary>fprintd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : D-Bus service for Fingerprint reader access
+From repo    : anaconda
+Short desc   : D-Bus service for Fingerprint reader access
 URL          : http://www.freedesktop.org/wiki/Software/fprint/fprintd
 License      : GPLv2+
 Descript     : D-Bus service to access fingerprint readers.
@@ -1448,8 +1448,8 @@ Descript     : D-Bus service to access fingerprint readers.
 <summary>fprintd-pam</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PAM module for fingerprint authentication
+From repo    : anaconda
+Short desc   : PAM module for fingerprint authentication
 URL          : http://www.freedesktop.org/wiki/Software/fprint/fprintd
 License      : GPLv2+
 Descript     : PAM module that uses the fprintd D-Bus service for fingerprint
@@ -1462,8 +1462,8 @@ Descript     : PAM module that uses the fprintd D-Bus service for fingerprint
 <summary>freeglut</summary>
 
 ```
-From repo     : fedora
-Short desc    : A freely licensed alternative to the GLUT library
+From repo    : fedora
+Short desc   : A freely licensed alternative to the GLUT library
 URL          : http://freeglut.sourceforge.net
 License      : MIT
 Descript     : freeglut is a completely open source alternative to the OpenGL Utility Toolkit
@@ -1483,8 +1483,8 @@ Descript     : freeglut is a completely open source alternative to the OpenGL Ut
 <summary>freeglut-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Freeglut developmental libraries and header files
+From repo    : fedora
+Short desc   : Freeglut developmental libraries and header files
 URL          : http://freeglut.sourceforge.net
 License      : MIT
 Descript     : Developmental libraries and header files required for developing or compiling
@@ -1499,8 +1499,8 @@ Descript     : Developmental libraries and header files required for developing 
 <summary>freeimage</summary>
 
 ```
-From repo     : fedora
-Short desc    : Multi-format image decoder library
+From repo    : fedora
+Short desc   : Multi-format image decoder library
 URL          : http://freeimage.sourceforge.net/
 License      : GPLv2 or GPLv3 or MPLv1.0
 Descript     : FreeImage is a library for developers who would like to support popular
@@ -1514,8 +1514,8 @@ Descript     : FreeImage is a library for developers who would like to support p
 <summary>freeimage-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for freeimage
+From repo    : fedora
+Short desc   : Development files for freeimage
 URL          : http://freeimage.sourceforge.net/
 License      : GPLv2 or GPLv3 or MPLv1.0
 Descript     : The freeimage-devel package contains libraries and header files for
@@ -1529,8 +1529,8 @@ Descript     : The freeimage-devel package contains libraries and header files f
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Core libraries implementing the RDP protocol
+From repo    : anaconda
+Short desc   : Core libraries implementing the RDP protocol
 URL          : http://www.freerdp.com/
 License      : ASL 2.0
 Descript     : libfreerdp-core can be embedded in applications.
@@ -1548,8 +1548,8 @@ Descript     : libfreerdp-core can be embedded in applications.
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Core libraries implementing the RDP protocol
+From repo    : updates-testing
+Short desc   : Core libraries implementing the RDP protocol
 URL          : http://www.freerdp.com/
 License      : ASL 2.0
 Descript     : libfreerdp-core can be embedded in applications.
@@ -1566,8 +1566,8 @@ Descript     : libfreerdp-core can be embedded in applications.
 <summary>freetds</summary>
 
 ```
-From repo     : fedora
-Short desc    : Implementation of the TDS (Tabular DataStream) protocol
+From repo    : fedora
+Short desc   : Implementation of the TDS (Tabular DataStream) protocol
 URL          : http://www.freetds.org/
 License      : LGPLv2+ and GPLv2+
 Descript     : FreeTDS is a project to document and implement the TDS (Tabular
@@ -1582,8 +1582,8 @@ Descript     : FreeTDS is a project to document and implement the TDS (Tabular
 <summary>freetds-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries for freetds
+From repo    : fedora
+Short desc   : Libraries for freetds
 URL          : http://www.freetds.org/
 License      : LGPLv2+ and GPLv2+
 Descript     : FreeTDS is a project to document and implement the TDS (Tabular
@@ -1599,8 +1599,8 @@ Descript     : FreeTDS is a project to document and implement the TDS (Tabular
 <summary>freetype</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A free and portable font rendering engine
+From repo    : anaconda
+Short desc   : A free and portable font rendering engine
 URL          : http://www.freetype.org
 License      : (FTL or GPLv2+) and BSD and MIT and Public Domain and zlib with acknowledgement
 Descript     : The FreeType engine is a free and portable font rendering
@@ -1617,8 +1617,8 @@ Descript     : The FreeType engine is a free and portable font rendering
 <summary>freetype-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : FreeType development libraries and header files
+From repo    : fedora
+Short desc   : FreeType development libraries and header files
 URL          : http://www.freetype.org
 License      : (FTL or GPLv2+) and BSD and MIT and Public Domain and zlib with acknowledgement
 Descript     : The freetype-devel package includes the static libraries and header files
@@ -1634,8 +1634,8 @@ Descript     : The freetype-devel package includes the static libraries and head
 <summary>freexl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library to extract data from within an Excel spreadsheet
+From repo    : fedora
+Short desc   : Library to extract data from within an Excel spreadsheet
 URL          : http://www.gaia-gis.it/FreeXL
 License      : MPLv1.1 or GPLv2+ or LGPLv2+
 Descript     : FreeXL is a library to extract valid data
@@ -1654,8 +1654,8 @@ Descript     : FreeXL is a library to extract valid data
 <summary>frei0r-plugins</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Frei0r - a minimalist plugin API for video effects
+From repo    : anaconda
+Short desc   : Frei0r - a minimalist plugin API for video effects
 URL          : https://frei0r.dyne.org/
 License      : GPLv2+
 Descript     : It is a minimalist plugin API for video sources and filters. The behavior of
@@ -1669,8 +1669,8 @@ Descript     : It is a minimalist plugin API for video sources and filters. The 
 <summary>fribidi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library implementing the Unicode Bidirectional Algorithm
+From repo    : anaconda
+Short desc   : Library implementing the Unicode Bidirectional Algorithm
 URL          : https://github.com/fribidi/fribidi/
 License      : LGPLv2+ and UCD
 Descript     : A library to handle bidirectional scripts (for example Hebrew, Arabic),
@@ -1684,8 +1684,8 @@ Descript     : A library to handle bidirectional scripts (for example Hebrew, Ar
 <summary>fribidi-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries and include files for FriBidi
+From repo    : fedora
+Short desc   : Libraries and include files for FriBidi
 URL          : https://github.com/fribidi/fribidi/
 License      : LGPLv2+ and UCD
 Descript     : Include files and libraries needed for developing applications which use
@@ -1698,8 +1698,8 @@ Descript     : Include files and libraries needed for developing applications wh
 <summary>fros</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Universal screencasting frontend with pluggable support for various backends
+From repo    : anaconda
+Short desc   : Universal screencasting frontend with pluggable support for various backends
 URL          : https://github.com/mozeq/fros
 License      : GPLv2+
 Descript     : Universal screencasting frontend with pluggable support for various backends.
@@ -1714,8 +1714,8 @@ Descript     : Universal screencasting frontend with pluggable support for vario
 <summary>fros-gnome</summary>
 
 ```
-From repo     : anaconda
-Short desc    : fros plugin for screencasting using Gnome3 integrated screencaster
+From repo    : anaconda
+Short desc   : fros plugin for screencasting using Gnome3 integrated screencaster
 URL          : https://github.com/mozeq/fros
 License      : GPLv2+
 Descript     : fros plugin for screencasting using Gnome3 integrated screencaster
@@ -1727,8 +1727,8 @@ Descript     : fros plugin for screencasting using Gnome3 integrated screencaste
 <summary>fstransform</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tool for in-place file-system conversion without backup
+From repo    : fedora
+Short desc   : Tool for in-place file-system conversion without backup
 URL          : https://github.com/cosmos72/fstransform
 License      : GPLv3+
 Descript     : fstransform is a tool to change a file-system from one format
@@ -1742,8 +1742,8 @@ Descript     : fstransform is a tool to change a file-system from one format
 <summary>fstrm</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Frame Streams implementation in C
+From repo    : updates-testing
+Short desc   : Frame Streams implementation in C
 URL          : https://github.com/farsightsec/fstrm
 License      : MIT
 Descript     : Frame Streams is a light weight, binary clean protocol that allows for the
@@ -1760,8 +1760,8 @@ Descript     : Frame Streams is a light weight, binary clean protocol that allow
 <summary>fuse</summary>
 
 ```
-From repo     : anaconda
-Short desc    : File System in Userspace (FUSE) v2 utilities
+From repo    : anaconda
+Short desc   : File System in Userspace (FUSE) v2 utilities
 URL          : http://fuse.sf.net
 License      : GPL+
 Descript     : With FUSE it is possible to implement a fully functional filesystem in a
@@ -1775,8 +1775,8 @@ Descript     : With FUSE it is possible to implement a fully functional filesyst
 <summary>fuse-btfs</summary>
 
 ```
-From repo     : fedora
-Short desc    : FUSE filesystem Bittorrent
+From repo    : fedora
+Short desc   : FUSE filesystem Bittorrent
 URL          : https://github.com/johang/btfs
 License      : GPLv3
 Descript     : With BTFS, you can mount any .torrent file or magnet link and then use it as
@@ -1792,8 +1792,8 @@ Descript     : With BTFS, you can mount any .torrent file or magnet link and the
 <summary>fuse-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common files for File System in Userspace (FUSE) v2 and v3
+From repo    : anaconda
+Short desc   : Common files for File System in Userspace (FUSE) v2 and v3
 URL          : http://fuse.sf.net
 License      : GPL+
 Descript     : Common files for FUSE v2 and FUSE v3.
@@ -1805,8 +1805,8 @@ Descript     : Common files for FUSE v2 and FUSE v3.
 <summary>fuse-convmvfs</summary>
 
 ```
-From repo     : fedora
-Short desc    : FUSE-Filesystem to convert filesystem encodings
+From repo    : fedora
+Short desc   : FUSE-Filesystem to convert filesystem encodings
 URL          : http://fuse-convmvfs.sourceforge.net/
 License      : GPLv2
 Descript     : This is a filesystem client use the FUSE(Filesystem in
@@ -1820,8 +1820,8 @@ Descript     : This is a filesystem client use the FUSE(Filesystem in
 <summary>fuse-dislocker</summary>
 
 ```
-From repo     : fedora
-Short desc    : FUSE filesystem to access BitLocker encrypted volumes
+From repo    : fedora
+Short desc   : FUSE filesystem to access BitLocker encrypted volumes
 URL          : https://github.com/Aorimn/dislocker
 License      : GPLv2+
 Descript     : Dislocker has been designed to read BitLocker encrypted partitions ("drives")
@@ -1842,8 +1842,8 @@ Descript     : Dislocker has been designed to read BitLocker encrypted partition
 <summary>fuse-encfs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Encrypted pass-thru filesystem in userspace
+From repo    : fedora
+Short desc   : Encrypted pass-thru filesystem in userspace
 URL          : http://www.arg0.net/encfs
 License      : GPLv3+
 Descript     : EncFS implements an encrypted filesystem in userspace using FUSE.  FUSE
@@ -1859,8 +1859,8 @@ Descript     : EncFS implements an encrypted filesystem in userspace using FUSE.
 <summary>fuse-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : File System in Userspace (FUSE) v2 libraries
+From repo    : anaconda
+Short desc   : File System in Userspace (FUSE) v2 libraries
 URL          : http://fuse.sf.net
 License      : LGPLv2+
 Descript     : Devel With FUSE it is possible to implement a fully functional filesystem in a
@@ -1873,8 +1873,8 @@ Descript     : Devel With FUSE it is possible to implement a fully functional fi
 <summary>fuse-overlayfs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : FUSE overlay+shiftfs implementation for rootless containers
+From repo    : anaconda
+Short desc   : FUSE overlay+shiftfs implementation for rootless containers
 URL          : https://github.com/containers/fuse-overlayfs
 License      : GPLv3+
 Descript     : FUSE overlay+shiftfs implementation for rootless containers.
@@ -1886,8 +1886,8 @@ Descript     : FUSE overlay+shiftfs implementation for rootless containers.
 <summary>fuse-overlayfs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : FUSE overlay+shiftfs implementation for rootless containers
+From repo    : updates-testing
+Short desc   : FUSE overlay+shiftfs implementation for rootless containers
 URL          : https://github.com/containers/fuse-overlayfs
 License      : GPLv3+
 Descript     : FUSE overlay+shiftfs implementation for rootless containers.
@@ -1899,8 +1899,8 @@ Descript     : FUSE overlay+shiftfs implementation for rootless containers.
 <summary>fuse-pingfs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Stores your data in ICMP ping packets
+From repo    : fedora
+Short desc   : Stores your data in ICMP ping packets
 URL          : https://github.com/yarrick/pingfs
 License      : ISC
 Descript     : pingfs is a filesystem where the data is stored only in the Internet itself, as
@@ -1913,8 +1913,8 @@ Descript     : pingfs is a filesystem where the data is stored only in the Inter
 <summary>fuse-sshfs</summary>
 
 ```
-From repo     : fedora
-Short desc    : FUSE-Filesystem to access remote filesystems via SSH
+From repo    : fedora
+Short desc   : FUSE-Filesystem to access remote filesystems via SSH
 URL          : https://github.com/libfuse/sshfs
 License      : GPLv2
 Descript     : This is a FUSE-filesystem client based on the SSH File Transfer Protocol.
@@ -1929,8 +1929,8 @@ Descript     : This is a FUSE-filesystem client based on the SSH File Transfer P
 <summary>fuse-uadefs</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : Pseudo file system for playing music modules as WAVs
+From repo    : rpmfusion-nonfree
+Short desc   : Pseudo file system for playing music modules as WAVs
 URL          : http://zakalwe.fi/uade
 License      : GPLv2+ and Distributable
 Descript     : Pseudo file system for playing music modules as WAVs. This allows audio players
@@ -1943,8 +1943,8 @@ Descript     : Pseudo file system for playing music modules as WAVs. This allows
 <summary>fuse-zip</summary>
 
 ```
-From repo     : fedora
-Short desc    : Пользовательская ФС для работы с ZIP архивами
+From repo    : fedora
+Short desc   : Пользовательская ФС для работы с ZIP архивами
 URL          : https://bitbucket.org/agalanin/fuse-zip/
 License      : GPLv3+
 Descript     : fuse-zip - это файловая система для навигации, извлечения, создания и
@@ -1965,8 +1965,8 @@ Descript     : fuse-zip - это файловая система для нави
 <summary>fuse3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : File System in Userspace (FUSE) v3 utilities
+From repo    : anaconda
+Short desc   : File System in Userspace (FUSE) v3 utilities
 URL          : http://fuse.sf.net
 License      : GPL+
 Descript     : With FUSE it is possible to implement a fully functional filesystem in a
@@ -1980,8 +1980,8 @@ Descript     : With FUSE it is possible to implement a fully functional filesyst
 <summary>fuse3-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : File System in Userspace (FUSE) v3 libraries
+From repo    : anaconda
+Short desc   : File System in Userspace (FUSE) v3 libraries
 URL          : http://fuse.sf.net
 License      : LGPLv2+
 Descript     : Devel With FUSE it is possible to implement a fully functional filesystem in a
@@ -1994,8 +1994,8 @@ Descript     : Devel With FUSE it is possible to implement a fully functional fi
 <summary>fwupd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware update daemon
+From repo    : updates-testing
+Short desc   : Firmware update daemon
 URL          : https://github.com/fwupd/fwupd
 License      : LGPLv2+
 Descript     : fwupd is a daemon to allow session software to update device firmware.
@@ -2007,8 +2007,8 @@ Descript     : fwupd is a daemon to allow session software to update device firm
 <summary>fwupd-plugin-flashrom</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : fwupd plugin using flashrom
+From repo    : updates-testing
+Short desc   : fwupd plugin using flashrom
 URL          : https://github.com/fwupd/fwupd
 License      : LGPLv2+
 Descript     : This provides the optional package which is only required on hardware that
@@ -2021,8 +2021,8 @@ Descript     : This provides the optional package which is only required on hard
 <summary>fwupd-plugin-modem-manager</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : fwupd plugin using ModemManger
+From repo    : updates-testing
+Short desc   : fwupd plugin using ModemManger
 URL          : https://github.com/fwupd/fwupd
 License      : LGPLv2+
 Descript     : This provides the optional package which is only required on hardware that
@@ -2035,8 +2035,8 @@ Descript     : This provides the optional package which is only required on hard
 <summary>fwupd-plugin-uefi-capsule-data</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Localized data for the UEFI UX capsule
+From repo    : updates-testing
+Short desc   : Localized data for the UEFI UX capsule
 URL          : https://github.com/fwupd/fwupd
 License      : LGPLv2+
 Descript     : This provides the pregenerated BMP artwork for the UX capsule, which allows the

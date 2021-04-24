@@ -4,8 +4,8 @@
 <summary>i3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Improved tiling window manager
+From repo    : fedora
+Short desc   : Improved tiling window manager
 URL          : https://i3wm.org
 License      : BSD
 Descript     : Key features of i3 are correct implementation of XrandR, horizontal and vertical
@@ -22,8 +22,8 @@ Descript     : Key features of i3 are correct implementation of XrandR, horizont
 <summary>i3lock</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple X display locker like slock
+From repo    : fedora
+Short desc   : Simple X display locker like slock
 URL          : https://i3wm.org/i3lock/
 License      : MIT
 Descript     : i3lock is a simple screen locker like slock. After starting it, you will see a
@@ -51,8 +51,8 @@ Descript     : i3lock is a simple screen locker like slock. After starting it, y
 <summary>i3status</summary>
 
 ```
-From repo     : fedora
-Short desc    : Status bar generator for i3bar, dzen2, xmobar or similar programs
+From repo    : fedora
+Short desc   : Status bar generator for i3bar, dzen2, xmobar or similar programs
 URL          : https://i3wm.org/i3status/
 License      : BSD
 Descript     : i3status is a program for generating a status bar for i3bar, dzen2,
@@ -68,8 +68,8 @@ Descript     : i3status is a program for generating a status bar for i3bar, dzen
 <summary>iaxclient</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for creating telephony solutions that interoperate with Asterisk
+From repo    : fedora
+Short desc   : Library for creating telephony solutions that interoperate with Asterisk
 URL          : http://iaxclient.wiki.sourceforge.net/
 License      : LGPLv2+
 Descript     : Iaxclient is an open source, multiplatform library for creating telephony
@@ -89,8 +89,8 @@ Descript     : Iaxclient is an open source, multiplatform library for creating t
 <summary>iaxclient-libiax</summary>
 
 ```
-From repo     : fedora
-Short desc    : IAX library
+From repo    : fedora
+Short desc   : IAX library
 URL          : http://iaxclient.wiki.sourceforge.net/
 License      : LGPLv2+
 Descript     : The iaxclient-libs package contains the IAX library version 0.2.3, an improved
@@ -103,8 +103,8 @@ Descript     : The iaxclient-libs package contains the IAX library version 0.2.3
 <summary>ibus</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Intelligent Input Bus for Linux OS
+From repo    : updates-testing
+Short desc   : Intelligent Input Bus for Linux OS
 URL          : https://github.com/ibus/ibus/wiki
 License      : LGPLv2+
 Descript     : IBus means Intelligent Input Bus. It is an input framework for Linux OS.
@@ -116,8 +116,8 @@ Descript     : IBus means Intelligent Input Bus. It is an input framework for Li
 <summary>ibus-anthy</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Anthy engine for IBus input platform
+From repo    : anaconda
+Short desc   : The Anthy engine for IBus input platform
 URL          : https://github.com/ibus/ibus/wiki
 License      : GPLv2+
 Descript     : The Anthy engine for IBus platform. It provides Japanese input method from
@@ -130,8 +130,8 @@ Descript     : The Anthy engine for IBus platform. It provides Japanese input me
 <summary>ibus-anthy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Anthy engine for IBus input platform
+From repo    : updates-testing
+Short desc   : The Anthy engine for IBus input platform
 URL          : https://github.com/ibus/ibus/wiki
 License      : GPLv2+
 Descript     : The Anthy engine for IBus platform. It provides Japanese input method from
@@ -144,8 +144,8 @@ Descript     : The Anthy engine for IBus platform. It provides Japanese input me
 <summary>ibus-anthy-python</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Anthy Python files for IBus
+From repo    : anaconda
+Short desc   : Anthy Python files for IBus
 URL          : https://github.com/ibus/ibus/wiki
 License      : GPLv2+
 Descript     : This package contains the Anthy Python files for IBus
@@ -157,8 +157,8 @@ Descript     : This package contains the Anthy Python files for IBus
 <summary>ibus-anthy-python</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Anthy Python files for IBus
+From repo    : updates-testing
+Short desc   : Anthy Python files for IBus
 URL          : https://github.com/ibus/ibus/wiki
 License      : GPLv2+
 Descript     : This package contains the Anthy Python files for IBus
@@ -170,8 +170,8 @@ Descript     : This package contains the Anthy Python files for IBus
 <summary>ibus-gtk2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : IBus IM module for GTK2
+From repo    : updates-testing
+Short desc   : IBus IM module for GTK2
 URL          : https://github.com/ibus/ibus/wiki
 License      : LGPLv2+
 Descript     : This package contains IBus IM module for GTK2
@@ -183,8 +183,8 @@ Descript     : This package contains IBus IM module for GTK2
 <summary>ibus-gtk3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : IBus IM module for GTK3
+From repo    : anaconda
+Short desc   : IBus IM module for GTK3
 URL          : https://github.com/ibus/ibus/wiki
 License      : LGPLv2+
 Descript     : This package contains IBus IM module for GTK3
@@ -196,8 +196,8 @@ Descript     : This package contains IBus IM module for GTK3
 <summary>ibus-gtk3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : IBus IM module for GTK3
+From repo    : updates-testing
+Short desc   : IBus IM module for GTK3
 URL          : https://github.com/ibus/ibus/wiki
 License      : LGPLv2+
 Descript     : This package contains IBus IM module for GTK3
@@ -209,8 +209,8 @@ Descript     : This package contains IBus IM module for GTK3
 <summary>ibus-hangul</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Hangul engine for IBus input platform
+From repo    : anaconda
+Short desc   : The Hangul engine for IBus input platform
 URL          : https://github.com/libhangul/ibus-hangul
 License      : GPLv2+
 Descript     : The Hangul engine for IBus platform. It provides Korean input method from
@@ -223,8 +223,8 @@ Descript     : The Hangul engine for IBus platform. It provides Korean input met
 <summary>ibus-libpinyin</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Intelligent Pinyin engine based on libpinyin for IBus
+From repo    : anaconda
+Short desc   : Intelligent Pinyin engine based on libpinyin for IBus
 URL          : https://github.com/libpinyin/ibus-libpinyin
 License      : GPLv3+
 Descript     : It includes a Chinese Pinyin input method and a Chinese ZhuYin (Bopomofo)
@@ -237,8 +237,8 @@ Descript     : It includes a Chinese Pinyin input method and a Chinese ZhuYin (B
 <summary>ibus-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : IBus libraries
+From repo    : anaconda
+Short desc   : IBus libraries
 URL          : https://github.com/ibus/ibus/wiki
 License      : LGPLv2+
 Descript     : This package contains the libraries for IBus
@@ -250,8 +250,8 @@ Descript     : This package contains the libraries for IBus
 <summary>ibus-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : IBus libraries
+From repo    : updates-testing
+Short desc   : IBus libraries
 URL          : https://github.com/ibus/ibus/wiki
 License      : LGPLv2+
 Descript     : This package contains the libraries for IBus
@@ -263,8 +263,8 @@ Descript     : This package contains the libraries for IBus
 <summary>ibus-libzhuyin</summary>
 
 ```
-From repo     : anaconda
-Short desc    : New Zhuyin engine based on libzhuyin for IBus
+From repo    : anaconda
+Short desc   : New Zhuyin engine based on libzhuyin for IBus
 URL          : https://github.com/libzhuyin/ibus-libzhuyin
 License      : GPLv2+
 Descript     : It includes a Chinese Zhuyin (Bopomofo) input method
@@ -277,8 +277,8 @@ Descript     : It includes a Chinese Zhuyin (Bopomofo) input method
 <summary>ibus-m17n</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The M17N engine for IBus platform
+From repo    : anaconda
+Short desc   : The M17N engine for IBus platform
 URL          : https://github.com/ibus/ibus-m17n
 License      : GPLv2+
 Descript     : M17N engine for IBus input platform. It allows input of many languages using
@@ -291,8 +291,8 @@ Descript     : M17N engine for IBus input platform. It allows input of many lang
 <summary>ibus-m17n</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The M17N engine for IBus platform
+From repo    : updates-testing
+Short desc   : The M17N engine for IBus platform
 URL          : https://github.com/ibus/ibus-m17n
 License      : GPLv2+
 Descript     : M17N engine for IBus input platform. It allows input of many languages using
@@ -305,8 +305,8 @@ Descript     : M17N engine for IBus input platform. It allows input of many lang
 <summary>ibus-setup</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : IBus setup utility
+From repo    : updates-testing
+Short desc   : IBus setup utility
 URL          : https://github.com/ibus/ibus/wiki
 License      : LGPLv2+
 Descript     : This is a setup utility for IBus.
@@ -318,8 +318,8 @@ Descript     : This is a setup utility for IBus.
 <summary>ibus-typing-booster</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A completion input method
+From repo    : anaconda
+Short desc   : A completion input method
 URL          : https://mike-fabian.github.io/ibus-typing-booster/
 License      : GPLv3+, ASL 2.0
 Descript     : Ibus-typing-booster is a context sensitive completion
@@ -332,8 +332,8 @@ Descript     : Ibus-typing-booster is a context sensitive completion
 <summary>ibus-typing-booster</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A completion input method
+From repo    : updates-testing
+Short desc   : A completion input method
 URL          : https://mike-fabian.github.io/ibus-typing-booster/
 License      : GPLv3+, ASL 2.0
 Descript     : Ibus-typing-booster is a context sensitive completion
@@ -346,8 +346,8 @@ Descript     : Ibus-typing-booster is a context sensitive completion
 <summary>iceauth</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Display the authorization information used in connecting with ICE
+From repo    : updates-testing
+Short desc   : Display the authorization information used in connecting with ICE
 URL          : https://www.x.org
 License      : MIT
 Descript     : The iceauth program is used to edit and display the authorization
@@ -361,8 +361,8 @@ Descript     : The iceauth program is used to edit and display the authorization
 <summary>iftop</summary>
 
 ```
-From repo     : fedora
-Short desc    : Command line tool that displays bandwidth usage on an interface
+From repo    : fedora
+Short desc   : Command line tool that displays bandwidth usage on an interface
 URL          : http://www.ex-parrot.com/~pdw/iftop/
 License      : GPLv2+
 Descript     : iftop does for network usage what top(1) does for CPU usage. It listens to
@@ -377,8 +377,8 @@ Descript     : iftop does for network usage what top(1) does for CPU usage. It l
 <summary>iio-sensor-proxy</summary>
 
 ```
-From repo     : anaconda
-Short desc    : IIO accelerometer sensor to input device proxy
+From repo    : anaconda
+Short desc   : IIO accelerometer sensor to input device proxy
 URL          : https://github.com/hadess/iio-sensor-proxy
 License      : GPLv3+
 Descript     : IIO accelerometer sensor to input device proxy.
@@ -390,8 +390,8 @@ Descript     : IIO accelerometer sensor to input device proxy.
 <summary>ilbc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Internet Low Bitrate Codec
+From repo    : fedora
+Short desc   : Internet Low Bitrate Codec
 URL          : https://github.com/TimothyGu/libilbc
 License      : BSD
 Descript     : iLBC (internet Low Bitrate Codec) is a FREE speech codec suitable for
@@ -409,8 +409,8 @@ Descript     : iLBC (internet Low Bitrate Codec) is a FREE speech codec suitable
 <summary>ima-evm-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : IMA/EVM support utilities
+From repo    : anaconda
+Short desc   : IMA/EVM support utilities
 URL          : http://linux-ima.sourceforge.net/
 License      : GPLv2
 Descript     : The Trusted Computing Group(TCG) run-time Integrity Measurement Architecture
@@ -427,8 +427,8 @@ Descript     : The Trusted Computing Group(TCG) run-time Integrity Measurement A
 <summary>imlib2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Image loading, saving, rendering, and manipulation library
+From repo    : fedora
+Short desc   : Image loading, saving, rendering, and manipulation library
 URL          : http://docs.enlightenment.org/api/imlib2/html/
 License      : Imlib2
 Descript     : Imlib 2 is a library that does image file loading and saving as well
@@ -446,8 +446,8 @@ Descript     : Imlib 2 is a library that does image file loading and saving as w
 <summary>incron</summary>
 
 ```
-From repo     : fedora
-Short desc    : Inotify cron system
+From repo    : fedora
+Short desc   : Inotify cron system
 URL          : https://github.com/ar-/incron
 License      : GPLv2
 Descript     : This program is an "inotify cron" system.
@@ -463,8 +463,8 @@ Descript     : This program is an "inotify cron" system.
 <summary>info</summary>
 
 ```
-From repo     : fedora
-Short desc    : A stand-alone TTY-based reader for GNU texinfo documentation
+From repo    : fedora
+Short desc   : A stand-alone TTY-based reader for GNU texinfo documentation
 URL          : http://www.gnu.org/software/texinfo/
 License      : GPLv3+
 Descript     : The GNU project uses the texinfo file format for much of its
@@ -478,8 +478,8 @@ Descript     : The GNU project uses the texinfo file format for much of its
 <summary>inih</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Simple INI file parser library
+From repo    : anaconda
+Short desc   : Simple INI file parser library
 URL          : https://github.com/benhoyt/inih
 License      : BSD
 Descript     : The inih package provides simple INI file parser which is only a couple of
@@ -493,8 +493,8 @@ Descript     : The inih package provides simple INI file parser which is only a 
 <summary>initscripts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Basic support for legacy System V init scripts
+From repo    : anaconda
+Short desc   : Basic support for legacy System V init scripts
 URL          : https://github.com/fedora-sysv/initscripts
 License      : GPLv2
 Descript     : This package provides basic support for legacy System V init scripts, and some
@@ -507,8 +507,8 @@ Descript     : This package provides basic support for legacy System V init scri
 <summary>inkscape</summary>
 
 ```
-From repo     : fedora
-Short desc    : Vector-based drawing program using SVG
+From repo    : fedora
+Short desc   : Vector-based drawing program using SVG
 URL          : https://inkscape.org/
 License      : GPLv2+ and CC-BY
 Descript     : Inkscape is a vector graphics editor, with capabilities similar to
@@ -528,8 +528,8 @@ Descript     : Inkscape is a vector graphics editor, with capabilities similar t
 <summary>inkscape-docs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for Inkscape
+From repo    : fedora
+Short desc   : Documentation for Inkscape
 URL          : https://inkscape.org/
 License      : GPLv2+ and CC-BY
 Descript     : Tutorial and examples for Inkscape, a graphics editor for vector
@@ -542,8 +542,8 @@ Descript     : Tutorial and examples for Inkscape, a graphics editor for vector
 <summary>inkscape-psd</summary>
 
 ```
-From repo     : fedora
-Short desc    : Inkscape PSD Importer
+From repo    : fedora
+Short desc   : Inkscape PSD Importer
 URL          : http://pernsteiner.org/inkscape/psd_import/
 License      : BSD
 Descript     : This Inkscape extension allows you to load Photoshop PSD files.
@@ -555,8 +555,8 @@ Descript     : This Inkscape extension allows you to load Photoshop PSD files.
 <summary>inkscape-view</summary>
 
 ```
-From repo     : fedora
-Short desc    : Viewing program for SVG files
+From repo    : fedora
+Short desc   : Viewing program for SVG files
 URL          : https://inkscape.org/
 License      : GPLv2+ and CC-BY
 Descript     : Viewer for files in W3C standard Scalable Vector Graphics (SVG) file
@@ -569,8 +569,8 @@ Descript     : Viewer for files in W3C standard Scalable Vector Graphics (SVG) f
 <summary>intel-mediasdk</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Hardware-accelerated video processing on Intel integrated GPUs library
+From repo    : updates-testing
+Short desc   : Hardware-accelerated video processing on Intel integrated GPUs library
 URL          : http://mediasdk.intel.com
 License      : MIT
 Descript     : Intel Media SDK provides a plain C API to access hardware-accelerated video
@@ -588,8 +588,8 @@ Descript     : Intel Media SDK provides a plain C API to access hardware-acceler
 <summary>iotop</summary>
 
 ```
-From repo     : fedora
-Short desc    : Top like utility for I/O
+From repo    : fedora
+Short desc   : Top like utility for I/O
 URL          : http://guichaz.free.fr/iotop/
 License      : GPLv2+
 Descript     : Linux has always been able to show how much I/O was going on
@@ -604,8 +604,8 @@ Descript     : Linux has always been able to show how much I/O was going on
 <summary>ipcalc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : IP network address calculator
+From repo    : anaconda
+Short desc   : IP network address calculator
 URL          : https://gitlab.com/ipcalc/ipcalc
 License      : GPLv2+
 Descript     : ipcalc provides a simple way to calculate IP information for a host
@@ -621,8 +621,8 @@ Descript     : ipcalc provides a simple way to calculate IP information for a ho
 <summary>iproute</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Advanced IP routing and network device configuration tools
+From repo    : anaconda
+Short desc   : Advanced IP routing and network device configuration tools
 URL          : http://kernel.org/pub/linux/utils/net/iproute2/
 License      : GPLv2+ and Public Domain
 Descript     : The iproute package contains networking utilities (ip and rtmon, for example)
@@ -636,8 +636,8 @@ Descript     : The iproute package contains networking utilities (ip and rtmon, 
 <summary>iproute-tc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux Traffic Control utility
+From repo    : anaconda
+Short desc   : Linux Traffic Control utility
 URL          : http://kernel.org/pub/linux/utils/net/iproute2/
 License      : GPLv2+
 Descript     : The Traffic Control utility manages queueing disciplines, their classes and
@@ -651,8 +651,8 @@ Descript     : The Traffic Control utility manages queueing disciplines, their c
 <summary>ipset</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Manage Linux IP sets
+From repo    : updates-testing
+Short desc   : Manage Linux IP sets
 URL          : http://ipset.netfilter.org/
 License      : GPLv2
 Descript     : IP sets are a framework inside the Linux kernel since version 2.4.x, which can
@@ -677,8 +677,8 @@ Descript     : IP sets are a framework inside the Linux kernel since version 2.4
 <summary>ipset-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Shared library providing the IP sets functionality
+From repo    : anaconda
+Short desc   : Shared library providing the IP sets functionality
 URL          : http://ipset.netfilter.org/
 License      : GPLv2
 Descript     : This package contains the libraries which provide the IP sets funcionality.
@@ -690,8 +690,8 @@ Descript     : This package contains the libraries which provide the IP sets fun
 <summary>ipset-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Shared library providing the IP sets functionality
+From repo    : updates-testing
+Short desc   : Shared library providing the IP sets functionality
 URL          : http://ipset.netfilter.org/
 License      : GPLv2
 Descript     : This package contains the libraries which provide the IP sets funcionality.
@@ -703,8 +703,8 @@ Descript     : This package contains the libraries which provide the IP sets fun
 <summary>iptables-compat</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Temporary transitioning package
+From repo    : updates-testing
+Short desc   : Temporary transitioning package
 URL          : https://www.netfilter.org/projects/iptables
 License      : GPLv2 and Artistic Licence 2.0 and ISC
 Descript     : This package only exists to help transition iptables users to the new
@@ -718,8 +718,8 @@ Descript     : This package only exists to help transition iptables users to the
 <summary>iptables-legacy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Legacy tools for managing Linux kernel packet filtering capabilities
+From repo    : updates-testing
+Short desc   : Legacy tools for managing Linux kernel packet filtering capabilities
 URL          : https://www.netfilter.org/projects/iptables
 License      : GPLv2 and Artistic Licence 2.0 and ISC
 Descript     : The iptables utility controls the network packet filtering code in the
@@ -735,8 +735,8 @@ Descript     : The iptables utility controls the network packet filtering code i
 <summary>iptables-legacy-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : iptables legacy libraries
+From repo    : updates-testing
+Short desc   : iptables legacy libraries
 URL          : https://www.netfilter.org/projects/iptables
 License      : GPLv2 and Artistic Licence 2.0 and ISC
 Descript     : iptables libraries.
@@ -754,8 +754,8 @@ Descript     : iptables libraries.
 <summary>iptables-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : iptables libraries
+From repo    : anaconda
+Short desc   : iptables libraries
 URL          : http://www.netfilter.org/projects/iptables
 License      : GPLv2 and Artistic Licence 2.0 and ISC
 Descript     : iptables libraries.
@@ -773,8 +773,8 @@ Descript     : iptables libraries.
 <summary>iptables-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : libxtables and iptables extensions userspace support
+From repo    : updates-testing
+Short desc   : libxtables and iptables extensions userspace support
 URL          : https://www.netfilter.org/projects/iptables
 License      : GPLv2 and Artistic Licence 2.0 and ISC
 Descript     : libxtables and associated shared object files
@@ -789,8 +789,8 @@ Descript     : libxtables and associated shared object files
 <summary>iptables-nft</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : nftables compatibility for iptables, arptables and ebtables
+From repo    : updates-testing
+Short desc   : nftables compatibility for iptables, arptables and ebtables
 URL          : https://www.netfilter.org/projects/iptables
 License      : GPLv2 and Artistic Licence 2.0 and ISC
 Descript     : nftables compatibility for iptables, arptables and ebtables.
@@ -802,8 +802,8 @@ Descript     : nftables compatibility for iptables, arptables and ebtables.
 <summary>iptables-services</summary>
 
 ```
-From repo     : fedora
-Short desc    : iptables and ip6tables services for iptables
+From repo    : fedora
+Short desc   : iptables and ip6tables services for iptables
 URL          : http://www.netfilter.org/projects/iptables
 License      : GPLv2 and Artistic Licence 2.0 and ISC
 Descript     : iptables services for IPv4 and IPv6
@@ -818,8 +818,8 @@ Descript     : iptables services for IPv4 and IPv6
 <summary>iptables-utils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : iptables and ip6tables misc utilities
+From repo    : updates-testing
+Short desc   : iptables and ip6tables misc utilities
 URL          : https://www.netfilter.org/projects/iptables
 License      : GPLv2 and Artistic Licence 2.0 and ISC
 Descript     : Utils for iptables
@@ -835,8 +835,8 @@ Descript     : Utils for iptables
 <summary>iptstate</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A top-like display of IP Tables state table entries
+From repo    : anaconda
+Short desc   : A top-like display of IP Tables state table entries
 URL          : http://www.phildev.net/iptstate/
 License      : zlib
 Descript     : IP Tables State (iptstate) was originally written to implement
@@ -866,8 +866,8 @@ Descript     : IP Tables State (iptstate) was originally written to implement
 <summary>iputils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Network monitoring tools including ping
+From repo    : anaconda
+Short desc   : Network monitoring tools including ping
 URL          : https://github.com/iputils/iputils
 License      : BSD and GPLv2+
 Descript     : The iputils package contains basic utilities for monitoring a network,
@@ -882,8 +882,8 @@ Descript     : The iputils package contains basic utilities for monitoring a net
 <summary>iputils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Network monitoring tools including ping
+From repo    : updates-testing
+Short desc   : Network monitoring tools including ping
 URL          : https://github.com/iputils/iputils
 License      : BSD and GPLv2+
 Descript     : The iputils package contains basic utilities for monitoring a network,
@@ -898,8 +898,8 @@ Descript     : The iputils package contains basic utilities for monitoring a net
 <summary>ipw2100-firmware</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Firmware for Intel® PRO/Wireless 2100 network adaptors
+From repo    : anaconda
+Short desc   : Firmware for Intel® PRO/Wireless 2100 network adaptors
 URL          : http://ipw2100.sourceforge.net/firmware.php
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware files required by the ipw2100 driver for
@@ -913,8 +913,8 @@ Descript     : This package contains the firmware files required by the ipw2100 
 <summary>ipw2200-firmware</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Firmware for Intel® PRO/Wireless 2200 network adaptors
+From repo    : anaconda
+Short desc   : Firmware for Intel® PRO/Wireless 2200 network adaptors
 URL          : http://ipw2200.sourceforge.net/firmware.php
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware files required by the ipw2200 driver for
@@ -928,8 +928,8 @@ Descript     : This package contains the firmware files required by the ipw2200 
 <summary>ipxe-roms-qemu</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Network boot loader roms supported by QEMU, .rom format
+From repo    : anaconda
+Short desc   : Network boot loader roms supported by QEMU, .rom format
 URL          : http://ipxe.org/
 License      : GPLv2 with additional permissions and BSD
 Descript     : iPXE is an open source network bootloader. It provides a direct
@@ -946,8 +946,8 @@ Descript     : iPXE is an open source network bootloader. It provides a direct
 <summary>iscsi-initiator-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : iSCSI daemon and utility programs
+From repo    : anaconda
+Short desc   : iSCSI daemon and utility programs
 URL          : http://www.open-iscsi.org
 License      : GPLv2+
 Descript     : The iscsi package provides the server daemon for the iSCSI protocol,
@@ -962,8 +962,8 @@ Descript     : The iscsi package provides the server daemon for the iSCSI protoc
 <summary>iscsi-initiator-utils-iscsiuio</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Userspace configuration daemon required for some iSCSI hardware
+From repo    : anaconda
+Short desc   : Userspace configuration daemon required for some iSCSI hardware
 URL          : http://www.open-iscsi.org
 License      : BSD
 Descript     : The iscsiuio configuration daemon provides network configuration help
@@ -976,8 +976,8 @@ Descript     : The iscsiuio configuration daemon provides network configuration 
 <summary>isl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Integer point manipulation library
+From repo    : anaconda
+Short desc   : Integer point manipulation library
 URL          : http://isl.gforge.inria.fr/
 License      : MIT
 Descript     : isl is a library for manipulating sets and relations of integer points
@@ -996,8 +996,8 @@ Descript     : isl is a library for manipulating sets and relations of integer p
 <summary>isns-utils-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Shared library files for iSNS
+From repo    : anaconda
+Short desc   : Shared library files for iSNS
 URL          : https://github.com/open-iscsi/open-isns
 License      : LGPLv2+
 Descript     : Shared library files for iSNS
@@ -1009,8 +1009,8 @@ Descript     : Shared library files for iSNS
 <summary>iso-codes</summary>
 
 ```
-From repo     : anaconda
-Short desc    : ISO code lists and translations
+From repo    : anaconda
+Short desc   : ISO code lists and translations
 URL          : https://salsa.debian.org/iso-codes-team/iso-codes
 License      : LGPLv2+
 Descript     : This package provides the ISO 639 Language code list, the ISO 4217
@@ -1024,8 +1024,8 @@ Descript     : This package provides the ISO 639 Language code list, the ISO 421
 <summary>iso-codes</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : ISO code lists and translations
+From repo    : updates-testing
+Short desc   : ISO code lists and translations
 URL          : https://salsa.debian.org/iso-codes-team/iso-codes
 License      : LGPLv2+
 Descript     : This package provides the ISO 639 Language code list, the ISO 4217
@@ -1040,8 +1040,8 @@ Descript     : This package provides the ISO 639 Language code list, the ISO 421
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Utilities for working with md5sum implanted in ISO images
+From repo    : anaconda
+Short desc   : Utilities for working with md5sum implanted in ISO images
 URL          : https://github.com/rhinstaller/isomd5sum
 License      : GPLv2+
 Descript     : The isomd5sum package contains utilities for implanting and verifying
@@ -1054,8 +1054,8 @@ Descript     : The isomd5sum package contains utilities for implanting and verif
 <summary>itcl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Object oriented extensions to Tcl and Tk
+From repo    : fedora
+Short desc   : Object oriented extensions to Tcl and Tk
 URL          : http://incrtcl.sourceforge.net/itcl/
 License      : TCL
 Descript     : [incr Tcl] is Tcl extension that provides object-oriented features that are
@@ -1068,8 +1068,8 @@ Descript     : [incr Tcl] is Tcl extension that provides object-oriented feature
 <summary>itop</summary>
 
 ```
-From repo     : fedora
-Short desc    : Interactive interrupt viewer
+From repo    : fedora
+Short desc   : Interactive interrupt viewer
 URL          : https://github.com/kargig/itop
 License      : MIT
 Descript     : Interrupts 'top-like' utility for Linux
@@ -1081,8 +1081,8 @@ Descript     : Interrupts 'top-like' utility for Linux
 <summary>iw</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A nl80211 based wireless configuration tool
+From repo    : anaconda
+Short desc   : A nl80211 based wireless configuration tool
 URL          : http://wireless.kernel.org/en/users/Documentation/iw
 License      : ISC
 Descript     : iw is a new nl80211 based CLI configuration utility for wireless devices.
@@ -1097,8 +1097,8 @@ Descript     : iw is a new nl80211 based CLI configuration utility for wireless 
 <summary>iwl100-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Wireless WiFi Link 100 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Wireless WiFi Link 100 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1114,8 +1114,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Firmware for Intel® PRO/Wireless 1000 B/G/N network adaptors
+From repo    : updates-testing
+Short desc   : Firmware for Intel® PRO/Wireless 1000 B/G/N network adaptors
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1130,8 +1130,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 <summary>iwl105-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Centrino Wireless-N 105 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Centrino Wireless-N 105 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1146,8 +1146,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 <summary>iwl135-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Centrino Wireless-N 135 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Centrino Wireless-N 135 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1162,8 +1162,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 <summary>iwl2000-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Centrino Wireless-N 2000 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Centrino Wireless-N 2000 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1178,8 +1178,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 <summary>iwl2030-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Centrino Wireless-N 2030 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Centrino Wireless-N 2030 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1195,8 +1195,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Wireless WiFi Link 3160 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Wireless WiFi Link 3160 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1210,8 +1210,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 <summary>iwl3945-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel® PRO/Wireless 3945 A/B/G network adaptors
+From repo    : updates-testing
+Short desc   : Firmware for Intel® PRO/Wireless 3945 A/B/G network adaptors
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the iwl3945 driver
@@ -1225,8 +1225,8 @@ Descript     : This package contains the firmware required by the iwl3945 driver
 <summary>iwl4965-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel® PRO/Wireless 4965 A/G/N network adaptors
+From repo    : updates-testing
+Short desc   : Firmware for Intel® PRO/Wireless 4965 A/G/N network adaptors
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the iwl4965 driver
@@ -1240,8 +1240,8 @@ Descript     : This package contains the firmware required by the iwl4965 driver
 <summary>iwl5000-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel® PRO/Wireless 5000 A/G/N network adaptors
+From repo    : updates-testing
+Short desc   : Firmware for Intel® PRO/Wireless 5000 A/G/N network adaptors
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the iwl5000 driver
@@ -1255,8 +1255,8 @@ Descript     : This package contains the firmware required by the iwl5000 driver
 <summary>iwl5150-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel® PRO/Wireless 5150 A/G/N network adaptors
+From repo    : updates-testing
+Short desc   : Firmware for Intel® PRO/Wireless 5150 A/G/N network adaptors
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the iwl5150 driver
@@ -1270,8 +1270,8 @@ Descript     : This package contains the firmware required by the iwl5150 driver
 <summary>iwl6000-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Wireless WiFi Link 6000 AGN Adapter
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Wireless WiFi Link 6000 AGN Adapter
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1285,8 +1285,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 <summary>iwl6000g2a-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Wireless WiFi Link 6005 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Wireless WiFi Link 6005 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1300,8 +1300,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 <summary>iwl6000g2b-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Wireless WiFi Link 6030 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Wireless WiFi Link 6030 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1315,8 +1315,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 <summary>iwl6050-firmware</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Wireless WiFi Link 6050 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Wireless WiFi Link 6050 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers
@@ -1331,8 +1331,8 @@ Descript     : This package contains the firmware required by the Intel wireless
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Firmware for Intel(R) Wireless WiFi Link 726x/8000/9000/AX200/AX201 Series Adapters
+From repo    : updates-testing
+Short desc   : Firmware for Intel(R) Wireless WiFi Link 726x/8000/9000/AX200/AX201 Series Adapters
 URL          : http://www.kernel.org/
 License      : Redistributable, no modification permitted
 Descript     : This package contains the firmware required by the Intel wireless drivers

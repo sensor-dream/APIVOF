@@ -4,8 +4,8 @@
 <summary>zchunk-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Zchunk library
+From repo    : anaconda
+Short desc   : Zchunk library
 URL          : https://github.com/zchunk/zchunk
 License      : BSD and MIT
 Descript     : zchunk is a compressed file format that splits the file into independent
@@ -23,8 +23,8 @@ Descript     : zchunk is a compressed file format that splits the file into inde
 <summary>zd1211-firmware</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Firmware for wireless devices based on zd1211 chipset
+From repo    : anaconda
+Short desc   : Firmware for wireless devices based on zd1211 chipset
 URL          : http://zd1211.wiki.sourceforge.net
 License      : GPLv2
 Descript     : This package contains the firmware required to work with the zd1211 chipset.
@@ -36,8 +36,8 @@ Descript     : This package contains the firmware required to work with the zd12
 <summary>zeal</summary>
 
 ```
-From repo     : fedora
-Short desc    : Offline documentation browser inspired by Dash
+From repo    : fedora
+Short desc   : Offline documentation browser inspired by Dash
 URL          : https://zealdocs.org/
 License      : GPLv3+ and BSD
 Descript     : Zeal is a simple offline documentation browser inspired by Dash.
@@ -49,8 +49,8 @@ Descript     : Zeal is a simple offline documentation browser inspired by Dash.
 <summary>zenity</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Display dialog boxes from shell scripts
+From repo    : anaconda
+Short desc   : Display dialog boxes from shell scripts
 URL          : https://wiki.gnome.org/Projects/Zenity
 License      : LGPLv2+
 Descript     : Zenity lets you display Gtk+ dialog boxes from the command line and through
@@ -64,8 +64,8 @@ Descript     : Zenity lets you display Gtk+ dialog boxes from the command line a
 <summary>zerofree</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility to force unused ext2/3/4 inodes and blocks to zero
+From repo    : fedora
+Short desc   : Utility to force unused ext2/3/4 inodes and blocks to zero
 URL          : https://frippery.org/uml/
 License      : GPLv2
 Descript     : zerofree is a utility to set unused filesystem inodes and blocks of an
@@ -86,8 +86,8 @@ Descript     : zerofree is a utility to set unused filesystem inodes and blocks 
 <summary>zeromq</summary>
 
 ```
-From repo     : fedora
-Short desc    : Software library for fast, message-based applications
+From repo    : fedora
+Short desc   : Software library for fast, message-based applications
 URL          : https://zeromq.org
 License      : LGPLv3+
 Descript     : The 0MQ lightweight messaging kernel is a library which extends the
@@ -106,8 +106,8 @@ Descript     : The 0MQ lightweight messaging kernel is a library which extends t
 <summary>zfs-fuse</summary>
 
 ```
-From repo     : anaconda
-Short desc    : ZFS ported to Linux FUSE
+From repo    : anaconda
+Short desc   : ZFS ported to Linux FUSE
 URL          : https://github.com/gordan-bobic/zfs-fuse
 License      : CDDL
 Descript     : ZFS is an advanced modern general-purpose filesystem from Sun
@@ -123,8 +123,8 @@ Descript     : ZFS is an advanced modern general-purpose filesystem from Sun
 <summary>zimg</summary>
 
 ```
-From repo     : fedora
-Short desc    : Scaling, color space conversion, and dithering library
+From repo    : fedora
+Short desc   : Scaling, color space conversion, and dithering library
 URL          : https://github.com/sekrit-twc/zimg
 License      : WTFPL
 Descript     : The "z" library implements the commonly required image processing basics of
@@ -142,8 +142,8 @@ Descript     : The "z" library implements the commonly required image processing
 <summary>zip</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A file compression and packaging utility compatible with PKZIP
+From repo    : anaconda
+Short desc   : A file compression and packaging utility compatible with PKZIP
 URL          : http://www.info-zip.org/Zip.html
 License      : BSD
 Descript     : The zip program is a compression and file packaging utility.  Zip is
@@ -161,8 +161,8 @@ Descript     : The zip program is a compression and file packaging utility.  Zip
 <summary>zlib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Compression and decompression library
+From repo    : anaconda
+Short desc   : Compression and decompression library
 URL          : https://www.zlib.net/
 License      : zlib and Boost
 Descript     : Zlib is a general-purpose, patent-free, lossless data compression
@@ -175,8 +175,8 @@ Descript     : Zlib is a general-purpose, patent-free, lossless data compression
 <summary>zlib</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Compression and decompression library
+From repo    : updates-testing
+Short desc   : Compression and decompression library
 URL          : https://www.zlib.net/
 License      : zlib and Boost
 Descript     : Zlib is a general-purpose, patent-free, lossless data compression
@@ -189,8 +189,8 @@ Descript     : Zlib is a general-purpose, patent-free, lossless data compression
 <summary>zlib-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Header files and libraries for Zlib development
+From repo    : updates-testing
+Short desc   : Header files and libraries for Zlib development
 URL          : https://www.zlib.net/
 License      : zlib and Boost
 Descript     : The zlib-devel package contains the header files and libraries needed
@@ -204,8 +204,8 @@ Descript     : The zlib-devel package contains the header files and libraries ne
 <summary>zram-generator</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Systemd unit generator for zram swap devices
+From repo    : anaconda
+Short desc   : Systemd unit generator for zram swap devices
 URL          : https://crates.io/crates/zram-generator
 License      : MIT
 Descript     : This is a systemd unit generator that enables swap on zram.
@@ -221,8 +221,8 @@ Descript     : This is a systemd unit generator that enables swap on zram.
 <summary>zram-generator</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Systemd unit generator for zram swap devices
+From repo    : updates-testing
+Short desc   : Systemd unit generator for zram swap devices
 URL          : https://crates.io/crates/zram-generator
 License      : MIT
 Descript     : This is a systemd unit generator that enables swap on zram.
@@ -238,8 +238,8 @@ Descript     : This is a systemd unit generator that enables swap on zram.
 <summary>zram-generator-defaults</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Default configuration for zram-generator
+From repo    : updates-testing
+Short desc   : Default configuration for zram-generator
 URL          : https://crates.io/crates/zram-generator
 License      : MIT
 Descript     : Default configuration for zram-generator.
@@ -251,8 +251,8 @@ Descript     : Default configuration for zram-generator.
 <summary>zstd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Zstd compression library
+From repo    : updates-testing
+Short desc   : Zstd compression library
 URL          : https://github.com/facebook/zstd
 License      : BSD and GPLv2
 Descript     : Zstd, short for Zstandard, is a fast lossless compression algorithm,
@@ -265,8 +265,8 @@ Descript     : Zstd, short for Zstandard, is a fast lossless compression algorit
 <summary>zvbi</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Raw VBI, Teletext and Closed Caption decoding library
+From repo    : updates-testing
+Short desc   : Raw VBI, Teletext and Closed Caption decoding library
 URL          : http://zapping.sourceforge.net/ZVBI/index.html
 License      : LGPLv2+ and GPLv2+ and BSD
 Descript     : ZVBI provides functions to capture and decode VBI data. The vertical blanking
@@ -284,8 +284,8 @@ Descript     : ZVBI provides functions to capture and decode VBI data. The verti
 <summary>zziplib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Lightweight library to easily extract data from zip files
+From repo    : fedora
+Short desc   : Lightweight library to easily extract data from zip files
 URL          : http://zziplib.sourceforge.net/
 License      : LGPLv2+ or MPLv1.1
 Descript     : The zziplib library is intentionally lightweight, it offers the ability to

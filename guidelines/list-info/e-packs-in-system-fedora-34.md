@@ -4,8 +4,8 @@
 <summary>e2fsprogs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities for managing ext2, ext3, and ext4 file systems
+From repo    : anaconda
+Short desc   : Utilities for managing ext2, ext3, and ext4 file systems
 URL          : http://e2fsprogs.sourceforge.net/
 License      : GPLv2
 Descript     : The e2fsprogs package contains a number of utilities for creating,
@@ -29,8 +29,8 @@ Descript     : The e2fsprogs package contains a number of utilities for creating
 <summary>e2fsprogs-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Ext2/3/4 file system specific shared libraries
+From repo    : anaconda
+Short desc   : Ext2/3/4 file system specific shared libraries
 URL          : http://e2fsprogs.sourceforge.net/
 License      : GPLv2 and LGPLv2
 Descript     : E2fsprogs-libs contains libe2p and libext2fs, the libraries of the
@@ -46,8 +46,8 @@ Descript     : E2fsprogs-libs contains libe2p and libext2fs, the libraries of th
 <summary>ed</summary>
 
 ```
-From repo     : fedora
-Short desc    : The GNU line editor
+From repo    : fedora
+Short desc   : The GNU line editor
 URL          : http://www.gnu.org/software/ed/
 License      : GPLv3+ and GFDL
 Descript     : Ed is a line-oriented text editor, used to create, display, and modify
@@ -66,8 +66,8 @@ Descript     : Ed is a line-oriented text editor, used to create, display, and m
 <summary>edk2-ovmf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Open Virtual Machine Firmware
+From repo    : anaconda
+Short desc   : Open Virtual Machine Firmware
 URL          : http://www.tianocore.org/edk2/
 License      : BSD-2-Clause-Patent and OpenSSL
 Descript     : EFI Development Kit II
@@ -80,8 +80,8 @@ Descript     : EFI Development Kit II
 <summary>efi-filesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The basic directory layout for EFI machines
+From repo    : anaconda
+Short desc   : The basic directory layout for EFI machines
 URL          : https://github.com/rhboot/efi-rpm-macros/
 License      : GPLv3+
 Descript     : The efi-filesystem package contains the basic directory layout for EFI
@@ -94,8 +94,8 @@ Descript     : The efi-filesystem package contains the basic directory layout fo
 <summary>efi-filesystem</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The basic directory layout for EFI machines
+From repo    : updates-testing
+Short desc   : The basic directory layout for EFI machines
 URL          : https://github.com/rhboot/efi-rpm-macros/
 License      : GPLv3+
 Descript     : The efi-filesystem package contains the basic directory layout for EFI
@@ -108,8 +108,8 @@ Descript     : The efi-filesystem package contains the basic directory layout fo
 <summary>efi-srpm-macros</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common SRPM Macros for building EFI-related packages
+From repo    : updates-testing
+Short desc   : Common SRPM Macros for building EFI-related packages
 URL          : https://github.com/rhboot/efi-rpm-macros/
 License      : GPLv3+
 Descript     : efi-srpm-macros provides a set of SRPM macros for use in EFI-related packages.
@@ -121,8 +121,8 @@ Descript     : efi-srpm-macros provides a set of SRPM macros for use in EFI-rela
 <summary>efibootmgr</summary>
 
 ```
-From repo     : anaconda
-Short desc    : EFI Boot Manager
+From repo    : anaconda
+Short desc   : EFI Boot Manager
 URL          : https://github.com/rhboot/efibootmgr/
 License      : GPLv2+
 Descript     : efibootmgr displays and allows the user to edit the Intel Extensible
@@ -136,8 +136,8 @@ Descript     : efibootmgr displays and allows the user to edit the Intel Extensi
 <summary>efivar-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to manage UEFI variables
+From repo    : anaconda
+Short desc   : Library to manage UEFI variables
 URL          : https://github.com/rhboot/efivar
 License      : LGPL-2.1
 Descript     : Library to allow for the simple manipulation of UEFI variables.
@@ -149,8 +149,8 @@ Descript     : Library to allow for the simple manipulation of UEFI variables.
 <summary>egl-utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : EGL utilities
+From repo    : fedora
+Short desc   : EGL utilities
 URL          : http://www.mesa3d.org
 License      : MIT
 Descript     : The egl-utils package provides the eglinfo and es2_info utilities.
@@ -162,8 +162,8 @@ Descript     : The egl-utils package provides the eglinfo and es2_info utilities
 <summary>egl-wayland</summary>
 
 ```
-From repo     : fedora
-Short desc    : Wayland EGL External Platform library
+From repo    : fedora
+Short desc   : Wayland EGL External Platform library
 URL          : https://github.com/NVIDIA/egl-wayland
 License      : MIT
 Descript     : Wayland EGL External Platform library
@@ -175,8 +175,8 @@ Descript     : Wayland EGL External Platform library
 <summary>elementary-print</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple shim for printing support via Contractor
+From repo    : fedora
+Short desc   : Simple shim for printing support via Contractor
 URL          : https://github.com/elementary/print
 License      : GPLv3+
 Descript     : Simple shim for printing support via Contractor.
@@ -188,8 +188,8 @@ Descript     : Simple shim for printing support via Contractor.
 <summary>elfutils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A collection of utilities and DSOs to handle ELF files and DWARF data
+From repo    : anaconda
+Short desc   : A collection of utilities and DSOs to handle ELF files and DWARF data
 URL          : http://elfutils.org/
 License      : GPLv3+ and (GPLv2+ or LGPLv3+) and GFDL
 Descript     : Elfutils is a collection of utilities, including stack (to show
@@ -206,8 +206,8 @@ Descript     : Elfutils is a collection of utilities, including stack (to show
 <summary>elfutils-debuginfod-client</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library and command line client for build-id HTTP ELF/DWARF server
+From repo    : anaconda
+Short desc   : Library and command line client for build-id HTTP ELF/DWARF server
 URL          : http://elfutils.org/
 License      : GPLv3+ and (GPLv2+ or LGPLv3+)
 Descript     : The elfutils-debuginfod-client package contains shared libraries
@@ -222,8 +222,8 @@ Descript     : The elfutils-debuginfod-client package contains shared libraries
 <summary>elfutils-default-yama-scope</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Default yama attach scope sysctl setting
+From repo    : anaconda
+Short desc   : Default yama attach scope sysctl setting
 URL          : http://elfutils.org/
 License      : GPLv2+ or LGPLv3+
 Descript     : Yama sysctl setting to enable default attach scope settings
@@ -241,8 +241,8 @@ Descript     : Yama sysctl setting to enable default attach scope settings
 <summary>elfutils-libelf</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to read and write ELF files
+From repo    : anaconda
+Short desc   : Library to read and write ELF files
 URL          : http://elfutils.org/
 License      : GPLv2+ or LGPLv3+
 Descript     : The elfutils-libelf package provides a DSO which allows reading and
@@ -257,8 +257,8 @@ Descript     : The elfutils-libelf package provides a DSO which allows reading a
 <summary>elfutils-libelf-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development support for libelf
+From repo    : fedora
+Short desc   : Development support for libelf
 URL          : http://elfutils.org/
 License      : GPLv2+ or LGPLv3+
 Descript     : The elfutils-libelf-devel package contains the libraries to create
@@ -273,8 +273,8 @@ Descript     : The elfutils-libelf-devel package contains the libraries to creat
 <summary>elfutils-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries to handle compiled objects
+From repo    : anaconda
+Short desc   : Libraries to handle compiled objects
 URL          : http://elfutils.org/
 License      : GPLv2+ or LGPLv3+
 Descript     : The elfutils-libs package contains libraries which implement DWARF, ELF,
@@ -291,8 +291,8 @@ Descript     : The elfutils-libs package contains libraries which implement DWAR
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Emacs filesystem layout
+From repo    : updates-testing
+Short desc   : Emacs filesystem layout
 URL          : http://www.gnu.org/software/emacs/
 License      : GPLv3+ and CC0-1.0
 Descript     : This package provides some directories which are required by other
@@ -306,8 +306,8 @@ Descript     : This package provides some directories which are required by othe
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : An Enchanting Spell Checking Library
+From repo    : anaconda
+Short desc   : An Enchanting Spell Checking Library
 URL          : http://www.abisource.com/
 License      : LGPLv2+
 Descript     : A library that wraps other spell checking backends.
@@ -319,8 +319,8 @@ Descript     : A library that wraps other spell checking backends.
 <summary>enchant2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An Enchanting Spell Checking Library
+From repo    : anaconda
+Short desc   : An Enchanting Spell Checking Library
 URL          : https://github.com/AbiWord/enchant
 License      : LGPLv2+
 Descript     : A library that wraps other spell checking backends.
@@ -329,11 +329,30 @@ Descript     : A library that wraps other spell checking backends.
 </details>
 
 <details>
+<summary>enet</summary>
+
+```
+From repo    : fedora
+Short desc   : Thin, simple and robust network layer on top of UDP
+URL          : http://enet.bespin.org
+License      : MIT
+Descript     : ENet is a relatively thin, simple and robust network communication layer on
+             : top of UDP (User Datagram Protocol). The primary feature it provides is
+             : optional reliable, in-order delivery of packets.
+             : 
+             : ENet is NOT intended to be a general purpose high level networking library
+             : that handles authentication, lobbying, server discovery, compression,
+             : encryption and other high level, often application level or dependent tasks.
+```
+
+</details>
+
+<details>
 <summary>environment-modules</summary>
 
 ```
-From repo     : fedora
-Short desc    : Provides dynamic modification of a user's environment
+From repo    : fedora
+Short desc   : Provides dynamic modification of a user's environment
 URL          : http://modules.sourceforge.net/
 License      : GPLv2+
 Descript     : The Environment Modules package provides for the dynamic modification of
@@ -366,8 +385,8 @@ Descript     : The Environment Modules package provides for the dynamic modifica
 <summary>eog</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Eye of GNOME image viewer
+From repo    : updates-testing
+Short desc   : Eye of GNOME image viewer
 URL          : https://wiki.gnome.org/Apps/EyeOfGnome
 License      : GPLv2+ and GFDL
 Descript     : The Eye of GNOME image viewer (eog) is the official image viewer for the
@@ -383,8 +402,8 @@ Descript     : The Eye of GNOME image viewer (eog) is the official image viewer 
 <summary>esmtp</summary>
 
 ```
-From repo     : fedora
-Short desc    : User configurable send-only Mail Transfer Agent
+From repo    : fedora
+Short desc   : User configurable send-only Mail Transfer Agent
 URL          : http://esmtp.sourceforge.net/
 License      : GPL+ and GPLv2+
 Descript     : ESMTP is a user configurable relay-only Mail Transfer Agent (MTA) with a
@@ -399,8 +418,8 @@ Descript     : ESMTP is a user configurable relay-only Mail Transfer Agent (MTA)
 <summary>espeak-ng</summary>
 
 ```
-From repo     : anaconda
-Short desc    : eSpeak NG Text-to-Speech
+From repo    : anaconda
+Short desc   : eSpeak NG Text-to-Speech
 URL          : https://github.com/espeak-ng/espeak-ng
 License      : GPLv3+
 Descript     : The eSpeak NG (Next Generation) Text-to-Speech program is an open source speech
@@ -417,8 +436,8 @@ Descript     : The eSpeak NG (Next Generation) Text-to-Speech program is an open
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Settings tool for Ethernet NICs
+From repo    : anaconda
+Short desc   : Settings tool for Ethernet NICs
 URL          : https://www.kernel.org/pub/software/network/ethtool/
 License      : GPLv2
 Descript     : This utility allows querying and changing settings such as speed,
@@ -432,8 +451,8 @@ Descript     : This utility allows querying and changing settings such as speed,
 <summary>ettercap</summary>
 
 ```
-From repo     : fedora
-Short desc    : Network traffic sniffer/analyser, NCURSES interface version
+From repo    : fedora
+Short desc   : Network traffic sniffer/analyser, NCURSES interface version
 URL          : http://ettercap.sourceforge.net
 License      : GPLv2+
 Descript     : Ettercap is a suite for man in the middle attacks on LAN. It features
@@ -449,8 +468,8 @@ Descript     : Ettercap is a suite for man in the middle attacks on LAN. It feat
 <summary>evince</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Document viewer
+From repo    : anaconda
+Short desc   : Document viewer
 URL          : https://wiki.gnome.org/Apps/Evince
 License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
 Descript     : Evince is simple multi-page document viewer. It can display and print
@@ -469,8 +488,8 @@ Descript     : Evince is simple multi-page document viewer. It can display and p
 <summary>evince</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Document viewer
+From repo    : updates-testing
+Short desc   : Document viewer
 URL          : https://wiki.gnome.org/Apps/Evince
 License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
 Descript     : Evince is simple multi-page document viewer. It can display and print
@@ -489,8 +508,8 @@ Descript     : Evince is simple multi-page document viewer. It can display and p
 <summary>evince-djvu</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Evince backend for djvu files
+From repo    : anaconda
+Short desc   : Evince backend for djvu files
 URL          : https://wiki.gnome.org/Apps/Evince
 License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
 Descript     : This package contains a backend to let evince display djvu files.
@@ -502,8 +521,8 @@ Descript     : This package contains a backend to let evince display djvu files.
 <summary>evince-djvu</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Evince backend for djvu files
+From repo    : updates-testing
+Short desc   : Evince backend for djvu files
 URL          : https://wiki.gnome.org/Apps/Evince
 License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
 Descript     : This package contains a backend to let evince display djvu files.
@@ -515,8 +534,8 @@ Descript     : This package contains a backend to let evince display djvu files.
 <summary>evince-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for the evince document viewer
+From repo    : anaconda
+Short desc   : Libraries for the evince document viewer
 URL          : https://wiki.gnome.org/Apps/Evince
 License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
 Descript     : This package contains shared libraries needed for evince
@@ -528,8 +547,8 @@ Descript     : This package contains shared libraries needed for evince
 <summary>evince-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for the evince document viewer
+From repo    : updates-testing
+Short desc   : Libraries for the evince document viewer
 URL          : https://wiki.gnome.org/Apps/Evince
 License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
 Descript     : This package contains shared libraries needed for evince
@@ -541,8 +560,8 @@ Descript     : This package contains shared libraries needed for evince
 <summary>evince-nautilus</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Evince extension for nautilus
+From repo    : updates-testing
+Short desc   : Evince extension for nautilus
 URL          : https://wiki.gnome.org/Apps/Evince
 License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
 Descript     : This package contains the evince extension for the nautilus file manager.
@@ -555,8 +574,8 @@ Descript     : This package contains the evince extension for the nautilus file 
 <summary>evince-thumbnailer</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Evince thumbnailer
+From repo    : anaconda
+Short desc   : Evince thumbnailer
 URL          : https://wiki.gnome.org/Apps/Evince
 License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
 Descript     : This package brings the Evince thumbnailer independently from Evince.
@@ -568,8 +587,8 @@ Descript     : This package brings the Evince thumbnailer independently from Evi
 <summary>evince-thumbnailer</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Evince thumbnailer
+From repo    : updates-testing
+Short desc   : Evince thumbnailer
 URL          : https://wiki.gnome.org/Apps/Evince
 License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
 Descript     : This package brings the Evince thumbnailer independently from Evince.
@@ -581,8 +600,8 @@ Descript     : This package brings the Evince thumbnailer independently from Evi
 <summary>evolution-data-server</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Backend data server for Evolution
+From repo    : anaconda
+Short desc   : Backend data server for Evolution
 URL          : https://wiki.gnome.org/Apps/Evolution
 License      : LGPLv2+
 Descript     : The evolution-data-server package provides a unified backend for programs that work
@@ -598,8 +617,8 @@ Descript     : The evolution-data-server package provides a unified backend for 
 <summary>evolution-data-server</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Backend data server for Evolution
+From repo    : updates-testing
+Short desc   : Backend data server for Evolution
 URL          : https://wiki.gnome.org/Apps/Evolution
 License      : LGPLv2+
 Descript     : The evolution-data-server package provides a unified backend for programs that work
@@ -615,8 +634,8 @@ Descript     : The evolution-data-server package provides a unified backend for 
 <summary>evolution-data-server-langpacks</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Translations for evolution-data-server
+From repo    : anaconda
+Short desc   : Translations for evolution-data-server
 URL          : https://wiki.gnome.org/Apps/Evolution
 License      : LGPLv2+
 Descript     : This package contains translations for evolution-data-server.
@@ -628,8 +647,8 @@ Descript     : This package contains translations for evolution-data-server.
 <summary>evolution-data-server-langpacks</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Translations for evolution-data-server
+From repo    : updates-testing
+Short desc   : Translations for evolution-data-server
 URL          : https://wiki.gnome.org/Apps/Evolution
 License      : LGPLv2+
 Descript     : This package contains translations for evolution-data-server.
@@ -641,8 +660,8 @@ Descript     : This package contains translations for evolution-data-server.
 <summary>exempi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for easy parsing of XMP metadata
+From repo    : anaconda
+Short desc   : Library for easy parsing of XMP metadata
 URL          : http://libopenraw.freedesktop.org/wiki/Exempi
 License      : BSD
 Descript     : Exempi provides a library for easy parsing of XMP metadata. It is a port of
@@ -656,8 +675,8 @@ Descript     : Exempi provides a library for easy parsing of XMP metadata. It is
 <summary>exfatprogs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Userspace utilities for exFAT filesystems
+From repo    : updates-testing
+Short desc   : Userspace utilities for exFAT filesystems
 URL          : https://github.com/exfatprogs/exfatprogs
 License      : GPLv2
 Descript     : Utilities for formatting and repairing exFAT filesystems.
@@ -669,8 +688,8 @@ Descript     : Utilities for formatting and repairing exFAT filesystems.
 <summary>exiv2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Exif and Iptc metadata manipulation library
+From repo    : anaconda
+Short desc   : Exif and Iptc metadata manipulation library
 URL          : http://www.exiv2.org/
 License      : GPLv2+
 Descript     : A command line utility to access image metadata, allowing one to:
@@ -691,8 +710,8 @@ Descript     : A command line utility to access image metadata, allowing one to:
 <summary>exiv2-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Exif and Iptc metadata manipulation library
+From repo    : anaconda
+Short desc   : Exif and Iptc metadata manipulation library
 URL          : http://www.exiv2.org/
 License      : GPLv2+
 Descript     : A C++ library to access image metadata, supporting full read and write access
@@ -706,8 +725,8 @@ Descript     : A C++ library to access image metadata, supporting full read and 
 <summary>expat</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An XML parser library
+From repo    : anaconda
+Short desc   : An XML parser library
 URL          : https://libexpat.github.io/
 License      : MIT
 Descript     : This is expat, the C library for parsing XML, written by James Clark. Expat
@@ -724,8 +743,8 @@ Descript     : This is expat, the C library for parsing XML, written by James Cl
 <summary>expatpp</summary>
 
 ```
-From repo     : fedora
-Short desc    : C++ layer for expat
+From repo    : fedora
+Short desc   : C++ layer for expat
 URL          : http://sourceforge.net/projects/expatpp/
 License      : MPLv1.1
 Descript     : Expatpp is a simple C++ layer to make using the open source expat XML parsing

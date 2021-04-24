@@ -5,8 +5,8 @@
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Network connection manager and user applications
+From repo    : anaconda
+Short desc   : Network connection manager and user applications
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : NetworkManager is a system service that manages network interfaces and
@@ -23,8 +23,8 @@ Descript     : NetworkManager is a system service that manages network interface
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Network connection manager and user applications
+From repo    : updates-testing
+Short desc   : Network connection manager and user applications
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : NetworkManager is a system service that manages network interfaces and
@@ -41,8 +41,8 @@ Descript     : NetworkManager is a system service that manages network interface
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : ADSL device plugin for NetworkManager
+From repo    : updates-testing
+Short desc   : ADSL device plugin for NetworkManager
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains NetworkManager support for ADSL devices.
@@ -55,8 +55,8 @@ Descript     : This package contains NetworkManager support for ADSL devices.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Bluetooth device plugin for NetworkManager
+From repo    : updates-testing
+Short desc   : Bluetooth device plugin for NetworkManager
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains NetworkManager support for Bluetooth devices.
@@ -69,8 +69,8 @@ Descript     : This package contains NetworkManager support for Bluetooth device
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : NetworkManager config file for connectivity checking via Fedora servers
+From repo    : updates-testing
+Short desc   : NetworkManager config file for connectivity checking via Fedora servers
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This adds a NetworkManager configuration file to enable connectivity checking
@@ -84,8 +84,8 @@ Descript     : This adds a NetworkManager configuration file to enable connectiv
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Libraries for adding NetworkManager support to applications.
+From repo    : anaconda
+Short desc   : Libraries for adding NetworkManager support to applications.
 URL          : https://networkmanager.dev/
 License      : LGPLv2+
 Descript     : This package contains the libraries that make it easier to use some
@@ -99,8 +99,8 @@ Descript     : This package contains the libraries that make it easier to use so
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Libraries for adding NetworkManager support to applications.
+From repo    : updates-testing
+Short desc   : Libraries for adding NetworkManager support to applications.
 URL          : https://networkmanager.dev/
 License      : LGPLv2+
 Descript     : This package contains the libraries that make it easier to use some
@@ -113,8 +113,8 @@ Descript     : This package contains the libraries that make it easier to use so
 <summary>NetworkManager-openconnect</summary>
 
 ```
-From repo     : anaconda
-Short desc    : NetworkManager VPN plugin for openconnect
+From repo    : anaconda
+Short desc   : NetworkManager VPN plugin for openconnect
 URL          : http://www.gnome.org/projects/NetworkManager/
 License      : GPLv2+ and LGPLv2
 Descript     : This package contains software for integrating the openconnect VPN software
@@ -127,8 +127,8 @@ Descript     : This package contains software for integrating the openconnect VP
 <summary>NetworkManager-openconnect-gnome</summary>
 
 ```
-From repo     : anaconda
-Short desc    : NetworkManager VPN plugin for OpenConnect - GNOME files
+From repo    : anaconda
+Short desc   : NetworkManager VPN plugin for OpenConnect - GNOME files
 URL          : http://www.gnome.org/projects/NetworkManager/
 License      : GPLv2+ and LGPLv2
 Descript     : This package contains software for integrating VPN capabilities with
@@ -142,8 +142,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : NetworkManager VPN plugin for OpenVPN
+From repo    : anaconda
+Short desc   : NetworkManager VPN plugin for OpenVPN
 URL          : http://www.gnome.org/projects/NetworkManager/
 License      : GPLv2+
 Descript     : This package contains software for integrating VPN capabilities with
@@ -157,8 +157,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : NetworkManager VPN plugin for OpenVPN
+From repo    : updates-testing
+Short desc   : NetworkManager VPN plugin for OpenVPN
 URL          : http://www.gnome.org/projects/NetworkManager/
 License      : GPLv2+
 Descript     : This package contains software for integrating VPN capabilities with
@@ -172,8 +172,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : NetworkManager VPN plugin for OpenVPN - GNOME files
+From repo    : updates-testing
+Short desc   : NetworkManager VPN plugin for OpenVPN - GNOME files
 URL          : http://www.gnome.org/projects/NetworkManager/
 License      : GPLv2+
 Descript     : This package contains software for integrating VPN capabilities with
@@ -187,8 +187,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : PPP plugin for NetworkManager
+From repo    : updates-testing
+Short desc   : PPP plugin for NetworkManager
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains NetworkManager support for PPP.
@@ -201,8 +201,8 @@ Descript     : This package contains NetworkManager support for PPP.
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : NetworkManager VPN plugin for PPTP
+From repo    : anaconda
+Short desc   : NetworkManager VPN plugin for PPTP
 URL          : http://www.gnome.org/projects/NetworkManager/
 License      : GPLv2+
 Descript     : This package contains software for integrating VPN capabilities with
@@ -216,8 +216,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : NetworkManager VPN plugin for PPTP - GNOME files
+From repo    : anaconda
+Short desc   : NetworkManager VPN plugin for PPTP - GNOME files
 URL          : http://www.gnome.org/projects/NetworkManager/
 License      : GPLv2+
 Descript     : This package contains software for integrating VPN capabilities with
@@ -230,8 +230,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 <summary>NetworkManager-ssh</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : NetworkManager VPN plugin for SSH
+From repo    : updates-testing
+Short desc   : NetworkManager VPN plugin for SSH
 URL          : https://github.com/danfruehauf/NetworkManager-ssh
 License      : GPLv2+
 Descript     : This package contains software for integrating VPN capabilities with
@@ -244,8 +244,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 <summary>NetworkManager-ssh-gnome</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : NetworkManager VPN plugin for SSH - GNOME files
+From repo    : updates-testing
+Short desc   : NetworkManager VPN plugin for SSH - GNOME files
 URL          : https://github.com/danfruehauf/NetworkManager-ssh
 License      : GPLv2+
 Descript     : This package contains software for integrating VPN capabilities with
@@ -259,8 +259,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Team device plugin for NetworkManager
+From repo    : anaconda
+Short desc   : Team device plugin for NetworkManager
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains NetworkManager support for team devices.
@@ -273,8 +273,8 @@ Descript     : This package contains NetworkManager support for team devices.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Team device plugin for NetworkManager
+From repo    : updates-testing
+Short desc   : Team device plugin for NetworkManager
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains NetworkManager support for team devices.
@@ -287,8 +287,8 @@ Descript     : This package contains NetworkManager support for team devices.
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : NetworkManager VPN plugin for vpnc
+From repo    : anaconda
+Short desc   : NetworkManager VPN plugin for vpnc
 URL          : http://www.gnome.org/projects/NetworkManager/
 License      : GPLv2+
 Descript     : This package contains software for integrating VPN capabilities with
@@ -302,8 +302,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : NetworkManager VPN plugin for vpnc - GNOME files
+From repo    : anaconda
+Short desc   : NetworkManager VPN plugin for vpnc - GNOME files
 URL          : http://www.gnome.org/projects/NetworkManager/
 License      : GPLv2+
 Descript     : This package contains software for integrating VPN capabilities with
@@ -317,8 +317,8 @@ Descript     : This package contains software for integrating VPN capabilities w
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Wifi plugin for NetworkManager
+From repo    : anaconda
+Short desc   : Wifi plugin for NetworkManager
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains NetworkManager support for Wifi and OLPC devices.
@@ -331,8 +331,8 @@ Descript     : This package contains NetworkManager support for Wifi and OLPC de
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Wifi plugin for NetworkManager
+From repo    : updates-testing
+Short desc   : Wifi plugin for NetworkManager
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains NetworkManager support for Wifi and OLPC devices.
@@ -345,8 +345,8 @@ Descript     : This package contains NetworkManager support for Wifi and OLPC de
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Mobile broadband device plugin for NetworkManager
+From repo    : anaconda
+Short desc   : Mobile broadband device plugin for NetworkManager
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains NetworkManager support for mobile broadband (WWAN)
@@ -360,8 +360,8 @@ Descript     : This package contains NetworkManager support for mobile broadband
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Mobile broadband device plugin for NetworkManager
+From repo    : updates-testing
+Short desc   : Mobile broadband device plugin for NetworkManager
 URL          : https://networkmanager.dev/
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains NetworkManager support for mobile broadband (WWAN)

@@ -4,8 +4,8 @@
 <summary>uade</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : Unix Amiga DeliTracker Emulator
+From repo    : rpmfusion-nonfree
+Short desc   : Unix Amiga DeliTracker Emulator
 URL          : http://zakalwe.fi/uade
 License      : GPLv2+ and Distributable
 Descript     : UADE plays old Amiga tunes through UAE emulation and a cloned m68k-assembler
@@ -22,8 +22,8 @@ Descript     : UADE plays old Amiga tunes through UAE emulation and a cloned m68
 <summary>ucl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Portable lossless data compression library
+From repo    : fedora
+Short desc   : Portable lossless data compression library
 URL          : http://www.oberhumer.com/opensource/ucl/
 License      : GPLv2+
 Descript     : UCL is a portable lossless data compression library written in ANSI C.
@@ -38,8 +38,8 @@ Descript     : UCL is a portable lossless data compression library written in AN
 <summary>udisks</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Storage Management Service
+From repo    : updates-testing
+Short desc   : Storage Management Service
 URL          : http://www.freedesktop.org/wiki/Software/udisks
 License      : GPLv2+
 Descript     : udisks provides a daemon, D-Bus API and command line tools
@@ -52,8 +52,8 @@ Descript     : udisks provides a daemon, D-Bus API and command line tools
 <summary>udisks-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : D-Bus interface definitions for udisks
+From repo    : updates-testing
+Short desc   : D-Bus interface definitions for udisks
 URL          : http://www.freedesktop.org/wiki/Software/udisks
 License      : GPLv2+
 Descript     : D-Bus interface definitions and documentation for udisks.
@@ -65,8 +65,8 @@ Descript     : D-Bus interface definitions and documentation for udisks.
 <summary>udisks2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Disk Manager
+From repo    : anaconda
+Short desc   : Disk Manager
 URL          : https://github.com/storaged-project/udisks
 License      : GPLv2+
 Descript     : The Udisks project provides a daemon, tools and libraries to access and
@@ -79,8 +79,8 @@ Descript     : The Udisks project provides a daemon, tools and libraries to acce
 <summary>udisks2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Disk Manager
+From repo    : updates-testing
+Short desc   : Disk Manager
 URL          : https://github.com/storaged-project/udisks
 License      : GPLv2+
 Descript     : The Udisks project provides a daemon, tools and libraries to access and
@@ -93,8 +93,8 @@ Descript     : The Udisks project provides a daemon, tools and libraries to acce
 <summary>udisks2-bcache</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Module for Bcache
+From repo    : updates-testing
+Short desc   : Module for Bcache
 URL          : https://github.com/storaged-project/udisks
 License      : LGPLv2+
 Descript     : This package contains module for Bcache configuration.
@@ -106,8 +106,8 @@ Descript     : This package contains module for Bcache configuration.
 <summary>udisks2-btrfs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Module for BTRFS
+From repo    : updates-testing
+Short desc   : Module for BTRFS
 URL          : https://github.com/storaged-project/udisks
 License      : LGPLv2+
 Descript     : This package contains module for BTRFS configuration.
@@ -119,8 +119,8 @@ Descript     : This package contains module for BTRFS configuration.
 <summary>udisks2-iscsi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Module for iSCSI
+From repo    : anaconda
+Short desc   : Module for iSCSI
 URL          : https://github.com/storaged-project/udisks
 License      : LGPLv2+
 Descript     : This package contains module for iSCSI configuration.
@@ -132,8 +132,8 @@ Descript     : This package contains module for iSCSI configuration.
 <summary>udisks2-iscsi</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Module for iSCSI
+From repo    : updates-testing
+Short desc   : Module for iSCSI
 URL          : https://github.com/storaged-project/udisks
 License      : LGPLv2+
 Descript     : This package contains module for iSCSI configuration.
@@ -145,8 +145,8 @@ Descript     : This package contains module for iSCSI configuration.
 <summary>udisks2-lsm</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Module for LSM
+From repo    : updates-testing
+Short desc   : Module for LSM
 URL          : https://github.com/storaged-project/udisks
 License      : LGPLv2+
 Descript     : This package contains module for LSM configuration.
@@ -158,8 +158,8 @@ Descript     : This package contains module for LSM configuration.
 <summary>udisks2-lvm2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Module for LVM2
+From repo    : updates-testing
+Short desc   : Module for LVM2
 URL          : https://github.com/storaged-project/udisks
 License      : LGPLv2+
 Descript     : This package contains module for LVM2 configuration.
@@ -171,8 +171,8 @@ Descript     : This package contains module for LVM2 configuration.
 <summary>udisks2-qt5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 binding for udisks2
+From repo    : fedora
+Short desc   : Qt5 binding for udisks2
 URL          : https://github.com/linuxdeepin/udisks2-qt5
 License      : GPLv3+
 Descript     : This package provides a Qt5 binding for udisks2.
@@ -184,8 +184,8 @@ Descript     : This package provides a Qt5 binding for udisks2.
 <summary>udisks2-qt5-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development package for udisks2-qt5
+From repo    : fedora
+Short desc   : Development package for udisks2-qt5
 URL          : https://github.com/linuxdeepin/udisks2-qt5
 License      : GPLv3+
 Descript     : Header files and libraries for udisks2-qt5.
@@ -197,8 +197,8 @@ Descript     : Header files and libraries for udisks2-qt5.
 <summary>udisks2-zram</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Module for ZRAM
+From repo    : updates-testing
+Short desc   : Module for ZRAM
 URL          : https://github.com/storaged-project/udisks
 License      : LGPLv2+
 Descript     : This package contains module for ZRAM configuration.
@@ -210,8 +210,8 @@ Descript     : This package contains module for ZRAM configuration.
 <summary>ufraw-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common files needed by UFRaw
+From repo    : fedora
+Short desc   : Common files needed by UFRaw
 URL          : http://ufraw.sourceforge.net
 License      : GPLv2+
 Descript     : The ufraw-common files includes common files for UFRaw, e.g. language support.
@@ -223,8 +223,8 @@ Descript     : The ufraw-common files includes common files for UFRaw, e.g. lang
 <summary>ufraw-gimp</summary>
 
 ```
-From repo     : fedora
-Short desc    : GIMP plugin to retrieve raw image data from digital cameras
+From repo    : fedora
+Short desc   : GIMP plugin to retrieve raw image data from digital cameras
 URL          : http://ufraw.sourceforge.net
 License      : GPLv2+
 Descript     : The ufraw-gimp package contains a GIMP plugin for opening raw format images of
@@ -249,8 +249,8 @@ Descript     : The ufraw-gimp package contains a GIMP plugin for opening raw for
 <summary>unace</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : A tool to extract ace archives
+From repo    : rpmfusion-nonfree
+Short desc   : A tool to extract ace archives
 URL          : http://www.winace.com/
 License      : Redistributable, no modification permitted
 Descript     : unace is a command line utility to extract, view, and test the
@@ -263,8 +263,8 @@ Descript     : unace is a command line utility to extract, view, and test the
 <summary>unar</summary>
 
 ```
-From repo     : fedora
-Short desc    : Multi-format extractor
+From repo    : fedora
+Short desc   : Multi-format extractor
 URL          : https://theunarchiver.com/command-line
 License      : LGPLv2+
 Descript     : The command-line utilities lsar and unar are capable of listing and extracting
@@ -279,8 +279,8 @@ Descript     : The command-line utilities lsar and unar are capable of listing a
 <summary>unbound-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries used by the unbound server and client applications
+From repo    : anaconda
+Short desc   : Libraries used by the unbound server and client applications
 URL          : https://nlnetlabs.nl/projects/unbound/
 License      : BSD
 Descript     : Contains libraries used by the unbound server and client applications
@@ -292,8 +292,8 @@ Descript     : Contains libraries used by the unbound server and client applicat
 <summary>unicode-ucd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Unicode Character Database
+From repo    : anaconda
+Short desc   : Unicode Character Database
 URL          : http://www.unicode.org/ucd/
 License      : MIT
 Descript     : The Unicode Character Database (UCD) consists of a number of data files listing
@@ -307,8 +307,8 @@ Descript     : The Unicode Character Database (UCD) consists of a number of data
 <summary>unique</summary>
 
 ```
-From repo     : fedora
-Short desc    : Single instance support for applications
+From repo    : fedora
+Short desc   : Single instance support for applications
 URL          : http://www.gnome.org/~ebassi/source/
 License      : LGPLv2+
 Descript     : Unique is a library for writing single instance applications, that is
@@ -322,8 +322,8 @@ Descript     : Unique is a library for writing single instance applications, tha
 <summary>unit</summary>
 
 ```
-From repo     : unit
-Short desc    : NGINX Unit
+From repo    : unit
+Short desc   : NGINX Unit
 URL          : https://unit.nginx.org/
 License      : ASL 2.0
 Descript     : NGINX Unit is a runtime and delivery environment for modern distributed
@@ -340,8 +340,8 @@ Descript     : NGINX Unit is a runtime and delivery environment for modern distr
 <summary>unit-devel</summary>
 
 ```
-From repo     : unit
-Short desc    : NGINX Unit (development files)
+From repo    : unit
+Short desc   : NGINX Unit (development files)
 URL          : https://unit.nginx.org/
 License      : ASL 2.0
 Descript     : Library and include files required for NGINX Unit modules development.
@@ -353,8 +353,8 @@ Descript     : Library and include files required for NGINX Unit modules develop
 <summary>unit-go</summary>
 
 ```
-From repo     : unit
-Short desc    : Go module for NGINX Unit
+From repo    : unit
+Short desc   : Go module for NGINX Unit
 URL          : https://unit.nginx.org/
 License      : ASL 2.0
 Descript     : NGINX Unit is a runtime and delivery environment for modern distributed
@@ -372,8 +372,8 @@ Descript     : NGINX Unit is a runtime and delivery environment for modern distr
 <summary>unit-jsc-common</summary>
 
 ```
-From repo     : unit
-Short desc    : Java shared packages for NGINX Unit
+From repo    : unit
+Short desc   : Java shared packages for NGINX Unit
 URL          : https://unit.nginx.org/
 License      : ASL 2.0
 Descript     : NGINX Unit is a runtime and delivery environment for modern distributed
@@ -391,8 +391,8 @@ Descript     : NGINX Unit is a runtime and delivery environment for modern distr
 <summary>unit-jsc11</summary>
 
 ```
-From repo     : unit
-Short desc    : Java 11 module for NGINX Unit
+From repo    : unit
+Short desc   : Java 11 module for NGINX Unit
 URL          : https://unit.nginx.org/
 License      : ASL 2.0
 Descript     : NGINX Unit is a runtime and delivery environment for modern distributed
@@ -410,8 +410,8 @@ Descript     : NGINX Unit is a runtime and delivery environment for modern distr
 <summary>unit-jsc8</summary>
 
 ```
-From repo     : unit
-Short desc    : Java 8 module for NGINX Unit
+From repo    : unit
+Short desc   : Java 8 module for NGINX Unit
 URL          : https://unit.nginx.org/
 License      : ASL 2.0
 Descript     : NGINX Unit is a runtime and delivery environment for modern distributed
@@ -429,8 +429,8 @@ Descript     : NGINX Unit is a runtime and delivery environment for modern distr
 <summary>unit-perl</summary>
 
 ```
-From repo     : unit
-Short desc    : Perl module for NGINX Unit
+From repo    : unit
+Short desc   : Perl module for NGINX Unit
 URL          : https://unit.nginx.org/
 License      : ASL 2.0
 Descript     : NGINX Unit is a runtime and delivery environment for modern distributed
@@ -448,8 +448,8 @@ Descript     : NGINX Unit is a runtime and delivery environment for modern distr
 <summary>unit-php</summary>
 
 ```
-From repo     : unit
-Short desc    : PHP module for NGINX Unit
+From repo    : unit
+Short desc   : PHP module for NGINX Unit
 URL          : https://unit.nginx.org/
 License      : ASL 2.0
 Descript     : NGINX Unit is a runtime and delivery environment for modern distributed
@@ -467,8 +467,8 @@ Descript     : NGINX Unit is a runtime and delivery environment for modern distr
 <summary>unit-python39</summary>
 
 ```
-From repo     : unit
-Short desc    : Python 3.9 module for NGINX Unit
+From repo    : unit
+Short desc   : Python 3.9 module for NGINX Unit
 URL          : https://unit.nginx.org/
 License      : ASL 2.0
 Descript     : NGINX Unit is a runtime and delivery environment for modern distributed
@@ -486,8 +486,8 @@ Descript     : NGINX Unit is a runtime and delivery environment for modern distr
 <summary>unixODBC</summary>
 
 ```
-From repo     : fedora
-Short desc    : A complete ODBC driver manager for Linux
+From repo    : fedora
+Short desc   : A complete ODBC driver manager for Linux
 URL          : http://www.unixODBC.org/
 License      : GPLv2+ and LGPLv2+
 Descript     : Install unixODBC if you want to access databases through ODBC.
@@ -501,8 +501,8 @@ Descript     : Install unixODBC if you want to access databases through ODBC.
 <summary>unoconv</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A tool to convert documents from/to any format supported by LibreOffice
+From repo    : anaconda
+Short desc   : A tool to convert documents from/to any format supported by LibreOffice
 URL          : https://github.com/unoconv/unoconv/
 License      : GPLv2
 Descript     : Universal Office Converter (unoconv) is a command line tool to convert any
@@ -521,8 +521,8 @@ Descript     : Universal Office Converter (unoconv) is a command line tool to co
 <summary>unrar</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : Utility for extracting, testing and viewing RAR archives
+From repo    : rpmfusion-nonfree
+Short desc   : Utility for extracting, testing and viewing RAR archives
 URL          : https://www.rarlab.com/rar_add.htm
 License      : Freeware with further limitations
 Descript     : The unrar utility is a freeware program for extracting, testing and
@@ -536,8 +536,8 @@ Descript     : The unrar utility is a freeware program for extracting, testing a
 <summary>unzip</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A utility for unpacking zip files
+From repo    : anaconda
+Short desc   : A utility for unpacking zip files
 URL          : http://www.info-zip.org/UnZip.html
 License      : BSD
 Descript     : The unzip utility is used to list, test, or extract files from a zip
@@ -557,8 +557,8 @@ Descript     : The unzip utility is used to list, test, or extract files from a 
 <summary>upower</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Power Management Service
+From repo    : anaconda
+Short desc   : Power Management Service
 URL          : http://upower.freedesktop.org/
 License      : GPLv2+
 Descript     : UPower (formerly DeviceKit-power) provides a daemon, API and command
@@ -571,8 +571,8 @@ Descript     : UPower (formerly DeviceKit-power) provides a daemon, API and comm
 <summary>upx</summary>
 
 ```
-From repo     : fedora
-Short desc    : Ultimate Packer for eXecutables
+From repo    : fedora
+Short desc   : Ultimate Packer for eXecutables
 URL          : http://upx.sourceforge.net/
 License      : GPLv2+ and Public Domain
 Descript     : UPX is a free, portable, extendable, high-performance executable
@@ -587,8 +587,8 @@ Descript     : UPX is a free, portable, extendable, high-performance executable
 <summary>uresourced</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Dynamically allocate resources to the active user
+From repo    : updates-testing
+Short desc   : Dynamically allocate resources to the active user
 URL          : https://gitlab.freedesktop.org/benzea/uresourced
 License      : LGPLv2+
 Descript     : This daemon dynamically assigns a resource allocation to the active
@@ -603,8 +603,8 @@ Descript     : This daemon dynamically assigns a resource allocation to the acti
 <summary>uriparser</summary>
 
 ```
-From repo     : fedora
-Short desc    : URI parsing library - RFC 3986
+From repo    : fedora
+Short desc   : URI parsing library - RFC 3986
 URL          : https://uriparser.github.io/
 License      : BSD
 Descript     : Uriparser is a strictly RFC 3986 compliant URI parsing library written
@@ -618,8 +618,8 @@ Descript     : Uriparser is a strictly RFC 3986 compliant URI parsing library wr
 <summary>urw-base35-bookman-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : URW Bookman font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : URW Bookman font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains URW Bookman font family,
@@ -637,8 +637,8 @@ Descript     : This package contains URW Bookman font family,
 <summary>urw-base35-bookman-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : URW Bookman font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : URW Bookman font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains URW Bookman font family,
@@ -656,8 +656,8 @@ Descript     : This package contains URW Bookman font family,
 <summary>urw-base35-c059-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C059 font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : C059 font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains C059 font family,
@@ -675,8 +675,8 @@ Descript     : This package contains C059 font family,
 <summary>urw-base35-c059-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C059 font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : C059 font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains C059 font family,
@@ -694,8 +694,8 @@ Descript     : This package contains C059 font family,
 <summary>urw-base35-d050000l-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : D050000L font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : D050000L font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains D050000L font family,
@@ -713,8 +713,8 @@ Descript     : This package contains D050000L font family,
 <summary>urw-base35-d050000l-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : D050000L font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : D050000L font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains D050000L font family,
@@ -732,8 +732,8 @@ Descript     : This package contains D050000L font family,
 <summary>urw-base35-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Core Font Set containing 35 freely distributable fonts from (URW)++
+From repo    : updates-testing
+Short desc   : Core Font Set containing 35 freely distributable fonts from (URW)++
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : 
@@ -750,8 +750,8 @@ Descript     :
 <summary>urw-base35-fonts-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common files of the (URW)++ Level 2 Core Font Set
+From repo    : anaconda
+Short desc   : Common files of the (URW)++ Level 2 Core Font Set
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : 
@@ -768,8 +768,8 @@ Descript     :
 <summary>urw-base35-fonts-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common files of the (URW)++ Level 2 Core Font Set
+From repo    : updates-testing
+Short desc   : Common files of the (URW)++ Level 2 Core Font Set
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : 
@@ -786,8 +786,8 @@ Descript     :
 <summary>urw-base35-fonts-legacy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Legacy version of (URW)++ Level 2 Core Font Set
+From repo    : updates-testing
+Short desc   : Legacy version of (URW)++ Level 2 Core Font Set
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : 
@@ -805,8 +805,8 @@ Descript     :
 <summary>urw-base35-gothic-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : URW Gothic font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : URW Gothic font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains URW Gothic font family,
@@ -824,8 +824,8 @@ Descript     : This package contains URW Gothic font family,
 <summary>urw-base35-gothic-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : URW Gothic font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : URW Gothic font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains URW Gothic font family,
@@ -843,8 +843,8 @@ Descript     : This package contains URW Gothic font family,
 <summary>urw-base35-nimbus-mono-ps-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Nimbus Mono PS font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : Nimbus Mono PS font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Nimbus Mono PS font family,
@@ -862,8 +862,8 @@ Descript     : This package contains Nimbus Mono PS font family,
 <summary>urw-base35-nimbus-mono-ps-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Nimbus Mono PS font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : Nimbus Mono PS font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Nimbus Mono PS font family,
@@ -881,8 +881,8 @@ Descript     : This package contains Nimbus Mono PS font family,
 <summary>urw-base35-nimbus-roman-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Nimbus Roman font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : Nimbus Roman font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Nimbus Roman font family,
@@ -900,8 +900,8 @@ Descript     : This package contains Nimbus Roman font family,
 <summary>urw-base35-nimbus-roman-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Nimbus Roman font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : Nimbus Roman font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Nimbus Roman font family,
@@ -919,8 +919,8 @@ Descript     : This package contains Nimbus Roman font family,
 <summary>urw-base35-nimbus-sans-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Nimbus Sans font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : Nimbus Sans font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Nimbus Sans font family,
@@ -938,8 +938,8 @@ Descript     : This package contains Nimbus Sans font family,
 <summary>urw-base35-nimbus-sans-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Nimbus Sans font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : Nimbus Sans font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Nimbus Sans font family,
@@ -957,8 +957,8 @@ Descript     : This package contains Nimbus Sans font family,
 <summary>urw-base35-p052-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : P052 font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : P052 font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains P052 font family,
@@ -976,8 +976,8 @@ Descript     : This package contains P052 font family,
 <summary>urw-base35-p052-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : P052 font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : P052 font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains P052 font family,
@@ -995,8 +995,8 @@ Descript     : This package contains P052 font family,
 <summary>urw-base35-standard-symbols-ps-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Standard Symbols PS font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : Standard Symbols PS font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Standard Symbols PS font family,
@@ -1014,8 +1014,8 @@ Descript     : This package contains Standard Symbols PS font family,
 <summary>urw-base35-standard-symbols-ps-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Standard Symbols PS font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : Standard Symbols PS font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Standard Symbols PS font family,
@@ -1033,8 +1033,8 @@ Descript     : This package contains Standard Symbols PS font family,
 <summary>urw-base35-z003-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Z003 font family [part of Level 2 Core Font Set]
+From repo    : anaconda
+Short desc   : Z003 font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Z003 font family,
@@ -1052,8 +1052,8 @@ Descript     : This package contains Z003 font family,
 <summary>urw-base35-z003-fonts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Z003 font family [part of Level 2 Core Font Set]
+From repo    : updates-testing
+Short desc   : Z003 font family [part of Level 2 Core Font Set]
 URL          : https://www.urwpp.de/en/
 License      : AGPLv3
 Descript     : This package contains Z003 font family,
@@ -1071,8 +1071,8 @@ Descript     : This package contains Z003 font family,
 <summary>usb_modeswitch</summary>
 
 ```
-From repo     : anaconda
-Short desc    : USB Modeswitch gets mobile broadband cards in operational mode
+From repo    : anaconda
+Short desc   : USB Modeswitch gets mobile broadband cards in operational mode
 URL          : http://www.draisberghof.de/usb_modeswitch/
 License      : GPLv2+
 Descript     : USB Modeswitch brings up your datacard into operational mode. When plugged
@@ -1088,8 +1088,8 @@ Descript     : USB Modeswitch brings up your datacard into operational mode. Whe
 <summary>usb_modeswitch-data</summary>
 
 ```
-From repo     : anaconda
-Short desc    : USB Modeswitch gets mobile broadband cards in operational mode
+From repo    : anaconda
+Short desc   : USB Modeswitch gets mobile broadband cards in operational mode
 URL          : http://www.draisberghof.de/usb_modeswitch/
 License      : GPLv2+
 Descript     : USB Modeswitch brings up your datacard into operational mode. When plugged
@@ -1107,8 +1107,8 @@ Descript     : USB Modeswitch brings up your datacard into operational mode. Whe
 <summary>usbmuxd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Daemon for communicating with Apple's iOS devices
+From repo    : anaconda
+Short desc   : Daemon for communicating with Apple's iOS devices
 URL          : http://www.libimobiledevice.org/
 License      : GPLv3+ or GPLv2+
 Descript     : usbmuxd is a daemon used for communicating with Apple's iPod Touch, iPhone,
@@ -1122,8 +1122,8 @@ Descript     : usbmuxd is a daemon used for communicating with Apple's iPod Touc
 <summary>usbredir</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : USB network redirection protocol libraries
+From repo    : updates-testing
+Short desc   : USB network redirection protocol libraries
 URL          : http://spice-space.org/page/UsbRedir
 License      : LGPLv2+
 Descript     : The usbredir libraries allow USB devices to be used on remote and/or virtual
@@ -1146,8 +1146,8 @@ Descript     : The usbredir libraries allow USB devices to be used on remote and
 <summary>usbutils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Linux USB utilities
+From repo    : anaconda
+Short desc   : Linux USB utilities
 URL          : http://www.linux-usb.org/
 License      : GPLv2+
 Descript     : This package contains utilities for inspecting devices connected to a
@@ -1160,8 +1160,8 @@ Descript     : This package contains utilities for inspecting devices connected 
 <summary>usermode</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tools for certain user account management tasks
+From repo    : anaconda
+Short desc   : Tools for certain user account management tasks
 URL          : https://pagure.io/usermode/
 License      : GPLv2+
 Descript     : The usermode package contains the userhelper program, which can be
@@ -1175,8 +1175,8 @@ Descript     : The usermode package contains the userhelper program, which can b
 <summary>userspace-rcu</summary>
 
 ```
-From repo     : anaconda
-Short desc    : RCU (read-copy-update) implementation in user-space
+From repo    : anaconda
+Short desc   : RCU (read-copy-update) implementation in user-space
 URL          : http://liburcu.org
 License      : LGPLv2+
 Descript     : This data synchronization library provides read-side access which scales
@@ -1192,8 +1192,8 @@ Descript     : This data synchronization library provides read-side access which
 <summary>utf8proc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for processing UTF-8 encoded Unicode strings
+From repo    : fedora
+Short desc   : Library for processing UTF-8 encoded Unicode strings
 URL          : http://julialang.org/utf8proc/
 License      : Unicode and MIT
 Descript     : utf8proc is a library for processing UTF-8 encoded Unicode strings.
@@ -1213,8 +1213,8 @@ Descript     : utf8proc is a library for processing UTF-8 encoded Unicode string
 <summary>util-linux</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A collection of basic system utilities
+From repo    : anaconda
+Short desc   : A collection of basic system utilities
 URL          : http://en.wikipedia.org/wiki/Util-linux
 License      : GPLv2 and GPLv2+ and LGPLv2+ and BSD with advertising and Public Domain
 Descript     : The util-linux package contains a large variety of low-level system

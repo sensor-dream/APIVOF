@@ -4,8 +4,8 @@
 <summary>gamemode</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Optimize system performance for games on demand
+From repo    : anaconda
+Short desc   : Optimize system performance for games on demand
 URL          : https://github.com/FeralInteractive/gamemode
 License      : BSD
 Descript     : GameMode is a daemon/lib combo for GNU/Linux that allows games to
@@ -24,8 +24,8 @@ Descript     : GameMode is a daemon/lib combo for GNU/Linux that allows games to
 <summary>gavl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for handling uncompressed audio and video data
+From repo    : anaconda
+Short desc   : A library for handling uncompressed audio and video data
 URL          : http://gmerlin.sourceforge.net/
 License      : GPLv3+
 Descript     : Gavl is a library for handling and converting uncompressed audio and
@@ -42,8 +42,8 @@ Descript     : Gavl is a library for handling and converting uncompressed audio 
 <summary>gawk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The GNU version of the AWK text processing utility
+From repo    : anaconda
+Short desc   : The GNU version of the AWK text processing utility
 URL          : https://www.gnu.org/software/gawk/
 License      : GPLv3+ and GPLv2+ and LGPLv2+ and BSD
 Descript     : The gawk package contains the GNU version of AWK text processing utility. AWK is
@@ -61,8 +61,8 @@ Descript     : The gawk package contains the GNU version of AWK text processing 
 <summary>gawk-all-langpacks</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Additional localisation files for gawk utility
+From repo    : anaconda
+Short desc   : Additional localisation files for gawk utility
 URL          : https://www.gnu.org/software/gawk/
 License      : GPLv3+ and GPLv2+ and LGPLv2+ and BSD
 Descript     : The base package of gawk supports only the english localisation. This subpackage
@@ -75,8 +75,8 @@ Descript     : The base package of gawk supports only the english localisation. 
 <summary>gc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A garbage collector for C and C++
+From repo    : anaconda
+Short desc   : A garbage collector for C and C++
 URL          : http://www.hboehm.info/gc/
 License      : BSD
 Descript     : The Boehm-Demers-Weiser conservative garbage collector can be
@@ -89,8 +89,8 @@ Descript     : The Boehm-Demers-Weiser conservative garbage collector can be
 <summary>gcc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Various compilers (C, C++, Objective-C, ...)
+From repo    : anaconda
+Short desc   : Various compilers (C, C++, Objective-C, ...)
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : The gcc package contains the GNU Compiler Collection version 11.
@@ -103,8 +103,8 @@ Descript     : The gcc package contains the GNU Compiler Collection version 11.
 <summary>gcc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Various compilers (C, C++, Objective-C, ...)
+From repo    : updates-testing
+Short desc   : Various compilers (C, C++, Objective-C, ...)
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : The gcc package contains the GNU Compiler Collection version 11.
@@ -117,8 +117,8 @@ Descript     : The gcc package contains the GNU Compiler Collection version 11.
 <summary>gcc-c++</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C++ support for GCC
+From repo    : updates-testing
+Short desc   : C++ support for GCC
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package adds C++ support to the GNU Compiler Collection.
@@ -132,8 +132,8 @@ Descript     : This package adds C++ support to the GNU Compiler Collection.
 <summary>gcc-gdb-plugin</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GCC plugin for GDB
+From repo    : anaconda
+Short desc   : GCC plugin for GDB
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains GCC plugin for GDB C expression evaluation.
@@ -145,8 +145,8 @@ Descript     : This package contains GCC plugin for GDB C expression evaluation.
 <summary>gcc-gdb-plugin</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GCC plugin for GDB
+From repo    : updates-testing
+Short desc   : GCC plugin for GDB
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains GCC plugin for GDB C expression evaluation.
@@ -158,8 +158,8 @@ Descript     : This package contains GCC plugin for GDB C expression evaluation.
 <summary>gcc-gfortran</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fortran support
+From repo    : updates-testing
+Short desc   : Fortran support
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : The gcc-gfortran package provides support for compiling Fortran
@@ -172,8 +172,8 @@ Descript     : The gcc-gfortran package provides support for compiling Fortran
 <summary>gconf-editor</summary>
 
 ```
-From repo     : fedora
-Short desc    : Editor/admin tool for GConf
+From repo    : fedora
+Short desc   : Editor/admin tool for GConf
 URL          : http://www.gnome.org
 License      : GPLv2+ and GFDL
 Descript     : gconf-editor allows you to browse and modify GConf configuration
@@ -186,8 +186,8 @@ Descript     : gconf-editor allows you to browse and modify GConf configuration
 <summary>gcr</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for bits of crypto UI and parsing
+From repo    : anaconda
+Short desc   : A library for bits of crypto UI and parsing
 URL          : https://wiki.gnome.org/Projects/CryptoGlue
 License      : LGPLv2+
 Descript     : gcr is a library for displaying certificates, and crypto UI, accessing
@@ -203,8 +203,8 @@ Descript     : gcr is a library for displaying certificates, and crypto UI, acce
 <summary>gcr</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library for bits of crypto UI and parsing
+From repo    : updates-testing
+Short desc   : A library for bits of crypto UI and parsing
 URL          : https://wiki.gnome.org/Projects/CryptoGlue
 License      : LGPLv2+
 Descript     : gcr is a library for displaying certificates, and crypto UI, accessing
@@ -220,8 +220,8 @@ Descript     : gcr is a library for displaying certificates, and crypto UI, acce
 <summary>gcr-base</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library files for gcr
+From repo    : anaconda
+Short desc   : Library files for gcr
 URL          : https://wiki.gnome.org/Projects/CryptoGlue
 License      : LGPLv2+
 Descript     : The gcr-base package includes the gcr-base library.
@@ -233,8 +233,8 @@ Descript     : The gcr-base package includes the gcr-base library.
 <summary>gcr-base</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library files for gcr
+From repo    : updates-testing
+Short desc   : Library files for gcr
 URL          : https://wiki.gnome.org/Projects/CryptoGlue
 License      : LGPLv2+
 Descript     : The gcr-base package includes the gcr-base library.
@@ -246,8 +246,8 @@ Descript     : The gcr-base package includes the gcr-base library.
 <summary>gd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A graphics library for quick creation of PNG or JPEG images
+From repo    : anaconda
+Short desc   : A graphics library for quick creation of PNG or JPEG images
 URL          : http://libgd.github.io/
 License      : MIT
 Descript     : The gd graphics library allows your code to quickly draw images
@@ -264,8 +264,8 @@ Descript     : The gd graphics library allows your code to quickly draw images
 <summary>gd</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A graphics library for quick creation of PNG or JPEG images
+From repo    : updates-testing
+Short desc   : A graphics library for quick creation of PNG or JPEG images
 URL          : http://libgd.github.io/
 License      : MIT
 Descript     : The gd graphics library allows your code to quickly draw images
@@ -282,8 +282,8 @@ Descript     : The gd graphics library allows your code to quickly draw images
 <summary>gd-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The development libraries and header files for gd
+From repo    : updates-testing
+Short desc   : The development libraries and header files for gd
 URL          : http://libgd.github.io/
 License      : MIT
 Descript     : The gd-devel package contains the development libraries and header
@@ -296,8 +296,8 @@ Descript     : The gd-devel package contains the development libraries and heade
 <summary>gdal-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GDAL file format library
+From repo    : updates-testing
+Short desc   : GDAL file format library
 URL          : http://www.gdal.org
 License      : MIT
 Descript     : This package contains the GDAL file format library.
@@ -309,8 +309,8 @@ Descript     : This package contains the GDAL file format library.
 <summary>gdb</summary>
 
 ```
-From repo     : fedora
-Short desc    : A stub package for GNU source-level debugger
+From repo    : fedora
+Short desc   : A stub package for GNU source-level debugger
 URL          : https://gnu.org/software/gdb/
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
 Descript     : 'gdb' package is only a stub to install gcc-gdb-plugin for 'compile' commands.
@@ -323,8 +323,8 @@ Descript     : 'gdb' package is only a stub to install gcc-gdb-plugin for 'compi
 <summary>gdb-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for GDB (the GNU source-level debugger)
+From repo    : fedora
+Short desc   : Documentation for GDB (the GNU source-level debugger)
 URL          : https://gnu.org/software/gdb/
 License      : GFDL
 Descript     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
@@ -340,8 +340,8 @@ Descript     : GDB, the GNU debugger, allows you to debug programs written in C,
 <summary>gdb-exploitable</summary>
 
 ```
-From repo     : fedora
-Short desc    : GDB extension for exploitability
+From repo    : fedora
+Short desc   : GDB extension for exploitability
 URL          : https://github.com/jfoote/exploitable
 License      : MIT
 Descript     : 'exploitable' is a GDB extension that classifies Linux application bugs
@@ -358,8 +358,8 @@ Descript     : 'exploitable' is a GDB extension that classifies Linux applicatio
 <summary>gdb-gdbserver</summary>
 
 ```
-From repo     : fedora
-Short desc    : A standalone server for GDB (the GNU source-level debugger)
+From repo    : fedora
+Short desc   : A standalone server for GDB (the GNU source-level debugger)
 URL          : https://gnu.org/software/gdb/
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
 Descript     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
@@ -376,8 +376,8 @@ Descript     : GDB, the GNU debugger, allows you to debug programs written in C,
 <summary>gdb-headless</summary>
 
 ```
-From repo     : fedora
-Short desc    : A GNU source-level debugger for C, C++, Fortran, Go and other languages
+From repo    : fedora
+Short desc   : A GNU source-level debugger for C, C++, Fortran, Go and other languages
 URL          : https://gnu.org/software/gdb/
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
 Descript     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
@@ -391,8 +391,8 @@ Descript     : GDB, the GNU debugger, allows you to debug programs written in C,
 <summary>gdb-minimal</summary>
 
 ```
-From repo     : fedora
-Short desc    : A GNU source-level debugger for C, C++, Fortran, Go and other languages (minimal version)
+From repo    : fedora
+Short desc   : A GNU source-level debugger for C, C++, Fortran, Go and other languages (minimal version)
 URL          : https://gnu.org/software/gdb/
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
 Descript     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
@@ -410,8 +410,8 @@ Descript     : GDB, the GNU debugger, allows you to debug programs written in C,
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Libraries files for gdbm
+From repo    : anaconda
+Short desc   : Libraries files for gdbm
 URL          : http://www.gnu.org/software/gdbm/
 License      : GPLv3+
 Descript     : Libraries for the Gdbm GNU database indexing library
@@ -423,8 +423,8 @@ Descript     : Libraries for the Gdbm GNU database indexing library
 <summary>gdcm</summary>
 
 ```
-From repo     : fedora
-Short desc    : Grassroots DiCoM is a C++ library to parse DICOM medical files
+From repo    : fedora
+Short desc   : Grassroots DiCoM is a C++ library to parse DICOM medical files
 URL          : http://gdcm.sourceforge.net/wiki/index.php/Main_Page
 License      : BSD
 Descript     : Grassroots DiCoM (GDCM) is a C++ library for DICOM medical files.
@@ -443,8 +443,8 @@ Descript     : Grassroots DiCoM (GDCM) is a C++ library for DICOM medical files.
 <summary>gdisk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An fdisk-like partitioning tool for GPT disks
+From repo    : anaconda
+Short desc   : An fdisk-like partitioning tool for GPT disks
 URL          : http://www.rodsbooks.com/gdisk/
 License      : GPLv2
 Descript     : An fdisk-like partitioning tool for GPT disks. GPT fdisk features a
@@ -459,8 +459,8 @@ Descript     : An fdisk-like partitioning tool for GPT disks. GPT fdisk features
 <summary>gdisk</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An fdisk-like partitioning tool for GPT disks
+From repo    : updates-testing
+Short desc   : An fdisk-like partitioning tool for GPT disks
 URL          : http://www.rodsbooks.com/gdisk/
 License      : GPLv2
 Descript     : An fdisk-like partitioning tool for GPT disks. GPT fdisk features a
@@ -475,8 +475,8 @@ Descript     : An fdisk-like partitioning tool for GPT disks. GPT fdisk features
 <summary>gdk-pixbuf2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An image loading library
+From repo    : anaconda
+Short desc   : An image loading library
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 License      : LGPLv2+
 Descript     : gdk-pixbuf is an image loading library that can be extended by loadable
@@ -490,8 +490,8 @@ Descript     : gdk-pixbuf is an image loading library that can be extended by lo
 <summary>gdk-pixbuf2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : An image loading library
+From repo    : updates-testing
+Short desc   : An image loading library
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 License      : LGPLv2+
 Descript     : gdk-pixbuf is an image loading library that can be extended by loadable
@@ -505,8 +505,8 @@ Descript     : gdk-pixbuf is an image loading library that can be extended by lo
 <summary>gdk-pixbuf2-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for gdk-pixbuf2
+From repo    : updates-testing
+Short desc   : Development files for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 License      : LGPLv2+
 Descript     : This package contains the libraries and header files that are needed
@@ -519,8 +519,8 @@ Descript     : This package contains the libraries and header files that are nee
 <summary>gdk-pixbuf2-modules</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Additional image modules for gdk-pixbuf2
+From repo    : anaconda
+Short desc   : Additional image modules for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 License      : LGPLv2+
 Descript     : This package contains the additional modules that are needed to load various
@@ -533,8 +533,8 @@ Descript     : This package contains the additional modules that are needed to l
 <summary>gdk-pixbuf2-modules</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Additional image modules for gdk-pixbuf2
+From repo    : updates-testing
+Short desc   : Additional image modules for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 License      : LGPLv2+
 Descript     : This package contains the additional modules that are needed to load various
@@ -547,8 +547,8 @@ Descript     : This package contains the additional modules that are needed to l
 <summary>gdk-pixbuf2-xlib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Deprecated Xlib integration for gdk-pixbuf2
+From repo    : fedora
+Short desc   : Deprecated Xlib integration for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/Archive/gdk-pixbuf-xlib
 License      : LGPLv2+
 Descript     : gdk-pixbuf2-xlib contains the deprecated API for integrating gdk-pixbuf2 with
@@ -570,8 +570,8 @@ Descript     : gdk-pixbuf2-xlib contains the deprecated API for integrating gdk-
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : The GNOME Display Manager
+From repo    : updates-testing
+Short desc   : The GNOME Display Manager
 URL          : https://wiki.gnome.org/Projects/GDM
 License      : GPLv2+
 Descript     : GDM, the GNOME Display Manager, handles authentication-related backend
@@ -591,8 +591,8 @@ Descript     : GDM, the GNOME Display Manager, handles authentication-related ba
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : The GNOME Display Manager
+From repo    : anaconda
+Short desc   : The GNOME Display Manager
 URL          : https://wiki.gnome.org/Projects/GDM
 License      : GPLv2+
 Descript     : GDM, the GNOME Display Manager, handles authentication-related backend
@@ -611,8 +611,8 @@ Descript     : GDM, the GNOME Display Manager, handles authentication-related ba
 <summary>gdouros-symbola-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A symbol font
+From repo    : anaconda
+Short desc   : A symbol font
 URL          : http://users.teilar.gr/~g1951d/
 License      : Public Domain
 Descript     : Symbola was created with Mathematics and other technical documents in mind. It
@@ -632,8 +632,8 @@ Descript     : Symbola was created with Mathematics and other technical document
 <summary>gecode</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Generic constraint development environment
+From repo    : updates-testing
+Short desc   : Generic constraint development environment
 URL          : http://www.gecode.org/
 License      : MIT
 Descript     : Gecode is a toolkit for developing constraint-based systems and
@@ -648,8 +648,8 @@ Descript     : Gecode is a toolkit for developing constraint-based systems and
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Text editor for the GNOME desktop
+From repo    : updates-testing
+Short desc   : Text editor for the GNOME desktop
 URL          : https://wiki.gnome.org/Apps/Gedit
 License      : GPLv2+ and GFDL
 Descript     : gedit is a small, but powerful text editor designed specifically for
@@ -670,8 +670,8 @@ Descript     : gedit is a small, but powerful text editor designed specifically 
 <summary>gegl04</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Graph based image processing framework
+From repo    : anaconda
+Short desc   : Graph based image processing framework
 URL          : http://www.gegl.org/
 License      : LGPLv3+
 Descript     : GEGL (Generic Graphics Library) is a graph based image processing framework.
@@ -686,8 +686,8 @@ Descript     : GEGL (Generic Graphics Library) is a graph based image processing
 <summary>gegl04</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Graph based image processing framework
+From repo    : updates-testing
+Short desc   : Graph based image processing framework
 URL          : http://www.gegl.org/
 License      : LGPLv3+
 Descript     : GEGL (Generic Graphics Library) is a graph based image processing framework.
@@ -702,8 +702,8 @@ Descript     : GEGL (Generic Graphics Library) is a graph based image processing
 <summary>gegl04-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for gegl04
+From repo    : updates-testing
+Short desc   : Development files for gegl04
 URL          : http://www.gegl.org/
 License      : LGPLv3+
 Descript     : The gegl04-devel package contains libraries and header files for
@@ -716,8 +716,8 @@ Descript     : The gegl04-devel package contains libraries and header files for
 <summary>genisoimage</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Creates an image of an ISO9660 file-system
+From repo    : anaconda
+Short desc   : Creates an image of an ISO9660 file-system
 URL          : http://cdrkit.org/
 License      : GPLv2
 Descript     : The genisoimage program is used as a pre-mastering program; i.e., it
@@ -737,8 +737,8 @@ Descript     : The genisoimage program is used as a pre-mastering program; i.e.,
 <summary>geoclue2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Geolocation service
+From repo    : anaconda
+Short desc   : Geolocation service
 URL          : http://www.freedesktop.org/wiki/Software/GeoClue/
 License      : GPLv2+
 Descript     : Geoclue is a D-Bus service that provides location information. The primary goal
@@ -753,8 +753,8 @@ Descript     : Geoclue is a D-Bus service that provides location information. Th
 <summary>geoclue2-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Geoclue client library
+From repo    : anaconda
+Short desc   : Geoclue client library
 URL          : http://www.freedesktop.org/wiki/Software/GeoClue/
 License      : LGPLv2+
 Descript     : The geoclue2-libs package contains a convenience library to interact with
@@ -767,8 +767,8 @@ Descript     : The geoclue2-libs package contains a convenience library to inter
 <summary>geocode-glib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Geocoding helper library
+From repo    : anaconda
+Short desc   : Geocoding helper library
 URL          : http://www.gnome.org/
 License      : LGPLv2+
 Descript     : geocode-glib is a convenience library for the geocoding (finding longitude,
@@ -784,8 +784,8 @@ Descript     : geocode-glib is a convenience library for the geocoding (finding 
 <summary>geolite2-city</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free IP geolocation city database
+From repo    : anaconda
+Short desc   : Free IP geolocation city database
 URL          : https://dev.maxmind.com/geoip/geoip2/geolite2/
 License      : CC-BY-SA
 Descript     : GeoLite2 databases are free IP geolocation databases comparable to, but less
@@ -799,8 +799,8 @@ Descript     : GeoLite2 databases are free IP geolocation databases comparable t
 <summary>geolite2-country</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Free IP geolocation country database
+From repo    : anaconda
+Short desc   : Free IP geolocation country database
 URL          : https://dev.maxmind.com/geoip/geoip2/geolite2/
 License      : CC-BY-SA
 Descript     : GeoLite2 databases are free IP geolocation databases comparable to, but less
@@ -814,8 +814,8 @@ Descript     : GeoLite2 databases are free IP geolocation databases comparable t
 <summary>geos</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GEOS is a C++ port of the Java Topology Suite
+From repo    : updates-testing
+Short desc   : GEOS is a C++ port of the Java Topology Suite
 URL          : http://trac.osgeo.org/geos/
 License      : LGPLv2
 Descript     : GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology
@@ -831,8 +831,8 @@ Descript     : GEOS (Geometry Engine - Open Source) is a C++ port of the Java To
 <summary>getdata</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for reading and writing dirfile data
+From repo    : fedora
+Short desc   : Library for reading and writing dirfile data
 URL          : http://getdata.sourceforge.net/
 License      : GPLv2+
 Descript     : The GetData Project is the reference implementation of the Dirfile Standards,
@@ -847,8 +847,8 @@ Descript     : The GetData Project is the reference implementation of the Dirfil
 <summary>getdata-lzma</summary>
 
 ```
-From repo     : fedora
-Short desc    : Enables getdata read ability of lzma compressed dirfiles
+From repo    : fedora
+Short desc   : Enables getdata read ability of lzma compressed dirfiles
 URL          : http://getdata.sourceforge.net/
 License      : GPLv2+
 Descript     : Enables getdata to read dirfiles that are encoded (compressed) with lzma.
@@ -860,8 +860,8 @@ Descript     : Enables getdata to read dirfiles that are encoded (compressed) wi
 <summary>gettext</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNU libraries and utilities for producing multi-lingual messages
+From repo    : anaconda
+Short desc   : GNU libraries and utilities for producing multi-lingual messages
 URL          : http://www.gnu.org/software/gettext/
 License      : GPLv3+ and LGPLv2+ and GFDL
 Descript     : The GNU gettext package provides a set of tools and documentation for
@@ -882,8 +882,8 @@ Descript     : The GNU gettext package provides a set of tools and documentation
 <summary>gettext-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for gettext
+From repo    : anaconda
+Short desc   : Libraries for gettext
 URL          : http://www.gnu.org/software/gettext/
 License      : LGPLv2+ and GPLv3+
 Descript     : This package contains libraries used internationalization support.
@@ -895,8 +895,8 @@ Descript     : This package contains libraries used internationalization support
 <summary>gfbgraph</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GLib/GObject wrapper for the Facebook Graph API
+From repo    : anaconda
+Short desc   : GLib/GObject wrapper for the Facebook Graph API
 URL          : https://wiki.gnome.org/Projects/GFBGraph
 License      : LGPLv2+
 Descript     : GLib/GObject wrapper for the Facebook Graph API that integrates with GNOME
@@ -909,8 +909,8 @@ Descript     : GLib/GObject wrapper for the Facebook Graph API that integrates w
 <summary>ghasher</summary>
 
 ```
-From repo     : fedora
-Short desc    : GUI hasher for GTK+ 2
+From repo    : fedora
+Short desc   : GUI hasher for GTK+ 2
 URL          : http://asgaard.homelinux.org/code/ghasher/
 License      : BSD
 Descript     : ghasher can easily show the MD5 sum (or md2, md4, sha1, sha, ripemd160, dss1)
@@ -924,8 +924,8 @@ Descript     : ghasher can easily show the MD5 sum (or md2, md4, sha1, sha, ripe
 <summary>ghc-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM macros for building Haskell source packages
+From repo    : fedora
+Short desc   : RPM macros for building Haskell source packages
 URL          : https://src.fedoraproject.org/rpms/ghc-srpm-macros
 License      : GPLv2+
 Descript     : Macros used when generating Haskell source RPM packages.
@@ -937,8 +937,8 @@ Descript     : Macros used when generating Haskell source RPM packages.
 <summary>ghex</summary>
 
 ```
-From repo     : fedora
-Short desc    : Binary editor for GNOME
+From repo    : fedora
+Short desc   : Binary editor for GNOME
 URL          : https://gitlab.gnome.org/GNOME/ghex
 License      : GPLv2+
 Descript     : GHex can load raw data from binary files and display them for editing in the
@@ -953,8 +953,8 @@ Descript     : GHex can load raw data from binary files and display them for edi
 <summary>ghex-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : GtkHex library
+From repo    : fedora
+Short desc   : GtkHex library
 URL          : https://gitlab.gnome.org/GNOME/ghex
 License      : GPLv2+
 Descript     : The ghex-libs package contains the shared GtkHex library.
@@ -966,8 +966,8 @@ Descript     : The ghex-libs package contains the shared GtkHex library.
 <summary>ghostscript</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Interpreter for PostScript language & PDF
+From repo    : anaconda
+Short desc   : Interpreter for PostScript language & PDF
 URL          : https://ghostscript.com/
 License      : AGPLv3+
 Descript     : This package provides useful conversion utilities based on Ghostscript software,
@@ -985,8 +985,8 @@ Descript     : This package provides useful conversion utilities based on Ghosts
 <summary>ghostscript-x11</summary>
 
 ```
-From repo     : fedora
-Short desc    : Ghostscript's X11-based driver for document rendering
+From repo    : fedora
+Short desc   : Ghostscript's X11-based driver for document rendering
 URL          : https://ghostscript.com/
 License      : AGPLv3+
 Descript     : This package provides X11-based driver for Ghostscript, which enables displaying
@@ -999,8 +999,8 @@ Descript     : This package provides X11-based driver for Ghostscript, which ena
 <summary>ghostwriter</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cross-platform, aesthetic, distraction-free Markdown editor
+From repo    : fedora
+Short desc   : Cross-platform, aesthetic, distraction-free Markdown editor
 URL          : https://github.com/wereturtle/ghostwriter
 License      : GPLv3+ and CC-BY and CC-BY-SA and MPLv1.1 and BSD and LGPLv3 and MIT and ISC
 Descript     : Ghostwriter is a text editor for Markdown, which is a plain text markup
@@ -1018,8 +1018,8 @@ Descript     : Ghostwriter is a text editor for Markdown, which is a plain text 
 <summary>giflib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library and utilities for processing GIFs
+From repo    : anaconda
+Short desc   : A library and utilities for processing GIFs
 URL          : http://www.sourceforge.net/projects/giflib/
 License      : MIT
 Descript     : giflib is a library for reading and writing gif images.
@@ -1032,8 +1032,8 @@ Descript     : giflib is a library for reading and writing gif images.
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : GNU Image Manipulation Program
+From repo    : updates-testing
+Short desc   : GNU Image Manipulation Program
 URL          : http://www.gimp.org/
 License      : GPLv3+ and GPLv3
 Descript     : GIMP (GNU Image Manipulation Program) is a powerful image composition and
@@ -1051,8 +1051,8 @@ Descript     : GIMP (GNU Image Manipulation Program) is a powerful image composi
 <summary>gimp-data-extras</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extra files for GIMP
+From repo    : fedora
+Short desc   : Extra files for GIMP
 URL          : http://www.gimp.org/
 License      : GPLv2+
 Descript     : Patterns, gradients, and other extra files for GIMP.
@@ -1064,8 +1064,8 @@ Descript     : Patterns, gradients, and other extra files for GIMP.
 <summary>gimp-dbp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Graphical batch processing for Gimp, no scripting knowledge required
+From repo    : fedora
+Short desc   : Graphical batch processing for Gimp, no scripting knowledge required
 URL          : http://www.ozemail.com.au/~hodsond/dbp.html
 License      : GPLv2+
 Descript     : David's Batch Processor (DBP) is a simple batch processing plugin for the Gimp.
@@ -1081,8 +1081,8 @@ Descript     : David's Batch Processor (DBP) is a simple batch processing plugin
 <summary>gimp-dds-plugin</summary>
 
 ```
-From repo     : fedora
-Short desc    : Плагин GIMP для работы с форматом DDS
+From repo    : fedora
+Short desc   : Плагин GIMP для работы с форматом DDS
 URL          : http://code.google.com/p/gimp-dds/
 License      : GPLv2+
 Descript     : Плагин для GIMP, помогающий загружать и сохранять изображения
@@ -1096,8 +1096,8 @@ Descript     : Плагин для GIMP, помогающий загружать
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : GIMP plugin and extension development kit
+From repo    : updates-testing
+Short desc   : GIMP plugin and extension development kit
 URL          : http://www.gimp.org/
 License      : LGPLv3+
 Descript     : The gimp-devel package contains the static libraries and header files
@@ -1112,8 +1112,8 @@ Descript     : The gimp-devel package contains the static libraries and header f
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : GIMP plugin and extension development tools
+From repo    : updates-testing
+Short desc   : GIMP plugin and extension development tools
 URL          : http://www.gimp.org/
 License      : LGPLv3+
 Descript     : The gimp-devel-tools package contains gimptool, a helper program to
@@ -1126,8 +1126,8 @@ Descript     : The gimp-devel-tools package contains gimptool, a helper program 
 <summary>gimp-elsamuko</summary>
 
 ```
-From repo     : fedora
-Short desc    : Script collection for the GIMP
+From repo    : fedora
+Short desc   : Script collection for the GIMP
 URL          : https://github.com/elsamuko/gimp-elsamuko
 License      : GPLv3+
 Descript     : Collection of scripts for the GIMP with various effects as; technicolor,
@@ -1140,8 +1140,8 @@ Descript     : Collection of scripts for the GIMP with various effects as; techn
 <summary>gimp-focusblur-plugin</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simulate an out-of-focus blur
+From repo    : fedora
+Short desc   : Simulate an out-of-focus blur
 URL          : http://registry.gimp.org/node/1444
 License      : GPLv2+
 Descript     : Focus Blur plug-in is blurring effect, a kind of called DoF. This software
@@ -1156,8 +1156,8 @@ Descript     : Focus Blur plug-in is blurring effect, a kind of called DoF. This
 <summary>gimp-fourier-plugin</summary>
 
 ```
-From repo     : fedora
-Short desc    : A simple plug-in to do fourier transform on your image
+From repo    : fedora
+Short desc   : A simple plug-in to do fourier transform on your image
 URL          : http://people.via.ecp.fr/~remi/soft/gimp/gimp_plugin_en.php3
 License      : GPLv3+
 Descript     : A simple plug-in to do fourier transform on your image. The major advantage of
@@ -1170,8 +1170,8 @@ Descript     : A simple plug-in to do fourier transform on your image. The major
 <summary>gimp-heif-plugin</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : A plugin for loading and saving HEIF images
+From repo    : rpmfusion-free
+Short desc   : A plugin for loading and saving HEIF images
 URL          : https://github.com/strukturag/heif-gimp-plugin/
 License      : GPLv3
 Descript     : This is a GIMP plugin for loading and saving HEIF images.
@@ -1184,8 +1184,8 @@ Descript     : This is a GIMP plugin for loading and saving HEIF images.
 <summary>gimp-help</summary>
 
 ```
-From repo     : fedora
-Short desc    : Help files for GIMP
+From repo    : fedora
+Short desc   : Help files for GIMP
 URL          : http://docs.gimp.org/
 License      : GFDL and GPLv2+
 Descript     : This package contains a user manual written for the GNU Image Manipulation
@@ -1198,8 +1198,8 @@ Descript     : This package contains a user manual written for the GNU Image Man
 <summary>gimp-help-ru</summary>
 
 ```
-From repo     : fedora
-Short desc    : Russian (ru) language support for gimp-help
+From repo    : fedora
+Short desc   : Russian (ru) language support for gimp-help
 URL          : http://docs.gimp.org/
 License      : GFDL and GPLv2+
 Descript     : Russian language support for gimp-help.
@@ -1211,8 +1211,8 @@ Descript     : Russian language support for gimp-help.
 <summary>gimp-high-pass-filter</summary>
 
 ```
-From repo     : fedora
-Short desc    : High-pass filter script for the GIMP
+From repo    : fedora
+Short desc   : High-pass filter script for the GIMP
 URL          : http://registry.gimp.org/node/7385
 License      : GPLv2+
 Descript     : A general purpose high-pass filter plugin. It shows up as
@@ -1227,8 +1227,8 @@ Descript     : A general purpose high-pass filter plugin. It shows up as
 <summary>gimp-layer-via-copy-cut</summary>
 
 ```
-From repo     : fedora
-Short desc    : Layer via copy/cut plug-in for GIMP
+From repo    : fedora
+Short desc   : Layer via copy/cut plug-in for GIMP
 URL          : http://some-gimp-plugins.com/contents/en/
 License      : GPLv3+
 Descript     : Copy and move the selected area to a new layer in the same position.
@@ -1240,8 +1240,8 @@ Descript     : Copy and move the selected area to a new layer in the same positi
 <summary>gimp-lensfun</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gimp plugin to correct lens distortion
+From repo    : fedora
+Short desc   : Gimp plugin to correct lens distortion
 URL          : http://seebk.github.io/GIMP-Lensfun/
 License      : GPLv3+
 Descript     : GimpLensfun is a Gimp plugin to correct lens distortion using the lensfun
@@ -1255,8 +1255,8 @@ Descript     : GimpLensfun is a Gimp plugin to correct lens distortion using the
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : GIMP libraries
+From repo    : updates-testing
+Short desc   : GIMP libraries
 URL          : http://www.gimp.org/
 License      : LGPLv3+
 Descript     : The gimp-libs package contains shared libraries needed for the GNU Image
@@ -1269,8 +1269,8 @@ Descript     : The gimp-libs package contains shared libraries needed for the GN
 <summary>gimp-lqr-plugin</summary>
 
 ```
-From repo     : fedora
-Short desc    : Content-aware resizing plug-in for the GIMP
+From repo    : fedora
+Short desc   : Content-aware resizing plug-in for the GIMP
 URL          : http://liquidrescale.wikidot.com/
 License      : GPLv2+
 Descript     : This package is a plug-in for the GIMP 2.4. It implements the algorithm
@@ -1285,8 +1285,8 @@ Descript     : This package is a plug-in for the GIMP 2.4. It implements the alg
 <summary>gimp-luminosity-masks</summary>
 
 ```
-From repo     : fedora
-Short desc    : Luminosity mask channels plug-in for Gimp
+From repo    : fedora
+Short desc   : Luminosity mask channels plug-in for Gimp
 URL          : http://registry.gimp.org/node/28644
 License      : GPLv2+
 Descript     : Script-Fu script generating a full set of Light, Dark, and
@@ -1299,8 +1299,8 @@ Descript     : Script-Fu script generating a full set of Light, Dark, and
 <summary>gimp-paint-studio</summary>
 
 ```
-From repo     : fedora
-Short desc    : A collection of tool option presets and brushes for GIMP
+From repo    : fedora
+Short desc   : A collection of tool option presets and brushes for GIMP
 URL          : http://code.google.com/p/gps-gimp-paint-studio/
 License      : CC-BY-SA and GPLv2
 Descript     : GIMP Paint Studio(GPS) is a collection of brushes and accompanying tool
@@ -1316,8 +1316,8 @@ Descript     : GIMP Paint Studio(GPS) is a collection of brushes and accompanyin
 <summary>gimp-resynthesizer</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gimp plug-in for texture synthesis
+From repo    : fedora
+Short desc   : Gimp plug-in for texture synthesis
 URL          : https://github.com/bootchk/resynthesizer
 License      : GPLv2+
 Descript     : Resynthesizer is a Gimp plug-in for texture synthesis. Given a sample of a
@@ -1333,8 +1333,8 @@ Descript     : Resynthesizer is a Gimp plug-in for texture synthesis. Given a sa
 <summary>gimp-save-for-web</summary>
 
 ```
-From repo     : fedora
-Short desc    : Save for web plug-in for GIMP
+From repo    : fedora
+Short desc   : Save for web plug-in for GIMP
 URL          : http://registry.gimp.org/node/33
 License      : GPLv2+ and MIT
 Descript     : Save for Web allows to find compromise between minimal file size
@@ -1351,8 +1351,8 @@ Descript     : Save for Web allows to find compromise between minimal file size
 <summary>gimp-separate+</summary>
 
 ```
-From repo     : fedora
-Short desc    : Rudimentary CMYK support for The GIMP
+From repo    : fedora
+Short desc   : Rudimentary CMYK support for The GIMP
 URL          : http://cue.yellowmagic.info/softwares/separate.html
 License      : GPLv2+ and MIT
 Descript     : Separate+ is a GIMP plug-in that convert an RGB image to CMYK format.
@@ -1364,8 +1364,8 @@ Descript     : Separate+ is a GIMP plug-in that convert an RGB image to CMYK for
 <summary>gimp-wavelet-decompose</summary>
 
 ```
-From repo     : fedora
-Short desc    : Decomposing image plug-in for Gimp
+From repo    : fedora
+Short desc   : Decomposing image plug-in for Gimp
 URL          : http://registry.gimp.org/node/13549
 License      : GPLv3+
 Descript     : Script-Fu script for lossless decomposing an image into different
@@ -1379,8 +1379,8 @@ Descript     : Script-Fu script for lossless decomposing an image into different
 <summary>gimp-wavelet-denoise-plugin</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gimp wavelet denoise plugin
+From repo    : fedora
+Short desc   : Gimp wavelet denoise plugin
 URL          : http://registry.gimp.org/node/4235
 License      : GPLv2+
 Descript     : The wavelet denoise plugin is a tool to reduce noise in each channel of an
@@ -1397,8 +1397,8 @@ Descript     : The wavelet denoise plugin is a tool to reduce noise in each chan
 <summary>gimpfx-foundry</summary>
 
 ```
-From repo     : fedora
-Short desc    : Additional GIMP plugins
+From repo    : fedora
+Short desc   : Additional GIMP plugins
 URL          : http://gimpfx-foundry.sourceforge.net/
 License      : GPLv2+ and GPLv3+ and Public Domain
 Descript     : These scripts allow GIMP graphics to be endowed with special effects, such as
@@ -1418,8 +1418,8 @@ Descript     : These scripts allow GIMP graphics to be endowed with special effe
 <summary>git</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Fast Version Control System
+From repo    : anaconda
+Short desc   : Fast Version Control System
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Git is a fast, scalable, distributed revision control system with an
@@ -1437,8 +1437,8 @@ Descript     : Git is a fast, scalable, distributed revision control system with
 <summary>git</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fast Version Control System
+From repo    : updates-testing
+Short desc   : Fast Version Control System
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Git is a fast, scalable, distributed revision control system with an
@@ -1456,8 +1456,8 @@ Descript     : Git is a fast, scalable, distributed revision control system with
 <summary>git-archive-all</summary>
 
 ```
-From repo     : fedora
-Short desc    : Archive git repository with its submodules
+From repo    : fedora
+Short desc   : Archive git repository with its submodules
 URL          : https://github.com/Kentzo/git-archive-all
 License      : MIT
 Descript     : Archive git repository with its submodules.
@@ -1469,8 +1469,8 @@ Descript     : Archive git repository with its submodules.
 <summary>git-clang-format</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Integration of clang-format for git
+From repo    : updates-testing
+Short desc   : Integration of clang-format for git
 URL          : http://llvm.org
 License      : NCSA
 Descript     : clang-format integration for git.
@@ -1482,8 +1482,8 @@ Descript     : clang-format integration for git.
 <summary>git-core</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Core package of git with minimal functionality
+From repo    : anaconda
+Short desc   : Core package of git with minimal functionality
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Git is a fast, scalable, distributed revision control system with an
@@ -1502,8 +1502,8 @@ Descript     : Git is a fast, scalable, distributed revision control system with
 <summary>git-core</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Core package of git with minimal functionality
+From repo    : updates-testing
+Short desc   : Core package of git with minimal functionality
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Git is a fast, scalable, distributed revision control system with an
@@ -1522,8 +1522,8 @@ Descript     : Git is a fast, scalable, distributed revision control system with
 <summary>git-core-doc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Documentation files for git-core
+From repo    : anaconda
+Short desc   : Documentation files for git-core
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Documentation files for git-core package including man pages.
@@ -1535,8 +1535,8 @@ Descript     : Documentation files for git-core package including man pages.
 <summary>git-core-doc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Documentation files for git-core
+From repo    : updates-testing
+Short desc   : Documentation files for git-core
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Documentation files for git-core package including man pages.
@@ -1548,8 +1548,8 @@ Descript     : Documentation files for git-core package including man pages.
 <summary>git-delta</summary>
 
 ```
-From repo     : fedora
-Short desc    : Syntax-highlighting pager for git
+From repo    : fedora
+Short desc   : Syntax-highlighting pager for git
 URL          : https://crates.io/crates/git-delta
 License      : MIT and ASL 2.0 and BSD and LGPLv3+
 Descript     : Syntax-highlighting pager for git.
@@ -1561,8 +1561,8 @@ Descript     : Syntax-highlighting pager for git.
 <summary>git-email</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Git tools for sending patches via email
+From repo    : updates-testing
+Short desc   : Git tools for sending patches via email
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Git tools for sending patches via email.
@@ -1574,8 +1574,8 @@ Descript     : Git tools for sending patches via email.
 <summary>git-extras</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Little git extras
+From repo    : updates-testing
+Short desc   : Little git extras
 URL          : https://github.com/tj/git-extras
 License      : MIT
 Descript     : git-extras adds the following extra-commands to git:
@@ -1596,8 +1596,8 @@ Descript     : git-extras adds the following extra-commands to git:
 <summary>git-filter-repo</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Quickly rewrite git repository history (git-filter-branch replacement)
+From repo    : updates-testing
+Short desc   : Quickly rewrite git repository history (git-filter-branch replacement)
 URL          : https://github.com/newren/git-filter-repo
 License      : MIT
 Descript     : git filter-repo is a versatile tool for rewriting history, which includes
@@ -1613,8 +1613,8 @@ Descript     : git filter-repo is a versatile tool for rewriting history, which 
 <summary>git-lab-porcelain</summary>
 
 ```
-From repo     : fedora
-Short desc    : Git porcelain for working with git-lab
+From repo    : fedora
+Short desc   : Git porcelain for working with git-lab
 URL          : https://gitlab.com/nhorman/git-lab-porcelain
 License      : GPLv3
 Descript     : A porcelain for git to facilitate command line creation/listing/editing
@@ -1627,8 +1627,8 @@ Descript     : A porcelain for git to facilitate command line creation/listing/e
 <summary>git-lfs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Git extension for versioning large files
+From repo    : updates-testing
+Short desc   : Git extension for versioning large files
 URL          : https://git-lfs.github.io/
 License      : MIT
 Descript     : Git Large File Storage (LFS) replaces large files such as audio samples,
@@ -1642,8 +1642,8 @@ Descript     : Git Large File Storage (LFS) replaces large files such as audio s
 <summary>git-merge-changelog</summary>
 
 ```
-From repo     : fedora
-Short desc    : Git merge driver for ChangeLog files
+From repo    : fedora
+Short desc   : Git merge driver for ChangeLog files
 URL          : https://www.gnu.org/software/gnulib
 License      : GPLv2+
 Descript     : Git Merge Changelog is a git merge driver for changelogs that combines
@@ -1657,8 +1657,8 @@ Descript     : Git Merge Changelog is a git merge driver for changelogs that com
 <summary>git-repair</summary>
 
 ```
-From repo     : fedora
-Short desc    : Repairs a damaged git repository
+From repo    : fedora
+Short desc   : Repairs a damaged git repository
 URL          : https://hackage.haskell.org/package/git-repair
 License      : AGPLv3
 Descript     : Git-repair can repair various forms of damage to git repositories.
@@ -1676,8 +1676,8 @@ Descript     : Git-repair can repair various forms of damage to git repositories
 <summary>git-review</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Git helper for integration with Gerrit
+From repo    : fedora
+Short desc   : A Git helper for integration with Gerrit
 URL          : https://opendev.org/opendev/git-review
 License      : ASL 2.0
 Descript     : An extension for source control system Git that creates and manages review
@@ -1690,8 +1690,8 @@ Descript     : An extension for source control system Git that creates and manag
 <summary>git-revise</summary>
 
 ```
-From repo     : fedora
-Short desc    : Efficiently update, split, and rearrange git commits
+From repo    : fedora
+Short desc   : Efficiently update, split, and rearrange git commits
 URL          : https://github.com/mystor/git-revise
 License      : MIT
 Descript     : 
@@ -1715,8 +1715,8 @@ Descript     :
 <summary>git-subrepo</summary>
 
 ```
-From repo     : fedora
-Short desc    : Git Submodule Alternative
+From repo    : fedora
+Short desc   : Git Submodule Alternative
 URL          : https://github.com/ingydotnet/git-subrepo
 License      : MIT
 Descript     : This git command "clones" an external git repo into a subdirectory
@@ -1730,8 +1730,8 @@ Descript     : This git command "clones" an external git repo into a subdirector
 <summary>git-subtree</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Git tools to merge and split repositories
+From repo    : updates-testing
+Short desc   : Git tools to merge and split repositories
 URL          : https://git-scm.com/
 License      : GPLv2
 Descript     : Git subtrees allow subprojects to be included within a subdirectory
@@ -1745,8 +1745,8 @@ Descript     : Git subtrees allow subprojects to be included within a subdirecto
 <summary>git-time-metric</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple, seamless, lightweight time tracking for Git
+From repo    : fedora
+Short desc   : Simple, seamless, lightweight time tracking for Git
 URL          : https://github.com/git-time-metric/gtm
 License      : MIT
 Descript     : 
@@ -1759,8 +1759,8 @@ Descript     :
 <summary>git-tools</summary>
 
 ```
-From repo     : fedora
-Short desc    : Assorted git-related scripts and tools
+From repo    : fedora
+Short desc   : Assorted git-related scripts and tools
 URL          : https://github.com/MestreLion/git-tools
 License      : GPLv3+
 Descript     : Assorted git-related scripts and tools:
@@ -1791,8 +1791,8 @@ Descript     : Assorted git-related scripts and tools:
 <summary>gjs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Javascript Bindings for GNOME
+From repo    : anaconda
+Short desc   : Javascript Bindings for GNOME
 URL          : https://wiki.gnome.org/Projects/Gjs
 License      : MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
 Descript     : Gjs allows using GNOME libraries from Javascript. It's based on the
@@ -1806,8 +1806,8 @@ Descript     : Gjs allows using GNOME libraries from Javascript. It's based on t
 <summary>gjs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Javascript Bindings for GNOME
+From repo    : updates-testing
+Short desc   : Javascript Bindings for GNOME
 URL          : https://wiki.gnome.org/Projects/Gjs
 License      : MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
 Descript     : Gjs allows using GNOME libraries from Javascript. It's based on the
@@ -1821,8 +1821,8 @@ Descript     : Gjs allows using GNOME libraries from Javascript. It's based on t
 <summary>gl-manpages</summary>
 
 ```
-From repo     : fedora
-Short desc    : OpenGL manpages
+From repo    : fedora
+Short desc   : OpenGL manpages
 URL          : https://github.com/KhronosGroup/OpenGL-Refpages
 License      : MIT and Open Publication
 Descript     : OpenGL manpages
@@ -1834,8 +1834,8 @@ Descript     : OpenGL manpages
 <summary>glade-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Widget library for Glade UI designer
+From repo    : fedora
+Short desc   : Widget library for Glade UI designer
 URL          : https://glade.gnome.org/
 License      : GPLv2+ and LGPLv2+
 Descript     : The glade-libs package consists of the widgets that compose the Glade GUI as
@@ -1848,8 +1848,8 @@ Descript     : The glade-libs package consists of the widgets that compose the G
 <summary>glew</summary>
 
 ```
-From repo     : fedora
-Short desc    : The OpenGL Extension Wrangler Library
+From repo    : fedora
+Short desc   : The OpenGL Extension Wrangler Library
 URL          : http://glew.sourceforge.net
 License      : BSD and MIT
 Descript     : The OpenGL Extension Wrangler Library (GLEW) is a cross-platform C/C++
@@ -1870,8 +1870,8 @@ Descript     : The OpenGL Extension Wrangler Library (GLEW) is a cross-platform 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A cross-platform multimedia library
+From repo    : fedora
+Short desc   : A cross-platform multimedia library
 URL          : http://www.glfw.org/index.html
 License      : zlib
 Descript     : GLFW is a free, Open Source, multi-platform library for OpenGL application
@@ -1887,8 +1887,8 @@ Descript     : GLFW is a free, Open Source, multi-platform library for OpenGL ap
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A library of handy utility functions
+From repo    : fedora
+Short desc   : A library of handy utility functions
 URL          : http://www.gtk.org/
 License      : LGPLv2+
 Descript     : GLib is a handy library of utility functions. This C library is
@@ -1903,8 +1903,8 @@ Descript     : GLib is a handy library of utility functions. This C library is
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Libraries and header files for glib development
+From repo    : fedora
+Short desc   : Libraries and header files for glib development
 URL          : http://www.gtk.org/
 License      : LGPLv2+
 Descript     : Libraries and header files for glib development.
@@ -1916,8 +1916,8 @@ Descript     : Libraries and header files for glib development.
 <summary>glib-networking</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Networking support for GLib
+From repo    : updates-testing
+Short desc   : Networking support for GLib
 URL          : http://www.gnome.org
 License      : LGPLv2+
 Descript     : This package contains modules that extend the networking support in
@@ -1932,8 +1932,8 @@ Descript     : This package contains modules that extend the networking support 
 <summary>glib-networking</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Networking support for GLib
+From repo    : anaconda
+Short desc   : Networking support for GLib
 URL          : http://www.gnome.org
 License      : LGPLv2+
 Descript     : This package contains modules that extend the networking support in
@@ -1948,8 +1948,8 @@ Descript     : This package contains modules that extend the networking support 
 <summary>glib2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library of handy utility functions
+From repo    : anaconda
+Short desc   : A library of handy utility functions
 URL          : http://www.gtk.org
 License      : LGPLv2+
 Descript     : GLib is the low-level core library that forms the basis for projects
@@ -1964,8 +1964,8 @@ Descript     : GLib is the low-level core library that forms the basis for proje
 <summary>glib2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library of handy utility functions
+From repo    : updates-testing
+Short desc   : A library of handy utility functions
 URL          : http://www.gtk.org
 License      : LGPLv2+
 Descript     : GLib is the low-level core library that forms the basis for projects
@@ -1980,8 +1980,8 @@ Descript     : GLib is the low-level core library that forms the basis for proje
 <summary>glib2-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A library of handy utility functions
+From repo    : updates-testing
+Short desc   : A library of handy utility functions
 URL          : http://www.gtk.org
 License      : LGPLv2+
 Descript     : The glib2-devel package includes the header files for the GLib library.
@@ -1993,8 +1993,8 @@ Descript     : The glib2-devel package includes the header files for the GLib li
 <summary>glibc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The GNU libc libraries
+From repo    : anaconda
+Short desc   : The GNU libc libraries
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc package contains standard libraries which are used by
@@ -2012,8 +2012,8 @@ Descript     : The glibc package contains standard libraries which are used by
 <summary>glibc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The GNU libc libraries
+From repo    : updates-testing
+Short desc   : The GNU libc libraries
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc package contains standard libraries which are used by
@@ -2031,8 +2031,8 @@ Descript     : The glibc package contains standard libraries which are used by
 <summary>glibc-all-langpacks</summary>
 
 ```
-From repo     : anaconda
-Short desc    : All language packs for glibc.
+From repo    : anaconda
+Short desc   : All language packs for glibc.
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : 
@@ -2044,8 +2044,8 @@ Descript     :
 <summary>glibc-all-langpacks</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : All language packs for glibc.
+From repo    : updates-testing
+Short desc   : All language packs for glibc.
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : 
@@ -2057,8 +2057,8 @@ Descript     :
 <summary>glibc-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common binaries and locale data for glibc
+From repo    : anaconda
+Short desc   : Common binaries and locale data for glibc
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-common package includes common binaries for the GNU libc
@@ -2071,8 +2071,8 @@ Descript     : The glibc-common package includes common binaries for the GNU lib
 <summary>glibc-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common binaries and locale data for glibc
+From repo    : updates-testing
+Short desc   : Common binaries and locale data for glibc
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-common package includes common binaries for the GNU libc
@@ -2085,8 +2085,8 @@ Descript     : The glibc-common package includes common binaries for the GNU lib
 <summary>glibc-devel</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Object files for development using standard C libraries.
+From repo    : anaconda
+Short desc   : Object files for development using standard C libraries.
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-devel package contains the object files necessary
@@ -2106,8 +2106,8 @@ Descript     : The glibc-devel package contains the object files necessary
 <summary>glibc-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Object files for development using standard C libraries.
+From repo    : updates-testing
+Short desc   : Object files for development using standard C libraries.
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-devel package contains the object files necessary
@@ -2127,8 +2127,8 @@ Descript     : The glibc-devel package contains the object files necessary
 <summary>glibc-doc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Documentation for GNU libc
+From repo    : anaconda
+Short desc   : Documentation for GNU libc
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-doc package contains The GNU C Library Reference Manual in info
@@ -2141,8 +2141,8 @@ Descript     : The glibc-doc package contains The GNU C Library Reference Manual
 <summary>glibc-doc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Documentation for GNU libc
+From repo    : updates-testing
+Short desc   : Documentation for GNU libc
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-doc package contains The GNU C Library Reference Manual in info
@@ -2155,8 +2155,8 @@ Descript     : The glibc-doc package contains The GNU C Library Reference Manual
 <summary>glibc-headers-x86</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Additional internal header files for glibc-devel.
+From repo    : anaconda
+Short desc   : Additional internal header files for glibc-devel.
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-headers-x86 package contains the architecture-specific
@@ -2169,8 +2169,8 @@ Descript     : The glibc-headers-x86 package contains the architecture-specific
 <summary>glibc-headers-x86</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Additional internal header files for glibc-devel.
+From repo    : updates-testing
+Short desc   : Additional internal header files for glibc-devel.
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-headers-x86 package contains the architecture-specific
@@ -2183,8 +2183,8 @@ Descript     : The glibc-headers-x86 package contains the architecture-specific
 <summary>glibc-langpack-en</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Locale data for English
+From repo    : anaconda
+Short desc   : Locale data for English
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-langpack-en package includes the basic information required
@@ -2197,8 +2197,8 @@ Descript     : The glibc-langpack-en package includes the basic information requ
 <summary>glibc-langpack-en</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Locale data for English
+From repo    : updates-testing
+Short desc   : Locale data for English
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-langpack-en package includes the basic information required
@@ -2211,8 +2211,8 @@ Descript     : The glibc-langpack-en package includes the basic information requ
 <summary>glibc-langpack-ru</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Locale data for Russian
+From repo    : updates-testing
+Short desc   : Locale data for Russian
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
 Descript     : The glibc-langpack-ru package includes the basic information required
@@ -2225,8 +2225,8 @@ Descript     : The glibc-langpack-ru package includes the basic information requ
 <summary>glibmm24</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C++ interface for the GLib library
+From repo    : updates-testing
+Short desc   : C++ interface for the GLib library
 URL          : http://www.gtkmm.org/
 License      : LGPLv2+
 Descript     : glibmm is the official C++ interface for the popular cross-platform
@@ -2237,11 +2237,27 @@ Descript     : glibmm is the official C++ interface for the popular cross-platfo
 </details>
 
 <details>
+<summary>gloox</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : A rock-solid, full-featured Jabber/XMPP client C++ library
+URL          : https://camaya.net/gloox
+License      : GPLv3
+Descript     : gloox is a rock-solid, full-featured Jabber/XMPP client library written in
+             : C++. It makes writing spec-compliant clients easy and allows for hassle-free
+             : integration of Jabber/XMPP functionality into existing applications.
+```
+
+</details>
+
+<details>
 <summary>glpk</summary>
 
 ```
-From repo     : fedora
-Short desc    : GNU Linear Programming Kit
+From repo    : fedora
+Short desc   : GNU Linear Programming Kit
 URL          : https://www.gnu.org/software/glpk/glpk.html
 License      : GPLv3+
 Descript     : The GLPK (GNU Linear Programming Kit) package is intended for solving
@@ -2268,8 +2284,8 @@ Descript     : The GLPK (GNU Linear Programming Kit) package is intended for sol
 <summary>glusterfs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Distributed File System
+From repo    : anaconda
+Short desc   : Distributed File System
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -2290,8 +2306,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>glusterfs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Distributed File System
+From repo    : updates-testing
+Short desc   : Distributed File System
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -2312,8 +2328,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>glusterfs-cli</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GlusterFS CLI
+From repo    : updates-testing
+Short desc   : GlusterFS CLI
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -2332,8 +2348,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>glusterfs-client-xlators</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GlusterFS client-side translators
+From repo    : anaconda
+Short desc   : GlusterFS client-side translators
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -2352,8 +2368,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>glusterfs-client-xlators</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GlusterFS client-side translators
+From repo    : updates-testing
+Short desc   : GlusterFS client-side translators
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -2372,8 +2388,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>glusterfs-fuse</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Fuse client
+From repo    : updates-testing
+Short desc   : Fuse client
 URL          : http://docs.gluster.org/
 License      : GPLv2 or LGPLv3+
 Descript     : GlusterFS is a distributed file-system capable of scaling to several
@@ -2393,8 +2409,8 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>glx-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GLX utilities
+From repo    : anaconda
+Short desc   : GLX utilities
 URL          : http://www.mesa3d.org
 License      : MIT
 Descript     : The glx-utils package provides the glxinfo and glxgears utilities.
@@ -2407,8 +2423,8 @@ Descript     : The glx-utils package provides the glxinfo and glxgears utilities
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Precisely prepared monochromatic icons and symbols
+From repo    : fedora
+Short desc   : Precisely prepared monochromatic icons and symbols
 URL          : http://glyphicons.com/
 License      : MIT
 Descript     : GLYPHICONS is a library of precisely prepared monochromatic icons and symbols,
@@ -2421,8 +2437,8 @@ Descript     : GLYPHICONS is a library of precisely prepared monochromatic icons
 <summary>gmic</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GREYC's Magic for Image Computing
+From repo    : updates-testing
+Short desc   : GREYC's Magic for Image Computing
 URL          : http://gmic.eu/
 License      : (CeCILL or CeCILL-C) and GPLv3+
 Descript     : G'MIC is an open and full-featured framework for image processing, providing
@@ -2437,8 +2453,8 @@ Descript     : G'MIC is an open and full-featured framework for image processing
 <summary>gmic-gimp</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : G'MIC plugin for GIMP
+From repo    : updates-testing
+Short desc   : G'MIC plugin for GIMP
 URL          : http://gmic.eu/
 License      : (CeCILL or CeCILL-C) and GPLv3+
 Descript     : G'MIC is an open and full-featured framework for image processing, providing
@@ -2456,8 +2472,8 @@ Descript     : G'MIC is an open and full-featured framework for image processing
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : A GNU arbitrary precision library
+From repo    : anaconda
+Short desc   : A GNU arbitrary precision library
 URL          : http://gmplib.org/
 License      : LGPLv3+ or GPLv2+
 Descript     : The gmp package contains GNU MP, a library for arbitrary precision
@@ -2479,8 +2495,8 @@ Descript     : The gmp package contains GNU MP, a library for arbitrary precisio
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : C++ bindings for the GNU MP arbitrary precision library
+From repo    : fedora
+Short desc   : C++ bindings for the GNU MP arbitrary precision library
 URL          : http://gmplib.org/
 License      : LGPLv3+ or GPLv2+
 Descript     : Bindings for using the GNU MP arbitrary precision library in C++ applications.
@@ -2493,8 +2509,8 @@ Descript     : Bindings for using the GNU MP arbitrary precision library in C++ 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Development tools for the GNU MP arbitrary precision library
+From repo    : fedora
+Short desc   : Development tools for the GNU MP arbitrary precision library
 URL          : http://gmplib.org/
 License      : LGPLv3+ or GPLv2+
 Descript     : The libraries, header files and documentation for using the GNU MP
@@ -2511,8 +2527,8 @@ Descript     : The libraries, header files and documentation for using the GNU M
 <summary>gmp-ecm</summary>
 
 ```
-From repo     : fedora
-Short desc    : Elliptic Curve Method for Integer Factorization
+From repo    : fedora
+Short desc   : Elliptic Curve Method for Integer Factorization
 URL          : https://gforge.inria.fr/projects/ecm/
 License      : GPLv3+
 Descript     : Programs and libraries employing elliptic curve method for factoring
@@ -2525,8 +2541,8 @@ Descript     : Programs and libraries employing elliptic curve method for factor
 <summary>gmp-ecm-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Files useful for gmp-ecm development
+From repo    : fedora
+Short desc   : Files useful for gmp-ecm development
 URL          : https://gforge.inria.fr/projects/ecm/
 License      : LGPLv3+
 Descript     : The libraries and header files for using gmp-ecm for development.
@@ -2538,8 +2554,8 @@ Descript     : The libraries and header files for using gmp-ecm for development.
 <summary>gmp-ecm-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Elliptic Curve Method library
+From repo    : fedora
+Short desc   : Elliptic Curve Method library
 URL          : https://gforge.inria.fr/projects/ecm/
 License      : LGPLv3+
 Descript     : The gmp-ecm elliptic curve method library.
@@ -2552,8 +2568,8 @@ Descript     : The gmp-ecm elliptic curve method library.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Development tools for the GNU MP arbitrary precision library
+From repo    : fedora
+Short desc   : Development tools for the GNU MP arbitrary precision library
 URL          : http://gmplib.org/
 License      : LGPLv3+ or GPLv2+
 Descript     : The static libraries for using the GNU MP arbitrary precision library
@@ -2566,8 +2582,8 @@ Descript     : The static libraries for using the GNU MP arbitrary precision lib
 <summary>gnat-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM macros needed when source packages that need GNAT are built
+From repo    : fedora
+Short desc   : RPM macros needed when source packages that need GNAT are built
 URL          : https://src.fedoraproject.org/rpms/gnat-srpm-macros
 License      : MIT
 Descript     : This package contains RPM macros that need to be available when source RPM
@@ -2581,8 +2597,8 @@ Descript     : This package contains RPM macros that need to be available when s
 <summary>gnome-abrt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A utility for viewing problems that have occurred with the system
+From repo    : updates-testing
+Short desc   : A utility for viewing problems that have occurred with the system
 URL          : https://github.com/abrt/gnome-abrt
 License      : GPLv2+
 Descript     : A GNOME application allows users to browse through detected problems and
@@ -2595,8 +2611,8 @@ Descript     : A GNOME application allows users to browse through detected probl
 <summary>gnome-autoar</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Archive library
+From repo    : anaconda
+Short desc   : Archive library
 URL          : https://git.gnome.org/browse/gnome-autoar
 License      : LGPLv2+
 Descript     : gnome-autoar is a GObject based library for handling archives.
@@ -2608,8 +2624,8 @@ Descript     : gnome-autoar is a GObject based library for handling archives.
 <summary>gnome-autoar</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Archive library
+From repo    : updates-testing
+Short desc   : Archive library
 URL          : https://git.gnome.org/browse/gnome-autoar
 License      : LGPLv2+
 Descript     : gnome-autoar is a GObject based library for handling archives.
@@ -2621,8 +2637,8 @@ Descript     : gnome-autoar is a GObject based library for handling archives.
 <summary>gnome-backgrounds</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Desktop backgrounds packaged with the GNOME desktop
+From repo    : updates-testing
+Short desc   : Desktop backgrounds packaged with the GNOME desktop
 URL          : http://www.gnome.org
 License      : GPLv2
 Descript     : The gnome-backgrounds package contains the default
@@ -2637,8 +2653,8 @@ Descript     : The gnome-backgrounds package contains the default
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Bluetooth graphical utilities
+From repo    : anaconda
+Short desc   : Bluetooth graphical utilities
 URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 License      : GPLv2+
 Descript     : The gnome-bluetooth package contains graphical utilities to setup,
@@ -2652,8 +2668,8 @@ Descript     : The gnome-bluetooth package contains graphical utilities to setup
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Bluetooth graphical utilities
+From repo    : updates-testing
+Short desc   : Bluetooth graphical utilities
 URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 License      : GPLv2+
 Descript     : The gnome-bluetooth package contains graphical utilities to setup,
@@ -2667,8 +2683,8 @@ Descript     : The gnome-bluetooth package contains graphical utilities to setup
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : GTK+ Bluetooth device selection widgets
+From repo    : anaconda
+Short desc   : GTK+ Bluetooth device selection widgets
 URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 License      : LGPLv2+
 Descript     : This package contains libraries needed for applications that
@@ -2682,8 +2698,8 @@ Descript     : This package contains libraries needed for applications that
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : GTK+ Bluetooth device selection widgets
+From repo    : updates-testing
+Short desc   : GTK+ Bluetooth device selection widgets
 URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 License      : LGPLv2+
 Descript     : This package contains libraries needed for applications that
@@ -2696,8 +2712,8 @@ Descript     : This package contains libraries needed for applications that
 <summary>gnome-boxes</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A simple GNOME 3 application to access remote or virtual systems
+From repo    : updates-testing
+Short desc   : A simple GNOME 3 application to access remote or virtual systems
 URL          : https://wiki.gnome.org/Apps/Boxes
 License      : LGPLv2+
 Descript     : gnome-boxes lets you easily create, setup, access, and use:
@@ -2714,8 +2730,8 @@ Descript     : gnome-boxes lets you easily create, setup, access, and use:
 <summary>gnome-boxes</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A simple GNOME 3 application to access remote or virtual systems
+From repo    : anaconda
+Short desc   : A simple GNOME 3 application to access remote or virtual systems
 URL          : https://wiki.gnome.org/Apps/Boxes
 License      : LGPLv2+
 Descript     : gnome-boxes lets you easily create, setup, access, and use:
@@ -2732,8 +2748,8 @@ Descript     : gnome-boxes lets you easily create, setup, access, and use:
 <summary>gnome-builder</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : IDE for writing GNOME-based software
+From repo    : updates-testing
+Short desc   : IDE for writing GNOME-based software
 URL          : https://wiki.gnome.org/Apps/Builder
 License      : GPLv3+ and GPLv2+ and LGPLv3+ and LGPLv2+ and MIT and CC-BY-SA and CC0
 Descript     : Builder attempts to be an IDE for writing software for GNOME. It does not try
@@ -2746,8 +2762,8 @@ Descript     : Builder attempts to be an IDE for writing software for GNOME. It 
 <summary>gnome-calculator</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A desktop calculator
+From repo    : updates-testing
+Short desc   : A desktop calculator
 URL          : https://wiki.gnome.org/Apps/Calculator
 License      : GPLv3+
 Descript     : gnome-calculator is a powerful graphical calculator with financial,
@@ -2761,8 +2777,8 @@ Descript     : gnome-calculator is a powerful graphical calculator with financia
 <summary>gnome-calendar</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Simple and beautiful calendar application designed to fit GNOME 3
+From repo    : updates-testing
+Short desc   : Simple and beautiful calendar application designed to fit GNOME 3
 URL          : https://wiki.gnome.org/Apps/Calendar
 License      : GPLv3+
 Descript     : Calendar is a simple and beautiful calendar application designed to fit
@@ -2780,8 +2796,8 @@ Descript     : Calendar is a simple and beautiful calendar application designed 
 <summary>gnome-characters</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Character map application for GNOME
+From repo    : updates-testing
+Short desc   : Character map application for GNOME
 URL          : https://wiki.gnome.org/Design/Apps/CharacterMap
 License      : BSD and GPLv2+
 Descript     : Characters is a simple utility application to find and insert unusual
@@ -2794,8 +2810,8 @@ Descript     : Characters is a simple utility application to find and insert unu
 <summary>gnome-classic-session</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GNOME "classic" mode session
+From repo    : updates-testing
+Short desc   : GNOME "classic" mode session
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This package contains the required components for the GNOME Shell "classic"
@@ -2808,8 +2824,8 @@ Descript     : This package contains the required components for the GNOME Shell
 <summary>gnome-classic-session</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNOME "classic" mode session
+From repo    : anaconda
+Short desc   : GNOME "classic" mode session
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This package contains the required components for the GNOME Shell "classic"
@@ -2822,8 +2838,8 @@ Descript     : This package contains the required components for the GNOME Shell
 <summary>gnome-clocks</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Clock application designed for GNOME 3
+From repo    : updates-testing
+Short desc   : Clock application designed for GNOME 3
 URL          : https://wiki.gnome.org/Apps/Clocks
 License      : GPLv2+
 Descript     : Clock application designed for GNOME 3
@@ -2835,8 +2851,8 @@ Descript     : Clock application designed for GNOME 3
 <summary>gnome-color-manager</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Color management tools for GNOME
+From repo    : anaconda
+Short desc   : Color management tools for GNOME
 URL          : http://mail.gnome.org/mailman/listinfo/gnome-color-manager-list
 License      : GPLv2+
 Descript     : gnome-color-manager is a session framework that makes it easy to manage, install
@@ -2849,8 +2865,8 @@ Descript     : gnome-color-manager is a session framework that makes it easy to 
 <summary>gnome-contacts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Contacts manager for GNOME
+From repo    : updates-testing
+Short desc   : Contacts manager for GNOME
 URL          : https://wiki.gnome.org/Apps/Contacts
 License      : GPLv2+
 Descript     : gnome-contacts is a standalone contacts manager for GNOME desktop.
@@ -2862,8 +2878,8 @@ Descript     : gnome-contacts is a standalone contacts manager for GNOME desktop
 <summary>gnome-control-center</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utilities to configure the GNOME desktop
+From repo    : updates-testing
+Short desc   : Utilities to configure the GNOME desktop
 URL          : http://www.gnome.org
 License      : GPLv2+ and CC-BY-SA
 Descript     : This package contains configuration utilities for the GNOME desktop, which
@@ -2878,8 +2894,8 @@ Descript     : This package contains configuration utilities for the GNOME deskt
 <summary>gnome-control-center</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities to configure the GNOME desktop
+From repo    : anaconda
+Short desc   : Utilities to configure the GNOME desktop
 URL          : http://www.gnome.org
 License      : GPLv2+ and CC-BY-SA
 Descript     : This package contains configuration utilities for the GNOME desktop, which
@@ -2894,8 +2910,8 @@ Descript     : This package contains configuration utilities for the GNOME deskt
 <summary>gnome-control-center-filesystem</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GNOME Control Center directories
+From repo    : updates-testing
+Short desc   : GNOME Control Center directories
 URL          : http://www.gnome.org
 License      : GPLv2+ and CC-BY-SA
 Descript     : The GNOME control-center provides a number of extension points
@@ -2910,8 +2926,8 @@ Descript     : The GNOME control-center provides a number of extension points
 <summary>gnome-control-center-filesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNOME Control Center directories
+From repo    : anaconda
+Short desc   : GNOME Control Center directories
 URL          : http://www.gnome.org
 License      : GPLv2+ and CC-BY-SA
 Descript     : The GNOME control-center provides a number of extension points
@@ -2926,8 +2942,8 @@ Descript     : The GNOME control-center provides a number of extension points
 <summary>gnome-desktop3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library with common API for various GNOME modules
+From repo    : updates-testing
+Short desc   : Library with common API for various GNOME modules
 URL          : http://www.gnome.org
 License      : GPLv2+ and LGPLv2+
 Descript     : gnome-desktop contains the libgnome-desktop library as well as a data
@@ -2946,8 +2962,8 @@ Descript     : gnome-desktop contains the libgnome-desktop library as well as a 
 <summary>gnome-desktop3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library with common API for various GNOME modules
+From repo    : anaconda
+Short desc   : Library with common API for various GNOME modules
 URL          : http://www.gnome.org
 License      : GPLv2+ and LGPLv2+
 Descript     : gnome-desktop contains the libgnome-desktop library as well as a data
@@ -2966,8 +2982,8 @@ Descript     : gnome-desktop contains the libgnome-desktop library as well as a 
 <summary>gnome-disk-utility</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Disks
+From repo    : updates-testing
+Short desc   : Disks
 URL          : https://gitlab.gnome.org/GNOME/gnome-disk-utility
 License      : GPLv2+
 Descript     : This package contains the Disks and Disk Image Mounter applications.
@@ -2981,8 +2997,8 @@ Descript     : This package contains the Disks and Disk Image Mounter applicatio
 <summary>gnome-extensions-app</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Manage GNOME Shell extensions
+From repo    : updates-testing
+Short desc   : Manage GNOME Shell extensions
 URL          : https://gitlab.gnome.org/GNOME/gnome-shell
 License      : GPLv2+
 Descript     : GNOME Extensions is an application for configuring and removing
@@ -2995,8 +3011,8 @@ Descript     : GNOME Extensions is an application for configuring and removing
 <summary>gnome-font-viewer</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utility for previewing fonts for GNOME
+From repo    : updates-testing
+Short desc   : Utility for previewing fonts for GNOME
 URL          : https://gitlab.gnome.org/GNOME/gnome-font-viewer
 License      : GPLv2+
 Descript     : Use gnome-font-viewer, the Font Viewer, to preview fonts and display
@@ -3010,8 +3026,8 @@ Descript     : Use gnome-font-viewer, the Font Viewer, to preview fonts and disp
 <summary>gnome-icon-theme</summary>
 
 ```
-From repo     : fedora
-Short desc    : GNOME icon theme
+From repo    : fedora
+Short desc   : GNOME icon theme
 URL          : http://www.gnome.org
 License      : LGPLv3+
 Descript     : This package contains the default icon theme used by the GNOME desktop.
@@ -3023,8 +3039,8 @@ Descript     : This package contains the default icon theme used by the GNOME de
 <summary>gnome-initial-setup</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Bootstrapping your OS
+From repo    : updates-testing
+Short desc   : Bootstrapping your OS
 URL          : https://wiki.gnome.org/Design/OS/InitialSetup
 License      : GPLv2+
 Descript     : GNOME Initial Setup is an alternative to firstboot, providing
@@ -3038,8 +3054,8 @@ Descript     : GNOME Initial Setup is an alternative to firstboot, providing
 <summary>gnome-initial-setup</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Bootstrapping your OS
+From repo    : anaconda
+Short desc   : Bootstrapping your OS
 URL          : https://wiki.gnome.org/Design/OS/InitialSetup
 License      : GPLv2+
 Descript     : GNOME Initial Setup is an alternative to firstboot, providing
@@ -3053,8 +3069,8 @@ Descript     : GNOME Initial Setup is an alternative to firstboot, providing
 <summary>gnome-keyring</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Framework for managing passwords and other secrets
+From repo    : anaconda
+Short desc   : Framework for managing passwords and other secrets
 URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 License      : GPLv2+ and LGPLv2+
 Descript     : The gnome-keyring session daemon manages passwords and other types of
@@ -3068,8 +3084,8 @@ Descript     : The gnome-keyring session daemon manages passwords and other type
 <summary>gnome-keyring</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Framework for managing passwords and other secrets
+From repo    : updates-testing
+Short desc   : Framework for managing passwords and other secrets
 URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 License      : GPLv2+ and LGPLv2+
 Descript     : The gnome-keyring session daemon manages passwords and other types of
@@ -3083,8 +3099,8 @@ Descript     : The gnome-keyring session daemon manages passwords and other type
 <summary>gnome-keyring-pam</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Pam module for unlocking keyrings
+From repo    : anaconda
+Short desc   : Pam module for unlocking keyrings
 URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 License      : LGPLv2+
 Descript     : The gnome-keyring-pam package contains a pam module that can
@@ -3097,8 +3113,8 @@ Descript     : The gnome-keyring-pam package contains a pam module that can
 <summary>gnome-keyring-pam</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Pam module for unlocking keyrings
+From repo    : updates-testing
+Short desc   : Pam module for unlocking keyrings
 URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 License      : LGPLv2+
 Descript     : The gnome-keyring-pam package contains a pam module that can
@@ -3111,8 +3127,8 @@ Descript     : The gnome-keyring-pam package contains a pam module that can
 <summary>gnome-logs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Log viewer for the systemd journal
+From repo    : anaconda
+Short desc   : Log viewer for the systemd journal
 URL          : https://wiki.gnome.org/Apps/Logs
 License      : GPLv3+
 Descript     : A log viewer for the systemd journal.
@@ -3124,8 +3140,8 @@ Descript     : A log viewer for the systemd journal.
 <summary>gnome-maps</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Map application for GNOME
+From repo    : updates-testing
+Short desc   : Map application for GNOME
 URL          : https://wiki.gnome.org/Apps/Maps
 License      : GPLv2+
 Descript     : GNOME Maps is a simple map application for the GNOME desktop.
@@ -3137,8 +3153,8 @@ Descript     : GNOME Maps is a simple map application for the GNOME desktop.
 <summary>gnome-menus</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A menu system for the GNOME project
+From repo    : anaconda
+Short desc   : A menu system for the GNOME project
 URL          : https://gitlab.gnome.org/GNOME/gnome-menus
 License      : LGPLv2+
 Descript     : gnome-menus is an implementation of the draft "Desktop
@@ -3154,8 +3170,8 @@ Descript     : gnome-menus is an implementation of the draft "Desktop
 <summary>gnome-online-accounts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Single sign-on framework for GNOME
+From repo    : anaconda
+Short desc   : Single sign-on framework for GNOME
 URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
 License      : LGPLv2+
 Descript     : GNOME Online Accounts provides interfaces so that applications and libraries
@@ -3170,8 +3186,8 @@ Descript     : GNOME Online Accounts provides interfaces so that applications an
 <summary>gnome-online-accounts</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Single sign-on framework for GNOME
+From repo    : updates-testing
+Short desc   : Single sign-on framework for GNOME
 URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
 License      : LGPLv2+
 Descript     : GNOME Online Accounts provides interfaces so that applications and libraries
@@ -3186,8 +3202,8 @@ Descript     : GNOME Online Accounts provides interfaces so that applications an
 <summary>gnome-online-miners</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Crawls through your online content
+From repo    : anaconda
+Short desc   : Crawls through your online content
 URL          : https://wiki.gnome.org/Projects/GnomeOnlineMiners
 License      : GPLv2+ and LGPLv2+ and MIT
 Descript     : GNOME Online Miners provides a set of crawlers that go through your online
@@ -3201,8 +3217,8 @@ Descript     : GNOME Online Miners provides a set of crawlers that go through yo
 <summary>gnome-online-miners</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Crawls through your online content
+From repo    : updates-testing
+Short desc   : Crawls through your online content
 URL          : https://wiki.gnome.org/Projects/GnomeOnlineMiners
 License      : GPLv2+ and LGPLv2+ and MIT
 Descript     : GNOME Online Miners provides a set of crawlers that go through your online
@@ -3216,8 +3232,8 @@ Descript     : GNOME Online Miners provides a set of crawlers that go through yo
 <summary>gnome-photos</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Access, organize and share your photos on GNOME
+From repo    : updates-testing
+Short desc   : Access, organize and share your photos on GNOME
 URL          : https://wiki.gnome.org/Apps/Photos
 License      : GPLv3+ and LGPLv2+
 Descript     : Access, organize and share your photos on GNOME. A simple and elegant
@@ -3232,8 +3248,8 @@ Descript     : Access, organize and share your photos on GNOME. A simple and ele
 <summary>gnome-remote-desktop</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNOME Remote Desktop screen share service
+From repo    : anaconda
+Short desc   : GNOME Remote Desktop screen share service
 URL          : https://gitlab.gnome.org/jadahl/gnome-remote-desktop
 License      : GPLv2+
 Descript     : GNOME Remote Desktop is a remote desktop and screen sharing service for the
@@ -3246,8 +3262,8 @@ Descript     : GNOME Remote Desktop is a remote desktop and screen sharing servi
 <summary>gnome-remote-desktop</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GNOME Remote Desktop screen share service
+From repo    : updates-testing
+Short desc   : GNOME Remote Desktop screen share service
 URL          : https://gitlab.gnome.org/jadahl/gnome-remote-desktop
 License      : GPLv2+
 Descript     : GNOME Remote Desktop is a remote desktop and screen sharing service for the
@@ -3260,8 +3276,8 @@ Descript     : GNOME Remote Desktop is a remote desktop and screen sharing servi
 <summary>gnome-screenshot</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A screenshot utility for GNOME
+From repo    : updates-testing
+Short desc   : A screenshot utility for GNOME
 URL          : https://gitlab.gnome.org/GNOME/gnome-screenshot
 License      : GPLv2+
 Descript     : gnome-screenshot lets you take pictures of your screen.
@@ -3273,8 +3289,8 @@ Descript     : gnome-screenshot lets you take pictures of your screen.
 <summary>gnome-session</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GNOME session manager
+From repo    : updates-testing
+Short desc   : GNOME session manager
 URL          : https://gitlab.gnome.org/GNOME/gnome-session
 License      : GPLv2+
 Descript     : gnome-session manages a GNOME desktop or GDM login session. It starts up
@@ -3287,8 +3303,8 @@ Descript     : gnome-session manages a GNOME desktop or GDM login session. It st
 <summary>gnome-session-wayland-session</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Desktop file for wayland based gnome session
+From repo    : updates-testing
+Short desc   : Desktop file for wayland based gnome session
 URL          : https://gitlab.gnome.org/GNOME/gnome-session
 License      : GPLv2+
 Descript     : Desktop file to add GNOME on wayland to display manager session menu.
@@ -3300,8 +3316,8 @@ Descript     : Desktop file to add GNOME on wayland to display manager session m
 <summary>gnome-session-xsession</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Desktop file for gnome-session
+From repo    : updates-testing
+Short desc   : Desktop file for gnome-session
 URL          : https://gitlab.gnome.org/GNOME/gnome-session
 License      : GPLv2+
 Descript     : Desktop file to add GNOME to display manager session menu.
@@ -3313,8 +3329,8 @@ Descript     : Desktop file to add GNOME to display manager session menu.
 <summary>gnome-settings-daemon</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The daemon sharing settings from GNOME to GTK+/KDE applications
+From repo    : updates-testing
+Short desc   : The daemon sharing settings from GNOME to GTK+/KDE applications
 URL          : https://download.gnome.org/sources/gnome-settings-daemon
 License      : GPLv2+
 Descript     : A daemon to share settings from GNOME to other applications. It also
@@ -3327,8 +3343,8 @@ Descript     : A daemon to share settings from GNOME to other applications. It a
 <summary>gnome-shell</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Window management and application launching for GNOME
+From repo    : updates-testing
+Short desc   : Window management and application launching for GNOME
 URL          : https://wiki.gnome.org/Projects/GnomeShell
 License      : GPLv2+
 Descript     : GNOME Shell provides core user interface functions for the GNOME 3 desktop,
@@ -3344,8 +3360,8 @@ Descript     : GNOME Shell provides core user interface functions for the GNOME 
 <summary>gnome-shell-extension-apps-menu</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Application menu for GNOME Shell
+From repo    : updates-testing
+Short desc   : Application menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension adds a GNOME 2.x style menu for applications.
@@ -3357,8 +3373,8 @@ Descript     : This GNOME Shell extension adds a GNOME 2.x style menu for applic
 <summary>gnome-shell-extension-apps-menu</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Application menu for GNOME Shell
+From repo    : anaconda
+Short desc   : Application menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension adds a GNOME 2.x style menu for applications.
@@ -3370,8 +3386,8 @@ Descript     : This GNOME Shell extension adds a GNOME 2.x style menu for applic
 <summary>gnome-shell-extension-background-logo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Background logo extension for GNOME Shell
+From repo    : anaconda
+Short desc   : Background logo extension for GNOME Shell
 URL          : https://pagure.io/background-logo-extension
 License      : GPLv2+
 Descript     : Show your pride! Display the Fedora logo (or any other graphic) in the corner of your desktop.
@@ -3383,8 +3399,8 @@ Descript     : Show your pride! Display the Fedora logo (or any other graphic) i
 <summary>gnome-shell-extension-background-logo</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Background logo extension for GNOME Shell
+From repo    : updates-testing
+Short desc   : Background logo extension for GNOME Shell
 URL          : https://pagure.io/background-logo-extension
 License      : GPLv2+
 Descript     : Show your pride! Display the Fedora logo (or any other graphic) in the corner of your desktop.
@@ -3396,8 +3412,8 @@ Descript     : Show your pride! Display the Fedora logo (or any other graphic) i
 <summary>gnome-shell-extension-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Files common to GNOME Shell Extensions
+From repo    : updates-testing
+Short desc   : Files common to GNOME Shell Extensions
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : GNOME Shell Extensions is a collection of extensions providing additional and
@@ -3412,8 +3428,8 @@ Descript     : GNOME Shell Extensions is a collection of extensions providing ad
 <summary>gnome-shell-extension-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Files common to GNOME Shell Extensions
+From repo    : anaconda
+Short desc   : Files common to GNOME Shell Extensions
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : GNOME Shell Extensions is a collection of extensions providing additional and
@@ -3428,8 +3444,8 @@ Descript     : GNOME Shell Extensions is a collection of extensions providing ad
 <summary>gnome-shell-extension-dash-to-dock</summary>
 
 ```
-From repo     : fedora
-Short desc    : Dock for the Gnome Shell by micxgx@gmail.com
+From repo    : fedora
+Short desc   : Dock for the Gnome Shell by micxgx@gmail.com
 URL          : https://micheleg.github.io/dash-to-dock
 License      : GPLv2+
 Descript     : This extension enhances the dash moving it out of the overview and
@@ -3444,8 +3460,8 @@ Descript     : This extension enhances the dash moving it out of the overview an
 <summary>gnome-shell-extension-drive-menu</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Drive status menu for GNOME Shell
+From repo    : updates-testing
+Short desc   : Drive status menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension provides a panel status menu for accessing and
@@ -3459,8 +3475,8 @@ Descript     : This GNOME Shell extension provides a panel status menu for acces
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : GNOME Shell extension to display system temperature, voltage, and fan speed
+From repo    : updates-testing
+Short desc   : GNOME Shell extension to display system temperature, voltage, and fan speed
 URL          : https://github.com/UshakovVasilii/gnome-shell-extension-freon/wiki
 License      : GPLv2
 Descript     : Freon is a GNOME Shell extension for displaying the temperature of your
@@ -3492,8 +3508,8 @@ Descript     : Freon is a GNOME Shell extension for displaying the temperature o
 <summary>gnome-shell-extension-launch-new-instance</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Always launch a new application instance for GNOME Shell
+From repo    : updates-testing
+Short desc   : Always launch a new application instance for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension modifies the behavior of clicking in the dash and app
@@ -3506,8 +3522,8 @@ Descript     : This GNOME Shell extension modifies the behavior of clicking in t
 <summary>gnome-shell-extension-launch-new-instance</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Always launch a new application instance for GNOME Shell
+From repo    : anaconda
+Short desc   : Always launch a new application instance for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension modifies the behavior of clicking in the dash and app
@@ -3520,8 +3536,8 @@ Descript     : This GNOME Shell extension modifies the behavior of clicking in t
 <summary>gnome-shell-extension-native-window-placement</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Native window placement for GNOME Shell
+From repo    : updates-testing
+Short desc   : Native window placement for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension provides additional configurability for the window
@@ -3534,8 +3550,8 @@ Descript     : This GNOME Shell extension provides additional configurability fo
 <summary>gnome-shell-extension-openweather</summary>
 
 ```
-From repo     : fedora
-Short desc    : Display weather information from many locations in the world
+From repo    : fedora
+Short desc   : Display weather information from many locations in the world
 URL          : https://gitlab.com/jenslody/gnome-shell-extension-openweather
 License      : GPLv3+ and BSD
 Descript     : gnome-shell-extension-openweather is an extension to display weather information
@@ -3557,8 +3573,8 @@ Descript     : gnome-shell-extension-openweather is an extension to display weat
 <summary>gnome-shell-extension-places-menu</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Places status menu for GNOME Shell
+From repo    : updates-testing
+Short desc   : Places status menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension add a system status menu for quickly navigating
@@ -3571,8 +3587,8 @@ Descript     : This GNOME Shell extension add a system status menu for quickly n
 <summary>gnome-shell-extension-places-menu</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Places status menu for GNOME Shell
+From repo    : anaconda
+Short desc   : Places status menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension add a system status menu for quickly navigating
@@ -3585,8 +3601,8 @@ Descript     : This GNOME Shell extension add a system status menu for quickly n
 <summary>gnome-shell-extension-user-theme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Support for custom themes in GNOME Shell
+From repo    : updates-testing
+Short desc   : Support for custom themes in GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension enables loading a GNOME Shell theme from
@@ -3599,8 +3615,8 @@ Descript     : This GNOME Shell extension enables loading a GNOME Shell theme fr
 <summary>gnome-shell-extension-window-list</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Display a window list at the bottom of the screen in GNOME Shell
+From repo    : updates-testing
+Short desc   : Display a window list at the bottom of the screen in GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension displays a window list at the bottom of the screen.
@@ -3612,8 +3628,8 @@ Descript     : This GNOME Shell extension displays a window list at the bottom o
 <summary>gnome-shell-extension-window-list</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Display a window list at the bottom of the screen in GNOME Shell
+From repo    : anaconda
+Short desc   : Display a window list at the bottom of the screen in GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 License      : GPLv2+
 Descript     : This GNOME Shell extension displays a window list at the bottom of the screen.
@@ -3625,8 +3641,8 @@ Descript     : This GNOME Shell extension displays a window list at the bottom o
 <summary>gnome-shell-theme-flat-remix</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Pretty simple theme inspired on material design
+From repo    : updates-testing
+Short desc   : Pretty simple theme inspired on material design
 URL          : https://drasite.com/flat-remix-gnome
 License      : CC-BY-SA
 Descript     : Flat Remix GNOME theme is a pretty simple shell theme inspired on material
@@ -3650,8 +3666,8 @@ Descript     : Flat Remix GNOME theme is a pretty simple shell theme inspired on
 <summary>gnome-shell-theme-selene</summary>
 
 ```
-From repo     : fedora
-Short desc    : The Selene gnome-shell theme
+From repo    : fedora
+Short desc   : The Selene gnome-shell theme
 URL          : https://launchpad.net/~tista/+archive/selene
 License      : GPLv3 and LGPLv2.1
 Descript     : Selene is an "almost dark" theme based on elementary GTK theme,
@@ -3664,8 +3680,8 @@ Descript     : Selene is an "almost dark" theme based on elementary GTK theme,
 <summary>gnome-shell-theme-yaru</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Yaru GNOME Shell Theme
+From repo    : updates-testing
+Short desc   : Yaru GNOME Shell Theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 License      : GPLv3+ and CC-BY-SA
 Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
@@ -3681,8 +3697,8 @@ Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by th
 <summary>gnome-software</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A software center for GNOME
+From repo    : updates-testing
+Short desc   : A software center for GNOME
 URL          : https://wiki.gnome.org/Apps/Software
 License      : GPLv2+
 Descript     : gnome-software is an application that makes it easy to add, remove
@@ -3695,8 +3711,8 @@ Descript     : gnome-software is an application that makes it easy to add, remov
 <summary>gnome-software</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A software center for GNOME
+From repo    : anaconda
+Short desc   : A software center for GNOME
 URL          : https://wiki.gnome.org/Apps/Software
 License      : GPLv2+
 Descript     : gnome-software is an application that makes it easy to add, remove
@@ -3709,8 +3725,8 @@ Descript     : gnome-software is an application that makes it easy to add, remov
 <summary>gnome-system-monitor</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Process and resource monitor
+From repo    : updates-testing
+Short desc   : Process and resource monitor
 URL          : https://wiki.gnome.org/Apps/SystemMonitor
 License      : GPLv2+
 Descript     : gnome-system-monitor allows to graphically view and manipulate the running
@@ -3724,8 +3740,8 @@ Descript     : gnome-system-monitor allows to graphically view and manipulate th
 <summary>gnome-terminal</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Terminal emulator for GNOME
+From repo    : anaconda
+Short desc   : Terminal emulator for GNOME
 URL          : http://www.gnome.org/
 License      : GPLv3+ and GFDL and LGPLv2+
 Descript     : gnome-terminal is a terminal emulator for GNOME. It features the ability to use
@@ -3738,8 +3754,8 @@ Descript     : gnome-terminal is a terminal emulator for GNOME. It features the 
 <summary>gnome-terminal-nautilus</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNOME Terminal extension for Nautilus
+From repo    : anaconda
+Short desc   : GNOME Terminal extension for Nautilus
 URL          : http://www.gnome.org/
 License      : GPLv3+ and GFDL and LGPLv2+
 Descript     : This package provides a Nautilus extension that adds the 'Open in Terminal'
@@ -3752,8 +3768,8 @@ Descript     : This package provides a Nautilus extension that adds the 'Open in
 <summary>gnome-themes-extra</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNOME Extra Themes
+From repo    : anaconda
+Short desc   : GNOME Extra Themes
 URL          : https://gitlab.gnome.org/GNOME/gnome-themes-extra
 License      : LGPLv2+
 Descript     : This module houses themes and theme-y tidbits that don’t really fit in anywhere
@@ -3780,8 +3796,8 @@ Descript     : This module houses themes and theme-y tidbits that don’t really
 <summary>gnome-tour</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GNOME Tour and Greeter
+From repo    : updates-testing
+Short desc   : GNOME Tour and Greeter
 URL          : https://gitlab.gnome.org/GNOME/gnome-tour
 License      : GPLv3+ and CC-BY-SA
 Descript     : A guided tour and greeter for GNOME.
@@ -3793,8 +3809,8 @@ Descript     : A guided tour and greeter for GNOME.
 <summary>gnome-tour</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GNOME Tour and Greeter
+From repo    : anaconda
+Short desc   : GNOME Tour and Greeter
 URL          : https://gitlab.gnome.org/GNOME/gnome-tour
 License      : GPLv3+ and CC-BY-SA
 Descript     : A guided tour and greeter for GNOME.
@@ -3806,8 +3822,8 @@ Descript     : A guided tour and greeter for GNOME.
 <summary>gnome-tweaks</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Customize advanced GNOME 3 options
+From repo    : updates-testing
+Short desc   : Customize advanced GNOME 3 options
 URL          : https://wiki.gnome.org/Apps/Tweaks
 License      : GPLv3 and CC0
 Descript     : GNOME Tweaks allows adjusting advanced configuration settings in GNOME 3. This
@@ -3822,8 +3838,8 @@ Descript     : GNOME Tweaks allows adjusting advanced configuration settings in 
 <summary>gnome-user-docs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GNOME User Documentation
+From repo    : updates-testing
+Short desc   : GNOME User Documentation
 URL          : http://help.gnome.org/
 License      : CC-BY-SA
 Descript     : This package contains end-user documentation for the GNOME desktop
@@ -3836,8 +3852,8 @@ Descript     : This package contains end-user documentation for the GNOME deskto
 <summary>gnome-user-share</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Gnome user file sharing
+From repo    : anaconda
+Short desc   : Gnome user file sharing
 URL          : http://www.gnome.org
 License      : GPLv2+
 Descript     : gnome-user-share is a small package that binds together various free
@@ -3857,8 +3873,8 @@ Descript     : gnome-user-share is a small package that binds together various f
 <summary>gnome-vfs2</summary>
 
 ```
-From repo     : fedora
-Short desc    : The GNOME virtual file-system libraries
+From repo    : fedora
+Short desc   : The GNOME virtual file-system libraries
 URL          : http://www.gnome.org/
 License      : LGPLv2+ and GPLv2+
 Descript     : GNOME VFS is the GNOME virtual file system. It is the foundation of
@@ -3877,8 +3893,8 @@ Descript     : GNOME VFS is the GNOME virtual file system. It is the foundation 
 <summary>gnome-vfs2-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common files for gnome-vfs2
+From repo    : fedora
+Short desc   : Common files for gnome-vfs2
 URL          : http://www.gnome.org/
 License      : LGPLv2+ and GPLv2+
 Descript     : Common files for gnome-vfs2.
@@ -3890,8 +3906,8 @@ Descript     : Common files for gnome-vfs2.
 <summary>gnome-video-effects</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Collection of GStreamer video effects
+From repo    : anaconda
+Short desc   : Collection of GStreamer video effects
 URL          : https://wiki.gnome.org/Projects/GnomeVideoEffects
 License      : GPLv2
 Descript     : A collection of GStreamer effects to be used in different GNOME Modules.
@@ -3903,8 +3919,8 @@ Descript     : A collection of GStreamer effects to be used in different GNOME M
 <summary>gnome-weather</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A weather application for GNOME
+From repo    : updates-testing
+Short desc   : A weather application for GNOME
 URL          : https://wiki.gnome.org/Apps/Weather
 License      : GPLv2+ and LGPLv2+ and MIT and CC-BY and CC-BY-SA
 Descript     : gnome-weather is a weather application for GNOME
@@ -3916,8 +3932,8 @@ Descript     : gnome-weather is a weather application for GNOME
 <summary>gnupg2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utility for secure communication and data storage
+From repo    : anaconda
+Short desc   : Utility for secure communication and data storage
 URL          : https://www.gnupg.org/
 License      : GPLv3+
 Descript     : GnuPG is GNU's tool for secure communication and data storage.  It can
@@ -3938,8 +3954,8 @@ Descript     : GnuPG is GNU's tool for secure communication and data storage.  I
 <summary>gnupg2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utility for secure communication and data storage
+From repo    : updates-testing
+Short desc   : Utility for secure communication and data storage
 URL          : https://www.gnupg.org/
 License      : GPLv3+
 Descript     : GnuPG is GNU's tool for secure communication and data storage.  It can
@@ -3960,8 +3976,8 @@ Descript     : GnuPG is GNU's tool for secure communication and data storage.  I
 <summary>gnupg2-smime</summary>
 
 ```
-From repo     : anaconda
-Short desc    : CMS encryption and signing tool and smart card support for GnuPG
+From repo    : anaconda
+Short desc   : CMS encryption and signing tool and smart card support for GnuPG
 URL          : https://www.gnupg.org/
 License      : GPLv3+
 Descript     : GnuPG is GNU's tool for secure communication and data storage. This
@@ -3975,8 +3991,8 @@ Descript     : GnuPG is GNU's tool for secure communication and data storage. Th
 <summary>gnupg2-smime</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : CMS encryption and signing tool and smart card support for GnuPG
+From repo    : updates-testing
+Short desc   : CMS encryption and signing tool and smart card support for GnuPG
 URL          : https://www.gnupg.org/
 License      : GPLv3+
 Descript     : GnuPG is GNU's tool for secure communication and data storage. This
@@ -3990,8 +4006,8 @@ Descript     : GnuPG is GNU's tool for secure communication and data storage. Th
 <summary>gnustep-base-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : GNUStep Base Libraries
+From repo    : fedora
+Short desc   : GNUStep Base Libraries
 URL          : http://www.gnustep.org/
 License      : GPLv3+ and LGPLv2+
 Descript     : The GNUstep Base Library is a powerful fast library of general-purpose,
@@ -4012,8 +4028,8 @@ Descript     : The GNUstep Base Library is a powerful fast library of general-pu
 <summary>gnutls</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A TLS protocol implementation
+From repo    : anaconda
+Short desc   : A TLS protocol implementation
 URL          : http://www.gnutls.org/
 License      : GPLv3+ and LGPLv2+
 Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
@@ -4029,8 +4045,8 @@ Descript     : GnuTLS is a secure communications library implementing the SSL, T
 <summary>gnutls</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A TLS protocol implementation
+From repo    : updates-testing
+Short desc   : A TLS protocol implementation
 URL          : http://www.gnutls.org/
 License      : GPLv3+ and LGPLv2+
 Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
@@ -4046,8 +4062,8 @@ Descript     : GnuTLS is a secure communications library implementing the SSL, T
 <summary>gnutls-dane</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A DANE protocol implementation for GnuTLS
+From repo    : anaconda
+Short desc   : A DANE protocol implementation for GnuTLS
 URL          : http://www.gnutls.org/
 License      : GPLv3+ and LGPLv2+
 Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
@@ -4065,8 +4081,8 @@ Descript     : GnuTLS is a secure communications library implementing the SSL, T
 <summary>gnutls-dane</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A DANE protocol implementation for GnuTLS
+From repo    : updates-testing
+Short desc   : A DANE protocol implementation for GnuTLS
 URL          : http://www.gnutls.org/
 License      : GPLv3+ and LGPLv2+
 Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
@@ -4084,8 +4100,8 @@ Descript     : GnuTLS is a secure communications library implementing the SSL, T
 <summary>gnutls-utils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Command line tools for TLS protocol
+From repo    : updates-testing
+Short desc   : Command line tools for TLS protocol
 URL          : http://www.gnutls.org/
 License      : GPLv3+
 Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
@@ -4103,8 +4119,8 @@ Descript     : GnuTLS is a secure communications library implementing the SSL, T
 <summary>go-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : Source-stage rpm automation for Go packages
+From repo    : fedora
+Short desc   : Source-stage rpm automation for Go packages
 URL          : https://pagure.io/go-rpm-macros
 License      : GPLv3+
 Descript     : This package provides SRPM-stage rpm automation to simplify the creation of Go
@@ -4123,8 +4139,8 @@ Descript     : This package provides SRPM-stage rpm automation to simplify the c
 <summary>gobject-introspection</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Introspection system for GObject-based libraries
+From repo    : anaconda
+Short desc   : Introspection system for GObject-based libraries
 URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
 License      : GPLv2+, LGPLv2+, MIT
 Descript     : GObject Introspection can scan C header and source files in order to
@@ -4139,8 +4155,8 @@ Descript     : GObject Introspection can scan C header and source files in order
 <summary>gobject-introspection</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Introspection system for GObject-based libraries
+From repo    : updates-testing
+Short desc   : Introspection system for GObject-based libraries
 URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
 License      : GPLv2+, LGPLv2+, MIT
 Descript     : GObject Introspection can scan C header and source files in order to
@@ -4155,8 +4171,8 @@ Descript     : GObject Introspection can scan C header and source files in order
 <summary>gobject-introspection-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries and headers for gobject-introspection
+From repo    : updates-testing
+Short desc   : Libraries and headers for gobject-introspection
 URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
 License      : GPLv2+, LGPLv2+, MIT
 Descript     : Libraries and headers for gobject-introspection
@@ -4168,8 +4184,8 @@ Descript     : Libraries and headers for gobject-introspection
 <summary>gom</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GObject to SQLite object mapper library
+From repo    : anaconda
+Short desc   : GObject to SQLite object mapper library
 URL          : https://wiki.gnome.org/Projects/Gom
 License      : LGPLv2+
 Descript     : Gom provides an object mapper from GObjects to SQLite. It helps you write
@@ -4183,8 +4199,8 @@ Descript     : Gom provides an object mapper from GObjects to SQLite. It helps y
 <summary>goocanvas</summary>
 
 ```
-From repo     : fedora
-Short desc    : A new canvas widget for GTK+ that uses cairo for drawing
+From repo    : fedora
+Short desc   : A new canvas widget for GTK+ that uses cairo for drawing
 URL          : https://wiki.gnome.org/Projects/GooCanvas
 License      : LGPLv2+
 Descript     : GooCanvas is a new canvas widget for GTK+ that uses the cairo 2D library for
@@ -4198,8 +4214,8 @@ Descript     : GooCanvas is a new canvas widget for GTK+ that uses the cairo 2D 
 <summary>google-carlito-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Carlito, a sans-serif font family metric-compatible with Calibri font family
+From repo    : anaconda
+Short desc   : Carlito, a sans-serif font family metric-compatible with Calibri font family
 URL          : http://code.google.com/p/chromium/issues/detail?id=280557
 License      : OFL
 Descript     : Carlito is metric-compatible with Calibri font family. Carlito comes in regular,
@@ -4214,8 +4230,8 @@ Descript     : Carlito is metric-compatible with Calibri font family. Carlito co
 <summary>google-droid-sans-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Droid Sans, a humanist sans-serif font family
+From repo    : anaconda
+Short desc   : Droid Sans, a humanist sans-serif font family
 URL          : https://android.googlesource.com/
 License      : ASL 2.0
 Descript     : 
@@ -4242,8 +4258,8 @@ Descript     :
 <summary>google-noto-cjk-fonts-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common files for Noto CJK fonts
+From repo    : anaconda
+Short desc   : Common files for Noto CJK fonts
 URL          : https://github.com/googlei18n/noto-cjk
 License      : OFL
 Descript     : 
@@ -4262,8 +4278,8 @@ Descript     :
 <summary>google-noto-emoji-color-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Google “Noto Color Emoji” colored emoji font
+From repo    : anaconda
+Short desc   : Google “Noto Color Emoji” colored emoji font
 URL          : https://github.com/googlei18n/noto-emoji
 License      : OFL and ASL 2.0
 Descript     : This package provides the Google “Noto Color Emoji” colored emoji font.
@@ -4275,8 +4291,8 @@ Descript     : This package provides the Google “Noto Color Emoji” colored e
 <summary>google-noto-fonts-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common files for Noto fonts
+From repo    : anaconda
+Short desc   : Common files for Noto fonts
 URL          : https://github.com/googlei18n/noto-fonts/
 License      : OFL
 Descript     : Common files for Google Noto fonts.
@@ -4288,8 +4304,8 @@ Descript     : Common files for Google Noto fonts.
 <summary>google-noto-sans-cjk-ttc-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Sans OTC font files for google-noto-cjk-fonts
+From repo    : anaconda
+Short desc   : Sans OTC font files for google-noto-cjk-fonts
 URL          : https://github.com/googlei18n/noto-cjk
 License      : OFL
 Descript     : 
@@ -4308,8 +4324,8 @@ Descript     :
 <summary>google-noto-sans-gurmukhi-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Sans Gurmukhi font
+From repo    : anaconda
+Short desc   : Sans Gurmukhi font
 URL          : https://github.com/googlei18n/noto-fonts/
 License      : OFL
 Descript     : Noto fonts aims to remove tofu from web by providing fonts for all
@@ -4326,8 +4342,8 @@ Descript     : Noto fonts aims to remove tofu from web by providing fonts for al
 <summary>google-noto-sans-sinhala-vf-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Sans Sinhala variable font
+From repo    : anaconda
+Short desc   : Sans Sinhala variable font
 URL          : https://github.com/googlei18n/noto-fonts/
 License      : OFL
 Descript     : Noto fonts aims to remove tofu from web by providing fonts for all
@@ -4344,8 +4360,8 @@ Descript     : Noto fonts aims to remove tofu from web by providing fonts for al
 <summary>google-roboto-slab-fonts</summary>
 
 ```
-From repo     : fedora
-Short desc    : Google Roboto Slab fonts
+From repo    : fedora
+Short desc   : Google Roboto Slab fonts
 URL          : https://www.google.com/fonts/specimen/Roboto+Slab
 License      : ASL 2.0
 Descript     : Roboto has a dual nature. It has a mechanical skeleton and the forms are
@@ -4365,8 +4381,8 @@ Descript     : Roboto has a dual nature. It has a mechanical skeleton and the fo
 <summary>gparted</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gnome Partition Editor
+From repo    : fedora
+Short desc   : Gnome Partition Editor
 URL          : http://gparted.org
 License      : GPLv2+
 Descript     : GParted stands for Gnome Partition Editor and is a graphical frontend to
@@ -4382,8 +4398,8 @@ Descript     : GParted stands for Gnome Partition Editor and is a graphical fron
 <summary>gperftools</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Very fast malloc and performance analysis tools
+From repo    : updates-testing
+Short desc   : Very fast malloc and performance analysis tools
 URL          : https://github.com/gperftools/gperftools
 License      : BSD
 Descript     : Perf Tools is a collection of performance analysis tools, including a
@@ -4401,8 +4417,8 @@ Descript     : Perf Tools is a collection of performance analysis tools, includi
 <summary>gperftools-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development libraries and headers for gperftools
+From repo    : updates-testing
+Short desc   : Development libraries and headers for gperftools
 URL          : https://github.com/gperftools/gperftools
 License      : BSD
 Descript     : Libraries and headers for developing applications that use gperftools.
@@ -4414,8 +4430,8 @@ Descript     : Libraries and headers for developing applications that use gperft
 <summary>gperftools-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries provided by gperftools
+From repo    : updates-testing
+Short desc   : Libraries provided by gperftools
 URL          : https://github.com/gperftools/gperftools
 License      : BSD
 Descript     : Libraries provided by gperftools, including libtcmalloc and libprofiler.
@@ -4427,8 +4443,8 @@ Descript     : Libraries provided by gperftools, including libtcmalloc and libpr
 <summary>gpgme</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GnuPG Made Easy - high level crypto API
+From repo    : anaconda
+Short desc   : GnuPG Made Easy - high level crypto API
 URL          : https://gnupg.org/related_software/gpgme/
 License      : LGPLv2+
 Descript     : GnuPG Made Easy (GPGME) is a library designed to make access to GnuPG
@@ -4443,8 +4459,8 @@ Descript     : GnuPG Made Easy (GPGME) is a library designed to make access to G
 <summary>gpgmepp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C++ bindings/wrapper for GPGME
+From repo    : anaconda
+Short desc   : C++ bindings/wrapper for GPGME
 URL          : https://gnupg.org/related_software/gpgme/
 License      : LGPLv2+
 Descript     : C++ bindings/wrapper for GPGME.
@@ -4456,8 +4472,8 @@ Descript     : C++ bindings/wrapper for GPGME.
 <summary>gpm-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Dynamic library for gpm
+From repo    : updates-testing
+Short desc   : Dynamic library for gpm
 URL          : http://www.nico.schottelius.org/software/gpm/
 License      : GPLv2 and OFSFDL
 Descript     : This package contains the libgpm.so dynamic library which contains
@@ -4470,8 +4486,8 @@ Descript     : This package contains the libgpm.so dynamic library which contain
 <summary>granite</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : elementary companion library for GTK+ and GLib
+From repo    : updates-testing
+Short desc   : elementary companion library for GTK+ and GLib
 URL          : https://github.com/elementary/granite
 License      : LGPLv3+
 Descript     : Granite is a companion library for GTK+ and GLib. Among other things, it
@@ -4485,8 +4501,8 @@ Descript     : Granite is a companion library for GTK+ and GLib. Among other thi
 <summary>graphene</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Thin layer of types for graphic libraries
+From repo    : anaconda
+Short desc   : Thin layer of types for graphic libraries
 URL          : https://github.com/ebassi/graphene
 License      : MIT
 Descript     : Graphene provides a small set of mathematical types needed to implement graphic
@@ -4499,8 +4515,8 @@ Descript     : Graphene provides a small set of mathematical types needed to imp
 <summary>graphene</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Thin layer of types for graphic libraries
+From repo    : updates-testing
+Short desc   : Thin layer of types for graphic libraries
 URL          : https://github.com/ebassi/graphene
 License      : MIT
 Descript     : Graphene provides a small set of mathematical types needed to implement graphic
@@ -4513,8 +4529,8 @@ Descript     : Graphene provides a small set of mathematical types needed to imp
 <summary>graphite2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Font rendering capabilities for complex non-Roman writing systems
+From repo    : anaconda
+Short desc   : Font rendering capabilities for complex non-Roman writing systems
 URL          : https://sourceforge.net/projects/silgraphite/
 License      : (LGPLv2+ or GPLv2+ or MPLv1.1) and (Netscape or GPLv2+ or LGPLv2+)
 Descript     : Graphite2 is a project within SIL’s Non-Roman Script Initiative and Language
@@ -4531,8 +4547,8 @@ Descript     : Graphite2 is a project within SIL’s Non-Roman Script Initiative
 <summary>graphite2-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Files for developing with graphite2
+From repo    : fedora
+Short desc   : Files for developing with graphite2
 URL          : https://sourceforge.net/projects/silgraphite/
 License      : (LGPLv2+ or GPLv2+ or MPLv1.1) and (Netscape or GPLv2+ or LGPLv2+)
 Descript     : Includes and definitions for developing with graphite2.
@@ -4544,8 +4560,8 @@ Descript     : Includes and definitions for developing with graphite2.
 <summary>graphviz</summary>
 
 ```
-From repo     : fedora
-Short desc    : Graph Visualization Tools
+From repo    : fedora
+Short desc   : Graph Visualization Tools
 URL          : http://www.graphviz.org/
 License      : EPL-1.0
 Descript     : A collection of tools for the manipulation and layout of graphs (as in nodes
@@ -4558,8 +4574,8 @@ Descript     : A collection of tools for the manipulation and layout of graphs (
 <summary>graphviz-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development package for graphviz
+From repo    : fedora
+Short desc   : Development package for graphviz
 URL          : http://www.graphviz.org/
 License      : EPL-1.0
 Descript     : A collection of tools for the manipulation and layout of graphs (as in nodes
@@ -4573,8 +4589,8 @@ Descript     : A collection of tools for the manipulation and layout of graphs (
 <summary>graphviz-devil</summary>
 
 ```
-From repo     : fedora
-Short desc    : Graphviz plugin for renderers based on DevIL
+From repo    : fedora
+Short desc   : Graphviz plugin for renderers based on DevIL
 URL          : http://www.graphviz.org/
 License      : EPL-1.0
 Descript     : Graphviz plugin for renderers based on DevIL. (Unless you absolutely have
@@ -4588,8 +4604,8 @@ Descript     : Graphviz plugin for renderers based on DevIL. (Unless you absolut
 <summary>graphviz-gd</summary>
 
 ```
-From repo     : fedora
-Short desc    : Graphviz plugin for renderers based on gd
+From repo    : fedora
+Short desc   : Graphviz plugin for renderers based on gd
 URL          : http://www.graphviz.org/
 License      : EPL-1.0
 Descript     : Graphviz plugin for renderers based on gd.  (Unless you absolutely have to use
@@ -4603,8 +4619,8 @@ Descript     : Graphviz plugin for renderers based on gd.  (Unless you absolutel
 <summary>grep</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Pattern matching utilities
+From repo    : anaconda
+Short desc   : Pattern matching utilities
 URL          : https://www.gnu.org/software/grep/
 License      : GPLv3+
 Descript     : The GNU versions of commonly used grep utilities. Grep searches through
@@ -4620,8 +4636,8 @@ Descript     : The GNU versions of commonly used grep utilities. Grep searches t
 <summary>grilo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Content discovery framework
+From repo    : anaconda
+Short desc   : Content discovery framework
 URL          : https://wiki.gnome.org/Projects/Grilo
 License      : LGPLv2+
 Descript     : Grilo is a framework that provides access to different sources of
@@ -4635,8 +4651,8 @@ Descript     : Grilo is a framework that provides access to different sources of
 <summary>grilo-plugins</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Plugins for the Grilo framework
+From repo    : anaconda
+Short desc   : Plugins for the Grilo framework
 URL          : https://wiki.gnome.org/Projects/Grilo
 License      : LGPLv2+
 Descript     : Grilo is a framework that provides access to different sources of
@@ -4670,8 +4686,8 @@ Descript     : Grilo is a framework that provides access to different sources of
 <summary>grilo-plugins</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Plugins for the Grilo framework
+From repo    : updates-testing
+Short desc   : Plugins for the Grilo framework
 URL          : https://wiki.gnome.org/Projects/Grilo
 License      : LGPLv2+
 Descript     : Grilo is a framework that provides access to different sources of
@@ -4703,8 +4719,8 @@ Descript     : Grilo is a framework that provides access to different sources of
 <summary>grim</summary>
 
 ```
-From repo     : fedora
-Short desc    : Screenshot tool for Sway
+From repo    : fedora
+Short desc   : Screenshot tool for Sway
 URL          : https://github.com/emersion/grim
 License      : MIT
 Descript     : Grim is a command-line tool to grab images from Sway.
@@ -4716,8 +4732,8 @@ Descript     : Grim is a command-line tool to grab images from Sway.
 <summary>groff-base</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Parts of the groff formatting system required to display manual pages
+From repo    : updates-testing
+Short desc   : Parts of the groff formatting system required to display manual pages
 URL          : http://www.gnu.org/software/groff/
 License      : GPLv3+ and GFDL and BSD and MIT
 Descript     : The groff-base package contains only necessary parts of groff formatting
@@ -4731,8 +4747,8 @@ Descript     : The groff-base package contains only necessary parts of groff for
 <summary>grsync</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Gtk+ GUI for rsync
+From repo    : fedora
+Short desc   : A Gtk+ GUI for rsync
 URL          : http://www.opbyte.it/grsync/
 License      : GPLv2
 Descript     : Grsync is a GUI (Graphical User Interface) for rsync, the commandline
@@ -4751,8 +4767,8 @@ Descript     : Grsync is a GUI (Graphical User Interface) for rsync, the command
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : grub2 common layout
+From repo    : updates-testing
+Short desc   : grub2 common layout
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : This package provides some directories which are required by various grub2
@@ -4766,8 +4782,8 @@ Descript     : This package provides some directories which are required by vari
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : GRUB for EFI systems.
+From repo    : updates-testing
+Short desc   : GRUB for EFI systems.
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4786,8 +4802,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Files used to boot removeable media with EFI
+From repo    : updates-testing
+Short desc   : Files used to boot removeable media with EFI
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4806,8 +4822,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : GRUB for EFI systems.
+From repo    : updates-testing
+Short desc   : GRUB for EFI systems.
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4826,8 +4842,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Files used to boot removeable media with EFI
+From repo    : updates-testing
+Short desc   : Files used to boot removeable media with EFI
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4846,8 +4862,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Bootloader with support for Linux, Multiboot, and more
+From repo    : updates-testing
+Short desc   : Bootloader with support for Linux, Multiboot, and more
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4866,8 +4882,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Modules used to build custom grub images
+From repo    : updates-testing
+Short desc   : Modules used to build custom grub images
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4886,8 +4902,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Support tools for GRUB.
+From repo    : updates-testing
+Short desc   : Support tools for GRUB.
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4906,8 +4922,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Support tools for GRUB.
+From repo    : updates-testing
+Short desc   : Support tools for GRUB.
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4926,8 +4942,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Support tools for GRUB.
+From repo    : updates-testing
+Short desc   : Support tools for GRUB.
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4946,8 +4962,8 @@ Descript     :
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Support tools for GRUB.
+From repo    : updates-testing
+Short desc   : Support tools for GRUB.
 URL          : http://www.gnu.org/software/grub/
 License      : GPLv3+
 Descript     : 
@@ -4965,8 +4981,8 @@ Descript     :
 <summary>grubby</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Command line tool for updating bootloader configs
+From repo    : anaconda
+Short desc   : Command line tool for updating bootloader configs
 URL          : https://github.com/rhinstaller/grubby
 License      : GPLv2+
 Descript     : This package provides a grubby compatibility script that manages
@@ -4980,8 +4996,8 @@ Descript     : This package provides a grubby compatibility script that manages
 <summary>gsettings-desktop-schemas</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A collection of GSettings schemas
+From repo    : updates-testing
+Short desc   : A collection of GSettings schemas
 URL          : https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas
 License      : LGPLv2+
 Descript     : gsettings-desktop-schemas contains a collection of GSettings schemas for
@@ -4994,8 +5010,8 @@ Descript     : gsettings-desktop-schemas contains a collection of GSettings sche
 <summary>gsettings-desktop-schemas</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A collection of GSettings schemas
+From repo    : anaconda
+Short desc   : A collection of GSettings schemas
 URL          : https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas
 License      : LGPLv2+
 Descript     : gsettings-desktop-schemas contains a collection of GSettings schemas for
@@ -5008,8 +5024,8 @@ Descript     : gsettings-desktop-schemas contains a collection of GSettings sche
 <summary>gsl</summary>
 
 ```
-From repo     : fedora
-Short desc    : The GNU Scientific Library for numerical analysis
+From repo    : fedora
+Short desc   : The GNU Scientific Library for numerical analysis
 URL          : http://www.gnu.org/software/gsl/
 License      : GPLv3+
 Descript     : The GNU Scientific Library (GSL) is a collection of routines for
@@ -5022,8 +5038,8 @@ Descript     : The GNU Scientific Library (GSL) is a collection of routines for
 <summary>gsm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Shared libraries for GSM speech compressor
+From repo    : anaconda
+Short desc   : Shared libraries for GSM speech compressor
 URL          : http://www.quut.com/gsm/
 License      : MIT
 Descript     : Contains runtime shared libraries for libgsm, an implementation of
@@ -5051,8 +5067,8 @@ Descript     : Contains runtime shared libraries for libgsm, an implementation o
 <summary>gsound</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Small gobject library for playing system sounds
+From repo    : anaconda
+Short desc   : Small gobject library for playing system sounds
 URL          : https://wiki.gnome.org/Projects/GSound
 License      : LGPLv2
 Descript     : GSound is a small library for playing system sounds.
@@ -5066,8 +5082,8 @@ Descript     : GSound is a small library for playing system sounds.
 <summary>gspell</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Spell-checking library for GTK+
+From repo    : anaconda
+Short desc   : Spell-checking library for GTK+
 URL          : https://wiki.gnome.org/Projects/gspell
 License      : LGPLv2+
 Descript     : gspell provides a flexible API to implement the spell checking
@@ -5080,8 +5096,8 @@ Descript     : gspell provides a flexible API to implement the spell checking
 <summary>gssdp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Resource discovery and announcement over SSDP
+From repo    : anaconda
+Short desc   : Resource discovery and announcement over SSDP
 URL          : http://www.gupnp.org/
 License      : LGPLv2+
 Descript     : GSSDP implements resource discovery and announcement over SSDP and is part
@@ -5096,8 +5112,8 @@ Descript     : GSSDP implements resource discovery and announcement over SSDP an
 <summary>gssproxy</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GSSAPI Proxy
+From repo    : anaconda
+Short desc   : GSSAPI Proxy
 URL          : https://github.com/gssapi/gssproxy
 License      : MIT
 Descript     : A proxy for GSSAPI credential handling
@@ -5109,8 +5125,8 @@ Descript     : A proxy for GSSAPI credential handling
 <summary>gst-editing-services</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Gstreamer editing services
+From repo    : updates-testing
+Short desc   : Gstreamer editing services
 URL          : http://cgit.freedesktop.org/gstreamer/gst-editing-services/
 License      : GPLv2+ and LGPLv2+
 Descript     : This is a high-level library for facilitating the creation of audio/video
@@ -5123,8 +5139,8 @@ Descript     : This is a high-level library for facilitating the creation of aud
 <summary>gstreamer1</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GStreamer streaming media framework runtime
+From repo    : anaconda
+Short desc   : GStreamer streaming media framework runtime
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of filters which
@@ -5141,8 +5157,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GStreamer streaming media framework runtime
+From repo    : updates-testing
+Short desc   : GStreamer streaming media framework runtime
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of filters which
@@ -5159,8 +5175,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1-libav</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : GStreamer 1.0 libav-based plug-ins
+From repo    : rpmfusion-free
+Short desc   : GStreamer 1.0 libav-based plug-ins
 URL          : https://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of filters which
@@ -5179,8 +5195,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1-plugin-openh264</summary>
 
 ```
-From repo     : fedora-cisco-openh264
-Short desc    : GStreamer H.264 plugin
+From repo    : fedora-cisco-openh264
+Short desc   : GStreamer H.264 plugin
 URL          : http://www.openh264.org/
 License      : BSD
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5195,8 +5211,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-bad-free</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GStreamer streaming media framework "bad" plugins
+From repo    : anaconda
+Short desc   : GStreamer streaming media framework "bad" plugins
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+ and LGPLv2
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5212,8 +5228,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-bad-free</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GStreamer streaming media framework "bad" plugins
+From repo    : updates-testing
+Short desc   : GStreamer streaming media framework "bad" plugins
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+ and LGPLv2
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5229,8 +5245,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-bad-freeworld</summary>
 
 ```
-From repo     : rpmfusion-free-updates-testing
-Short desc    : GStreamer 1.0 streaming media framework "bad" plug-ins
+From repo    : rpmfusion-free-updates-testing
+Short desc   : GStreamer 1.0 streaming media framework "bad" plug-ins
 URL          : https://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5246,8 +5262,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-base</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GStreamer streaming media framework base plugins
+From repo    : anaconda
+Short desc   : GStreamer streaming media framework base plugins
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of filters which
@@ -5266,8 +5282,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1-plugins-base</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GStreamer streaming media framework base plugins
+From repo    : updates-testing
+Short desc   : GStreamer streaming media framework base plugins
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of filters which
@@ -5286,8 +5302,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1-plugins-base-tools</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tools for GStreamer streaming media framework base plugins
+From repo    : updates-testing
+Short desc   : Tools for GStreamer streaming media framework base plugins
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of filters which
@@ -5309,8 +5325,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1-plugins-entrans</summary>
 
 ```
-From repo     : fedora
-Short desc    : GStreamer plug-ins from GEntrans
+From repo    : fedora
+Short desc   : GStreamer plug-ins from GEntrans
 URL          : http://gentrans.sourceforge.net/
 License      : LGPLv2+
 Descript     : GEntrans is a software package providing a collection of plug-ins and tools
@@ -5326,8 +5342,8 @@ Descript     : GEntrans is a software package providing a collection of plug-ins
 <summary>gstreamer1-plugins-fc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Future Composer input plugin for GStreamer 1.0.x
+From repo    : fedora
+Short desc   : Future Composer input plugin for GStreamer 1.0.x
 URL          : http://xmms-fc.sourceforge.net
 License      : GPLv2+
 Descript     : This is an input plugin for GStreamer which can play back Future Composer
@@ -5340,8 +5356,8 @@ Descript     : This is an input plugin for GStreamer which can play back Future 
 <summary>gstreamer1-plugins-good</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GStreamer plugins with good code and licensing
+From repo    : anaconda
+Short desc   : GStreamer plugins with good code and licensing
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of filters which
@@ -5361,8 +5377,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1-plugins-good</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GStreamer plugins with good code and licensing
+From repo    : updates-testing
+Short desc   : GStreamer plugins with good code and licensing
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of filters which
@@ -5382,8 +5398,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1-plugins-good-extras</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Extra GStreamer plugins with good code and licensing
+From repo    : updates-testing
+Short desc   : Extra GStreamer plugins with good code and licensing
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of filters
@@ -5403,8 +5419,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1-plugins-good-gtk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GStreamer "good" plugins gtk plugin
+From repo    : anaconda
+Short desc   : GStreamer "good" plugins gtk plugin
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5422,8 +5438,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-good-gtk</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GStreamer "good" plugins gtk plugin
+From repo    : updates-testing
+Short desc   : GStreamer "good" plugins gtk plugin
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5441,8 +5457,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-good-qt</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GStreamer "good" plugins qt qml plugin
+From repo    : anaconda
+Short desc   : GStreamer "good" plugins qt qml plugin
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5460,8 +5476,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-good-qt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GStreamer "good" plugins qt qml plugin
+From repo    : updates-testing
+Short desc   : GStreamer "good" plugins qt qml plugin
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5479,8 +5495,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-ugly</summary>
 
 ```
-From repo     : rpmfusion-free
-Short desc    : GStreamer 1.0 streaming media framework "ugly" plug-ins
+From repo    : rpmfusion-free
+Short desc   : GStreamer 1.0 streaming media framework "ugly" plug-ins
 URL          : https://gstreamer.freedesktop.org/
 License      : LGPLv2+
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5499,8 +5515,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-ugly-free</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GStreamer streaming media framework "ugly" plugins
+From repo    : anaconda
+Short desc   : GStreamer streaming media framework "ugly" plugins
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+ and LGPLv2
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5515,8 +5531,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-plugins-ugly-free</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GStreamer streaming media framework "ugly" plugins
+From repo    : updates-testing
+Short desc   : GStreamer streaming media framework "ugly" plugins
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+ and LGPLv2
 Descript     : GStreamer is a streaming media framework, based on graphs of elements which
@@ -5531,8 +5547,8 @@ Descript     : GStreamer is a streaming media framework, based on graphs of elem
 <summary>gstreamer1-svt-av1</summary>
 
 ```
-From repo     : fedora
-Short desc    : GStreamer 1.0 svt-av1-based plug-in
+From repo    : fedora
+Short desc   : GStreamer 1.0 svt-av1-based plug-in
 URL          : https://github.com/AOMediaCodec/SVT-AV1
 License      : BSD-2-Clause-Patent and BSD and MIT and ISC and Public Domain
 Descript     : This package provides svt-av1-based GStreamer plug-in.
@@ -5544,8 +5560,8 @@ Descript     : This package provides svt-av1-based GStreamer plug-in.
 <summary>gstreamer1-vaapi</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GStreamer plugins to use VA API video acceleration
+From repo    : updates-testing
+Short desc   : GStreamer plugins to use VA API video acceleration
 URL          : https://cgit.freedesktop.org/gstreamer/gstreamer-vaapi
 License      : LGPLv2+
 Descript     : A collection of GStreamer plugins to let you make use of VA API video
@@ -5562,8 +5578,8 @@ Descript     : A collection of GStreamer plugins to let you make use of VA API v
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : The GIMP ToolKit
+From repo    : fedora
+Short desc   : The GIMP ToolKit
 URL          : http://www.gtk.org/
 License      : LGPLv2+
 Descript     : The gtk+ package contains the GIMP ToolKit (GTK+), a library for
@@ -5580,8 +5596,8 @@ Descript     : The gtk+ package contains the GIMP ToolKit (GTK+), a library for
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Development tools for GTK+ (GIMP ToolKit) applications
+From repo    : fedora
+Short desc   : Development tools for GTK+ (GIMP ToolKit) applications
 URL          : http://www.gtk.org/
 License      : LGPLv2+
 Descript     : Libraries, header files and documentation for developing GTK+
@@ -5594,8 +5610,8 @@ Descript     : Libraries, header files and documentation for developing GTK+
 <summary>gtk-murrine-engine</summary>
 
 ```
-From repo     : fedora
-Short desc    : Murrine GTK2 engine
+From repo    : fedora
+Short desc   : Murrine GTK2 engine
 URL          : http://www.cimitan.com/murrine/
 License      : LGPLv2 or LGPLv3
 Descript     : Murrine Engine is a Gtk2 theme engine, using the Cairo vector graphics
@@ -5609,8 +5625,8 @@ Descript     : Murrine Engine is a Gtk2 theme engine, using the Cairo vector gra
 <summary>gtk-update-icon-cache</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Icon theme caching utility
+From repo    : anaconda
+Short desc   : Icon theme caching utility
 URL          : http://www.gtk.org
 License      : LGPLv2+
 Descript     : GTK+ can use the cache files created by gtk-update-icon-cache to avoid a lot of
@@ -5625,8 +5641,8 @@ Descript     : GTK+ can use the cache files created by gtk-update-icon-cache to 
 <summary>gtk-update-icon-cache</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Icon theme caching utility
+From repo    : updates-testing
+Short desc   : Icon theme caching utility
 URL          : http://www.gtk.org
 License      : LGPLv2+
 Descript     : GTK+ can use the cache files created by gtk-update-icon-cache to avoid a lot of
@@ -5641,8 +5657,8 @@ Descript     : GTK+ can use the cache files created by gtk-update-icon-cache to 
 <summary>gtk-vnc2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GTK3 widget for VNC clients
+From repo    : anaconda
+Short desc   : A GTK3 widget for VNC clients
 URL          : https://wiki.gnome.org/Projects/gtk-vnc
 License      : LGPLv2+
 Descript     : gtk-vnc is a VNC viewer widget for GTK3. It is built using coroutines
@@ -5655,8 +5671,8 @@ Descript     : gtk-vnc is a VNC viewer widget for GTK3. It is built using corout
 <summary>gtk2</summary>
 
 ```
-From repo     : fedora
-Short desc    : GTK+ graphical user interface library
+From repo    : fedora
+Short desc   : GTK+ graphical user interface library
 URL          : http://www.gtk.org
 License      : LGPLv2+
 Descript     : GTK+ is a multi-platform toolkit for creating graphical user
@@ -5671,8 +5687,8 @@ Descript     : GTK+ is a multi-platform toolkit for creating graphical user
 <summary>gtk2-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for GTK+
+From repo    : fedora
+Short desc   : Development files for GTK+
 URL          : http://www.gtk.org
 License      : LGPLv2+
 Descript     : This package contains the libraries and header files that are needed
@@ -5687,8 +5703,8 @@ Descript     : This package contains the libraries and header files that are nee
 <summary>gtk3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GTK+ graphical user interface library
+From repo    : anaconda
+Short desc   : GTK+ graphical user interface library
 URL          : http://www.gtk.org
 License      : LGPLv2+
 Descript     : GTK+ is a multi-platform toolkit for creating graphical user
@@ -5705,8 +5721,8 @@ Descript     : GTK+ is a multi-platform toolkit for creating graphical user
 <summary>gtk3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GTK+ graphical user interface library
+From repo    : updates-testing
+Short desc   : GTK+ graphical user interface library
 URL          : http://www.gtk.org
 License      : LGPLv2+
 Descript     : GTK+ is a multi-platform toolkit for creating graphical user
@@ -5723,8 +5739,8 @@ Descript     : GTK+ is a multi-platform toolkit for creating graphical user
 <summary>gtk4</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GTK graphical user interface library
+From repo    : anaconda
+Short desc   : GTK graphical user interface library
 URL          : https://www.gtk.org
 License      : LGPLv2+
 Descript     : GTK is a multi-platform toolkit for creating graphical user
@@ -5741,8 +5757,8 @@ Descript     : GTK is a multi-platform toolkit for creating graphical user
 <summary>gtk4</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GTK graphical user interface library
+From repo    : updates-testing
+Short desc   : GTK graphical user interface library
 URL          : https://www.gtk.org
 License      : LGPLv2+
 Descript     : GTK is a multi-platform toolkit for creating graphical user
@@ -5759,8 +5775,8 @@ Descript     : GTK is a multi-platform toolkit for creating graphical user
 <summary>gtkhash</summary>
 
 ```
-From repo     : fedora
-Short desc    : GTK+ utility for computing message digests or checksums
+From repo    : fedora
+Short desc   : GTK+ utility for computing message digests or checksums
 URL          : https://github.com/tristanheaven/gtkhash
 License      : GPLv2+
 Descript     : GtkHash is a GTK+ utility for computing message digests or checksums. Currently
@@ -5782,8 +5798,8 @@ Descript     : GtkHash is a GTK+ utility for computing message digests or checks
 <summary>gtkimageview</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple image viewer widget
+From repo    : fedora
+Short desc   : Simple image viewer widget
 URL          : http://trac.bjourne.webfactional.com
 License      : LGPLv2+
 Descript     : GtkImageView is a simple image viewer widget for GTK. It makes writing image
@@ -5796,8 +5812,8 @@ Descript     : GtkImageView is a simple image viewer widget for GTK. It makes wr
 <summary>gtkmm30</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C++ interface for the GTK+ library
+From repo    : anaconda
+Short desc   : C++ interface for the GTK+ library
 URL          : https://www.gtkmm.org/
 License      : LGPLv2+
 Descript     : gtkmm is the official C++ interface for the popular GUI library GTK+.
@@ -5811,8 +5827,8 @@ Descript     : gtkmm is the official C++ interface for the popular GUI library G
 <summary>gtksourceview3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Source code editing widget
+From repo    : fedora
+Short desc   : Source code editing widget
 URL          : https://wiki.gnome.org/Projects/GtkSourceView
 License      : LGPLv2+
 Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the standard GTK+
@@ -5830,8 +5846,8 @@ Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the st
 <summary>gtksourceview4</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Source code editing widget
+From repo    : anaconda
+Short desc   : Source code editing widget
 URL          : https://wiki.gnome.org/Projects/GtkSourceView
 License      : LGPLv2+
 Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the standard GTK+
@@ -5849,8 +5865,8 @@ Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the st
 <summary>gtksourceview4</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Source code editing widget
+From repo    : updates-testing
+Short desc   : Source code editing widget
 URL          : https://wiki.gnome.org/Projects/GtkSourceView
 License      : LGPLv2+
 Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the standard GTK+
@@ -5868,8 +5884,8 @@ Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the st
 <summary>gtkspell3</summary>
 
 ```
-From repo     : fedora
-Short desc    : On-the-fly spell checking for GtkTextView widgets
+From repo    : fedora
+Short desc   : On-the-fly spell checking for GtkTextView widgets
 URL          : http://gtkspell.sourceforge.net/
 License      : GPLv2+
 Descript     : GtkSpell provides word-processor-style highlighting and replacement of
@@ -5883,8 +5899,8 @@ Descript     : GtkSpell provides word-processor-style highlighting and replaceme
 <summary>gtrayicon</summary>
 
 ```
-From repo     : fedora
-Short desc    : Generic tray icon for GNOME
+From repo    : fedora
+Short desc   : Generic tray icon for GNOME
 URL          : http://gtrayicon.sourceforge.net/
 License      : GPLv3+
 Descript     : Gtrayicon is a generic tray icon for GNOME. It defines two actions: activate
@@ -5900,8 +5916,8 @@ Descript     : Gtrayicon is a generic tray icon for GNOME. It defines two action
 <summary>gts</summary>
 
 ```
-From repo     : fedora
-Short desc    : GNU Triangulated Surface Library
+From repo    : fedora
+Short desc   : GNU Triangulated Surface Library
 URL          : http://gts.sourceforge.net/index.html
 License      : LGPLv2+
 Descript     : GTS provides a set of useful functions to deal with 3D surfaces meshed
@@ -5916,8 +5932,8 @@ Descript     : GTS provides a set of useful functions to deal with 3D surfaces m
 <summary>guake</summary>
 
 ```
-From repo     : fedora
-Short desc    : Drop-down terminal for GNOME
+From repo    : fedora
+Short desc   : Drop-down terminal for GNOME
 URL          : http://guake-project.org/
 License      : GPLv2+
 Descript     : Guake is a dropdown terminal made for the GNOME desktop environment. Guake's
@@ -5932,8 +5948,8 @@ Descript     : Guake is a dropdown terminal made for the GNOME desktop environme
 
 ```
 Эпоха        : 5
-From repo     : anaconda
-Short desc    : A GNU implementation of Scheme for application extensibility
+From repo    : anaconda
+Short desc   : A GNU implementation of Scheme for application extensibility
 URL          : http://www.gnu.org/software/guile/
 License      : LGPLv3+
 Descript     : GUILE (GNU's Ubiquitous Intelligent Language for Extension) is a library
@@ -5951,8 +5967,8 @@ Descript     : GUILE (GNU's Ubiquitous Intelligent Language for Extension) is a 
 <summary>guile22</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GNU implementation of Scheme for application extensibility
+From repo    : anaconda
+Short desc   : A GNU implementation of Scheme for application extensibility
 URL          : http://www.gnu.org/software/guile/
 License      : LGPLv3+
 Descript     : GUILE (GNU's Ubiquitous Intelligent Language for Extension) is a library
@@ -5970,8 +5986,8 @@ Descript     : GUILE (GNU's Ubiquitous Intelligent Language for Extension) is a 
 <summary>gupnp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A framework for creating UPnP devices & control points
+From repo    : anaconda
+Short desc   : A framework for creating UPnP devices & control points
 URL          : http://www.gupnp.org/
 License      : LGPLv2+
 Descript     : GUPnP is an object-oriented open source framework for creating UPnP
@@ -5985,8 +6001,8 @@ Descript     : GUPnP is an object-oriented open source framework for creating UP
 <summary>gupnp-av</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A collection of helpers for building UPnP AV applications
+From repo    : anaconda
+Short desc   : A collection of helpers for building UPnP AV applications
 URL          : http://www.gupnp.org/
 License      : LGPLv2+
 Descript     : GUPnP is an object-oriented open source framework for creating UPnP
@@ -6003,8 +6019,8 @@ Descript     : GUPnP is an object-oriented open source framework for creating UP
 <summary>gupnp-dlna</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A collection of helpers for building UPnP AV applications
+From repo    : anaconda
+Short desc   : A collection of helpers for building UPnP AV applications
 URL          : http://www.gupnp.org/
 License      : LGPLv2+
 Descript     : GUPnP is an object-oriented open source framework for creating UPnP
@@ -6021,8 +6037,8 @@ Descript     : GUPnP is an object-oriented open source framework for creating UP
 <summary>gupnp-igd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library to handle UPnP IGD port mapping
+From repo    : anaconda
+Short desc   : Library to handle UPnP IGD port mapping
 URL          : https://wiki.gnome.org/Projects/GUPnP
 License      : LGPLv2+
 Descript     : gupnp-igd is a library to handle UPnP IGD port mapping.
@@ -6034,8 +6050,8 @@ Descript     : gupnp-igd is a library to handle UPnP IGD port mapping.
 <summary>gutenprint</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Printer Drivers Package
+From repo    : anaconda
+Short desc   : Printer Drivers Package
 URL          : http://gimp-print.sourceforge.net/
 License      : GPLv2+
 Descript     : Gutenprint is a package of high quality printer drivers for Linux, BSD,
@@ -6049,8 +6065,8 @@ Descript     : Gutenprint is a package of high quality printer drivers for Linux
 <summary>gutenprint-cups</summary>
 
 ```
-From repo     : anaconda
-Short desc    : CUPS drivers for Canon, Epson, HP and compatible printers
+From repo    : anaconda
+Short desc   : CUPS drivers for Canon, Epson, HP and compatible printers
 URL          : http://gimp-print.sourceforge.net/
 License      : GPLv2+
 Descript     : This package contains native CUPS support for a wide range of Canon,
@@ -6063,8 +6079,8 @@ Descript     : This package contains native CUPS support for a wide range of Can
 <summary>gutenprint-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : libgutenprint library
+From repo    : anaconda
+Short desc   : libgutenprint library
 URL          : http://gimp-print.sourceforge.net/
 License      : GPLv2+
 Descript     : This package includes libgutenprint library, necessary to run gutenprint.
@@ -6076,8 +6092,8 @@ Descript     : This package includes libgutenprint library, necessary to run gut
 <summary>gutenprint-libs-ui</summary>
 
 ```
-From repo     : fedora
-Short desc    : libgutenprintui2 library
+From repo    : fedora
+Short desc   : libgutenprintui2 library
 URL          : http://gimp-print.sourceforge.net/
 License      : GPLv2+
 Descript     : This package includes libgutenprintui2 library, which contains
@@ -6090,8 +6106,8 @@ Descript     : This package includes libgutenprintui2 library, which contains
 <summary>gutenprint-plugin</summary>
 
 ```
-From repo     : fedora
-Short desc    : GIMP plug-in for gutenprint
+From repo    : fedora
+Short desc   : GIMP plug-in for gutenprint
 URL          : http://gimp-print.sourceforge.net/
 License      : GPLv2+
 Descript     : This package contains the gutenprint GIMP plug-in.
@@ -6103,8 +6119,8 @@ Descript     : This package contains the gutenprint GIMP plug-in.
 <summary>gv</summary>
 
 ```
-From repo     : fedora
-Short desc    : A X front-end for the Ghostscript PostScript(TM) interpreter
+From repo    : fedora
+Short desc   : A X front-end for the Ghostscript PostScript(TM) interpreter
 URL          : http://www.gnu.org/software/gv/
 License      : GPLv3+
 Descript     : GNU gv is a user interface for the Ghostscript PostScript(TM) interpreter.
@@ -6117,8 +6133,8 @@ Descript     : GNU gv is a user interface for the Ghostscript PostScript(TM) int
 <summary>gvfs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Backends for the gio framework in GLib
+From repo    : anaconda
+Short desc   : Backends for the gio framework in GLib
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : The gvfs package provides backend implementations for the gio
@@ -6131,8 +6147,8 @@ Descript     : The gvfs package provides backend implementations for the gio
 <summary>gvfs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Backends for the gio framework in GLib
+From repo    : updates-testing
+Short desc   : Backends for the gio framework in GLib
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : The gvfs package provides backend implementations for the gio
@@ -6145,8 +6161,8 @@ Descript     : The gvfs package provides backend implementations for the gio
 <summary>gvfs-afc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : AFC support for gvfs
+From repo    : updates-testing
+Short desc   : AFC support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides support for reading files on mobile devices
@@ -6159,8 +6175,8 @@ Descript     : This package provides support for reading files on mobile devices
 <summary>gvfs-afp</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : AFP support for gvfs
+From repo    : updates-testing
+Short desc   : AFP support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides support for reading and writing files on
@@ -6174,8 +6190,8 @@ Descript     : This package provides support for reading and writing files on
 <summary>gvfs-archive</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Archiving support for gvfs
+From repo    : updates-testing
+Short desc   : Archiving support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides support for accessing files inside Zip and Tar archives,
@@ -6188,8 +6204,8 @@ Descript     : This package provides support for accessing files inside Zip and 
 <summary>gvfs-client</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Client modules of backends for the gio framework in GLib
+From repo    : anaconda
+Short desc   : Client modules of backends for the gio framework in GLib
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : The gvfs package provides client modules of backend implementations for the gio
@@ -6202,8 +6218,8 @@ Descript     : The gvfs package provides client modules of backend implementatio
 <summary>gvfs-client</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Client modules of backends for the gio framework in GLib
+From repo    : updates-testing
+Short desc   : Client modules of backends for the gio framework in GLib
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : The gvfs package provides client modules of backend implementations for the gio
@@ -6216,8 +6232,8 @@ Descript     : The gvfs package provides client modules of backend implementatio
 <summary>gvfs-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for gvfs
+From repo    : updates-testing
+Short desc   : Development files for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : The gvfs-devel package contains headers and other files that are
@@ -6230,8 +6246,8 @@ Descript     : The gvfs-devel package contains headers and other files that are
 <summary>gvfs-fuse</summary>
 
 ```
-From repo     : anaconda
-Short desc    : FUSE support for gvfs
+From repo    : anaconda
+Short desc   : FUSE support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides support for applications not using gio
@@ -6244,8 +6260,8 @@ Descript     : This package provides support for applications not using gio
 <summary>gvfs-fuse</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : FUSE support for gvfs
+From repo    : updates-testing
+Short desc   : FUSE support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides support for applications not using gio
@@ -6258,8 +6274,8 @@ Descript     : This package provides support for applications not using gio
 <summary>gvfs-goa</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GOA support for gvfs
+From repo    : updates-testing
+Short desc   : GOA support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides seamless integration with gnome-online-accounts
@@ -6272,8 +6288,8 @@ Descript     : This package provides seamless integration with gnome-online-acco
 <summary>gvfs-gphoto2</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : gphoto2 support for gvfs
+From repo    : updates-testing
+Short desc   : gphoto2 support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides support for reading and writing files on
@@ -6287,8 +6303,8 @@ Descript     : This package provides support for reading and writing files on
 <summary>gvfs-mtp</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : MTP support for gvfs
+From repo    : updates-testing
+Short desc   : MTP support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides support for reading and writing files on
@@ -6301,8 +6317,8 @@ Descript     : This package provides support for reading and writing files on
 <summary>gvfs-nfs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : NFS support for gvfs
+From repo    : updates-testing
+Short desc   : NFS support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides support for reading and writing files on
@@ -6315,8 +6331,8 @@ Descript     : This package provides support for reading and writing files on
 <summary>gvfs-smb</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Windows fileshare support for gvfs
+From repo    : updates-testing
+Short desc   : Windows fileshare support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : This package provides support for reading and writing files on windows
@@ -6329,8 +6345,8 @@ Descript     : This package provides support for reading and writing files on wi
 <summary>gvfs-tests</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tests for the gvfs package
+From repo    : updates-testing
+Short desc   : Tests for the gvfs package
 URL          : https://wiki.gnome.org/Projects/gvfs
 License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
 Descript     : The gvfs-tests package contains tests that can be used to verify
@@ -6343,8 +6359,8 @@ Descript     : The gvfs-tests package contains tests that can be used to verify
 <summary>gvnc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GObject for VNC connections
+From repo    : anaconda
+Short desc   : A GObject for VNC connections
 URL          : https://wiki.gnome.org/Projects/gtk-vnc
 License      : LGPLv2+
 Descript     : gvnc is a GObject for managing a VNC connection. It provides all the
@@ -6358,8 +6374,8 @@ Descript     : gvnc is a GObject for managing a VNC connection. It provides all 
 <summary>gzip</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The GNU data compression program
+From repo    : anaconda
+Short desc   : The GNU data compression program
 URL          : http://www.gzip.org/
 License      : GPLv3+ and GFDL
 Descript     : The gzip package contains the popular GNU gzip data compression

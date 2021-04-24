@@ -5,8 +5,8 @@
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : A Bittorrent Client
+From repo    : updates-testing
+Short desc   : A Bittorrent Client
 URL          : http://www.qbittorrent.org
 License      : GPLv2+
 Descript     : A Bittorrent client using rb_libtorrent and a Qt4 Graphical User Interface.
@@ -19,8 +19,8 @@ Descript     : A Bittorrent client using rb_libtorrent and a Qt4 Graphical User 
 <summary>qca-qt5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 Cryptographic Architecture
+From repo    : fedora
+Short desc   : Qt5 Cryptographic Architecture
 URL          : https://userbase.kde.org/QCA
 License      : LGPLv2+
 Descript     : Taking a hint from the similarly-named Java Cryptography Architecture,
@@ -39,8 +39,8 @@ Descript     : Taking a hint from the similarly-named Java Cryptography Architec
 <summary>qca-qt5-ossl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Openssl plugin for the Qt5 Cryptographic Architecture
+From repo    : fedora
+Short desc   : Openssl plugin for the Qt5 Cryptographic Architecture
 URL          : https://userbase.kde.org/QCA
 License      : LGPLv2+
 Descript     : Openssl plugin for the Qt5 Cryptographic Architecture.
@@ -53,8 +53,8 @@ Descript     : Openssl plugin for the Qt5 Cryptographic Architecture.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU ALSA audio driver
+From repo    : anaconda
+Short desc   : QEMU ALSA audio driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional ALSA audio driver for QEMU.
@@ -67,8 +67,8 @@ Descript     : This package provides the additional ALSA audio driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU OSS audio driver
+From repo    : anaconda
+Short desc   : QEMU OSS audio driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional OSS audio driver for QEMU.
@@ -81,8 +81,8 @@ Descript     : This package provides the additional OSS audio driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU PulseAudio audio driver
+From repo    : anaconda
+Short desc   : QEMU PulseAudio audio driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional PulseAudi audio driver for QEMU.
@@ -95,8 +95,8 @@ Descript     : This package provides the additional PulseAudi audio driver for Q
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU SDL audio driver
+From repo    : anaconda
+Short desc   : QEMU SDL audio driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional SDL audio driver for QEMU.
@@ -109,8 +109,8 @@ Descript     : This package provides the additional SDL audio driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU spice audio driver
+From repo    : anaconda
+Short desc   : QEMU spice audio driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the spice audio driver for QEMU.
@@ -123,8 +123,8 @@ Descript     : This package provides the spice audio driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU CURL block driver
+From repo    : anaconda
+Short desc   : QEMU CURL block driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional CURL block driver for QEMU.
@@ -140,8 +140,8 @@ Descript     : This package provides the additional CURL block driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU block driver for DMG disk images
+From repo    : anaconda
+Short desc   : QEMU block driver for DMG disk images
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional DMG block driver for QEMU.
@@ -156,8 +156,8 @@ Descript     : This package provides the additional DMG block driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU Gluster block driver
+From repo    : anaconda
+Short desc   : QEMU Gluster block driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional Gluster block driver for QEMU.
@@ -172,8 +172,8 @@ Descript     : This package provides the additional Gluster block driver for QEM
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU iSCSI block driver
+From repo    : anaconda
+Short desc   : QEMU iSCSI block driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional iSCSI block driver for QEMU.
@@ -188,8 +188,8 @@ Descript     : This package provides the additional iSCSI block driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU NFS block driver
+From repo    : anaconda
+Short desc   : QEMU NFS block driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional NFS block driver for QEMU.
@@ -204,8 +204,8 @@ Descript     : This package provides the additional NFS block driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU Ceph/RBD block driver
+From repo    : anaconda
+Short desc   : QEMU Ceph/RBD block driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional Ceph/RBD block driver for QEMU.
@@ -221,8 +221,8 @@ Descript     : This package provides the additional Ceph/RBD block driver for QE
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU SSH block driver
+From repo    : anaconda
+Short desc   : QEMU SSH block driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional SSH block driver for QEMU.
@@ -238,8 +238,8 @@ Descript     : This package provides the additional SSH block driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU Baum chardev driver
+From repo    : anaconda
+Short desc   : QEMU Baum chardev driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the Baum chardev driver for QEMU.
@@ -252,8 +252,8 @@ Descript     : This package provides the Baum chardev driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU spice chardev driver
+From repo    : anaconda
+Short desc   : QEMU spice chardev driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the spice chardev driver for QEMU.
@@ -266,8 +266,8 @@ Descript     : This package provides the spice chardev driver for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU common files needed by all QEMU targets
+From repo    : anaconda
+Short desc   : QEMU common files needed by all QEMU targets
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the common files needed by all QEMU targets
@@ -280,8 +280,8 @@ Descript     : This package provides the common files needed by all QEMU targets
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU QXL display device
+From repo    : anaconda
+Short desc   : QEMU QXL display device
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the QXL display device for QEMU.
@@ -294,8 +294,8 @@ Descript     : This package provides the QXL display device for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU virtio-gpu display device
+From repo    : anaconda
+Short desc   : QEMU virtio-gpu display device
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the virtio-gpu display device for QEMU.
@@ -308,8 +308,8 @@ Descript     : This package provides the virtio-gpu display device for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU virtio-gpu-pci display device
+From repo    : anaconda
+Short desc   : QEMU virtio-gpu-pci display device
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the virtio-gpu-pci display device for QEMU.
@@ -322,8 +322,8 @@ Descript     : This package provides the virtio-gpu-pci display device for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU virtio-vga display device
+From repo    : anaconda
+Short desc   : QEMU virtio-vga display device
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the virtio-vga display device for QEMU.
@@ -336,8 +336,8 @@ Descript     : This package provides the virtio-vga display device for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU usbredir device
+From repo    : anaconda
+Short desc   : QEMU usbredir device
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the usbredir device for QEMU.
@@ -350,8 +350,8 @@ Descript     : This package provides the usbredir device for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU USB smartcard device
+From repo    : anaconda
+Short desc   : QEMU USB smartcard device
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the USB smartcard device for QEMU.
@@ -364,8 +364,8 @@ Descript     : This package provides the USB smartcard device for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU guest agent
+From repo    : anaconda
+Short desc   : QEMU guest agent
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides an agent to run inside guests, which communicates
@@ -381,8 +381,8 @@ Descript     : This package provides an agent to run inside guests, which commun
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU command line tool for manipulating disk images
+From repo    : anaconda
+Short desc   : QEMU command line tool for manipulating disk images
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides a command line tool for manipulating disk images
@@ -395,8 +395,8 @@ Descript     : This package provides a command line tool for manipulating disk i
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU metapackage for KVM support
+From repo    : anaconda
+Short desc   : QEMU metapackage for KVM support
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This is a meta-package that provides a qemu-system-<arch> package for native
@@ -411,8 +411,8 @@ Descript     : This is a meta-package that provides a qemu-system-<arch> package
 
 ```
 Эпоха        : 2
-From repo     : fedora
-Short desc    : QEMU metapackage for KVM support
+From repo    : fedora
+Short desc   : QEMU metapackage for KVM support
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This is a meta-package that provides a qemu-system-<arch>-core package
@@ -427,8 +427,8 @@ Descript     : This is a meta-package that provides a qemu-system-<arch>-core pa
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU system emulator for x86
+From repo    : anaconda
+Short desc   : QEMU system emulator for x86
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the QEMU system emulator for x86. When being run in a x86
@@ -443,8 +443,8 @@ Descript     : This package provides the QEMU system emulator for x86. When bein
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU system emulator for x86
+From repo    : anaconda
+Short desc   : QEMU system emulator for x86
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the QEMU system emulator for x86. When being run in a x86
@@ -459,8 +459,8 @@ Descript     : This package provides the QEMU system emulator for x86. When bein
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU curses UI driver
+From repo    : anaconda
+Short desc   : QEMU curses UI driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional curses UI for QEMU.
@@ -473,8 +473,8 @@ Descript     : This package provides the additional curses UI for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU EGL headless driver
+From repo    : anaconda
+Short desc   : QEMU EGL headless driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional egl-headless UI for QEMU.
@@ -487,8 +487,8 @@ Descript     : This package provides the additional egl-headless UI for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU GTK UI driver
+From repo    : anaconda
+Short desc   : QEMU GTK UI driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional GTK UI for QEMU.
@@ -501,8 +501,8 @@ Descript     : This package provides the additional GTK UI for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU OpenGL driver
+From repo    : anaconda
+Short desc   : QEMU OpenGL driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional opengl UI for QEMU.
@@ -515,8 +515,8 @@ Descript     : This package provides the additional opengl UI for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU SDL UI driver
+From repo    : anaconda
+Short desc   : QEMU SDL UI driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional SDL UI for QEMU.
@@ -529,8 +529,8 @@ Descript     : This package provides the additional SDL UI for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU spice-app UI driver
+From repo    : anaconda
+Short desc   : QEMU spice-app UI driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional spice-app UI for QEMU.
@@ -543,8 +543,8 @@ Descript     : This package provides the additional spice-app UI for QEMU.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : QEMU spice-core UI driver
+From repo    : anaconda
+Short desc   : QEMU spice-core UI driver
 URL          : http://www.qemu.org/
 License      : GPLv2 and BSD and MIT and CC-BY
 Descript     : This package provides the additional spice-core UI for QEMU.
@@ -556,8 +556,8 @@ Descript     : This package provides the additional spice-core UI for QEMU.
 <summary>qgnomeplatform</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Qt Platform Theme aimed to accommodate Gnome settings
+From repo    : updates-testing
+Short desc   : Qt Platform Theme aimed to accommodate Gnome settings
 URL          : https://github.com/MartinBriza/QGnomePlatform
 License      : LGPLv2+
 Descript     : QGnomePlatform is a Qt Platform Theme aimed to accommodate as much of
@@ -571,8 +571,8 @@ Descript     : QGnomePlatform is a Qt Platform Theme aimed to accommodate as muc
 <summary>qpdf-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : QPDF library for transforming PDF files
+From repo    : updates-testing
+Short desc   : QPDF library for transforming PDF files
 URL          : http://qpdf.sourceforge.net/
 License      : (Artistic 2.0 or ASL 2.0) and MIT
 Descript     : QPDF is a C++ library that inspect and manipulate the structure of PDF files.
@@ -586,8 +586,8 @@ Descript     : QPDF is a C++ library that inspect and manipulate the structure o
 <summary>qrencode-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : QR Code encoding library - Shared libraries
+From repo    : anaconda
+Short desc   : QR Code encoding library - Shared libraries
 URL          : http://fukuchi.org/works/qrencode/
 License      : LGPLv2+
 Descript     : The qrencode-libs package contains the shared libraries and header files for
@@ -601,8 +601,8 @@ Descript     : The qrencode-libs package contains the shared libraries and heade
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Qt toolkit
+From repo    : updates-testing
+Short desc   : Qt toolkit
 URL          : http://qt-project.org/
 License      : (LGPLv2 with exceptions or GPLv3 with exceptions) and ASL 2.0 and BSD and FTL and MIT
 Descript     : Qt is a software toolkit for developing applications.
@@ -618,8 +618,8 @@ Descript     : Qt is a software toolkit for developing applications.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Common files for Qt
+From repo    : updates-testing
+Short desc   : Common files for Qt
 URL          : http://qt-project.org/
 License      : (LGPLv2 with exceptions or GPLv3 with exceptions) and ASL 2.0 and BSD and FTL and MIT
 Descript     : Common files for Qt.
@@ -631,8 +631,8 @@ Descript     : Common files for Qt.
 <summary>qt-settings</summary>
 
 ```
-From repo     : fedora
-Short desc    : Configuration files for Qt
+From repo    : fedora
+Short desc   : Configuration files for Qt
 URL          : https://pagure.io/fedora-kde/kde-settings
 License      : MIT
 Descript     : Configuration files for Qt.
@@ -645,8 +645,8 @@ Descript     : Configuration files for Qt.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Qt GUI-related libraries
+From repo    : updates-testing
+Short desc   : Qt GUI-related libraries
 URL          : http://qt-project.org/
 License      : (LGPLv2 with exceptions or GPLv3 with exceptions) and ASL 2.0 and BSD and FTL and MIT
 Descript     : Qt libraries used for drawing widgets and OpenGL items.
@@ -658,8 +658,8 @@ Descript     : Qt libraries used for drawing widgets and OpenGL items.
 <summary>qt5-qtbase</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Qt5 - QtBase components
+From repo    : anaconda
+Short desc   : Qt5 - QtBase components
 URL          : http://qt-project.org/
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Qt is a software toolkit for developing applications.
@@ -674,8 +674,8 @@ Descript     : Qt is a software toolkit for developing applications.
 <summary>qt5-qtbase</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Qt5 - QtBase components
+From repo    : updates-testing
+Short desc   : Qt5 - QtBase components
 URL          : http://qt-project.org/
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Qt is a software toolkit for developing applications.
@@ -690,8 +690,8 @@ Descript     : Qt is a software toolkit for developing applications.
 <summary>qt5-qtbase-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common files for Qt5
+From repo    : anaconda
+Short desc   : Common files for Qt5
 URL          : http://qt-project.org/
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Common files for Qt5.
@@ -703,8 +703,8 @@ Descript     : Common files for Qt5.
 <summary>qt5-qtbase-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common files for Qt5
+From repo    : updates-testing
+Short desc   : Common files for Qt5
 URL          : http://qt-project.org/
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Common files for Qt5.
@@ -716,8 +716,8 @@ Descript     : Common files for Qt5.
 <summary>qt5-qtbase-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for qt5-qtbase
+From repo    : updates-testing
+Short desc   : Development files for qt5-qtbase
 URL          : http://qt-project.org/
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Development files for qt5-qtbase.
@@ -729,8 +729,8 @@ Descript     : Development files for qt5-qtbase.
 <summary>qt5-qtbase-gui</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Qt5 GUI-related libraries
+From repo    : anaconda
+Short desc   : Qt5 GUI-related libraries
 URL          : http://qt-project.org/
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Qt5 libraries used for drawing widgets and OpenGL items.
@@ -742,8 +742,8 @@ Descript     : Qt5 libraries used for drawing widgets and OpenGL items.
 <summary>qt5-qtbase-gui</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Qt5 GUI-related libraries
+From repo    : updates-testing
+Short desc   : Qt5 GUI-related libraries
 URL          : http://qt-project.org/
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Qt5 libraries used for drawing widgets and OpenGL items.
@@ -755,8 +755,8 @@ Descript     : Qt5 libraries used for drawing widgets and OpenGL items.
 <summary>qt5-qtcharts</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 - Charts component
+From repo    : fedora
+Short desc   : Qt5 - Charts component
 URL          : http://www.qt.io
 License      : GPLv3
 Descript     : Qt Charts module provides a set of easy to use chart components. It uses the Qt Graphics View Framework, therefore charts can be easily
@@ -770,8 +770,8 @@ Descript     : Qt Charts module provides a set of easy to use chart components. 
 <summary>qt5-qtdeclarative</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Qt5 - QtDeclarative component
+From repo    : anaconda
+Short desc   : Qt5 - QtDeclarative component
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Qt5 - QtDeclarative component.
@@ -783,8 +783,8 @@ Descript     : Qt5 - QtDeclarative component.
 <summary>qt5-qtgraphicaleffects</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 - QtGraphicalEffects component
+From repo    : fedora
+Short desc   : Qt5 - QtGraphicalEffects component
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : The Qt Graphical Effects module provides a set of QML types for adding
@@ -799,8 +799,8 @@ Descript     : The Qt Graphical Effects module provides a set of QML types for a
 <summary>qt5-qtlocation</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Qt5 - Location component
+From repo    : updates-testing
+Short desc   : Qt5 - Location component
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : The Qt Location and Qt Positioning APIs gives developers the ability to
@@ -814,8 +814,8 @@ Descript     : The Qt Location and Qt Positioning APIs gives developers the abil
 <summary>qt5-qtmultimedia</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 - Multimedia support
+From repo    : fedora
+Short desc   : Qt5 - Multimedia support
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : The Qt Multimedia module provides a rich feature set that enables you to
@@ -830,8 +830,8 @@ Descript     : The Qt Multimedia module provides a rich feature set that enables
 <summary>qt5-qtquickcontrols2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 - module with set of QtQuick controls for embedded
+From repo    : fedora
+Short desc   : Qt5 - module with set of QtQuick controls for embedded
 URL          : http://www.qt.io
 License      : GPLv2+ or LGPLv3 and GFDL
 Descript     : The Qt Labs Controls module provides a set of controls that can be used to
@@ -847,8 +847,8 @@ Descript     : The Qt Labs Controls module provides a set of controls that can b
 <summary>qt5-qtscript</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 - QtScript component
+From repo    : fedora
+Short desc   : Qt5 - QtScript component
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Qt5 - QtScript component.
@@ -860,8 +860,8 @@ Descript     : Qt5 - QtScript component.
 <summary>qt5-qtsensors</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 - Sensors component
+From repo    : fedora
+Short desc   : Qt5 - Sensors component
 URL          : http://www.qt.io/
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : The Qt Sensors API provides access to sensor hardware via QML and C++
@@ -875,8 +875,8 @@ Descript     : The Qt Sensors API provides access to sensor hardware via QML and
 <summary>qt5-qtspeech</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 - Speech component
+From repo    : fedora
+Short desc   : Qt5 - Speech component
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : The module enables a Qt application to support accessibility features such as text-to-speech, which is useful for end-users who are
@@ -892,8 +892,8 @@ Descript     : The module enables a Qt application to support accessibility feat
 <summary>qt5-qtspeech-speechd</summary>
 
 ```
-From repo     : fedora
-Short desc    : qt5-qtspeech speech-dispatcher plugin
+From repo    : fedora
+Short desc   : qt5-qtspeech speech-dispatcher plugin
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : qt5-qtspeech speech-dispatcher plugin.
@@ -905,8 +905,8 @@ Descript     : qt5-qtspeech speech-dispatcher plugin.
 <summary>qt5-qtsvg</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Qt5 - Support for rendering and displaying SVG
+From repo    : updates-testing
+Short desc   : Qt5 - Support for rendering and displaying SVG
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : Scalable Vector Graphics (SVG) is an XML-based language for describing
@@ -920,8 +920,8 @@ Descript     : Scalable Vector Graphics (SVG) is an XML-based language for descr
 <summary>qt5-qttools-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Common files for qt5-qttools
+From repo    : fedora
+Short desc   : Common files for qt5-qttools
 URL          : http://www.qt.io
 License      : LGPLv3 or LGPLv2
 Descript     : Common files for qt5-qttools.
@@ -933,8 +933,8 @@ Descript     : Common files for qt5-qttools.
 <summary>qt5-qttools-libs-designer</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 Designer runtime library
+From repo    : fedora
+Short desc   : Qt5 Designer runtime library
 URL          : http://www.qt.io
 License      : LGPLv3 or LGPLv2
 Descript     : Qt5 Designer runtime library.
@@ -946,8 +946,8 @@ Descript     : Qt5 Designer runtime library.
 <summary>qt5-qtwayland</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Qt5 - Wayland platform support and QtCompositor module
+From repo    : anaconda
+Short desc   : Qt5 - Wayland platform support and QtCompositor module
 URL          : http://www.qt.io
 License      : LGPLv3
 Descript     : Qt5 - Wayland platform support and QtCompositor module.
@@ -959,8 +959,8 @@ Descript     : Qt5 - Wayland platform support and QtCompositor module.
 <summary>qt5-qtwayland</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Qt5 - Wayland platform support and QtCompositor module
+From repo    : updates-testing
+Short desc   : Qt5 - Wayland platform support and QtCompositor module
 URL          : http://www.qt.io
 License      : LGPLv3
 Descript     : Qt5 - Wayland platform support and QtCompositor module.
@@ -972,8 +972,8 @@ Descript     : Qt5 - Wayland platform support and QtCompositor module.
 <summary>qt5-qtwebchannel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 - WebChannel component
+From repo    : fedora
+Short desc   : Qt5 - WebChannel component
 URL          : http://qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : The Qt WebChannel module provides a library for seamless integration of C++
@@ -987,8 +987,8 @@ Descript     : The Qt WebChannel module provides a library for seamless integrat
 <summary>qt5-qtwebengine</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Qt5 - QtWebEngine components
+From repo    : updates-testing
+Short desc   : Qt5 - QtWebEngine components
 URL          : http://www.qt.io
 License      : (LGPLv2 with exceptions or GPLv3 with exceptions) and BSD and LGPLv2+ and ASL 2.0 and IJG and MIT and GPLv2+ and ISC and OpenSSL and (MPLv1.1 or GPLv2 or LGPLv2)
 Descript     : Qt5 - QtWebEngine components.
@@ -1000,8 +1000,8 @@ Descript     : Qt5 - QtWebEngine components.
 <summary>qt5-qtwebkit</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 - QtWebKit components
+From repo    : fedora
+Short desc   : Qt5 - QtWebKit components
 URL          : https://github.com/qtwebkit/qtwebkit
 License      : LGPLv2 and BSD
 Descript     : Qt5 - QtWebKit components
@@ -1013,8 +1013,8 @@ Descript     : Qt5 - QtWebKit components
 <summary>qt5-qtx11extras</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Qt5 - X11 support library
+From repo    : anaconda
+Short desc   : Qt5 - X11 support library
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : The X11 Extras module provides features specific to platforms using X11, e.g.
@@ -1028,8 +1028,8 @@ Descript     : The X11 Extras module provides features specific to platforms usi
 <summary>qt5-qtxmlpatterns</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Qt5 - QtXmlPatterns component
+From repo    : anaconda
+Short desc   : Qt5 - QtXmlPatterns component
 URL          : http://www.qt.io
 License      : LGPLv2 with exceptions or GPLv3 with exceptions
 Descript     : The Qt XML Patterns module provides support for XPath, XQuery, XSLT,
@@ -1042,8 +1042,8 @@ Descript     : The Qt XML Patterns module provides support for XPath, XQuery, XS
 <summary>qt5-rpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM macros for building Qt5 and KDE Frameworks 5 packages
+From repo    : fedora
+Short desc   : RPM macros for building Qt5 and KDE Frameworks 5 packages
 URL          : https://getfedora.org/
 License      : GPLv3
 Descript     : RPM macros for building Qt5 and KDE Frameworks 5 packages.
@@ -1055,8 +1055,8 @@ Descript     : RPM macros for building Qt5 and KDE Frameworks 5 packages.
 <summary>qt5-srpm-macros</summary>
 
 ```
-From repo     : fedora
-Short desc    : RPM macros for source Qt5 packages
+From repo    : fedora
+Short desc   : RPM macros for source Qt5 packages
 URL          : https://getfedora.org/
 License      : GPLv3
 Descript     : RPM macros for source Qt5 packages.
@@ -1068,8 +1068,8 @@ Descript     : RPM macros for source Qt5 packages.
 <summary>quazip</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt/C++ wrapper for the minizip library
+From repo    : fedora
+Short desc   : Qt/C++ wrapper for the minizip library
 URL          : https://github.com/stachenov/quazip
 License      : GPLv2+ or LGPLv2+
 Descript     : QuaZIP is a simple C++ wrapper over Gilles Vollant's ZIP/UNZIP package that
@@ -1089,8 +1089,8 @@ Descript     : QuaZIP is a simple C++ wrapper over Gilles Vollant's ZIP/UNZIP pa
 <summary>quazip-qt5</summary>
 
 ```
-From repo     : fedora
-Short desc    : Qt5 wrapper for the minizip library
+From repo    : fedora
+Short desc   : Qt5 wrapper for the minizip library
 URL          : https://github.com/stachenov/quazip
 License      : GPLv2+ or LGPLv2+
 Descript     : QuaZIP is a simple C++ wrapper over Gilles Vollant's ZIP/UNZIP package that
@@ -1111,8 +1111,8 @@ Descript     : QuaZIP is a simple C++ wrapper over Gilles Vollant's ZIP/UNZIP pa
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : System administration tools for monitoring users' disk usage
+From repo    : anaconda
+Short desc   : System administration tools for monitoring users' disk usage
 URL          : http://sourceforge.net/projects/linuxquota/
 License      : GPLv2 and GPLv2+
 Descript     : The quota package contains system administration tools for monitoring
@@ -1126,8 +1126,8 @@ Descript     : The quota package contains system administration tools for monito
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : System administration tools for monitoring users' disk usage
+From repo    : updates-testing
+Short desc   : System administration tools for monitoring users' disk usage
 URL          : http://sourceforge.net/projects/linuxquota/
 License      : GPLv2 and GPLv2+
 Descript     : The quota package contains system administration tools for monitoring
@@ -1141,8 +1141,8 @@ Descript     : The quota package contains system administration tools for monito
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Gettext catalogs for disk quota tools
+From repo    : anaconda
+Short desc   : Gettext catalogs for disk quota tools
 URL          : http://sourceforge.net/projects/linuxquota/
 License      : LGPLv2+ and GPLv2 and GPLv2+
 Descript     : Disk quota tools messages translated into different natural languages.
@@ -1155,8 +1155,8 @@ Descript     : Disk quota tools messages translated into different natural langu
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Gettext catalogs for disk quota tools
+From repo    : updates-testing
+Short desc   : Gettext catalogs for disk quota tools
 URL          : http://sourceforge.net/projects/linuxquota/
 License      : LGPLv2+ and GPLv2 and GPLv2+
 Descript     : Disk quota tools messages translated into different natural languages.

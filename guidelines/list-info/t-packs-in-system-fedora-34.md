@@ -4,8 +4,8 @@
 <summary>taglib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Audio Meta-Data Library
+From repo    : anaconda
+Short desc   : Audio Meta-Data Library
 URL          : http://taglib.github.io/
 License      : LGPLv2 or MPLv1.1
 Descript     : TagLib is a library for reading and editing the meta-data of several
@@ -20,8 +20,8 @@ Descript     : TagLib is a library for reading and editing the meta-data of seve
 <summary>taglib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Audio Meta-Data Library
+From repo    : fedora
+Short desc   : Audio Meta-Data Library
 URL          : http://taglib.github.io/
 License      : LGPLv2 or MPLv1.1
 Descript     : TagLib is a library for reading and editing the meta-data of several
@@ -37,8 +37,8 @@ Descript     : TagLib is a library for reading and editing the meta-data of seve
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : GNU file archiving program
+From repo    : anaconda
+Short desc   : GNU file archiving program
 URL          : https://www.gnu.org/software/tar/
 License      : GPLv3+
 Descript     : The GNU tar program saves many files together in one archive and can
@@ -59,8 +59,8 @@ Descript     : The GNU tar program saves many files together in one archive and 
 <summary>tbb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Threading Building Blocks library abstracts low-level threading details
+From repo    : anaconda
+Short desc   : The Threading Building Blocks library abstracts low-level threading details
 URL          : http://threadingbuildingblocks.org/
 License      : ASL 2.0
 Descript     : Threading Building Blocks (TBB) is a C++ runtime library that
@@ -81,8 +81,8 @@ Descript     : Threading Building Blocks (TBB) is a C++ runtime library that
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Tool Command Language, pronounced tickle
+From repo    : anaconda
+Short desc   : Tool Command Language, pronounced tickle
 URL          : http://tcl.sourceforge.net/
 License      : TCL
 Descript     : The Tcl (Tool Command Language) provides a powerful platform for
@@ -100,8 +100,8 @@ Descript     : The Tcl (Tool Command Language) provides a powerful platform for
 <summary>tcl-brlapi</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl binding for BrlAPI
+From repo    : fedora
+Short desc   : Tcl binding for BrlAPI
 URL          : http://brltty.app/
 License      : LGPLv2+
 Descript     : This package provides the Tcl binding for BrlAPI.
@@ -114,8 +114,8 @@ Descript     : This package provides the Tcl binding for BrlAPI.
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Tcl scripting language development environment
+From repo    : fedora
+Short desc   : Tcl scripting language development environment
 URL          : http://tcl.sourceforge.net/
 License      : TCL
 Descript     : The Tcl (Tool Command Language) provides a powerful platform for
@@ -136,8 +136,8 @@ Descript     : The Tcl (Tool Command Language) provides a powerful platform for
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Tcl documentation
+From repo    : fedora
+Short desc   : Tcl documentation
 URL          : http://tcl.sourceforge.net/
 License      : TCL
 Descript     : TCL documentation.
@@ -149,8 +149,8 @@ Descript     : TCL documentation.
 <summary>tcl-hamlib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Hamlib radio control library TCL binding
+From repo    : fedora
+Short desc   : Hamlib radio control library TCL binding
 URL          : http://www.hamlib.org
 License      : GPLv2+ and LGPLv2+
 Descript     : Hamlib TCL Language bindings to allow radio control from TCL scripts.
@@ -162,8 +162,8 @@ Descript     : Hamlib TCL Language bindings to allow radio control from TCL scri
 <summary>tcl-html</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl/Tk manual in html format
+From repo    : fedora
+Short desc   : Tcl/Tk manual in html format
 URL          : http://tcl.sourceforge.net/
 License      : TCL
 Descript     : Tcl/Tk is a powerful scripting language and GUI toolkit.
@@ -177,8 +177,8 @@ Descript     : Tcl/Tk is a powerful scripting language and GUI toolkit.
 <summary>tcl-iaxclient</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl interface to iax2 client lib
+From repo    : fedora
+Short desc   : Tcl interface to iax2 client lib
 URL          : http://iaxclient.wiki.sourceforge.net/
 License      : BSD
 Descript     : Tcl extensions to iaxclient libraries.
@@ -190,8 +190,8 @@ Descript     : Tcl extensions to iaxclient libraries.
 <summary>tcl-ming</summary>
 
 ```
-From repo     : fedora
-Short desc    : A TCL module for generating Macromedia Flash files using the Ming library
+From repo    : fedora
+Short desc   : A TCL module for generating Macromedia Flash files using the Ming library
 URL          : http://www.libming.org/
 License      : LGPLv2+ and GPLv2+ and MIT and GPL+ or Artistic
 Descript     : A TCL module for generating Macromedia Flash files using the Ming library.
@@ -203,8 +203,8 @@ Descript     : A TCL module for generating Macromedia Flash files using the Ming
 <summary>tcl-mysqltcl</summary>
 
 ```
-From repo     : fedora
-Short desc    : MySQL interface for Tcl
+From repo    : fedora
+Short desc   : MySQL interface for Tcl
 URL          : http://www.xdobry.de/mysqltcl
 License      : MIT
 Descript     : Mysqltcl is an extension to the Tool Command Language (Tcl) that
@@ -217,8 +217,8 @@ Descript     : Mysqltcl is an extension to the Tool Command Language (Tcl) that
 <summary>tcl-pgplot</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : Tcl/Tk driver for pgplot
+From repo    : rpmfusion-nonfree
+Short desc   : Tcl/Tk driver for pgplot
 URL          : http://www.astro.caltech.edu/~tjp/pgplot
 License      : freely available for non-commercial use
 Descript     : Tcl/Tk driver for pgplot
@@ -230,8 +230,8 @@ Descript     : Tcl/Tk driver for pgplot
 <summary>tcl-pgplot-devel</summary>
 
 ```
-From repo     : rpmfusion-nonfree
-Short desc    : Tcl/Tk driver for pgplot devel files
+From repo    : rpmfusion-nonfree
+Short desc   : Tcl/Tk driver for pgplot devel files
 URL          : http://www.astro.caltech.edu/~tjp/pgplot
 License      : freely available for non-commercial use
 Descript     : Libraries, includes, etc. used to develop an application using
@@ -244,8 +244,8 @@ Descript     : Libraries, includes, etc. used to develop an application using
 <summary>tcl-pgtcl</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Tcl client library for PostgreSQL
+From repo    : fedora
+Short desc   : A Tcl client library for PostgreSQL
 URL          : http://sourceforge.net/projects/pgtclng/
 License      : PostgreSQL
 Descript     : PostgreSQL is an advanced Object-Relational database management system.
@@ -259,8 +259,8 @@ Descript     : PostgreSQL is an advanced Object-Relational database management s
 <summary>tcl-signal</summary>
 
 ```
-From repo     : fedora
-Short desc    : This extension adds dynamically loadable signal handling to Tcl/Tk scripts
+From repo    : fedora
+Short desc   : This extension adds dynamically loadable signal handling to Tcl/Tk scripts
 URL          : http://www.nyx.net/~mschwart/signal_ext.html
 License      : MIT
 Descript     : This extension adds dynamically loadable signal handling to Tcl/Tk scripts.
@@ -275,8 +275,8 @@ Descript     : This extension adds dynamically loadable signal handling to Tcl/T
 <summary>tcl-snack</summary>
 
 ```
-From repo     : fedora
-Short desc    : Sound toolkit
+From repo    : fedora
+Short desc   : Sound toolkit
 URL          : http://www.speech.kth.se/snack/
 License      : GPLv2+ and TCL and BSD
 Descript     : The Snack Sound Toolkit is designed to be used with a scripting language such
@@ -300,8 +300,8 @@ Descript     : The Snack Sound Toolkit is designed to be used with a scripting l
 <summary>tcl-snack-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for Snack Sound Toolkit
+From repo    : fedora
+Short desc   : Development files for Snack Sound Toolkit
 URL          : http://www.speech.kth.se/snack/
 License      : GPLv2+ and TCL and BSD
 Descript     : This package contains development files for the Snack Sound Toolkit.
@@ -313,8 +313,8 @@ Descript     : This package contains development files for the Snack Sound Toolk
 <summary>tcl-tclnagios</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library to assist with writing Nagios plugins in Tcl
+From repo    : fedora
+Short desc   : Library to assist with writing Nagios plugins in Tcl
 URL          : https://github.com/gitwart/tclnagios
 License      : LGPLv2
 Descript     : A set of library functions to make it easier to write Nagios plugins in Tcl.
@@ -326,8 +326,8 @@ Descript     : A set of library functions to make it easier to write Nagios plug
 <summary>tcl-tclreadline</summary>
 
 ```
-From repo     : fedora
-Short desc    : GNU Readline extension for Tcl/Tk
+From repo    : fedora
+Short desc   : GNU Readline extension for Tcl/Tk
 URL          : http://tclreadline.sourceforge.net/
 License      : BSD
 Descript     : The tclreadline package makes the GNU Readline library available
@@ -344,8 +344,8 @@ Descript     : The tclreadline package makes the GNU Readline library available
 <summary>tcl-tclreadline-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the tclreadline library
+From repo    : fedora
+Short desc   : Development files for the tclreadline library
 URL          : http://tclreadline.sourceforge.net/
 License      : BSD
 Descript     : The tclreadline-devel package includes the header file and library
@@ -358,8 +358,8 @@ Descript     : The tclreadline-devel package includes the header file and librar
 <summary>tcl-tcludp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl extension for UDP support
+From repo    : fedora
+Short desc   : Tcl extension for UDP support
 URL          : http://sourceforge.net/projects/tcludp
 License      : MIT
 Descript     : The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
@@ -371,8 +371,8 @@ Descript     : The Tcl UDP extension provides a simple library to support UDP so
 <summary>tcl-tclvfs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl extension for Virtual Filesystem support
+From repo    : fedora
+Short desc   : Tcl extension for Virtual Filesystem support
 URL          : http://sourceforge.net/projects/tclvfs
 License      : MIT
 Descript     : The TclVfs project aims to provide an extension to the Tcl language which
@@ -387,8 +387,8 @@ Descript     : The TclVfs project aims to provide an extension to the Tcl langua
 <summary>tcl-tclxml</summary>
 
 ```
-From repo     : fedora
-Short desc    : XML parsing library for the Tcl scripting language
+From repo    : fedora
+Short desc   : XML parsing library for the Tcl scripting language
 URL          : http://tclxml.sourceforge.net/
 License      : BSD
 Descript     : TclXML is a package that provides XML, DOM, and XSLT parsing for the
@@ -401,8 +401,8 @@ Descript     : TclXML is a package that provides XML, DOM, and XSLT parsing for 
 <summary>tcl-tclxml-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for the tclxml packages
+From repo    : fedora
+Short desc   : Development files for the tclxml packages
 URL          : http://tclxml.sourceforge.net/
 License      : BSD
 Descript     : Development header files for the tclxml packages.  This includes all of the
@@ -415,8 +415,8 @@ Descript     : Development header files for the tclxml packages.  This includes 
 <summary>tcl-tclxml-gui</summary>
 
 ```
-From repo     : fedora
-Short desc    : UI widgets for manipulating a DOM tree
+From repo    : fedora
+Short desc   : UI widgets for manipulating a DOM tree
 URL          : http://tclxml.sourceforge.net/
 License      : BSD
 Descript     : This package provides some useful widgets for manipulating a DOM tree.
@@ -428,8 +428,8 @@ Descript     : This package provides some useful widgets for manipulating a DOM 
 <summary>tcl-thread</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl Thread extension
+From repo    : fedora
+Short desc   : Tcl Thread extension
 URL          : http://tcl.sourceforge.net
 License      : TCL
 Descript     : Thread extension for the Tcl toolkit.  You can use this extension to gain
@@ -442,8 +442,8 @@ Descript     : Thread extension for the Tcl toolkit.  You can use this extension
 <summary>tcl-thread-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Include files and mandatory libraries for development
+From repo    : fedora
+Short desc   : Include files and mandatory libraries for development
 URL          : http://tcl.sourceforge.net
 License      : TCL
 Descript     : Include files and mandatory libraries for development.
@@ -455,8 +455,8 @@ Descript     : Include files and mandatory libraries for development.
 <summary>tcl-tileqt</summary>
 
 ```
-From repo     : fedora
-Short desc    : QT widget support for Tile Toolkit
+From repo    : fedora
+Short desc   : QT widget support for Tile Toolkit
 URL          : http://www.ellogon.org/petasis/index.php?option=com_content&task=view&id=24&Itemid=40
 License      : MIT
 Descript     : TileQt is a theme for the tile toolkit, which uses the Qt/KDE style engine to
@@ -470,8 +470,8 @@ Descript     : TileQt is a theme for the tile toolkit, which uses the Qt/KDE sty
 <summary>tcl-tkpng</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl/Tk support for PNG
+From repo    : fedora
+Short desc   : Tcl/Tk support for PNG
 URL          : http://www.muonics.com/FreeStuff/TkPNG/
 License      : TCL
 Descript     : TkPNG is an open source package that adds PNG photo image support to Tcl/Tk.
@@ -489,8 +489,8 @@ Descript     : TkPNG is an open source package that adds PNG photo image support
 <summary>tcl-tktreectrl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Multi-column hierarchical listbox widget for Tk
+From repo    : fedora
+Short desc   : Multi-column hierarchical listbox widget for Tk
 URL          : http://tktreectrl.sourceforge.net/
 License      : TCL
 Descript     : TkTreeCtrl is a flexible listbox widget for Tk.
@@ -502,8 +502,8 @@ Descript     : TkTreeCtrl is a flexible listbox widget for Tk.
 <summary>tcl-togl</summary>
 
 ```
-From repo     : fedora
-Short desc    : A Tk OpenGL widget
+From repo    : fedora
+Short desc   : A Tk OpenGL widget
 URL          : http://togl.sourceforge.net/
 License      : BSD
 Descript     : Togl is a Tk widget for OpenGL rendering
@@ -515,8 +515,8 @@ Descript     : Togl is a Tk widget for OpenGL rendering
 <summary>tcl-togl-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for tcl-togl
+From repo    : fedora
+Short desc   : Development files for tcl-togl
 URL          : http://togl.sourceforge.net/
 License      : BSD
 Descript     : Development files for tcl-togl.
@@ -528,8 +528,8 @@ Descript     : Development files for tcl-togl.
 <summary>tcl-trf</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl extension providing "transformer" commands
+From repo    : fedora
+Short desc   : Tcl extension providing "transformer" commands
 URL          : http://tcltrf.sourceforge.net
 License      : MIT and BSD and LGPLv2+ and GPLv2+ and Public Domain and OpenSSL
 Descript     : Trf is an extension library to the script language tcl. It provides
@@ -548,8 +548,8 @@ Descript     : Trf is an extension library to the script language tcl. It provid
 <summary>tcl-trf-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for tcl-trf
+From repo    : fedora
+Short desc   : Development files for tcl-trf
 URL          : http://tcltrf.sourceforge.net
 License      : MIT and BSD and LGPLv2+ and GPLv2+ and Public Domain and OpenSSL
 Descript     : Development files for tcl-trf.
@@ -561,8 +561,8 @@ Descript     : Development files for tcl-trf.
 <summary>tcl-xapian</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Files needed for developing TCL scripts which use Xapian
+From repo    : updates-testing
+Short desc   : Files needed for developing TCL scripts which use Xapian
 URL          : https://www.xapian.org/
 License      : GPLv2+
 Descript     : Xapian is an Open Source Probabilistic Information Retrieval framework. It
@@ -577,8 +577,8 @@ Descript     : Xapian is an Open Source Probabilistic Information Retrieval fram
 <summary>tcl-zlib</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl extension for zlib support
+From repo    : fedora
+Short desc   : Tcl extension for zlib support
 URL          : http://svn.scheffers.net/
 License      : MIT
 Descript     : This is extension is a standalone version of the tclkit [zlib]
@@ -591,8 +591,8 @@ Descript     : This is extension is a standalone version of the tclkit [zlib]
 <summary>tcl-zlib-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for tcl-zlib
+From repo    : fedora
+Short desc   : Development files for tcl-zlib
 URL          : http://svn.scheffers.net/
 License      : MIT
 Descript     : Development files for tcl-zlib.
@@ -604,8 +604,8 @@ Descript     : Development files for tcl-zlib.
 <summary>tclap</summary>
 
 ```
-From repo     : fedora
-Short desc    : Template-Only Command Line Argument Parser
+From repo    : fedora
+Short desc   : Template-Only Command Line Argument Parser
 URL          : http://tclap.sourceforge.net
 License      : MIT
 Descript     : tclap is a small, flexible library that provides a simple interface for
@@ -630,8 +630,8 @@ Descript     : tclap is a small, flexible library that provides a simple interfa
 <summary>tclap-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : API Documentation for tclap
+From repo    : fedora
+Short desc   : API Documentation for tclap
 URL          : http://tclap.sourceforge.net
 License      : MIT
 Descript     : API documentation for the Template-Only Command Line Argument Parser library
@@ -643,8 +643,8 @@ Descript     : API documentation for the Template-Only Command Line Argument Par
 <summary>tcllib</summary>
 
 ```
-From repo     : fedora
-Short desc    : The standard Tcl library
+From repo    : fedora
+Short desc   : The standard Tcl library
 URL          : http://tcllib.sourceforge.net/
 License      : BSD
 Descript     : Tcllib, the Tcl Standard Library is a collection of Tcl packages
@@ -658,8 +658,8 @@ Descript     : Tcllib, the Tcl Standard Library is a collection of Tcl packages
 <summary>tclspice</summary>
 
 ```
-From repo     : fedora
-Short desc    : Tcl/Tk interface for ngspice
+From repo    : fedora
+Short desc   : Tcl/Tk interface for ngspice
 URL          : http://ngspice.sourceforge.net
 License      : BSD
 Descript     : TclSpice is an improved version of Berkeley Spice designed to be used with
@@ -673,8 +673,8 @@ Descript     : TclSpice is an improved version of Berkeley Spice designed to be 
 <summary>tcltls</summary>
 
 ```
-From repo     : fedora
-Short desc    : OpenSSL extension for Tcl
+From repo    : fedora
+Short desc   : OpenSSL extension for Tcl
 URL          : https://core.tcl.tk/tcltls/home
 License      : BSD
 Descript     : A TLS OpenSSL extension for Tcl
@@ -686,8 +686,8 @@ Descript     : A TLS OpenSSL extension for Tcl
 <summary>tcltls-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Header files for the OpenSSL extension for Tcl
+From repo    : fedora
+Short desc   : Header files for the OpenSSL extension for Tcl
 URL          : https://core.tcl.tk/tcltls/home
 License      : BSD
 Descript     : The TLS OpenSSL extension to Tcl
@@ -701,8 +701,8 @@ Descript     : The TLS OpenSSL extension to Tcl
 <summary>tclx</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extensions for Tcl and Tk
+From repo    : fedora
+Short desc   : Extensions for Tcl and Tk
 URL          : http://tclx.sourceforge.net/
 License      : BSD
 Descript     : Extended Tcl (TclX) is a set of extensions to the Tcl programming language.
@@ -718,8 +718,8 @@ Descript     : Extended Tcl (TclX) is a set of extensions to the Tcl programming
 <summary>tclx-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Extended Tcl development files
+From repo    : fedora
+Short desc   : Extended Tcl development files
 URL          : http://tclx.sourceforge.net/
 License      : BSD
 Descript     : This package contains the tclx development files needed for building
@@ -733,8 +733,8 @@ Descript     : This package contains the tclx development files needed for build
 
 ```
 Эпоха        : 14
-From repo     : updates-testing
-Short desc    : A network traffic monitoring tool
+From repo    : updates-testing
+Short desc   : A network traffic monitoring tool
 URL          : http://www.tcpdump.org
 License      : BSD with advertising
 Descript     : Tcpdump is a command-line tool for monitoring network traffic.
@@ -751,8 +751,8 @@ Descript     : Tcpdump is a command-line tool for monitoring network traffic.
 <summary>teamd</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Team network device control daemon
+From repo    : anaconda
+Short desc   : Team network device control daemon
 URL          : http://www.libteam.org
 License      : LGPLv2+
 Descript     : The teamd package contains team network device control daemon.
@@ -764,8 +764,8 @@ Descript     : The teamd package contains team network device control daemon.
 <summary>teckit</summary>
 
 ```
-From repo     : fedora
-Short desc    : Conversion library and mapping compiler
+From repo    : fedora
+Short desc   : Conversion library and mapping compiler
 URL          : https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=teckit
 License      : (LGPLv2+ or CPL) and (LGPLv2+ or GPLv2+ or MPLv2.0 or MPLv1.1)
 Descript     : TECkit is a low-level toolkit intended to be used by other applications that
@@ -783,8 +783,8 @@ Descript     : TECkit is a low-level toolkit intended to be used by other applic
 <summary>telepathy-glib</summary>
 
 ```
-From repo     : fedora
-Short desc    : GLib bindings for Telepathy
+From repo    : fedora
+Short desc   : GLib bindings for Telepathy
 URL          : http://telepathy.freedesktop.org/wiki/FrontPage
 License      : LGPLv2+
 Descript     : Telepathy-glib is the glib bindings for the telepathy unified framework
@@ -798,8 +798,8 @@ Descript     : Telepathy-glib is the glib bindings for the telepathy unified fra
 <summary>telepathy-glib-vala</summary>
 
 ```
-From repo     : fedora
-Short desc    : Vala bindings for telepathy-glib
+From repo    : fedora
+Short desc   : Vala bindings for telepathy-glib
 URL          : http://telepathy.freedesktop.org/wiki/FrontPage
 License      : LGPLv2+
 Descript     : Vala bindings for telepathy-glib.
@@ -811,8 +811,8 @@ Descript     : Vala bindings for telepathy-glib.
 <summary>template-glib</summary>
 
 ```
-From repo     : fedora
-Short desc    : A templating library for GLib
+From repo    : fedora
+Short desc   : A templating library for GLib
 URL          : https://git.gnome.org/browse/template-glib/
 License      : LGPLv2+
 Descript     : Template-GLib is a templating library for GLib. It includes a simple template
@@ -828,8 +828,8 @@ Descript     : Template-GLib is a templating library for GLib. It includes a sim
 <summary>tepl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Text editor product line
+From repo    : anaconda
+Short desc   : Text editor product line
 URL          : https://wiki.gnome.org/Projects/Tepl
 License      : LGPLv2+
 Descript     : Tepl is a library that eases the development of GtkSourceView-based text
@@ -842,8 +842,8 @@ Descript     : Tepl is a library that eases the development of GtkSourceView-bas
 <summary>tepl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Text editor product line
+From repo    : updates-testing
+Short desc   : Text editor product line
 URL          : https://wiki.gnome.org/Projects/Tepl
 License      : LGPLv2+
 Descript     : Tepl is a library that eases the development of GtkSourceView-based text
@@ -856,8 +856,8 @@ Descript     : Tepl is a library that eases the development of GtkSourceView-bas
 <summary>tesseract</summary>
 
 ```
-From repo     : fedora
-Short desc    : Raw OCR Engine
+From repo    : fedora
+Short desc   : Raw OCR Engine
 URL          : https://github.com/tesseract-ocr/tesseract
 License      : ASL 2.0
 Descript     : A commercial quality OCR engine originally developed at HP between 1985 and
@@ -871,8 +871,8 @@ Descript     : A commercial quality OCR engine originally developed at HP betwee
 <summary>tesseract-langpack-eng</summary>
 
 ```
-From repo     : fedora
-Short desc    : English language data for tesseract-tessdata
+From repo    : fedora
+Short desc   : English language data for tesseract-tessdata
 URL          : https://github.com/tesseract-ocr/tessdata_fast
 License      : ASL 2.0
 Descript     : This package contains the fast integer version of the English language
@@ -885,8 +885,8 @@ Descript     : This package contains the fast integer version of the English lan
 <summary>tesseract-langpack-rus</summary>
 
 ```
-From repo     : fedora
-Short desc    : Russian language data for tesseract-tessdata
+From repo    : fedora
+Short desc   : Russian language data for tesseract-tessdata
 URL          : https://github.com/tesseract-ocr/tessdata_fast
 License      : ASL 2.0
 Descript     : This package contains the fast integer version of the Russian language
@@ -899,8 +899,8 @@ Descript     : This package contains the fast integer version of the Russian lan
 <summary>tesseract-tessdata-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Documentation for tesseract-tessdata
+From repo    : fedora
+Short desc   : Documentation for tesseract-tessdata
 URL          : https://github.com/tesseract-ocr/tessdata_fast
 License      : ASL 2.0
 Descript     : The tesseract-tessdata-doc package contains the documentation for tesseract-tessdata.
@@ -912,8 +912,8 @@ Descript     : The tesseract-tessdata-doc package contains the documentation for
 <summary>testdisk</summary>
 
 ```
-From repo     : fedora
-Short desc    : Программа для проверки и восстановления разделов диска
+From repo    : fedora
+Short desc   : Программа для проверки и восстановления разделов диска
 URL          : https://www.cgsecurity.org/wiki/TestDisk
 License      : GPLv2+
 Descript     : Программа для проверки и восстановления разделов диска.
@@ -931,8 +931,8 @@ Descript     : Программа для проверки и восстанов�
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Graphics package-alike macros for "general" boxes
+From repo    : updates-testing
+Short desc   : Graphics package-alike macros for "general" boxes
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides several macros to adjust boxed content.
@@ -957,8 +957,8 @@ Descript     : The package provides several macros to adjust boxed content.
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Virtual fonts for T1 encoded CMR-fonts
+From repo    : updates-testing
+Short desc   : Virtual fonts for T1 encoded CMR-fonts
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : A set of virtual fonts which emulates T1 coded fonts using the
@@ -978,8 +978,8 @@ Descript     : A set of virtual fonts which emulates T1 coded fonts using the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A suite of tools for typesetting algorithms in pseudo-code
+From repo    : updates-testing
+Short desc   : A suite of tools for typesetting algorithms in pseudo-code
 URL          : http://tug.org/texlive/
 License      : LGPLv2+
 Descript     : Consists of two environments: algorithm and algorithmic. The
@@ -996,8 +996,8 @@ Descript     : Consists of two environments: algorithm and algorithmic. The
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Convert numbers to letters
+From repo    : updates-testing
+Short desc   : Convert numbers to letters
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Provides commands \alphalph and \AlphAlph. They are like
@@ -1014,8 +1014,8 @@ Descript     : Provides commands \alphalph and \AlphAlph. They are like
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : AMS document classes for LaTeX
+From repo    : updates-testing
+Short desc   : AMS document classes for LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This bundle contains three AMS classes, amsart (for writing
@@ -1032,8 +1032,8 @@ Descript     : This bundle contains three AMS classes, amsart (for writing
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : TeX fonts from the American Mathematical Society
+From repo    : updates-testing
+Short desc   : TeX fonts from the American Mathematical Society
 URL          : http://tug.org/texlive/
 License      : OFL
 Descript     : An extended set of fonts for use in mathematics, including:
@@ -1056,8 +1056,8 @@ Descript     : An extended set of fonts for use in mathematics, including:
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : AMS mathematical facilities for LaTeX
+From repo    : updates-testing
+Short desc   : AMS mathematical facilities for LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides the principal packages in the AMS-LaTeX
@@ -1081,8 +1081,8 @@ Descript     : The package provides the principal packages in the AMS-LaTeX
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A simple package to set up document margins
+From repo    : updates-testing
+Short desc   : A simple package to set up document margins
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : This package is considered obsolete; alternatives are the
@@ -1097,8 +1097,8 @@ Descript     : This package is considered obsolete; alternatives are the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Execute stuff at \shipout time
+From repo    : updates-testing
+Short desc   : Execute stuff at \shipout time
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package is a modern reimplementation of package everyshi,
@@ -1115,8 +1115,8 @@ Descript     : This package is a modern reimplementation of package everyshi,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Attach arbitrary files to a PDF document
+From repo    : updates-testing
+Short desc   : Attach arbitrary files to a PDF document
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Starting with PDF 1.3 (Adobe Acrobat 4.0), PDF files can
@@ -1140,8 +1140,8 @@ Descript     : Starting with PDF 1.3 (Adobe Acrobat 4.0), PDF files can
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : Attach files into PDF
+From repo    : fedora
+Short desc   : Attach files into PDF
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package can be used to attach files to a PDF document. It
@@ -1158,8 +1158,8 @@ Descript     : This package can be used to attach files to a PDF document. It
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Hooks at the very end of a document
+From repo    : updates-testing
+Short desc   : Hooks at the very end of a document
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This LaTeX packages provides two hooks for \end{document} that
@@ -1177,8 +1177,8 @@ Descript     : This LaTeX packages provides two hooks for \end{document} that
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Wrapper for pst-pdf (with some psfrag features)
+From repo    : updates-testing
+Short desc   : Wrapper for pst-pdf (with some psfrag features)
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package uses --shell-escape to execute pst-pdf when
@@ -1197,8 +1197,8 @@ Descript     : The package uses --shell-escape to execute pst-pdf when
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Hooks for auxiliary files
+From repo    : updates-testing
+Short desc   : Hooks for auxiliary files
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package auxhook provides hooks for adding stuff at the
@@ -1212,8 +1212,8 @@ Descript     : This package auxhook provides hooks for adding stuff at the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -1235,8 +1235,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Multilingual support for Plain TeX or LaTeX
+From repo    : updates-testing
+Short desc   : Multilingual support for Plain TeX or LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package manages culturally-determined typographical (and
@@ -1258,8 +1258,8 @@ Descript     : This package manages culturally-determined typographical (and
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Babel support for English
+From repo    : updates-testing
+Short desc   : Babel support for English
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides the language definition file for support
@@ -1275,8 +1275,8 @@ Descript     : The package provides the language definition file for support
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Multilingual bibliographies
+From repo    : updates-testing
+Short desc   : Multilingual bibliographies
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package enables to generate multilingual bibliographies in
@@ -1294,8 +1294,8 @@ Descript     : This package enables to generate multilingual bibliographies in
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : TeX formatting system
+From repo    : fedora
+Short desc   : TeX formatting system
 URL          : http://tug.org/texlive/
 License      : ASL 2.0 and Artistic 2.0 and BSD and GFDL and GPL+ and GPLv2 and GPLv3 and Knuth and LGPLv2+ and LGPLv3+ and LPPL and OFL and Public Domain
 Descript     : The TeX Live software distribution offers a complete TeX system for a
@@ -1315,8 +1315,8 @@ Descript     : The TeX Live software distribution offers a complete TeX system f
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A LaTeX class for producing presentations and slides
+From repo    : updates-testing
+Short desc   : A LaTeX class for producing presentations and slides
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The beamer LaTeX class can be used for producing slides. The
@@ -1344,8 +1344,8 @@ Descript     : The beamer LaTeX class can be used for producing slides. The
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Bera fonts
+From repo    : updates-testing
+Short desc   : Bera fonts
 URL          : http://tug.org/texlive/
 License      : Bitstream vera
 Descript     : The package contains the Bera Type 1 fonts, and a zip archive
@@ -1363,8 +1363,8 @@ Descript     : The package contains the Bera Type 1 fonts, and a zip archive
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Use Concrete fonts
+From repo    : updates-testing
+Short desc   : Use Concrete fonts
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Typeset a LaTeX2e document with the Concrete fonts designed by
@@ -1378,8 +1378,8 @@ Descript     : Typeset a LaTeX2e document with the Concrete fonts designed by
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Sophisticated Bibliographies in LaTeX
+From repo    : updates-testing
+Short desc   : Sophisticated Bibliographies in LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : BibLaTeX is a complete reimplementation of the bibliographic
@@ -1422,8 +1422,8 @@ Descript     : BibLaTeX is a complete reimplementation of the bibliographic
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : Process bibliographies for LaTeX, etc
+From repo    : fedora
+Short desc   : Process bibliographies for LaTeX, etc
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : BibTeX allows the user to store his citation data in generic
@@ -1448,8 +1448,8 @@ Descript     : BibTeX allows the user to store his citation data in generic
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Bidirectional typesetting in plain TeX and LaTeX, using XeTeX engine
+From repo    : updates-testing
+Short desc   : Bidirectional typesetting in plain TeX and LaTeX, using XeTeX engine
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : A convenient interface for typesetting bidirectional texts with
@@ -1464,8 +1464,8 @@ Descript     : A convenient interface for typesetting bidirectional texts with
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Integer calculations on very large numbers
+From repo    : updates-testing
+Short desc   : Integer calculations on very large numbers
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides expandable arithmetic operations with big
@@ -1479,8 +1479,8 @@ Descript     : This package provides expandable arithmetic operations with big
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Handle bit-vector datatype
+From repo    : updates-testing
+Short desc   : Handle bit-vector datatype
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package defines and implements the data type bit set, a
@@ -1495,8 +1495,8 @@ Descript     : This package defines and implements the data type bit set, a
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -1518,8 +1518,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A new bookmark (outline) organization for hyperref
+From repo    : updates-testing
+Short desc   : A new bookmark (outline) organization for hyperref
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package implements a new bookmark (outline) organization
@@ -1536,8 +1536,8 @@ Descript     : This package implements a new bookmark (outline) organization
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Publication quality tables in LaTeX
+From repo    : updates-testing
+Short desc   : Publication quality tables in LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : The package enhances the quality of tables in LaTeX, providing
@@ -1554,8 +1554,8 @@ Descript     : The package enhances the quality of tables in LaTeX, providing
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Line-breakable \url-like links in hyperref when compiling via dvips/ps2pdf
+From repo    : updates-testing
+Short desc   : Line-breakable \url-like links in hyperref when compiling via dvips/ps2pdf
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package provides a command much like hyperref's \url that
@@ -1573,8 +1573,8 @@ Descript     : This package provides a command much like hyperref's \url that
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Automatic line breaking of displayed equations
+From repo    : updates-testing
+Short desc   : Automatic line breaking of displayed equations
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides solutions to a number of common
@@ -1600,8 +1600,8 @@ Descript     : The package provides solutions to a number of common
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Customising captions in floating environments
+From repo    : updates-testing
+Short desc   : Customising captions in floating environments
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The caption package provides many ways to customise the
@@ -1622,8 +1622,8 @@ Descript     : The caption package provides many ways to customise the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : David Carlisle's small packages
+From repo    : updates-testing
+Short desc   : David Carlisle's small packages
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Many of David Carlisle's more substantial packages stand on
@@ -1646,8 +1646,8 @@ Descript     : Many of David Carlisle's more substantial packages stand on
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Catch an external file into a macro
+From repo    : updates-testing
+Short desc   : Catch an external file into a macro
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package catches the contents of a file and puts it in a
@@ -1662,8 +1662,8 @@ Descript     : This package catches the contents of a file and puts it in a
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Margin adjustment and detection of odd/even pages
+From repo    : updates-testing
+Short desc   : Margin adjustment and detection of odd/even pages
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides commands to change the page layout in the
@@ -1682,8 +1682,8 @@ Descript     : The package provides commands to change the page layout in the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Charter fonts
+From repo    : updates-testing
+Short desc   : Charter fonts
 URL          : http://tug.org/texlive/
 License      : Copyright only
 Descript     : A commercial text font donated for the common good. Support for
@@ -1697,8 +1697,8 @@ Descript     : A commercial text font donated for the common good. Support for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Improved citation handling in LaTeX
+From repo    : updates-testing
+Short desc   : Improved citation handling in LaTeX
 URL          : http://tug.org/texlive/
 License      : Copyright only
 Descript     : The package supports compressed, sorted lists of numerical
@@ -1716,8 +1716,8 @@ Descript     : The package supports compressed, sorted lists of numerical
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Computer Modern fonts
+From repo    : updates-testing
+Short desc   : Computer Modern fonts
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : Knuth's final iteration of his re-interpretation of a c.19
@@ -1739,8 +1739,8 @@ Descript     : Knuth's final iteration of his re-interpretation of a c.19
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : CM-Super family of fonts
+From repo    : updates-testing
+Short desc   : CM-Super family of fonts
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : The CM-Super family provides Adobe Type 1 fonts that replace
@@ -1758,8 +1758,8 @@ Descript     : The CM-Super family provides Adobe Type 1 fonts that replace
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Make PDF files searchable and copyable
+From repo    : updates-testing
+Short desc   : Make PDF files searchable and copyable
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The cmap package provides character map tables, which make PDF
@@ -1780,8 +1780,8 @@ Descript     : The cmap package provides character map tables, which make PDF
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Knuth's local information
+From repo    : updates-testing
+Short desc   : Knuth's local information
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : A collection of experimental programs and developments based
@@ -1796,8 +1796,8 @@ Descript     : A collection of experimental programs and developments based
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Collect and process macro arguments as boxes
+From repo    : updates-testing
+Short desc   : Collect and process macro arguments as boxes
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides macros to collect and process a macro
@@ -1819,8 +1819,8 @@ Descript     : The package provides macros to collect and process a macro
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Essential programs and files
+From repo    : updates-testing
+Short desc   : Essential programs and files
 URL          : http://tug.org/texlive/
 License      : Artistic 2.0 and CC-BY and CC-BY-SA and GPLv2 and GPLv2+ and GPLv3+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia
 Descript     : These files are regarded as basic for any TeX system, covering
@@ -1835,8 +1835,8 @@ Descript     : These files are regarded as basic for any TeX system, covering
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Recommended fonts
+From repo    : updates-testing
+Short desc   : Recommended fonts
 URL          : http://tug.org/texlive/
 License      : Artistic 2.0 and CC-BY and CC-BY-SA and GPLv2 and GPLv2+ and GPLv3+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia
 Descript     : Recommended fonts, including the base 35 PostScript fonts,
@@ -1851,8 +1851,8 @@ Descript     : Recommended fonts, including the base 35 PostScript fonts,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : LaTeX fundamental packages
+From repo    : updates-testing
+Short desc   : LaTeX fundamental packages
 URL          : http://tug.org/texlive/
 License      : Artistic 2.0 and CC-BY and CC-BY-SA and GPLv2 and GPLv2+ and GPLv3+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia
 Descript     : These packages are either mandated by the core LaTeX team, or
@@ -1866,8 +1866,8 @@ Descript     : These packages are either mandated by the core LaTeX team, or
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : LaTeX recommended packages
+From repo    : updates-testing
+Short desc   : LaTeX recommended packages
 URL          : http://tug.org/texlive/
 License      : Artistic 2.0 and CC-BY and CC-BY-SA and GPLv2 and GPLv2+ and GPLv3+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia
 Descript     : A collection of recommended add-on packages for LaTeX which
@@ -1881,8 +1881,8 @@ Descript     : A collection of recommended add-on packages for LaTeX which
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Collection of free ICC profiles
+From repo    : updates-testing
+Short desc   : Collection of free ICC profiles
 URL          : http://tug.org/texlive/
 License      : LPPL and MIT and Public Domain and zlib
 Descript     : This package collects free ICC profiles that can be used by
@@ -1897,8 +1897,8 @@ Descript     : This package collects free ICC profiles that can be used by
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Add colour to LaTeX tables
+From repo    : updates-testing
+Short desc   : Add colour to LaTeX tables
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package allows rows and columns to be coloured, and even
@@ -1912,8 +1912,8 @@ Descript     : The package allows rows and columns to be coloured, and even
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -1935,8 +1935,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Support for cropmarks
+From repo    : updates-testing
+Short desc   : Support for cropmarks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : A package providing corner marks for camera alignment as well
@@ -1959,8 +1959,8 @@ Descript     : A package providing corner marks for camera alignment as well
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Context sensitive quotation facilities
+From repo    : updates-testing
+Short desc   : Context sensitive quotation facilities
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides advanced facilities for inline and
@@ -1986,8 +1986,8 @@ Descript     : This package provides advanced facilities for inline and
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Flexible typesetting of table and figure floats using key/value directives
+From repo    : updates-testing
+Short desc   : Flexible typesetting of table and figure floats using key/value directives
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Provides commands to typeset centered, left- or right-aligned
@@ -2005,8 +2005,8 @@ Descript     : Provides commands to typeset centered, left- or right-aligned
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Catcode table stable support
+From repo    : updates-testing
+Short desc   : Catcode table stable support
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package provides a method for defining category code table
@@ -2024,8 +2024,8 @@ Descript     : This package provides a method for defining category code table
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Provide file name and path of input files
+From repo    : updates-testing
+Short desc   : Provide file name and path of input files
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides macros holding file name information
@@ -2048,8 +2048,8 @@ Descript     : The package provides macros holding file name information
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : German hyphenation patterns for traditional orthography
+From repo    : updates-testing
+Short desc   : German hyphenation patterns for traditional orthography
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides older hyphenation patterns for the German
@@ -2070,8 +2070,8 @@ Descript     : The package provides older hyphenation patterns for the German
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : An extended version of dvipdfm
+From repo    : fedora
+Short desc   : An extended version of dvipdfm
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : Dvipdfmx (formerly dvipdfm-cjk) is a development of dvipdfm
@@ -2092,8 +2092,8 @@ Descript     : Dvipdfmx (formerly dvipdfm-cjk) is a development of dvipdfm
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : A fast DVI to PNG/GIF converter
+From repo    : fedora
+Short desc   : A fast DVI to PNG/GIF converter
 URL          : http://tug.org/texlive/
 License      : LGPLv2+
 Descript     : This program makes PNG and/or GIF graphics from DVI files as
@@ -2119,8 +2119,8 @@ Descript     : This program makes PNG and/or GIF graphics from DVI files as
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : A DVI to PostScript driver
+From repo    : fedora
+Short desc   : A DVI to PostScript driver
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : This package has been withdrawn from CTAN, and bundled into the
@@ -2136,8 +2136,8 @@ Descript     : This package has been withdrawn from CTAN, and bundled into the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Computer modern fonts in T1 and TS1 encodings
+From repo    : updates-testing
+Short desc   : Computer modern fonts in T1 and TS1 encodings
 URL          : http://tug.org/texlive/
 License      : ec
 Descript     : The EC fonts are European Computer Modern Fonts, supporting the
@@ -2165,8 +2165,8 @@ Descript     : The EC fonts are European Computer Modern Fonts, supporting the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A TeX extension that translates input on its way into TeX
+From repo    : updates-testing
+Short desc   : A TeX extension that translates input on its way into TeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : EncTeX is (another) TeX extension, written at the change-file
@@ -2182,8 +2182,8 @@ Descript     : EncTeX is (another) TeX extension, written at the change-file
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Control layout of itemize, enumerate, description
+From repo    : updates-testing
+Short desc   : Control layout of itemize, enumerate, description
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package provides user control over the layout of the three
@@ -2202,8 +2202,8 @@ Descript     : This package provides user control over the layout of the three
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Call epstopdf "on the fly"
+From repo    : updates-testing
+Short desc   : Call epstopdf "on the fly"
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package adds support for EPS files in the graphicx package
@@ -2220,8 +2220,8 @@ Descript     : The package adds support for EPS files in the graphicx package
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Add picture commands (or backgrounds) to every page
+From repo    : updates-testing
+Short desc   : Add picture commands (or backgrounds) to every page
 URL          : http://tug.org/texlive/
 License      : LPPL 1.2
 Descript     : The package adds one or more user commands to LaTeX's shipout
@@ -2237,8 +2237,8 @@ Descript     : The package adds one or more user commands to LaTeX's shipout
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : An extended version of TeX, from the NTS project
+From repo    : updates-testing
+Short desc   : An extended version of TeX, from the NTS project
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : An extended version of TeX (which is capable of running as if
@@ -2257,8 +2257,8 @@ Descript     : An extended version of TeX (which is capable of running as if
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : E-TeX support package
+From repo    : updates-testing
+Short desc   : E-TeX support package
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides support for LaTeX documents to use many of
@@ -2275,8 +2275,8 @@ Descript     : The package provides support for LaTeX documents to use many of
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Avoid name clashes with e-TeX commands
+From repo    : updates-testing
+Short desc   : Avoid name clashes with e-TeX commands
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : New primitive commands are introduced in e-TeX; sometimes the
@@ -2292,8 +2292,8 @@ Descript     : New primitive commands are introduced in e-TeX; sometimes the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : e-TeX tools for LaTeX
+From repo    : updates-testing
+Short desc   : e-TeX tools for LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package is a toolbox of programming facilities geared
@@ -2315,8 +2315,8 @@ Descript     : The package is a toolbox of programming facilities geared
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Unicode font encoding definitions for XeTeX
+From repo    : updates-testing
+Short desc   : Unicode font encoding definitions for XeTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Font encoding definitions for unicode fonts loaded by LaTeX in
@@ -2338,8 +2338,8 @@ Descript     : Font encoding definitions for unicode fonts loaded by LaTeX in
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Use AMS Euler fonts for math
+From repo    : updates-testing
+Short desc   : Use AMS Euler fonts for math
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Provides a setup for using the AMS Euler family of fonts for
@@ -2358,8 +2358,8 @@ Descript     : Provides a setup for using the AMS Euler family of fonts for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Euler virtual math fonts
+From repo    : updates-testing
+Short desc   : Euler virtual math fonts
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The well-known Euler fonts are suitable for typsetting
@@ -2384,8 +2384,8 @@ Descript     : The well-known Euler fonts are suitable for typsetting
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Provide Euro values for national currency amounts
+From repo    : updates-testing
+Short desc   : Provide Euro values for national currency amounts
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Converts arbitrary national currency amounts using the Euro as
@@ -2403,8 +2403,8 @@ Descript     : Converts arbitrary national currency amounts using the Euro as
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Euro and CE sign font
+From repo    : updates-testing
+Short desc   : Euro and CE sign font
 URL          : http://tug.org/texlive/
 License      : BSD
 Descript     : Metafont source for the symbols in several variants, designed
@@ -2418,8 +2418,8 @@ Descript     : Metafont source for the symbols in several variants, designed
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Metafont and macros for Euro sign
+From repo    : updates-testing
+Short desc   : Metafont and macros for Euro sign
 URL          : http://tug.org/texlive/
 License      : Eurosym
 Descript     : The European currency symbol for the Euro implemented in
@@ -2436,8 +2436,8 @@ Descript     : The European currency symbol for the Euro implemented in
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extend the standard classes' size options
+From repo    : updates-testing
+Short desc   : Extend the standard classes' size options
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Provides classes extarticle, extreport, extletter, extbook and
@@ -2452,8 +2452,8 @@ Descript     : Provides classes extarticle, extreport, extletter, extbook and
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Variants of \fbox and other games with boxes
+From repo    : updates-testing
+Short desc   : Variants of \fbox and other games with boxes
 URL          : http://tug.org/texlive/
 License      : LPPL 1.2
 Descript     : Provides variants of \fbox: \shadowbox, \doublebox, \ovalbox,
@@ -2469,8 +2469,8 @@ Descript     : Provides variants of \fbox: \shadowbox, \doublebox, \ovalbox,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extensive control of page headers and footers in LaTeX2e
+From repo    : updates-testing
+Short desc   : Extensive control of page headers and footers in LaTeX2e
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides extensive facilities, both for
@@ -2486,8 +2486,8 @@ Descript     : The package provides extensive facilities, both for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A LaTeX package for fancy cross-referencing
+From repo    : updates-testing
+Short desc   : A LaTeX package for fancy cross-referencing
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : Provides fancy cross-referencing support, based on the
@@ -2504,8 +2504,8 @@ Descript     : Provides fancy cross-referencing support, based on the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Sophisticated verbatim text
+From repo    : updates-testing
+Short desc   : Sophisticated verbatim text
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Flexible handling of verbatim text including: verbatim commands
@@ -2523,8 +2523,8 @@ Descript     : Flexible handling of verbatim text including: verbatim commands
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extended filecontents and filecontents* environments
+From repo    : updates-testing
+Short desc   : Extended filecontents and filecontents* environments
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : LaTeX2e's filecontents and filecontents* environments enable a
@@ -2551,8 +2551,8 @@ Descript     : LaTeX2e's filecontents and filecontents* environments enable a
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Hooks for input files
+From repo    : updates-testing
+Short desc   : Hooks for input files
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides several file hooks (AtBegin, AtEnd, ...)
@@ -2570,8 +2570,8 @@ Descript     : The package provides several file hooks (AtBegin, AtEnd, ...)
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Provide file modification times, and compare them
+From repo    : updates-testing
+Short desc   : Provide file modification times, and compare them
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides macros to read and compare the
@@ -2592,8 +2592,8 @@ Descript     : The package provides macros to read and compare the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Adjust behaviour of the ends of footnotes
+From repo    : updates-testing
+Short desc   : Adjust behaviour of the ends of footnotes
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The LaTeX internal command \@finalstrut is used automatically
@@ -2610,8 +2610,8 @@ Descript     : The LaTeX internal command \@finalstrut is used automatically
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Fix miscellaneous two column mode features
+From repo    : updates-testing
+Short desc   : Fix miscellaneous two column mode features
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Fix mark handling so that \firstmark is taken from the first
@@ -2627,8 +2627,8 @@ Descript     : Fix mark handling so that \firstmark is taken from the first
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Improved interface for floating objects
+From repo    : updates-testing
+Short desc   : Improved interface for floating objects
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Improves the interface for defining floating objects such as
@@ -2647,8 +2647,8 @@ Descript     : Improves the interface for defining floating objects such as
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Advanced font selection in XeLaTeX and LuaLaTeX
+From repo    : updates-testing
+Short desc   : Advanced font selection in XeLaTeX and LuaLaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Fontspec is a package for XeLaTeX and LuaLaTeX. It provides an
@@ -2665,8 +2665,8 @@ Descript     : Fontspec is a package for XeLaTeX and LuaLaTeX. It provides an
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A range of footnote options
+From repo    : updates-testing
+Short desc   : A range of footnote options
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : A collection of ways to change the typesetting of footnotes.
@@ -2693,8 +2693,8 @@ Descript     : A collection of ways to change the typesetting of footnotes.
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : hyperref aware footnote.sty
+From repo    : updates-testing
+Short desc   : hyperref aware footnote.sty
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The footnote package by Mark Wooding dates back to 1997 and has
@@ -2709,8 +2709,8 @@ Descript     : The footnote package by Mark Wooding dates back to 1997 and has
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Fixed point arithmetic
+From repo    : updates-testing
+Short desc   : Fixed point arithmetic
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : An extensive collection of arithmetic operations for fixed
@@ -2724,8 +2724,8 @@ Descript     : An extensive collection of arithmetic operations for fixed
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : SC and OsF fonts for URW Palladio L
+From repo    : updates-testing
+Short desc   : SC and OsF fonts for URW Palladio L
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : The FPL Fonts provide a set of SC/OsF fonts for URW Palladio L
@@ -2750,8 +2750,8 @@ Descript     : The FPL Fonts provide a set of SC/OsF fonts for URW Palladio L
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Flexible and complete interface to document dimensions
+From repo    : updates-testing
+Short desc   : Flexible and complete interface to document dimensions
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides an easy and flexible user interface to
@@ -2775,8 +2775,8 @@ Descript     : The package provides an easy and flexible user interface to
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Clean up title references
+From repo    : updates-testing
+Short desc   : Clean up title references
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Cleans up the title string (removing \label commands) for
@@ -2790,8 +2790,8 @@ Descript     : Cleans up the title string (removing \label commands) for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Include TeX files as graphics (.tex support for \includegraphics)
+From repo    : updates-testing
+Short desc   : Include TeX files as graphics (.tex support for \includegraphics)
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package builds on the standard LaTeX packages graphics
@@ -2811,8 +2811,8 @@ Descript     : The package builds on the standard LaTeX packages graphics
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : glyphlist package
+From repo    : fedora
+Short desc   : glyphlist package
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : glyphlist package.
@@ -2825,8 +2825,8 @@ Descript     : glyphlist package.
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : The LaTeX standard graphics bundle
+From repo    : updates-testing
+Short desc   : The LaTeX standard graphics bundle
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This is a collection of LaTeX packages for: producing colour
@@ -2842,8 +2842,8 @@ Descript     : This is a collection of LaTeX packages for: producing colour
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Sample configuration files for LaTeX color and graphics
+From repo    : updates-testing
+Short desc   : Sample configuration files for LaTeX color and graphics
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : This bundle includes color.cfg and graphics.cfg files that set
@@ -2861,8 +2861,8 @@ Descript     : This bundle includes color.cfg and graphics.cfg files that set
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Colour and graphics option files
+From repo    : updates-testing
+Short desc   : Colour and graphics option files
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This bundle is a combined distribution consisting of dvips.def,
@@ -2880,8 +2880,8 @@ Descript     : This bundle is a combined distribution consisting of dvips.def,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Manipulate the graphics package's list of extensions
+From repo    : updates-testing
+Short desc   : Manipulate the graphics package's list of extensions
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides macros for adding to, and reordering the
@@ -2896,8 +2896,8 @@ Descript     : This package provides macros for adding to, and reordering the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extended file name support for graphics (legacy package)
+From repo    : updates-testing
+Short desc   : Extended file name support for graphics (legacy package)
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The original package extended the file name processing of
@@ -2915,8 +2915,8 @@ Descript     : The original package extended the file name processing of
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -2938,8 +2938,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Construct package bundles
+From repo    : updates-testing
+Short desc   : Construct package bundles
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Heiko Oberdiek's hobsub package (and hobsub-hyperref and
@@ -2962,8 +2962,8 @@ Descript     : Heiko Oberdiek's hobsub package (and hobsub-hyperref and
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A collection of logos with bookmark support
+From repo    : updates-testing
+Short desc   : A collection of logos with bookmark support
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package defines a single command \hologo, whose argument is
@@ -2979,8 +2979,8 @@ Descript     : The package defines a single command \hologo, whose argument is
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Implements colour for packages hyperref and bookmark
+From repo    : updates-testing
+Short desc   : Implements colour for packages hyperref and bookmark
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides the code for the color option that is
@@ -2995,8 +2995,8 @@ Descript     : This package provides the code for the color option that is
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extensive support for hypertext in LaTeX
+From repo    : updates-testing
+Short desc   : Extensive support for hypertext in LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The hyperref package is used to handle cross-referencing
@@ -3018,8 +3018,8 @@ Descript     : The hyperref package is used to handle cross-referencing
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Hyphenation patterns expressed in UTF-8
+From repo    : updates-testing
+Short desc   : Hyphenation patterns expressed in UTF-8
 URL          : http://tug.org/texlive/
 License      : Copyright only
 Descript     : Modern native UTF-8 engines such as XeTeX and LuaTeX need
@@ -3042,8 +3042,8 @@ Descript     : Modern native UTF-8 engines such as XeTeX and LuaTeX need
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : core hyphenation support files
+From repo    : updates-testing
+Short desc   : core hyphenation support files
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Includes Knuth's original hyphen.tex, zerohyph.tex to disable
@@ -3059,8 +3059,8 @@ Descript     : Includes Knuth's original hyphen.tex, zerohyph.tex to disable
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : US English hyphenation exceptions file
+From repo    : updates-testing
+Short desc   : US English hyphenation exceptions file
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : Exceptions for American English hyphenation patterns are
@@ -3078,8 +3078,8 @@ Descript     : Exceptions for American English hyphenation patterns are
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : If-then-else command for processing potentially empty arguments
+From repo    : updates-testing
+Short desc   : If-then-else command for processing potentially empty arguments
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : ifmtarg package
@@ -3092,8 +3092,8 @@ Descript     : ifmtarg package
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Determine if the current page is odd or even
+From repo    : updates-testing
+Short desc   : Determine if the current page is odd or even
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides an \ifoddpage conditional to determine if
@@ -3112,8 +3112,8 @@ Descript     : The package provides an \ifoddpage conditional to determine if
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Conditionals to test which platform is being used
+From repo    : updates-testing
+Short desc   : Conditionals to test which platform is being used
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package uses the (La)TeX extension -shell-escape to
@@ -3133,8 +3133,8 @@ Descript     : This package uses the (La)TeX extension -shell-escape to
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Am I running under pdfTeX, XeTeX or LuaTeX?
+From repo    : updates-testing
+Short desc   : Am I running under pdfTeX, XeTeX or LuaTeX?
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package, which works both for Plain TeX and for LaTeX,
@@ -3152,8 +3152,8 @@ Descript     : The package, which works both for Plain TeX and for LaTeX,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extended index for LaTeX including multiple indexes
+From repo    : updates-testing
+Short desc   : Extended index for LaTeX including multiple indexes
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This is a reimplementation of LaTeX's indexing macros to
@@ -3172,8 +3172,8 @@ Descript     : This is a reimplementation of LaTeX's indexing macros to
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Complete set of information/warning/error message macros
+From repo    : updates-testing
+Short desc   : Complete set of information/warning/error message macros
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides a complete set of macros for information,
@@ -3189,8 +3189,8 @@ Descript     : This package provides a complete set of macros for information,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Expandable arithmetic operations with integers
+From repo    : updates-testing
+Short desc   : Expandable arithmetic operations with integers
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides expandable arithmetic operations with
@@ -3205,8 +3205,8 @@ Descript     : This package provides expandable arithmetic operations with
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Miscellaneous packages by Joerg Knappen
+From repo    : updates-testing
+Short desc   : Miscellaneous packages by Joerg Knappen
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : Miscellaneous macros by Jorg Knappen, including: represent
@@ -3227,8 +3227,8 @@ Descript     : Miscellaneous macros by Jorg Knappen, including: represent
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Convert numbers into binary, octal and hexadecimal
+From repo    : updates-testing
+Short desc   : Convert numbers into binary, octal and hexadecimal
 URL          : http://tug.org/texlive/
 License      : Copyright only
 Descript     : Provides expandable macros for both fixed-width and minimum-
@@ -3242,8 +3242,8 @@ Descript     : Provides expandable macros for both fixed-width and minimum-
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A small library of MetaFont sources
+From repo    : updates-testing
+Short desc   : A small library of MetaFont sources
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : A collection of miscellaneous MetaFont source, including the
@@ -3258,8 +3258,8 @@ Descript     : A collection of miscellaneous MetaFont source, including the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Knuth's local information
+From repo    : updates-testing
+Short desc   : Knuth's local information
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : A collection of experimental programs and developments based
@@ -3274,8 +3274,8 @@ Descript     : A collection of experimental programs and developments based
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A bundle of versatile classes and packages
+From repo    : updates-testing
+Short desc   : A bundle of versatile classes and packages
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The KOMA-Script bundle provides replacements for the article,
@@ -3300,8 +3300,8 @@ Descript     : The KOMA-Script bundle provides replacements for the article,
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : Path searching library for TeX-related files
+From repo    : fedora
+Short desc   : Path searching library for TeX-related files
 URL          : http://tug.org/texlive/
 License      : LGPLv2+
 Descript     : Kpathsea is a library and utility programs which provide path
@@ -3317,8 +3317,8 @@ Descript     : Kpathsea is a library and utility programs which provide path
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Define keys for use in the kvsetkeys package
+From repo    : updates-testing
+Short desc   : Define keys for use in the kvsetkeys package
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides a macro \kv@define@key (analogous to
@@ -3332,8 +3332,8 @@ Descript     : The package provides a macro \kv@define@key (analogous to
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Key value format for package options
+From repo    : updates-testing
+Short desc   : Key value format for package options
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package offers support for package authors who want to use
@@ -3347,8 +3347,8 @@ Descript     : This package offers support for package authors who want to use
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Key value parser with default handler support
+From repo    : updates-testing
+Short desc   : Key value parser with default handler support
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides \kvsetkeys, a variant of package keyval's
@@ -3365,8 +3365,8 @@ Descript     : This package provides \kvsetkeys, a variant of package keyval's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : LaTeX3 backend drivers
+From repo    : updates-testing
+Short desc   : LaTeX3 backend drivers
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package forms parts of expl3, and contains the code used
@@ -3384,8 +3384,8 @@ Descript     : This package forms parts of expl3, and contains the code used
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Experimental LaTeX3 concepts
+From repo    : updates-testing
+Short desc   : Experimental LaTeX3 concepts
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The l3experimental packages are a collection of experimental
@@ -3416,8 +3416,8 @@ Descript     : The l3experimental packages are a collection of experimental
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : LaTeX3 programming conventions
+From repo    : updates-testing
+Short desc   : LaTeX3 programming conventions
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The l3kernel bundle provides an implementation of the LaTeX3
@@ -3435,8 +3435,8 @@ Descript     : The l3kernel bundle provides an implementation of the LaTeX3
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : High-level LaTeX3 concepts
+From repo    : updates-testing
+Short desc   : High-level LaTeX3 concepts
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This collection contains implementations for aspects of the
@@ -3462,8 +3462,8 @@ Descript     : This collection contains implementations for aspects of the
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : A TeX macro package that defines LaTeX
+From repo    : fedora
+Short desc   : A TeX macro package that defines LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : LaTeX is a widely-used macro package for TeX, providing many
@@ -3489,8 +3489,8 @@ Descript     : LaTeX is a widely-used macro package for TeX, providing many
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A collection of fonts used in LaTeX distributions
+From repo    : updates-testing
+Short desc   : A collection of fonts used in LaTeX distributions
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This is a collection of fonts for use with standard LaTeX
@@ -3512,8 +3512,8 @@ Descript     : This is a collection of fonts for use with standard LaTeX
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Bug-classification for LaTeX related bugs
+From repo    : updates-testing
+Short desc   : Bug-classification for LaTeX related bugs
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package is written in order to help identifying the
@@ -3529,8 +3529,8 @@ Descript     : The package is written in order to help identifying the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : latexconfig package
+From repo    : updates-testing
+Short desc   : latexconfig package
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : latexconfig package
@@ -3543,8 +3543,8 @@ Descript     : latexconfig package
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Let assignment for LaTeX macros
+From repo    : updates-testing
+Short desc   : Let assignment for LaTeX macros
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : TeX's \let assignment does not work for LaTeX macros with
@@ -3561,8 +3561,8 @@ Descript     : TeX's \let assignment does not work for LaTeX macros with
 
 ```
 Эпоха        : 9
-From repo     : anaconda
-Short desc    : Shared libraries for TeX-related files
+From repo    : anaconda
+Short desc   : Shared libraries for TeX-related files
 URL          : http://tug.org/texlive/
 License      : ASL 2.0 and Artistic 2.0 and BSD and GFDL and GPL+ and GPLv2 and GPLv3 and Knuth and LGPLv2+ and LGPLv3+ and LPPL and OFL and Public Domain
 Descript     : TeX specific shared libraries.
@@ -3575,8 +3575,8 @@ Descript     : TeX specific shared libraries.
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Line numbers on paragraphs
+From repo    : updates-testing
+Short desc   : Line numbers on paragraphs
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Adds line numbers to selected paragraphs with reference
@@ -3592,8 +3592,8 @@ Descript     : Adds line numbers to selected paragraphs with reference
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Typeset source code listings using LaTeX
+From repo    : updates-testing
+Short desc   : Typeset source code listings using LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package enables the user to typeset programs (programming
@@ -3619,8 +3619,8 @@ Descript     : The package enables the user to typeset programs (programming
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Latin modern fonts in outline formats
+From repo    : updates-testing
+Short desc   : Latin modern fonts in outline formats
 URL          : http://tug.org/texlive/
 License      : GFSL
 Descript     : The Latin Modern family of fonts consists of 72 text fonts and
@@ -3643,8 +3643,8 @@ Descript     : The Latin Modern family of fonts consists of 72 text fonts and
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : OpenType maths fonts for Latin Modern
+From repo    : updates-testing
+Short desc   : OpenType maths fonts for Latin Modern
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Latin Modern Math is a maths companion for the Latin Modern
@@ -3659,8 +3659,8 @@ Descript     : Latin Modern Math is a maths companion for the Latin Modern
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Support for automation of the LaTeX workflow
+From repo    : updates-testing
+Short desc   : Support for automation of the LaTeX workflow
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package helps to automate a typical LaTeX workflow that
@@ -3684,8 +3684,8 @@ Descript     : The package helps to automate a typical LaTeX workflow that
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Bug fix for longtable
+From repo    : updates-testing
+Short desc   : Bug fix for longtable
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : A patch for LaTeX bugs tools/3180 and tools/3480. The patch
@@ -3699,8 +3699,8 @@ Descript     : A patch for LaTeX bugs tools/3180 and tools/3480. The patch
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Some LaTeX kernel commands for general use
+From repo    : updates-testing
+Short desc   : Some LaTeX kernel commands for general use
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package exports some utility macros from the LaTeX kernel
@@ -3715,8 +3715,8 @@ Descript     : This package exports some utility macros from the LaTeX kernel
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Miscellaneous LaTeX packages, etc
+From repo    : updates-testing
+Short desc   : Miscellaneous LaTeX packages, etc
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : ltxmisc package
@@ -3729,8 +3729,8 @@ Descript     : ltxmisc package
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Process application arguments the same way as getopt_long
+From repo    : updates-testing
+Short desc   : Process application arguments the same way as getopt_long
 URL          : http://tug.org/texlive/
 License      : MIT
 Descript     : lua_altgetopt is a MIT-licensed module for Lua, for processing
@@ -3746,8 +3746,8 @@ Descript     : lua_altgetopt is a MIT-licensed module for Lua, for processing
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Bidi functions for LuaTeX
+From repo    : updates-testing
+Short desc   : Bidi functions for LuaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package attempts to emulate the XeTeX bidi package, in teh
@@ -3761,8 +3761,8 @@ Descript     : The package attempts to emulate the XeTeX bidi package, in teh
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : LuaTeX with HarfBuzz library for glyph shaping
+From repo    : fedora
+Short desc   : LuaTeX with HarfBuzz library for glyph shaping
 URL          : http://tug.org/texlive/
 License      : GPLv2+
 Descript     : LuaTeX with HarfBuzz library for glyph shaping.
@@ -3775,8 +3775,8 @@ Descript     : LuaTeX with HarfBuzz library for glyph shaping.
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Fixes for mathematics-related LuaLaTeX issues
+From repo    : updates-testing
+Short desc   : Fixes for mathematics-related LuaLaTeX issues
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package patches a few commands of the LaTeX2e kernel and
@@ -3795,8 +3795,8 @@ Descript     : The package patches a few commands of the LaTeX2e kernel and
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Additional Lua functions for LuaTeX macro programmers
+From repo    : updates-testing
+Short desc   : Additional Lua functions for LuaTeX macro programmers
 URL          : http://tug.org/texlive/
 License      : GPLv2+
 Descript     : Lualibs is a collection of Lua modules useful for general
@@ -3812,8 +3812,8 @@ Descript     : Lualibs is a collection of Lua modules useful for general
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : OpenType 'loader' for Plain TeX and LaTeX
+From repo    : fedora
+Short desc   : OpenType 'loader' for Plain TeX and LaTeX
 URL          : http://tug.org/texlive/
 License      : GPLv2+
 Descript     : The package adopts the TrueType/OpenType Font loader code
@@ -3828,8 +3828,8 @@ Descript     : The package adopts the TrueType/OpenType Font loader code
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : The LuaTeX engine
+From repo    : fedora
+Short desc   : The LuaTeX engine
 URL          : http://tug.org/texlive/
 License      : GPLv2+
 Descript     : LuaTeX is an extended version of pdfTeX using Lua as an
@@ -3850,8 +3850,8 @@ Descript     : LuaTeX is an extended version of pdfTeX using Lua as an
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Basic resource management for LuaTeX code
+From repo    : updates-testing
+Short desc   : Basic resource management for LuaTeX code
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : The LaTeX kernel (LaTeX2e 2015/10/01 onward) builds in support
@@ -3871,8 +3871,8 @@ Descript     : The LaTeX kernel (LaTeX2e 2015/10/01 onward) builds in support
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : Converts LaTeX to HTML
+From repo    : fedora
+Short desc   : Converts LaTeX to HTML
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package causes LaTeX to directly produce HTML5 output,
@@ -3895,8 +3895,8 @@ Descript     : The package causes LaTeX to directly produce HTML5 output,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : The new \makecommand command always (re)defines a command
+From repo    : updates-testing
+Short desc   : The new \makecommand command always (re)defines a command
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides a \makecommand command, which is like
@@ -3912,8 +3912,8 @@ Descript     : The package provides a \makecommand command, which is like
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : Provides sorted index from unsorted raw data
+From repo    : fedora
+Short desc   : Provides sorted index from unsorted raw data
 URL          : http://tug.org/texlive/
 License      : MakeIndex
 Descript     : MakeIndex is a computer program which provides a sorted index
@@ -3929,8 +3929,8 @@ Descript     : MakeIndex is a computer program which provides a sorted index
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : LaTeX support for the TeX book symbols
+From repo    : updates-testing
+Short desc   : LaTeX support for the TeX book symbols
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : A LaTeX package for easy access to the symbols of the Knuth's
@@ -3945,8 +3945,8 @@ Descript     : A LaTeX package for easy access to the symbols of the Knuth's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Notes in the margin, even where \marginpar fails
+From repo    : updates-testing
+Short desc   : Notes in the margin, even where \marginpar fails
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package provides the command \marginnote that may be used
@@ -3962,8 +3962,8 @@ Descript     : This package provides the command \marginnote that may be used
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Martin Vogel's Symbols (marvosym) font
+From repo    : updates-testing
+Short desc   : Martin Vogel's Symbols (marvosym) font
 URL          : http://tug.org/texlive/
 License      : OFL
 Descript     : Martin Vogel's Symbol font (marvosym) contains the Euro
@@ -3983,8 +3983,8 @@ Descript     : Martin Vogel's Symbol font (marvosym) contains the Euro
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Fonts to typeset mathematics to match Palatino
+From repo    : updates-testing
+Short desc   : Fonts to typeset mathematics to match Palatino
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : The Pazo Math fonts are a family of PostScript fonts suitable
@@ -4017,8 +4017,8 @@ Descript     : The Pazo Math fonts are a family of PostScript fonts suitable
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Specify arbitrary fonts for mathematics in XeTeX
+From repo    : updates-testing
+Short desc   : Specify arbitrary fonts for mathematics in XeTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The mathspec package provides an interface to typeset
@@ -4036,8 +4036,8 @@ Descript     : The mathspec package provides an interface to typeset
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Mathematical tools to use with amsmath
+From repo    : updates-testing
+Short desc   : Mathematical tools to use with amsmath
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Mathtools provides a series of packages designed to enhance the
@@ -4065,8 +4065,8 @@ Descript     : Mathtools provides a series of packages designed to enhance the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Miscellaneous tools by Mark Wooding
+From repo    : updates-testing
+Short desc   : Miscellaneous tools by Mark Wooding
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : This collection of tools includes: support for short commands
@@ -4085,8 +4085,8 @@ Descript     : This collection of tools includes: support for short commands
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Typeset fiction, non-fiction and mathematical books
+From repo    : updates-testing
+Short desc   : Typeset fiction, non-fiction and mathematical books
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The memoir class is for typesetting poetry, fiction, non-
@@ -4114,8 +4114,8 @@ Descript     : The memoir class is for typesetting poetry, fiction, non-
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : A system for specifying fonts
+From repo    : fedora
+Short desc   : A system for specifying fonts
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : The program takes a semi-algorithmic specification of a font,
@@ -4133,8 +4133,8 @@ Descript     : The program takes a semi-algorithmic specification of a font,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extended TeX logo macros
+From repo    : updates-testing
+Short desc   : Extended TeX logo macros
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package exposes spacing parameters for various TeX logos
@@ -4149,8 +4149,8 @@ Descript     : This package exposes spacing parameters for various TeX logos
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : LaTeX support for Metafont logo fonts
+From repo    : updates-testing
+Short desc   : LaTeX support for Metafont logo fonts
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : LaTeX package and font definition file to access the Knuthian
@@ -4165,8 +4165,8 @@ Descript     : LaTeX package and font definition file to access the Knuthian
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Metafont logo font
+From repo    : updates-testing
+Short desc   : Metafont logo font
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : These fonts were created in Metafont by Knuth, for his own
@@ -4184,8 +4184,8 @@ Descript     : These fonts were created in Metafont by Knuth, for his own
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Packages to typeset oldgerman and pandora fonts in LaTeX
+From repo    : updates-testing
+Short desc   : Packages to typeset oldgerman and pandora fonts in LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This bundle contains two packages: - oldgerm, a package to
@@ -4202,8 +4202,8 @@ Descript     : This bundle contains two packages: - oldgerm, a package to
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : Supporting tools for use with Metafont
+From repo    : fedora
+Short desc   : Supporting tools for use with Metafont
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : A collection of programs (as web source) for processing the
@@ -4217,8 +4217,8 @@ Descript     : A collection of programs (as web source) for processing the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Subliminal refinements towards typographical perfection
+From repo    : updates-testing
+Short desc   : Subliminal refinements towards typographical perfection
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides a LaTeX interface to the micro-typographic
@@ -4250,8 +4250,8 @@ Descript     : The package provides a LaTeX interface to the micro-typographic
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Produce a table of contents for each chapter, part or section
+From repo    : updates-testing
+Short desc   : Produce a table of contents for each chapter, part or section
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The minitoc package allows you to add mini-tables-of-contents
@@ -4273,8 +4273,8 @@ Descript     : The minitoc package allows you to add mini-tables-of-contents
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Mathematical symbol font for Adobe MinionPro
+From repo    : updates-testing
+Short desc   : Mathematical symbol font for Adobe MinionPro
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : MnSymbol is a symbol font family, designed to be used in
@@ -4300,8 +4300,8 @@ Descript     : MnSymbol is a symbol font family, designed to be used in
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A collection of Metafont mode_def's
+From repo    : updates-testing
+Short desc   : A collection of Metafont mode_def's
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : The modes file collects all known Metafont modes for printing
@@ -4321,8 +4321,8 @@ Descript     : The modes file collects all known Metafont modes for printing
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Work around a LaTeX bug in marginpars
+From repo    : updates-testing
+Short desc   : Work around a LaTeX bug in marginpars
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : Works around the LaTeX bug that marginpars will sometimes come
@@ -4336,8 +4336,8 @@ Descript     : Works around the LaTeX bug that marginpars will sometimes come
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : mpost to PDF, native MetaPost graphics inclusion
+From repo    : fedora
+Short desc   : mpost to PDF, native MetaPost graphics inclusion
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The mptopdf script does standalone conversion from mpost to
@@ -4357,8 +4357,8 @@ Descript     : The mptopdf script does standalone conversion from mpost to
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Various LaTeX packages by Martin Schroder
+From repo    : updates-testing
+Short desc   : Various LaTeX packages by Martin Schroder
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : A bundle of LaTeX packages by Martin Schroder; the collection
@@ -4377,8 +4377,8 @@ Descript     : A bundle of LaTeX packages by Martin Schroder; the collection
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A loop facility for Generic TeX
+From repo    : updates-testing
+Short desc   : A loop facility for Generic TeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides the \multido command, which was originally
@@ -4395,8 +4395,8 @@ Descript     : The package provides the \multido command, which was originally
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Flexible bibliography support
+From repo    : updates-testing
+Short desc   : Flexible bibliography support
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The bundle provides a package that implements both author-year
@@ -4415,8 +4415,8 @@ Descript     : The bundle provides a package that implements both author-year
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -4438,8 +4438,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Define new floating environments
+From repo    : updates-testing
+Short desc   : Define new floating environments
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package offers the command \DeclareFloatingEnvironment,
@@ -4455,8 +4455,8 @@ Descript     : The package offers the command \DeclareFloatingEnvironment,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Prevent trouble from citations in table of contents, etc
+From repo    : updates-testing
+Short desc   : Prevent trouble from citations in table of contents, etc
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : If you have \cite commands in \section-like commands, or in
@@ -4474,8 +4474,8 @@ Descript     : If you have \cite commands in \section-like commands, or in
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : "European" versions of standard classes
+From repo    : updates-testing
+Short desc   : "European" versions of standard classes
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The bundle offers versions of the standard LaTeX article and
@@ -4494,8 +4494,8 @@ Descript     : The bundle offers versions of the standard LaTeX article and
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : A bundle of packages submitted by Heiko Oberdiek
+From repo    : fedora
+Short desc   : A bundle of packages submitted by Heiko Oberdiek
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The bundle comprises packages to provide: aliascnt: 'alias
@@ -4549,8 +4549,8 @@ Descript     : The bundle comprises packages to provide: aliascnt: 'alias
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -4572,8 +4572,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Enumerate and itemize within paragraphs
+From repo    : updates-testing
+Short desc   : Enumerate and itemize within paragraphs
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Provides enumerate and itemize environments that can be used
@@ -4589,8 +4589,8 @@ Descript     : Provides enumerate and itemize environments that can be used
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Typeset parallel texts
+From repo    : updates-testing
+Short desc   : Typeset parallel texts
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Provides a parallel environment which allows two potentially
@@ -4608,8 +4608,8 @@ Descript     : Provides a parallel environment which allows two potentially
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Layout with zero \parindent, non-zero \parskip
+From repo    : updates-testing
+Short desc   : Layout with zero \parindent, non-zero \parskip
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Simply changing \parskip and \parindent leaves a layout that is
@@ -4624,8 +4624,8 @@ Descript     : Simply changing \parskip and \parindent leaves a layout that is
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Improved colour support under pdfTeX (legacy stub)
+From repo    : updates-testing
+Short desc   : Improved colour support under pdfTeX (legacy stub)
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package used to provide macros that emulated the 'colour
@@ -4650,8 +4650,8 @@ Descript     : The package used to provide macros that emulated the 'colour
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Implements pdfTeX's escape features using TeX or e-TeX
+From repo    : updates-testing
+Short desc   : Implements pdfTeX's escape features using TeX or e-TeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package implements pdfTeX's escape features
@@ -4666,8 +4666,8 @@ Descript     : This package implements pdfTeX's escape features
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Make landscape pages display as landscape
+From repo    : updates-testing
+Short desc   : Make landscape pages display as landscape
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package adds PDF support to the landscape environment of
@@ -4683,8 +4683,8 @@ Descript     : The package adds PDF support to the landscape environment of
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Include PDF documents in LaTeX
+From repo    : updates-testing
+Short desc   : Include PDF documents in LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package simplifies the inclusion of external multi-page
@@ -4704,8 +4704,8 @@ Descript     : This package simplifies the inclusion of external multi-page
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : A TeX extension for direct creation of PDF
+From repo    : fedora
+Short desc   : A TeX extension for direct creation of PDF
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : An extension of TeX which can be configured to directly
@@ -4723,8 +4723,8 @@ Descript     : An extension of TeX which can be configured to directly
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : LuaTeX support for pdfTeX utility functions
+From repo    : updates-testing
+Short desc   : LuaTeX support for pdfTeX utility functions
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : LuaTeX provides most of the commands of pdfTeX 1.40. However, a
@@ -4740,8 +4740,8 @@ Descript     : LuaTeX provides most of the commands of pdfTeX 1.40. However, a
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Create PostScript and PDF graphics in TeX
+From repo    : updates-testing
+Short desc   : Create PostScript and PDF graphics in TeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : PGF is a macro package for creating graphics. It is platform-
@@ -4761,8 +4761,8 @@ Descript     : PGF is a macro package for creating graphics. It is platform-
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Dimens for picture macros
+From repo    : updates-testing
+Short desc   : Dimens for picture macros
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : There are macro and environment arguments that expect numbers
@@ -4778,8 +4778,8 @@ Descript     : There are macro and environment arguments that expect numbers
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Control float placement
+From repo    : updates-testing
+Short desc   : Control float placement
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : Defines a \FloatBarrier command, beyond which floats may not
@@ -4794,8 +4794,8 @@ Descript     : Defines a \FloatBarrier command, beyond which floats may not
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : The Plain TeX format
+From repo    : updates-testing
+Short desc   : The Plain TeX format
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : Contains files used to build the Plain TeX format, as described
@@ -4810,8 +4810,8 @@ Descript     : Contains files used to build the Plain TeX format, as described
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : An alternative to babel for XeLaTeX and LuaLaTeX
+From repo    : updates-testing
+Short desc   : An alternative to babel for XeLaTeX and LuaLaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides a complete Babel replacement for users of
@@ -4826,8 +4826,8 @@ Descript     : This package provides a complete Babel replacement for users of
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Replace strings in encapsulated PostScript figures
+From repo    : updates-testing
+Short desc   : Replace strings in encapsulated PostScript figures
 URL          : http://tug.org/texlive/
 License      : psfrag
 Descript     : Allows LaTeX constructions (equations, picture environments,
@@ -4846,8 +4846,8 @@ Descript     : Allows LaTeX constructions (equations, picture environments,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Use PostScript fonts by default
+From repo    : updates-testing
+Short desc   : Use PostScript fonts by default
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : A small package that makes LaTeX default to 'standard'
@@ -4874,8 +4874,8 @@ Descript     : A small package that makes LaTeX default to 'standard'
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Font support for common PostScript fonts
+From repo    : updates-testing
+Short desc   : Font support for common PostScript fonts
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Font definition files, macros and font metrics for freely-
@@ -4915,8 +4915,8 @@ Descript     : Font definition files, macros and font metrics for freely-
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : PostScript picture support
+From repo    : updates-testing
+Short desc   : PostScript picture support
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : A replacement for LaTeX's picture macros, that uses PostScript
@@ -4931,8 +4931,8 @@ Descript     : A replacement for LaTeX's picture macros, that uses PostScript
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A PSTricks package for tilting and other pseudo-3D tricks
+From repo    : updates-testing
+Short desc   : A PSTricks package for tilting and other pseudo-3D tricks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides basic macros that use PSTricks for
@@ -4947,8 +4947,8 @@ Descript     : The package provides basic macros that use PSTricks for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A PSTricks package for coils, etc
+From repo    : updates-testing
+Short desc   : A PSTricks package for coils, etc
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Pst-coil is a PSTricks based package for coils and zigzags and
@@ -4962,8 +4962,8 @@ Descript     : Pst-coil is a PSTricks based package for coils and zigzags and
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Create EPS files from PSTricks figures
+From repo    : updates-testing
+Short desc   : Create EPS files from PSTricks figures
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Pst-eps is a PSTricks-based package for exporting PSTricks
@@ -4978,8 +4978,8 @@ Descript     : Pst-eps is a PSTricks-based package for exporting PSTricks
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Fill or tile areas with PSTricks
+From repo    : updates-testing
+Short desc   : Fill or tile areas with PSTricks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Pst-fill is a PSTricks-based package for filling and tiling
@@ -4993,8 +4993,8 @@ Descript     : Pst-fill is a PSTricks-based package for filling and tiling
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Filling with colour gradients, using PStricks
+From repo    : updates-testing
+Short desc   : Filling with colour gradients, using PStricks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package fills with colour gradients, using PSTricks. The
@@ -5009,8 +5009,8 @@ Descript     : The package fills with colour gradients, using PSTricks. The
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Enhancement of PostScript math operators to use with pstricks
+From repo    : updates-testing
+Short desc   : Enhancement of PostScript math operators to use with pstricks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : PostScript lacks a lot of basic operators such as tan, acos,
@@ -5033,8 +5033,8 @@ Descript     : PostScript lacks a lot of basic operators such as tan, acos,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Nodes and node connections in pstricks
+From repo    : updates-testing
+Short desc   : Nodes and node connections in pstricks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package enables the user to connect information, and to
@@ -5054,8 +5054,8 @@ Descript     : The package enables the user to connect information, and to
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Create and manage graphical overlays
+From repo    : updates-testing
+Short desc   : Create and manage graphical overlays
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package is useful when building an image from assorted
@@ -5071,8 +5071,8 @@ Descript     : The package is useful when building an image from assorted
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Plot data using PSTricks
+From repo    : updates-testing
+Short desc   : Plot data using PSTricks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides plotting of data (typically from external
@@ -5087,8 +5087,8 @@ Descript     : The package provides plotting of data (typically from external
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Text and character manipulation in PSTricks
+From repo    : updates-testing
+Short desc   : Text and character manipulation in PSTricks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Pst-text is a PSTricks based package for plotting text along a
@@ -5103,8 +5103,8 @@ Descript     : Pst-text is a PSTricks based package for plotting text along a
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : PStricks support functions
+From repo    : updates-testing
+Short desc   : PStricks support functions
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides helper functions for other PSTricks
@@ -5118,8 +5118,8 @@ Descript     : The package provides helper functions for other PSTricks
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Trees, using pstricks
+From repo    : updates-testing
+Short desc   : Trees, using pstricks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : pst-tree is a pstricks package that defines a macro \pstree
@@ -5134,8 +5134,8 @@ Descript     : pst-tree is a pstricks package that defines a macro \pstree
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : PostScript macros for TeX
+From repo    : updates-testing
+Short desc   : PostScript macros for TeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : PSTricks offers an extensive collection of macros for
@@ -5163,8 +5163,8 @@ Descript     : PSTricks offers an extensive collection of macros for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A collection of add-ons and bugfixes for PSTricks
+From repo    : updates-testing
+Short desc   : A collection of add-ons and bugfixes for PSTricks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Collects together examples that have been posted to the
@@ -5185,8 +5185,8 @@ Descript     : Collects together examples that have been posted to the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Palatino-like fonts in support of mathematics
+From repo    : updates-testing
+Short desc   : Palatino-like fonts in support of mathematics
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : Pxfonts supplies virtual text roman fonts using Adobe Palatino
@@ -5209,8 +5209,8 @@ Descript     : Pxfonts supplies virtual text roman fonts using Adobe Palatino
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Bundle for unit tests and pattern matching
+From repo    : updates-testing
+Short desc   : Bundle for unit tests and pattern matching
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This is the public release of the qstest bundle (written for
@@ -5233,8 +5233,8 @@ Descript     : This is the public release of the qstest bundle (written for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Alternative versions of "ragged"-type commands
+From repo    : updates-testing
+Short desc   : Alternative versions of "ragged"-type commands
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package defines new commands \Centering, \RaggedLeft, and
@@ -5251,8 +5251,8 @@ Descript     : The package defines new commands \Centering, \RaggedLeft, and
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Use RCS (revision control system) tags in LaTeX documents
+From repo    : updates-testing
+Short desc   : Use RCS (revision control system) tags in LaTeX documents
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : The rcs package utilizes the inclusion of RCS supplied data in
@@ -5276,8 +5276,8 @@ Descript     : The rcs package utilizes the inclusion of RCS supplied data in
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Access OpenType subscript and superscript glyphs
+From repo    : updates-testing
+Short desc   : Access OpenType subscript and superscript glyphs
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This small package replaces \textsuperscript and \textsubscript
@@ -5297,8 +5297,8 @@ Descript     : This small package replaces \textsuperscript and \textsubscript
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Counter operations with label references
+From repo    : updates-testing
+Short desc   : Counter operations with label references
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Provides commands \setcounterref and \addtocounterref which use
@@ -5317,8 +5317,8 @@ Descript     : Provides commands \setcounterref and \addtocounterref which use
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Checksum based rerun checks on auxiliary files
+From repo    : updates-testing
+Short desc   : Checksum based rerun checks on auxiliary files
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package provides additional rerun warnings if some
@@ -5333,8 +5333,8 @@ Descript     : The package provides additional rerun warnings if some
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Ralph Smith's Formal Script font
+From repo    : updates-testing
+Short desc   : Ralph Smith's Formal Script font
 URL          : http://tug.org/texlive/
 License      : rsfs
 Descript     : The fonts provide uppercase 'formal' script letters for use as
@@ -5353,8 +5353,8 @@ Descript     : The fonts provide uppercase 'formal' script letters for use as
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Maths in a sans font
+From repo    : updates-testing
+Short desc   : Maths in a sans font
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : The package defines a new math version sans, and a command
@@ -5368,8 +5368,8 @@ Descript     : The package defines a new math version sans, and a command
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Correct placement of accents in sans-serif maths
+From repo    : updates-testing
+Short desc   : Correct placement of accents in sans-serif maths
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Sans serif maths (produced by the beamer class or the sfmath
@@ -5387,8 +5387,8 @@ Descript     : Sans serif maths (produced by the beamer class or the sfmath
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A bundle of utilities by Jonathan Sauer
+From repo    : updates-testing
+Short desc   : A bundle of utilities by Jonathan Sauer
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The bundle consists of: a tool for collecting text for later re-
@@ -5406,8 +5406,8 @@ Descript     : The bundle consists of: a tool for collecting text for later re-
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Modifying section commands in LaTeX
+From repo    : updates-testing
+Short desc   : Modifying section commands in LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package implements a pretty extensive scheme to make more
@@ -5421,8 +5421,8 @@ Descript     : The package implements a pretty extensive scheme to make more
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Make overhead slides
+From repo    : updates-testing
+Short desc   : Make overhead slides
 URL          : http://tug.org/texlive/
 License      : LPPL 1.2
 Descript     : A class that produces overhead slides (transparencies), with
@@ -5443,8 +5443,8 @@ Descript     : A class that produces overhead slides (transparencies), with
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Print numbers in a "friendly" format
+From repo    : updates-testing
+Short desc   : Print numbers in a "friendly" format
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Provides a command to print a number with (potentially
@@ -5463,8 +5463,8 @@ Descript     : Provides a command to print a number with (potentially
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Set space between lines
+From repo    : updates-testing
+Short desc   : Set space between lines
 URL          : http://tug.org/texlive/
 License      : Copyright only
 Descript     : Provides support for setting the spacing between lines in a
@@ -5482,8 +5482,8 @@ Descript     : Provides support for setting the spacing between lines in a
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Typesetting LaTeX source code
+From repo    : updates-testing
+Short desc   : Typesetting LaTeX source code
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package provides a way to typeset LaTeX source code and
@@ -5497,8 +5497,8 @@ Descript     : This package provides a way to typeset LaTeX source code and
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Hyphenation for letterspacing, underlining, and more
+From repo    : updates-testing
+Short desc   : Hyphenation for letterspacing, underlining, and more
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Provides hyphenatable spacing out (letterspacing), underlining,
@@ -5518,8 +5518,8 @@ Descript     : Provides hyphenatable spacing out (letterspacing), underlining,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Compile TeX pictures stand-alone or as part of a document
+From repo    : updates-testing
+Short desc   : Compile TeX pictures stand-alone or as part of a document
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : A class and package is provided which allows TeX pictures or
@@ -5541,8 +5541,8 @@ Descript     : A class and package is provided which allows TeX pictures or
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Converting a string between different encodings
+From repo    : updates-testing
+Short desc   : Converting a string between different encodings
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides \StringEncodingConvert for converting a
@@ -5557,8 +5557,8 @@ Descript     : This package provides \StringEncodingConvert for converting a
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Figures broken into subfigures
+From repo    : updates-testing
+Short desc   : Figures broken into subfigures
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides support for the manipulation and reference
@@ -5587,8 +5587,8 @@ Descript     : The package provides support for the manipulation and reference
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Subversion variants of \Provides... macros
+From repo    : updates-testing
+Short desc   : Subversion variants of \Provides... macros
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package introduces Subversion variants of the standard
@@ -5605,8 +5605,8 @@ Descript     : The package introduces Subversion variants of the standard
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -5628,8 +5628,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : A sophisticated typesetting engine
+From repo    : fedora
+Short desc   : A sophisticated typesetting engine
 URL          : http://tug.org/texlive/
 License      : Knuth
 Descript     : TeX is a typesetting system that incorporates a macro
@@ -5650,8 +5650,8 @@ Descript     : TeX is a typesetting system that incorporates a macro
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : TeX Fonts extending freely available URW fonts
+From repo    : updates-testing
+Short desc   : TeX Fonts extending freely available URW fonts
 URL          : http://tug.org/texlive/
 License      : GFSL
 Descript     : The TeX-GYRE bundle consists of six font families: TeX Gyre
@@ -5689,8 +5689,8 @@ Descript     : The TeX-GYRE bundle consists of six font families: TeX Gyre
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Maths fonts to match tex-gyre text fonts
+From repo    : updates-testing
+Short desc   : Maths fonts to match tex-gyre text fonts
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : TeX-Gyre-Math is a collection of maths fonts to match the text
@@ -5710,8 +5710,8 @@ Descript     : TeX-Gyre-Math is a collection of maths fonts to match the text
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Model TeX format creation files
+From repo    : updates-testing
+Short desc   : Model TeX format creation files
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : This bundle provides a collection of model .ini files for
@@ -5729,8 +5729,8 @@ Descript     : This bundle provides a collection of model .ini files for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Documentation for texlive-common
+From repo    : updates-testing
+Short desc   : Documentation for texlive-common
 URL          : http://tug.org/texlive/
 License      : Artistic 2.0 and CC-BY and CC-BY-SA and GPLv2 and GPLv2+ and GPLv3+ and LGPLv2+ and LPPL and MIT and Public Domain and UCD and Utopia
 Descript     : Documentation for texlive-common
@@ -5743,8 +5743,8 @@ Descript     : Documentation for texlive-common
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : top-level TeX Live doc.html, etc
+From repo    : updates-testing
+Short desc   : top-level TeX Live doc.html, etc
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : These files are regenerated as needed, which is often, so we
@@ -5759,8 +5759,8 @@ Descript     : These files are regenerated as needed, which is often, so we
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : TeX Live manual (English)
+From repo    : fedora
+Short desc   : TeX Live manual (English)
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : TeX Live manual (English).
@@ -5773,8 +5773,8 @@ Descript     : TeX Live manual (English).
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : translations of the TeX Live installer and TeX Live Manager
+From repo    : updates-testing
+Short desc   : translations of the TeX Live installer and TeX Live Manager
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package contains the translated messages of the TeX Live
@@ -5790,8 +5790,8 @@ Descript     : This package contains the translated messages of the TeX Live
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : TeX Live infrastructure programs
+From repo    : fedora
+Short desc   : TeX Live infrastructure programs
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Includes install-tl, tl-portable, rungs, etc.; not needed for
@@ -5805,8 +5805,8 @@ Descript     : Includes install-tl, tl-portable, rungs, etc.; not needed for
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : Basic TeX Live infrastructure
+From repo    : fedora
+Short desc   : Basic TeX Live infrastructure
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package contains the files needed to get the TeX Live
@@ -5822,8 +5822,8 @@ Descript     : This package contains the files needed to get the TeX Live
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Case conversion ignoring mathematics, etc
+From repo    : updates-testing
+Short desc   : Case conversion ignoring mathematics, etc
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The textcase package offers commands \MakeTextUppercase and
@@ -5845,8 +5845,8 @@ Descript     : The textcase package offers commands \MakeTextUppercase and
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : Thumbnails for pdfTeX and dvips/ps2pdf
+From repo    : fedora
+Short desc   : Thumbnails for pdfTeX and dvips/ps2pdf
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : A Perl script that provides support for thumbnails in pdfTeX
@@ -5864,8 +5864,8 @@ Descript     : A Perl script that provides support for thumbnails in pdfTeX
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -5887,8 +5887,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Fonts and macros for IPA phonetics characters
+From repo    : updates-testing
+Short desc   : Fonts and macros for IPA phonetics characters
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : These fonts are considered the 'ultimate answer' to IPA
@@ -5905,8 +5905,8 @@ Descript     : These fonts are considered the 'ultimate answer' to IPA
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Select alternative section titles
+From repo    : updates-testing
+Short desc   : Select alternative section titles
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : A package providing an interface to sectioning commands for
@@ -5924,8 +5924,8 @@ Descript     : A package providing an interface to sectioning commands for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : The LaTeX standard tools bundle
+From repo    : updates-testing
+Short desc   : The LaTeX standard tools bundle
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : A collection of (variously) simple tools provided as part of
@@ -5943,8 +5943,8 @@ Descript     : A collection of (variously) simple tools provided as part of
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Easy translation of strings in LaTeX
+From repo    : updates-testing
+Short desc   : Easy translation of strings in LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL or GPL+
 Descript     : This LaTeX package provides a flexible mechanism for
@@ -5965,8 +5965,8 @@ Descript     : This LaTeX package provides a flexible mechanism for
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Using a color stack for transparency with pdfTeX
+From repo    : updates-testing
+Short desc   : Using a color stack for transparency with pdfTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : Since version 1.40 pdfTeX supports several color stacks; the
@@ -5981,8 +5981,8 @@ Descript     : Since version 1.40 pdfTeX supports several color stacks; the
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Times-like fonts in support of mathematics
+From repo    : updates-testing
+Short desc   : Times-like fonts in support of mathematics
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : Txfonts supplies virtual text roman fonts using Adobe Times (or
@@ -6005,8 +6005,8 @@ Descript     : Txfonts supplies virtual text roman fonts using Adobe Times (or
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Typeset HTML directly from LaTeX
+From repo    : updates-testing
+Short desc   : Typeset HTML directly from LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : Can handle almost all of HTML2, and most of the math fragment
@@ -6020,8 +6020,8 @@ Descript     : Can handle almost all of HTML2, and most of the math fragment
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Implementation of the (new in 2015) XeTeX \Ucharcat command in lua, for LuaTeX
+From repo    : updates-testing
+Short desc   : Implementation of the (new in 2015) XeTeX \Ucharcat command in lua, for LuaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package implements the \Ucharcat command for LuaLaTeX.
@@ -6038,8 +6038,8 @@ Descript     : The package implements the \Ucharcat command for LuaLaTeX.
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extended UTF-8 input encoding support for LaTeX
+From repo    : updates-testing
+Short desc   : Extended UTF-8 input encoding support for LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The bundle provides the ucs package, and utf8x.def, together
@@ -6061,8 +6061,8 @@ Descript     : The bundle provides the ucs package, and utf8x.def, together
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Control the behaviour of "_" in text
+From repo    : updates-testing
+Short desc   : Control the behaviour of "_" in text
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : With the package, \_ in text mode (i.e., \textunderscore)
@@ -6081,8 +6081,8 @@ Descript     : With the package, \_ in text mode (i.e., \textunderscore)
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Unicode data and loaders for TeX
+From repo    : updates-testing
+Short desc   : Unicode data and loaders for TeX
 URL          : http://tug.org/texlive/
 License      : LPPL and Unicode
 Descript     : This bundle provides generic access to Unicode Consortium data
@@ -6108,8 +6108,8 @@ Descript     : This bundle provides generic access to Unicode Consortium data
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Unicode mathematics support for XeTeX and LuaTeX
+From repo    : updates-testing
+Short desc   : Unicode mathematics support for XeTeX and LuaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package will provide a complete implementation of unicode
@@ -6140,8 +6140,8 @@ Descript     : This package will provide a complete implementation of unicode
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Provides unlimited unique counter
+From repo    : updates-testing
+Short desc   : Provides unlimited unique counter
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package provides a kind of counter that provides unique
@@ -6156,8 +6156,8 @@ Descript     : This package provides a kind of counter that provides unique
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Font maps
+From repo    : updates-testing
+Short desc   : Font maps
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : These map files are regenerated every time a new font is added.
@@ -6172,8 +6172,8 @@ Descript     : These map files are regenerated every time a new font is added.
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Verbatim with URL-sensitive line breaks
+From repo    : updates-testing
+Short desc   : Verbatim with URL-sensitive line breaks
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The command \url is a form of verbatim command that allows
@@ -6196,8 +6196,8 @@ Descript     : The command \url is a form of verbatim command that allows
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Adobe Utopia fonts
+From repo    : updates-testing
+Short desc   : Adobe Utopia fonts
 URL          : http://tug.org/texlive/
 License      : Utopia
 Descript     : The Adobe Standard Encoding set (upright and italic shapes,
@@ -6214,8 +6214,8 @@ Descript     : The Adobe Standard Encoding set (upright and italic shapes,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A variable-width minipage
+From repo    : updates-testing
+Short desc   : A variable-width minipage
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The varwidth environment is superficially similar to minipage,
@@ -6230,8 +6230,8 @@ Descript     : The varwidth environment is superficially similar to minipage,
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : The wasy fonts (Waldi symbol fonts)
+From repo    : updates-testing
+Short desc   : The wasy fonts (Waldi symbol fonts)
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : This font contains all lasy characters (by L.Lamport, copyright
@@ -6251,8 +6251,8 @@ Descript     : This font contains all lasy characters (by L.Lamport, copyright
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Type 1 versions of wasy fonts
+From repo    : updates-testing
+Short desc   : Type 1 versions of wasy fonts
 URL          : http://tug.org/texlive/
 License      : Public Domain
 Descript     : Converted (Adobe Type 1) outlines of the wasy fonts.
@@ -6265,8 +6265,8 @@ Descript     : Converted (Adobe Type 1) outlines of the wasy fonts.
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : LaTeX support file to use the WASY2 fonts
+From repo    : updates-testing
+Short desc   : LaTeX support file to use the WASY2 fonts
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The wasy (Waldi Symbol) font by Roland Waldi provides many
@@ -6283,8 +6283,8 @@ Descript     : The wasy (Waldi Symbol) font by Roland Waldi provides many
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Driver-independent color extensions for LaTeX and pdfLaTeX
+From repo    : updates-testing
+Short desc   : Driver-independent color extensions for LaTeX and pdfLaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package starts from the basic facilities of the color
@@ -6305,8 +6305,8 @@ Descript     : The package starts from the basic facilities of the color
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : A DVI previewer for the X Window System
+From repo    : fedora
+Short desc   : A DVI previewer for the X Window System
 URL          : http://tug.org/texlive/
 License      : MIT
 Descript     : The canonical previewer for use on Unix and other X-windows
@@ -6320,8 +6320,8 @@ Descript     : The canonical previewer for use on Unix and other X-windows
 
 ```
 Эпоха        : 9
-From repo     : fedora
-Short desc    : Unicode and OpenType-enabled TeX engine
+From repo    : fedora
+Short desc   : Unicode and OpenType-enabled TeX engine
 URL          : http://tug.org/texlive/
 License      : MIT
 Descript     : XeTeX is an extension of TeX that integrates TeX's typesetting capabilities
@@ -6344,8 +6344,8 @@ Descript     : XeTeX is an extension of TeX that integrates TeX's typesetting ca
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Configuration files for XeTeX
+From repo    : updates-testing
+Short desc   : Configuration files for XeTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : special crop.cfg for XeTeX
@@ -6358,8 +6358,8 @@ Descript     : special crop.cfg for XeTeX
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extended conditional commands
+From repo    : updates-testing
+Short desc   : Extended conditional commands
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : This package extends the ifthen package by implementing new
@@ -6378,8 +6378,8 @@ Descript     : This package extends the ifthen package by implementing new
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extension of the keyval package
+From repo    : updates-testing
+Short desc   : Extension of the keyval package
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package is an extension of the keyval package and offers
@@ -6398,8 +6398,8 @@ Descript     : This package is an extension of the keyval package and offers
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : "Extras" for LaTeX users of XeTeX
+From repo    : updates-testing
+Short desc   : "Extras" for LaTeX users of XeTeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package loads the fixltx2e package from the LaTeX
@@ -6422,8 +6422,8 @@ Descript     : The package loads the fixltx2e package from the LaTeX
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Extending etoolbox patching commands
+From repo    : updates-testing
+Short desc   : Extending etoolbox patching commands
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package generalises the macro patching commands provided by
@@ -6437,8 +6437,8 @@ Descript     : The package generalises the macro patching commands provided by
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : String manipulation for (La)TeX
+From repo    : updates-testing
+Short desc   : String manipulation for (La)TeX
 URL          : http://tug.org/texlive/
 License      : LPPL
 Descript     : The package provides macros for manipulating strings -- testing
@@ -6457,8 +6457,8 @@ Descript     : The package provides macros for manipulating strings -- testing
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : Generate Unicode characters from accented glyphs
+From repo    : updates-testing
+Short desc   : Generate Unicode characters from accented glyphs
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : The package supports XeTeX's (and other putative future similar
@@ -6476,8 +6476,8 @@ Descript     : The package supports XeTeX's (and other putative future similar
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -6499,8 +6499,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : URW "Base 35" font pack for LaTeX
+From repo    : updates-testing
+Short desc   : URW "Base 35" font pack for LaTeX
 URL          : http://tug.org/texlive/
 License      : GPL+
 Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
@@ -6522,8 +6522,8 @@ Descript     : A set of fonts for use as "drop-in" replacements for Adobe's
 
 ```
 Эпоха        : 9
-From repo     : updates-testing
-Short desc    : A new reference scheme for LaTeX
+From repo    : updates-testing
+Short desc   : A new reference scheme for LaTeX
 URL          : http://tug.org/texlive/
 License      : LPPL 1.3
 Descript     : This package offers a means to remove the limitation, of only
@@ -6556,8 +6556,8 @@ Descript     : This package offers a means to remove the limitation, of only
 <summary>thai-scalable-fonts-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Common files of thai-scalable-fonts
+From repo    : anaconda
+Short desc   : Common files of thai-scalable-fonts
 URL          : http://linux.thai.net/projects/thaifonts-scalable
 License      : GPLv2+ and Bitstream Vera
 Descript     : 
@@ -6572,8 +6572,8 @@ Descript     :
 <summary>thai-scalable-waree-fonts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Thai Waree fonts
+From repo    : anaconda
+Short desc   : Thai Waree fonts
 URL          : http://linux.thai.net/projects/thaifonts-scalable
 License      : GPLv2+ and Bitstream Vera
 Descript     : 
@@ -6588,8 +6588,8 @@ Descript     :
 <summary>thermald</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Thermal Management daemon
+From repo    : anaconda
+Short desc   : Thermal Management daemon
 URL          : https://github.com/intel/thermal_daemon
 License      : GPLv2+
 Descript     : thermald monitors and controls platform temperature.
@@ -6605,8 +6605,8 @@ Descript     : thermald monitors and controls platform temperature.
 <summary>tigervnc-license</summary>
 
 ```
-From repo     : anaconda
-Short desc    : License of TigerVNC suite
+From repo    : anaconda
+Short desc   : License of TigerVNC suite
 URL          : http://www.tigervnc.com
 License      : GPLv2+
 Descript     : This package contains license of the TigerVNC suite
@@ -6618,8 +6618,8 @@ Descript     : This package contains license of the TigerVNC suite
 <summary>tigervnc-server-minimal</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A minimal installation of TigerVNC server
+From repo    : anaconda
+Short desc   : A minimal installation of TigerVNC server
 URL          : http://www.tigervnc.com
 License      : GPLv2+
 Descript     : The VNC system allows you to access the same desktop from a wide
@@ -6634,8 +6634,8 @@ Descript     : The VNC system allows you to access the same desktop from a wide
 <summary>time</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GNU utility for monitoring a program's use of system resources
+From repo    : anaconda
+Short desc   : A GNU utility for monitoring a program's use of system resources
 URL          : https://www.gnu.org/software/time/
 License      : GPLv3+ and GFDL
 Descript     : The GNU time utility runs another program, collects information about
@@ -6649,8 +6649,8 @@ Descript     : The GNU time utility runs another program, collects information a
 <summary>timeshift</summary>
 
 ```
-From repo     : fedora
-Short desc    : System restore tool for Linux
+From repo    : fedora
+Short desc   : System restore tool for Linux
 URL          : https://github.com/teejee2008/timeshift
 License      : GPLv3+ or LGPLv3+
 Descript     : Timeshift for Linux is an application that provides functionality similar to
@@ -6674,8 +6674,8 @@ Descript     : Timeshift for Linux is an application that provides functionality
 <summary>tinyxml2</summary>
 
 ```
-From repo     : fedora
-Short desc    : Simple, small and efficient C++ XML parser
+From repo    : fedora
+Short desc   : Simple, small and efficient C++ XML parser
 URL          : https://github.com/leethomason/tinyxml2
 License      : zlib
 Descript     : TinyXML-2 is a simple, small, efficient, C++ XML parser that can be
@@ -6698,8 +6698,8 @@ Descript     : TinyXML-2 is a simple, small, efficient, C++ XML parser that can 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : A set of extension widgets for Tk
+From repo    : fedora
+Short desc   : A set of extension widgets for Tk
 URL          : http://tix.sourceforge.net/
 License      : TCL
 Descript     : Tix, the Tk Interface eXtension, is a powerful set of user interface
@@ -6715,8 +6715,8 @@ Descript     : Tix, the Tk Interface eXtension, is a powerful set of user interf
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : The graphical toolkit for the Tcl scripting language
+From repo    : fedora
+Short desc   : The graphical toolkit for the Tcl scripting language
 URL          : http://tcl.sourceforge.net
 License      : TCL
 Descript     : When paired with the Tcl scripting language, Tk provides a fast and powerful
@@ -6730,8 +6730,8 @@ Descript     : When paired with the Tcl scripting language, Tk provides a fast a
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Tk graphical toolkit development files
+From repo    : fedora
+Short desc   : Tk graphical toolkit development files
 URL          : http://tcl.sourceforge.net
 License      : TCL
 Descript     : When paired with the Tcl scripting language, Tk provides a fast and powerful
@@ -6746,8 +6746,8 @@ Descript     : When paired with the Tcl scripting language, Tk provides a fast a
 <summary>tmpwatch</summary>
 
 ```
-From repo     : fedora
-Short desc    : A utility for removing files based on when they were last accessed
+From repo    : fedora
+Short desc   : A utility for removing files based on when they were last accessed
 URL          : https://fedorahosted.org/tmpwatch/
 License      : GPLv2
 Descript     : The tmpwatch utility recursively searches through specified
@@ -6764,8 +6764,8 @@ Descript     : The tmpwatch utility recursively searches through specified
 <summary>tmux</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A terminal multiplexer
+From repo    : anaconda
+Short desc   : A terminal multiplexer
 URL          : https://tmux.github.io/
 License      : ISC and BSD
 Descript     : tmux is a "terminal multiplexer."  It enables a number of terminals (or
@@ -6781,8 +6781,8 @@ Descript     : tmux is a "terminal multiplexer."  It enables a number of termina
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Movie player for GNOME
+From repo    : updates-testing
+Short desc   : Movie player for GNOME
 URL          : https://wiki.gnome.org/Apps/Videos
 License      : GPLv2+ with exceptions
 Descript     : Totem is simple movie player for the GNOME desktop. It features a
@@ -6798,8 +6798,8 @@ Descript     : Totem is simple movie player for the GNOME desktop. It features a
 <summary>totem-pl-parser</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Totem Playlist Parser library
+From repo    : anaconda
+Short desc   : Totem Playlist Parser library
 URL          : https://wiki.gnome.org/Apps/Videos
 License      : LGPLv2+
 Descript     : A library to parse and save playlists, as used in music and movie players.
@@ -6812,8 +6812,8 @@ Descript     : A library to parse and save playlists, as used in music and movie
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Totem video thumbnailer
+From repo    : anaconda
+Short desc   : Totem video thumbnailer
 URL          : https://wiki.gnome.org/Apps/Videos
 License      : GPLv2+ with exceptions
 Descript     : This package contains the Totem video thumbnailer.
@@ -6826,8 +6826,8 @@ Descript     : This package contains the Totem video thumbnailer.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Totem video thumbnailer
+From repo    : updates-testing
+Short desc   : Totem video thumbnailer
 URL          : https://wiki.gnome.org/Apps/Videos
 License      : GPLv2+ with exceptions
 Descript     : This package contains the Totem video thumbnailer.
@@ -6839,8 +6839,8 @@ Descript     : This package contains the Totem video thumbnailer.
 <summary>tpm2-tss</summary>
 
 ```
-From repo     : anaconda
-Short desc    : TPM2.0 Software Stack
+From repo    : anaconda
+Short desc   : TPM2.0 Software Stack
 URL          : https://github.com/tpm2-software/tpm2-tss
 License      : BSD and TCGL
 Descript     : tpm2-tss is a software stack supporting Trusted Platform Module(TPM) 2.0 system
@@ -6855,8 +6855,8 @@ Descript     : tpm2-tss is a software stack supporting Trusted Platform Module(T
 
 ```
 Эпоха        : 3
-From repo     : anaconda
-Short desc    : Traces the route taken by packets over an IPv4/IPv6 network
+From repo    : anaconda
+Short desc   : Traces the route taken by packets over an IPv4/IPv6 network
 URL          : http://traceroute.sourceforge.net
 License      : GPLv2+
 Descript     : The traceroute utility displays the route used by IP packets on their
@@ -6876,8 +6876,8 @@ Descript     : The traceroute utility displays the route used by IP packets on t
 <summary>tracker</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Desktop-neutral metadata database and search tool
+From repo    : anaconda
+Short desc   : Desktop-neutral metadata database and search tool
 URL          : https://wiki.gnome.org/Projects/Tracker
 License      : GPLv2+
 Descript     : Tracker is a powerful desktop-neutral first class object database,
@@ -6900,8 +6900,8 @@ Descript     : Tracker is a powerful desktop-neutral first class object database
 <summary>tracker</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Desktop-neutral metadata database and search tool
+From repo    : updates-testing
+Short desc   : Desktop-neutral metadata database and search tool
 URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 License      : GPLv2+
 Descript     : Tracker is a powerful desktop-neutral first class object database,
@@ -6924,8 +6924,8 @@ Descript     : Tracker is a powerful desktop-neutral first class object database
 <summary>tracker-miners</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tracker miners and metadata extractors
+From repo    : anaconda
+Short desc   : Tracker miners and metadata extractors
 URL          : https://wiki.gnome.org/Projects/Tracker
 License      : GPLv2+ and LGPLv2+
 Descript     : Tracker is a powerful desktop-neutral first class object database,
@@ -6940,8 +6940,8 @@ Descript     : Tracker is a powerful desktop-neutral first class object database
 <summary>tracker-miners</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Tracker miners and metadata extractors
+From repo    : updates-testing
+Short desc   : Tracker miners and metadata extractors
 URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 License      : GPLv2+ and LGPLv2+
 Descript     : Tracker is a powerful desktop-neutral first class object database,
@@ -6956,8 +6956,8 @@ Descript     : Tracker is a powerful desktop-neutral first class object database
 <summary>tracker3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Desktop-neutral metadata database and search tool
+From repo    : anaconda
+Short desc   : Desktop-neutral metadata database and search tool
 URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 License      : GPLv2+
 Descript     : Tracker is a powerful desktop-neutral first class object database,
@@ -6980,8 +6980,8 @@ Descript     : Tracker is a powerful desktop-neutral first class object database
 <summary>tracker3-miners</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tracker miners and metadata extractors
+From repo    : anaconda
+Short desc   : Tracker miners and metadata extractors
 URL          : https://gnome.pages.gitlab.gnome.org/tracker/
 License      : GPLv2+ and LGPLv2+
 Descript     : Tracker is a powerful desktop-neutral first class object database,
@@ -6996,8 +6996,8 @@ Descript     : Tracker is a powerful desktop-neutral first class object database
 <summary>trafshow</summary>
 
 ```
-From repo     : fedora
-Short desc    : Полноэкранное отображение текущего сетевого трафика в сети
+From repo    : fedora
+Short desc   : Полноэкранное отображение текущего сетевого трафика в сети
 URL          : http://hubbitus.net.ru/trafshow/
 License      : BSD
 Descript     : TrafShow продолжительно отображает информацию о сетевом трафике на
@@ -7014,8 +7014,8 @@ Descript     : TrafShow продолжительно отображает инф
 <summary>tre</summary>
 
 ```
-From repo     : fedora
-Short desc    : POSIX compatible regexp library with approximate matching
+From repo    : fedora
+Short desc   : POSIX compatible regexp library with approximate matching
 URL          : http://laurikari.net/tre/
 License      : BSD
 Descript     : TRE is a lightweight, robust, and efficient POSIX compatible regexp
@@ -7029,8 +7029,8 @@ Descript     : TRE is a lightweight, robust, and efficient POSIX compatible rege
 <summary>tre-common</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cross-platform files for use with the tre package
+From repo    : fedora
+Short desc   : Cross-platform files for use with the tre package
 URL          : http://laurikari.net/tre/
 License      : BSD
 Descript     : This package contains platform-agnostic files used by the TRE
@@ -7043,8 +7043,8 @@ Descript     : This package contains platform-agnostic files used by the TRE
 <summary>tree</summary>
 
 ```
-From repo     : anaconda
-Short desc    : File system tree viewer
+From repo    : anaconda
+Short desc   : File system tree viewer
 URL          : http://mama.indstate.edu/users/ice/tree/
 License      : GPLv2+
 Descript     : The tree utility recursively displays the contents of directories in a
@@ -7058,8 +7058,8 @@ Descript     : The tree utility recursively displays the contents of directories
 <summary>trousers</summary>
 
 ```
-From repo     : anaconda
-Short desc    : TCG's Software Stack v1.2
+From repo    : anaconda
+Short desc   : TCG's Software Stack v1.2
 URL          : http://trousers.sourceforge.net
 License      : BSD
 Descript     : TrouSerS is an implementation of the Trusted Computing Group's Software Stack
@@ -7075,8 +7075,8 @@ Descript     : TrouSerS is an implementation of the Trusted Computing Group's So
 <summary>trousers-lib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : TrouSerS libtspi library
+From repo    : anaconda
+Short desc   : TrouSerS libtspi library
 URL          : http://trousers.sourceforge.net
 License      : BSD
 Descript     : The libtspi library for use in Trusted Computing enabled applications.
@@ -7088,8 +7088,8 @@ Descript     : The libtspi library for use in Trusted Computing enabled applicat
 <summary>ttmkfdir</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility to create fonts.scale files for truetype fonts
+From repo    : fedora
+Short desc   : Utility to create fonts.scale files for truetype fonts
 License      : LGPLv2+
 Descript     : ttmkfdir is a utility used to create fonts.scale files in
              : TrueType font directories in order to prepare them for use
@@ -7102,8 +7102,8 @@ Descript     : ttmkfdir is a utility used to create fonts.scale files in
 <summary>tunctl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Create and remove virtual network interfaces
+From repo    : fedora
+Short desc   : Create and remove virtual network interfaces
 URL          : http://tunctl.sourceforge.net/
 License      : GPL+
 Descript     : tunctl is a tool to set up and maintain persistent TUN/TAP network
@@ -7121,8 +7121,8 @@ Descript     : tunctl is a tool to set up and maintain persistent TUN/TAP networ
 <summary>turbojpeg</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : TurboJPEG library
+From repo    : updates-testing
+Short desc   : TurboJPEG library
 URL          : http://sourceforge.net/projects/libjpeg-turbo
 License      : IJG
 Descript     : The turbojpeg package contains the TurboJPEG shared library.
@@ -7134,8 +7134,8 @@ Descript     : The turbojpeg package contains the TurboJPEG shared library.
 <summary>twolame-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : TwoLAME is an optimized MPEG Audio Layer 2 encoding library based on tooLAME
+From repo    : anaconda
+Short desc   : TwoLAME is an optimized MPEG Audio Layer 2 encoding library based on tooLAME
 URL          : http://www.twolame.org/
 License      : LGPLv2+
 Descript     : TwoLAME is an optimized MPEG Audio Layer 2 encoding library based on tooLAME,
@@ -7152,8 +7152,8 @@ Descript     : TwoLAME is an optimized MPEG Audio Layer 2 encoding library based
 <summary>tzdata</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Timezone data
+From repo    : anaconda
+Short desc   : Timezone data
 URL          : https://www.iana.org/time-zones
 License      : Public Domain
 Descript     : This package contains data files with rules for various timezones around
@@ -7166,8 +7166,8 @@ Descript     : This package contains data files with rules for various timezones
 <summary>tzdata-java</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Timezone data for Java
+From repo    : anaconda
+Short desc   : Timezone data for Java
 URL          : https://www.iana.org/time-zones
 License      : Public Domain
 Descript     : This package contains timezone information for use by Java runtimes.

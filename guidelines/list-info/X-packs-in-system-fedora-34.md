@@ -4,8 +4,8 @@
 <summary>Xaw3d</summary>
 
 ```
-From repo     : fedora
-Short desc    : A version of the MIT Athena widget set for X
+From repo    : fedora
+Short desc   : A version of the MIT Athena widget set for X
 URL          : http://xorg.freedesktop.org/
 License      : MIT
 Descript     : Xaw3d is an enhanced version of the MIT Athena Widget set for

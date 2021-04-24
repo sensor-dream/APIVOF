@@ -1,3 +1,5 @@
+0ad
+0ad-data
 2ping
 aajohan-comfortaa-fonts
 aalib-libs
@@ -381,6 +383,7 @@ elfutils-libs
 emacs-filesystem
 enchant
 enchant2
+enet
 environment-modules
 eog
 esmtp
@@ -649,6 +652,7 @@ glib-devel
 glibmm24
 glib-networking
 gl-manpages
+gloox
 glpk
 glusterfs
 glusterfs-cli
@@ -1330,6 +1334,7 @@ libicu
 libicu-devel
 libid3tag
 libIDL
+libidn
 libidn2
 libiec61883
 libieee1284
@@ -1937,6 +1942,7 @@ metis
 microcode_ctl
 minder
 ming
+miniupnpc
 minizip
 minizip-compat
 mjpegtools-libs
@@ -2060,6 +2066,7 @@ ntfs-3g-system-compression
 ntfsprogs
 numactl-libs
 numad
+nvidia-texture-tools
 nvme-cli
 nvmetcli
 nx-libs
@@ -4152,6 +4159,7 @@ wpebackend-fdo
 wv
 wxBase3
 wxGTK3
+wxGTK3-gl
 wxGTK3-i18n
 wxGTK3-webview
 x264-libs

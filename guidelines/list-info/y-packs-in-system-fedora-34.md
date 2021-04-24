@@ -4,8 +4,8 @@
 <summary>yajl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Yet Another JSON Library (YAJL)
+From repo    : anaconda
+Short desc   : Yet Another JSON Library (YAJL)
 URL          : http://lloyd.github.com/yajl/
 License      : ISC
 Descript     : Yet Another JSON Library. YAJL is a small event-driven
@@ -19,8 +19,8 @@ Descript     : Yet Another JSON Library. YAJL is a small event-driven
 <summary>yaml-cpp</summary>
 
 ```
-From repo     : fedora
-Short desc    : A YAML parser and emitter for C++
+From repo    : fedora
+Short desc   : A YAML parser and emitter for C++
 URL          : https://github.com/jbeder/yaml-cpp
 License      : MIT
 Descript     : yaml-cpp is a YAML parser and emitter in C++ written around the YAML 1.2 spec.
@@ -32,8 +32,8 @@ Descript     : yaml-cpp is a YAML parser and emitter in C++ written around the Y
 <summary>yamllint</summary>
 
 ```
-From repo     : fedora
-Short desc    : A linter for YAML files
+From repo    : fedora
+Short desc   : A linter for YAML files
 URL          : https://github.com/adrienverge/yamllint
 License      : GPLv3+
 Descript     : A linter for YAML files.
@@ -49,8 +49,8 @@ Descript     : A linter for YAML files.
 <summary>yarnpkg</summary>
 
 ```
-From repo     : fedora
-Short desc    : Fast, reliable, and secure dependency management.
+From repo    : fedora
+Short desc   : Fast, reliable, and secure dependency management.
 URL          : https://github.com/yarnpkg/yarn
 License      : BSD
 Descript     : Fast, reliable, and secure dependency management.
@@ -62,8 +62,8 @@ Descript     : Fast, reliable, and secure dependency management.
 <summary>yaru-gtk2-theme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GTK+ 2 support for the Yaru GTK Theme
+From repo    : updates-testing
+Short desc   : GTK+ 2 support for the Yaru GTK Theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 License      : GPLv3+ and CC-BY-SA
 Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
@@ -79,8 +79,8 @@ Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by th
 <summary>yaru-gtk3-theme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GTK+ 3 support for the Yaru GTK Theme
+From repo    : updates-testing
+Short desc   : GTK+ 3 support for the Yaru GTK Theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 License      : GPLv3+ and CC-BY-SA
 Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
@@ -96,8 +96,8 @@ Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by th
 <summary>yaru-gtk4-theme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GTK+ 3 support for the Yaru GTK Theme
+From repo    : updates-testing
+Short desc   : GTK+ 3 support for the Yaru GTK Theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 License      : GPLv3+ and CC-BY-SA
 Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
@@ -113,8 +113,8 @@ Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by th
 <summary>yaru-icon-theme</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Yaru icon theme
+From repo    : updates-testing
+Short desc   : Yaru icon theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 License      : CC-BY-SA
 Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
@@ -131,8 +131,8 @@ Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by th
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Help browser for the GNOME desktop
+From repo    : updates-testing
+Short desc   : Help browser for the GNOME desktop
 URL          : https://wiki.gnome.org/Apps/Yelp
 License      : LGPLv2+ and ASL 2.0 and GPLv2+
 Descript     : Yelp is the help browser for the GNOME desktop. It is designed
@@ -148,8 +148,8 @@ Descript     : Yelp is the help browser for the GNOME desktop. It is designed
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Help browser for the GNOME desktop
+From repo    : anaconda
+Short desc   : Help browser for the GNOME desktop
 URL          : https://wiki.gnome.org/Apps/Yelp
 License      : LGPLv2+ and ASL 2.0 and GPLv2+
 Descript     : Yelp is the help browser for the GNOME desktop. It is designed
@@ -165,8 +165,8 @@ Descript     : Yelp is the help browser for the GNOME desktop. It is designed
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : Libraries for yelp
+From repo    : updates-testing
+Short desc   : Libraries for yelp
 URL          : https://wiki.gnome.org/Apps/Yelp
 License      : LGPLv2+ and ASL 2.0 and GPLv2+
 Descript     : This package contains libraries used by the yelp help browser.
@@ -179,8 +179,8 @@ Descript     : This package contains libraries used by the yelp help browser.
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Libraries for yelp
+From repo    : anaconda
+Short desc   : Libraries for yelp
 URL          : https://wiki.gnome.org/Apps/Yelp
 License      : LGPLv2+ and ASL 2.0 and GPLv2+
 Descript     : This package contains libraries used by the yelp help browser.
@@ -192,8 +192,8 @@ Descript     : This package contains libraries used by the yelp help browser.
 <summary>yelp-xsl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : XSL stylesheets for the yelp help browser
+From repo    : updates-testing
+Short desc   : XSL stylesheets for the yelp help browser
 URL          : https://download.gnome.org/sources/yelp-xsl
 License      : LGPLv2+ and GPLv2+
 Descript     : This package contains XSL stylesheets that are used by the yelp help browser.
@@ -205,8 +205,8 @@ Descript     : This package contains XSL stylesheets that are used by the yelp h
 <summary>yelp-xsl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : XSL stylesheets for the yelp help browser
+From repo    : anaconda
+Short desc   : XSL stylesheets for the yelp help browser
 URL          : https://download.gnome.org/sources/yelp-xsl
 License      : LGPLv2+ and GPLv2+
 Descript     : This package contains XSL stylesheets that are used by the yelp help browser.
@@ -218,8 +218,8 @@ Descript     : This package contains XSL stylesheets that are used by the yelp h
 <summary>ykpers</summary>
 
 ```
-From repo     : fedora
-Short desc    : Yubikey personalization program
+From repo    : fedora
+Short desc   : Yubikey personalization program
 URL          : http://opensource.yubico.com/yubikey-personalization/
 License      : BSD
 Descript     : Yubico's YubiKey can be re-programmed with a new AES key. This is a library
@@ -232,8 +232,8 @@ Descript     : Yubico's YubiKey can be re-programmed with a new AES key. This is
 <summary>yum</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Package manager
+From repo    : updates-testing
+Short desc   : Package manager
 URL          : https://github.com/rpm-software-management/dnf
 License      : GPLv2+
 Descript     : Utility that allows users to manage packages on their systems.

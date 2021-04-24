@@ -4,8 +4,8 @@
 <summary>w3m</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Pager with Web browsing abilities
+From repo    : updates-testing
+Short desc   : Pager with Web browsing abilities
 URL          : http://w3m.sourceforge.net/
 License      : MIT and UCD
 Descript     : The w3m program is a pager (or text file viewer) that can also be used
@@ -26,8 +26,8 @@ Descript     : The w3m program is a pager (or text file viewer) that can also be
 <summary>w3m-img</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Helper program to display the inline images for w3m
+From repo    : updates-testing
+Short desc   : Helper program to display the inline images for w3m
 URL          : http://w3m.sourceforge.net/
 License      : MIT and UCD
 Descript     : w3m-img package provides a helper program for w3m to display the inline
@@ -41,8 +41,8 @@ Descript     : w3m-img package provides a helper program for w3m to display the 
 <summary>wavpack</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A completely open audiocodec
+From repo    : anaconda
+Short desc   : A completely open audiocodec
 URL          : http://www.wavpack.com/
 License      : BSD
 Descript     : WavPack is a completely open audio compression format providing lossless,
@@ -58,8 +58,8 @@ Descript     : WavPack is a completely open audio compression format providing l
 <summary>web-assets-filesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The basic directory layout for Web Assets
+From repo    : anaconda
+Short desc   : The basic directory layout for Web Assets
 URL          : https://fedoraproject.org/wiki/User:Patches/PackagingDrafts/Web_Assets
 License      : Public Domain
 Descript     : The basic directory layout for Web Assets.
@@ -71,8 +71,8 @@ Descript     : The basic directory layout for Web Assets.
 <summary>webkit2gtk3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GTK Web content engine library
+From repo    : anaconda
+Short desc   : GTK Web content engine library
 URL          : https://www.webkitgtk.org/
 License      : LGPLv2
 Descript     : WebKitGTK is the port of the portable web rendering engine WebKit to the
@@ -87,8 +87,8 @@ Descript     : WebKitGTK is the port of the portable web rendering engine WebKit
 <summary>webkit2gtk3</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GTK Web content engine library
+From repo    : updates-testing
+Short desc   : GTK Web content engine library
 URL          : https://www.webkitgtk.org/
 License      : LGPLv2
 Descript     : WebKitGTK is the port of the portable web rendering engine WebKit to the
@@ -103,8 +103,8 @@ Descript     : WebKitGTK is the port of the portable web rendering engine WebKit
 <summary>webkit2gtk3-jsc</summary>
 
 ```
-From repo     : anaconda
-Short desc    : JavaScript engine from webkit2gtk3
+From repo    : anaconda
+Short desc   : JavaScript engine from webkit2gtk3
 URL          : https://www.webkitgtk.org/
 License      : LGPLv2
 Descript     : This package contains JavaScript engine from webkit2gtk3.
@@ -116,8 +116,8 @@ Descript     : This package contains JavaScript engine from webkit2gtk3.
 <summary>webkit2gtk3-jsc</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : JavaScript engine from webkit2gtk3
+From repo    : updates-testing
+Short desc   : JavaScript engine from webkit2gtk3
 URL          : https://www.webkitgtk.org/
 License      : LGPLv2
 Descript     : This package contains JavaScript engine from webkit2gtk3.
@@ -129,8 +129,8 @@ Descript     : This package contains JavaScript engine from webkit2gtk3.
 <summary>webp-pixbuf-loader</summary>
 
 ```
-From repo     : fedora
-Short desc    : WebP image loader for GTK+ applications
+From repo    : fedora
+Short desc   : WebP image loader for GTK+ applications
 URL          : https://github.com/aruiz/webp-pixbuf-loader
 License      : LGPLv2+
 Descript     : webp-pixbuf-loader contains a plugin to load WebP images in GTK+ applications
@@ -142,8 +142,8 @@ Descript     : webp-pixbuf-loader contains a plugin to load WebP images in GTK+ 
 <summary>webrtc-audio-processing</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for echo cancellation
+From repo    : anaconda
+Short desc   : Library for echo cancellation
 URL          : http://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/
 License      : BSD and MIT
 Descript     : webrtc-audio-processing is a library derived from Google WebRTC project that
@@ -157,8 +157,8 @@ Descript     : webrtc-audio-processing is a library derived from Google WebRTC p
 <summary>wget</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A utility for retrieving files using the HTTP or FTP protocols
+From repo    : updates-testing
+Short desc   : A utility for retrieving files using the HTTP or FTP protocols
 URL          : http://www.gnu.org/software/wget/
 License      : GPLv3+
 Descript     : GNU Wget is a file retrieval utility which can use either the HTTP or
@@ -176,8 +176,8 @@ Descript     : GNU Wget is a file retrieval utility which can use either the HTT
 <summary>which</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Displays where a particular program in your path is located
+From repo    : anaconda
+Short desc   : Displays where a particular program in your path is located
 URL          : https://savannah.gnu.org/projects/which/
 License      : GPLv3
 Descript     : The which command shows the full pathname of a specified program, if
@@ -190,8 +190,8 @@ Descript     : The which command shows the full pathname of a specified program,
 <summary>which</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Displays where a particular program in your path is located
+From repo    : updates-testing
+Short desc   : Displays where a particular program in your path is located
 URL          : https://savannah.gnu.org/projects/which/
 License      : GPLv3
 Descript     : The which command shows the full pathname of a specified program, if
@@ -204,8 +204,8 @@ Descript     : The which command shows the full pathname of a specified program,
 <summary>whois-nls</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Gettext catalogs for whois tools
+From repo    : anaconda
+Short desc   : Gettext catalogs for whois tools
 URL          : http://www.linux.it/~md/software/
 License      : GPLv2+
 Descript     : whois tools messages translated into different natural languages.
@@ -217,8 +217,8 @@ Descript     : whois tools messages translated into different natural languages.
 <summary>whois-nls</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Gettext catalogs for whois tools
+From repo    : updates-testing
+Short desc   : Gettext catalogs for whois tools
 URL          : http://www.linux.it/~md/software/
 License      : GPLv2+
 Descript     : whois tools messages translated into different natural languages.
@@ -230,8 +230,8 @@ Descript     : whois tools messages translated into different natural languages.
 <summary>wireless-regdb</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Regulatory database for 802.11 wireless networking
+From repo    : anaconda
+Short desc   : Regulatory database for 802.11 wireless networking
 URL          : https://wireless.wiki.kernel.org/en/developers/regulatory/wireless-regdb
 License      : ISC
 Descript     : The wireless-regdb package provides the regulatory rules database
@@ -246,8 +246,8 @@ Descript     : The wireless-regdb package provides the regulatory rules database
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Wireless ethernet configuration tools
+From repo    : fedora
+Short desc   : Wireless ethernet configuration tools
 URL          : http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html
 License      : GPL+
 Descript     : This package contain the Wireless tools, used to manipulate
@@ -263,8 +263,8 @@ Descript     : This package contain the Wireless tools, used to manipulate
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Network traffic analyzer
+From repo    : fedora
+Short desc   : Network traffic analyzer
 URL          : http://www.wireshark.org/
 License      : GPL+
 Descript     : Wireshark allows you to examine protocol data stored in files or as it is
@@ -285,8 +285,8 @@ Descript     : Wireshark allows you to examine protocol data stored in files or 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Network traffic analyzer
+From repo    : fedora
+Short desc   : Network traffic analyzer
 URL          : http://www.wireshark.org/
 License      : GPL+
 Descript     : This package contains command-line utilities, plugins, and documentation for
@@ -299,8 +299,8 @@ Descript     : This package contains command-line utilities, plugins, and docume
 <summary>wlroots</summary>
 
 ```
-From repo     : fedora
-Short desc    : A modular Wayland compositor library
+From repo    : fedora
+Short desc   : A modular Wayland compositor library
 URL          : https://github.com/swaywm/wlroots
 License      : MIT
 Descript     : A modular Wayland compositor library.
@@ -312,8 +312,8 @@ Descript     : A modular Wayland compositor library.
 <summary>woff2</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Web Open Font Format 2.0 library
+From repo    : anaconda
+Short desc   : Web Open Font Format 2.0 library
 URL          : https://github.com/google/woff2
 License      : MIT
 Descript     : Web Open Font Format (WOFF) 2.0 is an update to the existing WOFF 1.0 with
@@ -328,8 +328,8 @@ Descript     : Web Open Font Format (WOFF) 2.0 is an update to the existing WOFF
 <summary>words</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A dictionary of English words for the /usr/share/dict directory
+From repo    : anaconda
+Short desc   : A dictionary of English words for the /usr/share/dict directory
 URL          : http://en.wikipedia.org/wiki/Moby_Project
 License      : Public Domain
 Descript     : The words file is a dictionary of English words for the
@@ -345,8 +345,8 @@ Descript     : The words file is a dictionary of English words for the
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : WPA/WPA2/IEEE 802.1X Supplicant
+From repo    : anaconda
+Short desc   : WPA/WPA2/IEEE 802.1X Supplicant
 URL          : http://w1.fi/wpa_supplicant/
 License      : BSD
 Descript     : wpa_supplicant is a WPA Supplicant for Linux, BSD and Windows with support
@@ -363,8 +363,8 @@ Descript     : wpa_supplicant is a WPA Supplicant for Linux, BSD and Windows wit
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : WPA/WPA2/IEEE 802.1X Supplicant
+From repo    : updates-testing
+Short desc   : WPA/WPA2/IEEE 802.1X Supplicant
 URL          : http://w1.fi/wpa_supplicant/
 License      : BSD
 Descript     : wpa_supplicant is a WPA Supplicant for Linux, BSD and Windows with support
@@ -380,8 +380,8 @@ Descript     : wpa_supplicant is a WPA Supplicant for Linux, BSD and Windows wit
 <summary>wpebackend-fdo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A WPE backend designed for Linux desktop systems
+From repo    : anaconda
+Short desc   : A WPE backend designed for Linux desktop systems
 URL          : https://github.com/Igalia/wpebackend-fdo
 License      : BSD
 Descript     : A WPE backend designed for Linux desktop systems.
@@ -393,8 +393,8 @@ Descript     : A WPE backend designed for Linux desktop systems.
 <summary>wpebackend-fdo</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A WPE backend designed for Linux desktop systems
+From repo    : updates-testing
+Short desc   : A WPE backend designed for Linux desktop systems
 URL          : https://github.com/Igalia/wpebackend-fdo
 License      : BSD
 Descript     : A WPE backend designed for Linux desktop systems.
@@ -406,8 +406,8 @@ Descript     : A WPE backend designed for Linux desktop systems.
 <summary>wv</summary>
 
 ```
-From repo     : fedora
-Short desc    : MSWord 6/7/8/9 binary file format to HTML converter
+From repo    : fedora
+Short desc   : MSWord 6/7/8/9 binary file format to HTML converter
 URL          : http://www.abisource.com/downloads/wv/
 License      : GPLv2+
 Descript     : Wv is a program that understands the Microsoft Word 6/7/8/9
@@ -421,8 +421,8 @@ Descript     : Wv is a program that understands the Microsoft Word 6/7/8/9
 <summary>wxBase3</summary>
 
 ```
-From repo     : fedora
-Short desc    : Non-GUI support classes from the wxWidgets library
+From repo    : fedora
+Short desc   : Non-GUI support classes from the wxWidgets library
 URL          : https://www.wxwidgets.org/
 License      : wxWidgets
 Descript     : Every wxWidgets application must link against this library. It contains
@@ -438,8 +438,8 @@ Descript     : Every wxWidgets application must link against this library. It co
 <summary>wxGTK3</summary>
 
 ```
-From repo     : fedora
-Short desc    : GTK port of the wxWidgets GUI library
+From repo    : fedora
+Short desc   : GTK port of the wxWidgets GUI library
 URL          : https://www.wxwidgets.org/
 License      : wxWidgets
 Descript     : wxWidgets is the GTK port of the C++ cross-platform wxWidgets
@@ -451,11 +451,28 @@ Descript     : wxWidgets is the GTK port of the C++ cross-platform wxWidgets
 </details>
 
 <details>
+<summary>wxGTK3-gl</summary>
+
+```
+From repo    : fedora
+Short desc   : OpenGL add-on for the wxWidgets library
+URL          : https://www.wxwidgets.org/
+License      : wxWidgets
+Descript     : OpenGL (a 3D graphics API) add-on for the wxWidgets library.
+             : wxWidgets is the GTK port of the C++ cross-platform wxWidgets
+             : GUI library, offering classes for all common GUI controls as well as a
+             : comprehensive set of helper classes for most common application tasks,
+             : ranging from networking to HTML display and image manipulation.
+```
+
+</details>
+
+<details>
 <summary>wxGTK3-i18n</summary>
 
 ```
-From repo     : fedora
-Short desc    : i18n message catalogs for the wxWidgets library
+From repo    : fedora
+Short desc   : i18n message catalogs for the wxWidgets library
 URL          : https://www.wxwidgets.org/
 License      : wxWidgets
 Descript     : i18n message catalogs for the wxWidgets library.
@@ -471,8 +488,8 @@ Descript     : i18n message catalogs for the wxWidgets library.
 <summary>wxGTK3-webview</summary>
 
 ```
-From repo     : fedora
-Short desc    : WebView add-on for the wxWidgets library
+From repo    : fedora
+Short desc   : WebView add-on for the wxWidgets library
 URL          : https://www.wxwidgets.org/
 License      : wxWidgets
 Descript     : WebView add-on for the wxWidgets library.

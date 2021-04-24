@@ -4,8 +4,8 @@
 <summary>DevIL</summary>
 
 ```
-From repo     : fedora
-Short desc    : A cross-platform image library
+From repo    : fedora
+Short desc   : A cross-platform image library
 URL          : http://openil.sourceforge.net/
 License      : LGPLv2
 Descript     : Developer's Image Library (DevIL) is a programmer's library to develop

@@ -4,8 +4,8 @@
 <summary>c-ares</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library that performs asynchronous DNS operations
+From repo    : anaconda
+Short desc   : A library that performs asynchronous DNS operations
 URL          : http://c-ares.haxx.se/
 License      : MIT
 Descript     : c-ares is a C library that performs DNS requests and name resolves
@@ -19,8 +19,8 @@ Descript     : c-ares is a C library that performs DNS requests and name resolve
 <summary>ca-certificates</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Mozilla CA root certificate bundle
+From repo    : anaconda
+Short desc   : The Mozilla CA root certificate bundle
 URL          : https://fedoraproject.org/wiki/CA-Certificates
 License      : Public Domain
 Descript     : This package contains the set of CA certificates chosen by the
@@ -33,8 +33,8 @@ Descript     : This package contains the set of CA certificates chosen by the
 <summary>cabextract</summary>
 
 ```
-From repo     : fedora
-Short desc    : Utility for extracting cabinet (.cab) archives
+From repo    : fedora
+Short desc   : Utility for extracting cabinet (.cab) archives
 URL          : http://www.cabextract.org.uk/
 License      : GPLv2+
 Descript     : cabextract is a program which can extract files from cabinet (.cab)
@@ -47,8 +47,8 @@ Descript     : cabextract is a program which can extract files from cabinet (.ca
 <summary>caca-utils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Colour AsCii Art Text mode graphics utilities based on libcaca
+From repo    : fedora
+Short desc   : Colour AsCii Art Text mode graphics utilities based on libcaca
 URL          : http://caca.zoy.org/wiki/libcaca
 License      : WTFPL
 Descript     : This package contains utilities and demonstration programs for libcaca, the
@@ -72,8 +72,8 @@ Descript     : This package contains utilities and demonstration programs for li
 <summary>cairo</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A 2D graphics library
+From repo    : anaconda
+Short desc   : A 2D graphics library
 URL          : http://cairographics.org
 License      : LGPLv2 or MPLv1.1
 Descript     : Cairo is a 2D graphics library designed to provide high-quality display
@@ -90,8 +90,8 @@ Descript     : Cairo is a 2D graphics library designed to provide high-quality d
 <summary>cairo</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A 2D graphics library
+From repo    : updates-testing
+Short desc   : A 2D graphics library
 URL          : http://cairographics.org
 License      : LGPLv2 or MPLv1.1
 Descript     : Cairo is a 2D graphics library designed to provide high-quality display
@@ -108,8 +108,8 @@ Descript     : Cairo is a 2D graphics library designed to provide high-quality d
 <summary>cairo-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development files for cairo
+From repo    : updates-testing
+Short desc   : Development files for cairo
 URL          : http://cairographics.org
 License      : LGPLv2 or MPLv1.1
 Descript     : Cairo is a 2D graphics library designed to provide high-quality display
@@ -125,8 +125,8 @@ Descript     : Cairo is a 2D graphics library designed to provide high-quality d
 <summary>cairo-gobject</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GObject bindings for cairo
+From repo    : anaconda
+Short desc   : GObject bindings for cairo
 URL          : http://cairographics.org
 License      : LGPLv2 or MPLv1.1
 Descript     : Cairo is a 2D graphics library designed to provide high-quality display
@@ -142,8 +142,8 @@ Descript     : Cairo is a 2D graphics library designed to provide high-quality d
 <summary>cairo-gobject</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : GObject bindings for cairo
+From repo    : updates-testing
+Short desc   : GObject bindings for cairo
 URL          : http://cairographics.org
 License      : LGPLv2 or MPLv1.1
 Descript     : Cairo is a 2D graphics library designed to provide high-quality display
@@ -159,8 +159,8 @@ Descript     : Cairo is a 2D graphics library designed to provide high-quality d
 <summary>cairomm</summary>
 
 ```
-From repo     : anaconda
-Short desc    : C++ API for the cairo graphics library
+From repo    : anaconda
+Short desc   : C++ API for the cairo graphics library
 URL          : https://www.cairographics.org
 License      : LGPLv2+
 Descript     : This library provides a C++ interface to cairo.
@@ -174,8 +174,8 @@ Descript     : This library provides a C++ interface to cairo.
 <summary>capstone</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A lightweight multi-platform, multi-architecture disassembly framework
+From repo    : anaconda
+Short desc   : A lightweight multi-platform, multi-architecture disassembly framework
 URL          : http://www.capstone-engine.org/
 License      : BSD
 Descript     : 
@@ -189,8 +189,8 @@ Descript     :
 <summary>castxml</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C-family abstract syntax tree XML output tool
+From repo    : updates-testing
+Short desc   : C-family abstract syntax tree XML output tool
 URL          : https://github.com/CastXML/CastXML
 License      : ASL 2.0
 Descript     : Parse C-family source files and optionally write a subset of the
@@ -208,8 +208,8 @@ Descript     : Parse C-family source files and optionally write a subset of the
 <summary>catatonit</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A signal-forwarding process manager for containers
+From repo    : anaconda
+Short desc   : A signal-forwarding process manager for containers
 URL          : https://github.com/openSUSE/catatonit
 License      : GPLv3+
 Descript     : Catatonit is a /sbin/init program for use within containers. It
@@ -228,8 +228,8 @@ Descript     : Catatonit is a /sbin/init program for use within containers. It
 <summary>catimg</summary>
 
 ```
-From repo     : fedora
-Short desc    : Print images in a terminal with 256 colors support
+From repo    : fedora
+Short desc   : Print images in a terminal with 256 colors support
 URL          : https://github.com/posva/catimg
 License      : MIT
 Descript     : catimg prints images in a terminal with 256 colors support. It supports
@@ -242,8 +242,8 @@ Descript     : catimg prints images in a terminal with 256 colors support. It su
 <summary>ccache</summary>
 
 ```
-From repo     : fedora
-Short desc    : C/C++ compiler cache
+From repo    : fedora
+Short desc   : C/C++ compiler cache
 URL          : http://ccache.dev/
 License      : GPLv3+
 Descript     : ccache is a compiler cache.  It speeds up recompilation of C/C++ code
@@ -258,8 +258,8 @@ Descript     : ccache is a compiler cache.  It speeds up recompilation of C/C++ 
 <summary>cdparanoia-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for libcdda_paranoia (Paranoia III)
+From repo    : anaconda
+Short desc   : Libraries for libcdda_paranoia (Paranoia III)
 URL          : http://www.xiph.org/paranoia/index.html
 License      : LGPLv2
 Descript     : The cdparanoia-libs package contains the dynamic libraries needed for
@@ -272,8 +272,8 @@ Descript     : The cdparanoia-libs package contains the dynamic libraries needed
 <summary>certbot</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A free, automated certificate authority client
+From repo    : updates-testing
+Short desc   : A free, automated certificate authority client
 URL          : https://pypi.python.org/pypi/certbot
 License      : ASL 2.0
 Descript     : certbot is a free, automated certificate authority that aims
@@ -286,8 +286,8 @@ Descript     : certbot is a free, automated certificate authority that aims
 <summary>cfitsio</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for manipulating FITS data files
+From repo    : fedora
+Short desc   : Library for manipulating FITS data files
 URL          : http://heasarc.gsfc.nasa.gov/fitsio/
 License      : MIT
 Descript     : CFITSIO is a library of C and FORTRAN subroutines for reading and writing
@@ -306,8 +306,8 @@ Descript     : CFITSIO is a library of C and FORTRAN subroutines for reading and
 <summary>checkpolicy</summary>
 
 ```
-From repo     : anaconda
-Short desc    : SELinux policy compiler
+From repo    : anaconda
+Short desc   : SELinux policy compiler
 License      : GPLv2
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
              : of utilities with enhanced security functionality designed to add
@@ -329,8 +329,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>checkpolicy</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : SELinux policy compiler
+From repo    : updates-testing
+Short desc   : SELinux policy compiler
 License      : GPLv2
 Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
              : of utilities with enhanced security functionality designed to add
@@ -353,8 +353,8 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Application for taking pictures and movies from a webcam
+From repo    : anaconda
+Short desc   : Application for taking pictures and movies from a webcam
 URL          : https://wiki.gnome.org/Apps/Cheese
 License      : GPLv2+
 Descript     : Cheese is a Photobooth-inspired GNOME application for taking pictures and
@@ -368,8 +368,8 @@ Descript     : Cheese is a Photobooth-inspired GNOME application for taking pict
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : Webcam display and capture widgets
+From repo    : anaconda
+Short desc   : Webcam display and capture widgets
 URL          : https://wiki.gnome.org/Apps/Cheese
 License      : GPLv2+
 Descript     : This package contains libraries needed for applications that
@@ -382,8 +382,8 @@ Descript     : This package contains libraries needed for applications that
 <summary>chkconfig</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A system tool for maintaining the /etc/rc*.d hierarchy
+From repo    : anaconda
+Short desc   : A system tool for maintaining the /etc/rc*.d hierarchy
 URL          : https://github.com/fedora-sysv/chkconfig
 License      : GPLv2
 Descript     : Chkconfig is a basic system utility.  It updates and queries runlevel
@@ -398,8 +398,8 @@ Descript     : Chkconfig is a basic system utility.  It updates and queries runl
 <summary>chrome-gnome-shell</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Support for managing GNOME Shell Extensions through web browsers
+From repo    : anaconda
+Short desc   : Support for managing GNOME Shell Extensions through web browsers
 URL          : https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome
 License      : GPLv3+
 Descript     : Browser extension for Google Chrome/Chromium, Firefox, Vivaldi, Opera (and
@@ -414,8 +414,8 @@ Descript     : Browser extension for Google Chrome/Chromium, Firefox, Vivaldi, O
 <summary>chrony</summary>
 
 ```
-From repo     : anaconda
-Short desc    : An NTP client/server
+From repo    : anaconda
+Short desc   : An NTP client/server
 URL          : https://chrony.tuxfamily.org
 License      : GPLv2
 Descript     : chrony is a versatile implementation of the Network Time Protocol (NTP).
@@ -431,8 +431,8 @@ Descript     : chrony is a versatile implementation of the Network Time Protocol
 <summary>cifs-utils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utilities for mounting and managing CIFS mounts
+From repo    : anaconda
+Short desc   : Utilities for mounting and managing CIFS mounts
 URL          : http://linux-cifs.samba.org/cifs-utils/
 License      : GPLv3
 Descript     : The SMB/CIFS protocol is a standard file sharing protocol widely deployed
@@ -449,8 +449,8 @@ Descript     : The SMB/CIFS protocol is a standard file sharing protocol widely 
 <summary>cifs-utils-info</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Additional tools for querying information about CIFS mount
+From repo    : anaconda
+Short desc   : Additional tools for querying information about CIFS mount
 URL          : http://linux-cifs.samba.org/cifs-utils/
 License      : GPLv3
 Descript     : This subpackage includes additional tools for querying information
@@ -463,8 +463,8 @@ Descript     : This subpackage includes additional tools for querying informatio
 <summary>cjson</summary>
 
 ```
-From repo     : fedora
-Short desc    : Ultralightweight JSON parser in ANSI C
+From repo    : fedora
+Short desc   : Ultralightweight JSON parser in ANSI C
 URL          : https://github.com/DaveGamble/cJSON
 License      : MIT and ASL 2.0
 Descript     : cJSON aims to be the dumbest possible parser that you can get your job
@@ -477,8 +477,8 @@ Descript     : cJSON aims to be the dumbest possible parser that you can get you
 <summary>clang</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A C language family front-end for LLVM
+From repo    : updates-testing
+Short desc   : A C language family front-end for LLVM
 URL          : http://llvm.org
 License      : NCSA
 Descript     : clang: noun
@@ -501,8 +501,8 @@ Descript     : clang: noun
 <summary>clang-analyzer</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A source code analysis framework
+From repo    : updates-testing
+Short desc   : A source code analysis framework
 URL          : http://llvm.org
 License      : NCSA and MIT
 Descript     : The Clang Static Analyzer consists of both a source code analysis
@@ -517,8 +517,8 @@ Descript     : The Clang Static Analyzer consists of both a source code analysis
 <summary>clang-devel</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Development header files for clang
+From repo    : updates-testing
+Short desc   : Development header files for clang
 URL          : http://llvm.org
 License      : NCSA
 Descript     : Development header files for clang.
@@ -530,8 +530,8 @@ Descript     : Development header files for clang.
 <summary>clang-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Runtime library for clang
+From repo    : updates-testing
+Short desc   : Runtime library for clang
 URL          : http://llvm.org
 License      : NCSA
 Descript     : Runtime library for clang.
@@ -543,8 +543,8 @@ Descript     : Runtime library for clang.
 <summary>clang-resource-filesystem</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Filesystem package that owns the clang resource directory
+From repo    : updates-testing
+Short desc   : Filesystem package that owns the clang resource directory
 URL          : http://llvm.org
 License      : NCSA
 Descript     : This package owns the clang resouce directory: $libdir/clang/$version/
@@ -556,8 +556,8 @@ Descript     : This package owns the clang resouce directory: $libdir/clang/$ver
 <summary>clang-tools-extra</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Extra tools for clang
+From repo    : updates-testing
+Short desc   : Extra tools for clang
 URL          : http://llvm.org
 License      : NCSA
 Descript     : A set of extra tools built using Clang's tooling API.
@@ -569,8 +569,8 @@ Descript     : A set of extra tools built using Clang's tooling API.
 <summary>clang11-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Runtime library for clang
+From repo    : updates-testing
+Short desc   : Runtime library for clang
 URL          : http://llvm.org
 License      : NCSA
 Descript     : Runtime library for clang.
@@ -582,8 +582,8 @@ Descript     : Runtime library for clang.
 <summary>clang11-resource-filesystem</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Filesystem package that owns the clang resource directory
+From repo    : updates-testing
+Short desc   : Filesystem package that owns the clang resource directory
 URL          : http://llvm.org
 License      : NCSA
 Descript     : This package owns the clang resouce directory: $libdir/clang/$version/
@@ -596,8 +596,8 @@ Descript     : This package owns the clang resouce directory: $libdir/clang/$ver
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : Emoji annotation files in CLDR
+From repo    : updates-testing
+Short desc   : Emoji annotation files in CLDR
 URL          : https://unicode.org/cldr
 License      : Unicode
 Descript     : This package provides the emoji annotation file by language in CLDR.
@@ -610,8 +610,8 @@ Descript     : This package provides the emoji annotation file by language in CL
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : DTD files of CLDR common
+From repo    : updates-testing
+Short desc   : DTD files of CLDR common
 URL          : https://unicode.org/cldr
 License      : Unicode
 Descript     : This package contains DTD files of CLDR common which are required by
@@ -624,8 +624,8 @@ Descript     : This package contains DTD files of CLDR common which are required
 <summary>cliquer-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library to find cliques in arbitrary weighted graphs
+From repo    : fedora
+Short desc   : Library to find cliques in arbitrary weighted graphs
 URL          : http://users.tkk.fi/pat/cliquer.html
 License      : GPLv2+
 Descript     : Cliquer is a set of C routines for finding cliques in an arbitrary
@@ -640,8 +640,8 @@ Descript     : Cliquer is a set of C routines for finding cliques in an arbitrar
 <summary>clucene-contribs-lib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Language specific text analyzers for clucene
+From repo    : anaconda
+Short desc   : Language specific text analyzers for clucene
 URL          : http://www.sourceforge.net/projects/clucene
 License      : LGPLv2+ or ASL 2.0
 Descript     : Language specific text analyzers for clucene.
@@ -653,8 +653,8 @@ Descript     : Language specific text analyzers for clucene.
 <summary>clucene-core</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Core clucene module
+From repo    : anaconda
+Short desc   : Core clucene module
 URL          : http://www.sourceforge.net/projects/clucene
 License      : LGPLv2+ or ASL 2.0
 Descript     : CLucene is a C++ port of the popular Apache Lucene search engine
@@ -670,8 +670,8 @@ Descript     : CLucene is a C++ port of the popular Apache Lucene search engine
 <summary>clutter</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Open Source software library for creating rich graphical user interfaces
+From repo    : anaconda
+Short desc   : Open Source software library for creating rich graphical user interfaces
 URL          : http://www.clutter-project.org/
 License      : LGPLv2+
 Descript     : Clutter is an open source software library for creating fast,
@@ -686,8 +686,8 @@ Descript     : Clutter is an open source software library for creating fast,
 <summary>clutter-gst3</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GStreamer integration library for Clutter
+From repo    : anaconda
+Short desc   : GStreamer integration library for Clutter
 URL          : https://developer.gnome.org/clutter-gst/stable/
 License      : LGPLv2+
 Descript     : Clutter is an open source software library for creating fast, visually
@@ -702,8 +702,8 @@ Descript     : Clutter is an open source software library for creating fast, vis
 <summary>clutter-gtk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A basic GTK clutter widget
+From repo    : anaconda
+Short desc   : A basic GTK clutter widget
 URL          : http://www.clutter-project.org
 License      : LGPLv2+
 Descript     : clutter-gtk is a library which allows the embedding of a Clutter
@@ -717,8 +717,8 @@ Descript     : clutter-gtk is a library which allows the embedding of a Clutter
 <summary>cmake</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Cross-platform make system
+From repo    : updates-testing
+Short desc   : Cross-platform make system
 URL          : http://www.cmake.org
 License      : BSD and MIT and zlib
 Descript     : CMake is used to control the software compilation process using simple
@@ -735,8 +735,8 @@ Descript     : CMake is used to control the software compilation process using s
 <summary>cmake-data</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common data-files for cmake
+From repo    : updates-testing
+Short desc   : Common data-files for cmake
 URL          : http://www.cmake.org
 License      : BSD and MIT and zlib
 Descript     : This package contains common data-files for cmake.
@@ -748,8 +748,8 @@ Descript     : This package contains common data-files for cmake.
 <summary>cmake-filesystem</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Directories used by CMake modules
+From repo    : updates-testing
+Short desc   : Directories used by CMake modules
 URL          : http://www.cmake.org
 License      : BSD and MIT and zlib
 Descript     : This package owns all directories used by CMake modules.
@@ -761,8 +761,8 @@ Descript     : This package owns all directories used by CMake modules.
 <summary>cmake-rpm-macros</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Common RPM macros for cmake
+From repo    : updates-testing
+Short desc   : Common RPM macros for cmake
 URL          : http://www.cmake.org
 License      : BSD and MIT and zlib
 Descript     : This package contains common RPM macros for cmake.
@@ -774,8 +774,8 @@ Descript     : This package contains common RPM macros for cmake.
 <summary>code</summary>
 
 ```
-From repo     : code
-Short desc    : Code editing. Redefined.
+From repo    : code
+Short desc   : Code editing. Redefined.
 URL          : https://code.visualstudio.com/
 License      : Multiple, see https://code.visualstudio.com/license
 Descript     : Visual Studio Code is a new choice of tool that combines the simplicity of a code editor with what developers need for the core edit-build-debug cycle. See https://code.visualstudio.com/docs/setup/linux for installation instructions and FAQ.
@@ -787,8 +787,8 @@ Descript     : Visual Studio Code is a new choice of tool that combines the simp
 <summary>cogl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for using 3D graphics hardware to draw pretty pictures
+From repo    : anaconda
+Short desc   : A library for using 3D graphics hardware to draw pretty pictures
 URL          : http://www.clutter-project.org/
 License      : LGPLv2+
 Descript     : Cogl is a small open source library for using 3D graphics hardware to draw
@@ -814,8 +814,8 @@ Descript     : Cogl is a small open source library for using 3D graphics hardwar
 <summary>coin-or-Cbc</summary>
 
 ```
-From repo     : fedora
-Short desc    : Coin-or branch and cut
+From repo    : fedora
+Short desc   : Coin-or branch and cut
 URL          : https://github.com/coin-or/Cbc
 License      : EPL-1.0
 Descript     : Cbc (Coin-or branch and cut) is an open-source mixed integer programming
@@ -839,8 +839,8 @@ Descript     : Cbc (Coin-or branch and cut) is an open-source mixed integer prog
 <summary>coin-or-Cgl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Cut Generation Library
+From repo    : fedora
+Short desc   : Cut Generation Library
 URL          : https://github.com/coin-or/Cgl
 License      : EPL-1.0
 Descript     : The COIN-OR Cut Generation Library (Cgl) is a collection of cut generators
@@ -855,8 +855,8 @@ Descript     : The COIN-OR Cut Generation Library (Cgl) is a collection of cut g
 <summary>coin-or-Clp</summary>
 
 ```
-From repo     : fedora
-Short desc    : Coin-or linear programming
+From repo    : fedora
+Short desc   : Coin-or linear programming
 URL          : https://github.com/coin-or/Clp
 License      : EPL-1.0
 Descript     : Clp (Coin-or linear programming) is an open-source linear programming
@@ -870,8 +870,8 @@ Descript     : Clp (Coin-or linear programming) is an open-source linear program
 <summary>coin-or-CoinUtils</summary>
 
 ```
-From repo     : fedora
-Short desc    : Coin-or Utilities
+From repo    : fedora
+Short desc   : Coin-or Utilities
 URL          : https://github.com/coin-or/CoinUtils
 License      : EPL-1.0
 Descript     : CoinUtils (Coin-or Utilities) is an open-source collection of classes
@@ -890,8 +890,8 @@ Descript     : CoinUtils (Coin-or Utilities) is an open-source collection of cla
 <summary>coin-or-Osi</summary>
 
 ```
-From repo     : fedora
-Short desc    : COIN-OR Open Solver Interface Library
+From repo    : fedora
+Short desc   : COIN-OR Open Solver Interface Library
 URL          : https://github.com/coin-or/Osi
 License      : EPL-1.0
 Descript     : The COIN-OR Open Solver Interface Library is a collection of solver
@@ -905,8 +905,8 @@ Descript     : The COIN-OR Open Solver Interface Library is a collection of solv
 <summary>color-filesystem</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Color filesystem layout
+From repo    : anaconda
+Short desc   : Color filesystem layout
 License      : Public Domain
 Descript     : This package provides some directories that are required/used to store color.
 ```
@@ -917,8 +917,8 @@ Descript     : This package provides some directories that are required/used to 
 <summary>colord</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Color daemon
+From repo    : anaconda
+Short desc   : Color daemon
 URL          : https://www.freedesktop.org/software/colord/
 License      : GPLv2+ and LGPLv2+
 Descript     : colord is a low level system activated daemon that maps color devices
@@ -931,8 +931,8 @@ Descript     : colord is a low level system activated daemon that maps color dev
 <summary>colord-gtk</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GTK support library for colord
+From repo    : anaconda
+Short desc   : GTK support library for colord
 URL          : http://www.freedesktop.org/software/colord/
 License      : LGPLv2+
 Descript     : colord-gtk is a support library for colord and provides additional
@@ -945,8 +945,8 @@ Descript     : colord-gtk is a support library for colord and provides additiona
 <summary>colord-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Color daemon library
+From repo    : anaconda
+Short desc   : Color daemon library
 URL          : https://www.freedesktop.org/software/colord/
 License      : GPLv2+ and LGPLv2+
 Descript     : colord is a low level system activated daemon that maps color devices
@@ -959,8 +959,8 @@ Descript     : colord is a low level system activated daemon that maps color dev
 <summary>comgr</summary>
 
 ```
-From repo     : ROCm
-Short desc    : Library to provide support functions
+From repo    : ROCm
+Short desc   : Library to provide support functions
 License      : unknown
 Descript     : DESCRIPTION
              : ===========
@@ -974,8 +974,8 @@ Descript     : DESCRIPTION
 <summary>compat-lua-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Development files for compat-lua
+From repo    : fedora
+Short desc   : Development files for compat-lua
 URL          : http://www.lua.org/
 License      : MIT
 Descript     : This package contains development files for compat-lua-libs.
@@ -987,8 +987,8 @@ Descript     : This package contains development files for compat-lua-libs.
 <summary>compat-lua-libs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Powerful light-weight programming language (compat version)
+From repo    : fedora
+Short desc   : Powerful light-weight programming language (compat version)
 URL          : http://www.lua.org/
 License      : MIT
 Descript     : This package contains a compatibility version of the lua-5.1 libraries.
@@ -1000,8 +1000,8 @@ Descript     : This package contains a compatibility version of the lua-5.1 libr
 <summary>compat-readline5</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A library for editing typed command lines
+From repo    : anaconda
+Short desc   : A library for editing typed command lines
 URL          : http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
 License      : GPLv2+
 Descript     : The Readline library provides a set of functions that allow users to
@@ -1018,8 +1018,8 @@ Descript     : The Readline library provides a set of functions that allow users
 <summary>compiler-rt</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : LLVM "compiler-rt" runtime libraries
+From repo    : updates-testing
+Short desc   : LLVM "compiler-rt" runtime libraries
 URL          : http://llvm.org
 License      : NCSA or MIT
 Descript     : The compiler-rt project is a part of the LLVM project. It provides
@@ -1034,8 +1034,8 @@ Descript     : The compiler-rt project is a part of the LLVM project. It provide
 <summary>composer</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Dependency Manager for PHP
+From repo    : updates-testing
+Short desc   : Dependency Manager for PHP
 URL          : https://getcomposer.org/
 License      : MIT
 Descript     : Composer helps you declare, manage and install dependencies of PHP projects,
@@ -1050,8 +1050,8 @@ Descript     : Composer helps you declare, manage and install dependencies of PH
 <summary>compsize</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Utility for measuring compression ratio of files on btrfs
+From repo    : anaconda
+Short desc   : Utility for measuring compression ratio of files on btrfs
 URL          : https://github.com/kilobyte/compsize
 License      : GPLv2+
 Descript     : compsize takes a list of files (given as arguments) on a btrfs filesystem and
@@ -1065,8 +1065,8 @@ Descript     : compsize takes a list of files (given as arguments) on a btrfs fi
 <summary>conky</summary>
 
 ```
-From repo     : fedora
-Short desc    : A system monitor for X
+From repo    : fedora
+Short desc   : A system monitor for X
 URL          : https://github.com/brndnmtthws/conky
 License      : GPLv3+
 Descript     : A system monitor for X originally based on the torsmo code. but more kickass.
@@ -1080,8 +1080,8 @@ Descript     : A system monitor for X originally based on the torsmo code. but m
 
 ```
 Эпоха        : 2
-From repo     : anaconda
-Short desc    : OCI container runtime monitor
+From repo    : anaconda
+Short desc   : OCI container runtime monitor
 URL          : https://github.com/containers/conmon
 License      : ASL 2.0
 Descript     : OCI container runtime monitor.
@@ -1094,8 +1094,8 @@ Descript     : OCI container runtime monitor.
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : OCI container runtime monitor
+From repo    : updates-testing
+Short desc   : OCI container runtime monitor
 URL          : https://github.com/containers/conmon
 License      : ASL 2.0
 Descript     : OCI container runtime monitor.
@@ -1108,8 +1108,8 @@ Descript     : OCI container runtime monitor.
 
 ```
 Эпоха        : 2
-From repo     : updates-testing
-Short desc    : SELinux policies for container runtimes
+From repo    : updates-testing
+Short desc   : SELinux policies for container runtimes
 URL          : https://github.com/containers/container-selinux
 License      : GPLv2
 Descript     : SELinux policy modules for use with container runtimes.
@@ -1121,8 +1121,8 @@ Descript     : SELinux policy modules for use with container runtimes.
 <summary>containernetworking-plugins</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for writing CNI plugin
+From repo    : anaconda
+Short desc   : Libraries for writing CNI plugin
 URL          : https://github.com/containernetworking/plugins
 License      : ASL 2.0
 Descript     : The CNI (Container Network Interface) project consists of a specification
@@ -1138,8 +1138,8 @@ Descript     : The CNI (Container Network Interface) project consists of a speci
 <summary>containernetworking-plugins</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Libraries for writing CNI plugin
+From repo    : updates-testing
+Short desc   : Libraries for writing CNI plugin
 URL          : https://github.com/containernetworking/plugins
 License      : ASL 2.0
 Descript     : The CNI (Container Network Interface) project consists of a specification
@@ -1156,8 +1156,8 @@ Descript     : The CNI (Container Network Interface) project consists of a speci
 
 ```
 Эпоха        : 1
-From repo     : anaconda
-Short desc    : Configuration files for working with image signatures
+From repo    : anaconda
+Short desc   : Configuration files for working with image signatures
 URL          : https://github.com/containers/skopeo
 License      : ASL 2.0
 Descript     : This package installs a default signature store configuration and a default
@@ -1171,8 +1171,8 @@ Descript     : This package installs a default signature store configuration and
 
 ```
 Эпоха        : 4
-From repo     : updates-testing
-Short desc    : Common configuration and documentation for containers
+From repo    : updates-testing
+Short desc   : Common configuration and documentation for containers
 License      : ASL 2.0
 Descript     : This package contains common configuration files and documentation for container
              : tools ecosystem, such as Podman, Buildah and Skopeo.
@@ -1188,8 +1188,8 @@ Descript     : This package contains common configuration files and documentatio
 <summary>contractor</summary>
 
 ```
-From repo     : fedora
-Short desc    : Desktop-wide extension service
+From repo    : fedora
+Short desc   : Desktop-wide extension service
 URL          : https://github.com/elementary/contractor
 License      : GPLv3+
 Descript     : An extension service that allows apps to use the exposed functionality
@@ -1203,8 +1203,8 @@ Descript     : An extension service that allows apps to use the exposed function
 <summary>convmv</summary>
 
 ```
-From repo     : fedora
-Short desc    : Convert filename encodings
+From repo    : fedora
+Short desc   : Convert filename encodings
 URL          : http://j3e.de/linux/convmv
 License      : GPLv2 or GPLv3
 Descript     : This package contains the tool convmv with which you can convert the encodings
@@ -1217,8 +1217,8 @@ Descript     : This package contains the tool convmv with which you can convert 
 <summary>copy-jdk-configs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : JDKs configuration files copier
+From repo    : anaconda
+Short desc   : JDKs configuration files copier
 URL          : https://pagure.io/copy_jdk_configs
 License      : BSD
 Descript     : Utility script to transfer JDKs configuration files between updates or for
@@ -1231,8 +1231,8 @@ Descript     : Utility script to transfer JDKs configuration files between updat
 <summary>corectrl</summary>
 
 ```
-From repo     : fedora
-Short desc    : Friendly hardware control
+From repo    : fedora
+Short desc   : Friendly hardware control
 URL          : https://gitlab.com/corectrl/corectrl
 License      : GPLv3+ and Boost and BSD and MIT and Public Domain
 Descript     : CoreCtrl is a Free and Open Source GNU/Linux application that allows you to
@@ -1254,8 +1254,8 @@ Descript     : CoreCtrl is a Free and Open Source GNU/Linux application that all
 <summary>coreutils</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A set of basic GNU tools commonly used in shell scripts
+From repo    : anaconda
+Short desc   : A set of basic GNU tools commonly used in shell scripts
 URL          : https://www.gnu.org/software/coreutils/
 License      : GPLv3+
 Descript     : These are the GNU core utilities.  This package is the combination of
@@ -1268,8 +1268,8 @@ Descript     : These are the GNU core utilities.  This package is the combinatio
 <summary>coreutils</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A set of basic GNU tools commonly used in shell scripts
+From repo    : updates-testing
+Short desc   : A set of basic GNU tools commonly used in shell scripts
 URL          : https://www.gnu.org/software/coreutils/
 License      : GPLv3+
 Descript     : These are the GNU core utilities.  This package is the combination of
@@ -1282,8 +1282,8 @@ Descript     : These are the GNU core utilities.  This package is the combinatio
 <summary>coreutils-common</summary>
 
 ```
-From repo     : anaconda
-Short desc    : coreutils common optional components
+From repo    : anaconda
+Short desc   : coreutils common optional components
 URL          : https://www.gnu.org/software/coreutils/
 License      : GPLv3+
 Descript     : Optional though recommended components,
@@ -1296,8 +1296,8 @@ Descript     : Optional though recommended components,
 <summary>coreutils-common</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : coreutils common optional components
+From repo    : updates-testing
+Short desc   : coreutils common optional components
 URL          : https://www.gnu.org/software/coreutils/
 License      : GPLv3+
 Descript     : Optional though recommended components,
@@ -1310,8 +1310,8 @@ Descript     : Optional though recommended components,
 <summary>corosynclib</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The Corosync Cluster Engine Libraries
+From repo    : updates-testing
+Short desc   : The Corosync Cluster Engine Libraries
 URL          : http://corosync.github.io/corosync/
 License      : BSD
 Descript     : This package contains corosync libraries.
@@ -1323,8 +1323,8 @@ Descript     : This package contains corosync libraries.
 <summary>cpio</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A GNU archiving program
+From repo    : updates-testing
+Short desc   : A GNU archiving program
 URL          : https://www.gnu.org/software/cpio/
 License      : GPLv3+
 Descript     : GNU cpio copies files into or out of a cpio or tar archive.  Archives
@@ -1347,8 +1347,8 @@ Descript     : GNU cpio copies files into or out of a cpio or tar archive.  Arch
 <summary>cpio</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A GNU archiving program
+From repo    : anaconda
+Short desc   : A GNU archiving program
 URL          : https://www.gnu.org/software/cpio/
 License      : GPLv3+
 Descript     : GNU cpio copies files into or out of a cpio or tar archive.  Archives
@@ -1371,8 +1371,8 @@ Descript     : GNU cpio copies files into or out of a cpio or tar archive.  Arch
 <summary>cpp</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The C Preprocessor
+From repo    : anaconda
+Short desc   : The C Preprocessor
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : Cpp is the GNU C-Compatible Compiler Preprocessor.
@@ -1403,8 +1403,8 @@ Descript     : Cpp is the GNU C-Compatible Compiler Preprocessor.
 <summary>cpp</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : The C Preprocessor
+From repo    : updates-testing
+Short desc   : The C Preprocessor
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : Cpp is the GNU C-Compatible Compiler Preprocessor.
@@ -1435,8 +1435,8 @@ Descript     : Cpp is the GNU C-Compatible Compiler Preprocessor.
 <summary>cpp-hocon</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : C++ support for the HOCON configuration file format
+From repo    : updates-testing
+Short desc   : C++ support for the HOCON configuration file format
 URL          : https://github.com/puppetlabs/cpp-hocon
 License      : ASL 2.0
 Descript     : This is a port of the TypesafeConfig library to C++.
@@ -1450,8 +1450,8 @@ Descript     : This is a port of the TypesafeConfig library to C++.
 <summary>cpu-x</summary>
 
 ```
-From repo     : fedora
-Short desc    : Gathers information on CPU, motherboard and more
+From repo    : fedora
+Short desc   : Gathers information on CPU, motherboard and more
 URL          : https://github.com/X0rg/CPU-X
 License      : GPLv3+
 Descript     : Free software that gathers information on CPU, motherboard and more.
@@ -1470,8 +1470,8 @@ Descript     : Free software that gathers information on CPU, motherboard and mo
 <summary>cpu-x-data</summary>
 
 ```
-From repo     : fedora
-Short desc    : Data files for cpu-x
+From repo    : fedora
+Short desc   : Data files for cpu-x
 URL          : https://github.com/X0rg/CPU-X
 License      : GPLv3+
 Descript     : Data files for cpu-x.
@@ -1483,8 +1483,8 @@ Descript     : Data files for cpu-x.
 <summary>crack</summary>
 
 ```
-From repo     : fedora
-Short desc    : Password cracker
+From repo    : fedora
+Short desc   : Password cracker
 URL          : https://dropsafe.crypticide.com/alecm/software/crack/c50-faq.html
 License      : Artistic clarified
 Descript     : Crack is a password guessing program that is designed to quickly locate
@@ -1503,8 +1503,8 @@ Descript     : Crack is a password guessing program that is designed to quickly 
 <summary>cracklib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A password-checking library
+From repo    : anaconda
+Short desc   : A password-checking library
 URL          : http://sourceforge.net/projects/cracklib/
 License      : LGPLv2+
 Descript     : CrackLib tests passwords to determine whether they match certain
@@ -1531,8 +1531,8 @@ Descript     : CrackLib tests passwords to determine whether they match certain
 <summary>cracklib-dicts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The standard CrackLib dictionaries
+From repo    : anaconda
+Short desc   : The standard CrackLib dictionaries
 URL          : http://sourceforge.net/projects/cracklib/
 License      : LGPLv2+
 Descript     : The cracklib-dicts package includes the CrackLib dictionaries.
@@ -1549,8 +1549,8 @@ Descript     : The cracklib-dicts package includes the CrackLib dictionaries.
 <summary>createrepo_c</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Creates a common metadata repository
+From repo    : anaconda
+Short desc   : Creates a common metadata repository
 URL          : https://github.com/rpm-software-management/createrepo_c
 License      : GPLv2+
 Descript     : C implementation of Createrepo.
@@ -1565,8 +1565,8 @@ Descript     : C implementation of Createrepo.
 <summary>createrepo_c</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Creates a common metadata repository
+From repo    : updates-testing
+Short desc   : Creates a common metadata repository
 URL          : https://github.com/rpm-software-management/createrepo_c
 License      : GPLv2+
 Descript     : C implementation of Createrepo.
@@ -1581,8 +1581,8 @@ Descript     : C implementation of Createrepo.
 <summary>createrepo_c-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Library for repodata manipulation
+From repo    : anaconda
+Short desc   : Library for repodata manipulation
 URL          : https://github.com/rpm-software-management/createrepo_c
 License      : GPLv2+
 Descript     : Libraries for applications using the createrepo_c library
@@ -1595,8 +1595,8 @@ Descript     : Libraries for applications using the createrepo_c library
 <summary>createrepo_c-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Library for repodata manipulation
+From repo    : updates-testing
+Short desc   : Library for repodata manipulation
 URL          : https://github.com/rpm-software-management/createrepo_c
 License      : GPLv2+
 Descript     : Libraries for applications using the createrepo_c library
@@ -1609,8 +1609,8 @@ Descript     : Libraries for applications using the createrepo_c library
 <summary>criu</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tool for Checkpoint/Restore in User-space
+From repo    : anaconda
+Short desc   : Tool for Checkpoint/Restore in User-space
 URL          : http://criu.org/
 License      : GPLv2
 Descript     : criu is the user-space part of Checkpoint/Restore in User-space
@@ -1624,8 +1624,8 @@ Descript     : criu is the user-space part of Checkpoint/Restore in User-space
 <summary>criu-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Libraries for criu
+From repo    : anaconda
+Short desc   : Libraries for criu
 URL          : http://criu.org/
 License      : GPLv2
 Descript     : This package contains the libraries for criu
@@ -1637,8 +1637,8 @@ Descript     : This package contains the libraries for criu
 <summary>cronie</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Cron daemon for executing programs at set times
+From repo    : updates-testing
+Short desc   : Cron daemon for executing programs at set times
 URL          : https://github.com/cronie-crond/cronie
 License      : MIT and BSD and ISC and GPLv2+
 Descript     : Cronie contains the standard UNIX daemon crond that runs specified programs at
@@ -1653,8 +1653,8 @@ Descript     : Cronie contains the standard UNIX daemon crond that runs specifie
 <summary>cronie-anacron</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utility for running regular jobs
+From repo    : updates-testing
+Short desc   : Utility for running regular jobs
 URL          : https://github.com/cronie-crond/cronie
 License      : MIT and BSD and ISC and GPLv2+
 Descript     : Anacron is part of cronie that is used for running jobs with regular
@@ -1674,8 +1674,8 @@ Descript     : Anacron is part of cronie that is used for running jobs with regu
 <summary>crontabs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Root crontab files used to schedule the execution of programs
+From repo    : fedora
+Short desc   : Root crontab files used to schedule the execution of programs
 URL          : https://github.com/cronie-crond/crontabs
 License      : Public Domain and GPLv2
 Descript     : This package is used by Fedora mainly for executing files by cron.
@@ -1696,8 +1696,8 @@ Descript     : This package is used by Fedora mainly for executing files by cron
 <summary>crun</summary>
 
 ```
-From repo     : anaconda
-Short desc    : OCI runtime written in C
+From repo    : anaconda
+Short desc   : OCI runtime written in C
 URL          : https://github.com/containers/crun
 License      : GPLv2+
 Descript     : crun is a runtime for running OCI containers
@@ -1709,8 +1709,8 @@ Descript     : crun is a runtime for running OCI containers
 <summary>crun</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : OCI runtime written in C
+From repo    : updates-testing
+Short desc   : OCI runtime written in C
 URL          : https://github.com/containers/crun
 License      : GPLv2+
 Descript     : crun is a runtime for running OCI containers
@@ -1722,8 +1722,8 @@ Descript     : crun is a runtime for running OCI containers
 <summary>crypto-policies</summary>
 
 ```
-From repo     : anaconda
-Short desc    : System-wide crypto policies
+From repo    : anaconda
+Short desc   : System-wide crypto policies
 URL          : https://gitlab.com/redhat-crypto/fedora-crypto-policies
 License      : LGPLv2+
 Descript     : This package provides pre-built configuration files with
@@ -1737,8 +1737,8 @@ Descript     : This package provides pre-built configuration files with
 <summary>crypto-policies-scripts</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Tool to switch between crypto policies
+From repo    : anaconda
+Short desc   : Tool to switch between crypto policies
 URL          : https://gitlab.com/redhat-crypto/fedora-crypto-policies
 License      : LGPLv2+
 Descript     : This package provides a tool update-crypto-policies, which applies
@@ -1756,8 +1756,8 @@ Descript     : This package provides a tool update-crypto-policies, which applie
 <summary>cryptsetup</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Utility for setting up encrypted disks
+From repo    : updates-testing
+Short desc   : Utility for setting up encrypted disks
 URL          : https://gitlab.com/cryptsetup/cryptsetup
 License      : GPLv2+ and LGPLv2+
 Descript     : The cryptsetup package contains a utility for setting up
@@ -1770,8 +1770,8 @@ Descript     : The cryptsetup package contains a utility for setting up
 <summary>cryptsetup-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Cryptsetup shared library
+From repo    : anaconda
+Short desc   : Cryptsetup shared library
 URL          : https://gitlab.com/cryptsetup/cryptsetup
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains the cryptsetup shared library, libcryptsetup.
@@ -1783,8 +1783,8 @@ Descript     : This package contains the cryptsetup shared library, libcryptsetu
 <summary>cryptsetup-libs</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : Cryptsetup shared library
+From repo    : updates-testing
+Short desc   : Cryptsetup shared library
 URL          : https://gitlab.com/cryptsetup/cryptsetup
 License      : GPLv2+ and LGPLv2+
 Descript     : This package contains the cryptsetup shared library, libcryptsetup.
@@ -1796,8 +1796,8 @@ Descript     : This package contains the cryptsetup shared library, libcryptsetu
 <summary>ctags</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A C programming language indexing and/or cross-reference tool
+From repo    : anaconda
+Short desc   : A C programming language indexing and/or cross-reference tool
 URL          : http://ctags.sourceforge.net/
 License      : GPLv2+ and LGPLv2+ and Public Domain
 Descript     : Ctags generates an index (or tag) file of C language objects found in
@@ -1824,8 +1824,8 @@ Descript     : Ctags generates an index (or tag) file of C language objects foun
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : CUPS printing system
+From repo    : updates-testing
+Short desc   : CUPS printing system
 URL          : http://www.cups.org/
 License      : ASL 2.0
 Descript     : CUPS printing system provides a portable printing layer for
@@ -1841,8 +1841,8 @@ Descript     : CUPS printing system provides a portable printing layer for
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : CUPS printing system - client programs
+From repo    : updates-testing
+Short desc   : CUPS printing system - client programs
 URL          : http://www.cups.org/
 License      : GPLv2
 Descript     : CUPS printing system provides a portable printing layer for
@@ -1857,8 +1857,8 @@ Descript     : CUPS printing system provides a portable printing layer for
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : CUPS printing system - directory layout
+From repo    : updates-testing
+Short desc   : CUPS printing system - directory layout
 URL          : http://www.cups.org/
 License      : ASL 2.0
 Descript     : CUPS printing system provides a portable printing layer for
@@ -1872,8 +1872,8 @@ Descript     : CUPS printing system provides a portable printing layer for
 <summary>cups-filters</summary>
 
 ```
-From repo     : anaconda
-Short desc    : OpenPrinting CUPS filters and backends
+From repo    : anaconda
+Short desc   : OpenPrinting CUPS filters and backends
 URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprinting/cups-filters
 License      : GPLv2 and GPLv2+ and GPLv3 and GPLv3+ and LGPLv2+ and MIT and BSD with advertising
 Descript     : Contains backends, filters, and other software that was
@@ -1889,8 +1889,8 @@ Descript     : Contains backends, filters, and other software that was
 <summary>cups-filters-libs</summary>
 
 ```
-From repo     : anaconda
-Short desc    : OpenPrinting CUPS filters and backends - cupsfilters and fontembed libraries
+From repo    : anaconda
+Short desc   : OpenPrinting CUPS filters and backends - cupsfilters and fontembed libraries
 URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprinting/cups-filters
 License      : LGPLv2 and MIT
 Descript     : This package provides cupsfilters and fontembed libraries.
@@ -1903,8 +1903,8 @@ Descript     : This package provides cupsfilters and fontembed libraries.
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : CUPS printing system - tool for performing IPP requests
+From repo    : updates-testing
+Short desc   : CUPS printing system - tool for performing IPP requests
 URL          : http://www.cups.org/
 License      : ASL 2.0
 Descript     : Sends IPP requests to the specified URI and tests and/or displays the results.
@@ -1917,8 +1917,8 @@ Descript     : Sends IPP requests to the specified URI and tests and/or displays
 
 ```
 Эпоха        : 1
-From repo     : updates-testing
-Short desc    : CUPS printing system - libraries
+From repo    : updates-testing
+Short desc   : CUPS printing system - libraries
 URL          : http://www.cups.org/
 License      : LGPLv2 and zlib
 Descript     : CUPS printing system provides a portable printing layer for
@@ -1935,8 +1935,8 @@ Descript     : CUPS printing system provides a portable printing layer for
 <summary>cups-pk-helper</summary>
 
 ```
-From repo     : anaconda
-Short desc    : A helper that makes system-config-printer use PolicyKit
+From repo    : anaconda
+Short desc   : A helper that makes system-config-printer use PolicyKit
 URL          : http://www.freedesktop.org/wiki/Software/cups-pk-helper/
 License      : GPLv2+
 Descript     : cups-pk-helper is an application which makes cups configuration
@@ -1949,8 +1949,8 @@ Descript     : cups-pk-helper is an application which makes cups configuration
 <summary>curl</summary>
 
 ```
-From repo     : updates-testing
-Short desc    : A utility for getting files from remote servers (FTP, HTTP, and others)
+From repo    : updates-testing
+Short desc   : A utility for getting files from remote servers (FTP, HTTP, and others)
 URL          : https://curl.se/
 License      : MIT
 Descript     : curl is a command line tool for transferring data with URL syntax, supporting
@@ -1967,8 +1967,8 @@ Descript     : curl is a command line tool for transferring data with URL syntax
 <summary>cvs</summary>
 
 ```
-From repo     : fedora
-Short desc    : Concurrent Versions System
+From repo    : fedora
+Short desc   : Concurrent Versions System
 URL          : http://cvs.nongnu.org/
 License      : BSD and GPL+ and GPLv2+ and LGPLv2+ and zlib and Public Domain
 Descript     : CVS (Concurrent Versions System) is a version control system that can
@@ -1992,8 +1992,8 @@ Descript     : CVS (Concurrent Versions System) is a version control system that
 <summary>cyrus-sasl</summary>
 
 ```
-From repo     : anaconda
-Short desc    : The Cyrus SASL library
+From repo    : anaconda
+Short desc   : The Cyrus SASL library
 URL          : https://www.cyrusimap.org/sasl/
 License      : BSD with advertising
 Descript     : The cyrus-sasl package contains the Cyrus implementation of SASL.
@@ -2007,8 +2007,8 @@ Descript     : The cyrus-sasl package contains the Cyrus implementation of SASL.
 <summary>cyrus-sasl-gssapi</summary>
 
 ```
-From repo     : anaconda
-Short desc    : GSSAPI authentication support for Cyrus SASL
+From repo    : anaconda
+Short desc   : GSSAPI authentication support for Cyrus SASL
 URL          : https://www.cyrusimap.org/sasl/
 License      : BSD with advertising
 Descript     : The cyrus-sasl-gssapi package contains the Cyrus SASL plugins which
@@ -2022,8 +2022,8 @@ Descript     : The cyrus-sasl-gssapi package contains the Cyrus SASL plugins whi
 <summary>cyrus-sasl-lib</summary>
 
 ```
-From repo     : anaconda
-Short desc    : Shared libraries needed by applications which use Cyrus SASL
+From repo    : anaconda
+Short desc   : Shared libraries needed by applications which use Cyrus SASL
 URL          : https://www.cyrusimap.org/sasl/
 License      : BSD with advertising
 Descript     : The cyrus-sasl-lib package contains shared libraries which are needed by
@@ -2036,8 +2036,8 @@ Descript     : The cyrus-sasl-lib package contains shared libraries which are ne
 <summary>cyrus-sasl-plain</summary>
 
 ```
-From repo     : anaconda
-Short desc    : PLAIN and LOGIN authentication support for Cyrus SASL
+From repo    : anaconda
+Short desc   : PLAIN and LOGIN authentication support for Cyrus SASL
 URL          : https://www.cyrusimap.org/sasl/
 License      : BSD with advertising
 Descript     : The cyrus-sasl-plain package contains the Cyrus SASL plugins which support

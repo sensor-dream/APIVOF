@@ -4,8 +4,8 @@
 <summary>GConf2</summary>
 
 ```
-From repo     : fedora
-Short desc    : A process-transparent configuration system
+From repo    : fedora
+Short desc   : A process-transparent configuration system
 URL          : http://projects.gnome.org/gconf/
 License      : LGPLv2+ and GPLv2+
 Descript     : GConf is a process-transparent configuration database API used to
@@ -19,8 +19,8 @@ Descript     : GConf is a process-transparent configuration database API used to
 <summary>GLC_lib</summary>
 
 ```
-From repo     : fedora
-Short desc    : C++ class library for OpenGL application based on Qt 4
+From repo    : fedora
+Short desc   : C++ class library for OpenGL application based on Qt 4
 URL          : http://www.glc-lib.net/
 License      : LGPLv3+
 Descript     : GLC_lib is a C++ class library that enables the quick creation of OpenGL
@@ -34,8 +34,8 @@ Descript     : GLC_lib is a C++ class library that enables the quick creation of
 <summary>GLee</summary>
 
 ```
-From repo     : fedora
-Short desc    : GL Easy Extension library
+From repo    : fedora
+Short desc   : GL Easy Extension library
 URL          : http://elf-stone.com/glee.php
 License      : BSD
 Descript     : GLee (GL Easy Extension library) is a free cross-platform extension loading
@@ -49,8 +49,8 @@ Descript     : GLee (GL Easy Extension library) is a free cross-platform extensi
 <summary>GeoIP</summary>
 
 ```
-From repo     : fedora
-Short desc    : Library for country/city/organization to IP address or hostname mapping
+From repo    : fedora
+Short desc   : Library for country/city/organization to IP address or hostname mapping
 URL          : http://www.maxmind.com/app/c
 License      : LGPLv2+
 Descript     : GeoIP is a C library that enables the user to find the country that any IP
@@ -67,8 +67,8 @@ Descript     : GeoIP is a C library that enables the user to find the country th
 <summary>GeoIP-GeoLite-data</summary>
 
 ```
-From repo     : fedora
-Short desc    : Free GeoLite IP geolocation country database
+From repo    : fedora
+Short desc   : Free GeoLite IP geolocation country database
 URL          : http://dev.maxmind.com/geoip/legacy/geolite/
 License      : CC-BY-SA
 Descript     : The GeoLite databases are free IP geolocation databases. This package contains
@@ -84,8 +84,8 @@ Descript     : The GeoLite databases are free IP geolocation databases. This pac
 <summary>GeoIP-GeoLite-data-extra</summary>
 
 ```
-From repo     : fedora
-Short desc    : Free GeoLite IP geolocation databases
+From repo    : fedora
+Short desc   : Free GeoLite IP geolocation databases
 URL          : http://dev.maxmind.com/geoip/legacy/geolite/
 License      : CC-BY-SA
 Descript     : The GeoLite databases are free IP geolocation databases. This package contains
@@ -102,8 +102,8 @@ Descript     : The GeoLite databases are free IP geolocation databases. This pac
 <summary>GraphicsMagick</summary>
 
 ```
-From repo     : fedora
-Short desc    : An ImageMagick fork, offering faster image generation and better quality
+From repo    : fedora
+Short desc   : An ImageMagick fork, offering faster image generation and better quality
 URL          : http://www.graphicsmagick.org/
 License      : MIT
 Descript     : GraphicsMagick is a comprehensive image processing package which is initially
@@ -118,8 +118,8 @@ Descript     : GraphicsMagick is a comprehensive image processing package which 
 <summary>GraphicsMagick-c++</summary>
 
 ```
-From repo     : fedora
-Short desc    : GraphicsMagick Magick++ library (C++ bindings)
+From repo    : fedora
+Short desc   : GraphicsMagick Magick++ library (C++ bindings)
 URL          : http://www.graphicsmagick.org/
 License      : MIT
 Descript     : This package contains the GraphicsMagick++ library, a C++ binding to the
@@ -135,8 +135,8 @@ Descript     : This package contains the GraphicsMagick++ library, a C++ binding
 <summary>GraphicsMagick-c++-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : C++ bindings for the GraphicsMagick library
+From repo    : fedora
+Short desc   : C++ bindings for the GraphicsMagick library
 URL          : http://www.graphicsmagick.org/
 License      : MIT
 Descript     : GraphicsMagick-devel contains the Libraries and header files you'll
@@ -157,8 +157,8 @@ Descript     : GraphicsMagick-devel contains the Libraries and header files you'
 <summary>GraphicsMagick-devel</summary>
 
 ```
-From repo     : fedora
-Short desc    : Libraries and header files for GraphicsMagick app development
+From repo    : fedora
+Short desc   : Libraries and header files for GraphicsMagick app development
 URL          : http://www.graphicsmagick.org/
 License      : MIT
 Descript     : GraphicsMagick-devel contains the Libraries and header files you'll
@@ -177,8 +177,8 @@ Descript     : GraphicsMagick-devel contains the Libraries and header files you'
 <summary>GraphicsMagick-doc</summary>
 
 ```
-From repo     : fedora
-Short desc    : GraphicsMagick documentation
+From repo    : fedora
+Short desc   : GraphicsMagick documentation
 URL          : http://www.graphicsmagick.org/
 License      : MIT
 Descript     : Documentation for GraphicsMagick.
@@ -190,8 +190,8 @@ Descript     : Documentation for GraphicsMagick.
 <summary>GraphicsMagick-perl</summary>
 
 ```
-From repo     : fedora
-Short desc    : GraphicsMagick perl bindings
+From repo    : fedora
+Short desc   : GraphicsMagick perl bindings
 URL          : http://www.graphicsmagick.org/
 License      : MIT
 Descript     : Perl bindings to GraphicsMagick.

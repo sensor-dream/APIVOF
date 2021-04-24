@@ -5,8 +5,8 @@
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : An X application for displaying and manipulating images
+From repo    : fedora
+Short desc   : An X application for displaying and manipulating images
 URL          : http://www.imagemagick.org/
 License      : ImageMagick
 Descript     : ImageMagick is an image display and manipulation tool for the X
@@ -31,8 +31,8 @@ Descript     : ImageMagick is an image display and manipulation tool for the X
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : ImageMagick Magick++ library (C++ bindings)
+From repo    : fedora
+Short desc   : ImageMagick Magick++ library (C++ bindings)
 URL          : http://www.imagemagick.org/
 License      : ImageMagick
 Descript     : This package contains the Magick++ library, a C++ binding to the ImageMagick
@@ -48,8 +48,8 @@ Descript     : This package contains the Magick++ library, a C++ binding to the 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : C++ bindings for the ImageMagick library
+From repo    : fedora
+Short desc   : C++ bindings for the ImageMagick library
 URL          : http://www.imagemagick.org/
 License      : ImageMagick
 Descript     : ImageMagick-devel contains the static libraries and header files you'll
@@ -71,8 +71,8 @@ Descript     : ImageMagick-devel contains the static libraries and header files 
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : Library links and header files for ImageMagick app development
+From repo    : fedora
+Short desc   : Library links and header files for ImageMagick app development
 URL          : http://www.imagemagick.org/
 License      : ImageMagick
 Descript     : ImageMagick-devel contains the library links and header files you'll
@@ -92,8 +92,8 @@ Descript     : ImageMagick-devel contains the library links and header files you
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : DjVu plugin for ImageMagick
+From repo    : fedora
+Short desc   : DjVu plugin for ImageMagick
 URL          : http://www.imagemagick.org/
 License      : ImageMagick
 Descript     : This packages contains a plugin for ImageMagick which makes it possible to
@@ -107,8 +107,8 @@ Descript     : This packages contains a plugin for ImageMagick which makes it po
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : ImageMagick html documentation
+From repo    : fedora
+Short desc   : ImageMagick html documentation
 URL          : http://www.imagemagick.org/
 License      : ImageMagick
 Descript     : ImageMagick documentation, this package contains usage (for the
@@ -124,8 +124,8 @@ Descript     : ImageMagick documentation, this package contains usage (for the
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : ImageMagick libraries to link with
+From repo    : fedora
+Short desc   : ImageMagick libraries to link with
 URL          : http://www.imagemagick.org/
 License      : ImageMagick
 Descript     : This packages contains a shared libraries to use within other applications.
@@ -138,8 +138,8 @@ Descript     : This packages contains a shared libraries to use within other app
 
 ```
 Эпоха        : 1
-From repo     : fedora
-Short desc    : ImageMagick perl bindings
+From repo    : fedora
+Short desc   : ImageMagick perl bindings
 URL          : http://www.imagemagick.org/
 License      : ImageMagick
 Descript     : Perl bindings to ImageMagick.
