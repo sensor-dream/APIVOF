@@ -14,55 +14,55 @@
 [[ -z "${main_script_source}" ]] && declare -rx main_script_source="$BASH_SOURCE"
 
 if [[ -z "${main_script_source_path}" ]]; then
-    temp_one="$(dirname ${main_script_source})"
-    if [[ "${temp_one}" == '.' ]]; then
-        declare -rx main_script_source_path="$(pwd)"
-    else
-        declare -rx main_script_source_path="${temp_one}"
-    fi
+  temp_one="$(dirname ${main_script_source})"
+  if [[ "${temp_one}" == '.' ]]; then
+    declare -rx main_script_source_path="$(pwd)"
+  else
+    declare -rx main_script_source_path="${temp_one}"
+  fi
 fi
 
 if [[ -z "${main_run_script_path}" ]]; then
-    declare -rx main_run_script_path="$(pwd)"
-    printf "Script runs from path: %s\n" "${main_run_script_path}"
+  declare -rx main_run_script_path="$(pwd)"
+  printf "Script runs from path: %s\n" "${main_run_script_path}"
 fi
 
 if [[ -z "${main_cfg_script_source}" ]]; then
-    check=1
-    while [[ "${check}" -eq 1 ]]; do
-        if [[ ! -f 'main.cfg' ]]; then
-            if [[ "$(pwd)" != "/" ]]; then
-                cd ../
-            else
-                cd ${main_run_script_path}
-                check=0
-                echo -e '\e[31m'"!!! Not found configuration shared file !!!\033[0m"
-                tput sgr0
-                exit 1
-            fi
-        else
-            check=0
-            declare -rx main_project_path="$(pwd)"
-            . "${main_project_path}/main.cfg" "$@"
-            cd "${main_run_script_path}"
-        fi
-    done
+  check=1
+  while [[ "${check}" -eq 1 ]]; do
+    if [[ ! -f 'main.cfg' ]]; then
+      if [[ "$(pwd)" != "/" ]]; then
+        cd ../
+      else
+        cd ${main_run_script_path}
+        check=0
+        echo -e '\e[31m'"!!! Not found configuration shared file !!!\033[0m"
+        tput sgr0
+        exit 1
+      fi
+    else
+      check=0
+      declare -rx main_project_path="$(pwd)"
+      . "${main_project_path}/main.cfg" "$@"
+      cd "${main_run_script_path}"
+    fi
+  done
 fi
 
 printf "Start: %s\n" "$(readlink -m ${BASH_SOURCE})"
 
 function main_main_script_source() {
 
-    printf "Initialise main function of main script source\n"
+  printf "Initialise main function of main script source\n"
 
-    temp_one="$(cat ${main_project_path}/main.list | sed -e 's/[#].*$//mig; s/^$//mig')"
-    echo "Check file ${main_project_path}/main.list for installation packages"
-    if [[ -n "${temp_one}" ]]; then
-        . ${main_run_script_path}/tools/packs-in-system -i "${temp_one}"
-        main_list
-    else
-        . "${main_run_script_path}/tools/packs-in-system"
-    fi
+  temp_one="$(cat ${main_project_path}/main.list | sed -e 's/[#].*$//mig; s/^$//mig')"
+  echo "Check file ${main_project_path}/main.list for installation packages"
+  if [[ -n "${temp_one}" ]]; then
+    . ${main_run_script_path}/packs-in-system -i "${temp_one}"
+    main_list
+  else
+    . "${main_run_script_path}/packs-in-system"
+  fi
 
 }
 
