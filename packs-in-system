@@ -58,7 +58,7 @@ function get_packs_in_system() {
 
   # printf '%s\n' $(unset_dupes_in_array "$(sudo dnf repoquery --installed \* | sed -e 's/-[0-9]*[.:].*$//mig')") | grep -E 'liblqr|ntfs|texlive-pst|xorg-x11-fonts-ISO8859|arpwatch|tcpd'
 
-  printf '%s\n' ${list} | sort --parallel ${number_cores} -b -o "${file_list}"
+  printf '%s\n' ${list} | sort --parallel ${number_cores} -b -i -u -o "${file_list}"
 
   echo "${maunal_install_count_packages}" >"${file_list}.count"
 
@@ -66,7 +66,7 @@ function get_packs_in_system() {
 
 function get_info_packs_in_system() {
 
-  local list="$(cat ${file_list} | sort -u)"
+  local list="$(cat ${file_list} | sort --parallel ${number_cores} -b -i -u)"
   local find_list=
 
   [[ -d "${main_project_path}/guidelines/list-info" ]] && rm -f -r "${main_project_path}/guidelines/list-info"
@@ -77,7 +77,7 @@ function get_info_packs_in_system() {
 
   for i in {0..9} {A..Z} {a..z}; do
 
-    find_list=$(grep -e "^[${i}]" <<<${list})
+    find_list=$(grep -e "^[${i}]" <<<${list} | sort --parallel ${number_cores} -b -i -u)
 
     if [[ -n "${find_list}" ]]; then
       echo -e "Create ${i}-packs-in-system-${os_id}-${os_version_id}.md for first letter ${i} installation packages\n"
