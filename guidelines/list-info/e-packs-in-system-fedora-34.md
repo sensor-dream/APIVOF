@@ -1,14 +1,14 @@
-# For letter e, information about installed packages
+# For first letter e, information about installation packages
 
 <details>
 <summary>e2fsprogs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utilities for managing ext2, ext3, and ext4 file systems
+From repo     : anaconda
+Short desc    : Utilities for managing ext2, ext3, and ext4 file systems
 URL          : http://e2fsprogs.sourceforge.net/
-Лицензия     : GPLv2
-Описание     : The e2fsprogs package contains a number of utilities for creating,
+License      : GPLv2
+Descript     : The e2fsprogs package contains a number of utilities for creating,
              : checking, modifying, and correcting any inconsistencies in second,
              : third and fourth extended (ext2/ext3/ext4) file systems. E2fsprogs
              : contains e2fsck (used to repair file system inconsistencies after an
@@ -29,11 +29,11 @@ URL          : http://e2fsprogs.sourceforge.net/
 <summary>e2fsprogs-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Ext2/3/4 file system specific shared libraries
+From repo     : anaconda
+Short desc    : Ext2/3/4 file system specific shared libraries
 URL          : http://e2fsprogs.sourceforge.net/
-Лицензия     : GPLv2 and LGPLv2
-Описание     : E2fsprogs-libs contains libe2p and libext2fs, the libraries of the
+License      : GPLv2 and LGPLv2
+Descript     : E2fsprogs-libs contains libe2p and libext2fs, the libraries of the
              : e2fsprogs package.
              : 
              : These libraries are used to directly access ext2/3/4 file systems
@@ -46,11 +46,11 @@ URL          : http://e2fsprogs.sourceforge.net/
 <summary>ed</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : The GNU line editor
+From repo     : fedora
+Short desc    : The GNU line editor
 URL          : http://www.gnu.org/software/ed/
-Лицензия     : GPLv3+ and GFDL
-Описание     : Ed is a line-oriented text editor, used to create, display, and modify
+License      : GPLv3+ and GFDL
+Descript     : Ed is a line-oriented text editor, used to create, display, and modify
              : text files (both interactively and via shell scripts).  For most
              : purposes, ed has been replaced in normal usage by full-screen editors
              : (emacs and vi, for example).
@@ -66,11 +66,11 @@ URL          : http://www.gnu.org/software/ed/
 <summary>edk2-ovmf</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Open Virtual Machine Firmware
+From repo     : anaconda
+Short desc    : Open Virtual Machine Firmware
 URL          : http://www.tianocore.org/edk2/
-Лицензия     : BSD-2-Clause-Patent and OpenSSL
-Описание     : EFI Development Kit II
+License      : BSD-2-Clause-Patent and OpenSSL
+Descript     : EFI Development Kit II
              : Open Virtual Machine Firmware (x64)
 ```
 
@@ -80,11 +80,11 @@ URL          : http://www.tianocore.org/edk2/
 <summary>efi-filesystem</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The basic directory layout for EFI machines
+From repo     : anaconda
+Short desc    : The basic directory layout for EFI machines
 URL          : https://github.com/rhboot/efi-rpm-macros/
-Лицензия     : GPLv3+
-Описание     : The efi-filesystem package contains the basic directory layout for EFI
+License      : GPLv3+
+Descript     : The efi-filesystem package contains the basic directory layout for EFI
              : machine bootloaders and tools.
 ```
 
@@ -94,11 +94,11 @@ URL          : https://github.com/rhboot/efi-rpm-macros/
 <summary>efi-filesystem</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The basic directory layout for EFI machines
+From repo     : updates-testing
+Short desc    : The basic directory layout for EFI machines
 URL          : https://github.com/rhboot/efi-rpm-macros/
-Лицензия     : GPLv3+
-Описание     : The efi-filesystem package contains the basic directory layout for EFI
+License      : GPLv3+
+Descript     : The efi-filesystem package contains the basic directory layout for EFI
              : machine bootloaders and tools.
 ```
 
@@ -108,11 +108,11 @@ URL          : https://github.com/rhboot/efi-rpm-macros/
 <summary>efi-srpm-macros</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Common SRPM Macros for building EFI-related packages
+From repo     : updates-testing
+Short desc    : Common SRPM Macros for building EFI-related packages
 URL          : https://github.com/rhboot/efi-rpm-macros/
-Лицензия     : GPLv3+
-Описание     : efi-srpm-macros provides a set of SRPM macros for use in EFI-related packages.
+License      : GPLv3+
+Descript     : efi-srpm-macros provides a set of SRPM macros for use in EFI-related packages.
 ```
 
 </details>
@@ -121,11 +121,11 @@ URL          : https://github.com/rhboot/efi-rpm-macros/
 <summary>efibootmgr</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : EFI Boot Manager
+From repo     : anaconda
+Short desc    : EFI Boot Manager
 URL          : https://github.com/rhboot/efibootmgr/
-Лицензия     : GPLv2+
-Описание     : efibootmgr displays and allows the user to edit the Intel Extensible
+License      : GPLv2+
+Descript     : efibootmgr displays and allows the user to edit the Intel Extensible
              : Firmware Interface (EFI) Boot Manager variables.  Additional
              : information about EFI can be found at https://uefi.org/.
 ```
@@ -136,11 +136,11 @@ URL          : https://github.com/rhboot/efibootmgr/
 <summary>efivar-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library to manage UEFI variables
+From repo     : anaconda
+Short desc    : Library to manage UEFI variables
 URL          : https://github.com/rhboot/efivar
-Лицензия     : LGPL-2.1
-Описание     : Library to allow for the simple manipulation of UEFI variables.
+License      : LGPL-2.1
+Descript     : Library to allow for the simple manipulation of UEFI variables.
 ```
 
 </details>
@@ -149,11 +149,11 @@ URL          : https://github.com/rhboot/efivar
 <summary>egl-utils</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : EGL utilities
+From repo     : fedora
+Short desc    : EGL utilities
 URL          : http://www.mesa3d.org
-Лицензия     : MIT
-Описание     : The egl-utils package provides the eglinfo and es2_info utilities.
+License      : MIT
+Descript     : The egl-utils package provides the eglinfo and es2_info utilities.
 ```
 
 </details>
@@ -162,11 +162,11 @@ URL          : http://www.mesa3d.org
 <summary>egl-wayland</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Wayland EGL External Platform library
+From repo     : fedora
+Short desc    : Wayland EGL External Platform library
 URL          : https://github.com/NVIDIA/egl-wayland
-Лицензия     : MIT
-Описание     : Wayland EGL External Platform library
+License      : MIT
+Descript     : Wayland EGL External Platform library
 ```
 
 </details>
@@ -175,11 +175,11 @@ URL          : https://github.com/NVIDIA/egl-wayland
 <summary>elementary-print</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Simple shim for printing support via Contractor
+From repo     : fedora
+Short desc    : Simple shim for printing support via Contractor
 URL          : https://github.com/elementary/print
-Лицензия     : GPLv3+
-Описание     : Simple shim for printing support via Contractor.
+License      : GPLv3+
+Descript     : Simple shim for printing support via Contractor.
 ```
 
 </details>
@@ -188,11 +188,11 @@ URL          : https://github.com/elementary/print
 <summary>elfutils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A collection of utilities and DSOs to handle ELF files and DWARF data
+From repo     : anaconda
+Short desc    : A collection of utilities and DSOs to handle ELF files and DWARF data
 URL          : http://elfutils.org/
-Лицензия     : GPLv3+ and (GPLv2+ or LGPLv3+) and GFDL
-Описание     : Elfutils is a collection of utilities, including stack (to show
+License      : GPLv3+ and (GPLv2+ or LGPLv3+) and GFDL
+Descript     : Elfutils is a collection of utilities, including stack (to show
              : backtraces), nm (for listing symbols from object files), size
              : (for listing the section sizes of an object or archive file),
              : strip (for discarding symbols), readelf (to see the raw ELF file
@@ -206,11 +206,11 @@ URL          : http://elfutils.org/
 <summary>elfutils-debuginfod-client</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library and command line client for build-id HTTP ELF/DWARF server
+From repo     : anaconda
+Short desc    : Library and command line client for build-id HTTP ELF/DWARF server
 URL          : http://elfutils.org/
-Лицензия     : GPLv3+ and (GPLv2+ or LGPLv3+)
-Описание     : The elfutils-debuginfod-client package contains shared libraries
+License      : GPLv3+ and (GPLv2+ or LGPLv3+)
+Descript     : The elfutils-debuginfod-client package contains shared libraries
              : dynamically loaded from -ldw, which use a debuginfod service
              : to look up debuginfo and associated data. Also includes a
              : command-line frontend.
@@ -222,11 +222,11 @@ URL          : http://elfutils.org/
 <summary>elfutils-default-yama-scope</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Default yama attach scope sysctl setting
+From repo     : anaconda
+Short desc    : Default yama attach scope sysctl setting
 URL          : http://elfutils.org/
-Лицензия     : GPLv2+ or LGPLv3+
-Описание     : Yama sysctl setting to enable default attach scope settings
+License      : GPLv2+ or LGPLv3+
+Descript     : Yama sysctl setting to enable default attach scope settings
              : enabling programs to use ptrace attach, access to
              : /proc/PID/{mem,personality,stack,syscall}, and the syscalls
              : process_vm_readv and process_vm_writev which are used for
@@ -241,11 +241,11 @@ URL          : http://elfutils.org/
 <summary>elfutils-libelf</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library to read and write ELF files
+From repo     : anaconda
+Short desc    : Library to read and write ELF files
 URL          : http://elfutils.org/
-Лицензия     : GPLv2+ or LGPLv3+
-Описание     : The elfutils-libelf package provides a DSO which allows reading and
+License      : GPLv2+ or LGPLv3+
+Descript     : The elfutils-libelf package provides a DSO which allows reading and
              : writing ELF files on a high level.  Third party programs depend on
              : this package to read internals of ELF files.  The programs of the
              : elfutils package use it also to generate new ELF files.
@@ -257,11 +257,11 @@ URL          : http://elfutils.org/
 <summary>elfutils-libelf-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development support for libelf
+From repo     : fedora
+Short desc    : Development support for libelf
 URL          : http://elfutils.org/
-Лицензия     : GPLv2+ or LGPLv3+
-Описание     : The elfutils-libelf-devel package contains the libraries to create
+License      : GPLv2+ or LGPLv3+
+Descript     : The elfutils-libelf-devel package contains the libraries to create
              : applications for handling compiled objects.  libelf allows you to
              : access the internals of the ELF object file format, so you can see the
              : different sections of an ELF file.
@@ -273,11 +273,11 @@ URL          : http://elfutils.org/
 <summary>elfutils-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries to handle compiled objects
+From repo     : anaconda
+Short desc    : Libraries to handle compiled objects
 URL          : http://elfutils.org/
-Лицензия     : GPLv2+ or LGPLv3+
-Описание     : The elfutils-libs package contains libraries which implement DWARF, ELF,
+License      : GPLv2+ or LGPLv3+
+Descript     : The elfutils-libs package contains libraries which implement DWARF, ELF,
              : and machine-specific ELF handling and process introspection.  These
              : libraries are used by the programs in the elfutils package.  The
              : elfutils-devel package enables building other programs using these
@@ -291,11 +291,11 @@ URL          : http://elfutils.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Emacs filesystem layout
+From repo     : updates-testing
+Short desc    : Emacs filesystem layout
 URL          : http://www.gnu.org/software/emacs/
-Лицензия     : GPLv3+ and CC0-1.0
-Описание     : This package provides some directories which are required by other
+License      : GPLv3+ and CC0-1.0
+Descript     : This package provides some directories which are required by other
              : packages that add functionality to Emacs.
 ```
 
@@ -306,11 +306,11 @@ URL          : http://www.gnu.org/software/emacs/
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : An Enchanting Spell Checking Library
+From repo     : anaconda
+Short desc    : An Enchanting Spell Checking Library
 URL          : http://www.abisource.com/
-Лицензия     : LGPLv2+
-Описание     : A library that wraps other spell checking backends.
+License      : LGPLv2+
+Descript     : A library that wraps other spell checking backends.
 ```
 
 </details>
@@ -319,11 +319,11 @@ URL          : http://www.abisource.com/
 <summary>enchant2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An Enchanting Spell Checking Library
+From repo     : anaconda
+Short desc    : An Enchanting Spell Checking Library
 URL          : https://github.com/AbiWord/enchant
-Лицензия     : LGPLv2+
-Описание     : A library that wraps other spell checking backends.
+License      : LGPLv2+
+Descript     : A library that wraps other spell checking backends.
 ```
 
 </details>
@@ -332,11 +332,11 @@ URL          : https://github.com/AbiWord/enchant
 <summary>environment-modules</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Provides dynamic modification of a user's environment
+From repo     : fedora
+Short desc    : Provides dynamic modification of a user's environment
 URL          : http://modules.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : The Environment Modules package provides for the dynamic modification of
+License      : GPLv2+
+Descript     : The Environment Modules package provides for the dynamic modification of
              : a user's environment via modulefiles.
              : 
              : Each modulefile contains the information needed to configure the shell
@@ -366,11 +366,11 @@ URL          : http://modules.sourceforge.net/
 <summary>eog</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Eye of GNOME image viewer
+From repo     : updates-testing
+Short desc    : Eye of GNOME image viewer
 URL          : https://wiki.gnome.org/Apps/EyeOfGnome
-Лицензия     : GPLv2+ and GFDL
-Описание     : The Eye of GNOME image viewer (eog) is the official image viewer for the
+License      : GPLv2+ and GFDL
+Descript     : The Eye of GNOME image viewer (eog) is the official image viewer for the
              : GNOME desktop. It can view single image files in a variety of formats, as
              : well as large image collections.
              : 
@@ -383,11 +383,11 @@ URL          : https://wiki.gnome.org/Apps/EyeOfGnome
 <summary>esmtp</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : User configurable send-only Mail Transfer Agent
+From repo     : fedora
+Short desc    : User configurable send-only Mail Transfer Agent
 URL          : http://esmtp.sourceforge.net/
-Лицензия     : GPL+ and GPLv2+
-Описание     : ESMTP is a user configurable relay-only Mail Transfer Agent (MTA) with a
+License      : GPL+ and GPLv2+
+Descript     : ESMTP is a user configurable relay-only Mail Transfer Agent (MTA) with a
              : sendmail-compatible syntax. It's based on libESMTP supporting the AUTH
              : (including the CRAM-MD5 and NTLM SASL mechanisms) and the StartTLS SMTP
              : extensions.
@@ -399,11 +399,11 @@ URL          : http://esmtp.sourceforge.net/
 <summary>espeak-ng</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : eSpeak NG Text-to-Speech
+From repo     : anaconda
+Short desc    : eSpeak NG Text-to-Speech
 URL          : https://github.com/espeak-ng/espeak-ng
-Лицензия     : GPLv3+
-Описание     : The eSpeak NG (Next Generation) Text-to-Speech program is an open source speech
+License      : GPLv3+
+Descript     : The eSpeak NG (Next Generation) Text-to-Speech program is an open source speech
              : synthesizer that supports over 70 languages. It is based on the eSpeak engine
              : created by Jonathan Duddington. It uses spectral formant synthesis by default
              : which sounds robotic, but can be configured to use Klatt formant synthesis
@@ -417,11 +417,11 @@ URL          : https://github.com/espeak-ng/espeak-ng
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Settings tool for Ethernet NICs
+From repo     : anaconda
+Short desc    : Settings tool for Ethernet NICs
 URL          : https://www.kernel.org/pub/software/network/ethtool/
-Лицензия     : GPLv2
-Описание     : This utility allows querying and changing settings such as speed,
+License      : GPLv2
+Descript     : This utility allows querying and changing settings such as speed,
              : port, auto-negotiation, PCI locations and checksum offload on many
              : network devices, especially of Ethernet devices.
 ```
@@ -432,11 +432,11 @@ URL          : https://www.kernel.org/pub/software/network/ethtool/
 <summary>ettercap</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Network traffic sniffer/analyser, NCURSES interface version
+From repo     : fedora
+Short desc    : Network traffic sniffer/analyser, NCURSES interface version
 URL          : http://ettercap.sourceforge.net
-Лицензия     : GPLv2+
-Описание     : Ettercap is a suite for man in the middle attacks on LAN. It features
+License      : GPLv2+
+Descript     : Ettercap is a suite for man in the middle attacks on LAN. It features
              : sniffing of live connections, content filtering on the fly and many other
              : interesting tricks. It supports active and passive dissection of many
              : protocols (even ciphered ones) and includes many feature for network and host
@@ -449,11 +449,11 @@ URL          : http://ettercap.sourceforge.net
 <summary>evince</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Document viewer
+From repo     : anaconda
+Short desc    : Document viewer
 URL          : https://wiki.gnome.org/Apps/Evince
-Лицензия     : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
-Описание     : Evince is simple multi-page document viewer. It can display and print
+License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
+Descript     : Evince is simple multi-page document viewer. It can display and print
              : Portable Document Format (PDF), PostScript (PS) and Encapsulated PostScript
              : (EPS) files. When supported by the document format, evince allows searching
              : for text, copying text to the clipboard, hypertext navigation,
@@ -469,11 +469,11 @@ URL          : https://wiki.gnome.org/Apps/Evince
 <summary>evince</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Document viewer
+From repo     : updates-testing
+Short desc    : Document viewer
 URL          : https://wiki.gnome.org/Apps/Evince
-Лицензия     : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
-Описание     : Evince is simple multi-page document viewer. It can display and print
+License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
+Descript     : Evince is simple multi-page document viewer. It can display and print
              : Portable Document Format (PDF), PostScript (PS) and Encapsulated PostScript
              : (EPS) files. When supported by the document format, evince allows searching
              : for text, copying text to the clipboard, hypertext navigation,
@@ -489,11 +489,11 @@ URL          : https://wiki.gnome.org/Apps/Evince
 <summary>evince-djvu</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Evince backend for djvu files
+From repo     : anaconda
+Short desc    : Evince backend for djvu files
 URL          : https://wiki.gnome.org/Apps/Evince
-Лицензия     : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
-Описание     : This package contains a backend to let evince display djvu files.
+License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
+Descript     : This package contains a backend to let evince display djvu files.
 ```
 
 </details>
@@ -502,11 +502,11 @@ URL          : https://wiki.gnome.org/Apps/Evince
 <summary>evince-djvu</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Evince backend for djvu files
+From repo     : updates-testing
+Short desc    : Evince backend for djvu files
 URL          : https://wiki.gnome.org/Apps/Evince
-Лицензия     : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
-Описание     : This package contains a backend to let evince display djvu files.
+License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
+Descript     : This package contains a backend to let evince display djvu files.
 ```
 
 </details>
@@ -515,11 +515,11 @@ URL          : https://wiki.gnome.org/Apps/Evince
 <summary>evince-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for the evince document viewer
+From repo     : anaconda
+Short desc    : Libraries for the evince document viewer
 URL          : https://wiki.gnome.org/Apps/Evince
-Лицензия     : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
-Описание     : This package contains shared libraries needed for evince
+License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
+Descript     : This package contains shared libraries needed for evince
 ```
 
 </details>
@@ -528,11 +528,11 @@ URL          : https://wiki.gnome.org/Apps/Evince
 <summary>evince-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Libraries for the evince document viewer
+From repo     : updates-testing
+Short desc    : Libraries for the evince document viewer
 URL          : https://wiki.gnome.org/Apps/Evince
-Лицензия     : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
-Описание     : This package contains shared libraries needed for evince
+License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
+Descript     : This package contains shared libraries needed for evince
 ```
 
 </details>
@@ -541,11 +541,11 @@ URL          : https://wiki.gnome.org/Apps/Evince
 <summary>evince-nautilus</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Evince extension for nautilus
+From repo     : updates-testing
+Short desc    : Evince extension for nautilus
 URL          : https://wiki.gnome.org/Apps/Evince
-Лицензия     : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
-Описание     : This package contains the evince extension for the nautilus file manager.
+License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
+Descript     : This package contains the evince extension for the nautilus file manager.
              : It adds an additional tab called "Document" to the file properties dialog.
 ```
 
@@ -555,11 +555,11 @@ URL          : https://wiki.gnome.org/Apps/Evince
 <summary>evince-thumbnailer</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Evince thumbnailer
+From repo     : anaconda
+Short desc    : Evince thumbnailer
 URL          : https://wiki.gnome.org/Apps/Evince
-Лицензия     : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
-Описание     : This package brings the Evince thumbnailer independently from Evince.
+License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
+Descript     : This package brings the Evince thumbnailer independently from Evince.
 ```
 
 </details>
@@ -568,11 +568,11 @@ URL          : https://wiki.gnome.org/Apps/Evince
 <summary>evince-thumbnailer</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Evince thumbnailer
+From repo     : updates-testing
+Short desc    : Evince thumbnailer
 URL          : https://wiki.gnome.org/Apps/Evince
-Лицензия     : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
-Описание     : This package brings the Evince thumbnailer independently from Evince.
+License      : GPLv2+ and GPLv3+ and LGPLv2+ and MIT and Afmparse
+Descript     : This package brings the Evince thumbnailer independently from Evince.
 ```
 
 </details>
@@ -581,11 +581,11 @@ URL          : https://wiki.gnome.org/Apps/Evince
 <summary>evolution-data-server</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Backend data server for Evolution
+From repo     : anaconda
+Short desc    : Backend data server for Evolution
 URL          : https://wiki.gnome.org/Apps/Evolution
-Лицензия     : LGPLv2+
-Описание     : The evolution-data-server package provides a unified backend for programs that work
+License      : LGPLv2+
+Descript     : The evolution-data-server package provides a unified backend for programs that work
              : with contacts, tasks, and calendar information.
              : 
              : It was originally developed for Evolution (hence the name), but is now used
@@ -598,11 +598,11 @@ URL          : https://wiki.gnome.org/Apps/Evolution
 <summary>evolution-data-server</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Backend data server for Evolution
+From repo     : updates-testing
+Short desc    : Backend data server for Evolution
 URL          : https://wiki.gnome.org/Apps/Evolution
-Лицензия     : LGPLv2+
-Описание     : The evolution-data-server package provides a unified backend for programs that work
+License      : LGPLv2+
+Descript     : The evolution-data-server package provides a unified backend for programs that work
              : with contacts, tasks, and calendar information.
              : 
              : It was originally developed for Evolution (hence the name), but is now used
@@ -615,11 +615,11 @@ URL          : https://wiki.gnome.org/Apps/Evolution
 <summary>evolution-data-server-langpacks</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Translations for evolution-data-server
+From repo     : anaconda
+Short desc    : Translations for evolution-data-server
 URL          : https://wiki.gnome.org/Apps/Evolution
-Лицензия     : LGPLv2+
-Описание     : This package contains translations for evolution-data-server.
+License      : LGPLv2+
+Descript     : This package contains translations for evolution-data-server.
 ```
 
 </details>
@@ -628,11 +628,11 @@ URL          : https://wiki.gnome.org/Apps/Evolution
 <summary>evolution-data-server-langpacks</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Translations for evolution-data-server
+From repo     : updates-testing
+Short desc    : Translations for evolution-data-server
 URL          : https://wiki.gnome.org/Apps/Evolution
-Лицензия     : LGPLv2+
-Описание     : This package contains translations for evolution-data-server.
+License      : LGPLv2+
+Descript     : This package contains translations for evolution-data-server.
 ```
 
 </details>
@@ -641,11 +641,11 @@ URL          : https://wiki.gnome.org/Apps/Evolution
 <summary>exempi</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library for easy parsing of XMP metadata
+From repo     : anaconda
+Short desc    : Library for easy parsing of XMP metadata
 URL          : http://libopenraw.freedesktop.org/wiki/Exempi
-Лицензия     : BSD
-Описание     : Exempi provides a library for easy parsing of XMP metadata. It is a port of
+License      : BSD
+Descript     : Exempi provides a library for easy parsing of XMP metadata. It is a port of
              : Adobe XMP SDK to work on UNIX and to be build with GNU automake.
              : It includes XMPCore and XMPFiles.
 ```
@@ -656,11 +656,11 @@ URL          : http://libopenraw.freedesktop.org/wiki/Exempi
 <summary>exfatprogs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Userspace utilities for exFAT filesystems
+From repo     : updates-testing
+Short desc    : Userspace utilities for exFAT filesystems
 URL          : https://github.com/exfatprogs/exfatprogs
-Лицензия     : GPLv2
-Описание     : Utilities for formatting and repairing exFAT filesystems.
+License      : GPLv2
+Descript     : Utilities for formatting and repairing exFAT filesystems.
 ```
 
 </details>
@@ -669,11 +669,11 @@ URL          : https://github.com/exfatprogs/exfatprogs
 <summary>exiv2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Exif and Iptc metadata manipulation library
+From repo     : anaconda
+Short desc    : Exif and Iptc metadata manipulation library
 URL          : http://www.exiv2.org/
-Лицензия     : GPLv2+
-Описание     : A command line utility to access image metadata, allowing one to:
+License      : GPLv2+
+Descript     : A command line utility to access image metadata, allowing one to:
              : * print the Exif metadata of Jpeg images as summary info, interpreted values,
              :   or the plain data for each tag
              : * print the Iptc metadata of Jpeg images
@@ -691,11 +691,11 @@ URL          : http://www.exiv2.org/
 <summary>exiv2-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Exif and Iptc metadata manipulation library
+From repo     : anaconda
+Short desc    : Exif and Iptc metadata manipulation library
 URL          : http://www.exiv2.org/
-Лицензия     : GPLv2+
-Описание     : A C++ library to access image metadata, supporting full read and write access
+License      : GPLv2+
+Descript     : A C++ library to access image metadata, supporting full read and write access
              : to the Exif and Iptc metadata, Exif MakerNote support, extract and delete
              : methods for Exif thumbnails, classes to access Ifd and so on.
 ```
@@ -706,11 +706,11 @@ URL          : http://www.exiv2.org/
 <summary>expat</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An XML parser library
+From repo     : anaconda
+Short desc    : An XML parser library
 URL          : https://libexpat.github.io/
-Лицензия     : MIT
-Описание     : This is expat, the C library for parsing XML, written by James Clark. Expat
+License      : MIT
+Descript     : This is expat, the C library for parsing XML, written by James Clark. Expat
              : is a stream oriented XML parser. This means that you register handlers with
              : the parser prior to starting the parse. These handlers are called when the
              : parser discovers the associated structures in the document being parsed. A
@@ -724,11 +724,11 @@ URL          : https://libexpat.github.io/
 <summary>expatpp</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : C++ layer for expat
+From repo     : fedora
+Short desc    : C++ layer for expat
 URL          : http://sourceforge.net/projects/expatpp/
-Лицензия     : MPLv1.1
-Описание     : Expatpp is a simple C++ layer to make using the open source expat XML parsing
+License      : MPLv1.1
+Descript     : Expatpp is a simple C++ layer to make using the open source expat XML parsing
              : library vastly easier for complex schemas. It has been used widely in industry
              : including the Valve Steam project.
 ```

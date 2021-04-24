@@ -1,14 +1,14 @@
-# For letter y, information about installed packages
+# For first letter y, information about installation packages
 
 <details>
 <summary>yajl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Yet Another JSON Library (YAJL)
+From repo     : anaconda
+Short desc    : Yet Another JSON Library (YAJL)
 URL          : http://lloyd.github.com/yajl/
-Лицензия     : ISC
-Описание     : Yet Another JSON Library. YAJL is a small event-driven
+License      : ISC
+Descript     : Yet Another JSON Library. YAJL is a small event-driven
              : (SAX-style) JSON parser written in ANSI C, and a small
              : validating JSON generator.
 ```
@@ -19,11 +19,11 @@ URL          : http://lloyd.github.com/yajl/
 <summary>yaml-cpp</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A YAML parser and emitter for C++
+From repo     : fedora
+Short desc    : A YAML parser and emitter for C++
 URL          : https://github.com/jbeder/yaml-cpp
-Лицензия     : MIT
-Описание     : yaml-cpp is a YAML parser and emitter in C++ written around the YAML 1.2 spec.
+License      : MIT
+Descript     : yaml-cpp is a YAML parser and emitter in C++ written around the YAML 1.2 spec.
 ```
 
 </details>
@@ -32,11 +32,11 @@ URL          : https://github.com/jbeder/yaml-cpp
 <summary>yamllint</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A linter for YAML files
+From repo     : fedora
+Short desc    : A linter for YAML files
 URL          : https://github.com/adrienverge/yamllint
-Лицензия     : GPLv3+
-Описание     : A linter for YAML files.
+License      : GPLv3+
+Descript     : A linter for YAML files.
              : 
              : yamllint does not only check for syntax validity, but for weirdnesses like key
              : repetition and cosmetic problems such as lines length, trailing spaces,
@@ -49,11 +49,11 @@ URL          : https://github.com/adrienverge/yamllint
 <summary>yarnpkg</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Fast, reliable, and secure dependency management.
+From repo     : fedora
+Short desc    : Fast, reliable, and secure dependency management.
 URL          : https://github.com/yarnpkg/yarn
-Лицензия     : BSD
-Описание     : Fast, reliable, and secure dependency management.
+License      : BSD
+Descript     : Fast, reliable, and secure dependency management.
 ```
 
 </details>
@@ -62,11 +62,11 @@ URL          : https://github.com/yarnpkg/yarn
 <summary>yaru-gtk2-theme</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GTK+ 2 support for the Yaru GTK Theme
+From repo     : updates-testing
+Short desc    : GTK+ 2 support for the Yaru GTK Theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
-Лицензия     : GPLv3+ and CC-BY-SA
-Описание     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
+License      : GPLv3+ and CC-BY-SA
+Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
              : This is the theme that is shaped by the community on the Ubuntu hub, turned into
              : the default theme starting from Ubuntu 18.10 Cosmic Cuttlefish.
              : 
@@ -79,11 +79,11 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 <summary>yaru-gtk3-theme</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GTK+ 3 support for the Yaru GTK Theme
+From repo     : updates-testing
+Short desc    : GTK+ 3 support for the Yaru GTK Theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
-Лицензия     : GPLv3+ and CC-BY-SA
-Описание     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
+License      : GPLv3+ and CC-BY-SA
+Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
              : This is the theme that is shaped by the community on the Ubuntu hub, turned into
              : the default theme starting from Ubuntu 18.10 Cosmic Cuttlefish.
              : 
@@ -96,11 +96,11 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 <summary>yaru-gtk4-theme</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GTK+ 3 support for the Yaru GTK Theme
+From repo     : updates-testing
+Short desc    : GTK+ 3 support for the Yaru GTK Theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
-Лицензия     : GPLv3+ and CC-BY-SA
-Описание     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
+License      : GPLv3+ and CC-BY-SA
+Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
              : This is the theme that is shaped by the community on the Ubuntu hub, turned into
              : the default theme starting from Ubuntu 18.10 Cosmic Cuttlefish.
              : 
@@ -113,11 +113,11 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 <summary>yaru-icon-theme</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Yaru icon theme
+From repo     : updates-testing
+Short desc    : Yaru icon theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
-Лицензия     : CC-BY-SA
-Описание     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
+License      : CC-BY-SA
+Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
              : This is the theme that is shaped by the community on the Ubuntu hub, turned into
              : the default theme starting from Ubuntu 18.10 Cosmic Cuttlefish.
              : 
@@ -131,11 +131,11 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : Help browser for the GNOME desktop
+From repo     : updates-testing
+Short desc    : Help browser for the GNOME desktop
 URL          : https://wiki.gnome.org/Apps/Yelp
-Лицензия     : LGPLv2+ and ASL 2.0 and GPLv2+
-Описание     : Yelp is the help browser for the GNOME desktop. It is designed
+License      : LGPLv2+ and ASL 2.0 and GPLv2+
+Descript     : Yelp is the help browser for the GNOME desktop. It is designed
              : to help you browse all the documentation on your system in
              : one central tool, including traditional man pages, info pages and
              : documentation written in DocBook.
@@ -148,11 +148,11 @@ URL          : https://wiki.gnome.org/Apps/Yelp
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Help browser for the GNOME desktop
+From repo     : anaconda
+Short desc    : Help browser for the GNOME desktop
 URL          : https://wiki.gnome.org/Apps/Yelp
-Лицензия     : LGPLv2+ and ASL 2.0 and GPLv2+
-Описание     : Yelp is the help browser for the GNOME desktop. It is designed
+License      : LGPLv2+ and ASL 2.0 and GPLv2+
+Descript     : Yelp is the help browser for the GNOME desktop. It is designed
              : to help you browse all the documentation on your system in
              : one central tool, including traditional man pages, info pages and
              : documentation written in DocBook.
@@ -165,11 +165,11 @@ URL          : https://wiki.gnome.org/Apps/Yelp
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : Libraries for yelp
+From repo     : updates-testing
+Short desc    : Libraries for yelp
 URL          : https://wiki.gnome.org/Apps/Yelp
-Лицензия     : LGPLv2+ and ASL 2.0 and GPLv2+
-Описание     : This package contains libraries used by the yelp help browser.
+License      : LGPLv2+ and ASL 2.0 and GPLv2+
+Descript     : This package contains libraries used by the yelp help browser.
 ```
 
 </details>
@@ -179,11 +179,11 @@ URL          : https://wiki.gnome.org/Apps/Yelp
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Libraries for yelp
+From repo     : anaconda
+Short desc    : Libraries for yelp
 URL          : https://wiki.gnome.org/Apps/Yelp
-Лицензия     : LGPLv2+ and ASL 2.0 and GPLv2+
-Описание     : This package contains libraries used by the yelp help browser.
+License      : LGPLv2+ and ASL 2.0 and GPLv2+
+Descript     : This package contains libraries used by the yelp help browser.
 ```
 
 </details>
@@ -192,11 +192,11 @@ URL          : https://wiki.gnome.org/Apps/Yelp
 <summary>yelp-xsl</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : XSL stylesheets for the yelp help browser
+From repo     : updates-testing
+Short desc    : XSL stylesheets for the yelp help browser
 URL          : https://download.gnome.org/sources/yelp-xsl
-Лицензия     : LGPLv2+ and GPLv2+
-Описание     : This package contains XSL stylesheets that are used by the yelp help browser.
+License      : LGPLv2+ and GPLv2+
+Descript     : This package contains XSL stylesheets that are used by the yelp help browser.
 ```
 
 </details>
@@ -205,11 +205,11 @@ URL          : https://download.gnome.org/sources/yelp-xsl
 <summary>yelp-xsl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : XSL stylesheets for the yelp help browser
+From repo     : anaconda
+Short desc    : XSL stylesheets for the yelp help browser
 URL          : https://download.gnome.org/sources/yelp-xsl
-Лицензия     : LGPLv2+ and GPLv2+
-Описание     : This package contains XSL stylesheets that are used by the yelp help browser.
+License      : LGPLv2+ and GPLv2+
+Descript     : This package contains XSL stylesheets that are used by the yelp help browser.
 ```
 
 </details>
@@ -218,11 +218,11 @@ URL          : https://download.gnome.org/sources/yelp-xsl
 <summary>ykpers</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Yubikey personalization program
+From repo     : fedora
+Short desc    : Yubikey personalization program
 URL          : http://opensource.yubico.com/yubikey-personalization/
-Лицензия     : BSD
-Описание     : Yubico's YubiKey can be re-programmed with a new AES key. This is a library
+License      : BSD
+Descript     : Yubico's YubiKey can be re-programmed with a new AES key. This is a library
              : that makes this an easy task.
 ```
 
@@ -232,11 +232,11 @@ URL          : http://opensource.yubico.com/yubikey-personalization/
 <summary>yum</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Package manager
+From repo     : updates-testing
+Short desc    : Package manager
 URL          : https://github.com/rpm-software-management/dnf
-Лицензия     : GPLv2+
-Описание     : Utility that allows users to manage packages on their systems.
+License      : GPLv2+
+Descript     : Utility that allows users to manage packages on their systems.
              : It supports RPMs, modules and comps groups & environments.
 ```
 

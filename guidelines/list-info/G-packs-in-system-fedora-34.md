@@ -1,14 +1,14 @@
-# For letter G, information about installed packages
+# For first letter G, information about installation packages
 
 <details>
 <summary>GConf2</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A process-transparent configuration system
+From repo     : fedora
+Short desc    : A process-transparent configuration system
 URL          : http://projects.gnome.org/gconf/
-Лицензия     : LGPLv2+ and GPLv2+
-Описание     : GConf is a process-transparent configuration database API used to
+License      : LGPLv2+ and GPLv2+
+Descript     : GConf is a process-transparent configuration database API used to
              : store user preferences. It has pluggable backends and features to
              : support workgroup administration.
 ```
@@ -19,11 +19,11 @@ URL          : http://projects.gnome.org/gconf/
 <summary>GLC_lib</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : C++ class library for OpenGL application based on Qt 4
+From repo     : fedora
+Short desc    : C++ class library for OpenGL application based on Qt 4
 URL          : http://www.glc-lib.net/
-Лицензия     : LGPLv3+
-Описание     : GLC_lib is a C++ class library that enables the quick creation of OpenGL
+License      : LGPLv3+
+Descript     : GLC_lib is a C++ class library that enables the quick creation of OpenGL
              : application based on Qt 4. Some GLC_lib features : Camera orbiting, Obj
              : textured file support, 3D Primitive... And more.
 ```
@@ -34,11 +34,11 @@ URL          : http://www.glc-lib.net/
 <summary>GLee</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GL Easy Extension library
+From repo     : fedora
+Short desc    : GL Easy Extension library
 URL          : http://elf-stone.com/glee.php
-Лицензия     : BSD
-Описание     : GLee (GL Easy Extension library) is a free cross-platform extension loading
+License      : BSD
+Descript     : GLee (GL Easy Extension library) is a free cross-platform extension loading
              : library for OpenGL. It provides seamless support for OpenGL functions up
              : to version 3.0 and 399 extensions.
 ```
@@ -49,11 +49,11 @@ URL          : http://elf-stone.com/glee.php
 <summary>GeoIP</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Library for country/city/organization to IP address or hostname mapping
+From repo     : fedora
+Short desc    : Library for country/city/organization to IP address or hostname mapping
 URL          : http://www.maxmind.com/app/c
-Лицензия     : LGPLv2+
-Описание     : GeoIP is a C library that enables the user to find the country that any IP
+License      : LGPLv2+
+Descript     : GeoIP is a C library that enables the user to find the country that any IP
              : address or hostname originates from.
              : 
              : It uses file based databases that can optionally be updated on a weekly basis
@@ -67,11 +67,11 @@ URL          : http://www.maxmind.com/app/c
 <summary>GeoIP-GeoLite-data</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Free GeoLite IP geolocation country database
+From repo     : fedora
+Short desc    : Free GeoLite IP geolocation country database
 URL          : http://dev.maxmind.com/geoip/legacy/geolite/
-Лицензия     : CC-BY-SA
-Описание     : The GeoLite databases are free IP geolocation databases. This package contains
+License      : CC-BY-SA
+Descript     : The GeoLite databases are free IP geolocation databases. This package contains
              : a database that maps IPv4 addresses to countries.
              : 
              : This product includes GeoLite data created by MaxMind, available from
@@ -84,11 +84,11 @@ URL          : http://dev.maxmind.com/geoip/legacy/geolite/
 <summary>GeoIP-GeoLite-data-extra</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Free GeoLite IP geolocation databases
+From repo     : fedora
+Short desc    : Free GeoLite IP geolocation databases
 URL          : http://dev.maxmind.com/geoip/legacy/geolite/
-Лицензия     : CC-BY-SA
-Описание     : The GeoLite databases are free IP geolocation databases. This package contains
+License      : CC-BY-SA
+Descript     : The GeoLite databases are free IP geolocation databases. This package contains
              : databases that map IPv6 addresses to countries, plus IPv4 and IPv6 addresses
              : to cities and autonomous system numbers.
              : 
@@ -102,11 +102,11 @@ URL          : http://dev.maxmind.com/geoip/legacy/geolite/
 <summary>GraphicsMagick</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : An ImageMagick fork, offering faster image generation and better quality
+From repo     : fedora
+Short desc    : An ImageMagick fork, offering faster image generation and better quality
 URL          : http://www.graphicsmagick.org/
-Лицензия     : MIT
-Описание     : GraphicsMagick is a comprehensive image processing package which is initially
+License      : MIT
+Descript     : GraphicsMagick is a comprehensive image processing package which is initially
              : based on ImageMagick 5.5.2, but which has undergone significant re-work by
              : the GraphicsMagick Group to significantly improve the quality and performance
              : of the software.
@@ -118,11 +118,11 @@ URL          : http://www.graphicsmagick.org/
 <summary>GraphicsMagick-c++</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GraphicsMagick Magick++ library (C++ bindings)
+From repo     : fedora
+Short desc    : GraphicsMagick Magick++ library (C++ bindings)
 URL          : http://www.graphicsmagick.org/
-Лицензия     : MIT
-Описание     : This package contains the GraphicsMagick++ library, a C++ binding to the
+License      : MIT
+Descript     : This package contains the GraphicsMagick++ library, a C++ binding to the
              : GraphicsMagick graphics manipulation library.
              : 
              : Install GraphicsMagick-c++ if you want to use any applications that use
@@ -135,11 +135,11 @@ URL          : http://www.graphicsmagick.org/
 <summary>GraphicsMagick-c++-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : C++ bindings for the GraphicsMagick library
+From repo     : fedora
+Short desc    : C++ bindings for the GraphicsMagick library
 URL          : http://www.graphicsmagick.org/
-Лицензия     : MIT
-Описание     : GraphicsMagick-devel contains the Libraries and header files you'll
+License      : MIT
+Descript     : GraphicsMagick-devel contains the Libraries and header files you'll
              : need to develop GraphicsMagick applications using the Magick++ C++ bindings.
              : GraphicsMagick is an image manipulation program.
              : 
@@ -157,11 +157,11 @@ URL          : http://www.graphicsmagick.org/
 <summary>GraphicsMagick-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Libraries and header files for GraphicsMagick app development
+From repo     : fedora
+Short desc    : Libraries and header files for GraphicsMagick app development
 URL          : http://www.graphicsmagick.org/
-Лицензия     : MIT
-Описание     : GraphicsMagick-devel contains the Libraries and header files you'll
+License      : MIT
+Descript     : GraphicsMagick-devel contains the Libraries and header files you'll
              : need to develop GraphicsMagick applications. GraphicsMagick is an image
              : manipulation program.
              : 
@@ -177,11 +177,11 @@ URL          : http://www.graphicsmagick.org/
 <summary>GraphicsMagick-doc</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GraphicsMagick documentation
+From repo     : fedora
+Short desc    : GraphicsMagick documentation
 URL          : http://www.graphicsmagick.org/
-Лицензия     : MIT
-Описание     : Documentation for GraphicsMagick.
+License      : MIT
+Descript     : Documentation for GraphicsMagick.
 ```
 
 </details>
@@ -190,11 +190,11 @@ URL          : http://www.graphicsmagick.org/
 <summary>GraphicsMagick-perl</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GraphicsMagick perl bindings
+From repo     : fedora
+Short desc    : GraphicsMagick perl bindings
 URL          : http://www.graphicsmagick.org/
-Лицензия     : MIT
-Описание     : Perl bindings to GraphicsMagick.
+License      : MIT
+Descript     : Perl bindings to GraphicsMagick.
              : 
              : Install GraphicsMagick-perl if you want to use any perl scripts that use
              : GraphicsMagick.

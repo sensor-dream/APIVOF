@@ -1,14 +1,14 @@
-# For letter L, information about installed packages
+# For first letter L, information about installation packages
 
 <details>
 <summary>LibRaw</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library for reading RAW files obtained from digital photo cameras
+From repo     : anaconda
+Short desc    : Library for reading RAW files obtained from digital photo cameras
 URL          : http://www.libraw.org
-Лицензия     : BSD and (CDDL or LGPLv2)
-Описание     : LibRaw is a library for reading RAW files obtained from digital photo
+License      : BSD and (CDDL or LGPLv2)
+Descript     : LibRaw is a library for reading RAW files obtained from digital photo
              : cameras (CRW/CR2, NEF, RAF, DNG, and others).
              : 
              : LibRaw is based on the source codes of the dcraw utility, where part of
@@ -21,11 +21,11 @@ URL          : http://www.libraw.org
 <summary>Lmod</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Environmental Modules System in Lua
+From repo     : fedora
+Short desc    : Environmental Modules System in Lua
 URL          : https://www.tacc.utexas.edu/tacc-projects/lmod
-Лицензия     : MIT and LGPLv2
-Описание     : Lmod is a Lua based module system that easily handles the MODULEPATH
+License      : MIT and LGPLv2
+Descript     : Lmod is a Lua based module system that easily handles the MODULEPATH
              : Hierarchical problem.  Environment Modules provide a convenient way to
              : dynamically change the users' environment through modulefiles. This includes
              : easily adding or removing directories to the PATH environment variable.

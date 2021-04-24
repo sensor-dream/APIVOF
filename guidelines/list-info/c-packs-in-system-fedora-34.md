@@ -1,14 +1,14 @@
-# For letter c, information about installed packages
+# For first letter c, information about installation packages
 
 <details>
 <summary>c-ares</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A library that performs asynchronous DNS operations
+From repo     : anaconda
+Short desc    : A library that performs asynchronous DNS operations
 URL          : http://c-ares.haxx.se/
-Лицензия     : MIT
-Описание     : c-ares is a C library that performs DNS requests and name resolves
+License      : MIT
+Descript     : c-ares is a C library that performs DNS requests and name resolves
              : asynchronously. c-ares is a fork of the library named 'ares', written
              : by Greg Hudson at MIT.
 ```
@@ -19,11 +19,11 @@ URL          : http://c-ares.haxx.se/
 <summary>ca-certificates</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The Mozilla CA root certificate bundle
+From repo     : anaconda
+Short desc    : The Mozilla CA root certificate bundle
 URL          : https://fedoraproject.org/wiki/CA-Certificates
-Лицензия     : Public Domain
-Описание     : This package contains the set of CA certificates chosen by the
+License      : Public Domain
+Descript     : This package contains the set of CA certificates chosen by the
              : Mozilla Foundation for use with the Internet PKI.
 ```
 
@@ -33,11 +33,11 @@ URL          : https://fedoraproject.org/wiki/CA-Certificates
 <summary>cabextract</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Utility for extracting cabinet (.cab) archives
+From repo     : fedora
+Short desc    : Utility for extracting cabinet (.cab) archives
 URL          : http://www.cabextract.org.uk/
-Лицензия     : GPLv2+
-Описание     : cabextract is a program which can extract files from cabinet (.cab)
+License      : GPLv2+
+Descript     : cabextract is a program which can extract files from cabinet (.cab)
              : archives.
 ```
 
@@ -47,11 +47,11 @@ URL          : http://www.cabextract.org.uk/
 <summary>caca-utils</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Colour AsCii Art Text mode graphics utilities based on libcaca
+From repo     : fedora
+Short desc    : Colour AsCii Art Text mode graphics utilities based on libcaca
 URL          : http://caca.zoy.org/wiki/libcaca
-Лицензия     : WTFPL
-Описание     : This package contains utilities and demonstration programs for libcaca, the
+License      : WTFPL
+Descript     : This package contains utilities and demonstration programs for libcaca, the
              : Colour AsCii Art library.
              : 
              : cacaview is a simple image viewer for the terminal. It opens most image
@@ -72,11 +72,11 @@ URL          : http://caca.zoy.org/wiki/libcaca
 <summary>cairo</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A 2D graphics library
+From repo     : anaconda
+Short desc    : A 2D graphics library
 URL          : http://cairographics.org
-Лицензия     : LGPLv2 or MPLv1.1
-Описание     : Cairo is a 2D graphics library designed to provide high-quality display
+License      : LGPLv2 or MPLv1.1
+Descript     : Cairo is a 2D graphics library designed to provide high-quality display
              : and print output. Currently supported output targets include the X Window
              : System, in-memory image buffers, and image files (PDF, PostScript, and SVG).
              : 
@@ -90,11 +90,11 @@ URL          : http://cairographics.org
 <summary>cairo</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A 2D graphics library
+From repo     : updates-testing
+Short desc    : A 2D graphics library
 URL          : http://cairographics.org
-Лицензия     : LGPLv2 or MPLv1.1
-Описание     : Cairo is a 2D graphics library designed to provide high-quality display
+License      : LGPLv2 or MPLv1.1
+Descript     : Cairo is a 2D graphics library designed to provide high-quality display
              : and print output. Currently supported output targets include the X Window
              : System, in-memory image buffers, and image files (PDF, PostScript, and SVG).
              : 
@@ -108,11 +108,11 @@ URL          : http://cairographics.org
 <summary>cairo-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Development files for cairo
+From repo     : updates-testing
+Short desc    : Development files for cairo
 URL          : http://cairographics.org
-Лицензия     : LGPLv2 or MPLv1.1
-Описание     : Cairo is a 2D graphics library designed to provide high-quality display
+License      : LGPLv2 or MPLv1.1
+Descript     : Cairo is a 2D graphics library designed to provide high-quality display
              : and print output.
              : 
              : This package contains libraries, header files and developer documentation
@@ -125,11 +125,11 @@ URL          : http://cairographics.org
 <summary>cairo-gobject</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GObject bindings for cairo
+From repo     : anaconda
+Short desc    : GObject bindings for cairo
 URL          : http://cairographics.org
-Лицензия     : LGPLv2 or MPLv1.1
-Описание     : Cairo is a 2D graphics library designed to provide high-quality display
+License      : LGPLv2 or MPLv1.1
+Descript     : Cairo is a 2D graphics library designed to provide high-quality display
              : and print output.
              : 
              : This package contains functionality to make cairo graphics library
@@ -142,11 +142,11 @@ URL          : http://cairographics.org
 <summary>cairo-gobject</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GObject bindings for cairo
+From repo     : updates-testing
+Short desc    : GObject bindings for cairo
 URL          : http://cairographics.org
-Лицензия     : LGPLv2 or MPLv1.1
-Описание     : Cairo is a 2D graphics library designed to provide high-quality display
+License      : LGPLv2 or MPLv1.1
+Descript     : Cairo is a 2D graphics library designed to provide high-quality display
              : and print output.
              : 
              : This package contains functionality to make cairo graphics library
@@ -159,11 +159,11 @@ URL          : http://cairographics.org
 <summary>cairomm</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : C++ API for the cairo graphics library
+From repo     : anaconda
+Short desc    : C++ API for the cairo graphics library
 URL          : https://www.cairographics.org
-Лицензия     : LGPLv2+
-Описание     : This library provides a C++ interface to cairo.
+License      : LGPLv2+
+Descript     : This library provides a C++ interface to cairo.
              : 
              : The API/ABI version series is 1.0.
 ```
@@ -174,11 +174,11 @@ URL          : https://www.cairographics.org
 <summary>capstone</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A lightweight multi-platform, multi-architecture disassembly framework
+From repo     : anaconda
+Short desc    : A lightweight multi-platform, multi-architecture disassembly framework
 URL          : http://www.capstone-engine.org/
-Лицензия     : BSD
-Описание     : 
+License      : BSD
+Descript     : 
              : Capstone is a disassembly framework with the target of becoming the ultimate
              : disasm engine for binary analysis and reversing in the security community.
 ```
@@ -189,11 +189,11 @@ URL          : http://www.capstone-engine.org/
 <summary>castxml</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : C-family abstract syntax tree XML output tool
+From repo     : updates-testing
+Short desc    : C-family abstract syntax tree XML output tool
 URL          : https://github.com/CastXML/CastXML
-Лицензия     : ASL 2.0
-Описание     : Parse C-family source files and optionally write a subset of the
+License      : ASL 2.0
+Descript     : Parse C-family source files and optionally write a subset of the
              : Abstract Syntax Tree (AST) to a representation in XML.
              : 
              : Source files are parsed as complete translation units using the clang
@@ -208,11 +208,11 @@ URL          : https://github.com/CastXML/CastXML
 <summary>catatonit</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A signal-forwarding process manager for containers
+From repo     : anaconda
+Short desc    : A signal-forwarding process manager for containers
 URL          : https://github.com/openSUSE/catatonit
-Лицензия     : GPLv3+
-Описание     : Catatonit is a /sbin/init program for use within containers. It
+License      : GPLv3+
+Descript     : Catatonit is a /sbin/init program for use within containers. It
              : forwards (almost) all signals to the spawned child, tears down
              : the container when the spawned child exits, and otherwise
              : cleans up other exited processes (zombies).
@@ -228,11 +228,11 @@ URL          : https://github.com/openSUSE/catatonit
 <summary>catimg</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Print images in a terminal with 256 colors support
+From repo     : fedora
+Short desc    : Print images in a terminal with 256 colors support
 URL          : https://github.com/posva/catimg
-Лицензия     : MIT
-Описание     : catimg prints images in a terminal with 256 colors support. It supports
+License      : MIT
+Descript     : catimg prints images in a terminal with 256 colors support. It supports
              : JPEG, PNG, ICO and GIF formats.
 ```
 
@@ -242,11 +242,11 @@ URL          : https://github.com/posva/catimg
 <summary>ccache</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : C/C++ compiler cache
+From repo     : fedora
+Short desc    : C/C++ compiler cache
 URL          : http://ccache.dev/
-Лицензия     : GPLv3+
-Описание     : ccache is a compiler cache.  It speeds up recompilation of C/C++ code
+License      : GPLv3+
+Descript     : ccache is a compiler cache.  It speeds up recompilation of C/C++ code
              : by caching previous compiles and detecting when the same compile is
              : being done again.  The main focus is to handle the GNU C/C++ compiler
              : (GCC), but it may also work with compilers that mimic GCC good enough.
@@ -258,11 +258,11 @@ URL          : http://ccache.dev/
 <summary>cdparanoia-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for libcdda_paranoia (Paranoia III)
+From repo     : anaconda
+Short desc    : Libraries for libcdda_paranoia (Paranoia III)
 URL          : http://www.xiph.org/paranoia/index.html
-Лицензия     : LGPLv2
-Описание     : The cdparanoia-libs package contains the dynamic libraries needed for
+License      : LGPLv2
+Descript     : The cdparanoia-libs package contains the dynamic libraries needed for
              : applications which read CD Digital Audio disks.
 ```
 
@@ -272,11 +272,11 @@ URL          : http://www.xiph.org/paranoia/index.html
 <summary>certbot</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A free, automated certificate authority client
+From repo     : updates-testing
+Short desc    : A free, automated certificate authority client
 URL          : https://pypi.python.org/pypi/certbot
-Лицензия     : ASL 2.0
-Описание     : certbot is a free, automated certificate authority that aims
+License      : ASL 2.0
+Descript     : certbot is a free, automated certificate authority that aims
              : to lower the barriers to entry for encrypting all HTTP traffic on the internet.
 ```
 
@@ -286,11 +286,11 @@ URL          : https://pypi.python.org/pypi/certbot
 <summary>cfitsio</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Library for manipulating FITS data files
+From repo     : fedora
+Short desc    : Library for manipulating FITS data files
 URL          : http://heasarc.gsfc.nasa.gov/fitsio/
-Лицензия     : MIT
-Описание     : CFITSIO is a library of C and FORTRAN subroutines for reading and writing
+License      : MIT
+Descript     : CFITSIO is a library of C and FORTRAN subroutines for reading and writing
              : data files in FITS (Flexible Image Transport System) data format. CFITSIO
              : simplifies the task of writing software that deals with FITS files by
              : providing an easy to use set of high-level routines that insulate the
@@ -306,10 +306,10 @@ URL          : http://heasarc.gsfc.nasa.gov/fitsio/
 <summary>checkpolicy</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SELinux policy compiler
-Лицензия     : GPLv2
-Описание     : Security-enhanced Linux is a feature of the Linux® kernel and a number
+From repo     : anaconda
+Short desc    : SELinux policy compiler
+License      : GPLv2
+Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
              : of utilities with enhanced security functionality designed to add
              : mandatory access controls to Linux.  The Security-enhanced Linux
              : kernel contains new architectural components originally developed to
@@ -329,10 +329,10 @@ URL          : http://heasarc.gsfc.nasa.gov/fitsio/
 <summary>checkpolicy</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : SELinux policy compiler
-Лицензия     : GPLv2
-Описание     : Security-enhanced Linux is a feature of the Linux® kernel and a number
+From repo     : updates-testing
+Short desc    : SELinux policy compiler
+License      : GPLv2
+Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
              : of utilities with enhanced security functionality designed to add
              : mandatory access controls to Linux.  The Security-enhanced Linux
              : kernel contains new architectural components originally developed to
@@ -353,11 +353,11 @@ URL          : http://heasarc.gsfc.nasa.gov/fitsio/
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Application for taking pictures and movies from a webcam
+From repo     : anaconda
+Short desc    : Application for taking pictures and movies from a webcam
 URL          : https://wiki.gnome.org/Apps/Cheese
-Лицензия     : GPLv2+
-Описание     : Cheese is a Photobooth-inspired GNOME application for taking pictures and
+License      : GPLv2+
+Descript     : Cheese is a Photobooth-inspired GNOME application for taking pictures and
              : videos from a webcam. It can also apply fancy graphical effects.
 ```
 
@@ -368,11 +368,11 @@ URL          : https://wiki.gnome.org/Apps/Cheese
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Webcam display and capture widgets
+From repo     : anaconda
+Short desc    : Webcam display and capture widgets
 URL          : https://wiki.gnome.org/Apps/Cheese
-Лицензия     : GPLv2+
-Описание     : This package contains libraries needed for applications that
+License      : GPLv2+
+Descript     : This package contains libraries needed for applications that
              : want to display a webcam in their interface.
 ```
 
@@ -382,11 +382,11 @@ URL          : https://wiki.gnome.org/Apps/Cheese
 <summary>chkconfig</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A system tool for maintaining the /etc/rc*.d hierarchy
+From repo     : anaconda
+Short desc    : A system tool for maintaining the /etc/rc*.d hierarchy
 URL          : https://github.com/fedora-sysv/chkconfig
-Лицензия     : GPLv2
-Описание     : Chkconfig is a basic system utility.  It updates and queries runlevel
+License      : GPLv2
+Descript     : Chkconfig is a basic system utility.  It updates and queries runlevel
              : information for system services.  Chkconfig manipulates the numerous
              : symbolic links in /etc/rc.d, to relieve system administrators of some
              : of the drudgery of manually editing the symbolic links.
@@ -398,11 +398,11 @@ URL          : https://github.com/fedora-sysv/chkconfig
 <summary>chrome-gnome-shell</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Support for managing GNOME Shell Extensions through web browsers
+From repo     : anaconda
+Short desc    : Support for managing GNOME Shell Extensions through web browsers
 URL          : https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome
-Лицензия     : GPLv3+
-Описание     : Browser extension for Google Chrome/Chromium, Firefox, Vivaldi, Opera (and
+License      : GPLv3+
+Descript     : Browser extension for Google Chrome/Chromium, Firefox, Vivaldi, Opera (and
              : other Browser Extension, Chrome Extension or WebExtensions capable browsers)
              : and native host messaging connector that provides integration with GNOME Shell
              : and the corresponding extensions repository https://extensions.gnome.org.
@@ -414,11 +414,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome
 <summary>chrony</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An NTP client/server
+From repo     : anaconda
+Short desc    : An NTP client/server
 URL          : https://chrony.tuxfamily.org
-Лицензия     : GPLv2
-Описание     : chrony is a versatile implementation of the Network Time Protocol (NTP).
+License      : GPLv2
+Descript     : chrony is a versatile implementation of the Network Time Protocol (NTP).
              : It can synchronise the system clock with NTP servers, reference clocks
              : (e.g. GPS receiver), and manual input using wristwatch and keyboard. It
              : can also operate as an NTPv4 (RFC 5905) server and peer to provide a time
@@ -431,11 +431,11 @@ URL          : https://chrony.tuxfamily.org
 <summary>cifs-utils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utilities for mounting and managing CIFS mounts
+From repo     : anaconda
+Short desc    : Utilities for mounting and managing CIFS mounts
 URL          : http://linux-cifs.samba.org/cifs-utils/
-Лицензия     : GPLv3
-Описание     : The SMB/CIFS protocol is a standard file sharing protocol widely deployed
+License      : GPLv3
+Descript     : The SMB/CIFS protocol is a standard file sharing protocol widely deployed
              : on Microsoft Windows machines. This package contains tools for mounting
              : shares on Linux using the SMB/CIFS protocol. The tools in this package
              : work in conjunction with support in the kernel to allow one to mount a
@@ -449,11 +449,11 @@ URL          : http://linux-cifs.samba.org/cifs-utils/
 <summary>cifs-utils-info</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Additional tools for querying information about CIFS mount
+From repo     : anaconda
+Short desc    : Additional tools for querying information about CIFS mount
 URL          : http://linux-cifs.samba.org/cifs-utils/
-Лицензия     : GPLv3
-Описание     : This subpackage includes additional tools for querying information
+License      : GPLv3
+Descript     : This subpackage includes additional tools for querying information
              : about CIFS mount.
 ```
 
@@ -463,11 +463,11 @@ URL          : http://linux-cifs.samba.org/cifs-utils/
 <summary>cjson</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Ultralightweight JSON parser in ANSI C
+From repo     : fedora
+Short desc    : Ultralightweight JSON parser in ANSI C
 URL          : https://github.com/DaveGamble/cJSON
-Лицензия     : MIT and ASL 2.0
-Описание     : cJSON aims to be the dumbest possible parser that you can get your job
+License      : MIT and ASL 2.0
+Descript     : cJSON aims to be the dumbest possible parser that you can get your job
              : done with. It's a single file of C, and a single header file.
 ```
 
@@ -477,11 +477,11 @@ URL          : https://github.com/DaveGamble/cJSON
 <summary>clang</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A C language family front-end for LLVM
+From repo     : updates-testing
+Short desc    : A C language family front-end for LLVM
 URL          : http://llvm.org
-Лицензия     : NCSA
-Описание     : clang: noun
+License      : NCSA
+Descript     : clang: noun
              :     1. A loud, resonant, metallic sound.
              :     2. The strident call of a crane or goose.
              :     3. C-language family front-end toolkit.
@@ -501,11 +501,11 @@ URL          : http://llvm.org
 <summary>clang-analyzer</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A source code analysis framework
+From repo     : updates-testing
+Short desc    : A source code analysis framework
 URL          : http://llvm.org
-Лицензия     : NCSA and MIT
-Описание     : The Clang Static Analyzer consists of both a source code analysis
+License      : NCSA and MIT
+Descript     : The Clang Static Analyzer consists of both a source code analysis
              : framework and a standalone tool that finds bugs in C and Objective-C
              : programs. The standalone tool is invoked from the command-line, and is
              : intended to run in tandem with a build of a project or code base.
@@ -517,11 +517,11 @@ URL          : http://llvm.org
 <summary>clang-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Development header files for clang
+From repo     : updates-testing
+Short desc    : Development header files for clang
 URL          : http://llvm.org
-Лицензия     : NCSA
-Описание     : Development header files for clang.
+License      : NCSA
+Descript     : Development header files for clang.
 ```
 
 </details>
@@ -530,11 +530,11 @@ URL          : http://llvm.org
 <summary>clang-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Runtime library for clang
+From repo     : updates-testing
+Short desc    : Runtime library for clang
 URL          : http://llvm.org
-Лицензия     : NCSA
-Описание     : Runtime library for clang.
+License      : NCSA
+Descript     : Runtime library for clang.
 ```
 
 </details>
@@ -543,11 +543,11 @@ URL          : http://llvm.org
 <summary>clang-resource-filesystem</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Filesystem package that owns the clang resource directory
+From repo     : updates-testing
+Short desc    : Filesystem package that owns the clang resource directory
 URL          : http://llvm.org
-Лицензия     : NCSA
-Описание     : This package owns the clang resouce directory: $libdir/clang/$version/
+License      : NCSA
+Descript     : This package owns the clang resouce directory: $libdir/clang/$version/
 ```
 
 </details>
@@ -556,11 +556,11 @@ URL          : http://llvm.org
 <summary>clang-tools-extra</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Extra tools for clang
+From repo     : updates-testing
+Short desc    : Extra tools for clang
 URL          : http://llvm.org
-Лицензия     : NCSA
-Описание     : A set of extra tools built using Clang's tooling API.
+License      : NCSA
+Descript     : A set of extra tools built using Clang's tooling API.
 ```
 
 </details>
@@ -569,11 +569,11 @@ URL          : http://llvm.org
 <summary>clang11-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Runtime library for clang
+From repo     : updates-testing
+Short desc    : Runtime library for clang
 URL          : http://llvm.org
-Лицензия     : NCSA
-Описание     : Runtime library for clang.
+License      : NCSA
+Descript     : Runtime library for clang.
 ```
 
 </details>
@@ -582,11 +582,11 @@ URL          : http://llvm.org
 <summary>clang11-resource-filesystem</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Filesystem package that owns the clang resource directory
+From repo     : updates-testing
+Short desc    : Filesystem package that owns the clang resource directory
 URL          : http://llvm.org
-Лицензия     : NCSA
-Описание     : This package owns the clang resouce directory: $libdir/clang/$version/
+License      : NCSA
+Descript     : This package owns the clang resouce directory: $libdir/clang/$version/
 ```
 
 </details>
@@ -596,11 +596,11 @@ URL          : http://llvm.org
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Emoji annotation files in CLDR
+From repo     : updates-testing
+Short desc    : Emoji annotation files in CLDR
 URL          : https://unicode.org/cldr
-Лицензия     : Unicode
-Описание     : This package provides the emoji annotation file by language in CLDR.
+License      : Unicode
+Descript     : This package provides the emoji annotation file by language in CLDR.
 ```
 
 </details>
@@ -610,11 +610,11 @@ URL          : https://unicode.org/cldr
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : DTD files of CLDR common
+From repo     : updates-testing
+Short desc    : DTD files of CLDR common
 URL          : https://unicode.org/cldr
-Лицензия     : Unicode
-Описание     : This package contains DTD files of CLDR common which are required by
+License      : Unicode
+Descript     : This package contains DTD files of CLDR common which are required by
              : cldr-emoji-annotations.
 ```
 
@@ -624,11 +624,11 @@ URL          : https://unicode.org/cldr
 <summary>cliquer-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Library to find cliques in arbitrary weighted graphs
+From repo     : fedora
+Short desc    : Library to find cliques in arbitrary weighted graphs
 URL          : http://users.tkk.fi/pat/cliquer.html
-Лицензия     : GPLv2+
-Описание     : Cliquer is a set of C routines for finding cliques in an arbitrary
+License      : GPLv2+
+Descript     : Cliquer is a set of C routines for finding cliques in an arbitrary
              : weighted graph.  It uses an exact branch-and-bound algorithm developed
              : by Patric Östergård.  It is designed with the aim of being efficient
              : while still being flexible and easy to use.
@@ -640,11 +640,11 @@ URL          : http://users.tkk.fi/pat/cliquer.html
 <summary>clucene-contribs-lib</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Language specific text analyzers for clucene
+From repo     : anaconda
+Short desc    : Language specific text analyzers for clucene
 URL          : http://www.sourceforge.net/projects/clucene
-Лицензия     : LGPLv2+ or ASL 2.0
-Описание     : Language specific text analyzers for clucene.
+License      : LGPLv2+ or ASL 2.0
+Descript     : Language specific text analyzers for clucene.
 ```
 
 </details>
@@ -653,11 +653,11 @@ URL          : http://www.sourceforge.net/projects/clucene
 <summary>clucene-core</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Core clucene module
+From repo     : anaconda
+Short desc    : Core clucene module
 URL          : http://www.sourceforge.net/projects/clucene
-Лицензия     : LGPLv2+ or ASL 2.0
-Описание     : CLucene is a C++ port of the popular Apache Lucene search engine
+License      : LGPLv2+ or ASL 2.0
+Descript     : CLucene is a C++ port of the popular Apache Lucene search engine
              : (http://lucene.apache.org/java).
              : CLucene aims to be a high-speed alternative to Java Lucene, its API is very
              : similar to that of the Java version. CLucene has recently been brought up to
@@ -670,11 +670,11 @@ URL          : http://www.sourceforge.net/projects/clucene
 <summary>clutter</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Open Source software library for creating rich graphical user interfaces
+From repo     : anaconda
+Short desc    : Open Source software library for creating rich graphical user interfaces
 URL          : http://www.clutter-project.org/
-Лицензия     : LGPLv2+
-Описание     : Clutter is an open source software library for creating fast,
+License      : LGPLv2+
+Descript     : Clutter is an open source software library for creating fast,
              : visually rich graphical user interfaces. The most obvious example
              : of potential usage is in media center type applications.
              : We hope however it can be used for a lot more.
@@ -686,11 +686,11 @@ URL          : http://www.clutter-project.org/
 <summary>clutter-gst3</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GStreamer integration library for Clutter
+From repo     : anaconda
+Short desc    : GStreamer integration library for Clutter
 URL          : https://developer.gnome.org/clutter-gst/stable/
-Лицензия     : LGPLv2+
-Описание     : Clutter is an open source software library for creating fast, visually
+License      : LGPLv2+
+Descript     : Clutter is an open source software library for creating fast, visually
              : rich and animated graphical user interfaces.
              : 
              : Clutter GStreamer enables the use of GStreamer with Clutter.
@@ -702,11 +702,11 @@ URL          : https://developer.gnome.org/clutter-gst/stable/
 <summary>clutter-gtk</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A basic GTK clutter widget
+From repo     : anaconda
+Short desc    : A basic GTK clutter widget
 URL          : http://www.clutter-project.org
-Лицензия     : LGPLv2+
-Описание     : clutter-gtk is a library which allows the embedding of a Clutter
+License      : LGPLv2+
+Descript     : clutter-gtk is a library which allows the embedding of a Clutter
              : canvas (or "stage") into a GTK+ application, as well as embedding
              : GTK+ widgets inside the stage.
 ```
@@ -717,11 +717,11 @@ URL          : http://www.clutter-project.org
 <summary>cmake</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Cross-platform make system
+From repo     : updates-testing
+Short desc    : Cross-platform make system
 URL          : http://www.cmake.org
-Лицензия     : BSD and MIT and zlib
-Описание     : CMake is used to control the software compilation process using simple
+License      : BSD and MIT and zlib
+Descript     : CMake is used to control the software compilation process using simple
              : platform and compiler independent configuration files. CMake generates
              : native makefiles and workspaces that can be used in the compiler
              : environment of your choice. CMake is quite sophisticated: it is possible
@@ -735,11 +735,11 @@ URL          : http://www.cmake.org
 <summary>cmake-data</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Common data-files for cmake
+From repo     : updates-testing
+Short desc    : Common data-files for cmake
 URL          : http://www.cmake.org
-Лицензия     : BSD and MIT and zlib
-Описание     : This package contains common data-files for cmake.
+License      : BSD and MIT and zlib
+Descript     : This package contains common data-files for cmake.
 ```
 
 </details>
@@ -748,11 +748,11 @@ URL          : http://www.cmake.org
 <summary>cmake-filesystem</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Directories used by CMake modules
+From repo     : updates-testing
+Short desc    : Directories used by CMake modules
 URL          : http://www.cmake.org
-Лицензия     : BSD and MIT and zlib
-Описание     : This package owns all directories used by CMake modules.
+License      : BSD and MIT and zlib
+Descript     : This package owns all directories used by CMake modules.
 ```
 
 </details>
@@ -761,11 +761,11 @@ URL          : http://www.cmake.org
 <summary>cmake-rpm-macros</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Common RPM macros for cmake
+From repo     : updates-testing
+Short desc    : Common RPM macros for cmake
 URL          : http://www.cmake.org
-Лицензия     : BSD and MIT and zlib
-Описание     : This package contains common RPM macros for cmake.
+License      : BSD and MIT and zlib
+Descript     : This package contains common RPM macros for cmake.
 ```
 
 </details>
@@ -774,11 +774,11 @@ URL          : http://www.cmake.org
 <summary>code</summary>
 
 ```
-Из репозитор : code
-Краткое опис : Code editing. Redefined.
+From repo     : code
+Short desc    : Code editing. Redefined.
 URL          : https://code.visualstudio.com/
-Лицензия     : Multiple, see https://code.visualstudio.com/license
-Описание     : Visual Studio Code is a new choice of tool that combines the simplicity of a code editor with what developers need for the core edit-build-debug cycle. See https://code.visualstudio.com/docs/setup/linux for installation instructions and FAQ.
+License      : Multiple, see https://code.visualstudio.com/license
+Descript     : Visual Studio Code is a new choice of tool that combines the simplicity of a code editor with what developers need for the core edit-build-debug cycle. See https://code.visualstudio.com/docs/setup/linux for installation instructions and FAQ.
 ```
 
 </details>
@@ -787,11 +787,11 @@ URL          : https://code.visualstudio.com/
 <summary>cogl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A library for using 3D graphics hardware to draw pretty pictures
+From repo     : anaconda
+Short desc    : A library for using 3D graphics hardware to draw pretty pictures
 URL          : http://www.clutter-project.org/
-Лицензия     : LGPLv2+
-Описание     : Cogl is a small open source library for using 3D graphics hardware to draw
+License      : LGPLv2+
+Descript     : Cogl is a small open source library for using 3D graphics hardware to draw
              : pretty pictures. The API departs from the flat state machine style of
              : OpenGL and is designed to make it easy to write orthogonal components that
              : can render without stepping on each others toes.
@@ -814,11 +814,11 @@ URL          : http://www.clutter-project.org/
 <summary>coin-or-Cbc</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Coin-or branch and cut
+From repo     : fedora
+Short desc    : Coin-or branch and cut
 URL          : https://github.com/coin-or/Cbc
-Лицензия     : EPL-1.0
-Описание     : Cbc (Coin-or branch and cut) is an open-source mixed integer programming
+License      : EPL-1.0
+Descript     : Cbc (Coin-or branch and cut) is an open-source mixed integer programming
              : solver written in C++. It can be used as a callable library or using a
              : stand-alone executable. It can be called through AMPL (natively), GAMS
              : (using the links provided by the "Optimization Services" and "GAMSlinks"
@@ -839,11 +839,11 @@ URL          : https://github.com/coin-or/Cbc
 <summary>coin-or-Cgl</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Cut Generation Library
+From repo     : fedora
+Short desc    : Cut Generation Library
 URL          : https://github.com/coin-or/Cgl
-Лицензия     : EPL-1.0
-Описание     : The COIN-OR Cut Generation Library (Cgl) is a collection of cut generators
+License      : EPL-1.0
+Descript     : The COIN-OR Cut Generation Library (Cgl) is a collection of cut generators
              : that can be used with other COIN-OR packages that make use of cuts, such as,
              : among others, the linear solver Clp or the mixed integer linear programming
              : solvers Cbc or BCP.
@@ -855,11 +855,11 @@ URL          : https://github.com/coin-or/Cgl
 <summary>coin-or-Clp</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Coin-or linear programming
+From repo     : fedora
+Short desc    : Coin-or linear programming
 URL          : https://github.com/coin-or/Clp
-Лицензия     : EPL-1.0
-Описание     : Clp (Coin-or linear programming) is an open-source linear programming
+License      : EPL-1.0
+Descript     : Clp (Coin-or linear programming) is an open-source linear programming
              : solver written in C++. It is primarily meant to be used as a callable
              : library, but a basic, stand-alone executable version is also available.
 ```
@@ -870,11 +870,11 @@ URL          : https://github.com/coin-or/Clp
 <summary>coin-or-CoinUtils</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Coin-or Utilities
+From repo     : fedora
+Short desc    : Coin-or Utilities
 URL          : https://github.com/coin-or/CoinUtils
-Лицензия     : EPL-1.0
-Описание     : CoinUtils (Coin-or Utilities) is an open-source collection of classes
+License      : EPL-1.0
+Descript     : CoinUtils (Coin-or Utilities) is an open-source collection of classes
              : and functions that are generally useful to more than one COIN-OR project.
              : These utilities include:
              : 
@@ -890,11 +890,11 @@ URL          : https://github.com/coin-or/CoinUtils
 <summary>coin-or-Osi</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : COIN-OR Open Solver Interface Library
+From repo     : fedora
+Short desc    : COIN-OR Open Solver Interface Library
 URL          : https://github.com/coin-or/Osi
-Лицензия     : EPL-1.0
-Описание     : The COIN-OR Open Solver Interface Library is a collection of solver
+License      : EPL-1.0
+Descript     : The COIN-OR Open Solver Interface Library is a collection of solver
              : interfaces (SIs) that provide a common interface --- the OSI API --- for all
              : the supported solvers.
 ```
@@ -905,10 +905,10 @@ URL          : https://github.com/coin-or/Osi
 <summary>color-filesystem</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Color filesystem layout
-Лицензия     : Public Domain
-Описание     : This package provides some directories that are required/used to store color.
+From repo     : anaconda
+Short desc    : Color filesystem layout
+License      : Public Domain
+Descript     : This package provides some directories that are required/used to store color.
 ```
 
 </details>
@@ -917,11 +917,11 @@ URL          : https://github.com/coin-or/Osi
 <summary>colord</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Color daemon
+From repo     : anaconda
+Short desc    : Color daemon
 URL          : https://www.freedesktop.org/software/colord/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : colord is a low level system activated daemon that maps color devices
+License      : GPLv2+ and LGPLv2+
+Descript     : colord is a low level system activated daemon that maps color devices
              : to color profiles in the system context.
 ```
 
@@ -931,11 +931,11 @@ URL          : https://www.freedesktop.org/software/colord/
 <summary>colord-gtk</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GTK support library for colord
+From repo     : anaconda
+Short desc    : GTK support library for colord
 URL          : http://www.freedesktop.org/software/colord/
-Лицензия     : LGPLv2+
-Описание     : colord-gtk is a support library for colord and provides additional
+License      : LGPLv2+
+Descript     : colord-gtk is a support library for colord and provides additional
              : functionality that requires GTK+.
 ```
 
@@ -945,11 +945,11 @@ URL          : http://www.freedesktop.org/software/colord/
 <summary>colord-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Color daemon library
+From repo     : anaconda
+Short desc    : Color daemon library
 URL          : https://www.freedesktop.org/software/colord/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : colord is a low level system activated daemon that maps color devices
+License      : GPLv2+ and LGPLv2+
+Descript     : colord is a low level system activated daemon that maps color devices
              : to color profiles in the system context.
 ```
 
@@ -959,10 +959,10 @@ URL          : https://www.freedesktop.org/software/colord/
 <summary>comgr</summary>
 
 ```
-Из репозитор : ROCm
-Краткое опис : Library to provide support functions
-Лицензия     : unknown
-Описание     : DESCRIPTION
+From repo     : ROCm
+Short desc    : Library to provide support functions
+License      : unknown
+Descript     : DESCRIPTION
              : ===========
              : 
              : This is an installer created using CPack (https://cmake.org). No additional installation instructions provided.
@@ -974,11 +974,11 @@ URL          : https://www.freedesktop.org/software/colord/
 <summary>compat-lua-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development files for compat-lua
+From repo     : fedora
+Short desc    : Development files for compat-lua
 URL          : http://www.lua.org/
-Лицензия     : MIT
-Описание     : This package contains development files for compat-lua-libs.
+License      : MIT
+Descript     : This package contains development files for compat-lua-libs.
 ```
 
 </details>
@@ -987,11 +987,11 @@ URL          : http://www.lua.org/
 <summary>compat-lua-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Powerful light-weight programming language (compat version)
+From repo     : fedora
+Short desc    : Powerful light-weight programming language (compat version)
 URL          : http://www.lua.org/
-Лицензия     : MIT
-Описание     : This package contains a compatibility version of the lua-5.1 libraries.
+License      : MIT
+Descript     : This package contains a compatibility version of the lua-5.1 libraries.
 ```
 
 </details>
@@ -1000,11 +1000,11 @@ URL          : http://www.lua.org/
 <summary>compat-readline5</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A library for editing typed command lines
+From repo     : anaconda
+Short desc    : A library for editing typed command lines
 URL          : http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
-Лицензия     : GPLv2+
-Описание     : The Readline library provides a set of functions that allow users to
+License      : GPLv2+
+Descript     : The Readline library provides a set of functions that allow users to
              : edit command lines. Both Emacs and vi editing modes are available. The
              : Readline library includes additional functions for maintaining a list
              : of previously-entered command lines for recalling or editing those
@@ -1018,11 +1018,11 @@ URL          : http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
 <summary>compiler-rt</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : LLVM "compiler-rt" runtime libraries
+From repo     : updates-testing
+Short desc    : LLVM "compiler-rt" runtime libraries
 URL          : http://llvm.org
-Лицензия     : NCSA or MIT
-Описание     : The compiler-rt project is a part of the LLVM project. It provides
+License      : NCSA or MIT
+Descript     : The compiler-rt project is a part of the LLVM project. It provides
              : implementation of the low-level target-specific hooks required by
              : code generation, sanitizer runtimes and profiling library for code
              : instrumentation, and Blocks C language extension.
@@ -1034,11 +1034,11 @@ URL          : http://llvm.org
 <summary>composer</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Dependency Manager for PHP
+From repo     : updates-testing
+Short desc    : Dependency Manager for PHP
 URL          : https://getcomposer.org/
-Лицензия     : MIT
-Описание     : Composer helps you declare, manage and install dependencies of PHP projects,
+License      : MIT
+Descript     : Composer helps you declare, manage and install dependencies of PHP projects,
              : ensuring you have the right stack everywhere.
              : 
              : Documentation: https://getcomposer.org/doc/
@@ -1050,11 +1050,11 @@ URL          : https://getcomposer.org/
 <summary>compsize</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utility for measuring compression ratio of files on btrfs
+From repo     : anaconda
+Short desc    : Utility for measuring compression ratio of files on btrfs
 URL          : https://github.com/kilobyte/compsize
-Лицензия     : GPLv2+
-Описание     : compsize takes a list of files (given as arguments) on a btrfs filesystem and
+License      : GPLv2+
+Descript     : compsize takes a list of files (given as arguments) on a btrfs filesystem and
              : measures used compression types and effective compression ratio, producing
              : a report.
 ```
@@ -1065,11 +1065,11 @@ URL          : https://github.com/kilobyte/compsize
 <summary>conky</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A system monitor for X
+From repo     : fedora
+Short desc    : A system monitor for X
 URL          : https://github.com/brndnmtthws/conky
-Лицензия     : GPLv3+
-Описание     : A system monitor for X originally based on the torsmo code. but more kickass.
+License      : GPLv3+
+Descript     : A system monitor for X originally based on the torsmo code. but more kickass.
              : It just keeps on given'er. Yeah.
 ```
 
@@ -1080,11 +1080,11 @@ URL          : https://github.com/brndnmtthws/conky
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : OCI container runtime monitor
+From repo     : anaconda
+Short desc    : OCI container runtime monitor
 URL          : https://github.com/containers/conmon
-Лицензия     : ASL 2.0
-Описание     : OCI container runtime monitor.
+License      : ASL 2.0
+Descript     : OCI container runtime monitor.
 ```
 
 </details>
@@ -1094,11 +1094,11 @@ URL          : https://github.com/containers/conmon
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : OCI container runtime monitor
+From repo     : updates-testing
+Short desc    : OCI container runtime monitor
 URL          : https://github.com/containers/conmon
-Лицензия     : ASL 2.0
-Описание     : OCI container runtime monitor.
+License      : ASL 2.0
+Descript     : OCI container runtime monitor.
 ```
 
 </details>
@@ -1108,11 +1108,11 @@ URL          : https://github.com/containers/conmon
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : SELinux policies for container runtimes
+From repo     : updates-testing
+Short desc    : SELinux policies for container runtimes
 URL          : https://github.com/containers/container-selinux
-Лицензия     : GPLv2
-Описание     : SELinux policy modules for use with container runtimes.
+License      : GPLv2
+Descript     : SELinux policy modules for use with container runtimes.
 ```
 
 </details>
@@ -1121,11 +1121,11 @@ URL          : https://github.com/containers/container-selinux
 <summary>containernetworking-plugins</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for writing CNI plugin
+From repo     : anaconda
+Short desc    : Libraries for writing CNI plugin
 URL          : https://github.com/containernetworking/plugins
-Лицензия     : ASL 2.0
-Описание     : The CNI (Container Network Interface) project consists of a specification
+License      : ASL 2.0
+Descript     : The CNI (Container Network Interface) project consists of a specification
              : and libraries for writing plugins to configure network interfaces in Linux
              : containers, along with a number of supported plugins. CNI concerns itself
              : only with network connectivity of containers and removing allocated resources
@@ -1138,11 +1138,11 @@ URL          : https://github.com/containernetworking/plugins
 <summary>containernetworking-plugins</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Libraries for writing CNI plugin
+From repo     : updates-testing
+Short desc    : Libraries for writing CNI plugin
 URL          : https://github.com/containernetworking/plugins
-Лицензия     : ASL 2.0
-Описание     : The CNI (Container Network Interface) project consists of a specification
+License      : ASL 2.0
+Descript     : The CNI (Container Network Interface) project consists of a specification
              : and libraries for writing plugins to configure network interfaces in Linux
              : containers, along with a number of supported plugins. CNI concerns itself
              : only with network connectivity of containers and removing allocated resources
@@ -1156,11 +1156,11 @@ URL          : https://github.com/containernetworking/plugins
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Configuration files for working with image signatures
+From repo     : anaconda
+Short desc    : Configuration files for working with image signatures
 URL          : https://github.com/containers/skopeo
-Лицензия     : ASL 2.0
-Описание     : This package installs a default signature store configuration and a default
+License      : ASL 2.0
+Descript     : This package installs a default signature store configuration and a default
              : policy under `/etc/containers/`.
 ```
 
@@ -1171,10 +1171,10 @@ URL          : https://github.com/containers/skopeo
 
 ```
 Эпоха        : 4
-Из репозитор : updates-testing
-Краткое опис : Common configuration and documentation for containers
-Лицензия     : ASL 2.0
-Описание     : This package contains common configuration files and documentation for container
+From repo     : updates-testing
+Short desc    : Common configuration and documentation for containers
+License      : ASL 2.0
+Descript     : This package contains common configuration files and documentation for container
              : tools ecosystem, such as Podman, Buildah and Skopeo.
              : 
              : It is required because the most of configuration files and docs come from projects
@@ -1188,11 +1188,11 @@ URL          : https://github.com/containers/skopeo
 <summary>contractor</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Desktop-wide extension service
+From repo     : fedora
+Short desc    : Desktop-wide extension service
 URL          : https://github.com/elementary/contractor
-Лицензия     : GPLv3+
-Описание     : An extension service that allows apps to use the exposed functionality
+License      : GPLv3+
+Descript     : An extension service that allows apps to use the exposed functionality
              : of registered apps. This way, apps don't have to have the functions hard
              : coded into them.
 ```
@@ -1203,11 +1203,11 @@ URL          : https://github.com/elementary/contractor
 <summary>convmv</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Convert filename encodings
+From repo     : fedora
+Short desc    : Convert filename encodings
 URL          : http://j3e.de/linux/convmv
-Лицензия     : GPLv2 or GPLv3
-Описание     : This package contains the tool convmv with which you can convert the encodings
+License      : GPLv2 or GPLv3
+Descript     : This package contains the tool convmv with which you can convert the encodings
              : of filenames, e.g. from Latin1 to UTF-8.
 ```
 
@@ -1217,11 +1217,11 @@ URL          : http://j3e.de/linux/convmv
 <summary>copy-jdk-configs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : JDKs configuration files copier
+From repo     : anaconda
+Short desc    : JDKs configuration files copier
 URL          : https://pagure.io/copy_jdk_configs
-Лицензия     : BSD
-Описание     : Utility script to transfer JDKs configuration files between updates or for
+License      : BSD
+Descript     : Utility script to transfer JDKs configuration files between updates or for
              : archiving. With script to fix incorrectly created rpmnew files
 ```
 
@@ -1231,11 +1231,11 @@ URL          : https://pagure.io/copy_jdk_configs
 <summary>corectrl</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Friendly hardware control
+From repo     : fedora
+Short desc    : Friendly hardware control
 URL          : https://gitlab.com/corectrl/corectrl
-Лицензия     : GPLv3+ and Boost and BSD and MIT and Public Domain
-Описание     : CoreCtrl is a Free and Open Source GNU/Linux application that allows you to
+License      : GPLv3+ and Boost and BSD and MIT and Public Domain
+Descript     : CoreCtrl is a Free and Open Source GNU/Linux application that allows you to
              : control with ease your computer hardware using application profiles. It aims to
              : be flexible, comfortable and accessible to regular users.
              : 
@@ -1254,11 +1254,11 @@ URL          : https://gitlab.com/corectrl/corectrl
 <summary>coreutils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A set of basic GNU tools commonly used in shell scripts
+From repo     : anaconda
+Short desc    : A set of basic GNU tools commonly used in shell scripts
 URL          : https://www.gnu.org/software/coreutils/
-Лицензия     : GPLv3+
-Описание     : These are the GNU core utilities.  This package is the combination of
+License      : GPLv3+
+Descript     : These are the GNU core utilities.  This package is the combination of
              : the old GNU fileutils, sh-utils, and textutils packages.
 ```
 
@@ -1268,11 +1268,11 @@ URL          : https://www.gnu.org/software/coreutils/
 <summary>coreutils</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A set of basic GNU tools commonly used in shell scripts
+From repo     : updates-testing
+Short desc    : A set of basic GNU tools commonly used in shell scripts
 URL          : https://www.gnu.org/software/coreutils/
-Лицензия     : GPLv3+
-Описание     : These are the GNU core utilities.  This package is the combination of
+License      : GPLv3+
+Descript     : These are the GNU core utilities.  This package is the combination of
              : the old GNU fileutils, sh-utils, and textutils packages.
 ```
 
@@ -1282,11 +1282,11 @@ URL          : https://www.gnu.org/software/coreutils/
 <summary>coreutils-common</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : coreutils common optional components
+From repo     : anaconda
+Short desc    : coreutils common optional components
 URL          : https://www.gnu.org/software/coreutils/
-Лицензия     : GPLv3+
-Описание     : Optional though recommended components,
+License      : GPLv3+
+Descript     : Optional though recommended components,
              : including documentation and translations.
 ```
 
@@ -1296,11 +1296,11 @@ URL          : https://www.gnu.org/software/coreutils/
 <summary>coreutils-common</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : coreutils common optional components
+From repo     : updates-testing
+Short desc    : coreutils common optional components
 URL          : https://www.gnu.org/software/coreutils/
-Лицензия     : GPLv3+
-Описание     : Optional though recommended components,
+License      : GPLv3+
+Descript     : Optional though recommended components,
              : including documentation and translations.
 ```
 
@@ -1310,11 +1310,11 @@ URL          : https://www.gnu.org/software/coreutils/
 <summary>corosynclib</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The Corosync Cluster Engine Libraries
+From repo     : updates-testing
+Short desc    : The Corosync Cluster Engine Libraries
 URL          : http://corosync.github.io/corosync/
-Лицензия     : BSD
-Описание     : This package contains corosync libraries.
+License      : BSD
+Descript     : This package contains corosync libraries.
 ```
 
 </details>
@@ -1323,11 +1323,11 @@ URL          : http://corosync.github.io/corosync/
 <summary>cpio</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A GNU archiving program
+From repo     : updates-testing
+Short desc    : A GNU archiving program
 URL          : https://www.gnu.org/software/cpio/
-Лицензия     : GPLv3+
-Описание     : GNU cpio copies files into or out of a cpio or tar archive.  Archives
+License      : GPLv3+
+Descript     : GNU cpio copies files into or out of a cpio or tar archive.  Archives
              : are files which contain a collection of other files plus information
              : about them, such as their file name, owner, timestamps, and access
              : permissions.  The archive can be another file on the disk, a magnetic
@@ -1347,11 +1347,11 @@ URL          : https://www.gnu.org/software/cpio/
 <summary>cpio</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A GNU archiving program
+From repo     : anaconda
+Short desc    : A GNU archiving program
 URL          : https://www.gnu.org/software/cpio/
-Лицензия     : GPLv3+
-Описание     : GNU cpio copies files into or out of a cpio or tar archive.  Archives
+License      : GPLv3+
+Descript     : GNU cpio copies files into or out of a cpio or tar archive.  Archives
              : are files which contain a collection of other files plus information
              : about them, such as their file name, owner, timestamps, and access
              : permissions.  The archive can be another file on the disk, a magnetic
@@ -1371,11 +1371,11 @@ URL          : https://www.gnu.org/software/cpio/
 <summary>cpp</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The C Preprocessor
+From repo     : anaconda
+Short desc    : The C Preprocessor
 URL          : http://gcc.gnu.org
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Описание     : Cpp is the GNU C-Compatible Compiler Preprocessor.
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Descript     : Cpp is the GNU C-Compatible Compiler Preprocessor.
              : Cpp is a macro processor which is used automatically
              : by the C compiler to transform your program before actual
              : compilation. It is called a macro processor because it allows
@@ -1403,11 +1403,11 @@ URL          : http://gcc.gnu.org
 <summary>cpp</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The C Preprocessor
+From repo     : updates-testing
+Short desc    : The C Preprocessor
 URL          : http://gcc.gnu.org
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Описание     : Cpp is the GNU C-Compatible Compiler Preprocessor.
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Descript     : Cpp is the GNU C-Compatible Compiler Preprocessor.
              : Cpp is a macro processor which is used automatically
              : by the C compiler to transform your program before actual
              : compilation. It is called a macro processor because it allows
@@ -1435,11 +1435,11 @@ URL          : http://gcc.gnu.org
 <summary>cpp-hocon</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : C++ support for the HOCON configuration file format
+From repo     : updates-testing
+Short desc    : C++ support for the HOCON configuration file format
 URL          : https://github.com/puppetlabs/cpp-hocon
-Лицензия     : ASL 2.0
-Описание     : This is a port of the TypesafeConfig library to C++.
+License      : ASL 2.0
+Descript     : This is a port of the TypesafeConfig library to C++.
              : 
              : The library provides C++ support for the HOCON configuration file format.
 ```
@@ -1450,11 +1450,11 @@ URL          : https://github.com/puppetlabs/cpp-hocon
 <summary>cpu-x</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Gathers information on CPU, motherboard and more
+From repo     : fedora
+Short desc    : Gathers information on CPU, motherboard and more
 URL          : https://github.com/X0rg/CPU-X
-Лицензия     : GPLv3+
-Описание     : Free software that gathers information on CPU, motherboard and more.
+License      : GPLv3+
+Descript     : Free software that gathers information on CPU, motherboard and more.
              : 
              : CPU-X is similar to CPU-Z (Windows), but CPU-X is a Free and Open Source
              : software designed for GNU/Linux; also, it works on *BSD.
@@ -1470,11 +1470,11 @@ URL          : https://github.com/X0rg/CPU-X
 <summary>cpu-x-data</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Data files for cpu-x
+From repo     : fedora
+Short desc    : Data files for cpu-x
 URL          : https://github.com/X0rg/CPU-X
-Лицензия     : GPLv3+
-Описание     : Data files for cpu-x.
+License      : GPLv3+
+Descript     : Data files for cpu-x.
 ```
 
 </details>
@@ -1483,11 +1483,11 @@ URL          : https://github.com/X0rg/CPU-X
 <summary>crack</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Password cracker
+From repo     : fedora
+Short desc    : Password cracker
 URL          : https://dropsafe.crypticide.com/alecm/software/crack/c50-faq.html
-Лицензия     : Artistic clarified
-Описание     : Crack is a password guessing program that is designed to quickly locate
+License      : Artistic clarified
+Descript     : Crack is a password guessing program that is designed to quickly locate
              : insecurities in Unix (or other) password files by scanning the contents of a
              : password file, looking for users who have misguidedly chosen a weak login
              : password.
@@ -1503,11 +1503,11 @@ URL          : https://dropsafe.crypticide.com/alecm/software/crack/c50-faq.html
 <summary>cracklib</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A password-checking library
+From repo     : anaconda
+Short desc    : A password-checking library
 URL          : http://sourceforge.net/projects/cracklib/
-Лицензия     : LGPLv2+
-Описание     : CrackLib tests passwords to determine whether they match certain
+License      : LGPLv2+
+Descript     : CrackLib tests passwords to determine whether they match certain
              : security-oriented characteristics, with the purpose of stopping users
              : from choosing passwords that are easy to guess. CrackLib performs
              : several tests on passwords: it tries to generate words from a username
@@ -1531,11 +1531,11 @@ URL          : http://sourceforge.net/projects/cracklib/
 <summary>cracklib-dicts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The standard CrackLib dictionaries
+From repo     : anaconda
+Short desc    : The standard CrackLib dictionaries
 URL          : http://sourceforge.net/projects/cracklib/
-Лицензия     : LGPLv2+
-Описание     : The cracklib-dicts package includes the CrackLib dictionaries.
+License      : LGPLv2+
+Descript     : The cracklib-dicts package includes the CrackLib dictionaries.
              : CrackLib will need to use the dictionary appropriate to your system,
              : which is normally put in /usr/share/dict/words. Cracklib-dicts also
              : contains the utilities necessary for the creation of new dictionaries.
@@ -1549,11 +1549,11 @@ URL          : http://sourceforge.net/projects/cracklib/
 <summary>createrepo_c</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Creates a common metadata repository
+From repo     : anaconda
+Short desc    : Creates a common metadata repository
 URL          : https://github.com/rpm-software-management/createrepo_c
-Лицензия     : GPLv2+
-Описание     : C implementation of Createrepo.
+License      : GPLv2+
+Descript     : C implementation of Createrepo.
              : A set of utilities (createrepo_c, mergerepo_c, modifyrepo_c)
              : for generating a common metadata repository from a directory of
              : rpm packages and maintaining it.
@@ -1565,11 +1565,11 @@ URL          : https://github.com/rpm-software-management/createrepo_c
 <summary>createrepo_c</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Creates a common metadata repository
+From repo     : updates-testing
+Short desc    : Creates a common metadata repository
 URL          : https://github.com/rpm-software-management/createrepo_c
-Лицензия     : GPLv2+
-Описание     : C implementation of Createrepo.
+License      : GPLv2+
+Descript     : C implementation of Createrepo.
              : A set of utilities (createrepo_c, mergerepo_c, modifyrepo_c)
              : for generating a common metadata repository from a directory of
              : rpm packages and maintaining it.
@@ -1581,11 +1581,11 @@ URL          : https://github.com/rpm-software-management/createrepo_c
 <summary>createrepo_c-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library for repodata manipulation
+From repo     : anaconda
+Short desc    : Library for repodata manipulation
 URL          : https://github.com/rpm-software-management/createrepo_c
-Лицензия     : GPLv2+
-Описание     : Libraries for applications using the createrepo_c library
+License      : GPLv2+
+Descript     : Libraries for applications using the createrepo_c library
              : for easy manipulation with a repodata.
 ```
 
@@ -1595,11 +1595,11 @@ URL          : https://github.com/rpm-software-management/createrepo_c
 <summary>createrepo_c-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Library for repodata manipulation
+From repo     : updates-testing
+Short desc    : Library for repodata manipulation
 URL          : https://github.com/rpm-software-management/createrepo_c
-Лицензия     : GPLv2+
-Описание     : Libraries for applications using the createrepo_c library
+License      : GPLv2+
+Descript     : Libraries for applications using the createrepo_c library
              : for easy manipulation with a repodata.
 ```
 
@@ -1609,11 +1609,11 @@ URL          : https://github.com/rpm-software-management/createrepo_c
 <summary>criu</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Tool for Checkpoint/Restore in User-space
+From repo     : anaconda
+Short desc    : Tool for Checkpoint/Restore in User-space
 URL          : http://criu.org/
-Лицензия     : GPLv2
-Описание     : criu is the user-space part of Checkpoint/Restore in User-space
+License      : GPLv2
+Descript     : criu is the user-space part of Checkpoint/Restore in User-space
              : (CRIU), a project to implement checkpoint/restore functionality for
              : Linux in user-space.
 ```
@@ -1624,11 +1624,11 @@ URL          : http://criu.org/
 <summary>criu-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for criu
+From repo     : anaconda
+Short desc    : Libraries for criu
 URL          : http://criu.org/
-Лицензия     : GPLv2
-Описание     : This package contains the libraries for criu
+License      : GPLv2
+Descript     : This package contains the libraries for criu
 ```
 
 </details>
@@ -1637,11 +1637,11 @@ URL          : http://criu.org/
 <summary>cronie</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Cron daemon for executing programs at set times
+From repo     : updates-testing
+Short desc    : Cron daemon for executing programs at set times
 URL          : https://github.com/cronie-crond/cronie
-Лицензия     : MIT and BSD and ISC and GPLv2+
-Описание     : Cronie contains the standard UNIX daemon crond that runs specified programs at
+License      : MIT and BSD and ISC and GPLv2+
+Descript     : Cronie contains the standard UNIX daemon crond that runs specified programs at
              : scheduled times and related tools. It is a fork of the original vixie-cron and
              : has security and configuration enhancements like the ability to use pam and
              : SELinux.
@@ -1653,11 +1653,11 @@ URL          : https://github.com/cronie-crond/cronie
 <summary>cronie-anacron</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Utility for running regular jobs
+From repo     : updates-testing
+Short desc    : Utility for running regular jobs
 URL          : https://github.com/cronie-crond/cronie
-Лицензия     : MIT and BSD and ISC and GPLv2+
-Описание     : Anacron is part of cronie that is used for running jobs with regular
+License      : MIT and BSD and ISC and GPLv2+
+Descript     : Anacron is part of cronie that is used for running jobs with regular
              : periodicity which do not have exact time of day of execution.
              : 
              : The default settings of anacron execute the daily, weekly, and monthly
@@ -1674,11 +1674,11 @@ URL          : https://github.com/cronie-crond/cronie
 <summary>crontabs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Root crontab files used to schedule the execution of programs
+From repo     : fedora
+Short desc    : Root crontab files used to schedule the execution of programs
 URL          : https://github.com/cronie-crond/crontabs
-Лицензия     : Public Domain and GPLv2
-Описание     : This package is used by Fedora mainly for executing files by cron.
+License      : Public Domain and GPLv2
+Descript     : This package is used by Fedora mainly for executing files by cron.
              : 
              : The crontabs package contains root crontab files and directories.
              : You will need to install cron daemon to run the jobs from the crontabs.
@@ -1696,11 +1696,11 @@ URL          : https://github.com/cronie-crond/crontabs
 <summary>crun</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : OCI runtime written in C
+From repo     : anaconda
+Short desc    : OCI runtime written in C
 URL          : https://github.com/containers/crun
-Лицензия     : GPLv2+
-Описание     : crun is a runtime for running OCI containers
+License      : GPLv2+
+Descript     : crun is a runtime for running OCI containers
 ```
 
 </details>
@@ -1709,11 +1709,11 @@ URL          : https://github.com/containers/crun
 <summary>crun</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : OCI runtime written in C
+From repo     : updates-testing
+Short desc    : OCI runtime written in C
 URL          : https://github.com/containers/crun
-Лицензия     : GPLv2+
-Описание     : crun is a runtime for running OCI containers
+License      : GPLv2+
+Descript     : crun is a runtime for running OCI containers
 ```
 
 </details>
@@ -1722,11 +1722,11 @@ URL          : https://github.com/containers/crun
 <summary>crypto-policies</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : System-wide crypto policies
+From repo     : anaconda
+Short desc    : System-wide crypto policies
 URL          : https://gitlab.com/redhat-crypto/fedora-crypto-policies
-Лицензия     : LGPLv2+
-Описание     : This package provides pre-built configuration files with
+License      : LGPLv2+
+Descript     : This package provides pre-built configuration files with
              : cryptographic policies for various cryptographic back-ends,
              : such as SSL/TLS libraries.
 ```
@@ -1737,11 +1737,11 @@ URL          : https://gitlab.com/redhat-crypto/fedora-crypto-policies
 <summary>crypto-policies-scripts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Tool to switch between crypto policies
+From repo     : anaconda
+Short desc    : Tool to switch between crypto policies
 URL          : https://gitlab.com/redhat-crypto/fedora-crypto-policies
-Лицензия     : LGPLv2+
-Описание     : This package provides a tool update-crypto-policies, which applies
+License      : LGPLv2+
+Descript     : This package provides a tool update-crypto-policies, which applies
              : the policies provided by the crypto-policies package. These can be
              : either the pre-built policies from the base package or custom policies
              : defined in simple policy definition files.
@@ -1756,11 +1756,11 @@ URL          : https://gitlab.com/redhat-crypto/fedora-crypto-policies
 <summary>cryptsetup</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Utility for setting up encrypted disks
+From repo     : updates-testing
+Short desc    : Utility for setting up encrypted disks
 URL          : https://gitlab.com/cryptsetup/cryptsetup
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : The cryptsetup package contains a utility for setting up
+License      : GPLv2+ and LGPLv2+
+Descript     : The cryptsetup package contains a utility for setting up
              : disk encryption using dm-crypt kernel module.
 ```
 
@@ -1770,11 +1770,11 @@ URL          : https://gitlab.com/cryptsetup/cryptsetup
 <summary>cryptsetup-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Cryptsetup shared library
+From repo     : anaconda
+Short desc    : Cryptsetup shared library
 URL          : https://gitlab.com/cryptsetup/cryptsetup
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : This package contains the cryptsetup shared library, libcryptsetup.
+License      : GPLv2+ and LGPLv2+
+Descript     : This package contains the cryptsetup shared library, libcryptsetup.
 ```
 
 </details>
@@ -1783,11 +1783,11 @@ URL          : https://gitlab.com/cryptsetup/cryptsetup
 <summary>cryptsetup-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Cryptsetup shared library
+From repo     : updates-testing
+Short desc    : Cryptsetup shared library
 URL          : https://gitlab.com/cryptsetup/cryptsetup
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : This package contains the cryptsetup shared library, libcryptsetup.
+License      : GPLv2+ and LGPLv2+
+Descript     : This package contains the cryptsetup shared library, libcryptsetup.
 ```
 
 </details>
@@ -1796,11 +1796,11 @@ URL          : https://gitlab.com/cryptsetup/cryptsetup
 <summary>ctags</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A C programming language indexing and/or cross-reference tool
+From repo     : anaconda
+Short desc    : A C programming language indexing and/or cross-reference tool
 URL          : http://ctags.sourceforge.net/
-Лицензия     : GPLv2+ and LGPLv2+ and Public Domain
-Описание     : Ctags generates an index (or tag) file of C language objects found in
+License      : GPLv2+ and LGPLv2+ and Public Domain
+Descript     : Ctags generates an index (or tag) file of C language objects found in
              : C source and header files.  The index makes it easy for text editors or
              : other utilities to locate the indexed items.  Ctags can also generate a
              : cross reference file which lists information about the various objects
@@ -1824,11 +1824,11 @@ URL          : http://ctags.sourceforge.net/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : CUPS printing system
+From repo     : updates-testing
+Short desc    : CUPS printing system
 URL          : http://www.cups.org/
-Лицензия     : ASL 2.0
-Описание     : CUPS printing system provides a portable printing layer for
+License      : ASL 2.0
+Descript     : CUPS printing system provides a portable printing layer for
              : UNIX® operating systems. It has been developed by Apple Inc.
              : to promote a standard printing solution for all UNIX vendors and users.
              : CUPS provides the System V and Berkeley command-line interfaces.
@@ -1841,11 +1841,11 @@ URL          : http://www.cups.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : CUPS printing system - client programs
+From repo     : updates-testing
+Short desc    : CUPS printing system - client programs
 URL          : http://www.cups.org/
-Лицензия     : GPLv2
-Описание     : CUPS printing system provides a portable printing layer for
+License      : GPLv2
+Descript     : CUPS printing system provides a portable printing layer for
              : UNIX® operating systems. This package contains command-line client
              : programs.
 ```
@@ -1857,11 +1857,11 @@ URL          : http://www.cups.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : CUPS printing system - directory layout
+From repo     : updates-testing
+Short desc    : CUPS printing system - directory layout
 URL          : http://www.cups.org/
-Лицензия     : ASL 2.0
-Описание     : CUPS printing system provides a portable printing layer for
+License      : ASL 2.0
+Descript     : CUPS printing system provides a portable printing layer for
              : UNIX® operating systems. This package provides some directories which are
              : required by other packages that add CUPS drivers (i.e. filters, backends etc.).
 ```
@@ -1872,11 +1872,11 @@ URL          : http://www.cups.org/
 <summary>cups-filters</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : OpenPrinting CUPS filters and backends
+From repo     : anaconda
+Short desc    : OpenPrinting CUPS filters and backends
 URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprinting/cups-filters
-Лицензия     : GPLv2 and GPLv2+ and GPLv3 and GPLv3+ and LGPLv2+ and MIT and BSD with advertising
-Описание     : Contains backends, filters, and other software that was
+License      : GPLv2 and GPLv2+ and GPLv3 and GPLv3+ and LGPLv2+ and MIT and BSD with advertising
+Descript     : Contains backends, filters, and other software that was
              : once part of the core CUPS distribution but is no longer maintained by
              : Apple Inc. In addition it contains additional filters developed
              : independently of Apple, especially filters for the PDF-centric printing
@@ -1889,11 +1889,11 @@ URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprintin
 <summary>cups-filters-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : OpenPrinting CUPS filters and backends - cupsfilters and fontembed libraries
+From repo     : anaconda
+Short desc    : OpenPrinting CUPS filters and backends - cupsfilters and fontembed libraries
 URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprinting/cups-filters
-Лицензия     : LGPLv2 and MIT
-Описание     : This package provides cupsfilters and fontembed libraries.
+License      : LGPLv2 and MIT
+Descript     : This package provides cupsfilters and fontembed libraries.
 ```
 
 </details>
@@ -1903,11 +1903,11 @@ URL          : http://www.linuxfoundation.org/collaborate/workgroups/openprintin
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : CUPS printing system - tool for performing IPP requests
+From repo     : updates-testing
+Short desc    : CUPS printing system - tool for performing IPP requests
 URL          : http://www.cups.org/
-Лицензия     : ASL 2.0
-Описание     : Sends IPP requests to the specified URI and tests and/or displays the results.
+License      : ASL 2.0
+Descript     : Sends IPP requests to the specified URI and tests and/or displays the results.
 ```
 
 </details>
@@ -1917,11 +1917,11 @@ URL          : http://www.cups.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : CUPS printing system - libraries
+From repo     : updates-testing
+Short desc    : CUPS printing system - libraries
 URL          : http://www.cups.org/
-Лицензия     : LGPLv2 and zlib
-Описание     : CUPS printing system provides a portable printing layer for
+License      : LGPLv2 and zlib
+Descript     : CUPS printing system provides a portable printing layer for
              : UNIX® operating systems. It has been developed by Apple Inc.
              : to promote a standard printing solution for all UNIX vendors and users.
              : CUPS provides the System V and Berkeley command-line interfaces.
@@ -1935,11 +1935,11 @@ URL          : http://www.cups.org/
 <summary>cups-pk-helper</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A helper that makes system-config-printer use PolicyKit
+From repo     : anaconda
+Short desc    : A helper that makes system-config-printer use PolicyKit
 URL          : http://www.freedesktop.org/wiki/Software/cups-pk-helper/
-Лицензия     : GPLv2+
-Описание     : cups-pk-helper is an application which makes cups configuration
+License      : GPLv2+
+Descript     : cups-pk-helper is an application which makes cups configuration
              : interfaces available under control of PolicyKit.
 ```
 
@@ -1949,11 +1949,11 @@ URL          : http://www.freedesktop.org/wiki/Software/cups-pk-helper/
 <summary>curl</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A utility for getting files from remote servers (FTP, HTTP, and others)
+From repo     : updates-testing
+Short desc    : A utility for getting files from remote servers (FTP, HTTP, and others)
 URL          : https://curl.se/
-Лицензия     : MIT
-Описание     : curl is a command line tool for transferring data with URL syntax, supporting
+License      : MIT
+Descript     : curl is a command line tool for transferring data with URL syntax, supporting
              : FTP, FTPS, HTTP, HTTPS, SCP, SFTP, TFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP,
              : SMTP, POP3 and RTSP.  curl supports SSL certificates, HTTP POST, HTTP PUT, FTP
              : uploading, HTTP form based upload, proxies, cookies, user+password
@@ -1967,11 +1967,11 @@ URL          : https://curl.se/
 <summary>cvs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Concurrent Versions System
+From repo     : fedora
+Short desc    : Concurrent Versions System
 URL          : http://cvs.nongnu.org/
-Лицензия     : BSD and GPL+ and GPLv2+ and LGPLv2+ and zlib and Public Domain
-Описание     : CVS (Concurrent Versions System) is a version control system that can
+License      : BSD and GPL+ and GPLv2+ and LGPLv2+ and zlib and Public Domain
+Descript     : CVS (Concurrent Versions System) is a version control system that can
              : record the history of your files (usually, but not always, source
              : code). CVS only stores the differences between versions, instead of
              : every version of every file you have ever created. CVS also keeps a log
@@ -1992,11 +1992,11 @@ URL          : http://cvs.nongnu.org/
 <summary>cyrus-sasl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The Cyrus SASL library
+From repo     : anaconda
+Short desc    : The Cyrus SASL library
 URL          : https://www.cyrusimap.org/sasl/
-Лицензия     : BSD with advertising
-Описание     : The cyrus-sasl package contains the Cyrus implementation of SASL.
+License      : BSD with advertising
+Descript     : The cyrus-sasl package contains the Cyrus implementation of SASL.
              : SASL is the Simple Authentication and Security Layer, a method for
              : adding authentication support to connection-based protocols.
 ```
@@ -2007,11 +2007,11 @@ URL          : https://www.cyrusimap.org/sasl/
 <summary>cyrus-sasl-gssapi</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GSSAPI authentication support for Cyrus SASL
+From repo     : anaconda
+Short desc    : GSSAPI authentication support for Cyrus SASL
 URL          : https://www.cyrusimap.org/sasl/
-Лицензия     : BSD with advertising
-Описание     : The cyrus-sasl-gssapi package contains the Cyrus SASL plugins which
+License      : BSD with advertising
+Descript     : The cyrus-sasl-gssapi package contains the Cyrus SASL plugins which
              : support GSSAPI authentication. GSSAPI is commonly used for Kerberos
              : authentication.
 ```
@@ -2022,11 +2022,11 @@ URL          : https://www.cyrusimap.org/sasl/
 <summary>cyrus-sasl-lib</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Shared libraries needed by applications which use Cyrus SASL
+From repo     : anaconda
+Short desc    : Shared libraries needed by applications which use Cyrus SASL
 URL          : https://www.cyrusimap.org/sasl/
-Лицензия     : BSD with advertising
-Описание     : The cyrus-sasl-lib package contains shared libraries which are needed by
+License      : BSD with advertising
+Descript     : The cyrus-sasl-lib package contains shared libraries which are needed by
              : applications which use the Cyrus SASL library.
 ```
 
@@ -2036,11 +2036,11 @@ URL          : https://www.cyrusimap.org/sasl/
 <summary>cyrus-sasl-plain</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : PLAIN and LOGIN authentication support for Cyrus SASL
+From repo     : anaconda
+Short desc    : PLAIN and LOGIN authentication support for Cyrus SASL
 URL          : https://www.cyrusimap.org/sasl/
-Лицензия     : BSD with advertising
-Описание     : The cyrus-sasl-plain package contains the Cyrus SASL plugins which support
+License      : BSD with advertising
+Descript     : The cyrus-sasl-plain package contains the Cyrus SASL plugins which support
              : PLAIN and LOGIN authentication schemes.
 ```
 

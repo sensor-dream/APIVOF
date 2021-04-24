@@ -1,14 +1,14 @@
-# For letter o, information about installed packages
+# For first letter o, information about installation packages
 
 <details>
 <summary>objectweb-asm</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Java bytecode manipulation and analysis framework
+From repo     : fedora
+Short desc    : Java bytecode manipulation and analysis framework
 URL          : http://asm.ow2.org/
-Лицензия     : BSD
-Описание     : ASM is an all purpose Java bytecode manipulation and analysis
+License      : BSD
+Descript     : ASM is an all purpose Java bytecode manipulation and analysis
              : framework.  It can be used to modify existing classes or dynamically
              : generate classes, directly in binary form.  Provided common
              : transformations and analysis algorithms allow to easily assemble
@@ -21,11 +21,11 @@ URL          : http://asm.ow2.org/
 <summary>objenesis</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A library for instantiating Java objects
+From repo     : fedora
+Short desc    : A library for instantiating Java objects
 URL          : http://objenesis.org/
-Лицензия     : ASL 2.0
-Описание     : Objenesis is a small Java library that serves one purpose: to instantiate
+License      : ASL 2.0
+Descript     : Objenesis is a small Java library that serves one purpose: to instantiate
              : a new object of a particular class.
              : Java supports dynamic instantiation of classes using Class.newInstance();
              : however, this only works if the class has an appropriate constructor. There
@@ -51,10 +51,10 @@ URL          : http://objenesis.org/
 <summary>ocaml-srpm-macros</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : OCaml architecture macros
-Лицензия     : GPLv2+
-Описание     : This package contains macros needed by RPM in order to build
+From repo     : fedora
+Short desc    : OCaml architecture macros
+License      : GPLv2+
+Descript     : This package contains macros needed by RPM in order to build
              : SRPMS.  It does not pull in any other OCaml dependencies.
 ```
 
@@ -64,11 +64,11 @@ URL          : http://objenesis.org/
 <summary>ocl-icd</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : OpenCL Library (Installable Client Library) Bindings
+From repo     : fedora
+Short desc    : OpenCL Library (Installable Client Library) Bindings
 URL          : https://github.com/OCL-dev/ocl-icd/
-Лицензия     : BSD
-Описание     : OpenCL Library (Installable Client Library) Bindings.
+License      : BSD
+Descript     : OpenCL Library (Installable Client Library) Bindings.
 ```
 
 </details>
@@ -77,11 +77,11 @@ URL          : https://github.com/OCL-dev/ocl-icd/
 <summary>oddjob</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A D-Bus service which runs odd jobs on behalf of client applications
+From repo     : anaconda
+Short desc    : A D-Bus service which runs odd jobs on behalf of client applications
 URL          : https://pagure.io/oddjob
-Лицензия     : BSD
-Описание     : oddjob is a D-Bus service which performs particular tasks for clients which
+License      : BSD
+Descript     : oddjob is a D-Bus service which performs particular tasks for clients which
              : connect to it and issue requests using the system-wide message bus.
 ```
 
@@ -91,11 +91,11 @@ URL          : https://pagure.io/oddjob
 <summary>oddjob-mkhomedir</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An oddjob helper which creates and populates home directories
+From repo     : anaconda
+Short desc    : An oddjob helper which creates and populates home directories
 URL          : https://pagure.io/oddjob
-Лицензия     : BSD
-Описание     : This package contains the oddjob helper which can be used by the
+License      : BSD
+Descript     : This package contains the oddjob helper which can be used by the
              : pam_oddjob_mkhomedir module to create a home directory for a user
              : at login-time.
 ```
@@ -106,11 +106,11 @@ URL          : https://pagure.io/oddjob
 <summary>ogdi</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Open Geographic Datastore Interface
+From repo     : fedora
+Short desc    : Open Geographic Datastore Interface
 URL          : http://ogdi.sourceforge.net/
-Лицензия     : BSD
-Описание     : OGDI is the Open Geographic Datastore Interface. OGDI is an
+License      : BSD
+Descript     : OGDI is the Open Geographic Datastore Interface. OGDI is an
              : application programming interface (API) that uses a standardized
              : access methods to work in conjunction with GIS software packages (the
              : application) and various geospatial data products. OGDI uses a
@@ -127,11 +127,11 @@ URL          : http://ogdi.sourceforge.net/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Binary/hex editor
+From repo     : fedora
+Short desc    : Binary/hex editor
 URL          : https://cgit.kde.org/okteta.git
-Лицензия     : GPLv2+ and GFDL
-Описание     : Okteta is a binary/hex editor for KDE
+License      : GPLv2+ and GFDL
+Descript     : Okteta is a binary/hex editor for KDE
 ```
 
 </details>
@@ -141,11 +141,11 @@ URL          : https://cgit.kde.org/okteta.git
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Runtime libraries and kpart plugins for okteta
+From repo     : fedora
+Short desc    : Runtime libraries and kpart plugins for okteta
 URL          : https://cgit.kde.org/okteta.git
-Лицензия     : GPLv2+ and GFDL
-Описание     : Runtime libraries and kpart plugins for okteta.
+License      : GPLv2+ and GFDL
+Descript     : Runtime libraries and kpart plugins for okteta.
 ```
 
 </details>
@@ -154,11 +154,11 @@ URL          : https://cgit.kde.org/okteta.git
 <summary>oniguruma</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Regular expressions library
+From repo     : anaconda
+Short desc    : Regular expressions library
 URL          : https://github.com/kkos/oniguruma/
-Лицензия     : BSD
-Описание     : Oniguruma is a regular expressions library.
+License      : BSD
+Descript     : Oniguruma is a regular expressions library.
              : The characteristics of this library is that different character encoding
              : for every regular expression object can be specified.
              : (supported APIs: GNU regex, POSIX and Oniguruma native)
@@ -170,11 +170,11 @@ URL          : https://github.com/kkos/oniguruma/
 <summary>open-sans-fonts</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Open Sans is a humanist sans-serif typeface designed by Steve Matteson
+From repo     : fedora
+Short desc    : Open Sans is a humanist sans-serif typeface designed by Steve Matteson
 URL          : http://www.google.com/fonts/specimen/Open+Sans
-Лицензия     : ASL 2.0
-Описание     : Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type
+License      : ASL 2.0
+Descript     : Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type
              : Director of Ascender Corp. This version contains the complete 897 character
              : set, which includes the standard ISO Latin 1, Latin CE, Greek and Cyrillic
              : character sets. Open Sans was designed with an upright stress, open forms and
@@ -188,11 +188,11 @@ URL          : http://www.google.com/fonts/specimen/Open+Sans
 <summary>open-vm-tools</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Open Virtual Machine Tools for virtual machines hosted on VMware
+From repo     : anaconda
+Short desc    : Open Virtual Machine Tools for virtual machines hosted on VMware
 URL          : https://github.com/vmware/open-vm-tools
-Лицензия     : GPLv2
-Описание     : The open-vm-tools project is an open source implementation of VMware Tools. It
+License      : GPLv2
+Descript     : The open-vm-tools project is an open source implementation of VMware Tools. It
              : is a suite of open source virtualization utilities and drivers to improve the
              : functionality, user experience and administration of VMware virtual machines.
              : This package contains only the core user-space programs and libraries of
@@ -205,11 +205,11 @@ URL          : https://github.com/vmware/open-vm-tools
 <summary>open-vm-tools</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Open Virtual Machine Tools for virtual machines hosted on VMware
+From repo     : updates-testing
+Short desc    : Open Virtual Machine Tools for virtual machines hosted on VMware
 URL          : https://github.com/vmware/open-vm-tools
-Лицензия     : GPLv2
-Описание     : The open-vm-tools project is an open source implementation of VMware Tools. It
+License      : GPLv2
+Descript     : The open-vm-tools project is an open source implementation of VMware Tools. It
              : is a suite of open source virtualization utilities and drivers to improve the
              : functionality, user experience and administration of VMware virtual machines.
              : This package contains only the core user-space programs and libraries of
@@ -222,11 +222,11 @@ URL          : https://github.com/vmware/open-vm-tools
 <summary>open-vm-tools-desktop</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : User experience components for Open Virtual Machine Tools
+From repo     : updates-testing
+Short desc    : User experience components for Open Virtual Machine Tools
 URL          : https://github.com/vmware/open-vm-tools
-Лицензия     : GPLv2
-Описание     : This package contains only the user-space programs and libraries of
+License      : GPLv2
+Descript     : This package contains only the user-space programs and libraries of
              : open-vm-tools that are essential for improved user experience of VMware virtual
              : machines.
 ```
@@ -237,11 +237,11 @@ URL          : https://github.com/vmware/open-vm-tools
 <summary>openal-soft</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Open Audio Library
+From repo     : fedora
+Short desc    : Open Audio Library
 URL          : http://openal-soft.org/
-Лицензия     : LGPLv2+
-Описание     : OpenAL Soft is a cross-platform software implementation of the OpenAL 3D
+License      : LGPLv2+
+Descript     : OpenAL Soft is a cross-platform software implementation of the OpenAL 3D
              : audio API. It's built off of the open-sourced Windows version available
              : originally from the SVN repository at openal.org. OpenAL provides
              : capabilities for playing audio in a virtual 3d environment. Distance
@@ -258,11 +258,11 @@ URL          : http://openal-soft.org/
 <summary>openal-soft-qt</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Qt frontend for configuring OpenAL Soft
+From repo     : fedora
+Short desc    : Qt frontend for configuring OpenAL Soft
 URL          : http://openal-soft.org/
-Лицензия     : LGPLv2+
-Описание     : The openal-soft-qt package contains alsoft-config, a Qt-based tool
+License      : LGPLv2+
+Descript     : The openal-soft-qt package contains alsoft-config, a Qt-based tool
              : for configuring OpenAL features.
 ```
 
@@ -272,11 +272,11 @@ URL          : http://openal-soft.org/
 <summary>openblas</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An optimized BLAS library based on GotoBLAS2
+From repo     : anaconda
+Short desc    : An optimized BLAS library based on GotoBLAS2
 URL          : https://github.com/xianyi/OpenBLAS/
-Лицензия     : BSD
-Описание     : 
+License      : BSD
+Descript     : 
              : OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD
              : version. The project is supported by the Lab of Parallel Software and
              : Computational Science, ISCAS. http://www.rdcps.ac.cn
@@ -288,11 +288,11 @@ URL          : https://github.com/xianyi/OpenBLAS/
 <summary>openblas-openmp</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An optimized BLAS library based on GotoBLAS2, OpenMP version
+From repo     : anaconda
+Short desc    : An optimized BLAS library based on GotoBLAS2, OpenMP version
 URL          : https://github.com/xianyi/OpenBLAS/
-Лицензия     : BSD
-Описание     : 
+License      : BSD
+Descript     : 
              : OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD
              : version. The project is supported by the Lab of Parallel Software and
              : Computational Science, ISCAS. http://www.rdcps.ac.cn
@@ -307,11 +307,11 @@ URL          : https://github.com/xianyi/OpenBLAS/
 <summary>openblas-openmp64</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : An optimized BLAS library based on GotoBLAS2, OpenMP version
+From repo     : fedora
+Short desc    : An optimized BLAS library based on GotoBLAS2, OpenMP version
 URL          : https://github.com/xianyi/OpenBLAS/
-Лицензия     : BSD
-Описание     : 
+License      : BSD
+Descript     : 
              : OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD
              : version. The project is supported by the Lab of Parallel Software and
              : Computational Science, ISCAS. http://www.rdcps.ac.cn
@@ -326,11 +326,11 @@ URL          : https://github.com/xianyi/OpenBLAS/
 <summary>openblas-serial</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : An optimized BLAS library based on GotoBLAS2, serial version
+From repo     : fedora
+Short desc    : An optimized BLAS library based on GotoBLAS2, serial version
 URL          : https://github.com/xianyi/OpenBLAS/
-Лицензия     : BSD
-Описание     : 
+License      : BSD
+Descript     : 
              : OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD
              : version. The project is supported by the Lab of Parallel Software and
              : Computational Science, ISCAS. http://www.rdcps.ac.cn
@@ -345,10 +345,10 @@ URL          : https://github.com/xianyi/OpenBLAS/
 <summary>openblas-srpm-macros</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : OpenBLAS architecture macros
-Лицензия     : MIT
-Описание     : OpenBLAS architecture macros.
+From repo     : fedora
+Short desc    : OpenBLAS architecture macros
+License      : MIT
+Descript     : OpenBLAS architecture macros.
 ```
 
 </details>
@@ -357,11 +357,11 @@ URL          : https://github.com/xianyi/OpenBLAS/
 <summary>opencl-filesystem</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : OpenCL filesystem layout
+From repo     : fedora
+Short desc    : OpenCL filesystem layout
 URL          : http://www.khronos.org/registry/cl/
-Лицензия     : Public Domain
-Описание     : This package provides some directories required by packages which use OpenCL.
+License      : Public Domain
+Descript     : This package provides some directories required by packages which use OpenCL.
 ```
 
 </details>
@@ -370,11 +370,11 @@ URL          : http://www.khronos.org/registry/cl/
 <summary>opencl-headers</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : OpenCL (Open Computing Language) header files
+From repo     : fedora
+Short desc    : OpenCL (Open Computing Language) header files
 URL          : https://www.khronos.org/registry/cl/
-Лицензия     : MIT
-Описание     : OpenCL (Open Computing Language) header files.
+License      : MIT
+Descript     : OpenCL (Open Computing Language) header files.
 ```
 
 </details>
@@ -383,11 +383,11 @@ URL          : https://www.khronos.org/registry/cl/
 <summary>opencl-utils</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Useful OpenCL tools and utilities
+From repo     : fedora
+Short desc    : Useful OpenCL tools and utilities
 URL          : http://code.google.com/p/opencl-utils
-Лицензия     : MIT
-Описание     : 
+License      : MIT
+Descript     : 
              : OpenCL Utils is a project that aims to create various tools and utilities to
              : make the use of OpenCL more useful and efficient, such as: useful functions,
              : optimization hints and common kernel templates. This package currently only
@@ -400,11 +400,11 @@ URL          : http://code.google.com/p/opencl-utils
 <summary>openconnect</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Open client for Cisco AnyConnect VPN, Juniper Network Connect/Pulse, PAN GlobalProtect
+From repo     : anaconda
+Short desc    : Open client for Cisco AnyConnect VPN, Juniper Network Connect/Pulse, PAN GlobalProtect
 URL          : http://www.infradead.org/openconnect.html
-Лицензия     : LGPLv2+
-Описание     : This package provides a multiprotocol VPN client for Cisco AnyConnect,
+License      : LGPLv2+
+Descript     : This package provides a multiprotocol VPN client for Cisco AnyConnect,
              : Juniper SSL VPN / Pulse Connect Secure, and Palo Alto Networks GlobalProtect
              : SSL VPN.
 ```
@@ -415,11 +415,11 @@ URL          : http://www.infradead.org/openconnect.html
 <summary>opencore-amr</summary>
 
 ```
-Из репозитор : rpmfusion-free
-Краткое опис : OpenCORE Adaptive Multi Rate Narrowband and Wideband speech lib
+From repo     : rpmfusion-free
+Short desc    : OpenCORE Adaptive Multi Rate Narrowband and Wideband speech lib
 URL          : http://sourceforge.net/projects/opencore-amr/
-Лицензия     : ASL 2.0
-Описание     : Library of OpenCORE Framework implementation of Adaptive Multi Rate Narrowband
+License      : ASL 2.0
+Descript     : Library of OpenCORE Framework implementation of Adaptive Multi Rate Narrowband
              : and Wideband speech codec.
 ```
 
@@ -429,11 +429,11 @@ URL          : http://sourceforge.net/projects/opencore-amr/
 <summary>opencryptoki-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : The run-time libraries for opencryptoki package
+From repo     : fedora
+Short desc    : The run-time libraries for opencryptoki package
 URL          : https://github.com/opencryptoki/opencryptoki
-Лицензия     : CPL
-Описание     : Opencryptoki implements the PKCS#11 specification v2.11 for a set of
+License      : CPL
+Descript     : Opencryptoki implements the PKCS#11 specification v2.11 for a set of
              : cryptographic hardware, such as IBM 4764 and 4765 crypto cards, and the
              : Trusted Platform Module (TPM) chip. Opencryptoki also brings a software
              : token implementation that can be used without any cryptographic
@@ -449,11 +449,11 @@ URL          : https://github.com/opencryptoki/opencryptoki
 <summary>opencv-contrib</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : OpenCV contributed functionality
+From repo     : updates-testing
+Short desc    : OpenCV contributed functionality
 URL          : https://opencv.org
-Лицензия     : BSD
-Описание     : This package is intended for development of so-called "extra" modules, contributed
+License      : BSD
+Descript     : This package is intended for development of so-called "extra" modules, contributed
              : functionality. New modules quite often do not have stable API, and they are not
              : well-tested. Thus, they shouldn't be released as a part of official OpenCV
              : distribution, since the library maintains binary compatibility, and tries
@@ -466,11 +466,11 @@ URL          : https://opencv.org
 <summary>opencv-core</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : OpenCV core libraries
+From repo     : updates-testing
+Short desc    : OpenCV core libraries
 URL          : https://opencv.org
-Лицензия     : BSD
-Описание     : This package contains the OpenCV C/C++ core libraries.
+License      : BSD
+Descript     : This package contains the OpenCV C/C++ core libraries.
 ```
 
 </details>
@@ -479,11 +479,11 @@ URL          : https://opencv.org
 <summary>openexr-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : OpenEXR Libraries
+From repo     : anaconda
+Short desc    : OpenEXR Libraries
 URL          : https://www.openexr.com/
-Лицензия     : BSD
-Описание     : OpenEXR is an open-source high-dynamic-range floating-point image file format
+License      : BSD
+Descript     : OpenEXR is an open-source high-dynamic-range floating-point image file format
              : for high-quality image processing and storage. This document presents a brief
              : overview of OpenEXR and explains concepts that are specific to this format.
              : 
@@ -527,11 +527,11 @@ URL          : https://www.openexr.com/
 <summary>openexr-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : OpenEXR Libraries
+From repo     : updates-testing
+Short desc    : OpenEXR Libraries
 URL          : https://www.openexr.com/
-Лицензия     : BSD
-Описание     : OpenEXR is an open-source high-dynamic-range floating-point image file format
+License      : BSD
+Descript     : OpenEXR is an open-source high-dynamic-range floating-point image file format
              : for high-quality image processing and storage. This document presents a brief
              : overview of OpenEXR and explains concepts that are specific to this format.
              : 
@@ -575,11 +575,11 @@ URL          : https://www.openexr.com/
 <summary>openh264</summary>
 
 ```
-Из репозитор : fedora-cisco-openh264
-Краткое опис : H.264 codec library
+From repo     : fedora-cisco-openh264
+Short desc    : H.264 codec library
 URL          : http://www.openh264.org/
-Лицензия     : BSD
-Описание     : OpenH264 is a codec library which supports H.264 encoding and decoding. It is
+License      : BSD
+Descript     : OpenH264 is a codec library which supports H.264 encoding and decoding. It is
              : suitable for use in real time applications such as WebRTC.
 ```
 
@@ -589,11 +589,11 @@ URL          : http://www.openh264.org/
 <summary>openjpeg2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : C-Library for JPEG 2000
+From repo     : anaconda
+Short desc    : C-Library for JPEG 2000
 URL          : https://github.com/uclouvain/openjpeg
-Лицензия     : BSD and MIT
-Описание     : The OpenJPEG library is an open-source JPEG 2000 library developed in order to
+License      : BSD and MIT
+Descript     : The OpenJPEG library is an open-source JPEG 2000 library developed in order to
              : promote the use of JPEG 2000.
              : 
              : This package contains
@@ -609,11 +609,11 @@ URL          : https://github.com/uclouvain/openjpeg
 <summary>openldap</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : LDAP support libraries
+From repo     : updates-testing
+Short desc    : LDAP support libraries
 URL          : http://www.openldap.org/
-Лицензия     : OpenLDAP
-Описание     : OpenLDAP is an open source suite of LDAP (Lightweight Directory Access
+License      : OpenLDAP
+Descript     : OpenLDAP is an open source suite of LDAP (Lightweight Directory Access
              : Protocol) applications and development tools. LDAP is a set of
              : protocols for accessing directory services (usually phone book style
              : information, but other information is possible) over the Internet,
@@ -628,11 +628,11 @@ URL          : http://www.openldap.org/
 <summary>openpgm</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : An implementation of the PGM reliable multicast protocol
+From repo     : fedora
+Short desc    : An implementation of the PGM reliable multicast protocol
 URL          : https://github.com/steve-o/openpgm
-Лицензия     : LGPLv2
-Описание     : OpenPGM is an open source implementation of the Pragmatic General
+License      : LGPLv2
+Descript     : OpenPGM is an open source implementation of the Pragmatic General
              : Multicast (PGM) specification in RFC 3208.
 ```
 
@@ -642,11 +642,11 @@ URL          : https://github.com/steve-o/openpgm
 <summary>opensc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Smart card library and applications
+From repo     : anaconda
+Short desc    : Smart card library and applications
 URL          : https://github.com/OpenSC/OpenSC/wiki
-Лицензия     : LGPLv2+
-Описание     : OpenSC provides a set of libraries and utilities to work with smart cards. Its
+License      : LGPLv2+
+Descript     : OpenSC provides a set of libraries and utilities to work with smart cards. Its
              : main focus is on cards that support cryptographic operations, and facilitate
              : their use in security applications such as authentication, mail encryption and
              : digital signatures. OpenSC implements the PKCS#11 API so applications
@@ -661,11 +661,11 @@ URL          : https://github.com/OpenSC/OpenSC/wiki
 <summary>openslide</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : C library for reading virtual slides
+From repo     : fedora
+Short desc    : C library for reading virtual slides
 URL          : http://openslide.org/
-Лицензия     : LGPLv2
-Описание     : The OpenSlide library allows programs to access virtual slide files
+License      : LGPLv2
+Descript     : The OpenSlide library allows programs to access virtual slide files
              : regardless of the underlying image format.
 ```
 
@@ -675,11 +675,11 @@ URL          : http://openslide.org/
 <summary>openssh</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An open source implementation of SSH protocol version 2
+From repo     : anaconda
+Short desc    : An open source implementation of SSH protocol version 2
 URL          : http://www.openssh.com/portable.html
-Лицензия     : BSD
-Описание     : SSH (Secure SHell) is a program for logging into and executing
+License      : BSD
+Descript     : SSH (Secure SHell) is a program for logging into and executing
              : commands on a remote machine. SSH is intended to replace rlogin and
              : rsh, and to provide secure encrypted communications between two
              : untrusted hosts over an insecure network. X11 connections and
@@ -699,11 +699,11 @@ URL          : http://www.openssh.com/portable.html
 <summary>openssh</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : An open source implementation of SSH protocol version 2
+From repo     : updates-testing
+Short desc    : An open source implementation of SSH protocol version 2
 URL          : http://www.openssh.com/portable.html
-Лицензия     : BSD
-Описание     : SSH (Secure SHell) is a program for logging into and executing
+License      : BSD
+Descript     : SSH (Secure SHell) is a program for logging into and executing
              : commands on a remote machine. SSH is intended to replace rlogin and
              : rsh, and to provide secure encrypted communications between two
              : untrusted hosts over an insecure network. X11 connections and
@@ -723,11 +723,11 @@ URL          : http://www.openssh.com/portable.html
 <summary>openssh-clients</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An open source SSH client applications
+From repo     : anaconda
+Short desc    : An open source SSH client applications
 URL          : http://www.openssh.com/portable.html
-Лицензия     : BSD
-Описание     : OpenSSH is a free version of SSH (Secure SHell), a program for logging
+License      : BSD
+Descript     : OpenSSH is a free version of SSH (Secure SHell), a program for logging
              : into and executing commands on a remote machine. This package includes
              : the clients necessary to make encrypted connections to SSH servers.
 ```
@@ -738,11 +738,11 @@ URL          : http://www.openssh.com/portable.html
 <summary>openssh-clients</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : An open source SSH client applications
+From repo     : updates-testing
+Short desc    : An open source SSH client applications
 URL          : http://www.openssh.com/portable.html
-Лицензия     : BSD
-Описание     : OpenSSH is a free version of SSH (Secure SHell), a program for logging
+License      : BSD
+Descript     : OpenSSH is a free version of SSH (Secure SHell), a program for logging
              : into and executing commands on a remote machine. This package includes
              : the clients necessary to make encrypted connections to SSH servers.
 ```
@@ -753,11 +753,11 @@ URL          : http://www.openssh.com/portable.html
 <summary>openssh-server</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : An open source SSH server daemon
+From repo     : updates-testing
+Short desc    : An open source SSH server daemon
 URL          : http://www.openssh.com/portable.html
-Лицензия     : BSD
-Описание     : OpenSSH is a free version of SSH (Secure SHell), a program for logging
+License      : BSD
+Descript     : OpenSSH is a free version of SSH (Secure SHell), a program for logging
              : into and executing commands on a remote machine. This package contains
              : the secure shell daemon (sshd). The sshd daemon allows SSH clients to
              : securely connect to your SSH server.
@@ -770,11 +770,11 @@ URL          : http://www.openssh.com/portable.html
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Utilities from the general purpose cryptography library with TLS implementation
+From repo     : updates-testing
+Short desc    : Utilities from the general purpose cryptography library with TLS implementation
 URL          : http://www.openssl.org/
-Лицензия     : OpenSSL and ASL 2.0
-Описание     : The OpenSSL toolkit provides support for secure communications between
+License      : OpenSSL and ASL 2.0
+Descript     : The OpenSSL toolkit provides support for secure communications between
              : machines. OpenSSL includes a certificate management tool and shared
              : libraries which provide various cryptographic algorithms and
              : protocols.
@@ -787,11 +787,11 @@ URL          : http://www.openssl.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Files for development of applications which will use OpenSSL
+From repo     : updates-testing
+Short desc    : Files for development of applications which will use OpenSSL
 URL          : http://www.openssl.org/
-Лицензия     : OpenSSL and ASL 2.0
-Описание     : OpenSSL is a toolkit for supporting cryptography. The openssl-devel
+License      : OpenSSL and ASL 2.0
+Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-devel
              : package contains include files needed to develop applications which
              : support various cryptographic algorithms and protocols.
 ```
@@ -802,11 +802,11 @@ URL          : http://www.openssl.org/
 <summary>openssl-gost-engine</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A reference implementation of the Russian GOST crypto algorithms for OpenSSL
+From repo     : fedora
+Short desc    : A reference implementation of the Russian GOST crypto algorithms for OpenSSL
 URL          : https://github.com/gost-engine/engine
-Лицензия     : OpenSSL
-Описание     : A reference implementation of the Russian GOST crypto algorithms for OpenSSL.
+License      : OpenSSL
+Descript     : A reference implementation of the Russian GOST crypto algorithms for OpenSSL.
 ```
 
 </details>
@@ -815,11 +815,11 @@ URL          : https://github.com/gost-engine/engine
 <summary>openssl-ibmpkcs11</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : IBM OpenSSL PKCS#11 engine
+From repo     : fedora
+Short desc    : IBM OpenSSL PKCS#11 engine
 URL          : https://github.com/opencryptoki/openssl-ibmpkcs11
-Лицензия     : OpenSSL
-Описание     : This package contains a shared object OpenSSL dynamic engine for the use
+License      : OpenSSL
+Descript     : This package contains a shared object OpenSSL dynamic engine for the use
              : with a PKCS#11 implementation such as openCryptoki.
 ```
 
@@ -830,11 +830,11 @@ URL          : https://github.com/opencryptoki/openssl-ibmpkcs11
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : A general purpose cryptography library with TLS implementation
+From repo     : anaconda
+Short desc    : A general purpose cryptography library with TLS implementation
 URL          : http://www.openssl.org/
-Лицензия     : OpenSSL and ASL 2.0
-Описание     : OpenSSL is a toolkit for supporting cryptography. The openssl-libs
+License      : OpenSSL and ASL 2.0
+Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-libs
              : package contains the libraries that are used by various applications which
              : support cryptographic algorithms and protocols.
 ```
@@ -846,11 +846,11 @@ URL          : http://www.openssl.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : A general purpose cryptography library with TLS implementation
+From repo     : updates-testing
+Short desc    : A general purpose cryptography library with TLS implementation
 URL          : http://www.openssl.org/
-Лицензия     : OpenSSL and ASL 2.0
-Описание     : OpenSSL is a toolkit for supporting cryptography. The openssl-libs
+License      : OpenSSL and ASL 2.0
+Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-libs
              : package contains the libraries that are used by various applications which
              : support cryptographic algorithms and protocols.
 ```
@@ -862,11 +862,11 @@ URL          : http://www.openssl.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Perl scripts provided with OpenSSL
+From repo     : fedora
+Short desc    : Perl scripts provided with OpenSSL
 URL          : http://www.openssl.org/
-Лицензия     : OpenSSL and ASL 2.0
-Описание     : OpenSSL is a toolkit for supporting cryptography. The openssl-perl
+License      : OpenSSL and ASL 2.0
+Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-perl
              : package provides Perl scripts for converting certificates and keys
              : from other formats to the formats used by the OpenSSL toolkit.
 ```
@@ -877,11 +877,11 @@ URL          : http://www.openssl.org/
 <summary>openssl-pkcs11</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A PKCS#11 engine for use with OpenSSL
+From repo     : anaconda
+Short desc    : A PKCS#11 engine for use with OpenSSL
 URL          : https://github.com/OpenSC/libp11
-Лицензия     : LGPLv2+ and BSD
-Описание     : openssl-pkcs11 enables hardware security module (HSM), and smart card support in
+License      : LGPLv2+ and BSD
+Descript     : openssl-pkcs11 enables hardware security module (HSM), and smart card support in
              : OpenSSL applications. More precisely, it is an OpenSSL engine which makes
              : registered PKCS#11 modules available for OpenSSL applications. The engine is
              : optional and can be loaded by configuration file, command line or through the
@@ -895,11 +895,11 @@ URL          : https://github.com/OpenSC/libp11
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Libraries for static linking of applications which will use OpenSSL
+From repo     : fedora
+Short desc    : Libraries for static linking of applications which will use OpenSSL
 URL          : http://www.openssl.org/
-Лицензия     : OpenSSL and ASL 2.0
-Описание     : OpenSSL is a toolkit for supporting cryptography. The openssl-static
+License      : OpenSSL and ASL 2.0
+Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-static
              : package contains static libraries needed for static linking of
              : applications which support various cryptographic algorithms and
              : protocols.
@@ -911,11 +911,11 @@ URL          : http://www.openssl.org/
 <summary>opentest4j</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Open Test Alliance for the JVM
+From repo     : fedora
+Short desc    : Open Test Alliance for the JVM
 URL          : https://github.com/ota4j-team/opentest4j
-Лицензия     : ASL 2.0
-Описание     : Open Test Alliance for the JVM is a minimal common foundation for
+License      : ASL 2.0
+Descript     : Open Test Alliance for the JVM is a minimal common foundation for
              : testing libraries on the JVM.  The primary goal of the project is to
              : enable testing frameworks like JUnit, TestNG, Spock, etc. and
              : third-party assertion libraries like Hamcrest, AssertJ, etc. to use a
@@ -931,11 +931,11 @@ URL          : https://github.com/ota4j-team/opentest4j
 <summary>openvpn</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A full-featured TLS VPN solution
+From repo     : anaconda
+Short desc    : A full-featured TLS VPN solution
 URL          : https://community.openvpn.net/
-Лицензия     : GPLv2
-Описание     : OpenVPN is a robust and highly flexible tunneling application that uses all
+License      : GPLv2
+Descript     : OpenVPN is a robust and highly flexible tunneling application that uses all
              : of the encryption, authentication, and certification features of the
              : OpenSSL library to securely tunnel IP networks over a single UDP or TCP
              : port.  It can use the Marcus Franz Xaver Johannes Oberhumers LZO library
@@ -948,11 +948,11 @@ URL          : https://community.openvpn.net/
 <summary>openvpn</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A full-featured TLS VPN solution
+From repo     : updates-testing
+Short desc    : A full-featured TLS VPN solution
 URL          : https://community.openvpn.net/
-Лицензия     : GPLv2
-Описание     : OpenVPN is a robust and highly flexible tunneling application that uses all
+License      : GPLv2
+Descript     : OpenVPN is a robust and highly flexible tunneling application that uses all
              : of the encryption, authentication, and certification features of the
              : OpenSSL library to securely tunnel IP networks over a single UDP or TCP
              : port.  It can use the Marcus Franz Xaver Johannes Oberhumers LZO library
@@ -965,11 +965,11 @@ URL          : https://community.openvpn.net/
 <summary>opus</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An audio codec for use in low-delay speech and audio communication
+From repo     : anaconda
+Short desc    : An audio codec for use in low-delay speech and audio communication
 URL          : https://www.opus-codec.org/
-Лицензия     : BSD
-Описание     : The Opus codec is designed for interactive speech and audio transmission over
+License      : BSD
+Descript     : The Opus codec is designed for interactive speech and audio transmission over
              : the Internet. It is designed by the IETF Codec Working Group and incorporates
              : technology from Skype's SILK codec and Xiph.Org's CELT codec.
 ```
@@ -980,11 +980,11 @@ URL          : https://www.opus-codec.org/
 <summary>orc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The Oil Run-time Compiler
+From repo     : anaconda
+Short desc    : The Oil Run-time Compiler
 URL          : http://cgit.freedesktop.org/gstreamer/orc/
-Лицензия     : BSD
-Описание     : Orc is a library and set of tools for compiling and executing
+License      : BSD
+Descript     : Orc is a library and set of tools for compiling and executing
              : very simple programs that operate on arrays of data.  The "language"
              : is a generic assembly language that represents many of the features
              : available in SIMD architectures, including saturated addition and
@@ -997,11 +997,11 @@ URL          : http://cgit.freedesktop.org/gstreamer/orc/
 <summary>orca</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Assistive technology for people with visual impairments
+From repo     : updates-testing
+Short desc    : Assistive technology for people with visual impairments
 URL          : https://wiki.gnome.org/Projects/Orca
-Лицензия     : LGPLv2+
-Описание     : Orca is a screen reader that provides access to the graphical desktop via
+License      : LGPLv2+
+Descript     : Orca is a screen reader that provides access to the graphical desktop via
              : user-customizable combinations of speech and/or braille. Orca works with
              : applications and toolkits that support the assistive technology service
              : provider interface (AT-SPI), e.g. the GNOME desktop.
@@ -1013,11 +1013,11 @@ URL          : https://wiki.gnome.org/Projects/Orca
 <summary>os-prober</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Probes disks on the system for installed operating systems
+From repo     : anaconda
+Short desc    : Probes disks on the system for installed operating systems
 URL          : http://kitenet.net/~joey/code/os-prober/
-Лицензия     : GPLv2+ and GPL+
-Описание     : This package detects other OSes available on a system and outputs the results
+License      : GPLv2+ and GPL+
+Descript     : This package detects other OSes available on a system and outputs the results
              : in a generic machine-readable format. Support for new OSes and Linux
              : distributions can be added easily.
 ```
@@ -1028,11 +1028,11 @@ URL          : http://kitenet.net/~joey/code/os-prober/
 <summary>osinfo-db</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : osinfo database files
+From repo     : updates-testing
+Short desc    : osinfo database files
 URL          : http://libosinfo.org/
-Лицензия     : LGPLv2+
-Описание     : The osinfo database provides information about operating systems and
+License      : LGPLv2+
+Descript     : The osinfo database provides information about operating systems and
              : hypervisor platforms to facilitate the automated configuration and
              : provisioning of new virtual machines
 ```
@@ -1043,11 +1043,11 @@ URL          : http://libosinfo.org/
 <summary>osinfo-db-tools</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Tools for managing the osinfo database
+From repo     : anaconda
+Short desc    : Tools for managing the osinfo database
 URL          : http://libosinfo.org/
-Лицензия     : GPLv2+
-Описание     : This package provides tools for managing the osinfo database of
+License      : GPLv2+
+Descript     : This package provides tools for managing the osinfo database of
              : information about operating systems for use with virtualization
 ```
 
@@ -1057,11 +1057,11 @@ URL          : http://libosinfo.org/
 <summary>ostree</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Tool for managing bootable, immutable filesystem trees
+From repo     : anaconda
+Short desc    : Tool for managing bootable, immutable filesystem trees
 URL          : https://ostree.readthedocs.io/en/latest/
-Лицензия     : LGPLv2+
-Описание     : libostree is a shared library designed primarily for
+License      : LGPLv2+
+Descript     : libostree is a shared library designed primarily for
              : use by higher level tools to manage host systems (e.g. rpm-ostree),
              : as well as container tools like flatpak and the atomic CLI.
 ```
@@ -1072,11 +1072,11 @@ URL          : https://ostree.readthedocs.io/en/latest/
 <summary>ostree</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Tool for managing bootable, immutable filesystem trees
+From repo     : updates-testing
+Short desc    : Tool for managing bootable, immutable filesystem trees
 URL          : https://ostree.readthedocs.io/en/latest/
-Лицензия     : LGPLv2+
-Описание     : libostree is a shared library designed primarily for
+License      : LGPLv2+
+Descript     : libostree is a shared library designed primarily for
              : use by higher level tools to manage host systems (e.g. rpm-ostree),
              : as well as container tools like flatpak and the atomic CLI.
 ```
@@ -1087,11 +1087,11 @@ URL          : https://ostree.readthedocs.io/en/latest/
 <summary>ostree-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development headers for ostree
+From repo     : fedora
+Short desc    : Development headers for ostree
 URL          : https://ostree.readthedocs.io/en/latest/
-Лицензия     : LGPLv2+
-Описание     : The ostree-devel package includes the header files for the ostree library.
+License      : LGPLv2+
+Descript     : The ostree-devel package includes the header files for the ostree library.
 ```
 
 </details>
@@ -1100,11 +1100,11 @@ URL          : https://ostree.readthedocs.io/en/latest/
 <summary>ostree-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Development headers for ostree
+From repo     : anaconda
+Short desc    : Development headers for ostree
 URL          : https://ostree.readthedocs.io/en/latest/
-Лицензия     : LGPLv2+
-Описание     : The ostree-libs provides shared libraries for ostree.
+License      : LGPLv2+
+Descript     : The ostree-libs provides shared libraries for ostree.
 ```
 
 </details>
@@ -1113,11 +1113,11 @@ URL          : https://ostree.readthedocs.io/en/latest/
 <summary>ostree-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Development headers for ostree
+From repo     : updates-testing
+Short desc    : Development headers for ostree
 URL          : https://ostree.readthedocs.io/en/latest/
-Лицензия     : LGPLv2+
-Описание     : The ostree-libs provides shared libraries for ostree.
+License      : LGPLv2+
+Descript     : The ostree-libs provides shared libraries for ostree.
 ```
 
 </details>

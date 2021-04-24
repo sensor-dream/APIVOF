@@ -1,14 +1,14 @@
-# For letter x, information about installed packages
+# For first letter x, information about installation packages
 
 <details>
 <summary>x264-libs</summary>
 
 ```
-Из репозитор : rpmfusion-free-updates-testing
-Краткое опис : Library for encoding H264/AVC video streams
+From repo     : rpmfusion-free-updates-testing
+Short desc    : Library for encoding H264/AVC video streams
 URL          : https://www.videolan.org/developers/x264.html
-Лицензия     : GPLv2+
-Описание     : x264 is a free library for encoding H264/AVC video streams, written from
+License      : GPLv2+
+Descript     : x264 is a free library for encoding H264/AVC video streams, written from
              : scratch.
 ```
 
@@ -18,11 +18,11 @@ URL          : https://www.videolan.org/developers/x264.html
 <summary>x265-libs</summary>
 
 ```
-Из репозитор : rpmfusion-free-updates-testing
-Краткое опис : H.265/HEVC encoder library
+From repo     : rpmfusion-free-updates-testing
+Short desc    : H.265/HEVC encoder library
 URL          : http://x265.org/
-Лицензия     : GPLv2+ and BSD
-Описание     : The primary objective of x265 is to become the best H.265/HEVC encoder
+License      : GPLv2+ and BSD
+Descript     : The primary objective of x265 is to become the best H.265/HEVC encoder
              : available anywhere, offering the highest compression efficiency and the
              : highest performance on a wide variety of hardware platforms.
              : 
@@ -35,11 +35,11 @@ URL          : http://x265.org/
 <summary>xapian-bindings</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Bindings for the Xapian Probabilistic Information Retrieval Library
+From repo     : updates-testing
+Short desc    : Bindings for the Xapian Probabilistic Information Retrieval Library
 URL          : https://www.xapian.org/
-Лицензия     : GPLv2+
-Описание     : Xapian is an Open Source Probabilistic Information Retrieval Library. It
+License      : GPLv2+
+Descript     : Xapian is an Open Source Probabilistic Information Retrieval Library. It
              : offers a highly adaptable toolkit that allows developers to easily add advanced
              : indexing and search facilities to applications. This package provides the
              : files needed for scripts which use Xapian.
@@ -51,11 +51,11 @@ URL          : https://www.xapian.org/
 <summary>xapian-core-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Xapian search engine libraries
+From repo     : updates-testing
+Short desc    : Xapian search engine libraries
 URL          : https://www.xapian.org/
-Лицензия     : GPLv2+
-Описание     : Xapian is an Open Source Probabilistic Information Retrieval framework. It
+License      : GPLv2+
+Descript     : Xapian is an Open Source Probabilistic Information Retrieval framework. It
              : offers a highly adaptable toolkit that allows developers to easily add advanced
              : indexing and search facilities to applications. This package provides the
              : libraries for applications using Xapian functionality
@@ -67,11 +67,11 @@ URL          : https://www.xapian.org/
 <summary>xbacklight</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Adjust backlight brightness using RandR
+From repo     : fedora
+Short desc    : Adjust backlight brightness using RandR
 URL          : https://xorg.freedesktop.org/releases/individual/app/
-Лицензия     : MIT
-Описание     : Xbacklight is used to adjust the backlight brightness where
+License      : MIT
+Descript     : Xbacklight is used to adjust the backlight brightness where
              : supported. It finds all outputs on the X server supporting backlight
              : brightness control and changes them all in the same way.
 ```
@@ -82,11 +82,11 @@ URL          : https://xorg.freedesktop.org/releases/individual/app/
 <summary>xcb-util</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Convenience libraries sitting on top of libxcb
+From repo     : anaconda
+Short desc    : Convenience libraries sitting on top of libxcb
 URL          : http://xcb.freedesktop.org
-Лицензия     : MIT
-Описание     : The xcb-util module provides a number of libraries which sit on top of
+License      : MIT
+Descript     : The xcb-util module provides a number of libraries which sit on top of
              : libxcb, the core X protocol library, and some of the extension
              : libraries. These experimental libraries provide convenience functions
              : and interfaces which make the raw X protocol more usable. Some of the
@@ -100,11 +100,11 @@ URL          : http://xcb.freedesktop.org
 <summary>xcb-util-cursor</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Cursor library on top of libxcb
+From repo     : fedora
+Short desc    : Cursor library on top of libxcb
 URL          : http://xcb.freedesktop.org
-Лицензия     : MIT
-Описание     : XCB util-cursor module provides the following libraries:
+License      : MIT
+Descript     : XCB util-cursor module provides the following libraries:
              : 
              :   - cursor: port of libxcursor
 ```
@@ -115,11 +115,11 @@ URL          : http://xcb.freedesktop.org
 <summary>xcb-util-image</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Port of Xlib's XImage and XShmImage functions on top of libxcb
+From repo     : anaconda
+Short desc    : Port of Xlib's XImage and XShmImage functions on top of libxcb
 URL          : http://xcb.freedesktop.org
-Лицензия     : MIT
-Описание     : XCB util-image module provides the following library:
+License      : MIT
+Descript     : XCB util-image module provides the following library:
              : 
              :   - image: Port of Xlib's XImage and XShmImage functions.
 ```
@@ -130,11 +130,11 @@ URL          : http://xcb.freedesktop.org
 <summary>xcb-util-keysyms</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Standard X key constants and keycodes conversion on top of libxcb
+From repo     : anaconda
+Short desc    : Standard X key constants and keycodes conversion on top of libxcb
 URL          : http://xcb.freedesktop.org
-Лицензия     : MIT
-Описание     : XCB util-keysyms module provides the following library:
+License      : MIT
+Descript     : XCB util-keysyms module provides the following library:
              : 
              :   - keysyms: Standard X key constants and conversion to/from keycodes.
 ```
@@ -145,11 +145,11 @@ URL          : http://xcb.freedesktop.org
 <summary>xcb-util-renderutil</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Convenience functions for the Render extension
+From repo     : anaconda
+Short desc    : Convenience functions for the Render extension
 URL          : http://xcb.freedesktop.org
-Лицензия     : MIT
-Описание     : XCB util-renderutil module provides the following library:
+License      : MIT
+Descript     : XCB util-renderutil module provides the following library:
              : 
              :   - renderutil: Convenience functions for the Render extension.
 ```
@@ -160,11 +160,11 @@ URL          : http://xcb.freedesktop.org
 <summary>xcb-util-wm</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Client and window-manager helper library on top of libxcb
+From repo     : anaconda
+Short desc    : Client and window-manager helper library on top of libxcb
 URL          : http://xcb.freedesktop.org
-Лицензия     : MIT
-Описание     : XCB util-wm module provides the following libraries:
+License      : MIT
+Descript     : XCB util-wm module provides the following libraries:
              : 
              :   - ewmh: Both client and window-manager helpers for EWMH.
              :   - icccm: Both client and window-manager helpers for ICCCM.
@@ -176,11 +176,11 @@ URL          : http://xcb.freedesktop.org
 <summary>xcb-util-xrm</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : XCB utility functions for the X resource manager
+From repo     : fedora
+Short desc    : XCB utility functions for the X resource manager
 URL          : https://github.com/Airblader/xcb-util-xrm
-Лицензия     : MIT
-Описание     : XCB utility functions for the X resource manager.
+License      : MIT
+Descript     : XCB utility functions for the X resource manager.
 ```
 
 </details>
@@ -189,11 +189,11 @@ URL          : https://github.com/Airblader/xcb-util-xrm
 <summary>xcf-pixbuf-loader</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : XCF (GIMP) image loader for GTK+ applications
+From repo     : fedora
+Short desc    : XCF (GIMP) image loader for GTK+ applications
 URL          : http://gitorious.org/xcf-pixbuf-loader/mainline.git
-Лицензия     : LGPLv2+
-Описание     : xcf-pixbuf-loader contains a plugin to load XCF images, as created by
+License      : LGPLv2+
+Descript     : xcf-pixbuf-loader contains a plugin to load XCF images, as created by
              : the GIMP, in GTK+ applications.
 ```
 
@@ -203,11 +203,11 @@ URL          : http://gitorious.org/xcf-pixbuf-loader/mainline.git
 <summary>xclip</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Command line clipboard grabber
+From repo     : fedora
+Short desc    : Command line clipboard grabber
 URL          : http://sourceforge.net/projects/xclip
-Лицензия     : GPLv2+
-Описание     : xclip is a command line utility that is designed to run on any system with an
+License      : GPLv2+
+Descript     : xclip is a command line utility that is designed to run on any system with an
              : X11 implementation. It provides an interface to X selections ("the clipboard")
              : from the command line. It can read data from standard in or a file and place it
              : in an X selection for pasting into other X applications. xclip can also print
@@ -221,11 +221,11 @@ URL          : http://sourceforge.net/projects/xclip
 <summary>xdg-dbus-proxy</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Filtering proxy for D-Bus connections
+From repo     : anaconda
+Short desc    : Filtering proxy for D-Bus connections
 URL          : https://github.com/flatpak/xdg-dbus-proxy/
-Лицензия     : LGPLv2+
-Описание     : xdg-dbus-proxy is a filtering proxy for D-Bus connections. It was originally
+License      : LGPLv2+
+Descript     : xdg-dbus-proxy is a filtering proxy for D-Bus connections. It was originally
              : part of the flatpak project, but it has been broken out as a standalone module
              : to facilitate using it in other contexts.
 ```
@@ -236,11 +236,11 @@ URL          : https://github.com/flatpak/xdg-dbus-proxy/
 <summary>xdg-desktop-portal</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Portal frontend service to flatpak
+From repo     : updates-testing
+Short desc    : Portal frontend service to flatpak
 URL          : https://github.com/flatpak/xdg-desktop-portal/
-Лицензия     : LGPLv2+
-Описание     : xdg-desktop-portal works by exposing a series of D-Bus interfaces known as
+License      : LGPLv2+
+Descript     : xdg-desktop-portal works by exposing a series of D-Bus interfaces known as
              : portals under a well-known name (org.freedesktop.portal.Desktop) and object
              : path (/org/freedesktop/portal/desktop). The portal interfaces include APIs for
              : file access, opening URIs, printing and others.
@@ -252,11 +252,11 @@ URL          : https://github.com/flatpak/xdg-desktop-portal/
 <summary>xdg-desktop-portal-gtk</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Backend implementation for xdg-desktop-portal using GTK+
+From repo     : anaconda
+Short desc    : Backend implementation for xdg-desktop-portal using GTK+
 URL          : https://github.com/flatpak/xdg-desktop-portal-gtk
-Лицензия     : LGPLv2+
-Описание     : A backend implementation for xdg-desktop-portal that is using GTK+ and various
+License      : LGPLv2+
+Descript     : A backend implementation for xdg-desktop-portal that is using GTK+ and various
              : pieces of GNOME infrastructure, such as the org.gnome.Shell.Screenshot or
              : org.gnome.SessionManager D-Bus interfaces.
 ```
@@ -267,11 +267,11 @@ URL          : https://github.com/flatpak/xdg-desktop-portal-gtk
 <summary>xdg-desktop-portal-wlr</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : xdg-desktop-portal backend for wlroots
+From repo     : fedora
+Short desc    : xdg-desktop-portal backend for wlroots
 URL          : https://github.com/emersion/xdg-desktop-portal-wlr
-Лицензия     : MIT
-Описание     : xdg-desktop-portal backend for wlroots.
+License      : MIT
+Descript     : xdg-desktop-portal backend for wlroots.
              : This project seeks to add support for the screenshot, screencast, and possibly
              : remote-desktop xdg-desktop-portal interfaces for wlroots based compositors.
 ```
@@ -282,11 +282,11 @@ URL          : https://github.com/emersion/xdg-desktop-portal-wlr
 <summary>xdg-user-dirs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Handles user special directories
+From repo     : anaconda
+Short desc    : Handles user special directories
 URL          : http://freedesktop.org/wiki/Software/xdg-user-dirs
-Лицензия     : GPLv2+ and MIT
-Описание     : Contains xdg-user-dirs-update that updates folders in a users
+License      : GPLv2+ and MIT
+Descript     : Contains xdg-user-dirs-update that updates folders in a users
              : homedirectory based on the defaults configured by the administrator.
 ```
 
@@ -296,11 +296,11 @@ URL          : http://freedesktop.org/wiki/Software/xdg-user-dirs
 <summary>xdg-user-dirs-gtk</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Gnome integration of special directories
+From repo     : anaconda
+Short desc    : Gnome integration of special directories
 URL          : http://freedesktop.org/wiki/Software/xdg-user-dirs
-Лицензия     : GPL+
-Описание     : Contains some integration of xdg-user-dirs with the gnome
+License      : GPL+
+Descript     : Contains some integration of xdg-user-dirs with the gnome
              : desktop, including creating default bookmarks and detecting
              : locale changes.
 ```
@@ -311,11 +311,11 @@ URL          : http://freedesktop.org/wiki/Software/xdg-user-dirs
 <summary>xdg-utils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Basic desktop integration functions
+From repo     : anaconda
+Short desc    : Basic desktop integration functions
 URL          : http://portland.freedesktop.org/
-Лицензия     : MIT
-Описание     : The xdg-utils package is a set of simple scripts that provide basic
+License      : MIT
+Descript     : The xdg-utils package is a set of simple scripts that provide basic
              : desktop integration functions for any Free Desktop, such as Linux.
              : They are intended to provide a set of defacto standards.
              : This means that:
@@ -343,11 +343,11 @@ URL          : http://portland.freedesktop.org/
 <summary>xemacs-filesystem</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : XEmacs filesystem layout
+From repo     : fedora
+Short desc    : XEmacs filesystem layout
 URL          : http://www.xemacs.org/
-Лицензия     : GPLv3+
-Описание     : XEmacs is a highly customizable open source text editor and
+License      : GPLv3+
+Descript     : XEmacs is a highly customizable open source text editor and
              : application development system.  It is protected under the GNU General
              : Public License and related to other versions of Emacs, in particular
              : GNU Emacs.  Its emphasis is on modern graphical user interface support
@@ -363,11 +363,11 @@ URL          : http://www.xemacs.org/
 <summary>xen-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Libraries for Xen tools
+From repo     : updates-testing
+Short desc    : Libraries for Xen tools
 URL          : http://xen.org/
-Лицензия     : GPLv2+ and LGPLv2+ and BSD
-Описание     : This package contains the libraries needed to run applications
+License      : GPLv2+ and LGPLv2+ and BSD
+Descript     : This package contains the libraries needed to run applications
              : which manage Xen virtual machines.
 ```
 
@@ -377,11 +377,11 @@ URL          : http://xen.org/
 <summary>xen-licenses</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : License files from Xen source
+From repo     : anaconda
+Short desc    : License files from Xen source
 URL          : http://xen.org/
-Лицензия     : GPLv2+ and LGPLv2+ and BSD
-Описание     : This package contains the license files from the source used
+License      : GPLv2+ and LGPLv2+ and BSD
+Descript     : This package contains the license files from the source used
              : to build the xen packages.
 ```
 
@@ -391,11 +391,11 @@ URL          : http://xen.org/
 <summary>xen-licenses</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : License files from Xen source
+From repo     : updates-testing
+Short desc    : License files from Xen source
 URL          : http://xen.org/
-Лицензия     : GPLv2+ and LGPLv2+ and BSD
-Описание     : This package contains the license files from the source used
+License      : GPLv2+ and LGPLv2+ and BSD
+Descript     : This package contains the license files from the source used
              : to build the xen packages.
 ```
 
@@ -405,11 +405,11 @@ URL          : http://xen.org/
 <summary>xerces-c</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Validating XML Parser
+From repo     : fedora
+Short desc    : Validating XML Parser
 URL          : http://xml.apache.org/xerces-c/
-Лицензия     : ASL 2.0
-Описание     : Xerces-C is a validating XML parser written in a portable
+License      : ASL 2.0
+Descript     : Xerces-C is a validating XML parser written in a portable
              : subset of C++. Xerces-C makes it easy to give your application the
              : ability to read and write XML data. A shared library is provided for
              : parsing, generating, manipulating, and validating XML
@@ -426,11 +426,11 @@ URL          : http://xml.apache.org/xerces-c/
 <summary>xfsprogs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utilities for managing the XFS filesystem
+From repo     : anaconda
+Short desc    : Utilities for managing the XFS filesystem
 URL          : https://xfs.wiki.kernel.org
-Лицензия     : GPL+ and LGPLv2+
-Описание     : A set of commands to use the XFS filesystem, including mkfs.xfs.
+License      : GPL+ and LGPLv2+
+Descript     : A set of commands to use the XFS filesystem, including mkfs.xfs.
              : 
              : XFS is a high performance journaling filesystem which originated
              : on the SGI IRIX platform.  It is completely multi-threaded, can
@@ -449,11 +449,11 @@ URL          : https://xfs.wiki.kernel.org
 <summary>xgamma</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : X utility to query and alter the gamma correction of a monitor
+From repo     : updates-testing
+Short desc    : X utility to query and alter the gamma correction of a monitor
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : xgamma allows X users to query and alter the gamma correction of a
+License      : MIT
+Descript     : xgamma allows X users to query and alter the gamma correction of a
              : monitor via the X video mode extension (XFree86-VidModeExtension).
 ```
 
@@ -463,11 +463,11 @@ URL          : https://www.x.org
 <summary>xhost</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Manage hosts or users allowed to connect to the X server
+From repo     : updates-testing
+Short desc    : Manage hosts or users allowed to connect to the X server
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : xhost is used to manage the list of host names or user names
+License      : MIT
+Descript     : xhost is used to manage the list of host names or user names
              : allowed to make connections to the X server.
 ```
 
@@ -477,11 +477,11 @@ URL          : https://www.x.org
 <summary>xinput</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Utility to query X Input devices
+From repo     : updates-testing
+Short desc    : Utility to query X Input devices
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : xinput is a commandline utility to query and configure X11 X Input Extension
+License      : MIT
+Descript     : xinput is a commandline utility to query and configure X11 X Input Extension
              : devices. It is commonly used to change driver properties at runtime.
 ```
 
@@ -491,11 +491,11 @@ URL          : https://www.x.org
 <summary>xkbcomp</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : XKB keymap compiler
+From repo     : anaconda
+Short desc    : XKB keymap compiler
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : X.Org XKB keymap compiler
+License      : MIT
+Descript     : X.Org XKB keymap compiler
 ```
 
 </details>
@@ -504,11 +504,11 @@ URL          : https://www.x.org
 <summary>xkeyboard-config</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : X Keyboard Extension configuration data
+From repo     : updates-testing
+Short desc    : X Keyboard Extension configuration data
 URL          : http://www.freedesktop.org/wiki/Software/XKeyboardConfig
-Лицензия     : MIT
-Описание     : This package contains configuration data used by the X Keyboard Extension (XKB),
+License      : MIT
+Descript     : This package contains configuration data used by the X Keyboard Extension (XKB),
              : which allows selection of keyboard layouts when using a graphical interface.
 ```
 
@@ -518,11 +518,11 @@ URL          : http://www.freedesktop.org/wiki/Software/XKeyboardConfig
 <summary>xkill</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Utility to force-close an X client's connection
+From repo     : updates-testing
+Short desc    : Utility to force-close an X client's connection
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : xkill is a utility for forcing the X server to close connections to
+License      : MIT
+Descript     : xkill is a utility for forcing the X server to close connections to
              : clients. This program is very dangerous, but is useful for aborting
              : programs that have displayed undesired windows on a user's screen.
 ```
@@ -533,11 +533,11 @@ URL          : https://www.x.org
 <summary>xml-common</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Common XML catalog and DTD files
+From repo     : anaconda
+Short desc    : Common XML catalog and DTD files
 URL          : https://www.w3.org/2003/entities/
-Лицензия     : GPL+
-Описание     : The xml-common is a subpackage of sgml-common which contains
+License      : GPL+
+Descript     : The xml-common is a subpackage of sgml-common which contains
              : a collection XML catalogs that are useful for processing XML,
              : but that don't need to be included in main package.
 ```
@@ -548,11 +548,11 @@ URL          : https://www.w3.org/2003/entities/
 <summary>xmlrpc-c</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Lightweight RPC library based on XML and HTTP
+From repo     : anaconda
+Short desc    : Lightweight RPC library based on XML and HTTP
 URL          : http://xmlrpc-c.sourceforge.net/
-Лицензия     : BSD and MIT
-Описание     : XML-RPC is a quick-and-easy way to make procedure calls over the
+License      : BSD and MIT
+Descript     : XML-RPC is a quick-and-easy way to make procedure calls over the
              : Internet. It converts the procedure call into XML document, sends it
              : to a remote server using HTTP, and gets back the response as XML.
              : 
@@ -565,11 +565,11 @@ URL          : http://xmlrpc-c.sourceforge.net/
 <summary>xmlrpc-c-client</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : C client libraries for xmlrpc-c
+From repo     : anaconda
+Short desc    : C client libraries for xmlrpc-c
 URL          : http://xmlrpc-c.sourceforge.net/
-Лицензия     : BSD and MIT
-Описание     : XML-RPC is a quick-and-easy way to make procedure calls over the
+License      : BSD and MIT
+Descript     : XML-RPC is a quick-and-easy way to make procedure calls over the
              : Internet. It converts the procedure call into XML document, sends it
              : to a remote server using HTTP, and gets back the response as XML.
              : 
@@ -583,11 +583,11 @@ URL          : http://xmlrpc-c.sourceforge.net/
 <summary>xmlsec1</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library providing support for "XML Signature" and "XML Encryption" standards
+From repo     : anaconda
+Short desc    : Library providing support for "XML Signature" and "XML Encryption" standards
 URL          : http://www.aleksey.com/xmlsec/
-Лицензия     : MIT
-Описание     : XML Security Library is a C library based on LibXML2  and OpenSSL.
+License      : MIT
+Descript     : XML Security Library is a C library based on LibXML2  and OpenSSL.
              : The library was created with a goal to support major XML security
              : standards "XML Digital Signature" and "XML Encryption".
 ```
@@ -598,11 +598,11 @@ URL          : http://www.aleksey.com/xmlsec/
 <summary>xmlsec1-nss</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : NSS crypto plugin for XML Security Library
+From repo     : anaconda
+Short desc    : NSS crypto plugin for XML Security Library
 URL          : http://www.aleksey.com/xmlsec/
-Лицензия     : MIT
-Описание     : NSS plugin for XML Security Library provides NSS based crypto services
+License      : MIT
+Descript     : NSS plugin for XML Security Library provides NSS based crypto services
              : for the xmlsec library
 ```
 
@@ -612,11 +612,11 @@ URL          : http://www.aleksey.com/xmlsec/
 <summary>xmlsec1-openssl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : OpenSSL crypto plugin for XML Security Library
+From repo     : anaconda
+Short desc    : OpenSSL crypto plugin for XML Security Library
 URL          : http://www.aleksey.com/xmlsec/
-Лицензия     : MIT
-Описание     : OpenSSL plugin for XML Security Library provides OpenSSL based crypto services
+License      : MIT
+Descript     : OpenSSL plugin for XML Security Library provides OpenSSL based crypto services
              : for the xmlsec library.
 ```
 
@@ -626,11 +626,11 @@ URL          : http://www.aleksey.com/xmlsec/
 <summary>xmodmap</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Edit and display the X11 core keyboard map
+From repo     : updates-testing
+Short desc    : Edit and display the X11 core keyboard map
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : The xmodmap program is used to edit and display the keyboard modifier
+License      : MIT
+Descript     : The xmodmap program is used to edit and display the keyboard modifier
              : map and keymap table that are used by client applications to convert
              : event keycodes into keysyms.
 ```
@@ -641,11 +641,11 @@ URL          : https://www.x.org
 <summary>xorg-x11-drv-amdgpu</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : AMD GPU video driver
+From repo     : fedora
+Short desc    : AMD GPU video driver
 URL          : https://www.x.org/wiki
-Лицензия     : MIT
-Описание     : X.Org X11 AMDGPU driver
+License      : MIT
+Descript     : X.Org X11 AMDGPU driver
 ```
 
 </details>
@@ -654,11 +654,11 @@ URL          : https://www.x.org/wiki
 <summary>xorg-x11-drv-ati</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Xorg X11 ati video driver
+From repo     : fedora
+Short desc    : Xorg X11 ati video driver
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 ati video driver.
+License      : MIT
+Descript     : X.Org X11 ati video driver.
 ```
 
 </details>
@@ -667,11 +667,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-drv-evdev</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Xorg X11 evdev input driver
+From repo     : fedora
+Short desc    : Xorg X11 evdev input driver
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 evdev input driver.
+License      : MIT
+Descript     : X.Org X11 evdev input driver.
 ```
 
 </details>
@@ -680,11 +680,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-drv-fbdev</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Xorg X11 fbdev video driver
+From repo     : fedora
+Short desc    : Xorg X11 fbdev video driver
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 fbdev video driver.
+License      : MIT
+Descript     : X.Org X11 fbdev video driver.
 ```
 
 </details>
@@ -693,11 +693,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-drv-intel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Xorg X11 Intel video driver
+From repo     : fedora
+Short desc    : Xorg X11 Intel video driver
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 Intel video driver.
+License      : MIT
+Descript     : X.Org X11 Intel video driver.
 ```
 
 </details>
@@ -706,11 +706,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-drv-libinput</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Xorg X11 libinput input driver
+From repo     : updates-testing
+Short desc    : Xorg X11 libinput input driver
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : A generic input driver for the X.Org X11 X server based on libinput,
+License      : MIT
+Descript     : A generic input driver for the X.Org X11 X server based on libinput,
              : supporting all devices.
 ```
 
@@ -721,11 +721,11 @@ URL          : http://www.x.org
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Xorg X11 nouveau video driver for NVIDIA graphics chipsets
+From repo     : fedora
+Short desc    : Xorg X11 nouveau video driver for NVIDIA graphics chipsets
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 nouveau video driver.
+License      : MIT
+Descript     : X.Org X11 nouveau video driver.
 ```
 
 </details>
@@ -734,11 +734,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-drv-openchrome</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Xorg X11 openchrome video driver
+From repo     : fedora
+Short desc    : Xorg X11 openchrome video driver
 URL          : http://www.freedesktop.org/wiki/Openchrome/
-Лицензия     : MIT
-Описание     : X.Org X11 openchrome video driver.
+License      : MIT
+Descript     : X.Org X11 openchrome video driver.
 ```
 
 </details>
@@ -747,11 +747,11 @@ URL          : http://www.freedesktop.org/wiki/Openchrome/
 <summary>xorg-x11-drv-qxl</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Xorg X11 qxl video driver
+From repo     : fedora
+Short desc    : Xorg X11 qxl video driver
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 qxl video driver.
+License      : MIT
+Descript     : X.Org X11 qxl video driver.
 ```
 
 </details>
@@ -760,11 +760,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-drv-vesa</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Xorg X11 vesa video driver
+From repo     : fedora
+Short desc    : Xorg X11 vesa video driver
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 vesa video driver.
+License      : MIT
+Descript     : X.Org X11 vesa video driver.
 ```
 
 </details>
@@ -773,11 +773,11 @@ URL          : https://www.x.org
 <summary>xorg-x11-drv-vmware</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Xorg X11 vmware video driver
+From repo     : fedora
+Short desc    : Xorg X11 vmware video driver
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 vmware video driver.
+License      : MIT
+Descript     : X.Org X11 vmware video driver.
 ```
 
 </details>
@@ -786,11 +786,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-drv-wacom</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Xorg X11 wacom input driver
+From repo     : fedora
+Short desc    : Xorg X11 wacom input driver
 URL          : http://www.x.org
-Лицензия     : GPLv2+
-Описание     : X.Org X11 wacom input driver for Wacom tablets.
+License      : GPLv2+
+Descript     : X.Org X11 wacom input driver for Wacom tablets.
 ```
 
 </details>
@@ -799,11 +799,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-drv-wacom-serial-support</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Files for enabling the wacom_w8001 kernel driver
+From repo     : fedora
+Short desc    : Files for enabling the wacom_w8001 kernel driver
 URL          : http://www.x.org
-Лицензия     : GPLv2+
-Описание     : Files for enabling the wacom_w8001 kernel driver on Wacom
+License      : GPLv2+
+Descript     : Files for enabling the wacom_w8001 kernel driver on Wacom
              : ISDv4-compatible serial tablets. If enabled, the serial tablet's device node
              : will be available as normal evdev node.
 ```
@@ -814,11 +814,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-fonts-ISO8859-1-100dpi</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A set of 100dpi ISO-8859-1 fonts for X
+From repo     : fedora
+Short desc    : A set of 100dpi ISO-8859-1 fonts for X
 URL          : https://www.x.org
-Лицензия     : MIT and Lucida and Public Domain
-Описание     : Contains a set of 100dpi fonts for ISO-8859-1.
+License      : MIT and Lucida and Public Domain
+Descript     : Contains a set of 100dpi fonts for ISO-8859-1.
 ```
 
 </details>
@@ -827,11 +827,11 @@ URL          : https://www.x.org
 <summary>xorg-x11-fonts-Type1</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Type1 fonts provided by the X Window System
+From repo     : fedora
+Short desc    : Type1 fonts provided by the X Window System
 URL          : https://www.x.org
-Лицензия     : MIT and Lucida and Public Domain
-Описание     : A collection of Type1 fonts which are part of the core X Window System
+License      : MIT and Lucida and Public Domain
+Descript     : A collection of Type1 fonts which are part of the core X Window System
              : distribution.
 ```
 
@@ -841,11 +841,11 @@ URL          : https://www.x.org
 <summary>xorg-x11-fonts-misc</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : misc bitmap fonts for the X Window System
+From repo     : updates-testing
+Short desc    : misc bitmap fonts for the X Window System
 URL          : https://www.x.org
-Лицензия     : MIT and Lucida and Public Domain
-Описание     : This package contains misc bitmap Chinese, Japanese, Korean, Indic, and Arabic
+License      : MIT and Lucida and Public Domain
+Descript     : This package contains misc bitmap Chinese, Japanese, Korean, Indic, and Arabic
              : fonts for use with X Window System.
 ```
 
@@ -855,11 +855,11 @@ URL          : https://www.x.org
 <summary>xorg-x11-proto-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : X.Org X11 Protocol headers
+From repo     : fedora
+Short desc    : X.Org X11 Protocol headers
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 Protocol headers
+License      : MIT
+Descript     : X.Org X11 Protocol headers
 ```
 
 </details>
@@ -868,11 +868,11 @@ URL          : https://www.x.org
 <summary>xorg-x11-server-Xephyr</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A nested server
+From repo     : fedora
+Short desc    : A nested server
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : Xephyr is an X server which has been implemented as an ordinary
+License      : MIT
+Descript     : Xephyr is an X server which has been implemented as an ordinary
              : X application.  It runs in a window just like other X applications,
              : but it is an X server itself in which you can run other software.  It
              : is a very useful tool for developers who wish to test their
@@ -888,11 +888,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-server-Xorg</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Xorg X server
+From repo     : updates-testing
+Short desc    : Xorg X server
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : X.org X11 is an open source implementation of the X Window System.  It
+License      : MIT
+Descript     : X.org X11 is an open source implementation of the X Window System.  It
              : provides the basic low level functionality which full fledged
              : graphical user interfaces (GUIs) such as GNOME and KDE are designed
              : upon.
@@ -904,11 +904,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-server-Xwayland</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Xwayland
+From repo     : updates-testing
+Short desc    : Xwayland
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : Xwayland is an X server for running X clients under Wayland.
+License      : MIT
+Descript     : Xwayland is an X server for running X clients under Wayland.
 ```
 
 </details>
@@ -917,11 +917,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-server-common</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Xorg server common files
+From repo     : updates-testing
+Short desc    : Xorg server common files
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : Common files shared among all X servers.
+License      : MIT
+Descript     : Common files shared among all X servers.
 ```
 
 </details>
@@ -930,11 +930,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-utils</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : X.Org X11 X client utilities
+From repo     : fedora
+Short desc    : X.Org X11 X client utilities
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : A collection of client utilities which can be used to query the X server for
+License      : MIT
+Descript     : A collection of client utilities which can be used to query the X server for
              : various information.
 ```
 
@@ -945,11 +945,11 @@ URL          : http://www.x.org
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : X.Org X11 X authority utilities
+From repo     : fedora
+Short desc    : X.Org X11 X authority utilities
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : xauth is used to edit and display the authorization information
+License      : MIT
+Descript     : xauth is used to edit and display the authorization information
              : used in connecting to an X server.
 ```
 
@@ -959,11 +959,11 @@ URL          : https://www.x.org
 <summary>xorg-x11-xbitmaps</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : X.Org X11 application bitmaps
+From repo     : fedora
+Short desc    : X.Org X11 application bitmaps
 URL          : http://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 application bitmaps
+License      : MIT
+Descript     : X.Org X11 application bitmaps
 ```
 
 </details>
@@ -972,11 +972,11 @@ URL          : http://www.x.org
 <summary>xorg-x11-xinit</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : X.Org X11 X Window System xinit startup scripts
+From repo     : fedora
+Short desc    : X.Org X11 X Window System xinit startup scripts
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : X.Org X11 X Window System xinit startup scripts.
+License      : MIT
+Descript     : X.Org X11 X Window System xinit startup scripts.
 ```
 
 </details>
@@ -985,11 +985,11 @@ URL          : https://www.x.org
 <summary>xosd</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : On-screen display library for X
+From repo     : fedora
+Short desc    : On-screen display library for X
 URL          : https://sourceforge.net/projects/libxosd/
-Лицензия     : GPLv2+
-Описание     : XOSD displays text on your screen, sounds simple right? The difference
+License      : GPLv2+
+Descript     : XOSD displays text on your screen, sounds simple right? The difference
              : is it is unmanaged and shaped, so it appears transparent. This gives
              : the effect of an On Screen Display, like your TV/VCR etc.
 ```
@@ -1000,11 +1000,11 @@ URL          : https://sourceforge.net/projects/libxosd/
 <summary>xrandr</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Commandline utility to change output properties
+From repo     : updates-testing
+Short desc    : Commandline utility to change output properties
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : xrandr is a commandline utility to set the size, orientation and/or
+License      : MIT
+Descript     : xrandr is a commandline utility to set the size, orientation and/or
              : reflection of the outputs for an X screen. It can also set the screen size
              : and turn outputs on and off..
 ```
@@ -1015,11 +1015,11 @@ URL          : https://www.x.org
 <summary>xrdb</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : X server resource database utility
+From repo     : updates-testing
+Short desc    : X server resource database utility
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : xrdb is used to get or set the contents of the RESOURCE_MANAGER property on
+License      : MIT
+Descript     : xrdb is used to get or set the contents of the RESOURCE_MANAGER property on
              : the root window of screen 0, or the SCREEN_RESOURCES property on the
              : root window of any or all screens, or everything combined.
 ```
@@ -1030,11 +1030,11 @@ URL          : https://www.x.org
 <summary>xrefresh</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Refresh all or part of an X screen
+From repo     : updates-testing
+Short desc    : Refresh all or part of an X screen
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : xrefresh is a simple X program that causes all or part of your screen to be
+License      : MIT
+Descript     : xrefresh is a simple X program that causes all or part of your screen to be
              : repainted.
 ```
 
@@ -1044,11 +1044,11 @@ URL          : https://www.x.org
 <summary>xrestop</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : X Resource Monitor
+From repo     : fedora
+Short desc    : X Resource Monitor
 URL          : http://www.freedesktop.org/Software/xrestop
-Лицензия     : GPLv2+
-Описание     : A utility to monitor application usage of X resources in the X Server, and
+License      : GPLv2+
+Descript     : A utility to monitor application usage of X resources in the X Server, and
              : display them in a manner similar to 'top'.  This is a very useful utility
              : for tracking down application X resource usage leaks.
 ```
@@ -1059,11 +1059,11 @@ URL          : http://www.freedesktop.org/Software/xrestop
 <summary>xsane</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : X Window System front-end for the SANE scanner interface
+From repo     : fedora
+Short desc    : X Window System front-end for the SANE scanner interface
 URL          : http://www.xsane.org/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : XSane is an X based interface for the SANE (Scanner Access Now Easy)
+License      : GPLv2+ and LGPLv2+
+Descript     : XSane is an X based interface for the SANE (Scanner Access Now Easy)
              : library, which provides access to scanners, digital cameras, and other
              : capture devices. XSane is written in GTK+ and provides control for
              : performing the scan and then manipulating the captured image.
@@ -1075,11 +1075,11 @@ URL          : http://www.xsane.org/
 <summary>xsane-common</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Common files for xsane packages
+From repo     : fedora
+Short desc    : Common files for xsane packages
 URL          : http://www.xsane.org/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : This package contains common files needed by other xsane packages.
+License      : GPLv2+ and LGPLv2+
+Descript     : This package contains common files needed by other xsane packages.
 ```
 
 </details>
@@ -1088,11 +1088,11 @@ URL          : http://www.xsane.org/
 <summary>xsane-gimp</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GIMP plug-in providing the SANE scanner interface
+From repo     : fedora
+Short desc    : GIMP plug-in providing the SANE scanner interface
 URL          : http://www.xsane.org/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : This package provides the regular XSane frontend for the SANE scanner
+License      : GPLv2+ and LGPLv2+
+Descript     : This package provides the regular XSane frontend for the SANE scanner
              : interface, but it works as a GIMP plug-in. You must have GIMP
              : installed to use this package.
 ```
@@ -1103,11 +1103,11 @@ URL          : http://www.xsane.org/
 <summary>xsel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Command line clipboard and X selection tool
+From repo     : fedora
+Short desc    : Command line clipboard and X selection tool
 URL          : http://www.vergenet.net/~conrad/software/xsel/
-Лицензия     : MIT
-Описание     : XSel is a command line or script utility, similar to xclip, that can copy the
+License      : MIT
+Descript     : XSel is a command line or script utility, similar to xclip, that can copy the
              : primary and secondary X selection, or any highlighted text, to or from a file,
              : stdin or stdout. It can also append to and delete the clipboard or buffer that
              : you would paste with the middle mouse button.
@@ -1119,11 +1119,11 @@ URL          : http://www.vergenet.net/~conrad/software/xsel/
 <summary>xset</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : User preference utility for X
+From repo     : updates-testing
+Short desc    : User preference utility for X
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : This program is used to set various user preference options of the X server,
+License      : MIT
+Descript     : This program is used to set various user preference options of the X server,
              : including bell volume, dpms features, font paths and some settings related
              : to the pointer.
 ```
@@ -1134,11 +1134,11 @@ URL          : https://www.x.org
 <summary>xsetroot</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Root window parameter setting utility for X
+From repo     : updates-testing
+Short desc    : Root window parameter setting utility for X
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : The xsetroot program allows you to tailor the appearance of the background
+License      : MIT
+Descript     : The xsetroot program allows you to tailor the appearance of the background
              : window of an X server.
 ```
 
@@ -1148,11 +1148,11 @@ URL          : https://www.x.org
 <summary>xstdcmap</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Utility to define standard colormap properties
+From repo     : updates-testing
+Short desc    : Utility to define standard colormap properties
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : The xstdcmap utility can be used to selectively define standard colormap
+License      : MIT
+Descript     : The xstdcmap utility can be used to selectively define standard colormap
              : properties.  It is intended to be run from a user's X startup script to
              : create standard colormap definitions in order to facilitate sharing of
              : scarce colormap resources among clients using PseudoColor visuals.
@@ -1164,11 +1164,11 @@ URL          : https://www.x.org
 <summary>xterm</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Terminal emulator for the X Window System
+From repo     : fedora
+Short desc    : Terminal emulator for the X Window System
 URL          : https://invisible-island.net/xterm
-Лицензия     : MIT
-Описание     : The xterm program is a terminal emulator for the X Window System. It
+License      : MIT
+Descript     : The xterm program is a terminal emulator for the X Window System. It
              : provides DEC VT102 and Tektronix 4014 compatible terminals for
              : programs that can't use the window system directly.
 ```
@@ -1179,11 +1179,11 @@ URL          : https://invisible-island.net/xterm
 <summary>xterm-resize</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Set environment and terminal settings to current window size
+From repo     : fedora
+Short desc    : Set environment and terminal settings to current window size
 URL          : https://invisible-island.net/xterm
-Лицензия     : MIT
-Описание     : Prints a shell command for setting the appropriate environment variables to
+License      : MIT
+Descript     : Prints a shell command for setting the appropriate environment variables to
              : indicate the current size of the window from which the command is run.
 ```
 
@@ -1193,11 +1193,11 @@ URL          : https://invisible-island.net/xterm
 <summary>xvidcore</summary>
 
 ```
-Из репозитор : rpmfusion-free
-Краткое опис : MPEG-4 Simple and Advanced Simple Profile codec
+From repo     : rpmfusion-free
+Short desc    : MPEG-4 Simple and Advanced Simple Profile codec
 URL          : https://www.xvid.com/
-Лицензия     : GPLv2+
-Описание     : The Xvid video codec implements MPEG-4 Simple Profile and Advanced Simple
+License      : GPLv2+
+Descript     : The Xvid video codec implements MPEG-4 Simple Profile and Advanced Simple
              : Profile standards. It permits compressing and decompressing digital video
              : in order to reduce the required bandwidth of video data for transmission
              : over computer networks or efficient storage on CDs or DVDs. Due to its
@@ -1212,11 +1212,11 @@ URL          : https://www.xvid.com/
 <summary>xxhash-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Extremely fast hash algorithm - library
+From repo     : anaconda
+Short desc    : Extremely fast hash algorithm - library
 URL          : http://www.xxhash.com/
-Лицензия     : BSD
-Описание     : xxHash is an Extremely fast Hash algorithm, running at RAM speed
+License      : BSD
+Descript     : xxHash is an Extremely fast Hash algorithm, running at RAM speed
              : limits. It successfully completes the SMHasher test suite which
              : evaluates collision, dispersion and randomness qualities of hash
              : functions. Code is highly portable, and hashes are identical on all
@@ -1229,11 +1229,11 @@ URL          : http://www.xxhash.com/
 <summary>xz</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : LZMA compression utilities
+From repo     : anaconda
+Short desc    : LZMA compression utilities
 URL          : https://tukaani.org/xz/
-Лицензия     : GPLv2+ and Public Domain
-Описание     : XZ Utils are an attempt to make LZMA compression easy to use on free (as in
+License      : GPLv2+ and Public Domain
+Descript     : XZ Utils are an attempt to make LZMA compression easy to use on free (as in
              : freedom) operating systems. This is achieved by providing tools and libraries
              : which are similar to use than the equivalents of the most popular existing
              : compression algorithms.
@@ -1249,11 +1249,11 @@ URL          : https://tukaani.org/xz/
 <summary>xz-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Devel libraries & headers for liblzma
+From repo     : fedora
+Short desc    : Devel libraries & headers for liblzma
 URL          : https://tukaani.org/xz/
-Лицензия     : Public Domain
-Описание     : Devel libraries and headers for liblzma.
+License      : Public Domain
+Descript     : Devel libraries and headers for liblzma.
 ```
 
 </details>
@@ -1262,11 +1262,11 @@ URL          : https://tukaani.org/xz/
 <summary>xz-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for decoding LZMA compression
+From repo     : anaconda
+Short desc    : Libraries for decoding LZMA compression
 URL          : https://tukaani.org/xz/
-Лицензия     : Public Domain
-Описание     : Libraries for decoding files compressed with LZMA or XZ utils.
+License      : Public Domain
+Descript     : Libraries for decoding files compressed with LZMA or XZ utils.
 ```
 
 </details>

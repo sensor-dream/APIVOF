@@ -1,14 +1,14 @@
-# For letter C, information about installed packages
+# For first letter C, information about installation packages
 
 <details>
 <summary>CharLS</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : An optimized implementation of the JPEG-LS standard
+From repo     : fedora
+Short desc    : An optimized implementation of the JPEG-LS standard
 URL          : https://github.com/team-charls/charls
-Лицензия     : BSD
-Описание     : An optimized implementation of the JPEG-LS standard for loss less and
+License      : BSD
+Descript     : An optimized implementation of the JPEG-LS standard for loss less and
              : near loss less image compression. JPEG-LS is a low-complexity standard that
              : matches JPEG 2000 compression ratios. In terms of speed, CharLS outperforms
              : open source and commercial JPEG LS implementations.

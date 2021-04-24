@@ -1,14 +1,14 @@
-# For letter h, information about installed packages
+# For first letter h, information about installation packages
 
 <details>
 <summary>hamlib</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Run-time library to control radio transceivers and receivers
+From repo     : fedora
+Short desc    : Run-time library to control radio transceivers and receivers
 URL          : http://www.hamlib.org
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : Hamlib provides a standardized programming interface that applications
+License      : GPLv2+ and LGPLv2+
+Descript     : Hamlib provides a standardized programming interface that applications
              : can use to send the appropriate commands to a radio.
              : 
              : Also included in the package is a simple radio control program 'rigctl',
@@ -22,11 +22,11 @@ URL          : http://www.hamlib.org
 <summary>harfbuzz</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Text shaping library
+From repo     : anaconda
+Short desc    : Text shaping library
 URL          : https://harfbuzz.github.io/
-Лицензия     : MIT
-Описание     : HarfBuzz is an implementation of the OpenType Layout engine.
+License      : MIT
+Descript     : HarfBuzz is an implementation of the OpenType Layout engine.
 ```
 
 </details>
@@ -35,11 +35,11 @@ URL          : https://harfbuzz.github.io/
 <summary>harfbuzz-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development files for harfbuzz
+From repo     : fedora
+Short desc    : Development files for harfbuzz
 URL          : https://harfbuzz.github.io/
-Лицензия     : MIT
-Описание     : The harfbuzz-devel package contains libraries and header files for
+License      : MIT
+Descript     : The harfbuzz-devel package contains libraries and header files for
              : developing applications that use harfbuzz.
 ```
 
@@ -49,11 +49,11 @@ URL          : https://harfbuzz.github.io/
 <summary>harfbuzz-icu</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Harfbuzz ICU support library
+From repo     : anaconda
+Short desc    : Harfbuzz ICU support library
 URL          : https://harfbuzz.github.io/
-Лицензия     : MIT
-Описание     : This package contains Harfbuzz ICU support library.
+License      : MIT
+Descript     : This package contains Harfbuzz ICU support library.
 ```
 
 </details>
@@ -62,11 +62,11 @@ URL          : https://harfbuzz.github.io/
 <summary>hashcat</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Advanced password recovery utility
+From repo     : fedora
+Short desc    : Advanced password recovery utility
 URL          : https://github.com/hashcat/hashcat
-Лицензия     : MIT and Public Domain
-Описание     : Hashcat is the world's fastest and most advanced password recovery
+License      : MIT and Public Domain
+Descript     : Hashcat is the world's fastest and most advanced password recovery
              : utility, supporting five unique modes of attack for over 200
              : highly-optimized hashing algorithms. hashcat currently supports
              : CPUs, GPUs, and other hardware accelerators on Linux, Windows,
@@ -80,11 +80,11 @@ URL          : https://github.com/hashcat/hashcat
 <summary>hashcat-doc</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Documentation files for hashcat
+From repo     : fedora
+Short desc    : Documentation files for hashcat
 URL          : https://github.com/hashcat/hashcat
-Лицензия     : MIT and Public Domain
-Описание     : Documentation files for hashcat.
+License      : MIT and Public Domain
+Descript     : Documentation files for hashcat.
 ```
 
 </details>
@@ -93,11 +93,11 @@ URL          : https://github.com/hashcat/hashcat
 <summary>hdf-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : HDF4 shared libraries
+From repo     : fedora
+Short desc    : HDF4 shared libraries
 URL          : https://portal.hdfgroup.org/
-Лицензия     : BSD
-Описание     : HDF4 shared libraries.
+License      : BSD
+Descript     : HDF4 shared libraries.
 ```
 
 </details>
@@ -106,11 +106,11 @@ URL          : https://portal.hdfgroup.org/
 <summary>hdf5</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A general purpose library and file format for storing scientific data
+From repo     : fedora
+Short desc    : A general purpose library and file format for storing scientific data
 URL          : https://portal.hdfgroup.org/display/HDF5/HDF5
-Лицензия     : BSD
-Описание     : HDF5 is a general purpose library and file format for storing scientific data.
+License      : BSD
+Descript     : HDF5 is a general purpose library and file format for storing scientific data.
              : HDF5 can store two primary objects: datasets and groups. A dataset is
              : essentially a multidimensional array of data elements, and a group is a
              : structure for organizing objects in an HDF5 file. Using these two basic
@@ -125,11 +125,11 @@ URL          : https://portal.hdfgroup.org/display/HDF5/HDF5
 <summary>hexedit</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A hexadecimal file viewer and editor
+From repo     : updates-testing
+Short desc    : A hexadecimal file viewer and editor
 URL          : http://rigaux.org/hexedit.html
-Лицензия     : GPLv2+
-Описание     : Hexedit shows a file both in ASCII and in hexadecimal. The file can be a device
+License      : GPLv2+
+Descript     : Hexedit shows a file both in ASCII and in hexadecimal. The file can be a device
              : as the file is read a piece at a time. Hexedit can be used to modify the file
              : and search through it.
 ```
@@ -140,11 +140,11 @@ URL          : http://rigaux.org/hexedit.html
 <summary>hexer</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Interactive binary editor
+From repo     : fedora
+Short desc    : Interactive binary editor
 URL          : http://devel.ringlet.net/editors/hexer/
-Лицензия     : BSD
-Описание     : Hexer is an interactive binary editor (also known as a hex-editor)
+License      : BSD
+Descript     : Hexer is an interactive binary editor (also known as a hex-editor)
              : with a Vi-like interface. Its most important features are multiple buffers,
              : multiple-level undo, command-line editing with completion, and binary regular
              : expressions.
@@ -156,11 +156,11 @@ URL          : http://devel.ringlet.net/editors/hexer/
 <summary>hfsplus-tools</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Tools to create/check Apple HFS+ filesystems
+From repo     : anaconda
+Short desc    : Tools to create/check Apple HFS+ filesystems
 URL          : http://gentoo-wiki.com/HOWTO_hfsplus
-Лицензия     : APSL 2.0
-Описание     : HFS+, HFS Plus, or Mac OS Extended are names for a file system developed by
+License      : APSL 2.0
+Descript     : HFS+, HFS Plus, or Mac OS Extended are names for a file system developed by
              : Apple Computer to replace their Hierarchical File System (HFS). In addition to
              : being the default file system on modern Apple computers, HFS+ is one of two
              : formats, FAT being the other, that are supported by the iPod hard-disk based
@@ -182,11 +182,11 @@ URL          : http://gentoo-wiki.com/HOWTO_hfsplus
 <summary>hicolor-icon-theme</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Basic requirement for icon themes
+From repo     : anaconda
+Short desc    : Basic requirement for icon themes
 URL          : https://www.freedesktop.org/wiki/Software/icon-theme/
-Лицензия     : GPLv2+
-Описание     : Contains the basic directories and files needed for icon theme support.
+License      : GPLv2+
+Descript     : Contains the basic directories and files needed for icon theme support.
 ```
 
 </details>
@@ -195,11 +195,11 @@ URL          : https://www.freedesktop.org/wiki/Software/icon-theme/
 <summary>hiera</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A simple hierarchical database supporting plugin data sources
+From repo     : fedora
+Short desc    : A simple hierarchical database supporting plugin data sources
 URL          : http://projects.puppetlabs.com/projects/hiera/
-Лицензия     : ASL 2.0
-Описание     : A simple hierarchical database supporting plugin data sources.
+License      : ASL 2.0
+Descript     : A simple hierarchical database supporting plugin data sources.
 ```
 
 </details>
@@ -208,11 +208,11 @@ URL          : http://projects.puppetlabs.com/projects/hiera/
 <summary>highcontrast-icon-theme</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : HighContrast icon theme
+From repo     : anaconda
+Short desc    : HighContrast icon theme
 URL          : https://gitlab.gnome.org/GNOME/gnome-themes-extra
-Лицензия     : LGPLv2+
-Описание     : This package contains the HighContrast icon theme used by the GNOME desktop.
+License      : LGPLv2+
+Descript     : This package contains the HighContrast icon theme used by the GNOME desktop.
 ```
 
 </details>
@@ -221,11 +221,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-themes-extra
 <summary>hivex</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Read and write Windows Registry binary hive files
+From repo     : fedora
+Short desc    : Read and write Windows Registry binary hive files
 URL          : http://libguestfs.org/
-Лицензия     : LGPLv2
-Описание     : Hive files are the undocumented binary files that Windows uses to
+License      : LGPLv2
+Descript     : Hive files are the undocumented binary files that Windows uses to
              : store the Windows Registry on disk.  Hivex is a library that can read
              : and write to these files.
              : 
@@ -261,11 +261,11 @@ URL          : http://libguestfs.org/
 <summary>hostname</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utility to set/show the host name or domain name
+From repo     : anaconda
+Short desc    : Utility to set/show the host name or domain name
 URL          : http://packages.qa.debian.org/h/hostname.html
-Лицензия     : GPLv2+
-Описание     : This package provides commands which can be used to display the system's
+License      : GPLv2+
+Descript     : This package provides commands which can be used to display the system's
              : DNS name, and to display or set its hostname or NIS domain name.
 ```
 
@@ -275,11 +275,11 @@ URL          : http://packages.qa.debian.org/h/hostname.html
 <summary>hplip</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : HP Linux Imaging and Printing Project
+From repo     : updates-testing
+Short desc    : HP Linux Imaging and Printing Project
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
-Лицензия     : GPLv2+ and MIT and BSD and IJG and Public Domain and GPLv2+ with exceptions and ISC
-Описание     : The Hewlett-Packard Linux Imaging and Printing Project provides
+License      : GPLv2+ and MIT and BSD and IJG and Public Domain and GPLv2+ with exceptions and ISC
+Descript     : The Hewlett-Packard Linux Imaging and Printing Project provides
              : drivers for HP printers and multi-function peripherals.
 ```
 
@@ -289,11 +289,11 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 <summary>hplip-common</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Files needed by the HPLIP printer and scanner drivers
+From repo     : anaconda
+Short desc    : Files needed by the HPLIP printer and scanner drivers
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
-Лицензия     : GPLv2+
-Описание     : Files needed by the HPLIP printer and scanner drivers.
+License      : GPLv2+
+Descript     : Files needed by the HPLIP printer and scanner drivers.
 ```
 
 </details>
@@ -302,11 +302,11 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 <summary>hplip-common</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Files needed by the HPLIP printer and scanner drivers
+From repo     : updates-testing
+Short desc    : Files needed by the HPLIP printer and scanner drivers
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
-Лицензия     : GPLv2+
-Описание     : Files needed by the HPLIP printer and scanner drivers.
+License      : GPLv2+
+Descript     : Files needed by the HPLIP printer and scanner drivers.
 ```
 
 </details>
@@ -315,11 +315,11 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 <summary>hplip-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : HPLIP libraries
+From repo     : anaconda
+Short desc    : HPLIP libraries
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
-Лицензия     : GPLv2+ and MIT
-Описание     : Libraries needed by HPLIP.
+License      : GPLv2+ and MIT
+Descript     : Libraries needed by HPLIP.
 ```
 
 </details>
@@ -328,11 +328,11 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 <summary>hplip-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : HPLIP libraries
+From repo     : updates-testing
+Short desc    : HPLIP libraries
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
-Лицензия     : GPLv2+ and MIT
-Описание     : Libraries needed by HPLIP.
+License      : GPLv2+ and MIT
+Descript     : Libraries needed by HPLIP.
 ```
 
 </details>
@@ -341,10 +341,10 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 <summary>hsa-rocr-dev</summary>
 
 ```
-Из репозитор : ROCm
-Краткое опис : AMD Heterogeneous System Architecture HSA - Linux HSA Runtime for Boltzmann (ROCm) platforms
-Лицензия     : unknown
-Описание     : DESCRIPTION
+From repo     : ROCm
+Short desc    : AMD Heterogeneous System Architecture HSA - Linux HSA Runtime for Boltzmann (ROCm) platforms
+License      : unknown
+Descript     : DESCRIPTION
              : ===========
              : 
              : This is an installer created using CPack (https://cmake.org). No additional installation instructions provided.
@@ -356,11 +356,11 @@ URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 <summary>hsakmt</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : AMD's HSA thunk library
+From repo     : fedora
+Short desc    : AMD's HSA thunk library
 URL          : https://github.com/RadeonOpenCompute/ROCm
-Лицензия     : MIT
-Описание     : This package includes the libhsakmt (Thunk) libraries
+License      : MIT
+Descript     : This package includes the libhsakmt (Thunk) libraries
              : for AMD KFD
 ```
 
@@ -371,11 +371,11 @@ URL          : https://github.com/RadeonOpenCompute/ROCm
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Caladea, a serif font family metric-compatible with Cambria font family
+From repo     : anaconda
+Short desc    : Caladea, a serif font family metric-compatible with Cambria font family
 URL          : https://github.com/huertatipografica/Caladea
-Лицензия     : OFL
-Описание     : Caladea is a free modern, friendly serif font family based on Cambo
+License      : OFL
+Descript     : Caladea is a free modern, friendly serif font family based on Cambo
              : (https://fonts.google.com/specimen/Cambo) Designed by Carolina Giovagnoli
              : and Andrés Torresi for Huerta Tipográfica in 2012.
              : 
@@ -393,11 +393,11 @@ URL          : https://github.com/huertatipografica/Caladea
 <summary>htop</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Interactive process viewer
+From repo     : fedora
+Short desc    : Interactive process viewer
 URL          : http://hisham.hm/htop/
-Лицензия     : GPLv2+
-Описание     : htop is an interactive text-mode process viewer for Linux, similar to
+License      : GPLv2+
+Descript     : htop is an interactive text-mode process viewer for Linux, similar to
              : top(1).
 ```
 
@@ -407,11 +407,11 @@ URL          : http://hisham.hm/htop/
 <summary>http-parser</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : HTTP request/response parser for C
+From repo     : fedora
+Short desc    : HTTP request/response parser for C
 URL          : https://github.com/nodejs/http-parser
-Лицензия     : MIT
-Описание     : This is a parser for HTTP messages written in C. It parses both requests and
+License      : MIT
+Descript     : This is a parser for HTTP messages written in C. It parses both requests and
              : responses. The parser is designed to be used in performance HTTP applications.
              : It does not make any syscalls nor allocations, it does not buffer data, it can
              : be interrupted at anytime. Depending on your architecture, it only requires
@@ -425,11 +425,11 @@ URL          : https://github.com/nodejs/http-parser
 <summary>httpd</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Apache HTTP Server
+From repo     : updates-testing
+Short desc    : Apache HTTP Server
 URL          : https://httpd.apache.org/
-Лицензия     : ASL 2.0
-Описание     : The Apache HTTP Server is a powerful, efficient, and extensible
+License      : ASL 2.0
+Descript     : The Apache HTTP Server is a powerful, efficient, and extensible
              : web server.
 ```
 
@@ -439,11 +439,11 @@ URL          : https://httpd.apache.org/
 <summary>httpd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Apache HTTP Server
+From repo     : anaconda
+Short desc    : Apache HTTP Server
 URL          : https://httpd.apache.org/
-Лицензия     : ASL 2.0
-Описание     : The Apache HTTP Server is a powerful, efficient, and extensible
+License      : ASL 2.0
+Descript     : The Apache HTTP Server is a powerful, efficient, and extensible
              : web server.
 ```
 
@@ -453,11 +453,11 @@ URL          : https://httpd.apache.org/
 <summary>httpd-filesystem</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The basic directory layout for the Apache HTTP Server
+From repo     : updates-testing
+Short desc    : The basic directory layout for the Apache HTTP Server
 URL          : https://httpd.apache.org/
-Лицензия     : ASL 2.0
-Описание     : The httpd-filesystem package contains the basic directory layout
+License      : ASL 2.0
+Descript     : The httpd-filesystem package contains the basic directory layout
              : for the Apache HTTP Server including the correct permissions
              : for the directories.
 ```
@@ -468,11 +468,11 @@ URL          : https://httpd.apache.org/
 <summary>httpd-filesystem</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The basic directory layout for the Apache HTTP Server
+From repo     : anaconda
+Short desc    : The basic directory layout for the Apache HTTP Server
 URL          : https://httpd.apache.org/
-Лицензия     : ASL 2.0
-Описание     : The httpd-filesystem package contains the basic directory layout
+License      : ASL 2.0
+Descript     : The httpd-filesystem package contains the basic directory layout
              : for the Apache HTTP Server including the correct permissions
              : for the directories.
 ```
@@ -483,11 +483,11 @@ URL          : https://httpd.apache.org/
 <summary>httpd-tools</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Tools for use with the Apache HTTP Server
+From repo     : updates-testing
+Short desc    : Tools for use with the Apache HTTP Server
 URL          : https://httpd.apache.org/
-Лицензия     : ASL 2.0
-Описание     : The httpd-tools package contains tools which can be used with
+License      : ASL 2.0
+Descript     : The httpd-tools package contains tools which can be used with
              : the Apache HTTP Server.
 ```
 
@@ -497,11 +497,11 @@ URL          : https://httpd.apache.org/
 <summary>httpd-tools</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Tools for use with the Apache HTTP Server
+From repo     : anaconda
+Short desc    : Tools for use with the Apache HTTP Server
 URL          : https://httpd.apache.org/
-Лицензия     : ASL 2.0
-Описание     : The httpd-tools package contains tools which can be used with
+License      : ASL 2.0
+Descript     : The httpd-tools package contains tools which can be used with
              : the Apache HTTP Server.
 ```
 
@@ -511,11 +511,11 @@ URL          : https://httpd.apache.org/
 <summary>humanity-icon-theme</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Humanity icon theme
+From repo     : fedora
+Short desc    : Humanity icon theme
 URL          : https://launchpad.net/humanity/
-Лицензия     : GPLv2
-Описание     : Humanity and Humanity Dark are nice and well polished icon themes for the GNOME
+License      : GPLv2
+Descript     : Humanity and Humanity Dark are nice and well polished icon themes for the GNOME
              : desktop.
 ```
 
@@ -525,11 +525,11 @@ URL          : https://launchpad.net/humanity/
 <summary>hunspell</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A spell checker and morphological analyzer library
+From repo     : anaconda
+Short desc    : A spell checker and morphological analyzer library
 URL          : https://github.com/hunspell/hunspell
-Лицензия     : LGPLv2+ or GPLv2+ or MPLv1.1
-Описание     : Hunspell is a spell checker and morphological analyzer library and program
+License      : LGPLv2+ or GPLv2+ or MPLv1.1
+Descript     : Hunspell is a spell checker and morphological analyzer library and program
              : designed for languages with rich morphology and complex word compounding or
              : character encoding. Hunspell interfaces: Ispell-like terminal interface using
              : Curses library, Ispell pipe interface, LibreOffice UNO module.
@@ -541,11 +541,11 @@ URL          : https://github.com/hunspell/hunspell
 <summary>hunspell-en</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : English hunspell dictionaries
+From repo     : anaconda
+Short desc    : English hunspell dictionaries
 URL          : http://wordlist.sourceforge.net/
-Лицензия     : LGPLv2+ and LGPLv2 and BSD
-Описание     : English (US, UK, etc.) hunspell dictionaries
+License      : LGPLv2+ and LGPLv2 and BSD
+Descript     : English (US, UK, etc.) hunspell dictionaries
 ```
 
 </details>
@@ -554,11 +554,11 @@ URL          : http://wordlist.sourceforge.net/
 <summary>hunspell-en-GB</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : UK English hunspell dictionaries
+From repo     : anaconda
+Short desc    : UK English hunspell dictionaries
 URL          : http://wordlist.sourceforge.net/
-Лицензия     : LGPLv2+ and LGPLv2 and BSD
-Описание     : UK English hunspell dictionaries
+License      : LGPLv2+ and LGPLv2 and BSD
+Descript     : UK English hunspell dictionaries
 ```
 
 </details>
@@ -567,11 +567,11 @@ URL          : http://wordlist.sourceforge.net/
 <summary>hunspell-en-US</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : US English hunspell dictionaries
+From repo     : anaconda
+Short desc    : US English hunspell dictionaries
 URL          : http://wordlist.sourceforge.net/
-Лицензия     : LGPLv2+ and LGPLv2 and BSD
-Описание     : US English hunspell dictionaries
+License      : LGPLv2+ and LGPLv2 and BSD
+Descript     : US English hunspell dictionaries
 ```
 
 </details>
@@ -580,11 +580,11 @@ URL          : http://wordlist.sourceforge.net/
 <summary>hunspell-filesystem</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Hunspell filesystem layout
+From repo     : anaconda
+Short desc    : Hunspell filesystem layout
 URL          : https://github.com/hunspell/hunspell
-Лицензия     : LGPLv2+ or GPLv2+ or MPLv1.1
-Описание     : Provides a directory in which to store dictionaries provided by other
+License      : LGPLv2+ or GPLv2+ or MPLv1.1
+Descript     : Provides a directory in which to store dictionaries provided by other
              : packages.
 ```
 
@@ -595,11 +595,11 @@ URL          : https://github.com/hunspell/hunspell
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Russian hunspell dictionaries
+From repo     : fedora
+Short desc    : Russian hunspell dictionaries
 URL          : http://scon155.phys.msu.su/eng/lebedev.html
-Лицензия     : BSD
-Описание     : Russian hunspell dictionaries.
+License      : BSD
+Descript     : Russian hunspell dictionaries.
 ```
 
 </details>
@@ -608,11 +608,11 @@ URL          : http://scon155.phys.msu.su/eng/lebedev.html
 <summary>hwdata</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Hardware identification and configuration data
+From repo     : anaconda
+Short desc    : Hardware identification and configuration data
 URL          : https://github.com/vcrhonek/hwdata
-Лицензия     : GPLv2+
-Описание     : hwdata contains various hardware identification and configuration data,
+License      : GPLv2+
+Descript     : hwdata contains various hardware identification and configuration data,
              : such as the pci.ids and usb.ids databases.
 ```
 
@@ -622,11 +622,11 @@ URL          : https://github.com/vcrhonek/hwdata
 <summary>hwdata</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Hardware identification and configuration data
+From repo     : updates-testing
+Short desc    : Hardware identification and configuration data
 URL          : https://github.com/vcrhonek/hwdata
-Лицензия     : GPLv2+
-Описание     : hwdata contains various hardware identification and configuration data,
+License      : GPLv2+
+Descript     : hwdata contains various hardware identification and configuration data,
              : such as the pci.ids and usb.ids databases.
 ```
 
@@ -636,11 +636,11 @@ URL          : https://github.com/vcrhonek/hwdata
 <summary>hwinfo</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Hardware information tool
+From repo     : fedora
+Short desc    : Hardware information tool
 URL          : https://github.com/openSUSE/hwinfo
-Лицензия     : GPL+
-Описание     : hwinfo is to probe for the hardware present in the system. It can be used to
+License      : GPL+
+Descript     : hwinfo is to probe for the hardware present in the system. It can be used to
              : generate a system overview log which can be later used for support.
 ```
 
@@ -650,11 +650,11 @@ URL          : https://github.com/openSUSE/hwinfo
 <summary>hwinfo-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Libraries for hwinfo
+From repo     : fedora
+Short desc    : Libraries for hwinfo
 URL          : https://github.com/openSUSE/hwinfo
-Лицензия     : GPL+
-Описание     : Libraries for using hwinfo, a hardware information tool, in other applications.
+License      : GPL+
+Descript     : Libraries for using hwinfo, a hardware information tool, in other applications.
 ```
 
 </details>
@@ -663,11 +663,11 @@ URL          : https://github.com/openSUSE/hwinfo
 <summary>hwloc-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Run time libraries for the hwloc
+From repo     : fedora
+Short desc    : Run time libraries for the hwloc
 URL          : http://www.open-mpi.org/projects/hwloc/
-Лицензия     : BSD
-Описание     : Run time libraries for the hwloc
+License      : BSD
+Descript     : Run time libraries for the hwloc
 ```
 
 </details>
@@ -676,11 +676,11 @@ URL          : http://www.open-mpi.org/projects/hwloc/
 <summary>hyperv-daemons</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Hyper-V daemons suite
+From repo     : anaconda
+Short desc    : Hyper-V daemons suite
 URL          : http://www.kernel.org
-Лицензия     : GPLv2
-Описание     : Suite of daemons that are needed when Linux guest
+License      : GPLv2
+Descript     : Suite of daemons that are needed when Linux guest
              : is running on Windows Host with Hyper-V.
 ```
 
@@ -690,11 +690,11 @@ URL          : http://www.kernel.org
 <summary>hyperv-daemons-license</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : License of the Hyper-V daemons suite
+From repo     : anaconda
+Short desc    : License of the Hyper-V daemons suite
 URL          : http://www.kernel.org
-Лицензия     : GPLv2
-Описание     : Contains license of the Hyper-V daemons suite.
+License      : GPLv2
+Descript     : Contains license of the Hyper-V daemons suite.
 ```
 
 </details>
@@ -703,11 +703,11 @@ URL          : http://www.kernel.org
 <summary>hypervfcopyd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Hyper-V FCOPY daemon
+From repo     : anaconda
+Short desc    : Hyper-V FCOPY daemon
 URL          : http://www.kernel.org
-Лицензия     : GPLv2
-Описание     : Hypervfcopyd is an implementation of file copy service functionality
+License      : GPLv2
+Descript     : Hypervfcopyd is an implementation of file copy service functionality
              : for Linux Guest running on Hyper-V. The daemon enables host to copy
              : a file (over VMBUS) into the Linux Guest. The daemon first registers
              : with the kernel driver. After this is done it waits for instructions
@@ -720,11 +720,11 @@ URL          : http://www.kernel.org
 <summary>hypervkvpd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Hyper-V key value pair (KVP) daemon
+From repo     : anaconda
+Short desc    : Hyper-V key value pair (KVP) daemon
 URL          : http://www.kernel.org
-Лицензия     : GPLv2
-Описание     : Hypervkvpd is an implementation of Hyper-V key value pair (KVP)
+License      : GPLv2
+Descript     : Hypervkvpd is an implementation of Hyper-V key value pair (KVP)
              : functionality for Linux. The daemon first registers with the
              : kernel driver. After this is done it collects information
              : requested by Windows Host about the Linux Guest. It also supports
@@ -737,11 +737,11 @@ URL          : http://www.kernel.org
 <summary>hypervvssd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Hyper-V VSS daemon
+From repo     : anaconda
+Short desc    : Hyper-V VSS daemon
 URL          : http://www.kernel.org
-Лицензия     : GPLv2
-Описание     : Hypervvssd is an implementation of Hyper-V VSS functionality
+License      : GPLv2
+Descript     : Hypervvssd is an implementation of Hyper-V VSS functionality
              : for Linux. The daemon is used for host initiated guest snapshot
              : on Hyper-V hypervisor. The daemon first registers with the
              : kernel driver. After this is done it waits for instructions
@@ -755,11 +755,11 @@ URL          : http://www.kernel.org
 <summary>hyphen</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A text hyphenation library
+From repo     : anaconda
+Short desc    : A text hyphenation library
 URL          : http://hunspell.sf.net
-Лицензия     : GPLv2 or LGPLv2+ or MPLv1.1
-Описание     : Hyphen is a library for high quality hyphenation and justification.
+License      : GPLv2 or LGPLv2+ or MPLv1.1
+Descript     : Hyphen is a library for high quality hyphenation and justification.
 ```
 
 </details>
@@ -768,11 +768,11 @@ URL          : http://hunspell.sf.net
 <summary>hyphen-en</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : English hyphenation rules
+From repo     : anaconda
+Short desc    : English hyphenation rules
 URL          : http://hunspell.sf.net
-Лицензия     : GPLv2 or LGPLv2+ or MPLv1.1
-Описание     : English hyphenation rules.
+License      : GPLv2 or LGPLv2+ or MPLv1.1
+Descript     : English hyphenation rules.
 ```
 
 </details>
@@ -781,11 +781,11 @@ URL          : http://hunspell.sf.net
 <summary>hyphen-ru</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Russian hyphenation rules
+From repo     : fedora
+Short desc    : Russian hyphenation rules
 URL          : https://ctan.org/tex-archive/language/hyph-utf8
-Лицензия     : LPPL
-Описание     : Russian hyphenation rules.
+License      : LPPL
+Descript     : Russian hyphenation rules.
 ```
 
 </details>

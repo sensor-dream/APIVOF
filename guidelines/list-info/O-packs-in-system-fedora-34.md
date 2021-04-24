@@ -1,14 +1,14 @@
-# For letter O, information about installed packages
+# For first letter O, information about installation packages
 
 <details>
 <summary>ORBit2</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A high-performance CORBA Object Request Broker
+From repo     : fedora
+Short desc    : A high-performance CORBA Object Request Broker
 URL          : http://www.gnome.org/projects/ORBit2
-Лицензия     : LGPLv2+ and GPLv2+
-Описание     : ORBit is a high-performance CORBA (Common Object Request Broker
+License      : LGPLv2+ and GPLv2+
+Descript     : ORBit is a high-performance CORBA (Common Object Request Broker
              : Architecture) ORB (object request broker). It allows programs to
              : send requests and receive replies from other programs, regardless
              : of the locations of the two programs. CORBA is an architecture that

@@ -1,14 +1,14 @@
-# For letter j, information about installed packages
+# For first letter j, information about installation packages
 
 <details>
 <summary>jacop</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Java Constraint Programming solver
+From repo     : fedora
+Short desc    : Java Constraint Programming solver
 URL          : http://jacop.osolpro.com/
-Лицензия     : AGPLv3 with exceptions
-Описание     : Java Constraint Programming solver, JaCoP for short, is an open-source
+License      : AGPLv3 with exceptions
+Descript     : Java Constraint Programming solver, JaCoP for short, is an open-source
              : Java library, which provides Java users with Constraint Programming
              : technology.  JaCoP has been under active development since the year
              : 2001.  Krzysztof Kuchcinski and Radoslaw Szymanek are the core
@@ -21,11 +21,11 @@ URL          : http://jacop.osolpro.com/
 <summary>jansson</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : C library for encoding, decoding and manipulating JSON data
+From repo     : anaconda
+Short desc    : C library for encoding, decoding and manipulating JSON data
 URL          : http://www.digip.org/jansson/
-Лицензия     : MIT
-Описание     : Small library for parsing and writing JSON documents.
+License      : MIT
+Descript     : Small library for parsing and writing JSON documents.
 ```
 
 </details>
@@ -34,11 +34,11 @@ URL          : http://www.digip.org/jansson/
 <summary>jasper-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Runtime libraries for jasper
+From repo     : anaconda
+Short desc    : Runtime libraries for jasper
 URL          : http://www.ece.uvic.ca/~frodo/jasper/
-Лицензия     : JasPer
-Описание     : Runtime libraries for jasper.
+License      : JasPer
+Descript     : Runtime libraries for jasper.
 ```
 
 </details>
@@ -47,11 +47,11 @@ URL          : http://www.ece.uvic.ca/~frodo/jasper/
 <summary>jasper-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Runtime libraries for jasper
+From repo     : updates-testing
+Short desc    : Runtime libraries for jasper
 URL          : http://www.ece.uvic.ca/~frodo/jasper/
-Лицензия     : JasPer
-Описание     : Runtime libraries for jasper.
+License      : JasPer
+Descript     : Runtime libraries for jasper.
 ```
 
 </details>
@@ -61,11 +61,11 @@ URL          : http://www.ece.uvic.ca/~frodo/jasper/
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : OpenJDK 11 Headless Runtime Environment
+From repo     : anaconda
+Short desc    : OpenJDK 11 Headless Runtime Environment
 URL          : http://openjdk.java.net/
-Лицензия     : ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA
-Описание     : The OpenJDK 11 runtime environment without audio and video support.
+License      : ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA
+Descript     : The OpenJDK 11 runtime environment without audio and video support.
 ```
 
 </details>
@@ -74,11 +74,11 @@ URL          : http://openjdk.java.net/
 <summary>javapackages-filesystem</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Java packages filesystem layout
+From repo     : anaconda
+Short desc    : Java packages filesystem layout
 URL          : https://github.com/fedora-java/javapackages
-Лицензия     : BSD
-Описание     : This package provides some basic directories into which Java packages
+License      : BSD
+Descript     : This package provides some basic directories into which Java packages
              : install their content.
 ```
 
@@ -88,11 +88,11 @@ URL          : https://github.com/fedora-java/javapackages
 <summary>javapackages-tools</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Macros and scripts for Java packaging support
+From repo     : fedora
+Short desc    : Macros and scripts for Java packaging support
 URL          : https://github.com/fedora-java/javapackages
-Лицензия     : BSD
-Описание     : This package provides macros and scripts to support Java packaging.
+License      : BSD
+Descript     : This package provides macros and scripts to support Java packaging.
 ```
 
 </details>
@@ -101,11 +101,11 @@ URL          : https://github.com/fedora-java/javapackages
 <summary>jbig2dec-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A decoder implementation of the JBIG2 image compression format
+From repo     : anaconda
+Short desc    : A decoder implementation of the JBIG2 image compression format
 URL          : http://jbig2dec.sourceforge.net/
-Лицензия     : AGPLv3+
-Описание     : jbig2dec is a decoder implementation of the JBIG2 image compression format.
+License      : AGPLv3+
+Descript     : jbig2dec is a decoder implementation of the JBIG2 image compression format.
              : JBIG2 is designed for lossy or lossless encoding of 'bilevel' (1-bit
              : monochrome) images at moderately high resolution, and in particular scanned
              : paper documents. In this domain it is very efficient, offering compression
@@ -120,11 +120,11 @@ URL          : http://jbig2dec.sourceforge.net/
 <summary>jbigkit-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : JBIG1 lossless image compression library
+From repo     : anaconda
+Short desc    : JBIG1 lossless image compression library
 URL          : http://www.cl.cam.ac.uk/~mgk25/jbigkit/
-Лицензия     : GPLv2+
-Описание     : JBIG-KIT provides a portable library of compression and decompression
+License      : GPLv2+
+Descript     : JBIG-KIT provides a portable library of compression and decompression
              : functions with a documented interface that you can include very easily
              : into your image or document processing software. In addition, JBIG-KIT
              : provides ready-to-use compression and decompression programs with a
@@ -144,11 +144,11 @@ URL          : http://www.cl.cam.ac.uk/~mgk25/jbigkit/
 <summary>jline-reader</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : JLine reader
+From repo     : updates-testing
+Short desc    : JLine reader
 URL          : https://github.com/jline/jline3
-Лицензия     : BSD
-Описание     : JLine is a Java library for handling console input.  It is similar in
+License      : BSD
+Descript     : JLine is a Java library for handling console input.  It is similar in
              : functionality to BSD editline and GNU readline but with additional
              : features that bring it in par with the ZSH line editor.  Those familiar
              : with the readline/editline capabilities for modern shells (such as bash
@@ -165,11 +165,11 @@ URL          : https://github.com/jline/jline3
 <summary>jline-style</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : JLine style
+From repo     : updates-testing
+Short desc    : JLine style
 URL          : https://github.com/jline/jline3
-Лицензия     : BSD
-Описание     : JLine is a Java library for handling console input.  It is similar in
+License      : BSD
+Descript     : JLine is a Java library for handling console input.  It is similar in
              : functionality to BSD editline and GNU readline but with additional
              : features that bring it in par with the ZSH line editor.  Those familiar
              : with the readline/editline capabilities for modern shells (such as bash
@@ -186,11 +186,11 @@ URL          : https://github.com/jline/jline3
 <summary>jline-terminal</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : JLine terminal
+From repo     : updates-testing
+Short desc    : JLine terminal
 URL          : https://github.com/jline/jline3
-Лицензия     : BSD
-Описание     : JLine is a Java library for handling console input.  It is similar in
+License      : BSD
+Descript     : JLine is a Java library for handling console input.  It is similar in
              : functionality to BSD editline and GNU readline but with additional
              : features that bring it in par with the ZSH line editor.  Those familiar
              : with the readline/editline capabilities for modern shells (such as bash
@@ -206,11 +206,11 @@ URL          : https://github.com/jline/jline3
 <summary>jline-terminal-jna</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : JLine terminal with JNA
+From repo     : updates-testing
+Short desc    : JLine terminal with JNA
 URL          : https://github.com/jline/jline3
-Лицензия     : BSD
-Описание     : JLine is a Java library for handling console input.  It is similar in
+License      : BSD
+Descript     : JLine is a Java library for handling console input.  It is similar in
              : functionality to BSD editline and GNU readline but with additional
              : features that bring it in par with the ZSH line editor.  Those familiar
              : with the readline/editline capabilities for modern shells (such as bash
@@ -226,11 +226,11 @@ URL          : https://github.com/jline/jline3
 <summary>jna</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Pure Java access to native libraries
+From repo     : fedora
+Short desc    : Pure Java access to native libraries
 URL          : https://github.com/java-native-access/jna/
-Лицензия     : (LGPLv2+ or ASL 2.0) and ASL 2.0
-Описание     : JNA provides Java programs easy access to native shared libraries
+License      : (LGPLv2+ or ASL 2.0) and ASL 2.0
+Descript     : JNA provides Java programs easy access to native shared libraries
              : (DLLs on Windows) without writing anything but Java code. JNA's
              : design aims to provide native access in a natural way with a
              : minimum of effort. No boilerplate or generated code is required.
@@ -244,11 +244,11 @@ URL          : https://github.com/java-native-access/jna/
 <summary>john</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : John the Ripper password cracker
+From repo     : fedora
+Short desc    : John the Ripper password cracker
 URL          : http://www.openwall.com/john
-Лицензия     : GPLv2
-Описание     : John the Ripper is a fast password cracker. Its primary purpose is to
+License      : GPLv2
+Descript     : John the Ripper is a fast password cracker. Its primary purpose is to
              : detect weak Unix passwords, but a number of other hash types are
              : supported as well.
 ```
@@ -259,10 +259,10 @@ URL          : http://www.openwall.com/john
 <summary>jomolhari-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Jomolhari a Bhutanese style font for Tibetan and Dzongkha
-Лицензия     : OFL
-Описание     : Jomolhari is an TrueType OpenType Bhutanese style font for Dzongkha and
+From repo     : anaconda
+Short desc    : Jomolhari a Bhutanese style font for Tibetan and Dzongkha
+License      : OFL
+Descript     : Jomolhari is an TrueType OpenType Bhutanese style font for Dzongkha and
              : Tibetan text. It is based on Bhutanese manuscript examples, supports the
              : Unicode and the Chinese encoding for Tibetan.
              : The font supports the standard combinations used in most texts.
@@ -274,11 +274,11 @@ URL          : http://www.openwall.com/john
 <summary>jq</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Command-line JSON processor
+From repo     : anaconda
+Short desc    : Command-line JSON processor
 URL          : http://stedolan.github.io/jq/
-Лицензия     : MIT and ASL 2.0 and CC-BY and GPLv3
-Описание     : lightweight and flexible command-line JSON processor
+License      : MIT and ASL 2.0 and CC-BY and GPLv3
+Descript     : lightweight and flexible command-line JSON processor
              : 
              :  jq is like sed for JSON data – you can use it to slice
              :  and filter and map and transform structured data with
@@ -300,11 +300,11 @@ URL          : http://stedolan.github.io/jq/
 <summary>js-backbone</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Models, Views, Collections and Events for JavaScript applications
+From repo     : fedora
+Short desc    : Models, Views, Collections and Events for JavaScript applications
 URL          : http://backbonejs.org/
-Лицензия     : MIT
-Описание     : Backbone supplies structure to JavaScript-heavy applications by providing
+License      : MIT
+Descript     : Backbone supplies structure to JavaScript-heavy applications by providing
              : models key-value binding and custom events, collections with a rich API of
              : enumerable functions, views with declarative event handling, and connects it
              : all to your existing application over a RESTful JSON interface.
@@ -316,11 +316,11 @@ URL          : http://backbonejs.org/
 <summary>js-jquery</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : JavaScript DOM manipulation, event handling, and AJAX library
+From repo     : anaconda
+Short desc    : JavaScript DOM manipulation, event handling, and AJAX library
 URL          : https://jquery.com/
-Лицензия     : MIT
-Описание     : jQuery is a fast, small, and feature-rich JavaScript library. It makes things
+License      : MIT
+Descript     : jQuery is a fast, small, and feature-rich JavaScript library. It makes things
              : like HTML document traversal and manipulation, event handling, animation, and
              : Ajax much simpler with an easy-to-use API that works across a multitude of
              : browsers. With a combination of versatility and extensibility, jQuery has
@@ -333,11 +333,11 @@ URL          : https://jquery.com/
 <summary>js-marked</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Minified markdown parser for JavaScript built for speed
+From repo     : fedora
+Short desc    : Minified markdown parser for JavaScript built for speed
 URL          : https://github.com/markedjs/marked
-Лицензия     : MIT
-Описание     : Install this for the minified web assests for nodejs-marked.
+License      : MIT
+Descript     : Install this for the minified web assests for nodejs-marked.
              : 
              : marked is a full-featured markdown compiler that can parse huge chunks of
              : markdown without having to worry about caching the compiled output or
@@ -358,11 +358,11 @@ URL          : https://github.com/markedjs/marked
 <summary>js-underscore</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : JavaScript's functional programming helper library
+From repo     : fedora
+Short desc    : JavaScript's functional programming helper library
 URL          : http://underscorejs.org/
-Лицензия     : MIT
-Описание     : Underscore.js is a utility-belt library for JavaScript that provides support
+License      : MIT
+Descript     : Underscore.js is a utility-belt library for JavaScript that provides support
              : for the usual functional suspects (each, map, reduce, filter...) without
              : extending any core JavaScript objects.
 ```
@@ -373,11 +373,11 @@ URL          : http://underscorejs.org/
 <summary>json-c</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : JSON implementation in C
+From repo     : anaconda
+Short desc    : JSON implementation in C
 URL          : https://github.com/json-c/json-c
-Лицензия     : MIT
-Описание     : JSON-C implements a reference counting object model that allows you
+License      : MIT
+Descript     : JSON-C implements a reference counting object model that allows you
              : to easily construct JSON objects in C, output them as JSON formatted
              : strings and parse JSON formatted strings back into the C representation
              : of JSON objects.  It aims to conform to RFC 7159.
@@ -389,11 +389,11 @@ URL          : https://github.com/json-c/json-c
 <summary>json-glib</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library for JavaScript Object Notation format
+From repo     : anaconda
+Short desc    : Library for JavaScript Object Notation format
 URL          : https://wiki.gnome.org/Projects/JsonGlib
-Лицензия     : LGPLv2+
-Описание     : json-glib is a library providing serialization and deserialization support
+License      : LGPLv2+
+Descript     : json-glib is a library providing serialization and deserialization support
              : for the JavaScript Object Notation (JSON) format.
 ```
 
@@ -403,11 +403,11 @@ URL          : https://wiki.gnome.org/Projects/JsonGlib
 <summary>json-glib-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development files for json-glib
+From repo     : fedora
+Short desc    : Development files for json-glib
 URL          : https://wiki.gnome.org/Projects/JsonGlib
-Лицензия     : LGPLv2+
-Описание     : The json-glib-devel package contains libraries and header files for
+License      : LGPLv2+
+Descript     : The json-glib-devel package contains libraries and header files for
              : developing applications that use json-glib.
 ```
 
@@ -417,11 +417,11 @@ URL          : https://wiki.gnome.org/Projects/JsonGlib
 <summary>jsoncpp</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : JSON library implemented in C++
+From repo     : fedora
+Short desc    : JSON library implemented in C++
 URL          : https://github.com/open-source-parsers/jsoncpp
-Лицензия     : Public Domain or MIT
-Описание     : jsoncpp is an implementation of a JSON (http://json.org) reader and writer in
+License      : Public Domain or MIT
+Descript     : jsoncpp is an implementation of a JSON (http://json.org) reader and writer in
              : C++. JSON (JavaScript Object Notation) is a lightweight data-interchange format.
              : It is easy for humans to read and write. It is easy for machines to parse and
              : generate.
@@ -433,11 +433,11 @@ URL          : https://github.com/open-source-parsers/jsoncpp
 <summary>jsonrpc-glib</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A JSON-RPC library for GLib
+From repo     : fedora
+Short desc    : A JSON-RPC library for GLib
 URL          : https://git.gnome.org/browse/jsonrpc-glib/
-Лицензия     : LGPLv2+
-Описание     : Jsonrpc-GLib is a JSON-RPC library for GLib. It includes support for
+License      : LGPLv2+
+Descript     : Jsonrpc-GLib is a JSON-RPC library for GLib. It includes support for
              : communicating as both a JSON-RPC client and server. Additionally,
              : supports upgrading connections to use GVariant for less runtime overhead.
 ```
@@ -449,11 +449,11 @@ URL          : https://git.gnome.org/browse/jsonrpc-glib/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Web fonts version of the Montserrat area inspired typeface
+From repo     : updates-testing
+Short desc    : Web fonts version of the Montserrat area inspired typeface
 URL          : https://github.com/JulietaUla/Montserrat
-Лицензия     : OFL
-Описание     : 
+License      : OFL
+Descript     : 
              : A typeface inspired by signs around the Montserrat area
              : of Buenos Aires, Argentina.
              : This package include essential web fonts.
@@ -466,11 +466,11 @@ URL          : https://github.com/JulietaUla/Montserrat
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Sans-serif typeface inspired from Montserrat area
+From repo     : updates-testing
+Short desc    : Sans-serif typeface inspired from Montserrat area
 URL          : https://github.com/JulietaUla/Montserrat
-Лицензия     : OFL
-Описание     : 
+License      : OFL
+Descript     : 
              : A typeface inspired by signs around the Montserrat area
              : of Buenos Aires, Argentina.
 ```
@@ -482,11 +482,11 @@ URL          : https://github.com/JulietaUla/Montserrat
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Common files for julietaula-montserrat-fonts
+From repo     : updates-testing
+Short desc    : Common files for julietaula-montserrat-fonts
 URL          : https://github.com/JulietaUla/Montserrat
-Лицензия     : OFL
-Описание     : 
+License      : OFL
+Descript     : 
              : A typeface inspired by signs around the Montserrat area
              : of Buenos Aires, Argentina.
              : This package consists of files used by other julietaula-montserrat-fonts packages.
@@ -498,11 +498,11 @@ URL          : https://github.com/JulietaUla/Montserrat
 <summary>jwhois</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Internet whois/nicname client
+From repo     : anaconda
+Short desc    : Internet whois/nicname client
 URL          : http://www.gnu.org/software/jwhois/
-Лицензия     : GPLv3
-Описание     : A whois client that accepts both traditional and finger-style queries.
+License      : GPLv3
+Descript     : A whois client that accepts both traditional and finger-style queries.
 ```
 
 </details>
@@ -511,11 +511,11 @@ URL          : http://www.gnu.org/software/jwhois/
 <summary>jxrlib</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Open source implementation of jpegxr
+From repo     : fedora
+Short desc    : Open source implementation of jpegxr
 URL          : https://jxrlib.codeplex.com/
-Лицензия     : BSD
-Описание     : This is an open source implementation of the jpegxr image format standard.
+License      : BSD
+Descript     : This is an open source implementation of the jpegxr image format standard.
 ```
 
 </details>

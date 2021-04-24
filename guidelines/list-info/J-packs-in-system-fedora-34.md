@@ -1,14 +1,14 @@
-# For letter J, information about installed packages
+# For first letter J, information about installation packages
 
 <details>
 <summary>Judy</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : General purpose dynamic array
+From repo     : fedora
+Short desc    : General purpose dynamic array
 URL          : http://sourceforge.net/projects/judy/
-Лицензия     : LGPLv2+
-Описание     : Judy is a C library that provides a state-of-the-art core technology that
+License      : LGPLv2+
+Descript     : Judy is a C library that provides a state-of-the-art core technology that
              : implements a sparse dynamic array. Judy arrays are declared simply with a null
              : pointer. A Judy array consumes memory only when it is populated, yet can grow
              : to take advantage of all available memory if desired. Judy's key benefits are

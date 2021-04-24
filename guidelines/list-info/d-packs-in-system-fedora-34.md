@@ -1,14 +1,14 @@
-# For letter d, information about installed packages
+# For first letter d, information about installation packages
 
 <details>
 <summary>d-feet</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A powerful D-Bus Debugger
+From repo     : fedora
+Short desc    : A powerful D-Bus Debugger
 URL          : https://wiki.gnome.org/Apps/DFeet
-Лицензия     : GPLv2+
-Описание     : D-Feet is an easy to use D-Bus debugger.
+License      : GPLv2+
+Descript     : D-Feet is an easy to use D-Bus debugger.
              : 
              : D-Bus is an RPC library used on the Desktop.  D-Feet can be used to inspect
              : D-Bus objects of running programs and invoke methods on those objects.
@@ -20,11 +20,11 @@ URL          : https://wiki.gnome.org/Apps/DFeet
 <summary>darkstat</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Network traffic analyzer
+From repo     : fedora
+Short desc    : Network traffic analyzer
 URL          : http://unix4lyfe.org/darkstat/
-Лицензия     : GPLv2
-Описание     : darkstat is a network traffic analyzer. It's basically a packet sniffer
+License      : GPLv2
+Descript     : darkstat is a network traffic analyzer. It's basically a packet sniffer
              : which runs as a background process on a cable/DSL router and gathers
              : all sorts of useless but interesting statistics.
 ```
@@ -35,11 +35,11 @@ URL          : http://unix4lyfe.org/darkstat/
 <summary>daxctl-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Management library for "Device DAX" devices
+From repo     : anaconda
+Short desc    : Management library for "Device DAX" devices
 URL          : https://github.com/pmem/ndctl
-Лицензия     : LGPLv2
-Описание     : Device DAX is a facility for establishing DAX mappings of performance /
+License      : LGPLv2
+Descript     : Device DAX is a facility for establishing DAX mappings of performance /
              : feature-differentiated memory. daxctl-libs provides an enumeration /
              : control API for these devices.
 ```
@@ -51,11 +51,11 @@ URL          : https://github.com/pmem/ndctl
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : D-BUS message bus
+From repo     : anaconda
+Short desc    : D-BUS message bus
 URL          : http://www.freedesktop.org/Software/dbus/
-Лицензия     : (GPLv2+ or AFL) and GPLv2+
-Описание     : D-BUS is a system for sending messages between applications. It is
+License      : (GPLv2+ or AFL) and GPLv2+
+Descript     : D-BUS is a system for sending messages between applications. It is
              : used both for the system-wide message bus service, and as a
              : per-user-login-session messaging facility.
 ```
@@ -66,11 +66,11 @@ URL          : http://www.freedesktop.org/Software/dbus/
 <summary>dbus-broker</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Linux D-Bus Message Broker
+From repo     : updates-testing
+Short desc    : Linux D-Bus Message Broker
 URL          : https://github.com/bus1/dbus-broker
-Лицензия     : ASL 2.0
-Описание     : dbus-broker is an implementation of a message bus as defined by the D-Bus
+License      : ASL 2.0
+Descript     : dbus-broker is an implementation of a message bus as defined by the D-Bus
              : specification. Its aim is to provide high performance and reliability, while
              : keeping compatibility to the D-Bus reference implementation. It is exclusively
              : written for Linux systems, and makes use of many modern features provided by
@@ -84,11 +84,11 @@ URL          : https://github.com/bus1/dbus-broker
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : D-BUS message bus configuration
+From repo     : anaconda
+Short desc    : D-BUS message bus configuration
 URL          : http://www.freedesktop.org/Software/dbus/
-Лицензия     : (GPLv2+ or AFL) and GPLv2+
-Описание     : The dbus-common package provides the configuration and setup files for D-Bus
+License      : (GPLv2+ or AFL) and GPLv2+
+Descript     : The dbus-common package provides the configuration and setup files for D-Bus
              : implementations to provide a System and User Message Bus.
 ```
 
@@ -99,11 +99,11 @@ URL          : http://www.freedesktop.org/Software/dbus/
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : D-BUS message bus
+From repo     : anaconda
+Short desc    : D-BUS message bus
 URL          : http://www.freedesktop.org/Software/dbus/
-Лицензия     : (GPLv2+ or AFL) and GPLv2+
-Описание     : D-BUS is a system for sending messages between applications. It is
+License      : (GPLv2+ or AFL) and GPLv2+
+Descript     : D-BUS is a system for sending messages between applications. It is
              : used both for the system-wide message bus service, and as a
              : per-user-login-session messaging facility.
 ```
@@ -114,11 +114,11 @@ URL          : http://www.freedesktop.org/Software/dbus/
 <summary>dbus-glib</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GLib bindings for D-Bus
+From repo     : anaconda
+Short desc    : GLib bindings for D-Bus
 URL          : http://www.freedesktop.org/software/dbus/
-Лицензия     : AFL and GPLv2+
-Описание     : 
+License      : AFL and GPLv2+
+Descript     : 
              : D-Bus add-on library to integrate the standard D-Bus library with
              : the GLib thread abstraction and main loop.
 ```
@@ -130,11 +130,11 @@ URL          : http://www.freedesktop.org/software/dbus/
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Libraries for accessing D-BUS
+From repo     : anaconda
+Short desc    : Libraries for accessing D-BUS
 URL          : http://www.freedesktop.org/Software/dbus/
-Лицензия     : (GPLv2+ or AFL) and GPLv2+
-Описание     : This package contains lowlevel libraries for accessing D-BUS.
+License      : (GPLv2+ or AFL) and GPLv2+
+Descript     : This package contains lowlevel libraries for accessing D-BUS.
 ```
 
 </details>
@@ -144,11 +144,11 @@ URL          : http://www.freedesktop.org/Software/dbus/
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : D-BUS Tools and Utilities
+From repo     : anaconda
+Short desc    : D-BUS Tools and Utilities
 URL          : http://www.freedesktop.org/Software/dbus/
-Лицензия     : (GPLv2+ or AFL) and GPLv2+
-Описание     : Tools and utilities to interact with a running D-Bus Message Bus, provided by
+License      : (GPLv2+ or AFL) and GPLv2+
+Descript     : Tools and utilities to interact with a running D-Bus Message Bus, provided by
              : the reference implementation.
 ```
 
@@ -159,11 +159,11 @@ URL          : http://www.freedesktop.org/Software/dbus/
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : X11-requiring add-ons for D-BUS
+From repo     : anaconda
+Short desc    : X11-requiring add-ons for D-BUS
 URL          : http://www.freedesktop.org/Software/dbus/
-Лицензия     : (GPLv2+ or AFL) and GPLv2+
-Описание     : D-BUS contains some tools that require Xlib to be installed, those are
+License      : (GPLv2+ or AFL) and GPLv2+
+Descript     : D-BUS contains some tools that require Xlib to be installed, those are
              : in this separate package so server systems need not install X.
 ```
 
@@ -173,11 +173,11 @@ URL          : http://www.freedesktop.org/Software/dbus/
 <summary>dbusmenu-qt</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A Qt implementation of the DBusMenu protocol
+From repo     : fedora
+Short desc    : A Qt implementation of the DBusMenu protocol
 URL          : https://launchpad.net/libdbusmenu-qt/
-Лицензия     : LGPLv2+
-Описание     : This library provides a Qt implementation of the DBusMenu protocol.
+License      : LGPLv2+
+Descript     : This library provides a Qt implementation of the DBusMenu protocol.
              : 
              : The DBusMenu protocol makes it possible for applications to export and import
              : their menus over DBus.
@@ -189,11 +189,11 @@ URL          : https://launchpad.net/libdbusmenu-qt/
 <summary>dbusmenu-qt5</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A Qt implementation of the DBusMenu protocol
+From repo     : fedora
+Short desc    : A Qt implementation of the DBusMenu protocol
 URL          : https://launchpad.net/libdbusmenu-qt/
-Лицензия     : LGPLv2+
-Описание     : This library provides a Qt5 implementation of the DBusMenu protocol.
+License      : LGPLv2+
+Descript     : This library provides a Qt5 implementation of the DBusMenu protocol.
              : 
              : The DBusMenu protocol makes it possible for applications to export and import
              : their menus over DBus.
@@ -205,11 +205,11 @@ URL          : https://launchpad.net/libdbusmenu-qt/
 <summary>dconf</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A configuration system
+From repo     : anaconda
+Short desc    : A configuration system
 URL          : https://wiki.gnome.org/Projects/dconf
-Лицензия     : LGPLv2+ and GPLv2+ and GPLv3+
-Описание     : dconf is a low-level configuration system. Its main purpose is to provide a
+License      : LGPLv2+ and GPLv2+ and GPLv3+
+Descript     : dconf is a low-level configuration system. Its main purpose is to provide a
              : backend to the GSettings API in GLib.
 ```
 
@@ -219,11 +219,11 @@ URL          : https://wiki.gnome.org/Projects/dconf
 <summary>dconf</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A configuration system
+From repo     : updates-testing
+Short desc    : A configuration system
 URL          : https://wiki.gnome.org/Projects/dconf
-Лицензия     : LGPLv2+ and GPLv2+ and GPLv3+
-Описание     : dconf is a low-level configuration system. Its main purpose is to provide a
+License      : LGPLv2+ and GPLv2+ and GPLv3+
+Descript     : dconf is a low-level configuration system. Its main purpose is to provide a
              : backend to the GSettings API in GLib.
 ```
 
@@ -233,11 +233,11 @@ URL          : https://wiki.gnome.org/Projects/dconf
 <summary>dconf-editor</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Configuration editor for dconf
+From repo     : updates-testing
+Short desc    : Configuration editor for dconf
 URL          : https://wiki.gnome.org/Projects/dconf
-Лицензия     : GPLv3+ and CC0
-Описание     : Graphical tool for editing the dconf configuration database.
+License      : GPLv3+ and CC0
+Descript     : Graphical tool for editing the dconf configuration database.
 ```
 
 </details>
@@ -246,11 +246,11 @@ URL          : https://wiki.gnome.org/Projects/dconf
 <summary>dejavu-sans-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : DejaVu Sans, a variable-width sans-serif font family
+From repo     : anaconda
+Short desc    : DejaVu Sans, a variable-width sans-serif font family
 URL          : https://dejavu-fonts.github.io/
-Лицензия     : Bitstream Vera and Public Domain
-Описание     : 
+License      : Bitstream Vera and Public Domain
+Descript     : 
              : The DejaVu font set is based on the “Bitstream Vera” fonts, release 1.10. Its
              : purpose is to provide a wider range of characters, while maintaining the
              : original style, using an open collaborative development process.
@@ -265,11 +265,11 @@ URL          : https://dejavu-fonts.github.io/
 <summary>dejavu-sans-mono-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : DejaVu Sans Mono, a mono-space sans-serif font family
+From repo     : anaconda
+Short desc    : DejaVu Sans Mono, a mono-space sans-serif font family
 URL          : https://dejavu-fonts.github.io/
-Лицензия     : Bitstream Vera and Public Domain
-Описание     : 
+License      : Bitstream Vera and Public Domain
+Descript     : 
              : The DejaVu font set is based on the “Bitstream Vera” fonts, release 1.10. Its
              : purpose is to provide a wider range of characters, while maintaining the
              : original style, using an open collaborative development process.
@@ -284,11 +284,11 @@ URL          : https://dejavu-fonts.github.io/
 <summary>dejavu-serif-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : DejaVu Serif, a variable-width serif font family
+From repo     : anaconda
+Short desc    : DejaVu Serif, a variable-width serif font family
 URL          : https://dejavu-fonts.github.io/
-Лицензия     : Bitstream Vera and Public Domain
-Описание     : 
+License      : Bitstream Vera and Public Domain
+Descript     : 
              : The DejaVu font set is based on the “Bitstream Vera” fonts, release 1.10. Its
              : purpose is to provide a wider range of characters, while maintaining the
              : original style, using an open collaborative development process.
@@ -306,11 +306,11 @@ URL          : https://dejavu-fonts.github.io/
 <summary>deltarpm</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Create deltas between rpms
+From repo     : anaconda
+Short desc    : Create deltas between rpms
 URL          : https://github.com/rpm-software-management/deltarpm
-Лицензия     : BSD
-Описание     : A deltarpm contains the difference between an old
+License      : BSD
+Descript     : A deltarpm contains the difference between an old
              : and a new version of a rpm, which makes it possible
              : to recreate the new rpm from the deltarpm and the old
              : one. You don't have to have a copy of the old rpm,
@@ -323,10 +323,10 @@ URL          : https://github.com/rpm-software-management/deltarpm
 <summary>desktop-backgrounds-compat</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : The default Fedora wallpaper for less common DEs
-Лицензия     : CC-BY-SA
-Описание     : The desktop-backgrounds-compat package contains file-names used
+From repo     : fedora
+Short desc    : The default Fedora wallpaper for less common DEs
+License      : CC-BY-SA
+Descript     : The desktop-backgrounds-compat package contains file-names used
              : by less common Desktop Environments such as LXDE to set up the
              : default wallpaper.
 ```
@@ -337,10 +337,10 @@ URL          : https://github.com/rpm-software-management/deltarpm
 <summary>desktop-backgrounds-gnome</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The default Fedora wallpaper from GNOME desktop
-Лицензия     : CC-BY-SA
-Описание     : The desktop-backgrounds-gnome package sets default background in gnome.
+From repo     : updates-testing
+Short desc    : The default Fedora wallpaper from GNOME desktop
+License      : CC-BY-SA
+Descript     : The desktop-backgrounds-gnome package sets default background in gnome.
 ```
 
 </details>
@@ -349,11 +349,11 @@ URL          : https://github.com/rpm-software-management/deltarpm
 <summary>desktop-file-utils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utilities for manipulating .desktop files
+From repo     : anaconda
+Short desc    : Utilities for manipulating .desktop files
 URL          : https://www.freedesktop.org/software/desktop-file-utils
-Лицензия     : GPLv2+
-Описание     : .desktop files are used to describe an application for inclusion in
+License      : GPLv2+
+Descript     : .desktop files are used to describe an application for inclusion in
              : GNOME or KDE menus.  This package contains desktop-file-validate which
              : checks whether a .desktop file complies with the specification at
              : http://www.freedesktop.org/standards/, and desktop-file-install
@@ -368,11 +368,11 @@ URL          : https://www.freedesktop.org/software/desktop-file-utils
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : API documentation browser
+From repo     : fedora
+Short desc    : API documentation browser
 URL          : https://wiki.gnome.org/Apps/Devhelp
-Лицензия     : GPLv2+ and LGPL2+
-Описание     : Devhelp is an API documentation browser for the GNOME desktop.
+License      : GPLv2+ and LGPL2+
+Descript     : Devhelp is an API documentation browser for the GNOME desktop.
              : It works natively with API documentation generated by gtk-doc.
 ```
 
@@ -383,11 +383,11 @@ URL          : https://wiki.gnome.org/Apps/Devhelp
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Library to embed Devhelp in other applications
+From repo     : fedora
+Short desc    : Library to embed Devhelp in other applications
 URL          : https://wiki.gnome.org/Apps/Devhelp
-Лицензия     : GPLv2+ and LGPL2+
-Описание     : Devhelp is an API documentation browser for the GNOME desktop.
+License      : GPLv2+ and LGPL2+
+Descript     : Devhelp is an API documentation browser for the GNOME desktop.
              : This package contains a library that can be used for embedding devhelp
              : into other applications such as IDEs.
 ```
@@ -398,11 +398,11 @@ URL          : https://wiki.gnome.org/Apps/Devhelp
 <summary>device-mapper</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Device mapper utility
+From repo     : anaconda
+Short desc    : Device mapper utility
 URL          : http://sources.redhat.com/dm
-Лицензия     : GPLv2
-Описание     : This package contains the supporting userspace utility, dmsetup,
+License      : GPLv2
+Descript     : This package contains the supporting userspace utility, dmsetup,
              : for the kernel device-mapper.
 ```
 
@@ -412,11 +412,11 @@ URL          : http://sources.redhat.com/dm
 <summary>device-mapper-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development libraries and headers for device-mapper
+From repo     : fedora
+Short desc    : Development libraries and headers for device-mapper
 URL          : http://sourceware.org/lvm2
-Лицензия     : LGPLv2
-Описание     : This package contains files needed to develop applications that use
+License      : LGPLv2
+Descript     : This package contains files needed to develop applications that use
              : the device-mapper libraries.
 ```
 
@@ -426,11 +426,11 @@ URL          : http://sourceware.org/lvm2
 <summary>device-mapper-event</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Device-mapper event daemon
+From repo     : anaconda
+Short desc    : Device-mapper event daemon
 URL          : http://sourceware.org/lvm2
-Лицензия     : GPLv2
-Описание     : This package contains the dmeventd daemon for monitoring the state
+License      : GPLv2
+Descript     : This package contains the dmeventd daemon for monitoring the state
              : of device-mapper devices.
 ```
 
@@ -440,11 +440,11 @@ URL          : http://sourceware.org/lvm2
 <summary>device-mapper-event-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development libraries and headers for the device-mapper event daemon
+From repo     : fedora
+Short desc    : Development libraries and headers for the device-mapper event daemon
 URL          : http://sourceware.org/lvm2
-Лицензия     : LGPLv2
-Описание     : This package contains files needed to develop applications that use
+License      : LGPLv2
+Descript     : This package contains files needed to develop applications that use
              : the device-mapper event library.
 ```
 
@@ -454,11 +454,11 @@ URL          : http://sourceware.org/lvm2
 <summary>device-mapper-event-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Device-mapper event daemon shared library
+From repo     : anaconda
+Short desc    : Device-mapper event daemon shared library
 URL          : http://sourceware.org/lvm2
-Лицензия     : LGPLv2
-Описание     : This package contains the device-mapper event daemon shared library,
+License      : LGPLv2
+Descript     : This package contains the device-mapper event daemon shared library,
              : libdevmapper-event.
 ```
 
@@ -468,11 +468,11 @@ URL          : http://sourceware.org/lvm2
 <summary>device-mapper-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Device-mapper shared library
+From repo     : anaconda
+Short desc    : Device-mapper shared library
 URL          : http://sourceware.org/lvm2
-Лицензия     : LGPLv2
-Описание     : This package contains the device-mapper shared library, libdevmapper.
+License      : LGPLv2
+Descript     : This package contains the device-mapper shared library, libdevmapper.
 ```
 
 </details>
@@ -481,11 +481,11 @@ URL          : http://sourceware.org/lvm2
 <summary>device-mapper-multipath</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Tools to manage multipath devices using device-mapper
+From repo     : fedora
+Short desc    : Tools to manage multipath devices using device-mapper
 URL          : http://christophe.varoqui.free.fr/
-Лицензия     : GPLv2
-Описание     : device-mapper-multipath provides tools to manage multipath devices by
+License      : GPLv2
+Descript     : device-mapper-multipath provides tools to manage multipath devices by
              : instructing the device-mapper multipath kernel module what to do.
              : The tools are :
              : * multipath - Scan the system for multipath devices and assemble them.
@@ -498,11 +498,11 @@ URL          : http://christophe.varoqui.free.fr/
 <summary>device-mapper-multipath-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development libraries and headers for device-mapper-multipath
+From repo     : fedora
+Short desc    : Development libraries and headers for device-mapper-multipath
 URL          : http://christophe.varoqui.free.fr/
-Лицензия     : GPLv2
-Описание     : This package contains the files need to develop applications that use
+License      : GPLv2
+Descript     : This package contains the files need to develop applications that use
              : device-mapper-multipath's lbmpathpersist and libmpathcmd libraries.
 ```
 
@@ -512,11 +512,11 @@ URL          : http://christophe.varoqui.free.fr/
 <summary>device-mapper-multipath-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The device-mapper-multipath modules and shared library
+From repo     : anaconda
+Short desc    : The device-mapper-multipath modules and shared library
 URL          : http://christophe.varoqui.free.fr/
-Лицензия     : GPLv2 and LGPLv2+
-Описание     : The device-mapper-multipath-libs provides the path checker
+License      : GPLv2 and LGPLv2+
+Descript     : The device-mapper-multipath-libs provides the path checker
              : and prioritizer modules. It also contains the libmpathpersist and
              : libmpathcmd shared libraries, as well as multipath's internal library,
              : libmultipath.
@@ -528,11 +528,11 @@ URL          : http://christophe.varoqui.free.fr/
 <summary>device-mapper-persistent-data</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Device-mapper Persistent Data Tools
+From repo     : anaconda
+Short desc    : Device-mapper Persistent Data Tools
 URL          : https://github.com/jthornber/thin-provisioning-tools
-Лицензия     : GPLv3+
-Описание     : thin-provisioning-tools contains check,dump,restore,repair,rmap
+License      : GPLv3+
+Descript     : thin-provisioning-tools contains check,dump,restore,repair,rmap
              : and metadata_size tools to manage device-mapper thin provisioning
              : target metadata devices; cache check,dump,metadata_size,restore
              : and repair tools to manage device-mapper cache metadata devices
@@ -547,11 +547,11 @@ URL          : https://github.com/jthornber/thin-provisioning-tools
 
 ```
 Эпоха        : 12
-Из репозитор : anaconda
-Краткое опис : Provides the ISC DHCP client daemon and dhclient-script
+From repo     : anaconda
+Short desc    : Provides the ISC DHCP client daemon and dhclient-script
 URL          : https://www.isc.org/dhcp/
-Лицензия     : ISC
-Описание     : DHCP (Dynamic Host Configuration Protocol) is a protocol which allows
+License      : ISC
+Descript     : DHCP (Dynamic Host Configuration Protocol) is a protocol which allows
              : individual devices on an IP network to get their own network
              : configuration information (IP address, subnetmask, broadcast address,
              : etc.) from a DHCP server. The overall purpose of DHCP is to make it
@@ -567,11 +567,11 @@ URL          : https://www.isc.org/dhcp/
 
 ```
 Эпоха        : 12
-Из репозитор : anaconda
-Краткое опис : Common files used by ISC dhcp client, server and relay agent
+From repo     : anaconda
+Short desc    : Common files used by ISC dhcp client, server and relay agent
 URL          : https://www.isc.org/dhcp/
-Лицензия     : ISC
-Описание     : DHCP (Dynamic Host Configuration Protocol) is a protocol which allows
+License      : ISC
+Descript     : DHCP (Dynamic Host Configuration Protocol) is a protocol which allows
              : individual devices on an IP network to get their own network
              : configuration information (IP address, subnetmask, broadcast address,
              : etc.) from a DHCP server. The overall purpose of DHCP is to make it
@@ -586,11 +586,11 @@ URL          : https://www.isc.org/dhcp/
 <summary>diffutils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GNU collection of diff utilities
+From repo     : anaconda
+Short desc    : GNU collection of diff utilities
 URL          : https://www.gnu.org/software/diffutils/diffutils.html
-Лицензия     : GPLv3+
-Описание     : Diffutils includes four utilities: diff, cmp, diff3 and sdiff. Diff
+License      : GPLv3+
+Descript     : Diffutils includes four utilities: diff, cmp, diff3 and sdiff. Diff
              : compares two files and shows the differences, line by line.  The cmp
              : command shows the offset and line numbers where two files differ, or
              : cmp can show the characters that differ between the two files.  The
@@ -609,11 +609,11 @@ URL          : https://www.gnu.org/software/diffutils/diffutils.html
 <summary>dislocker-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Libraries for applications using dislocker
+From repo     : fedora
+Short desc    : Libraries for applications using dislocker
 URL          : https://github.com/Aorimn/dislocker
-Лицензия     : GPLv2+
-Описание     : The dislocker-libs package provides the essential shared libraries for any
+License      : GPLv2+
+Descript     : The dislocker-libs package provides the essential shared libraries for any
              : dislocker client program or interface.
 ```
 
@@ -623,11 +623,11 @@ URL          : https://github.com/Aorimn/dislocker
 <summary>distribution-gpg-keys</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GPG keys of various Linux distributions
+From repo     : updates-testing
+Short desc    : GPG keys of various Linux distributions
 URL          : https://github.com/xsuchy/distribution-gpg-keys
-Лицензия     : CC0
-Описание     : GPG keys used by various Linux distributions to sign packages.
+License      : CC0
+Descript     : GPG keys used by various Linux distributions to sign packages.
 ```
 
 </details>
@@ -636,11 +636,11 @@ URL          : https://github.com/xsuchy/distribution-gpg-keys
 <summary>djvulibre-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library files for DjVuLibre
+From repo     : anaconda
+Short desc    : Library files for DjVuLibre
 URL          : http://djvu.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : Library files for DjVuLibre.
+License      : GPLv2+
+Descript     : Library files for DjVuLibre.
 ```
 
 </details>
@@ -649,11 +649,11 @@ URL          : http://djvu.sourceforge.net/
 <summary>dkms</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Dynamic Kernel Module Support Framework
+From repo     : fedora
+Short desc    : Dynamic Kernel Module Support Framework
 URL          : http://linux.dell.com/dkms
-Лицензия     : GPLv2+
-Описание     : This package contains the framework for the Dynamic Kernel Module Support (DKMS)
+License      : GPLv2+
+Descript     : This package contains the framework for the Dynamic Kernel Module Support (DKMS)
              : method for installing module RPMS as originally developed by Dell.
 ```
 
@@ -663,11 +663,11 @@ URL          : http://linux.dell.com/dkms
 <summary>dleyna-connector-dbus</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : D-Bus connector for dLeyna services
+From repo     : anaconda
+Short desc    : D-Bus connector for dLeyna services
 URL          : https://01.org/dleyna/
-Лицензия     : LGPLv2
-Описание     : D-Bus connector for dLeyna services.
+License      : LGPLv2
+Descript     : D-Bus connector for dLeyna services.
 ```
 
 </details>
@@ -676,11 +676,11 @@ URL          : https://01.org/dleyna/
 <summary>dleyna-core</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utilities for higher level dLeyna libraries
+From repo     : anaconda
+Short desc    : Utilities for higher level dLeyna libraries
 URL          : https://01.org/dleyna/
-Лицензия     : LGPLv2
-Описание     : A set of utility functions that are used by the higher level dLeyna libraries
+License      : LGPLv2
+Descript     : A set of utility functions that are used by the higher level dLeyna libraries
              : to communicate with DLNA devices. It provides APIs for logging, error, settings
              : and task management, and an IPC abstraction.
 ```
@@ -691,11 +691,11 @@ URL          : https://01.org/dleyna/
 <summary>dleyna-renderer</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Service for interacting with Digital Media Renderers
+From repo     : anaconda
+Short desc    : Service for interacting with Digital Media Renderers
 URL          : https://01.org/dleyna/
-Лицензия     : LGPLv2
-Описание     : D-Bus service for clients to discover and manipulate DLNA Digital Media
+License      : LGPLv2
+Descript     : D-Bus service for clients to discover and manipulate DLNA Digital Media
              : Renderers (DMRs).
 ```
 
@@ -705,11 +705,11 @@ URL          : https://01.org/dleyna/
 <summary>dleyna-server</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Service for interacting with Digital Media Servers
+From repo     : anaconda
+Short desc    : Service for interacting with Digital Media Servers
 URL          : https://01.org/dleyna/
-Лицензия     : LGPLv2
-Описание     : D-Bus service for clients to discover and manipulate DLNA Digital Media
+License      : LGPLv2
+Descript     : D-Bus service for clients to discover and manipulate DLNA Digital Media
              : Servers (DMSes).
 ```
 
@@ -719,11 +719,11 @@ URL          : https://01.org/dleyna/
 <summary>dmenu</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Generic menu for X
+From repo     : fedora
+Short desc    : Generic menu for X
 URL          : http://tools.suckless.org/dmenu
-Лицензия     : MIT
-Описание     : Dynamic menu is a generic menu for X, originally designed for dwm. It manages
+License      : MIT
+Descript     : Dynamic menu is a generic menu for X, originally designed for dwm. It manages
              : huge amounts (up to 10.000 and more) of user defined menu items efficiently.
 ```
 
@@ -734,11 +734,11 @@ URL          : http://tools.suckless.org/dmenu
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Tool to analyse BIOS DMI data
+From repo     : anaconda
+Short desc    : Tool to analyse BIOS DMI data
 URL          : https://www.nongnu.org/dmidecode/
-Лицензия     : GPLv2+
-Описание     : dmidecode reports information about x86 & ia64 hardware as described in the
+License      : GPLv2+
+Descript     : dmidecode reports information about x86 & ia64 hardware as described in the
              : system BIOS according to the SMBIOS/DMI standard. This information
              : typically includes system manufacturer, model name, serial number,
              : BIOS version, asset tag as well as a lot of other details of varying
@@ -755,11 +755,11 @@ URL          : https://www.nongnu.org/dmidecode/
 <summary>dmraid</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Device-mapper RAID tool and library
+From repo     : anaconda
+Short desc    : Device-mapper RAID tool and library
 URL          : http://people.redhat.com/heinzm/sw/dmraid
-Лицензия     : GPLv2+
-Описание     : DMRAID supports RAID device discovery, RAID set activation, creation,
+License      : GPLv2+
+Descript     : DMRAID supports RAID device discovery, RAID set activation, creation,
              : removal, rebuild and display of properties for ATARAID/DDF1 metadata on
              : Linux >= 2.4 using device-mapper.
 ```
@@ -770,11 +770,11 @@ URL          : http://people.redhat.com/heinzm/sw/dmraid
 <summary>dmraid-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development libraries and headers for dmraid
+From repo     : fedora
+Short desc    : Development libraries and headers for dmraid
 URL          : http://people.redhat.com/heinzm/sw/dmraid
-Лицензия     : GPLv2+
-Описание     : dmraid-devel provides a library interface for RAID device discovery,
+License      : GPLv2+
+Descript     : dmraid-devel provides a library interface for RAID device discovery,
              : RAID set activation and display of properties for ATARAID volumes.
 ```
 
@@ -784,11 +784,11 @@ URL          : http://people.redhat.com/heinzm/sw/dmraid
 <summary>dmraid-events</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Device-mapper event tool (dmevent_tool) and DSO
+From repo     : anaconda
+Short desc    : Device-mapper event tool (dmevent_tool) and DSO
 URL          : http://people.redhat.com/heinzm/sw/dmraid
-Лицензия     : GPLv2+
-Описание     : Provides a dmeventd DSO and the dmevent_tool to register devices with it
+License      : GPLv2+
+Descript     : Provides a dmeventd DSO and the dmevent_tool to register devices with it
              : for device monitoring.  All active RAID sets should be manually registered
              : with dmevent_tool.
 ```
@@ -799,11 +799,11 @@ URL          : http://people.redhat.com/heinzm/sw/dmraid
 <summary>dmraid-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : System libraries for dmraid
+From repo     : anaconda
+Short desc    : System libraries for dmraid
 URL          : http://people.redhat.com/heinzm/sw/dmraid
-Лицензия     : GPLv2+
-Описание     : dmraid-libs provides the system libraries for RAID device discovery,
+License      : GPLv2+
+Descript     : dmraid-libs provides the system libraries for RAID device discovery,
              : RAID set activation and display of properties for ATARAID volumes.
 ```
 
@@ -813,11 +813,11 @@ URL          : http://people.redhat.com/heinzm/sw/dmraid
 <summary>dnf</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Package manager
+From repo     : anaconda
+Short desc    : Package manager
 URL          : https://github.com/rpm-software-management/dnf
-Лицензия     : GPLv2+
-Описание     : Utility that allows users to manage packages on their systems.
+License      : GPLv2+
+Descript     : Utility that allows users to manage packages on their systems.
              : It supports RPMs, modules and comps groups & environments.
 ```
 
@@ -827,11 +827,11 @@ URL          : https://github.com/rpm-software-management/dnf
 <summary>dnf</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Package manager
+From repo     : updates-testing
+Short desc    : Package manager
 URL          : https://github.com/rpm-software-management/dnf
-Лицензия     : GPLv2+
-Описание     : Utility that allows users to manage packages on their systems.
+License      : GPLv2+
+Descript     : Utility that allows users to manage packages on their systems.
              : It supports RPMs, modules and comps groups & environments.
 ```
 
@@ -841,11 +841,11 @@ URL          : https://github.com/rpm-software-management/dnf
 <summary>dnf-data</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Common data and configuration files for DNF
+From repo     : anaconda
+Short desc    : Common data and configuration files for DNF
 URL          : https://github.com/rpm-software-management/dnf
-Лицензия     : GPLv2+
-Описание     : Common data and configuration files for DNF
+License      : GPLv2+
+Descript     : Common data and configuration files for DNF
 ```
 
 </details>
@@ -854,11 +854,11 @@ URL          : https://github.com/rpm-software-management/dnf
 <summary>dnf-data</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Common data and configuration files for DNF
+From repo     : updates-testing
+Short desc    : Common data and configuration files for DNF
 URL          : https://github.com/rpm-software-management/dnf
-Лицензия     : GPLv2+
-Описание     : Common data and configuration files for DNF
+License      : GPLv2+
+Descript     : Common data and configuration files for DNF
 ```
 
 </details>
@@ -867,11 +867,11 @@ URL          : https://github.com/rpm-software-management/dnf
 <summary>dnf-plugins-core</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Core Plugins for DNF
+From repo     : anaconda
+Short desc    : Core Plugins for DNF
 URL          : https://github.com/rpm-software-management/dnf-plugins-core
-Лицензия     : GPLv2+
-Описание     : Core Plugins for DNF. This package enhances DNF with builddep, config-manager,
+License      : GPLv2+
+Descript     : Core Plugins for DNF. This package enhances DNF with builddep, config-manager,
              : copr, debug, debuginfo-install, download, needs-restarting, groups-manager, repoclosure,
              : repograph, repomanage, reposync, changelog and repodiff commands. Additionally
              : provides generate_completion_cache passive plugin.
@@ -883,11 +883,11 @@ URL          : https://github.com/rpm-software-management/dnf-plugins-core
 <summary>dnf-utils</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Yum-utils CLI compatibility layer
+From repo     : fedora
+Short desc    : Yum-utils CLI compatibility layer
 URL          : https://github.com/rpm-software-management/dnf-plugins-core
-Лицензия     : GPLv2+
-Описание     : As a Yum-utils CLI compatibility layer, supplies in CLI shims for
+License      : GPLv2+
+Descript     : As a Yum-utils CLI compatibility layer, supplies in CLI shims for
              : debuginfo-install, repograph, package-cleanup, repoclosure, repomanage,
              : repoquery, reposync, repotrack, repodiff, builddep, config-manager, debug,
              : download and yum-groups-manager that use new implementations using DNF.
@@ -899,11 +899,11 @@ URL          : https://github.com/rpm-software-management/dnf-plugins-core
 <summary>dnsmasq</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A lightweight DHCP/caching DNS server
+From repo     : anaconda
+Short desc    : A lightweight DHCP/caching DNS server
 URL          : http://www.thekelleys.org.uk/dnsmasq/
-Лицензия     : GPLv2 or GPLv3
-Описание     : Dnsmasq is lightweight, easy to configure DNS forwarder and DHCP server.
+License      : GPLv2 or GPLv3
+Descript     : Dnsmasq is lightweight, easy to configure DNS forwarder and DHCP server.
              : It is designed to provide DNS and, optionally, DHCP, to a small network.
              : It can serve the names of local machines which are not in the global
              : DNS. The DHCP server integrates with the DNS server and allows machines
@@ -919,11 +919,11 @@ URL          : http://www.thekelleys.org.uk/dnsmasq/
 <summary>dnsmasq</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A lightweight DHCP/caching DNS server
+From repo     : updates-testing
+Short desc    : A lightweight DHCP/caching DNS server
 URL          : http://www.thekelleys.org.uk/dnsmasq/
-Лицензия     : GPLv2 or GPLv3
-Описание     : Dnsmasq is lightweight, easy to configure DNS forwarder and DHCP server.
+License      : GPLv2 or GPLv3
+Descript     : Dnsmasq is lightweight, easy to configure DNS forwarder and DHCP server.
              : It is designed to provide DNS and, optionally, DHCP, to a small network.
              : It can serve the names of local machines which are not in the global
              : DNS. The DHCP server integrates with the DNS server and allows machines
@@ -939,11 +939,11 @@ URL          : http://www.thekelleys.org.uk/dnsmasq/
 <summary>dnstop</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Displays information about DNS traffic on your network
+From repo     : fedora
+Short desc    : Displays information about DNS traffic on your network
 URL          : http://dns.measurement-factory.com/tools/dnstop/
-Лицензия     : BSD
-Описание     : dnstop is a libpcap application (ala tcpdump) that displays various
+License      : BSD
+Descript     : dnstop is a libpcap application (ala tcpdump) that displays various
              : tables of DNS traffic on your network.
              : 
              : dnstop supports both IPv4 and IPv6 addresses.
@@ -961,11 +961,11 @@ URL          : http://dns.measurement-factory.com/tools/dnstop/
 <summary>docbook-dtds</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : SGML and XML document type definitions for DocBook
+From repo     : fedora
+Short desc    : SGML and XML document type definitions for DocBook
 URL          : http://www.oasis-open.org/docbook/
-Лицензия     : Copyright only
-Описание     : The DocBook Document Type Definition (DTD) describes the syntax of
+License      : Copyright only
+Descript     : The DocBook Document Type Definition (DTD) describes the syntax of
              : technical documentation texts (articles, books and manual pages).
              : This syntax is XML-compliant and is developed by the OASIS consortium.
              : This package contains SGML and XML versions of the DocBook DTD.
@@ -977,11 +977,11 @@ URL          : http://www.oasis-open.org/docbook/
 <summary>docbook-style-xsl</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Norman Walsh's XSL stylesheets for DocBook XML
+From repo     : fedora
+Short desc    : Norman Walsh's XSL stylesheets for DocBook XML
 URL          : https://github.com/docbook/xslt10-stylesheets
-Лицензия     : DMIT
-Описание     : These XSL stylesheets allow you to transform any DocBook XML document to
+License      : DMIT
+Descript     : These XSL stylesheets allow you to transform any DocBook XML document to
              : other formats, such as HTML, FO, and XHMTL.  They are highly customizable.
 ```
 
@@ -991,11 +991,11 @@ URL          : https://github.com/docbook/xslt10-stylesheets
 <summary>dos2unix</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Text file format converters
+From repo     : anaconda
+Short desc    : Text file format converters
 URL          : https://waterlan.home.xs4all.nl/dos2unix.html
-Лицензия     : BSD
-Описание     : Convert text files with DOS or Mac line endings to Unix line endings and
+License      : BSD
+Descript     : Convert text files with DOS or Mac line endings to Unix line endings and
              : vice versa.
 ```
 
@@ -1005,11 +1005,11 @@ URL          : https://waterlan.home.xs4all.nl/dos2unix.html
 <summary>dosfstools</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utilities for making and checking MS-DOS FAT filesystems on Linux
+From repo     : anaconda
+Short desc    : Utilities for making and checking MS-DOS FAT filesystems on Linux
 URL          : https://github.com/dosfstools/dosfstools
-Лицензия     : GPLv3+
-Описание     : The dosfstools package includes the mkdosfs and dosfsck utilities,
+License      : GPLv3+
+Descript     : The dosfstools package includes the mkdosfs and dosfsck utilities,
              : which respectively make and check MS-DOS FAT filesystems on hard
              : drives or on floppies.
 ```
@@ -1020,11 +1020,11 @@ URL          : https://github.com/dosfstools/dosfstools
 <summary>dotconf</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries to parse configuration files
+From repo     : anaconda
+Short desc    : Libraries to parse configuration files
 URL          : https://github.com/williamh/dotconf/
-Лицензия     : LGPLv2
-Описание     : Dotconf is a library used to handle configuration files.
+License      : LGPLv2
+Descript     : Dotconf is a library used to handle configuration files.
 ```
 
 </details>
@@ -1033,11 +1033,11 @@ URL          : https://github.com/williamh/dotconf/
 <summary>double-conversion</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Library providing binary-decimal and decimal-binary routines for IEEE doubles
+From repo     : fedora
+Short desc    : Library providing binary-decimal and decimal-binary routines for IEEE doubles
 URL          : https://github.com/google/double-conversion
-Лицензия     : BSD
-Описание     : Provides binary-decimal and decimal-binary routines for IEEE doubles.
+License      : BSD
+Descript     : Provides binary-decimal and decimal-binary routines for IEEE doubles.
              : The library consists of efficient conversion routines that have been
              : extracted from the V8 JavaScript engine. The code has been re-factored
              : and improved so that it can be used more easily in other projects.
@@ -1049,11 +1049,11 @@ URL          : https://github.com/google/double-conversion
 <summary>dracut</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Initramfs generator using udev
+From repo     : updates-testing
+Short desc    : Initramfs generator using udev
 URL          : https://dracut.wiki.kernel.org/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : dracut contains tools to create bootable initramfses for the Linux
+License      : GPLv2+ and LGPLv2+
+Descript     : dracut contains tools to create bootable initramfses for the Linux
              : kernel. Unlike other implementations, dracut hard-codes as little
              : as possible into the initramfs. dracut contains various modules which
              : are driven by the event-based udev. Having root on MD, DM, LVM2, LUKS
@@ -1067,11 +1067,11 @@ URL          : https://dracut.wiki.kernel.org/
 <summary>dracut-config-rescue</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : dracut configuration to turn on rescue image generation
+From repo     : updates-testing
+Short desc    : dracut configuration to turn on rescue image generation
 URL          : https://dracut.wiki.kernel.org/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : This package provides the configuration to turn on the rescue initramfs
+License      : GPLv2+ and LGPLv2+
+Descript     : This package provides the configuration to turn on the rescue initramfs
              : generation with dracut.
 ```
 
@@ -1081,11 +1081,11 @@ URL          : https://dracut.wiki.kernel.org/
 <summary>dracut-live</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : dracut modules to build a dracut initramfs with live image capabilities
+From repo     : updates-testing
+Short desc    : dracut modules to build a dracut initramfs with live image capabilities
 URL          : https://dracut.wiki.kernel.org/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : This package requires everything which is needed to build an
+License      : GPLv2+ and LGPLv2+
+Descript     : This package requires everything which is needed to build an
              : initramfs with dracut, with live image capabilities, like Live CDs.
 ```
 
@@ -1095,11 +1095,11 @@ URL          : https://dracut.wiki.kernel.org/
 <summary>dracut-network</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : dracut modules to build a dracut initramfs with network support
+From repo     : updates-testing
+Short desc    : dracut modules to build a dracut initramfs with network support
 URL          : https://dracut.wiki.kernel.org/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : This package requires everything which is needed to build a generic
+License      : GPLv2+ and LGPLv2+
+Descript     : This package requires everything which is needed to build a generic
              : all purpose initramfs with network support with dracut.
 ```
 
@@ -1109,11 +1109,11 @@ URL          : https://dracut.wiki.kernel.org/
 <summary>dracut-squash</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : dracut module to build an initramfs with most files in a squashfs image
+From repo     : updates-testing
+Short desc    : dracut module to build an initramfs with most files in a squashfs image
 URL          : https://dracut.wiki.kernel.org/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : This package provides a dracut module to build an initramfs, but store most files
+License      : GPLv2+ and LGPLv2+
+Descript     : This package provides a dracut module to build an initramfs, but store most files
              : in a squashfs image, result in a smaller initramfs size and reduce runtime memory
              : usage.
 ```
@@ -1124,11 +1124,11 @@ URL          : https://dracut.wiki.kernel.org/
 <summary>drpm</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A library for making, reading and applying deltarpm packages
+From repo     : anaconda
+Short desc    : A library for making, reading and applying deltarpm packages
 URL          : https://github.com/rpm-software-management/drpm
-Лицензия     : LGPLv2+ and BSD
-Описание     : The drpm package provides a library for making, reading and applying deltarpms,
+License      : LGPLv2+ and BSD
+Descript     : The drpm package provides a library for making, reading and applying deltarpms,
              : compatible with the original deltarpm packages.
 ```
 
@@ -1138,11 +1138,11 @@ URL          : https://github.com/rpm-software-management/drpm
 <summary>dtach</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A simple program that emulates the detach feature of screen
+From repo     : fedora
+Short desc    : A simple program that emulates the detach feature of screen
 URL          : http://dtach.sourceforge.net
-Лицензия     : GPLv2+
-Описание     : 
+License      : GPLv2+
+Descript     : 
              : dtach is a program that emulates the detach feature of screen, with
              : less overhead.  It is designed to be transparent and un-intrusive; it
              : avoids interpreting the input and output between attached terminals
@@ -1156,10 +1156,10 @@ URL          : http://dtach.sourceforge.net
 <summary>dwz</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : DWARF optimization and duplicate removal tool
-Лицензия     : GPLv2+ and GPLv3+
-Описание     : The dwz package contains a program that attempts to optimize DWARF
+From repo     : updates-testing
+Short desc    : DWARF optimization and duplicate removal tool
+License      : GPLv2+ and GPLv3+
+Descript     : The dwz package contains a program that attempts to optimize DWARF
              : debugging information contained in ELF shared libraries and ELF executables
              : for size, by replacing DWARF information representation with equivalent
              : smaller representation where possible and by reducing the amount of

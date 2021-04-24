@@ -1,14 +1,14 @@
-# For letter S, information about installed packages
+# For first letter S, information about installation packages
 
 <details>
 <summary>SDL</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A cross-platform multimedia library
+From repo     : fedora
+Short desc    : A cross-platform multimedia library
 URL          : https://www.libsdl.org/
-Лицензия     : LGPLv2+
-Описание     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library designed
+License      : LGPLv2+
+Descript     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library designed
              : to provide fast access to the graphics frame buffer and audio device.
 ```
 
@@ -18,11 +18,11 @@ URL          : https://www.libsdl.org/
 <summary>SDL-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Files needed to develop Simple DirectMedia Layer applications
+From repo     : fedora
+Short desc    : Files needed to develop Simple DirectMedia Layer applications
 URL          : https://www.libsdl.org/
-Лицензия     : LGPLv2+
-Описание     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library designed
+License      : LGPLv2+
+Descript     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library designed
              : to provide fast access to the graphics frame buffer and audio device. This
              : package provides the libraries, include files, and other resources needed for
              : developing SDL applications.
@@ -34,11 +34,11 @@ URL          : https://www.libsdl.org/
 <summary>SDL-static</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Files needed to develop static Simple DirectMedia Layer applications
+From repo     : fedora
+Short desc    : Files needed to develop static Simple DirectMedia Layer applications
 URL          : https://www.libsdl.org/
-Лицензия     : LGPLv2+
-Описание     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library designed
+License      : LGPLv2+
+Descript     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library designed
              : to provide fast access to the graphics frame buffer and audio device. This
              : package provides the static libraries needed for developing static SDL
              : applications.
@@ -50,11 +50,11 @@ URL          : https://www.libsdl.org/
 <summary>SDL2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Cross-platform multimedia library
+From repo     : anaconda
+Short desc    : Cross-platform multimedia library
 URL          : http://www.libsdl.org/
-Лицензия     : zlib and MIT
-Описание     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library designed
+License      : zlib and MIT
+Descript     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library designed
              : to provide fast access to the graphics frame buffer and audio device.
 ```
 
@@ -64,11 +64,11 @@ URL          : http://www.libsdl.org/
 <summary>SDL2-static</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Static libraries for SDL2
+From repo     : fedora
+Short desc    : Static libraries for SDL2
 URL          : http://www.libsdl.org/
-Лицензия     : zlib and MIT
-Описание     : Static libraries for SDL2.
+License      : zlib and MIT
+Descript     : Static libraries for SDL2.
 ```
 
 </details>
@@ -77,11 +77,11 @@ URL          : http://www.libsdl.org/
 <summary>SDL2_gfx</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : SDL2 graphics drawing primitives and other support functions
+From repo     : fedora
+Short desc    : SDL2 graphics drawing primitives and other support functions
 URL          : http://www.ferzkopp.net/Software/SDL2_gfx-2.0/
-Лицензия     : zlib
-Описание     : Library providing graphics drawing primitives and other support functions
+License      : zlib
+Descript     : Library providing graphics drawing primitives and other support functions
              : wrapped up in an addon library for the Simple Direct Media version 2 (SDL2)
              : cross-platform API layer.
 ```
@@ -92,11 +92,11 @@ URL          : http://www.ferzkopp.net/Software/SDL2_gfx-2.0/
 <summary>SDL2_gfx-docs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : API Documentation for SDL2_gfx
+From repo     : fedora
+Short desc    : API Documentation for SDL2_gfx
 URL          : http://www.ferzkopp.net/Software/SDL2_gfx-2.0/
-Лицензия     : zlib
-Описание     : This package contains the API documentation for SDL2_gfx library.
+License      : zlib
+Descript     : This package contains the API documentation for SDL2_gfx library.
 ```
 
 </details>
@@ -105,11 +105,11 @@ URL          : http://www.ferzkopp.net/Software/SDL2_gfx-2.0/
 <summary>SDL2_image</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Image loading library for SDL
+From repo     : fedora
+Short desc    : Image loading library for SDL
 URL          : http://www.libsdl.org/projects/SDL_image/
-Лицензия     : LGPLv2+ and zlib
-Описание     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library
+License      : LGPLv2+ and zlib
+Descript     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library
              : designed to provide fast access to the graphics frame buffer and audio
              : device.  This package contains a simple library for loading images of
              : various formats (BMP, PPM, PCX, GIF, JPEG, PNG) as SDL surfaces.
@@ -121,11 +121,11 @@ URL          : http://www.libsdl.org/projects/SDL_image/
 <summary>SDL2_mixer</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Simple DirectMedia Layer - Sample Mixer Library
+From repo     : fedora
+Short desc    : Simple DirectMedia Layer - Sample Mixer Library
 URL          : https://www.libsdl.org/projects/SDL_mixer/
-Лицензия     : zlib
-Описание     : SDL_mixer is a sample multi-channel audio mixer library.
+License      : zlib
+Descript     : SDL_mixer is a sample multi-channel audio mixer library.
              : It supports any number of simultaneously playing channels of 16 bit stereo
              : audio, plus a single channel of music, mixed by the popular FLAC,
              : MikMod MOD, Timidity MIDI, Ogg Vorbis, and SMPEG MP3 libraries.
@@ -137,11 +137,11 @@ URL          : https://www.libsdl.org/projects/SDL_mixer/
 <summary>SDL2_net</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : SDL portable network library
+From repo     : fedora
+Short desc    : SDL portable network library
 URL          : http://www.libsdl.org/projects/SDL_net/
-Лицензия     : zlib
-Описание     : This is a portable network library for use with SDL.
+License      : zlib
+Descript     : This is a portable network library for use with SDL.
 ```
 
 </details>
@@ -150,11 +150,11 @@ URL          : http://www.libsdl.org/projects/SDL_net/
 <summary>SDL2_ttf</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : TrueType font rendering library for SDL2
+From repo     : fedora
+Short desc    : TrueType font rendering library for SDL2
 URL          : https://www.libsdl.org/projects/SDL_ttf/
-Лицензия     : zlib
-Описание     : This library allows you to use TrueType fonts to render text in SDL2
+License      : zlib
+Descript     : This library allows you to use TrueType fonts to render text in SDL2
              : applications.
 ```
 
@@ -164,11 +164,11 @@ URL          : https://www.libsdl.org/projects/SDL_ttf/
 <summary>SDLPoP</summary>
 
 ```
-Из репозитор : rpmfusion-nonfree
-Краткое опис : An open-source port of Prince of Persia
+From repo     : rpmfusion-nonfree
+Short desc    : An open-source port of Prince of Persia
 URL          : https://github.com/NagyD/SDLPoP
-Лицензия     : GPLv3+
-Описание     : SDLPoP is an open-source port of Prince of Persia, based on the disassembly
+License      : GPLv3+
+Descript     : SDLPoP is an open-source port of Prince of Persia, based on the disassembly
              : of the DOS version.
 ```
 
@@ -178,11 +178,11 @@ URL          : https://github.com/NagyD/SDLPoP
 <summary>SDL_Pango</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Rendering of internationalized text for SDL (Simple DirectMedia Layer)
+From repo     : fedora
+Short desc    : Rendering of internationalized text for SDL (Simple DirectMedia Layer)
 URL          : http://sdlpango.sourceforge.net/
-Лицензия     : LGPLv2+
-Описание     : Pango is the text rendering engine of GNOME 2. SDL_Pango connects that engine
+License      : LGPLv2+
+Descript     : Pango is the text rendering engine of GNOME 2. SDL_Pango connects that engine
              : to SDL, the Simple DirectMedia Layer.
 ```
 
@@ -192,11 +192,11 @@ URL          : http://sdlpango.sourceforge.net/
 <summary>SDL_gfx</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : SDL graphics drawing primitives and other support functions
+From repo     : fedora
+Short desc    : SDL graphics drawing primitives and other support functions
 URL          : http://www.ferzkopp.net/Software/SDL_gfx-2.0/
-Лицензия     : LGPLv2
-Описание     : Library providing SDL graphics drawing primitives and other support functions
+License      : LGPLv2
+Descript     : Library providing SDL graphics drawing primitives and other support functions
              : wrapped up in an addon library for the Simple Direct Media (SDL) cross-platform
              : API layer.
 ```
@@ -207,11 +207,11 @@ URL          : http://www.ferzkopp.net/Software/SDL_gfx-2.0/
 <summary>SDL_image</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Image loading library for SDL
+From repo     : fedora
+Short desc    : Image loading library for SDL
 URL          : http://www.libsdl.org/projects/SDL_image/
-Лицензия     : LGPLv2+
-Описание     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library
+License      : LGPLv2+
+Descript     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library
              : designed to provide fast access to the graphics frame buffer and audio
              : device.  This package contains a simple library for loading images of
              : various formats (BMP, PPM, PCX, GIF, JPEG, PNG) as SDL surfaces.
@@ -223,11 +223,11 @@ URL          : http://www.libsdl.org/projects/SDL_image/
 <summary>SDL_mixer</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Simple DirectMedia Layer - Sample Mixer Library
+From repo     : fedora
+Short desc    : Simple DirectMedia Layer - Sample Mixer Library
 URL          : http://www.libsdl.org/projects/SDL_mixer/
-Лицензия     : LGPLv2
-Описание     : A simple multi-channel audio mixer for SDL. It supports 4 channels of
+License      : LGPLv2
+Descript     : A simple multi-channel audio mixer for SDL. It supports 4 channels of
              : 16 bit stereo audio, plus a single channel of music, mixed by the popular
              : MikMod MOD, Timidity MIDI and Ogg Vorbis libraries.
 ```
@@ -238,11 +238,11 @@ URL          : http://www.libsdl.org/projects/SDL_mixer/
 <summary>SDL_mng</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Simple DirectMedia Layer - MNG Loading Library
+From repo     : fedora
+Short desc    : Simple DirectMedia Layer - MNG Loading Library
 URL          : https://github.com/dulsi/SDL_mng
-Лицензия     : LGPLv2+
-Описание     : This is a simple library to load mng animations as SDL surfaces.
+License      : LGPLv2+
+Descript     : This is a simple library to load mng animations as SDL surfaces.
 ```
 
 </details>
@@ -251,11 +251,11 @@ URL          : https://github.com/dulsi/SDL_mng
 <summary>SDL_net</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : SDL portable network library
+From repo     : fedora
+Short desc    : SDL portable network library
 URL          : http://www.libsdl.org/projects/SDL_net/
-Лицензия     : LGPLv2+
-Описание     : This is a portable network library for use with SDL.
+License      : LGPLv2+
+Descript     : This is a portable network library for use with SDL.
 ```
 
 </details>
@@ -264,11 +264,11 @@ URL          : http://www.libsdl.org/projects/SDL_net/
 <summary>SDL_sound</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Library handling decoding of several popular sound file formats
+From repo     : fedora
+Short desc    : Library handling decoding of several popular sound file formats
 URL          : http://www.icculus.org/SDL_sound
-Лицензия     : LGPLv2+
-Описание     : SDL_sound is a library that handles the decoding of several popular sound file
+License      : LGPLv2+
+Descript     : SDL_sound is a library that handles the decoding of several popular sound file
              : formats, such as .WAV and .OGG.
              : 
              : It is meant to make the programmer's sound playback tasks simpler. The
@@ -287,11 +287,11 @@ URL          : http://www.icculus.org/SDL_sound
 <summary>SDL_ttf</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Simple DirectMedia Layer TrueType Font library
+From repo     : fedora
+Short desc    : Simple DirectMedia Layer TrueType Font library
 URL          : http://www.libsdl.org/projects/SDL_ttf/
-Лицензия     : zlib
-Описание     : This library allows you to use TrueType fonts to render text in SDL
+License      : zlib
+Descript     : This library allows you to use TrueType fonts to render text in SDL
              : applications.
 ```
 
@@ -301,11 +301,11 @@ URL          : http://www.libsdl.org/projects/SDL_ttf/
 <summary>SuperLU</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Subroutines to solve sparse linear systems
+From repo     : fedora
+Short desc    : Subroutines to solve sparse linear systems
 URL          : https://portal.nersc.gov/project/sparse/superlu/
-Лицензия     : BSD and GPLv2+
-Описание     : SuperLU contains a set of subroutines to solve a sparse linear system
+License      : BSD and GPLv2+
+Descript     : SuperLU contains a set of subroutines to solve a sparse linear system
              : A*X=B. It uses Gaussian elimination with partial pivoting (GEPP).
              : The columns of A may be preordered before factorization; the
              : preordering for sparsity is completely separate from the factorization.

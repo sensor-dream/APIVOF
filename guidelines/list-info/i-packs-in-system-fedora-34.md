@@ -1,14 +1,14 @@
-# For letter i, information about installed packages
+# For first letter i, information about installation packages
 
 <details>
 <summary>i3</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Improved tiling window manager
+From repo     : fedora
+Short desc    : Improved tiling window manager
 URL          : https://i3wm.org
-Лицензия     : BSD
-Описание     : Key features of i3 are correct implementation of XrandR, horizontal and vertical
+License      : BSD
+Descript     : Key features of i3 are correct implementation of XrandR, horizontal and vertical
              : columns (think of a table) in tiling. Also, special focus is on writing clean,
              : readable and well documented code. i3 uses xcb for asynchronous communication
              : with X11, and has several measures to be very fast.
@@ -22,11 +22,11 @@ URL          : https://i3wm.org
 <summary>i3lock</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Simple X display locker like slock
+From repo     : fedora
+Short desc    : Simple X display locker like slock
 URL          : https://i3wm.org/i3lock/
-Лицензия     : MIT
-Описание     : i3lock is a simple screen locker like slock. After starting it, you will see a
+License      : MIT
+Descript     : i3lock is a simple screen locker like slock. After starting it, you will see a
              : white screen (you can configure the color/an image). You can return to your
              : screen by entering your password.
              : 
@@ -51,11 +51,11 @@ URL          : https://i3wm.org/i3lock/
 <summary>i3status</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Status bar generator for i3bar, dzen2, xmobar or similar programs
+From repo     : fedora
+Short desc    : Status bar generator for i3bar, dzen2, xmobar or similar programs
 URL          : https://i3wm.org/i3status/
-Лицензия     : BSD
-Описание     : i3status is a program for generating a status bar for i3bar, dzen2,
+License      : BSD
+Descript     : i3status is a program for generating a status bar for i3bar, dzen2,
              : xmobar or similar programs. It issues a small number of system
              : calls, as one generally wants to update such status lines every
              : second so that the bar is updated even under load. It saves a bit of
@@ -68,11 +68,11 @@ URL          : https://i3wm.org/i3status/
 <summary>iaxclient</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Library for creating telephony solutions that interoperate with Asterisk
+From repo     : fedora
+Short desc    : Library for creating telephony solutions that interoperate with Asterisk
 URL          : http://iaxclient.wiki.sourceforge.net/
-Лицензия     : LGPLv2+
-Описание     : Iaxclient is an open source, multiplatform library for creating telephony
+License      : LGPLv2+
+Descript     : Iaxclient is an open source, multiplatform library for creating telephony
              : solutions that interoperate with Asterisk, the Open Source PBX.
              : 
              : Although asterisk supports other VOIP protocols (including SIP, and with
@@ -89,11 +89,11 @@ URL          : http://iaxclient.wiki.sourceforge.net/
 <summary>iaxclient-libiax</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : IAX library
+From repo     : fedora
+Short desc    : IAX library
 URL          : http://iaxclient.wiki.sourceforge.net/
-Лицензия     : LGPLv2+
-Описание     : The iaxclient-libs package contains the IAX library version 0.2.3, an improved
+License      : LGPLv2+
+Descript     : The iaxclient-libs package contains the IAX library version 0.2.3, an improved
              : version of the abandoned upstream IAX library.
 ```
 
@@ -103,11 +103,11 @@ URL          : http://iaxclient.wiki.sourceforge.net/
 <summary>ibus</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Intelligent Input Bus for Linux OS
+From repo     : updates-testing
+Short desc    : Intelligent Input Bus for Linux OS
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : LGPLv2+
-Описание     : IBus means Intelligent Input Bus. It is an input framework for Linux OS.
+License      : LGPLv2+
+Descript     : IBus means Intelligent Input Bus. It is an input framework for Linux OS.
 ```
 
 </details>
@@ -116,11 +116,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-anthy</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The Anthy engine for IBus input platform
+From repo     : anaconda
+Short desc    : The Anthy engine for IBus input platform
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : GPLv2+
-Описание     : The Anthy engine for IBus platform. It provides Japanese input method from
+License      : GPLv2+
+Descript     : The Anthy engine for IBus platform. It provides Japanese input method from
              : a library of the Anthy.
 ```
 
@@ -130,11 +130,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-anthy</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The Anthy engine for IBus input platform
+From repo     : updates-testing
+Short desc    : The Anthy engine for IBus input platform
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : GPLv2+
-Описание     : The Anthy engine for IBus platform. It provides Japanese input method from
+License      : GPLv2+
+Descript     : The Anthy engine for IBus platform. It provides Japanese input method from
              : a library of the Anthy.
 ```
 
@@ -144,11 +144,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-anthy-python</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Anthy Python files for IBus
+From repo     : anaconda
+Short desc    : Anthy Python files for IBus
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : GPLv2+
-Описание     : This package contains the Anthy Python files for IBus
+License      : GPLv2+
+Descript     : This package contains the Anthy Python files for IBus
 ```
 
 </details>
@@ -157,11 +157,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-anthy-python</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Anthy Python files for IBus
+From repo     : updates-testing
+Short desc    : Anthy Python files for IBus
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : GPLv2+
-Описание     : This package contains the Anthy Python files for IBus
+License      : GPLv2+
+Descript     : This package contains the Anthy Python files for IBus
 ```
 
 </details>
@@ -170,11 +170,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-gtk2</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : IBus IM module for GTK2
+From repo     : updates-testing
+Short desc    : IBus IM module for GTK2
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : LGPLv2+
-Описание     : This package contains IBus IM module for GTK2
+License      : LGPLv2+
+Descript     : This package contains IBus IM module for GTK2
 ```
 
 </details>
@@ -183,11 +183,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-gtk3</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : IBus IM module for GTK3
+From repo     : anaconda
+Short desc    : IBus IM module for GTK3
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : LGPLv2+
-Описание     : This package contains IBus IM module for GTK3
+License      : LGPLv2+
+Descript     : This package contains IBus IM module for GTK3
 ```
 
 </details>
@@ -196,11 +196,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-gtk3</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : IBus IM module for GTK3
+From repo     : updates-testing
+Short desc    : IBus IM module for GTK3
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : LGPLv2+
-Описание     : This package contains IBus IM module for GTK3
+License      : LGPLv2+
+Descript     : This package contains IBus IM module for GTK3
 ```
 
 </details>
@@ -209,11 +209,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-hangul</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The Hangul engine for IBus input platform
+From repo     : anaconda
+Short desc    : The Hangul engine for IBus input platform
 URL          : https://github.com/libhangul/ibus-hangul
-Лицензия     : GPLv2+
-Описание     : The Hangul engine for IBus platform. It provides Korean input method from
+License      : GPLv2+
+Descript     : The Hangul engine for IBus platform. It provides Korean input method from
              : libhangul.
 ```
 
@@ -223,11 +223,11 @@ URL          : https://github.com/libhangul/ibus-hangul
 <summary>ibus-libpinyin</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Intelligent Pinyin engine based on libpinyin for IBus
+From repo     : anaconda
+Short desc    : Intelligent Pinyin engine based on libpinyin for IBus
 URL          : https://github.com/libpinyin/ibus-libpinyin
-Лицензия     : GPLv3+
-Описание     : It includes a Chinese Pinyin input method and a Chinese ZhuYin (Bopomofo)
+License      : GPLv3+
+Descript     : It includes a Chinese Pinyin input method and a Chinese ZhuYin (Bopomofo)
              : input method based on libpinyin for IBus.
 ```
 
@@ -237,11 +237,11 @@ URL          : https://github.com/libpinyin/ibus-libpinyin
 <summary>ibus-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : IBus libraries
+From repo     : anaconda
+Short desc    : IBus libraries
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : LGPLv2+
-Описание     : This package contains the libraries for IBus
+License      : LGPLv2+
+Descript     : This package contains the libraries for IBus
 ```
 
 </details>
@@ -250,11 +250,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : IBus libraries
+From repo     : updates-testing
+Short desc    : IBus libraries
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : LGPLv2+
-Описание     : This package contains the libraries for IBus
+License      : LGPLv2+
+Descript     : This package contains the libraries for IBus
 ```
 
 </details>
@@ -263,11 +263,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-libzhuyin</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : New Zhuyin engine based on libzhuyin for IBus
+From repo     : anaconda
+Short desc    : New Zhuyin engine based on libzhuyin for IBus
 URL          : https://github.com/libzhuyin/ibus-libzhuyin
-Лицензия     : GPLv2+
-Описание     : It includes a Chinese Zhuyin (Bopomofo) input method
+License      : GPLv2+
+Descript     : It includes a Chinese Zhuyin (Bopomofo) input method
              : based on libzhuyin for IBus.
 ```
 
@@ -277,11 +277,11 @@ URL          : https://github.com/libzhuyin/ibus-libzhuyin
 <summary>ibus-m17n</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The M17N engine for IBus platform
+From repo     : anaconda
+Short desc    : The M17N engine for IBus platform
 URL          : https://github.com/ibus/ibus-m17n
-Лицензия     : GPLv2+
-Описание     : M17N engine for IBus input platform. It allows input of many languages using
+License      : GPLv2+
+Descript     : M17N engine for IBus input platform. It allows input of many languages using
              : the input table maps from m17n-db.
 ```
 
@@ -291,11 +291,11 @@ URL          : https://github.com/ibus/ibus-m17n
 <summary>ibus-m17n</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The M17N engine for IBus platform
+From repo     : updates-testing
+Short desc    : The M17N engine for IBus platform
 URL          : https://github.com/ibus/ibus-m17n
-Лицензия     : GPLv2+
-Описание     : M17N engine for IBus input platform. It allows input of many languages using
+License      : GPLv2+
+Descript     : M17N engine for IBus input platform. It allows input of many languages using
              : the input table maps from m17n-db.
 ```
 
@@ -305,11 +305,11 @@ URL          : https://github.com/ibus/ibus-m17n
 <summary>ibus-setup</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : IBus setup utility
+From repo     : updates-testing
+Short desc    : IBus setup utility
 URL          : https://github.com/ibus/ibus/wiki
-Лицензия     : LGPLv2+
-Описание     : This is a setup utility for IBus.
+License      : LGPLv2+
+Descript     : This is a setup utility for IBus.
 ```
 
 </details>
@@ -318,11 +318,11 @@ URL          : https://github.com/ibus/ibus/wiki
 <summary>ibus-typing-booster</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A completion input method
+From repo     : anaconda
+Short desc    : A completion input method
 URL          : https://mike-fabian.github.io/ibus-typing-booster/
-Лицензия     : GPLv3+, ASL 2.0
-Описание     : Ibus-typing-booster is a context sensitive completion
+License      : GPLv3+, ASL 2.0
+Descript     : Ibus-typing-booster is a context sensitive completion
              : input method to speedup typing.
 ```
 
@@ -332,11 +332,11 @@ URL          : https://mike-fabian.github.io/ibus-typing-booster/
 <summary>ibus-typing-booster</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A completion input method
+From repo     : updates-testing
+Short desc    : A completion input method
 URL          : https://mike-fabian.github.io/ibus-typing-booster/
-Лицензия     : GPLv3+, ASL 2.0
-Описание     : Ibus-typing-booster is a context sensitive completion
+License      : GPLv3+, ASL 2.0
+Descript     : Ibus-typing-booster is a context sensitive completion
              : input method to speedup typing.
 ```
 
@@ -346,11 +346,11 @@ URL          : https://mike-fabian.github.io/ibus-typing-booster/
 <summary>iceauth</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Display the authorization information used in connecting with ICE
+From repo     : updates-testing
+Short desc    : Display the authorization information used in connecting with ICE
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : The iceauth program is used to edit and display the authorization
+License      : MIT
+Descript     : The iceauth program is used to edit and display the authorization
              : information used in connecting with ICE. It operates very much
              : like the xauth program for X11 connection authentication records.
 ```
@@ -361,11 +361,11 @@ URL          : https://www.x.org
 <summary>iftop</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Command line tool that displays bandwidth usage on an interface
+From repo     : fedora
+Short desc    : Command line tool that displays bandwidth usage on an interface
 URL          : http://www.ex-parrot.com/~pdw/iftop/
-Лицензия     : GPLv2+
-Описание     : iftop does for network usage what top(1) does for CPU usage. It listens to
+License      : GPLv2+
+Descript     : iftop does for network usage what top(1) does for CPU usage. It listens to
              : network traffic on a named interface and displays a table of current bandwidth
              : usage by pairs of hosts. Handy for answering the question "why is our ADSL link
              : so slow?".
@@ -377,11 +377,11 @@ URL          : http://www.ex-parrot.com/~pdw/iftop/
 <summary>iio-sensor-proxy</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : IIO accelerometer sensor to input device proxy
+From repo     : anaconda
+Short desc    : IIO accelerometer sensor to input device proxy
 URL          : https://github.com/hadess/iio-sensor-proxy
-Лицензия     : GPLv3+
-Описание     : IIO accelerometer sensor to input device proxy.
+License      : GPLv3+
+Descript     : IIO accelerometer sensor to input device proxy.
 ```
 
 </details>
@@ -390,11 +390,11 @@ URL          : https://github.com/hadess/iio-sensor-proxy
 <summary>ilbc</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Internet Low Bitrate Codec
+From repo     : fedora
+Short desc    : Internet Low Bitrate Codec
 URL          : https://github.com/TimothyGu/libilbc
-Лицензия     : BSD
-Описание     : iLBC (internet Low Bitrate Codec) is a FREE speech codec suitable for
+License      : BSD
+Descript     : iLBC (internet Low Bitrate Codec) is a FREE speech codec suitable for
              : robust voice communication over IP. The codec is designed for narrow
              : band speech and results in a payload bit rate of 13.33 kbit/s with an
              : encoding frame length of 30 ms and 15.20 kbps with an encoding length
@@ -409,11 +409,11 @@ URL          : https://github.com/TimothyGu/libilbc
 <summary>ima-evm-utils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : IMA/EVM support utilities
+From repo     : anaconda
+Short desc    : IMA/EVM support utilities
 URL          : http://linux-ima.sourceforge.net/
-Лицензия     : GPLv2
-Описание     : The Trusted Computing Group(TCG) run-time Integrity Measurement Architecture
+License      : GPLv2
+Descript     : The Trusted Computing Group(TCG) run-time Integrity Measurement Architecture
              : (IMA) maintains a list of hash values of executables and other sensitive
              : system files, as they are read or executed. These are stored in the file
              : systems extended attributes. The Extended Verification Module (EVM) prevents
@@ -427,11 +427,11 @@ URL          : http://linux-ima.sourceforge.net/
 <summary>imlib2</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Image loading, saving, rendering, and manipulation library
+From repo     : fedora
+Short desc    : Image loading, saving, rendering, and manipulation library
 URL          : http://docs.enlightenment.org/api/imlib2/html/
-Лицензия     : Imlib2
-Описание     : Imlib 2 is a library that does image file loading and saving as well
+License      : Imlib2
+Descript     : Imlib 2 is a library that does image file loading and saving as well
              : as rendering, manipulation, arbitrary polygon support, etc.  It does
              : ALL of these operations FAST. Imlib2 also tries to be highly
              : intelligent about doing them, so writing naive programs can be done
@@ -446,11 +446,11 @@ URL          : http://docs.enlightenment.org/api/imlib2/html/
 <summary>incron</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Inotify cron system
+From repo     : fedora
+Short desc    : Inotify cron system
 URL          : https://github.com/ar-/incron
-Лицензия     : GPLv2
-Описание     : This program is an "inotify cron" system.
+License      : GPLv2
+Descript     : This program is an "inotify cron" system.
              : It consists of a daemon and a table manipulator.
              : You can use it a similar way as the regular cron.
              : The difference is that the inotify cron handles
@@ -463,11 +463,11 @@ URL          : https://github.com/ar-/incron
 <summary>info</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A stand-alone TTY-based reader for GNU texinfo documentation
+From repo     : fedora
+Short desc    : A stand-alone TTY-based reader for GNU texinfo documentation
 URL          : http://www.gnu.org/software/texinfo/
-Лицензия     : GPLv3+
-Описание     : The GNU project uses the texinfo file format for much of its
+License      : GPLv3+
+Descript     : The GNU project uses the texinfo file format for much of its
              : documentation. The info package provides a standalone TTY-based
              : browser program for viewing texinfo files.
 ```
@@ -478,11 +478,11 @@ URL          : http://www.gnu.org/software/texinfo/
 <summary>inih</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Simple INI file parser library
+From repo     : anaconda
+Short desc    : Simple INI file parser library
 URL          : https://github.com/benhoyt/inih
-Лицензия     : BSD
-Описание     : The inih package provides simple INI file parser which is only a couple of
+License      : BSD
+Descript     : The inih package provides simple INI file parser which is only a couple of
              : pages of code, and it was designed to be small and simple, so it's good for
              : embedded systems.
 ```
@@ -493,11 +493,11 @@ URL          : https://github.com/benhoyt/inih
 <summary>initscripts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Basic support for legacy System V init scripts
+From repo     : anaconda
+Short desc    : Basic support for legacy System V init scripts
 URL          : https://github.com/fedora-sysv/initscripts
-Лицензия     : GPLv2
-Описание     : This package provides basic support for legacy System V init scripts, and some
+License      : GPLv2
+Descript     : This package provides basic support for legacy System V init scripts, and some
              : other legacy tools & utilities.
 ```
 
@@ -507,11 +507,11 @@ URL          : https://github.com/fedora-sysv/initscripts
 <summary>inkscape</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Vector-based drawing program using SVG
+From repo     : fedora
+Short desc    : Vector-based drawing program using SVG
 URL          : https://inkscape.org/
-Лицензия     : GPLv2+ and CC-BY
-Описание     : Inkscape is a vector graphics editor, with capabilities similar to
+License      : GPLv2+ and CC-BY
+Descript     : Inkscape is a vector graphics editor, with capabilities similar to
              : Illustrator, CorelDraw, or Xara X, using the W3C standard Scalable Vector
              : Graphics (SVG) file format.  It is therefore a very useful tool for web
              : designers and as an interchange format for desktop publishing.
@@ -528,11 +528,11 @@ URL          : https://inkscape.org/
 <summary>inkscape-docs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Documentation for Inkscape
+From repo     : fedora
+Short desc    : Documentation for Inkscape
 URL          : https://inkscape.org/
-Лицензия     : GPLv2+ and CC-BY
-Описание     : Tutorial and examples for Inkscape, a graphics editor for vector
+License      : GPLv2+ and CC-BY
+Descript     : Tutorial and examples for Inkscape, a graphics editor for vector
              : graphics in W3C standard Scalable Vector Graphics (SVG) file format.
 ```
 
@@ -542,11 +542,11 @@ URL          : https://inkscape.org/
 <summary>inkscape-psd</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Inkscape PSD Importer
+From repo     : fedora
+Short desc    : Inkscape PSD Importer
 URL          : http://pernsteiner.org/inkscape/psd_import/
-Лицензия     : BSD
-Описание     : This Inkscape extension allows you to load Photoshop PSD files.
+License      : BSD
+Descript     : This Inkscape extension allows you to load Photoshop PSD files.
 ```
 
 </details>
@@ -555,11 +555,11 @@ URL          : http://pernsteiner.org/inkscape/psd_import/
 <summary>inkscape-view</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Viewing program for SVG files
+From repo     : fedora
+Short desc    : Viewing program for SVG files
 URL          : https://inkscape.org/
-Лицензия     : GPLv2+ and CC-BY
-Описание     : Viewer for files in W3C standard Scalable Vector Graphics (SVG) file
+License      : GPLv2+ and CC-BY
+Descript     : Viewer for files in W3C standard Scalable Vector Graphics (SVG) file
              : format.
 ```
 
@@ -569,11 +569,11 @@ URL          : https://inkscape.org/
 <summary>intel-mediasdk</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Hardware-accelerated video processing on Intel integrated GPUs library
+From repo     : updates-testing
+Short desc    : Hardware-accelerated video processing on Intel integrated GPUs library
 URL          : http://mediasdk.intel.com
-Лицензия     : MIT
-Описание     : Intel Media SDK provides a plain C API to access hardware-accelerated video
+License      : MIT
+Descript     : Intel Media SDK provides a plain C API to access hardware-accelerated video
              : decode, encode and filtering on Intel Gen graphics hardware platforms.
              : Implementation written in C++ 11 with parts in C-for-Media (CM).
              : 
@@ -588,11 +588,11 @@ URL          : http://mediasdk.intel.com
 <summary>iotop</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Top like utility for I/O
+From repo     : fedora
+Short desc    : Top like utility for I/O
 URL          : http://guichaz.free.fr/iotop/
-Лицензия     : GPLv2+
-Описание     : Linux has always been able to show how much I/O was going on
+License      : GPLv2+
+Descript     : Linux has always been able to show how much I/O was going on
              : (the bi and bo columns of the vmstat 1 command).
              : iotop is a Python program with a top like UI used to
              : show of behalf of which process is the I/O going on.
@@ -604,11 +604,11 @@ URL          : http://guichaz.free.fr/iotop/
 <summary>ipcalc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : IP network address calculator
+From repo     : anaconda
+Short desc    : IP network address calculator
 URL          : https://gitlab.com/ipcalc/ipcalc
-Лицензия     : GPLv2+
-Описание     : ipcalc provides a simple way to calculate IP information for a host
+License      : GPLv2+
+Descript     : ipcalc provides a simple way to calculate IP information for a host
              : or network. Depending on the options specified, it may be used to provide
              : IP network information in human readable format, in a format suitable for
              : parsing in scripts, generate random private addresses, resolve an IP address,
@@ -621,11 +621,11 @@ URL          : https://gitlab.com/ipcalc/ipcalc
 <summary>iproute</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Advanced IP routing and network device configuration tools
+From repo     : anaconda
+Short desc    : Advanced IP routing and network device configuration tools
 URL          : http://kernel.org/pub/linux/utils/net/iproute2/
-Лицензия     : GPLv2+ and Public Domain
-Описание     : The iproute package contains networking utilities (ip and rtmon, for example)
+License      : GPLv2+ and Public Domain
+Descript     : The iproute package contains networking utilities (ip and rtmon, for example)
              : which are designed to use the advanced networking capabilities of the Linux
              : kernel.
 ```
@@ -636,11 +636,11 @@ URL          : http://kernel.org/pub/linux/utils/net/iproute2/
 <summary>iproute-tc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Linux Traffic Control utility
+From repo     : anaconda
+Short desc    : Linux Traffic Control utility
 URL          : http://kernel.org/pub/linux/utils/net/iproute2/
-Лицензия     : GPLv2+
-Описание     : The Traffic Control utility manages queueing disciplines, their classes and
+License      : GPLv2+
+Descript     : The Traffic Control utility manages queueing disciplines, their classes and
              : attached filters and actions. It is the standard tool to configure QoS in
              : Linux.
 ```
@@ -651,11 +651,11 @@ URL          : http://kernel.org/pub/linux/utils/net/iproute2/
 <summary>ipset</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Manage Linux IP sets
+From repo     : updates-testing
+Short desc    : Manage Linux IP sets
 URL          : http://ipset.netfilter.org/
-Лицензия     : GPLv2
-Описание     : IP sets are a framework inside the Linux kernel since version 2.4.x, which can
+License      : GPLv2
+Descript     : IP sets are a framework inside the Linux kernel since version 2.4.x, which can
              : be administered by the ipset utility. Depending on the type, currently an IP
              : set may store IP addresses, (TCP/UDP) port numbers or IP addresses with MAC
              : addresses in a way, which ensures lightning speed when matching an entry
@@ -677,11 +677,11 @@ URL          : http://ipset.netfilter.org/
 <summary>ipset-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Shared library providing the IP sets functionality
+From repo     : anaconda
+Short desc    : Shared library providing the IP sets functionality
 URL          : http://ipset.netfilter.org/
-Лицензия     : GPLv2
-Описание     : This package contains the libraries which provide the IP sets funcionality.
+License      : GPLv2
+Descript     : This package contains the libraries which provide the IP sets funcionality.
 ```
 
 </details>
@@ -690,11 +690,11 @@ URL          : http://ipset.netfilter.org/
 <summary>ipset-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Shared library providing the IP sets functionality
+From repo     : updates-testing
+Short desc    : Shared library providing the IP sets functionality
 URL          : http://ipset.netfilter.org/
-Лицензия     : GPLv2
-Описание     : This package contains the libraries which provide the IP sets funcionality.
+License      : GPLv2
+Descript     : This package contains the libraries which provide the IP sets funcionality.
 ```
 
 </details>
@@ -703,11 +703,11 @@ URL          : http://ipset.netfilter.org/
 <summary>iptables-compat</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Temporary transitioning package
+From repo     : updates-testing
+Short desc    : Temporary transitioning package
 URL          : https://www.netfilter.org/projects/iptables
-Лицензия     : GPLv2 and Artistic Licence 2.0 and ISC
-Описание     : This package only exists to help transition iptables users to the new
+License      : GPLv2 and Artistic Licence 2.0 and ISC
+Descript     : This package only exists to help transition iptables users to the new
              : package split. It will be removed after one distribution release cycle, please
              : do not reference it or depend on it in any way.
 ```
@@ -718,11 +718,11 @@ URL          : https://www.netfilter.org/projects/iptables
 <summary>iptables-legacy</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Legacy tools for managing Linux kernel packet filtering capabilities
+From repo     : updates-testing
+Short desc    : Legacy tools for managing Linux kernel packet filtering capabilities
 URL          : https://www.netfilter.org/projects/iptables
-Лицензия     : GPLv2 and Artistic Licence 2.0 and ISC
-Описание     : The iptables utility controls the network packet filtering code in the
+License      : GPLv2 and Artistic Licence 2.0 and ISC
+Descript     : The iptables utility controls the network packet filtering code in the
              : Linux kernel. This package contains the legacy tools which are obsoleted by
              : nft-variants in iptables-nft package for backwards compatibility reasons.
              : If you need to set up firewalls and/or IP masquerading, you should not install
@@ -735,11 +735,11 @@ URL          : https://www.netfilter.org/projects/iptables
 <summary>iptables-legacy-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : iptables legacy libraries
+From repo     : updates-testing
+Short desc    : iptables legacy libraries
 URL          : https://www.netfilter.org/projects/iptables
-Лицензия     : GPLv2 and Artistic Licence 2.0 and ISC
-Описание     : iptables libraries.
+License      : GPLv2 and Artistic Licence 2.0 and ISC
+Descript     : iptables libraries.
              : 
              : Please remember that libip*tc libraries do neither have a stable API nor a real so version.
              : 
@@ -754,11 +754,11 @@ URL          : https://www.netfilter.org/projects/iptables
 <summary>iptables-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : iptables libraries
+From repo     : anaconda
+Short desc    : iptables libraries
 URL          : http://www.netfilter.org/projects/iptables
-Лицензия     : GPLv2 and Artistic Licence 2.0 and ISC
-Описание     : iptables libraries.
+License      : GPLv2 and Artistic Licence 2.0 and ISC
+Descript     : iptables libraries.
              : 
              : Please remember that libip*tc libraries do neither have a stable API nor a real so version.
              : 
@@ -773,11 +773,11 @@ URL          : http://www.netfilter.org/projects/iptables
 <summary>iptables-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : libxtables and iptables extensions userspace support
+From repo     : updates-testing
+Short desc    : libxtables and iptables extensions userspace support
 URL          : https://www.netfilter.org/projects/iptables
-Лицензия     : GPLv2 and Artistic Licence 2.0 and ISC
-Описание     : libxtables and associated shared object files
+License      : GPLv2 and Artistic Licence 2.0 and ISC
+Descript     : libxtables and associated shared object files
              : 
              : Libxtables provides unified access to iptables extensions in userspace. Data
              : and logic for those is kept in per-extension shared object files.
@@ -789,11 +789,11 @@ URL          : https://www.netfilter.org/projects/iptables
 <summary>iptables-nft</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : nftables compatibility for iptables, arptables and ebtables
+From repo     : updates-testing
+Short desc    : nftables compatibility for iptables, arptables and ebtables
 URL          : https://www.netfilter.org/projects/iptables
-Лицензия     : GPLv2 and Artistic Licence 2.0 and ISC
-Описание     : nftables compatibility for iptables, arptables and ebtables.
+License      : GPLv2 and Artistic Licence 2.0 and ISC
+Descript     : nftables compatibility for iptables, arptables and ebtables.
 ```
 
 </details>
@@ -802,11 +802,11 @@ URL          : https://www.netfilter.org/projects/iptables
 <summary>iptables-services</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : iptables and ip6tables services for iptables
+From repo     : fedora
+Short desc    : iptables and ip6tables services for iptables
 URL          : http://www.netfilter.org/projects/iptables
-Лицензия     : GPLv2 and Artistic Licence 2.0 and ISC
-Описание     : iptables services for IPv4 and IPv6
+License      : GPLv2 and Artistic Licence 2.0 and ISC
+Descript     : iptables services for IPv4 and IPv6
              : 
              : This package provides the services iptables and ip6tables that have been split
              : out of the base package since they are not active by default anymore.
@@ -818,11 +818,11 @@ URL          : http://www.netfilter.org/projects/iptables
 <summary>iptables-utils</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : iptables and ip6tables misc utilities
+From repo     : updates-testing
+Short desc    : iptables and ip6tables misc utilities
 URL          : https://www.netfilter.org/projects/iptables
-Лицензия     : GPLv2 and Artistic Licence 2.0 and ISC
-Описание     : Utils for iptables
+License      : GPLv2 and Artistic Licence 2.0 and ISC
+Descript     : Utils for iptables
              : 
              : This package provides nfnl_osf with the pf.os database and nfbpf_compile,
              : a bytecode generator for use with xt_bpf. Also included is iptables-apply,
@@ -835,11 +835,11 @@ URL          : https://www.netfilter.org/projects/iptables
 <summary>iptstate</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A top-like display of IP Tables state table entries
+From repo     : anaconda
+Short desc    : A top-like display of IP Tables state table entries
 URL          : http://www.phildev.net/iptstate/
-Лицензия     : zlib
-Описание     : IP Tables State (iptstate) was originally written to implement
+License      : zlib
+Descript     : IP Tables State (iptstate) was originally written to implement
              : the "state top" feature of IP Filter in IP Tables. "State top"
              : displays the states held by your stateful firewall in a top-like
              : manner.
@@ -866,11 +866,11 @@ URL          : http://www.phildev.net/iptstate/
 <summary>iputils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Network monitoring tools including ping
+From repo     : anaconda
+Short desc    : Network monitoring tools including ping
 URL          : https://github.com/iputils/iputils
-Лицензия     : BSD and GPLv2+
-Описание     : The iputils package contains basic utilities for monitoring a network,
+License      : BSD and GPLv2+
+Descript     : The iputils package contains basic utilities for monitoring a network,
              : including ping. The ping command sends a series of ICMP protocol
              : ECHO_REQUEST packets to a specified network host to discover whether
              : the target machine is alive and receiving network traffic.
@@ -882,11 +882,11 @@ URL          : https://github.com/iputils/iputils
 <summary>iputils</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Network monitoring tools including ping
+From repo     : updates-testing
+Short desc    : Network monitoring tools including ping
 URL          : https://github.com/iputils/iputils
-Лицензия     : BSD and GPLv2+
-Описание     : The iputils package contains basic utilities for monitoring a network,
+License      : BSD and GPLv2+
+Descript     : The iputils package contains basic utilities for monitoring a network,
              : including ping. The ping command sends a series of ICMP protocol
              : ECHO_REQUEST packets to a specified network host to discover whether
              : the target machine is alive and receiving network traffic.
@@ -898,11 +898,11 @@ URL          : https://github.com/iputils/iputils
 <summary>ipw2100-firmware</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Firmware for Intel® PRO/Wireless 2100 network adaptors
+From repo     : anaconda
+Short desc    : Firmware for Intel® PRO/Wireless 2100 network adaptors
 URL          : http://ipw2100.sourceforge.net/firmware.php
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware files required by the ipw2100 driver for
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware files required by the ipw2100 driver for
              : Linux. Usage of the firmware is subject to the terms and conditions contained
              : in /lib/firmware/LICENSE.ipw2100. Please read it carefully.
 ```
@@ -913,11 +913,11 @@ URL          : http://ipw2100.sourceforge.net/firmware.php
 <summary>ipw2200-firmware</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Firmware for Intel® PRO/Wireless 2200 network adaptors
+From repo     : anaconda
+Short desc    : Firmware for Intel® PRO/Wireless 2200 network adaptors
 URL          : http://ipw2200.sourceforge.net/firmware.php
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware files required by the ipw2200 driver for
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware files required by the ipw2200 driver for
              : Linux. Usage of the firmware is subject to the terms and conditions contained
              : in /lib/firmware/LICENSE.ipw2200. Please read it carefully.
 ```
@@ -928,11 +928,11 @@ URL          : http://ipw2200.sourceforge.net/firmware.php
 <summary>ipxe-roms-qemu</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Network boot loader roms supported by QEMU, .rom format
+From repo     : anaconda
+Short desc    : Network boot loader roms supported by QEMU, .rom format
 URL          : http://ipxe.org/
-Лицензия     : GPLv2 with additional permissions and BSD
-Описание     : iPXE is an open source network bootloader. It provides a direct
+License      : GPLv2 with additional permissions and BSD
+Descript     : iPXE is an open source network bootloader. It provides a direct
              : replacement for proprietary PXE ROMs, with many extra features such as
              : DNS, HTTP, iSCSI, etc.
              : 
@@ -946,11 +946,11 @@ URL          : http://ipxe.org/
 <summary>iscsi-initiator-utils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : iSCSI daemon and utility programs
+From repo     : anaconda
+Short desc    : iSCSI daemon and utility programs
 URL          : http://www.open-iscsi.org
-Лицензия     : GPLv2+
-Описание     : The iscsi package provides the server daemon for the iSCSI protocol,
+License      : GPLv2+
+Descript     : The iscsi package provides the server daemon for the iSCSI protocol,
              : as well as the utility programs used to manage it. iSCSI is a protocol
              : for distributed disk access using SCSI commands sent over Internet
              : Protocol networks.
@@ -962,11 +962,11 @@ URL          : http://www.open-iscsi.org
 <summary>iscsi-initiator-utils-iscsiuio</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Userspace configuration daemon required for some iSCSI hardware
+From repo     : anaconda
+Short desc    : Userspace configuration daemon required for some iSCSI hardware
 URL          : http://www.open-iscsi.org
-Лицензия     : BSD
-Описание     : The iscsiuio configuration daemon provides network configuration help
+License      : BSD
+Descript     : The iscsiuio configuration daemon provides network configuration help
              : for some iSCSI offload hardware.
 ```
 
@@ -976,11 +976,11 @@ URL          : http://www.open-iscsi.org
 <summary>isl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Integer point manipulation library
+From repo     : anaconda
+Short desc    : Integer point manipulation library
 URL          : http://isl.gforge.inria.fr/
-Лицензия     : MIT
-Описание     : isl is a library for manipulating sets and relations of integer points
+License      : MIT
+Descript     : isl is a library for manipulating sets and relations of integer points
              : bounded by linear constraints.  Supported operations on sets include
              : intersection, union, set difference, emptiness check, convex hull,
              : (integer) affine hull, integer projection, computing the lexicographic
@@ -996,11 +996,11 @@ URL          : http://isl.gforge.inria.fr/
 <summary>isns-utils-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Shared library files for iSNS
+From repo     : anaconda
+Short desc    : Shared library files for iSNS
 URL          : https://github.com/open-iscsi/open-isns
-Лицензия     : LGPLv2+
-Описание     : Shared library files for iSNS
+License      : LGPLv2+
+Descript     : Shared library files for iSNS
 ```
 
 </details>
@@ -1009,11 +1009,11 @@ URL          : https://github.com/open-iscsi/open-isns
 <summary>iso-codes</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : ISO code lists and translations
+From repo     : anaconda
+Short desc    : ISO code lists and translations
 URL          : https://salsa.debian.org/iso-codes-team/iso-codes
-Лицензия     : LGPLv2+
-Описание     : This package provides the ISO 639 Language code list, the ISO 4217
+License      : LGPLv2+
+Descript     : This package provides the ISO 639 Language code list, the ISO 4217
              : Currency code list, the ISO 3166 Territory code list, and ISO 3166-2
              : sub-territory lists, and all their translations in gettext format.
 ```
@@ -1024,11 +1024,11 @@ URL          : https://salsa.debian.org/iso-codes-team/iso-codes
 <summary>iso-codes</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : ISO code lists and translations
+From repo     : updates-testing
+Short desc    : ISO code lists and translations
 URL          : https://salsa.debian.org/iso-codes-team/iso-codes
-Лицензия     : LGPLv2+
-Описание     : This package provides the ISO 639 Language code list, the ISO 4217
+License      : LGPLv2+
+Descript     : This package provides the ISO 639 Language code list, the ISO 4217
              : Currency code list, the ISO 3166 Territory code list, and ISO 3166-2
              : sub-territory lists, and all their translations in gettext format.
 ```
@@ -1040,11 +1040,11 @@ URL          : https://salsa.debian.org/iso-codes-team/iso-codes
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Utilities for working with md5sum implanted in ISO images
+From repo     : anaconda
+Short desc    : Utilities for working with md5sum implanted in ISO images
 URL          : https://github.com/rhinstaller/isomd5sum
-Лицензия     : GPLv2+
-Описание     : The isomd5sum package contains utilities for implanting and verifying
+License      : GPLv2+
+Descript     : The isomd5sum package contains utilities for implanting and verifying
              : an md5sum implanted into an ISO9660 image.
 ```
 
@@ -1054,11 +1054,11 @@ URL          : https://github.com/rhinstaller/isomd5sum
 <summary>itcl</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Object oriented extensions to Tcl and Tk
+From repo     : fedora
+Short desc    : Object oriented extensions to Tcl and Tk
 URL          : http://incrtcl.sourceforge.net/itcl/
-Лицензия     : TCL
-Описание     : [incr Tcl] is Tcl extension that provides object-oriented features that are
+License      : TCL
+Descript     : [incr Tcl] is Tcl extension that provides object-oriented features that are
              : missing from the Tcl language.
 ```
 
@@ -1068,11 +1068,11 @@ URL          : http://incrtcl.sourceforge.net/itcl/
 <summary>itop</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Interactive interrupt viewer
+From repo     : fedora
+Short desc    : Interactive interrupt viewer
 URL          : https://github.com/kargig/itop
-Лицензия     : MIT
-Описание     : Interrupts 'top-like' utility for Linux
+License      : MIT
+Descript     : Interrupts 'top-like' utility for Linux
 ```
 
 </details>
@@ -1081,11 +1081,11 @@ URL          : https://github.com/kargig/itop
 <summary>iw</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A nl80211 based wireless configuration tool
+From repo     : anaconda
+Short desc    : A nl80211 based wireless configuration tool
 URL          : http://wireless.kernel.org/en/users/Documentation/iw
-Лицензия     : ISC
-Описание     : iw is a new nl80211 based CLI configuration utility for wireless devices.
+License      : ISC
+Descript     : iw is a new nl80211 based CLI configuration utility for wireless devices.
              : Currently you can only use this utility to configure devices which
              : use a mac80211 driver as these are the new drivers being written -
              : only because most new wireless devices being sold are now SoftMAC.
@@ -1097,11 +1097,11 @@ URL          : http://wireless.kernel.org/en/users/Documentation/iw
 <summary>iwl100-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Wireless WiFi Link 100 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Wireless WiFi Link 100 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux to support the iwl100 hardware.  Usage of the firmware
              : is subject to the terms and conditions contained inside the provided
              : LICENSE file. Please read it carefully.
@@ -1114,11 +1114,11 @@ URL          : http://www.kernel.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel® PRO/Wireless 1000 B/G/N network adaptors
+From repo     : updates-testing
+Short desc    : Firmware for Intel® PRO/Wireless 1000 B/G/N network adaptors
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux to support the iwl1000 hardware.  Usage of the firmware
              : is subject to the terms and conditions contained inside the provided
              : LICENSE file. Please read it carefully.
@@ -1130,11 +1130,11 @@ URL          : http://www.kernel.org/
 <summary>iwl105-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Centrino Wireless-N 105 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Centrino Wireless-N 105 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux to support the iwl105 hardware.  Usage of the firmware
              : is subject to the terms and conditions contained inside the provided
              : LICENSE file. Please read it carefully.
@@ -1146,11 +1146,11 @@ URL          : http://www.kernel.org/
 <summary>iwl135-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Centrino Wireless-N 135 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Centrino Wireless-N 135 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux to support the iwl135 hardware.  Usage of the firmware
              : is subject to the terms and conditions contained inside the provided
              : LICENSE file. Please read it carefully.
@@ -1162,11 +1162,11 @@ URL          : http://www.kernel.org/
 <summary>iwl2000-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Centrino Wireless-N 2000 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Centrino Wireless-N 2000 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux to support the iwl2000 hardware.  Usage of the firmware
              : is subject to the terms and conditions contained inside the provided
              : LICENSE file. Please read it carefully.
@@ -1178,11 +1178,11 @@ URL          : http://www.kernel.org/
 <summary>iwl2030-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Centrino Wireless-N 2030 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Centrino Wireless-N 2030 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux to support the iwl2030 hardware.  Usage of the firmware
              : is subject to the terms and conditions contained inside the provided
              : LICENSE file. Please read it carefully.
@@ -1195,11 +1195,11 @@ URL          : http://www.kernel.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Wireless WiFi Link 3160 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Wireless WiFi Link 3160 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```
@@ -1210,11 +1210,11 @@ URL          : http://www.kernel.org/
 <summary>iwl3945-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel® PRO/Wireless 3945 A/B/G network adaptors
+From repo     : updates-testing
+Short desc    : Firmware for Intel® PRO/Wireless 3945 A/B/G network adaptors
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the iwl3945 driver
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the iwl3945 driver
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```
@@ -1225,11 +1225,11 @@ URL          : http://www.kernel.org/
 <summary>iwl4965-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel® PRO/Wireless 4965 A/G/N network adaptors
+From repo     : updates-testing
+Short desc    : Firmware for Intel® PRO/Wireless 4965 A/G/N network adaptors
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the iwl4965 driver
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the iwl4965 driver
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```
@@ -1240,11 +1240,11 @@ URL          : http://www.kernel.org/
 <summary>iwl5000-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel® PRO/Wireless 5000 A/G/N network adaptors
+From repo     : updates-testing
+Short desc    : Firmware for Intel® PRO/Wireless 5000 A/G/N network adaptors
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the iwl5000 driver
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the iwl5000 driver
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```
@@ -1255,11 +1255,11 @@ URL          : http://www.kernel.org/
 <summary>iwl5150-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel® PRO/Wireless 5150 A/G/N network adaptors
+From repo     : updates-testing
+Short desc    : Firmware for Intel® PRO/Wireless 5150 A/G/N network adaptors
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the iwl5150 driver
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the iwl5150 driver
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```
@@ -1270,11 +1270,11 @@ URL          : http://www.kernel.org/
 <summary>iwl6000-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Wireless WiFi Link 6000 AGN Adapter
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Wireless WiFi Link 6000 AGN Adapter
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```
@@ -1285,11 +1285,11 @@ URL          : http://www.kernel.org/
 <summary>iwl6000g2a-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Wireless WiFi Link 6005 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Wireless WiFi Link 6005 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```
@@ -1300,11 +1300,11 @@ URL          : http://www.kernel.org/
 <summary>iwl6000g2b-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Wireless WiFi Link 6030 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Wireless WiFi Link 6030 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```
@@ -1315,11 +1315,11 @@ URL          : http://www.kernel.org/
 <summary>iwl6050-firmware</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Wireless WiFi Link 6050 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Wireless WiFi Link 6050 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```
@@ -1331,11 +1331,11 @@ URL          : http://www.kernel.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Firmware for Intel(R) Wireless WiFi Link 726x/8000/9000/AX200/AX201 Series Adapters
+From repo     : updates-testing
+Short desc    : Firmware for Intel(R) Wireless WiFi Link 726x/8000/9000/AX200/AX201 Series Adapters
 URL          : http://www.kernel.org/
-Лицензия     : Redistributable, no modification permitted
-Описание     : This package contains the firmware required by the Intel wireless drivers
+License      : Redistributable, no modification permitted
+Descript     : This package contains the firmware required by the Intel wireless drivers
              : for Linux.  Usage of the firmware is subject to the terms and conditions
              : contained inside the provided LICENSE file. Please read it carefully.
 ```

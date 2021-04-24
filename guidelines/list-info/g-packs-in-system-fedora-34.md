@@ -1,14 +1,14 @@
-# For letter g, information about installed packages
+# For first letter g, information about installation packages
 
 <details>
 <summary>gamemode</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Optimize system performance for games on demand
+From repo     : anaconda
+Short desc    : Optimize system performance for games on demand
 URL          : https://github.com/FeralInteractive/gamemode
-Лицензия     : BSD
-Описание     : GameMode is a daemon/lib combo for GNU/Linux that allows games to
+License      : BSD
+Descript     : GameMode is a daemon/lib combo for GNU/Linux that allows games to
              : request a set of optimizations be temporarily applied to the host OS.
              : GameMode was designed primarily as a stop-gap solution to problems
              : with the Intel and AMD CPU "powersave" or "ondemand" governors, but is
@@ -24,11 +24,11 @@ URL          : https://github.com/FeralInteractive/gamemode
 <summary>gavl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A library for handling uncompressed audio and video data
+From repo     : anaconda
+Short desc    : A library for handling uncompressed audio and video data
 URL          : http://gmerlin.sourceforge.net/
-Лицензия     : GPLv3+
-Описание     : Gavl is a library for handling and converting uncompressed audio and
+License      : GPLv3+
+Descript     : Gavl is a library for handling and converting uncompressed audio and
              : video data. It provides datatypes for audio/video formats and standardized
              : structures to store the data. It supports converting between all formats.
              : Some conversion functions are available in multiple versions (MMX...),
@@ -42,11 +42,11 @@ URL          : http://gmerlin.sourceforge.net/
 <summary>gawk</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The GNU version of the AWK text processing utility
+From repo     : anaconda
+Short desc    : The GNU version of the AWK text processing utility
 URL          : https://www.gnu.org/software/gawk/
-Лицензия     : GPLv3+ and GPLv2+ and LGPLv2+ and BSD
-Описание     : The gawk package contains the GNU version of AWK text processing utility. AWK is
+License      : GPLv3+ and GPLv2+ and LGPLv2+ and BSD
+Descript     : The gawk package contains the GNU version of AWK text processing utility. AWK is
              : a programming language designed for text processing and typically used as a data
              : extraction and reporting tool.
              : 
@@ -61,11 +61,11 @@ URL          : https://www.gnu.org/software/gawk/
 <summary>gawk-all-langpacks</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Additional localisation files for gawk utility
+From repo     : anaconda
+Short desc    : Additional localisation files for gawk utility
 URL          : https://www.gnu.org/software/gawk/
-Лицензия     : GPLv3+ and GPLv2+ and LGPLv2+ and BSD
-Описание     : The base package of gawk supports only the english localisation. This subpackage
+License      : GPLv3+ and GPLv2+ and LGPLv2+ and BSD
+Descript     : The base package of gawk supports only the english localisation. This subpackage
              : contains additional localisation files.
 ```
 
@@ -75,11 +75,11 @@ URL          : https://www.gnu.org/software/gawk/
 <summary>gc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A garbage collector for C and C++
+From repo     : anaconda
+Short desc    : A garbage collector for C and C++
 URL          : http://www.hboehm.info/gc/
-Лицензия     : BSD
-Описание     : The Boehm-Demers-Weiser conservative garbage collector can be
+License      : BSD
+Descript     : The Boehm-Demers-Weiser conservative garbage collector can be
              : used as a garbage collecting replacement for C malloc or C++ new.
 ```
 
@@ -89,11 +89,11 @@ URL          : http://www.hboehm.info/gc/
 <summary>gcc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Various compilers (C, C++, Objective-C, ...)
+From repo     : anaconda
+Short desc    : Various compilers (C, C++, Objective-C, ...)
 URL          : http://gcc.gnu.org
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Описание     : The gcc package contains the GNU Compiler Collection version 11.
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Descript     : The gcc package contains the GNU Compiler Collection version 11.
              : You'll need this package in order to compile C code.
 ```
 
@@ -103,11 +103,11 @@ URL          : http://gcc.gnu.org
 <summary>gcc</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Various compilers (C, C++, Objective-C, ...)
+From repo     : updates-testing
+Short desc    : Various compilers (C, C++, Objective-C, ...)
 URL          : http://gcc.gnu.org
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Описание     : The gcc package contains the GNU Compiler Collection version 11.
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Descript     : The gcc package contains the GNU Compiler Collection version 11.
              : You'll need this package in order to compile C code.
 ```
 
@@ -117,11 +117,11 @@ URL          : http://gcc.gnu.org
 <summary>gcc-c++</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : C++ support for GCC
+From repo     : updates-testing
+Short desc    : C++ support for GCC
 URL          : http://gcc.gnu.org
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Описание     : This package adds C++ support to the GNU Compiler Collection.
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Descript     : This package adds C++ support to the GNU Compiler Collection.
              : It includes support for most of the current C++ specification,
              : including templates and exception handling.
 ```
@@ -132,11 +132,11 @@ URL          : http://gcc.gnu.org
 <summary>gcc-gdb-plugin</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GCC plugin for GDB
+From repo     : anaconda
+Short desc    : GCC plugin for GDB
 URL          : http://gcc.gnu.org
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Описание     : This package contains GCC plugin for GDB C expression evaluation.
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Descript     : This package contains GCC plugin for GDB C expression evaluation.
 ```
 
 </details>
@@ -145,11 +145,11 @@ URL          : http://gcc.gnu.org
 <summary>gcc-gdb-plugin</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GCC plugin for GDB
+From repo     : updates-testing
+Short desc    : GCC plugin for GDB
 URL          : http://gcc.gnu.org
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Описание     : This package contains GCC plugin for GDB C expression evaluation.
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Descript     : This package contains GCC plugin for GDB C expression evaluation.
 ```
 
 </details>
@@ -158,11 +158,11 @@ URL          : http://gcc.gnu.org
 <summary>gcc-gfortran</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Fortran support
+From repo     : updates-testing
+Short desc    : Fortran support
 URL          : http://gcc.gnu.org
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Описание     : The gcc-gfortran package provides support for compiling Fortran
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Descript     : The gcc-gfortran package provides support for compiling Fortran
              : programs with the GNU Compiler Collection.
 ```
 
@@ -172,11 +172,11 @@ URL          : http://gcc.gnu.org
 <summary>gconf-editor</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Editor/admin tool for GConf
+From repo     : fedora
+Short desc    : Editor/admin tool for GConf
 URL          : http://www.gnome.org
-Лицензия     : GPLv2+ and GFDL
-Описание     : gconf-editor allows you to browse and modify GConf configuration
+License      : GPLv2+ and GFDL
+Descript     : gconf-editor allows you to browse and modify GConf configuration
              : sources.
 ```
 
@@ -186,11 +186,11 @@ URL          : http://www.gnome.org
 <summary>gcr</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A library for bits of crypto UI and parsing
+From repo     : anaconda
+Short desc    : A library for bits of crypto UI and parsing
 URL          : https://wiki.gnome.org/Projects/CryptoGlue
-Лицензия     : LGPLv2+
-Описание     : gcr is a library for displaying certificates, and crypto UI, accessing
+License      : LGPLv2+
+Descript     : gcr is a library for displaying certificates, and crypto UI, accessing
              : key stores. It also provides a viewer for crypto files on the GNOME
              : desktop.
              : 
@@ -203,11 +203,11 @@ URL          : https://wiki.gnome.org/Projects/CryptoGlue
 <summary>gcr</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A library for bits of crypto UI and parsing
+From repo     : updates-testing
+Short desc    : A library for bits of crypto UI and parsing
 URL          : https://wiki.gnome.org/Projects/CryptoGlue
-Лицензия     : LGPLv2+
-Описание     : gcr is a library for displaying certificates, and crypto UI, accessing
+License      : LGPLv2+
+Descript     : gcr is a library for displaying certificates, and crypto UI, accessing
              : key stores. It also provides a viewer for crypto files on the GNOME
              : desktop.
              : 
@@ -220,11 +220,11 @@ URL          : https://wiki.gnome.org/Projects/CryptoGlue
 <summary>gcr-base</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library files for gcr
+From repo     : anaconda
+Short desc    : Library files for gcr
 URL          : https://wiki.gnome.org/Projects/CryptoGlue
-Лицензия     : LGPLv2+
-Описание     : The gcr-base package includes the gcr-base library.
+License      : LGPLv2+
+Descript     : The gcr-base package includes the gcr-base library.
 ```
 
 </details>
@@ -233,11 +233,11 @@ URL          : https://wiki.gnome.org/Projects/CryptoGlue
 <summary>gcr-base</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Library files for gcr
+From repo     : updates-testing
+Short desc    : Library files for gcr
 URL          : https://wiki.gnome.org/Projects/CryptoGlue
-Лицензия     : LGPLv2+
-Описание     : The gcr-base package includes the gcr-base library.
+License      : LGPLv2+
+Descript     : The gcr-base package includes the gcr-base library.
 ```
 
 </details>
@@ -246,11 +246,11 @@ URL          : https://wiki.gnome.org/Projects/CryptoGlue
 <summary>gd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A graphics library for quick creation of PNG or JPEG images
+From repo     : anaconda
+Short desc    : A graphics library for quick creation of PNG or JPEG images
 URL          : http://libgd.github.io/
-Лицензия     : MIT
-Описание     : The gd graphics library allows your code to quickly draw images
+License      : MIT
+Descript     : The gd graphics library allows your code to quickly draw images
              : complete with lines, arcs, text, multiple colors, cut and paste from
              : other images, and flood fills, and to write out the result as a PNG or
              : JPEG file. This is particularly useful in Web applications, where PNG
@@ -264,11 +264,11 @@ URL          : http://libgd.github.io/
 <summary>gd</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A graphics library for quick creation of PNG or JPEG images
+From repo     : updates-testing
+Short desc    : A graphics library for quick creation of PNG or JPEG images
 URL          : http://libgd.github.io/
-Лицензия     : MIT
-Описание     : The gd graphics library allows your code to quickly draw images
+License      : MIT
+Descript     : The gd graphics library allows your code to quickly draw images
              : complete with lines, arcs, text, multiple colors, cut and paste from
              : other images, and flood fills, and to write out the result as a PNG or
              : JPEG file. This is particularly useful in Web applications, where PNG
@@ -282,11 +282,11 @@ URL          : http://libgd.github.io/
 <summary>gd-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The development libraries and header files for gd
+From repo     : updates-testing
+Short desc    : The development libraries and header files for gd
 URL          : http://libgd.github.io/
-Лицензия     : MIT
-Описание     : The gd-devel package contains the development libraries and header
+License      : MIT
+Descript     : The gd-devel package contains the development libraries and header
              : files for gd, a graphics library for creating PNG and JPEG graphics.
 ```
 
@@ -296,11 +296,11 @@ URL          : http://libgd.github.io/
 <summary>gdal-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GDAL file format library
+From repo     : updates-testing
+Short desc    : GDAL file format library
 URL          : http://www.gdal.org
-Лицензия     : MIT
-Описание     : This package contains the GDAL file format library.
+License      : MIT
+Descript     : This package contains the GDAL file format library.
 ```
 
 </details>
@@ -309,11 +309,11 @@ URL          : http://www.gdal.org
 <summary>gdb</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A stub package for GNU source-level debugger
+From repo     : fedora
+Short desc    : A stub package for GNU source-level debugger
 URL          : https://gnu.org/software/gdb/
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
-Описание     : 'gdb' package is only a stub to install gcc-gdb-plugin for 'compile' commands.
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
+Descript     : 'gdb' package is only a stub to install gcc-gdb-plugin for 'compile' commands.
              : See package 'gdb-headless'.
 ```
 
@@ -323,11 +323,11 @@ URL          : https://gnu.org/software/gdb/
 <summary>gdb-doc</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Documentation for GDB (the GNU source-level debugger)
+From repo     : fedora
+Short desc    : Documentation for GDB (the GNU source-level debugger)
 URL          : https://gnu.org/software/gdb/
-Лицензия     : GFDL
-Описание     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
+License      : GFDL
+Descript     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
              : Java, and other languages, by executing them in a controlled fashion
              : and printing their data.
              : 
@@ -340,11 +340,11 @@ URL          : https://gnu.org/software/gdb/
 <summary>gdb-exploitable</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GDB extension for exploitability
+From repo     : fedora
+Short desc    : GDB extension for exploitability
 URL          : https://github.com/jfoote/exploitable
-Лицензия     : MIT
-Описание     : 'exploitable' is a GDB extension that classifies Linux application bugs
+License      : MIT
+Descript     : 'exploitable' is a GDB extension that classifies Linux application bugs
              : by severity. The extension inspects the state of a Linux application that
              : has crashed and outputs a summary of how difficult it might be for an
              : attacker to exploit the underlying software bug to gain control of the
@@ -358,11 +358,11 @@ URL          : https://github.com/jfoote/exploitable
 <summary>gdb-gdbserver</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A standalone server for GDB (the GNU source-level debugger)
+From repo     : fedora
+Short desc    : A standalone server for GDB (the GNU source-level debugger)
 URL          : https://gnu.org/software/gdb/
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
-Описание     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
+Descript     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
              : Java, and other languages, by executing them in a controlled fashion
              : and printing their data.
              : 
@@ -376,11 +376,11 @@ URL          : https://gnu.org/software/gdb/
 <summary>gdb-headless</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A GNU source-level debugger for C, C++, Fortran, Go and other languages
+From repo     : fedora
+Short desc    : A GNU source-level debugger for C, C++, Fortran, Go and other languages
 URL          : https://gnu.org/software/gdb/
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
-Описание     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
+Descript     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
              : Java, and other languages, by executing them in a controlled fashion
              : and printing their data.
 ```
@@ -391,11 +391,11 @@ URL          : https://gnu.org/software/gdb/
 <summary>gdb-minimal</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A GNU source-level debugger for C, C++, Fortran, Go and other languages (minimal version)
+From repo     : fedora
+Short desc    : A GNU source-level debugger for C, C++, Fortran, Go and other languages (minimal version)
 URL          : https://gnu.org/software/gdb/
-Лицензия     : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
-Описание     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ and GPLv2+ with exceptions and GPL+ and LGPLv2+ and LGPLv3+ and BSD and Public Domain and GFDL
+Descript     : GDB, the GNU debugger, allows you to debug programs written in C, C++,
              : Java, and other languages, by executing them in a controlled fashion
              : and printing their data.
              : 
@@ -410,11 +410,11 @@ URL          : https://gnu.org/software/gdb/
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Libraries files for gdbm
+From repo     : anaconda
+Short desc    : Libraries files for gdbm
 URL          : http://www.gnu.org/software/gdbm/
-Лицензия     : GPLv3+
-Описание     : Libraries for the Gdbm GNU database indexing library
+License      : GPLv3+
+Descript     : Libraries for the Gdbm GNU database indexing library
 ```
 
 </details>
@@ -423,11 +423,11 @@ URL          : http://www.gnu.org/software/gdbm/
 <summary>gdcm</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Grassroots DiCoM is a C++ library to parse DICOM medical files
+From repo     : fedora
+Short desc    : Grassroots DiCoM is a C++ library to parse DICOM medical files
 URL          : http://gdcm.sourceforge.net/wiki/index.php/Main_Page
-Лицензия     : BSD
-Описание     : Grassroots DiCoM (GDCM) is a C++ library for DICOM medical files.
+License      : BSD
+Descript     : Grassroots DiCoM (GDCM) is a C++ library for DICOM medical files.
              : It supports ACR-NEMA version 1 and 2 (huffman compression is not supported),
              : RAW, JPEG, JPEG 2000, JPEG-LS, RLE and deflated transfer syntax.
              : It comes with a super fast scanner implementation to quickly scan hundreds of
@@ -443,11 +443,11 @@ URL          : http://gdcm.sourceforge.net/wiki/index.php/Main_Page
 <summary>gdisk</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An fdisk-like partitioning tool for GPT disks
+From repo     : anaconda
+Short desc    : An fdisk-like partitioning tool for GPT disks
 URL          : http://www.rodsbooks.com/gdisk/
-Лицензия     : GPLv2
-Описание     : An fdisk-like partitioning tool for GPT disks. GPT fdisk features a
+License      : GPLv2
+Descript     : An fdisk-like partitioning tool for GPT disks. GPT fdisk features a
              : command-line interface, fairly direct manipulation of partition table
              : structures, recovery tools to help you deal with corrupt partition
              : tables, and the ability to convert MBR disks to GPT format.
@@ -459,11 +459,11 @@ URL          : http://www.rodsbooks.com/gdisk/
 <summary>gdisk</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : An fdisk-like partitioning tool for GPT disks
+From repo     : updates-testing
+Short desc    : An fdisk-like partitioning tool for GPT disks
 URL          : http://www.rodsbooks.com/gdisk/
-Лицензия     : GPLv2
-Описание     : An fdisk-like partitioning tool for GPT disks. GPT fdisk features a
+License      : GPLv2
+Descript     : An fdisk-like partitioning tool for GPT disks. GPT fdisk features a
              : command-line interface, fairly direct manipulation of partition table
              : structures, recovery tools to help you deal with corrupt partition
              : tables, and the ability to convert MBR disks to GPT format.
@@ -475,11 +475,11 @@ URL          : http://www.rodsbooks.com/gdisk/
 <summary>gdk-pixbuf2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An image loading library
+From repo     : anaconda
+Short desc    : An image loading library
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
-Лицензия     : LGPLv2+
-Описание     : gdk-pixbuf is an image loading library that can be extended by loadable
+License      : LGPLv2+
+Descript     : gdk-pixbuf is an image loading library that can be extended by loadable
              : modules for new image formats. It is used by toolkits such as GTK+ or
              : clutter.
 ```
@@ -490,11 +490,11 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 <summary>gdk-pixbuf2</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : An image loading library
+From repo     : updates-testing
+Short desc    : An image loading library
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
-Лицензия     : LGPLv2+
-Описание     : gdk-pixbuf is an image loading library that can be extended by loadable
+License      : LGPLv2+
+Descript     : gdk-pixbuf is an image loading library that can be extended by loadable
              : modules for new image formats. It is used by toolkits such as GTK+ or
              : clutter.
 ```
@@ -505,11 +505,11 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 <summary>gdk-pixbuf2-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Development files for gdk-pixbuf2
+From repo     : updates-testing
+Short desc    : Development files for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
-Лицензия     : LGPLv2+
-Описание     : This package contains the libraries and header files that are needed
+License      : LGPLv2+
+Descript     : This package contains the libraries and header files that are needed
              : for writing applications that are using gdk-pixbuf2.
 ```
 
@@ -519,11 +519,11 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 <summary>gdk-pixbuf2-modules</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Additional image modules for gdk-pixbuf2
+From repo     : anaconda
+Short desc    : Additional image modules for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
-Лицензия     : LGPLv2+
-Описание     : This package contains the additional modules that are needed to load various
+License      : LGPLv2+
+Descript     : This package contains the additional modules that are needed to load various
              : image formats such as ICO and JPEG.
 ```
 
@@ -533,11 +533,11 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 <summary>gdk-pixbuf2-modules</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Additional image modules for gdk-pixbuf2
+From repo     : updates-testing
+Short desc    : Additional image modules for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
-Лицензия     : LGPLv2+
-Описание     : This package contains the additional modules that are needed to load various
+License      : LGPLv2+
+Descript     : This package contains the additional modules that are needed to load various
              : image formats such as ICO and JPEG.
 ```
 
@@ -547,11 +547,11 @@ URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 <summary>gdk-pixbuf2-xlib</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Deprecated Xlib integration for gdk-pixbuf2
+From repo     : fedora
+Short desc    : Deprecated Xlib integration for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/Archive/gdk-pixbuf-xlib
-Лицензия     : LGPLv2+
-Описание     : gdk-pixbuf2-xlib contains the deprecated API for integrating gdk-pixbuf2 with
+License      : LGPLv2+
+Descript     : gdk-pixbuf2-xlib contains the deprecated API for integrating gdk-pixbuf2 with
              : Xlib data types.
              : 
              : This library was originally shipped by gdk-pixbuf2, and has
@@ -570,11 +570,11 @@ URL          : https://gitlab.gnome.org/Archive/gdk-pixbuf-xlib
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : The GNOME Display Manager
+From repo     : updates-testing
+Short desc    : The GNOME Display Manager
 URL          : https://wiki.gnome.org/Projects/GDM
-Лицензия     : GPLv2+
-Описание     : GDM, the GNOME Display Manager, handles authentication-related backend
+License      : GPLv2+
+Descript     : GDM, the GNOME Display Manager, handles authentication-related backend
              : functionality for logging in a user and unlocking the user's session after
              : it's been locked. GDM also provides functionality for initiating user-switching,
              : so more than one user can be logged in at the same time. It handles
@@ -591,11 +591,11 @@ URL          : https://wiki.gnome.org/Projects/GDM
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : The GNOME Display Manager
+From repo     : anaconda
+Short desc    : The GNOME Display Manager
 URL          : https://wiki.gnome.org/Projects/GDM
-Лицензия     : GPLv2+
-Описание     : GDM, the GNOME Display Manager, handles authentication-related backend
+License      : GPLv2+
+Descript     : GDM, the GNOME Display Manager, handles authentication-related backend
              : functionality for logging in a user and unlocking the user's session after
              : it's been locked. GDM also provides functionality for initiating user-switching,
              : so more than one user can be logged in at the same time. It handles
@@ -611,11 +611,11 @@ URL          : https://wiki.gnome.org/Projects/GDM
 <summary>gdouros-symbola-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A symbol font
+From repo     : anaconda
+Short desc    : A symbol font
 URL          : http://users.teilar.gr/~g1951d/
-Лицензия     : Public Domain
-Описание     : Symbola was created with Mathematics and other technical documents in mind. It
+License      : Public Domain
+Descript     : Symbola was created with Mathematics and other technical documents in mind. It
              : covers many scripts and symbols supported by Unicode.
              : 
              : These include those in Basic Latin, Latin-1 Supplement, Latin Extended-A, IPA
@@ -632,11 +632,11 @@ URL          : http://users.teilar.gr/~g1951d/
 <summary>gecode</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Generic constraint development environment
+From repo     : updates-testing
+Short desc    : Generic constraint development environment
 URL          : http://www.gecode.org/
-Лицензия     : MIT
-Описание     : Gecode is a toolkit for developing constraint-based systems and
+License      : MIT
+Descript     : Gecode is a toolkit for developing constraint-based systems and
              : applications. Gecode provides a constraint solver with state-of-the-art
              : performance while being modular and extensible.
 ```
@@ -648,11 +648,11 @@ URL          : http://www.gecode.org/
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : Text editor for the GNOME desktop
+From repo     : updates-testing
+Short desc    : Text editor for the GNOME desktop
 URL          : https://wiki.gnome.org/Apps/Gedit
-Лицензия     : GPLv2+ and GFDL
-Описание     : gedit is a small, but powerful text editor designed specifically for
+License      : GPLv2+ and GFDL
+Descript     : gedit is a small, but powerful text editor designed specifically for
              : the GNOME desktop. It has most standard text editor functions and fully
              : supports international text in Unicode. Advanced features include syntax
              : highlighting and automatic indentation of source code, printing and editing
@@ -670,11 +670,11 @@ URL          : https://wiki.gnome.org/Apps/Gedit
 <summary>gegl04</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Graph based image processing framework
+From repo     : anaconda
+Short desc    : Graph based image processing framework
 URL          : http://www.gegl.org/
-Лицензия     : LGPLv3+
-Описание     : GEGL (Generic Graphics Library) is a graph based image processing framework.
+License      : LGPLv3+
+Descript     : GEGL (Generic Graphics Library) is a graph based image processing framework.
              : GEGLs original design was made to scratch GIMP's itches for a new
              : compositing and processing core. This core is being designed to have
              : minimal dependencies and a simple well defined API.
@@ -686,11 +686,11 @@ URL          : http://www.gegl.org/
 <summary>gegl04</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Graph based image processing framework
+From repo     : updates-testing
+Short desc    : Graph based image processing framework
 URL          : http://www.gegl.org/
-Лицензия     : LGPLv3+
-Описание     : GEGL (Generic Graphics Library) is a graph based image processing framework.
+License      : LGPLv3+
+Descript     : GEGL (Generic Graphics Library) is a graph based image processing framework.
              : GEGLs original design was made to scratch GIMP's itches for a new
              : compositing and processing core. This core is being designed to have
              : minimal dependencies and a simple well defined API.
@@ -702,11 +702,11 @@ URL          : http://www.gegl.org/
 <summary>gegl04-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Development files for gegl04
+From repo     : updates-testing
+Short desc    : Development files for gegl04
 URL          : http://www.gegl.org/
-Лицензия     : LGPLv3+
-Описание     : The gegl04-devel package contains libraries and header files for
+License      : LGPLv3+
+Descript     : The gegl04-devel package contains libraries and header files for
              : developing applications that use GEGL API version 0.4.
 ```
 
@@ -716,11 +716,11 @@ URL          : http://www.gegl.org/
 <summary>genisoimage</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Creates an image of an ISO9660 file-system
+From repo     : anaconda
+Short desc    : Creates an image of an ISO9660 file-system
 URL          : http://cdrkit.org/
-Лицензия     : GPLv2
-Описание     : The genisoimage program is used as a pre-mastering program; i.e., it
+License      : GPLv2
+Descript     : The genisoimage program is used as a pre-mastering program; i.e., it
              : generates the ISO9660 file-system. Genisoimage takes a snapshot of
              : a given directory tree and generates a binary image of the tree
              : which will correspond to an ISO9660 file-system when written to
@@ -737,11 +737,11 @@ URL          : http://cdrkit.org/
 <summary>geoclue2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Geolocation service
+From repo     : anaconda
+Short desc    : Geolocation service
 URL          : http://www.freedesktop.org/wiki/Software/GeoClue/
-Лицензия     : GPLv2+
-Описание     : Geoclue is a D-Bus service that provides location information. The primary goal
+License      : GPLv2+
+Descript     : Geoclue is a D-Bus service that provides location information. The primary goal
              : of the Geoclue project is to make creating location-aware applications as
              : simple as possible, while the secondary goal is to ensure that no application
              : can access location information without explicit permission from user.
@@ -753,11 +753,11 @@ URL          : http://www.freedesktop.org/wiki/Software/GeoClue/
 <summary>geoclue2-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Geoclue client library
+From repo     : anaconda
+Short desc    : Geoclue client library
 URL          : http://www.freedesktop.org/wiki/Software/GeoClue/
-Лицензия     : LGPLv2+
-Описание     : The geoclue2-libs package contains a convenience library to interact with
+License      : LGPLv2+
+Descript     : The geoclue2-libs package contains a convenience library to interact with
              : Geoclue service.
 ```
 
@@ -767,11 +767,11 @@ URL          : http://www.freedesktop.org/wiki/Software/GeoClue/
 <summary>geocode-glib</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Geocoding helper library
+From repo     : anaconda
+Short desc    : Geocoding helper library
 URL          : http://www.gnome.org/
-Лицензия     : LGPLv2+
-Описание     : geocode-glib is a convenience library for the geocoding (finding longitude,
+License      : LGPLv2+
+Descript     : geocode-glib is a convenience library for the geocoding (finding longitude,
              : and latitude from an address) and reverse geocoding (finding an address from
              : coordinates). It uses Nominatim service to achieve that. It also caches
              : (reverse-)geocoding requests for faster results and to avoid unnecessary server
@@ -784,11 +784,11 @@ URL          : http://www.gnome.org/
 <summary>geolite2-city</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Free IP geolocation city database
+From repo     : anaconda
+Short desc    : Free IP geolocation city database
 URL          : https://dev.maxmind.com/geoip/geoip2/geolite2/
-Лицензия     : CC-BY-SA
-Описание     : GeoLite2 databases are free IP geolocation databases comparable to, but less
+License      : CC-BY-SA
+Descript     : GeoLite2 databases are free IP geolocation databases comparable to, but less
              : accurate than, MaxMind's GeoIP2 databases.  This product includes GeoLite2 data
              : created by MaxMind, available from http://www.maxmind.com.
 ```
@@ -799,11 +799,11 @@ URL          : https://dev.maxmind.com/geoip/geoip2/geolite2/
 <summary>geolite2-country</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Free IP geolocation country database
+From repo     : anaconda
+Short desc    : Free IP geolocation country database
 URL          : https://dev.maxmind.com/geoip/geoip2/geolite2/
-Лицензия     : CC-BY-SA
-Описание     : GeoLite2 databases are free IP geolocation databases comparable to, but less
+License      : CC-BY-SA
+Descript     : GeoLite2 databases are free IP geolocation databases comparable to, but less
              : accurate than, MaxMind's GeoIP2 databases.  This product includes GeoLite2 data
              : created by MaxMind, available from http://www.maxmind.com.
 ```
@@ -814,11 +814,11 @@ URL          : https://dev.maxmind.com/geoip/geoip2/geolite2/
 <summary>geos</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GEOS is a C++ port of the Java Topology Suite
+From repo     : updates-testing
+Short desc    : GEOS is a C++ port of the Java Topology Suite
 URL          : http://trac.osgeo.org/geos/
-Лицензия     : LGPLv2
-Описание     : GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology
+License      : LGPLv2
+Descript     : GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology
              : Suite (JTS). As such, it aims to contain the complete functionality of
              : JTS in C++. This includes all the OpenGIS "Simple Features for SQL" spatial
              : predicate functions and spatial operators, as well as specific JTS topology
@@ -831,11 +831,11 @@ URL          : http://trac.osgeo.org/geos/
 <summary>getdata</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Library for reading and writing dirfile data
+From repo     : fedora
+Short desc    : Library for reading and writing dirfile data
 URL          : http://getdata.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : The GetData Project is the reference implementation of the Dirfile Standards,
+License      : GPLv2+
+Descript     : The GetData Project is the reference implementation of the Dirfile Standards,
              : a filesystem-based database format for time-ordered binary data. The Dirfile
              : database format is designed to provide a fast, simple format for storing and
              : reading data.
@@ -847,11 +847,11 @@ URL          : http://getdata.sourceforge.net/
 <summary>getdata-lzma</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Enables getdata read ability of lzma compressed dirfiles
+From repo     : fedora
+Short desc    : Enables getdata read ability of lzma compressed dirfiles
 URL          : http://getdata.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : Enables getdata to read dirfiles that are encoded (compressed) with lzma.
+License      : GPLv2+
+Descript     : Enables getdata to read dirfiles that are encoded (compressed) with lzma.
 ```
 
 </details>
@@ -860,11 +860,11 @@ URL          : http://getdata.sourceforge.net/
 <summary>gettext</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GNU libraries and utilities for producing multi-lingual messages
+From repo     : anaconda
+Short desc    : GNU libraries and utilities for producing multi-lingual messages
 URL          : http://www.gnu.org/software/gettext/
-Лицензия     : GPLv3+ and LGPLv2+ and GFDL
-Описание     : The GNU gettext package provides a set of tools and documentation for
+License      : GPLv3+ and LGPLv2+ and GFDL
+Descript     : The GNU gettext package provides a set of tools and documentation for
              : producing multi-lingual messages in programs. Tools include a set of
              : conventions about how programs should be written to support message
              : catalogs, a directory and file naming organization for the message
@@ -882,11 +882,11 @@ URL          : http://www.gnu.org/software/gettext/
 <summary>gettext-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for gettext
+From repo     : anaconda
+Short desc    : Libraries for gettext
 URL          : http://www.gnu.org/software/gettext/
-Лицензия     : LGPLv2+ and GPLv3+
-Описание     : This package contains libraries used internationalization support.
+License      : LGPLv2+ and GPLv3+
+Descript     : This package contains libraries used internationalization support.
 ```
 
 </details>
@@ -895,11 +895,11 @@ URL          : http://www.gnu.org/software/gettext/
 <summary>gfbgraph</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GLib/GObject wrapper for the Facebook Graph API
+From repo     : anaconda
+Short desc    : GLib/GObject wrapper for the Facebook Graph API
 URL          : https://wiki.gnome.org/Projects/GFBGraph
-Лицензия     : LGPLv2+
-Описание     : GLib/GObject wrapper for the Facebook Graph API that integrates with GNOME
+License      : LGPLv2+
+Descript     : GLib/GObject wrapper for the Facebook Graph API that integrates with GNOME
              : Online Accounts.
 ```
 
@@ -909,11 +909,11 @@ URL          : https://wiki.gnome.org/Projects/GFBGraph
 <summary>ghasher</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GUI hasher for GTK+ 2
+From repo     : fedora
+Short desc    : GUI hasher for GTK+ 2
 URL          : http://asgaard.homelinux.org/code/ghasher/
-Лицензия     : BSD
-Описание     : ghasher can easily show the MD5 sum (or md2, md4, sha1, sha, ripemd160, dss1)
+License      : BSD
+Descript     : ghasher can easily show the MD5 sum (or md2, md4, sha1, sha, ripemd160, dss1)
              : of a file. Motivation for this utility was that users shouldn't need to open a
              : command line for checking the MD5 sum of files they download.
 ```
@@ -924,11 +924,11 @@ URL          : http://asgaard.homelinux.org/code/ghasher/
 <summary>ghc-srpm-macros</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : RPM macros for building Haskell source packages
+From repo     : fedora
+Short desc    : RPM macros for building Haskell source packages
 URL          : https://src.fedoraproject.org/rpms/ghc-srpm-macros
-Лицензия     : GPLv2+
-Описание     : Macros used when generating Haskell source RPM packages.
+License      : GPLv2+
+Descript     : Macros used when generating Haskell source RPM packages.
 ```
 
 </details>
@@ -937,11 +937,11 @@ URL          : https://src.fedoraproject.org/rpms/ghc-srpm-macros
 <summary>ghex</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Binary editor for GNOME
+From repo     : fedora
+Short desc    : Binary editor for GNOME
 URL          : https://gitlab.gnome.org/GNOME/ghex
-Лицензия     : GPLv2+
-Описание     : GHex can load raw data from binary files and display them for editing in the
+License      : GPLv2+
+Descript     : GHex can load raw data from binary files and display them for editing in the
              : traditional hex editor view. The display is split in two columns, with
              : hexadecimal values in one column and the ASCII representation in the other.
              : A useful tool for working with raw data.
@@ -953,11 +953,11 @@ URL          : https://gitlab.gnome.org/GNOME/ghex
 <summary>ghex-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GtkHex library
+From repo     : fedora
+Short desc    : GtkHex library
 URL          : https://gitlab.gnome.org/GNOME/ghex
-Лицензия     : GPLv2+
-Описание     : The ghex-libs package contains the shared GtkHex library.
+License      : GPLv2+
+Descript     : The ghex-libs package contains the shared GtkHex library.
 ```
 
 </details>
@@ -966,11 +966,11 @@ URL          : https://gitlab.gnome.org/GNOME/ghex
 <summary>ghostscript</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Interpreter for PostScript language & PDF
+From repo     : anaconda
+Short desc    : Interpreter for PostScript language & PDF
 URL          : https://ghostscript.com/
-Лицензия     : AGPLv3+
-Описание     : This package provides useful conversion utilities based on Ghostscript software,
+License      : AGPLv3+
+Descript     : This package provides useful conversion utilities based on Ghostscript software,
              : for converting PS, PDF and other document formats between each other.
              : 
              : Ghostscript is a suite of software providing an interpreter for Adobe Systems'
@@ -985,11 +985,11 @@ URL          : https://ghostscript.com/
 <summary>ghostscript-x11</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Ghostscript's X11-based driver for document rendering
+From repo     : fedora
+Short desc    : Ghostscript's X11-based driver for document rendering
 URL          : https://ghostscript.com/
-Лицензия     : AGPLv3+
-Описание     : This package provides X11-based driver for Ghostscript, which enables displaying
+License      : AGPLv3+
+Descript     : This package provides X11-based driver for Ghostscript, which enables displaying
              : of various document files (including PS and PDF).
 ```
 
@@ -999,11 +999,11 @@ URL          : https://ghostscript.com/
 <summary>ghostwriter</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Cross-platform, aesthetic, distraction-free Markdown editor
+From repo     : fedora
+Short desc    : Cross-platform, aesthetic, distraction-free Markdown editor
 URL          : https://github.com/wereturtle/ghostwriter
-Лицензия     : GPLv3+ and CC-BY and CC-BY-SA and MPLv1.1 and BSD and LGPLv3 and MIT and ISC
-Описание     : Ghostwriter is a text editor for Markdown, which is a plain text markup
+License      : GPLv3+ and CC-BY and CC-BY-SA and MPLv1.1 and BSD and LGPLv3 and MIT and ISC
+Descript     : Ghostwriter is a text editor for Markdown, which is a plain text markup
              : format created by John Gruber. For more information about Markdown, please
              : visit John Gruber’s website at http://www.daringfireball.net.
              : 
@@ -1018,11 +1018,11 @@ URL          : https://github.com/wereturtle/ghostwriter
 <summary>giflib</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A library and utilities for processing GIFs
+From repo     : anaconda
+Short desc    : A library and utilities for processing GIFs
 URL          : http://www.sourceforge.net/projects/giflib/
-Лицензия     : MIT
-Описание     : giflib is a library for reading and writing gif images.
+License      : MIT
+Descript     : giflib is a library for reading and writing gif images.
 ```
 
 </details>
@@ -1032,11 +1032,11 @@ URL          : http://www.sourceforge.net/projects/giflib/
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : GNU Image Manipulation Program
+From repo     : updates-testing
+Short desc    : GNU Image Manipulation Program
 URL          : http://www.gimp.org/
-Лицензия     : GPLv3+ and GPLv3
-Описание     : GIMP (GNU Image Manipulation Program) is a powerful image composition and
+License      : GPLv3+ and GPLv3
+Descript     : GIMP (GNU Image Manipulation Program) is a powerful image composition and
              : editing program, which can be extremely useful for creating logos and other
              : graphics for web pages. GIMP has many of the tools and filters you would expect
              : to find in similar commercial offerings, and some interesting extras as well.
@@ -1051,11 +1051,11 @@ URL          : http://www.gimp.org/
 <summary>gimp-data-extras</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Extra files for GIMP
+From repo     : fedora
+Short desc    : Extra files for GIMP
 URL          : http://www.gimp.org/
-Лицензия     : GPLv2+
-Описание     : Patterns, gradients, and other extra files for GIMP.
+License      : GPLv2+
+Descript     : Patterns, gradients, and other extra files for GIMP.
 ```
 
 </details>
@@ -1064,11 +1064,11 @@ URL          : http://www.gimp.org/
 <summary>gimp-dbp</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Graphical batch processing for Gimp, no scripting knowledge required
+From repo     : fedora
+Short desc    : Graphical batch processing for Gimp, no scripting knowledge required
 URL          : http://www.ozemail.com.au/~hodsond/dbp.html
-Лицензия     : GPLv2+
-Описание     : David's Batch Processor (DBP) is a simple batch processing plugin for the Gimp.
+License      : GPLv2+
+Descript     : David's Batch Processor (DBP) is a simple batch processing plugin for the Gimp.
              : It allows the user to automatically perform operations, such as re-size, on a
              : collection of image files. Its main advantage is that the user does not have to
              : learn a scripting language. Like the Gimp itself, DBP relies on a graphical
@@ -1081,11 +1081,11 @@ URL          : http://www.ozemail.com.au/~hodsond/dbp.html
 <summary>gimp-dds-plugin</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Плагин GIMP для работы с форматом DDS
+From repo     : fedora
+Short desc    : Плагин GIMP для работы с форматом DDS
 URL          : http://code.google.com/p/gimp-dds/
-Лицензия     : GPLv2+
-Описание     : Плагин для GIMP, помогающий загружать и сохранять изображения
+License      : GPLv2+
+Descript     : Плагин для GIMP, помогающий загружать и сохранять изображения
              : в формате Direct Draw Surface (DDS).
 ```
 
@@ -1096,11 +1096,11 @@ URL          : http://code.google.com/p/gimp-dds/
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : GIMP plugin and extension development kit
+From repo     : updates-testing
+Short desc    : GIMP plugin and extension development kit
 URL          : http://www.gimp.org/
-Лицензия     : LGPLv3+
-Описание     : The gimp-devel package contains the static libraries and header files
+License      : LGPLv3+
+Descript     : The gimp-devel package contains the static libraries and header files
              : for writing GNU Image Manipulation Program (GIMP) plug-ins and
              : extensions.
 ```
@@ -1112,11 +1112,11 @@ URL          : http://www.gimp.org/
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : GIMP plugin and extension development tools
+From repo     : updates-testing
+Short desc    : GIMP plugin and extension development tools
 URL          : http://www.gimp.org/
-Лицензия     : LGPLv3+
-Описание     : The gimp-devel-tools package contains gimptool, a helper program to
+License      : LGPLv3+
+Descript     : The gimp-devel-tools package contains gimptool, a helper program to
              : build GNU Image Manipulation Program (GIMP) plug-ins and extensions.
 ```
 
@@ -1126,11 +1126,11 @@ URL          : http://www.gimp.org/
 <summary>gimp-elsamuko</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Script collection for the GIMP
+From repo     : fedora
+Short desc    : Script collection for the GIMP
 URL          : https://github.com/elsamuko/gimp-elsamuko
-Лицензия     : GPLv3+
-Описание     : Collection of scripts for the GIMP with various effects as; technicolor,
+License      : GPLv3+
+Descript     : Collection of scripts for the GIMP with various effects as; technicolor,
              : round corners, Obama 'Hope', vintage look, sharpening, etc.
 ```
 
@@ -1140,11 +1140,11 @@ URL          : https://github.com/elsamuko/gimp-elsamuko
 <summary>gimp-focusblur-plugin</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Simulate an out-of-focus blur
+From repo     : fedora
+Short desc    : Simulate an out-of-focus blur
 URL          : http://registry.gimp.org/node/1444
-Лицензия     : GPLv2+
-Описание     : Focus Blur plug-in is blurring effect, a kind of called DoF. This software
+License      : GPLv2+
+Descript     : Focus Blur plug-in is blurring effect, a kind of called DoF. This software
              : makes a out of focus with luminosity and depth, like a sight or lenses. It
              : can be used with depth map, depth fakes and shine effect. Also it can work
              : as simple and applicable blur.
@@ -1156,11 +1156,11 @@ URL          : http://registry.gimp.org/node/1444
 <summary>gimp-fourier-plugin</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A simple plug-in to do fourier transform on your image
+From repo     : fedora
+Short desc    : A simple plug-in to do fourier transform on your image
 URL          : http://people.via.ecp.fr/~remi/soft/gimp/gimp_plugin_en.php3
-Лицензия     : GPLv3+
-Описание     : A simple plug-in to do fourier transform on your image. The major advantage of
+License      : GPLv3+
+Descript     : A simple plug-in to do fourier transform on your image. The major advantage of
              : this plugin is to be able to work with the transformed image inside GIMP.
 ```
 
@@ -1170,11 +1170,11 @@ URL          : http://people.via.ecp.fr/~remi/soft/gimp/gimp_plugin_en.php3
 <summary>gimp-heif-plugin</summary>
 
 ```
-Из репозитор : rpmfusion-free
-Краткое опис : A plugin for loading and saving HEIF images
+From repo     : rpmfusion-free
+Short desc    : A plugin for loading and saving HEIF images
 URL          : https://github.com/strukturag/heif-gimp-plugin/
-Лицензия     : GPLv3
-Описание     : This is a GIMP plugin for loading and saving HEIF images.
+License      : GPLv3
+Descript     : This is a GIMP plugin for loading and saving HEIF images.
              : HEIF is a image format using HEVC image coding for the best compression ratios.
 ```
 
@@ -1184,11 +1184,11 @@ URL          : https://github.com/strukturag/heif-gimp-plugin/
 <summary>gimp-help</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Help files for GIMP
+From repo     : fedora
+Short desc    : Help files for GIMP
 URL          : http://docs.gimp.org/
-Лицензия     : GFDL and GPLv2+
-Описание     : This package contains a user manual written for the GNU Image Manipulation
+License      : GFDL and GPLv2+
+Descript     : This package contains a user manual written for the GNU Image Manipulation
              : Program.
 ```
 
@@ -1198,11 +1198,11 @@ URL          : http://docs.gimp.org/
 <summary>gimp-help-ru</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Russian (ru) language support for gimp-help
+From repo     : fedora
+Short desc    : Russian (ru) language support for gimp-help
 URL          : http://docs.gimp.org/
-Лицензия     : GFDL and GPLv2+
-Описание     : Russian language support for gimp-help.
+License      : GFDL and GPLv2+
+Descript     : Russian language support for gimp-help.
 ```
 
 </details>
@@ -1211,11 +1211,11 @@ URL          : http://docs.gimp.org/
 <summary>gimp-high-pass-filter</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : High-pass filter script for the GIMP
+From repo     : fedora
+Short desc    : High-pass filter script for the GIMP
 URL          : http://registry.gimp.org/node/7385
-Лицензия     : GPLv2+
-Описание     : A general purpose high-pass filter plugin. It shows up as
+License      : GPLv2+
+Descript     : A general purpose high-pass filter plugin. It shows up as
              : Filters->Generic->High Pass Filter. You can select a blur radius that sets the
              : size of detail to be passed by the filter, as well as an option to keep the
              : source layer or replace it.
@@ -1227,11 +1227,11 @@ URL          : http://registry.gimp.org/node/7385
 <summary>gimp-layer-via-copy-cut</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Layer via copy/cut plug-in for GIMP
+From repo     : fedora
+Short desc    : Layer via copy/cut plug-in for GIMP
 URL          : http://some-gimp-plugins.com/contents/en/
-Лицензия     : GPLv3+
-Описание     : Copy and move the selected area to a new layer in the same position.
+License      : GPLv3+
+Descript     : Copy and move the selected area to a new layer in the same position.
 ```
 
 </details>
@@ -1240,11 +1240,11 @@ URL          : http://some-gimp-plugins.com/contents/en/
 <summary>gimp-lensfun</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Gimp plugin to correct lens distortion
+From repo     : fedora
+Short desc    : Gimp plugin to correct lens distortion
 URL          : http://seebk.github.io/GIMP-Lensfun/
-Лицензия     : GPLv3+
-Описание     : GimpLensfun is a Gimp plugin to correct lens distortion using the lensfun
+License      : GPLv3+
+Descript     : GimpLensfun is a Gimp plugin to correct lens distortion using the lensfun
              : library and database.
 ```
 
@@ -1255,11 +1255,11 @@ URL          : http://seebk.github.io/GIMP-Lensfun/
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : GIMP libraries
+From repo     : updates-testing
+Short desc    : GIMP libraries
 URL          : http://www.gimp.org/
-Лицензия     : LGPLv3+
-Описание     : The gimp-libs package contains shared libraries needed for the GNU Image
+License      : LGPLv3+
+Descript     : The gimp-libs package contains shared libraries needed for the GNU Image
              : Manipulation Program (GIMP).
 ```
 
@@ -1269,11 +1269,11 @@ URL          : http://www.gimp.org/
 <summary>gimp-lqr-plugin</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Content-aware resizing plug-in for the GIMP
+From repo     : fedora
+Short desc    : Content-aware resizing plug-in for the GIMP
 URL          : http://liquidrescale.wikidot.com/
-Лицензия     : GPLv2+
-Описание     : This package is a plug-in for the GIMP 2.4. It implements the algorithm
+License      : GPLv2+
+Descript     : This package is a plug-in for the GIMP 2.4. It implements the algorithm
              : described in the paper "Seam Carving for Content-Aware Image Resizing"
              : by Shai Avidan and Ariel Shamir, which can be found at
              : http://www.faculty.idc.ac.il/arik/imret.pdf
@@ -1285,11 +1285,11 @@ URL          : http://liquidrescale.wikidot.com/
 <summary>gimp-luminosity-masks</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Luminosity mask channels plug-in for Gimp
+From repo     : fedora
+Short desc    : Luminosity mask channels plug-in for Gimp
 URL          : http://registry.gimp.org/node/28644
-Лицензия     : GPLv2+
-Описание     : Script-Fu script generating a full set of Light, Dark, and
+License      : GPLv2+
+Descript     : Script-Fu script generating a full set of Light, Dark, and
              : Midtone masks as channels for your image.
 ```
 
@@ -1299,11 +1299,11 @@ URL          : http://registry.gimp.org/node/28644
 <summary>gimp-paint-studio</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A collection of tool option presets and brushes for GIMP
+From repo     : fedora
+Short desc    : A collection of tool option presets and brushes for GIMP
 URL          : http://code.google.com/p/gps-gimp-paint-studio/
-Лицензия     : CC-BY-SA and GPLv2
-Описание     : GIMP Paint Studio(GPS) is a collection of brushes and accompanying tool
+License      : CC-BY-SA and GPLv2
+Descript     : GIMP Paint Studio(GPS) is a collection of brushes and accompanying tool
              : presets. Tool presets are a simply saved tool options, highly useful feature of
              : the GIMP. The goal of GPS is to provide an adequate working environment for
              : graphic designers and artists to begin to paint and feel comfortable with GIMP
@@ -1316,11 +1316,11 @@ URL          : http://code.google.com/p/gps-gimp-paint-studio/
 <summary>gimp-resynthesizer</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Gimp plug-in for texture synthesis
+From repo     : fedora
+Short desc    : Gimp plug-in for texture synthesis
 URL          : https://github.com/bootchk/resynthesizer
-Лицензия     : GPLv2+
-Описание     : Resynthesizer is a Gimp plug-in for texture synthesis. Given a sample of a
+License      : GPLv2+
+Descript     : Resynthesizer is a Gimp plug-in for texture synthesis. Given a sample of a
              : texture, it can create more of that texture. This has uses including:
              : - Creating more of a texture (including creation of tileable textures)
              : - Removing objects from images (great for touching up photos)
@@ -1333,11 +1333,11 @@ URL          : https://github.com/bootchk/resynthesizer
 <summary>gimp-save-for-web</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Save for web plug-in for GIMP
+From repo     : fedora
+Short desc    : Save for web plug-in for GIMP
 URL          : http://registry.gimp.org/node/33
-Лицензия     : GPLv2+ and MIT
-Описание     : Save for Web allows to find compromise between minimal file size
+License      : GPLv2+ and MIT
+Descript     : Save for Web allows to find compromise between minimal file size
              : and acceptable quality of image quickly. While adjusting various
              : settings, you may explore how image quality and file size change.
              : Options to reduce file size of an image include setting compression
@@ -1351,11 +1351,11 @@ URL          : http://registry.gimp.org/node/33
 <summary>gimp-separate+</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Rudimentary CMYK support for The GIMP
+From repo     : fedora
+Short desc    : Rudimentary CMYK support for The GIMP
 URL          : http://cue.yellowmagic.info/softwares/separate.html
-Лицензия     : GPLv2+ and MIT
-Описание     : Separate+ is a GIMP plug-in that convert an RGB image to CMYK format.
+License      : GPLv2+ and MIT
+Descript     : Separate+ is a GIMP plug-in that convert an RGB image to CMYK format.
 ```
 
 </details>
@@ -1364,11 +1364,11 @@ URL          : http://cue.yellowmagic.info/softwares/separate.html
 <summary>gimp-wavelet-decompose</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Decomposing image plug-in for Gimp
+From repo     : fedora
+Short desc    : Decomposing image plug-in for Gimp
 URL          : http://registry.gimp.org/node/13549
-Лицензия     : GPLv3+
-Описание     : Script-Fu script for lossless decomposing an image into different
+License      : GPLv3+
+Descript     : Script-Fu script for lossless decomposing an image into different
              : detail scales useful for photo post processing (for instance
              : repairing skin in portraits).
 ```
@@ -1379,11 +1379,11 @@ URL          : http://registry.gimp.org/node/13549
 <summary>gimp-wavelet-denoise-plugin</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Gimp wavelet denoise plugin
+From repo     : fedora
+Short desc    : Gimp wavelet denoise plugin
 URL          : http://registry.gimp.org/node/4235
-Лицензия     : GPLv2+
-Описание     : The wavelet denoise plugin is a tool to reduce noise in each channel of an
+License      : GPLv2+
+Descript     : The wavelet denoise plugin is a tool to reduce noise in each channel of an
              : image separately. The default colour space to do denoising is YCbCr which
              : has the advantage that chroma noise can be reduced without affecting image
              : details. Denoising in CIELAB (L*a*b*) or RGB is available as an option.
@@ -1397,11 +1397,11 @@ URL          : http://registry.gimp.org/node/4235
 <summary>gimpfx-foundry</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Additional GIMP plugins
+From repo     : fedora
+Short desc    : Additional GIMP plugins
 URL          : http://gimpfx-foundry.sourceforge.net/
-Лицензия     : GPLv2+ and GPLv3+ and Public Domain
-Описание     : These scripts allow GIMP graphics to be endowed with special effects, such as
+License      : GPLv2+ and GPLv3+ and Public Domain
+Descript     : These scripts allow GIMP graphics to be endowed with special effects, such as
              : blurring or distorting them in certain ways. This package has 117+ new
              : scripts for GIMP that are not part of the graphic software's standard
              : installation.
@@ -1418,11 +1418,11 @@ URL          : http://gimpfx-foundry.sourceforge.net/
 <summary>git</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Fast Version Control System
+From repo     : anaconda
+Short desc    : Fast Version Control System
 URL          : https://git-scm.com/
-Лицензия     : GPLv2
-Описание     : Git is a fast, scalable, distributed revision control system with an
+License      : GPLv2
+Descript     : Git is a fast, scalable, distributed revision control system with an
              : unusually rich command set that provides both high-level operations
              : and full access to internals.
              : 
@@ -1437,11 +1437,11 @@ URL          : https://git-scm.com/
 <summary>git</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Fast Version Control System
+From repo     : updates-testing
+Short desc    : Fast Version Control System
 URL          : https://git-scm.com/
-Лицензия     : GPLv2
-Описание     : Git is a fast, scalable, distributed revision control system with an
+License      : GPLv2
+Descript     : Git is a fast, scalable, distributed revision control system with an
              : unusually rich command set that provides both high-level operations
              : and full access to internals.
              : 
@@ -1456,11 +1456,11 @@ URL          : https://git-scm.com/
 <summary>git-archive-all</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Archive git repository with its submodules
+From repo     : fedora
+Short desc    : Archive git repository with its submodules
 URL          : https://github.com/Kentzo/git-archive-all
-Лицензия     : MIT
-Описание     : Archive git repository with its submodules.
+License      : MIT
+Descript     : Archive git repository with its submodules.
 ```
 
 </details>
@@ -1469,11 +1469,11 @@ URL          : https://github.com/Kentzo/git-archive-all
 <summary>git-clang-format</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Integration of clang-format for git
+From repo     : updates-testing
+Short desc    : Integration of clang-format for git
 URL          : http://llvm.org
-Лицензия     : NCSA
-Описание     : clang-format integration for git.
+License      : NCSA
+Descript     : clang-format integration for git.
 ```
 
 </details>
@@ -1482,11 +1482,11 @@ URL          : http://llvm.org
 <summary>git-core</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Core package of git with minimal functionality
+From repo     : anaconda
+Short desc    : Core package of git with minimal functionality
 URL          : https://git-scm.com/
-Лицензия     : GPLv2
-Описание     : Git is a fast, scalable, distributed revision control system with an
+License      : GPLv2
+Descript     : Git is a fast, scalable, distributed revision control system with an
              : unusually rich command set that provides both high-level operations
              : and full access to internals.
              : 
@@ -1502,11 +1502,11 @@ URL          : https://git-scm.com/
 <summary>git-core</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Core package of git with minimal functionality
+From repo     : updates-testing
+Short desc    : Core package of git with minimal functionality
 URL          : https://git-scm.com/
-Лицензия     : GPLv2
-Описание     : Git is a fast, scalable, distributed revision control system with an
+License      : GPLv2
+Descript     : Git is a fast, scalable, distributed revision control system with an
              : unusually rich command set that provides both high-level operations
              : and full access to internals.
              : 
@@ -1522,11 +1522,11 @@ URL          : https://git-scm.com/
 <summary>git-core-doc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Documentation files for git-core
+From repo     : anaconda
+Short desc    : Documentation files for git-core
 URL          : https://git-scm.com/
-Лицензия     : GPLv2
-Описание     : Documentation files for git-core package including man pages.
+License      : GPLv2
+Descript     : Documentation files for git-core package including man pages.
 ```
 
 </details>
@@ -1535,11 +1535,11 @@ URL          : https://git-scm.com/
 <summary>git-core-doc</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Documentation files for git-core
+From repo     : updates-testing
+Short desc    : Documentation files for git-core
 URL          : https://git-scm.com/
-Лицензия     : GPLv2
-Описание     : Documentation files for git-core package including man pages.
+License      : GPLv2
+Descript     : Documentation files for git-core package including man pages.
 ```
 
 </details>
@@ -1548,11 +1548,11 @@ URL          : https://git-scm.com/
 <summary>git-delta</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Syntax-highlighting pager for git
+From repo     : fedora
+Short desc    : Syntax-highlighting pager for git
 URL          : https://crates.io/crates/git-delta
-Лицензия     : MIT and ASL 2.0 and BSD and LGPLv3+
-Описание     : Syntax-highlighting pager for git.
+License      : MIT and ASL 2.0 and BSD and LGPLv3+
+Descript     : Syntax-highlighting pager for git.
 ```
 
 </details>
@@ -1561,11 +1561,11 @@ URL          : https://crates.io/crates/git-delta
 <summary>git-email</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Git tools for sending patches via email
+From repo     : updates-testing
+Short desc    : Git tools for sending patches via email
 URL          : https://git-scm.com/
-Лицензия     : GPLv2
-Описание     : Git tools for sending patches via email.
+License      : GPLv2
+Descript     : Git tools for sending patches via email.
 ```
 
 </details>
@@ -1574,11 +1574,11 @@ URL          : https://git-scm.com/
 <summary>git-extras</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Little git extras
+From repo     : updates-testing
+Short desc    : Little git extras
 URL          : https://github.com/tj/git-extras
-Лицензия     : MIT
-Описание     : git-extras adds the following extra-commands to git:
+License      : MIT
+Descript     : git-extras adds the following extra-commands to git:
              : 
              : alias, archive-file, bug, changelog, commits-since, contrib, count,
              : create-branch, delete-branch, delete-submodule, delete-tag, effort,
@@ -1596,11 +1596,11 @@ URL          : https://github.com/tj/git-extras
 <summary>git-filter-repo</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Quickly rewrite git repository history (git-filter-branch replacement)
+From repo     : updates-testing
+Short desc    : Quickly rewrite git repository history (git-filter-branch replacement)
 URL          : https://github.com/newren/git-filter-repo
-Лицензия     : MIT
-Описание     : git filter-repo is a versatile tool for rewriting history, which includes
+License      : MIT
+Descript     : git filter-repo is a versatile tool for rewriting history, which includes
              : capabilities not found anywhere else. It roughly falls into the same space of
              : tool as git filter-branch but without the capitulation-inducing poor
              : performance, with far more capabilities, and with a design that scales
@@ -1613,11 +1613,11 @@ URL          : https://github.com/newren/git-filter-repo
 <summary>git-lab-porcelain</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Git porcelain for working with git-lab
+From repo     : fedora
+Short desc    : Git porcelain for working with git-lab
 URL          : https://gitlab.com/nhorman/git-lab-porcelain
-Лицензия     : GPLv3
-Описание     : A porcelain for git to facilitate command line creation/listing/editing
+License      : GPLv3
+Descript     : A porcelain for git to facilitate command line creation/listing/editing
              : and reviewing of merge requests in git-lab.
 ```
 
@@ -1627,11 +1627,11 @@ URL          : https://gitlab.com/nhorman/git-lab-porcelain
 <summary>git-lfs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Git extension for versioning large files
+From repo     : updates-testing
+Short desc    : Git extension for versioning large files
 URL          : https://git-lfs.github.io/
-Лицензия     : MIT
-Описание     : Git Large File Storage (LFS) replaces large files such as audio samples,
+License      : MIT
+Descript     : Git Large File Storage (LFS) replaces large files such as audio samples,
              : videos, datasets, and graphics with text pointers inside Git, while
              : storing the file contents on a remote server.
 ```
@@ -1642,11 +1642,11 @@ URL          : https://git-lfs.github.io/
 <summary>git-merge-changelog</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Git merge driver for ChangeLog files
+From repo     : fedora
+Short desc    : Git merge driver for ChangeLog files
 URL          : https://www.gnu.org/software/gnulib
-Лицензия     : GPLv2+
-Описание     : Git Merge Changelog is a git merge driver for changelogs that combines
+License      : GPLv2+
+Descript     : Git Merge Changelog is a git merge driver for changelogs that combines
              : parallel additions to the changelog without generating merge conflicts.
              : It can be enabled for specific files by setting appropriate git attributes.
 ```
@@ -1657,11 +1657,11 @@ URL          : https://www.gnu.org/software/gnulib
 <summary>git-repair</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Repairs a damaged git repository
+From repo     : fedora
+Short desc    : Repairs a damaged git repository
 URL          : https://hackage.haskell.org/package/git-repair
-Лицензия     : AGPLv3
-Описание     : Git-repair can repair various forms of damage to git repositories.
+License      : AGPLv3
+Descript     : Git-repair can repair various forms of damage to git repositories.
              : 
              : It is a complement to git fsck, which finds problems, but does not fix them.
              : 
@@ -1676,11 +1676,11 @@ URL          : https://hackage.haskell.org/package/git-repair
 <summary>git-review</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A Git helper for integration with Gerrit
+From repo     : fedora
+Short desc    : A Git helper for integration with Gerrit
 URL          : https://opendev.org/opendev/git-review
-Лицензия     : ASL 2.0
-Описание     : An extension for source control system Git that creates and manages review
+License      : ASL 2.0
+Descript     : An extension for source control system Git that creates and manages review
              : requests in the patch management system Gerrit. It replaces the rfc.sh script.
 ```
 
@@ -1690,11 +1690,11 @@ URL          : https://opendev.org/opendev/git-review
 <summary>git-revise</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Efficiently update, split, and rearrange git commits
+From repo     : fedora
+Short desc    : Efficiently update, split, and rearrange git commits
 URL          : https://github.com/mystor/git-revise
-Лицензия     : MIT
-Описание     : 
+License      : MIT
+Descript     : 
              : git revise is a git subcommand to efficiently update, split, and rearrange
              : commits. It is heavily inspired by git rebase, however it tries to be more
              : efficient and ergonomic for patch-stack oriented workflows.
@@ -1715,11 +1715,11 @@ URL          : https://github.com/mystor/git-revise
 <summary>git-subrepo</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Git Submodule Alternative
+From repo     : fedora
+Short desc    : Git Submodule Alternative
 URL          : https://github.com/ingydotnet/git-subrepo
-Лицензия     : MIT
-Описание     : This git command "clones" an external git repo into a subdirectory
+License      : MIT
+Descript     : This git command "clones" an external git repo into a subdirectory
              : of your repo. Later on, upstream changes can be pulled in, and local
              : changes can be pushed back. Simple.
 ```
@@ -1730,11 +1730,11 @@ URL          : https://github.com/ingydotnet/git-subrepo
 <summary>git-subtree</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Git tools to merge and split repositories
+From repo     : updates-testing
+Short desc    : Git tools to merge and split repositories
 URL          : https://git-scm.com/
-Лицензия     : GPLv2
-Описание     : Git subtrees allow subprojects to be included within a subdirectory
+License      : GPLv2
+Descript     : Git subtrees allow subprojects to be included within a subdirectory
              : of the main project, optionally including the subproject's entire
              : history.
 ```
@@ -1745,11 +1745,11 @@ URL          : https://git-scm.com/
 <summary>git-time-metric</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Simple, seamless, lightweight time tracking for Git
+From repo     : fedora
+Short desc    : Simple, seamless, lightweight time tracking for Git
 URL          : https://github.com/git-time-metric/gtm
-Лицензия     : MIT
-Описание     : 
+License      : MIT
+Descript     : 
              : Simple, seamless, lightweight time tracking for Git.
 ```
 
@@ -1759,11 +1759,11 @@ URL          : https://github.com/git-time-metric/gtm
 <summary>git-tools</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Assorted git-related scripts and tools
+From repo     : fedora
+Short desc    : Assorted git-related scripts and tools
 URL          : https://github.com/MestreLion/git-tools
-Лицензия     : GPLv3+
-Описание     : Assorted git-related scripts and tools:
+License      : GPLv3+
+Descript     : Assorted git-related scripts and tools:
              : 
              : git-branches-rename:
              : Batch renames branches with a matching prefix to another prefix
@@ -1791,11 +1791,11 @@ URL          : https://github.com/MestreLion/git-tools
 <summary>gjs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Javascript Bindings for GNOME
+From repo     : anaconda
+Short desc    : Javascript Bindings for GNOME
 URL          : https://wiki.gnome.org/Projects/Gjs
-Лицензия     : MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
-Описание     : Gjs allows using GNOME libraries from Javascript. It's based on the
+License      : MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
+Descript     : Gjs allows using GNOME libraries from Javascript. It's based on the
              : Spidermonkey Javascript engine from Mozilla and the GObject introspection
              : framework.
 ```
@@ -1806,11 +1806,11 @@ URL          : https://wiki.gnome.org/Projects/Gjs
 <summary>gjs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Javascript Bindings for GNOME
+From repo     : updates-testing
+Short desc    : Javascript Bindings for GNOME
 URL          : https://wiki.gnome.org/Projects/Gjs
-Лицензия     : MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
-Описание     : Gjs allows using GNOME libraries from Javascript. It's based on the
+License      : MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
+Descript     : Gjs allows using GNOME libraries from Javascript. It's based on the
              : Spidermonkey Javascript engine from Mozilla and the GObject introspection
              : framework.
 ```
@@ -1821,11 +1821,11 @@ URL          : https://wiki.gnome.org/Projects/Gjs
 <summary>gl-manpages</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : OpenGL manpages
+From repo     : fedora
+Short desc    : OpenGL manpages
 URL          : https://github.com/KhronosGroup/OpenGL-Refpages
-Лицензия     : MIT and Open Publication
-Описание     : OpenGL manpages
+License      : MIT and Open Publication
+Descript     : OpenGL manpages
 ```
 
 </details>
@@ -1834,11 +1834,11 @@ URL          : https://github.com/KhronosGroup/OpenGL-Refpages
 <summary>glade-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Widget library for Glade UI designer
+From repo     : fedora
+Short desc    : Widget library for Glade UI designer
 URL          : https://glade.gnome.org/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : The glade-libs package consists of the widgets that compose the Glade GUI as
+License      : GPLv2+ and LGPLv2+
+Descript     : The glade-libs package consists of the widgets that compose the Glade GUI as
              : a separate library to ease the integration of Glade into other applications.
 ```
 
@@ -1848,11 +1848,11 @@ URL          : https://glade.gnome.org/
 <summary>glew</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : The OpenGL Extension Wrangler Library
+From repo     : fedora
+Short desc    : The OpenGL Extension Wrangler Library
 URL          : http://glew.sourceforge.net
-Лицензия     : BSD and MIT
-Описание     : The OpenGL Extension Wrangler Library (GLEW) is a cross-platform C/C++
+License      : BSD and MIT
+Descript     : The OpenGL Extension Wrangler Library (GLEW) is a cross-platform C/C++
              : extension loading library. GLEW provides efficient run-time mechanisms for
              : determining which OpenGL extensions are supported on the target platform.
              : OpenGL core and extension functionality is exposed in a single header file.
@@ -1870,11 +1870,11 @@ URL          : http://glew.sourceforge.net
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : A cross-platform multimedia library
+From repo     : fedora
+Short desc    : A cross-platform multimedia library
 URL          : http://www.glfw.org/index.html
-Лицензия     : zlib
-Описание     : GLFW is a free, Open Source, multi-platform library for OpenGL application
+License      : zlib
+Descript     : GLFW is a free, Open Source, multi-platform library for OpenGL application
              : development that provides a powerful API for handling operating system specific
              : tasks such as opening an OpenGL window, reading keyboard, mouse, joystick and
              : time input, creating threads, and more.
@@ -1887,11 +1887,11 @@ URL          : http://www.glfw.org/index.html
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : A library of handy utility functions
+From repo     : fedora
+Short desc    : A library of handy utility functions
 URL          : http://www.gtk.org/
-Лицензия     : LGPLv2+
-Описание     : GLib is a handy library of utility functions. This C library is
+License      : LGPLv2+
+Descript     : GLib is a handy library of utility functions. This C library is
              : designed to solve some portability problems and provide other useful
              : functionality that most programs require.
 ```
@@ -1903,11 +1903,11 @@ URL          : http://www.gtk.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Libraries and header files for glib development
+From repo     : fedora
+Short desc    : Libraries and header files for glib development
 URL          : http://www.gtk.org/
-Лицензия     : LGPLv2+
-Описание     : Libraries and header files for glib development.
+License      : LGPLv2+
+Descript     : Libraries and header files for glib development.
 ```
 
 </details>
@@ -1916,11 +1916,11 @@ URL          : http://www.gtk.org/
 <summary>glib-networking</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Networking support for GLib
+From repo     : updates-testing
+Short desc    : Networking support for GLib
 URL          : http://www.gnome.org
-Лицензия     : LGPLv2+
-Описание     : This package contains modules that extend the networking support in
+License      : LGPLv2+
+Descript     : This package contains modules that extend the networking support in
              : GIO. In particular, it contains libproxy- and GSettings-based
              : GProxyResolver implementations and a gnutls-based GTlsConnection
              : implementation.
@@ -1932,11 +1932,11 @@ URL          : http://www.gnome.org
 <summary>glib-networking</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Networking support for GLib
+From repo     : anaconda
+Short desc    : Networking support for GLib
 URL          : http://www.gnome.org
-Лицензия     : LGPLv2+
-Описание     : This package contains modules that extend the networking support in
+License      : LGPLv2+
+Descript     : This package contains modules that extend the networking support in
              : GIO. In particular, it contains libproxy- and GSettings-based
              : GProxyResolver implementations and a gnutls-based GTlsConnection
              : implementation.
@@ -1948,11 +1948,11 @@ URL          : http://www.gnome.org
 <summary>glib2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A library of handy utility functions
+From repo     : anaconda
+Short desc    : A library of handy utility functions
 URL          : http://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : GLib is the low-level core library that forms the basis for projects
+License      : LGPLv2+
+Descript     : GLib is the low-level core library that forms the basis for projects
              : such as GTK+ and GNOME. It provides data structure handling for C,
              : portability wrappers, and interfaces for such runtime functionality
              : as an event loop, threads, dynamic loading, and an object system.
@@ -1964,11 +1964,11 @@ URL          : http://www.gtk.org
 <summary>glib2</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A library of handy utility functions
+From repo     : updates-testing
+Short desc    : A library of handy utility functions
 URL          : http://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : GLib is the low-level core library that forms the basis for projects
+License      : LGPLv2+
+Descript     : GLib is the low-level core library that forms the basis for projects
              : such as GTK+ and GNOME. It provides data structure handling for C,
              : portability wrappers, and interfaces for such runtime functionality
              : as an event loop, threads, dynamic loading, and an object system.
@@ -1980,11 +1980,11 @@ URL          : http://www.gtk.org
 <summary>glib2-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A library of handy utility functions
+From repo     : updates-testing
+Short desc    : A library of handy utility functions
 URL          : http://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : The glib2-devel package includes the header files for the GLib library.
+License      : LGPLv2+
+Descript     : The glib2-devel package includes the header files for the GLib library.
 ```
 
 </details>
@@ -1993,11 +1993,11 @@ URL          : http://www.gtk.org
 <summary>glibc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The GNU libc libraries
+From repo     : anaconda
+Short desc    : The GNU libc libraries
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc package contains standard libraries which are used by
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc package contains standard libraries which are used by
              : multiple programs on the system. In order to save disk space and
              : memory, as well as to make upgrading easier, common system code is
              : kept in one place and shared between programs. This particular package
@@ -2012,11 +2012,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The GNU libc libraries
+From repo     : updates-testing
+Short desc    : The GNU libc libraries
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc package contains standard libraries which are used by
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc package contains standard libraries which are used by
              : multiple programs on the system. In order to save disk space and
              : memory, as well as to make upgrading easier, common system code is
              : kept in one place and shared between programs. This particular package
@@ -2031,11 +2031,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-all-langpacks</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : All language packs for glibc.
+From repo     : anaconda
+Short desc    : All language packs for glibc.
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : 
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : 
 ```
 
 </details>
@@ -2044,11 +2044,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-all-langpacks</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : All language packs for glibc.
+From repo     : updates-testing
+Short desc    : All language packs for glibc.
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : 
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : 
 ```
 
 </details>
@@ -2057,11 +2057,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-common</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Common binaries and locale data for glibc
+From repo     : anaconda
+Short desc    : Common binaries and locale data for glibc
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-common package includes common binaries for the GNU libc
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-common package includes common binaries for the GNU libc
              : libraries, as well as national language (locale) support.
 ```
 
@@ -2071,11 +2071,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-common</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Common binaries and locale data for glibc
+From repo     : updates-testing
+Short desc    : Common binaries and locale data for glibc
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-common package includes common binaries for the GNU libc
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-common package includes common binaries for the GNU libc
              : libraries, as well as national language (locale) support.
 ```
 
@@ -2085,11 +2085,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-devel</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Object files for development using standard C libraries.
+From repo     : anaconda
+Short desc    : Object files for development using standard C libraries.
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-devel package contains the object files necessary
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-devel package contains the object files necessary
              : for developing programs which use the standard C libraries (which are
              : used by nearly all programs).  If you are developing programs which
              : will use the standard C libraries, your system needs to have these
@@ -2106,11 +2106,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Object files for development using standard C libraries.
+From repo     : updates-testing
+Short desc    : Object files for development using standard C libraries.
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-devel package contains the object files necessary
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-devel package contains the object files necessary
              : for developing programs which use the standard C libraries (which are
              : used by nearly all programs).  If you are developing programs which
              : will use the standard C libraries, your system needs to have these
@@ -2127,11 +2127,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-doc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Documentation for GNU libc
+From repo     : anaconda
+Short desc    : Documentation for GNU libc
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-doc package contains The GNU C Library Reference Manual in info
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-doc package contains The GNU C Library Reference Manual in info
              : format.  Additional package documentation is also provided.
 ```
 
@@ -2141,11 +2141,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-doc</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Documentation for GNU libc
+From repo     : updates-testing
+Short desc    : Documentation for GNU libc
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-doc package contains The GNU C Library Reference Manual in info
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-doc package contains The GNU C Library Reference Manual in info
              : format.  Additional package documentation is also provided.
 ```
 
@@ -2155,11 +2155,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-headers-x86</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Additional internal header files for glibc-devel.
+From repo     : anaconda
+Short desc    : Additional internal header files for glibc-devel.
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-headers-x86 package contains the architecture-specific
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-headers-x86 package contains the architecture-specific
              : header files which cannot be included in glibc-devel package.
 ```
 
@@ -2169,11 +2169,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-headers-x86</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Additional internal header files for glibc-devel.
+From repo     : updates-testing
+Short desc    : Additional internal header files for glibc-devel.
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-headers-x86 package contains the architecture-specific
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-headers-x86 package contains the architecture-specific
              : header files which cannot be included in glibc-devel package.
 ```
 
@@ -2183,11 +2183,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-langpack-en</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Locale data for English
+From repo     : anaconda
+Short desc    : Locale data for English
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-langpack-en package includes the basic information required
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-langpack-en package includes the basic information required
              : to support the English language in your applications.
 ```
 
@@ -2197,11 +2197,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-langpack-en</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Locale data for English
+From repo     : updates-testing
+Short desc    : Locale data for English
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-langpack-en package includes the basic information required
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-langpack-en package includes the basic information required
              : to support the English language in your applications.
 ```
 
@@ -2211,11 +2211,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibc-langpack-ru</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Locale data for Russian
+From repo     : updates-testing
+Short desc    : Locale data for Russian
 URL          : http://www.gnu.org/software/glibc/
-Лицензия     : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
-Описание     : The glibc-langpack-ru package includes the basic information required
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc-langpack-ru package includes the basic information required
              : to support the Russian language in your applications.
 ```
 
@@ -2225,11 +2225,11 @@ URL          : http://www.gnu.org/software/glibc/
 <summary>glibmm24</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : C++ interface for the GLib library
+From repo     : updates-testing
+Short desc    : C++ interface for the GLib library
 URL          : http://www.gtkmm.org/
-Лицензия     : LGPLv2+
-Описание     : glibmm is the official C++ interface for the popular cross-platform
+License      : LGPLv2+
+Descript     : glibmm is the official C++ interface for the popular cross-platform
              : library GLib. It provides non-UI API that is not available in standard
              : C++ and makes it possible for gtkmm to wrap GObject-based APIs.
 ```
@@ -2240,11 +2240,11 @@ URL          : http://www.gtkmm.org/
 <summary>glpk</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GNU Linear Programming Kit
+From repo     : fedora
+Short desc    : GNU Linear Programming Kit
 URL          : https://www.gnu.org/software/glpk/glpk.html
-Лицензия     : GPLv3+
-Описание     : The GLPK (GNU Linear Programming Kit) package is intended for solving
+License      : GPLv3+
+Descript     : The GLPK (GNU Linear Programming Kit) package is intended for solving
              : large-scale linear programming (LP), mixed integer programming (MIP),
              : and other related problems. It is a set of routines written in ANSI C
              : and organized in the form of a callable library.
@@ -2268,11 +2268,11 @@ URL          : https://www.gnu.org/software/glpk/glpk.html
 <summary>glusterfs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Distributed File System
+From repo     : anaconda
+Short desc    : Distributed File System
 URL          : http://docs.gluster.org/
-Лицензия     : GPLv2 or LGPLv3+
-Описание     : GlusterFS is a distributed file-system capable of scaling to several
+License      : GPLv2 or LGPLv3+
+Descript     : GlusterFS is a distributed file-system capable of scaling to several
              : petabytes. It aggregates various storage bricks over TCP/IP interconnect
              : into one large parallel network filesystem. GlusterFS is one of the
              : most sophisticated file systems in terms of features and extensibility.
@@ -2290,11 +2290,11 @@ URL          : http://docs.gluster.org/
 <summary>glusterfs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Distributed File System
+From repo     : updates-testing
+Short desc    : Distributed File System
 URL          : http://docs.gluster.org/
-Лицензия     : GPLv2 or LGPLv3+
-Описание     : GlusterFS is a distributed file-system capable of scaling to several
+License      : GPLv2 or LGPLv3+
+Descript     : GlusterFS is a distributed file-system capable of scaling to several
              : petabytes. It aggregates various storage bricks over TCP/IP interconnect
              : into one large parallel network filesystem. GlusterFS is one of the
              : most sophisticated file systems in terms of features and extensibility.
@@ -2312,11 +2312,11 @@ URL          : http://docs.gluster.org/
 <summary>glusterfs-cli</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GlusterFS CLI
+From repo     : updates-testing
+Short desc    : GlusterFS CLI
 URL          : http://docs.gluster.org/
-Лицензия     : GPLv2 or LGPLv3+
-Описание     : GlusterFS is a distributed file-system capable of scaling to several
+License      : GPLv2 or LGPLv3+
+Descript     : GlusterFS is a distributed file-system capable of scaling to several
              : petabytes. It aggregates various storage bricks over TCP/IP interconnect
              : into one large parallel network filesystem. GlusterFS is one of the
              : most sophisticated file systems in terms of features and extensibility.
@@ -2332,11 +2332,11 @@ URL          : http://docs.gluster.org/
 <summary>glusterfs-client-xlators</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GlusterFS client-side translators
+From repo     : anaconda
+Short desc    : GlusterFS client-side translators
 URL          : http://docs.gluster.org/
-Лицензия     : GPLv2 or LGPLv3+
-Описание     : GlusterFS is a distributed file-system capable of scaling to several
+License      : GPLv2 or LGPLv3+
+Descript     : GlusterFS is a distributed file-system capable of scaling to several
              : petabytes. It aggregates various storage bricks over TCP/IP interconnect
              : into one large parallel network filesystem. GlusterFS is one of the
              : most sophisticated file systems in terms of features and extensibility.
@@ -2352,11 +2352,11 @@ URL          : http://docs.gluster.org/
 <summary>glusterfs-client-xlators</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GlusterFS client-side translators
+From repo     : updates-testing
+Short desc    : GlusterFS client-side translators
 URL          : http://docs.gluster.org/
-Лицензия     : GPLv2 or LGPLv3+
-Описание     : GlusterFS is a distributed file-system capable of scaling to several
+License      : GPLv2 or LGPLv3+
+Descript     : GlusterFS is a distributed file-system capable of scaling to several
              : petabytes. It aggregates various storage bricks over TCP/IP interconnect
              : into one large parallel network filesystem. GlusterFS is one of the
              : most sophisticated file systems in terms of features and extensibility.
@@ -2372,11 +2372,11 @@ URL          : http://docs.gluster.org/
 <summary>glusterfs-fuse</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Fuse client
+From repo     : updates-testing
+Short desc    : Fuse client
 URL          : http://docs.gluster.org/
-Лицензия     : GPLv2 or LGPLv3+
-Описание     : GlusterFS is a distributed file-system capable of scaling to several
+License      : GPLv2 or LGPLv3+
+Descript     : GlusterFS is a distributed file-system capable of scaling to several
              : petabytes. It aggregates various storage bricks over TCP/IP interconnect
              : into one large parallel network filesystem. GlusterFS is one of the
              : most sophisticated file systems in terms of features and extensibility.
@@ -2393,11 +2393,11 @@ URL          : http://docs.gluster.org/
 <summary>glx-utils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GLX utilities
+From repo     : anaconda
+Short desc    : GLX utilities
 URL          : http://www.mesa3d.org
-Лицензия     : MIT
-Описание     : The glx-utils package provides the glxinfo and glxgears utilities.
+License      : MIT
+Descript     : The glx-utils package provides the glxinfo and glxgears utilities.
 ```
 
 </details>
@@ -2407,11 +2407,11 @@ URL          : http://www.mesa3d.org
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Precisely prepared monochromatic icons and symbols
+From repo     : fedora
+Short desc    : Precisely prepared monochromatic icons and symbols
 URL          : http://glyphicons.com/
-Лицензия     : MIT
-Описание     : GLYPHICONS is a library of precisely prepared monochromatic icons and symbols,
+License      : MIT
+Descript     : GLYPHICONS is a library of precisely prepared monochromatic icons and symbols,
              : created with an emphasis on simplicity and easy orientation.
 ```
 
@@ -2421,11 +2421,11 @@ URL          : http://glyphicons.com/
 <summary>gmic</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GREYC's Magic for Image Computing
+From repo     : updates-testing
+Short desc    : GREYC's Magic for Image Computing
 URL          : http://gmic.eu/
-Лицензия     : (CeCILL or CeCILL-C) and GPLv3+
-Описание     : G'MIC is an open and full-featured framework for image processing, providing
+License      : (CeCILL or CeCILL-C) and GPLv3+
+Descript     : G'MIC is an open and full-featured framework for image processing, providing
              : several different user interfaces to convert/manipulate/filter/visualize
              : generic image datasets, from 1d scalar signals to 3d+t sequences of
              : multi-spectral volumetric images.
@@ -2437,11 +2437,11 @@ URL          : http://gmic.eu/
 <summary>gmic-gimp</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : G'MIC plugin for GIMP
+From repo     : updates-testing
+Short desc    : G'MIC plugin for GIMP
 URL          : http://gmic.eu/
-Лицензия     : (CeCILL or CeCILL-C) and GPLv3+
-Описание     : G'MIC is an open and full-featured framework for image processing, providing
+License      : (CeCILL or CeCILL-C) and GPLv3+
+Descript     : G'MIC is an open and full-featured framework for image processing, providing
              : several different user interfaces to convert/manipulate/filter/visualize
              : generic image datasets, from 1d scalar signals to 3d+t sequences of
              : multi-spectral volumetric images.
@@ -2456,11 +2456,11 @@ URL          : http://gmic.eu/
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : A GNU arbitrary precision library
+From repo     : anaconda
+Short desc    : A GNU arbitrary precision library
 URL          : http://gmplib.org/
-Лицензия     : LGPLv3+ or GPLv2+
-Описание     : The gmp package contains GNU MP, a library for arbitrary precision
+License      : LGPLv3+ or GPLv2+
+Descript     : The gmp package contains GNU MP, a library for arbitrary precision
              : arithmetic, signed integers operations, rational numbers and floating
              : point numbers. GNU MP is designed for speed, for both small and very
              : large operands. GNU MP is fast because it uses fullwords as the basic
@@ -2479,11 +2479,11 @@ URL          : http://gmplib.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : C++ bindings for the GNU MP arbitrary precision library
+From repo     : fedora
+Short desc    : C++ bindings for the GNU MP arbitrary precision library
 URL          : http://gmplib.org/
-Лицензия     : LGPLv3+ or GPLv2+
-Описание     : Bindings for using the GNU MP arbitrary precision library in C++ applications.
+License      : LGPLv3+ or GPLv2+
+Descript     : Bindings for using the GNU MP arbitrary precision library in C++ applications.
 ```
 
 </details>
@@ -2493,11 +2493,11 @@ URL          : http://gmplib.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Development tools for the GNU MP arbitrary precision library
+From repo     : fedora
+Short desc    : Development tools for the GNU MP arbitrary precision library
 URL          : http://gmplib.org/
-Лицензия     : LGPLv3+ or GPLv2+
-Описание     : The libraries, header files and documentation for using the GNU MP
+License      : LGPLv3+ or GPLv2+
+Descript     : The libraries, header files and documentation for using the GNU MP
              : arbitrary precision library in applications.
              : 
              : If you want to develop applications which will use the GNU MP library,
@@ -2511,11 +2511,11 @@ URL          : http://gmplib.org/
 <summary>gmp-ecm</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Elliptic Curve Method for Integer Factorization
+From repo     : fedora
+Short desc    : Elliptic Curve Method for Integer Factorization
 URL          : https://gforge.inria.fr/projects/ecm/
-Лицензия     : GPLv3+
-Описание     : Programs and libraries employing elliptic curve method for factoring
+License      : GPLv3+
+Descript     : Programs and libraries employing elliptic curve method for factoring
              : integers (with GMP for arbitrary precision integers).
 ```
 
@@ -2525,11 +2525,11 @@ URL          : https://gforge.inria.fr/projects/ecm/
 <summary>gmp-ecm-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Files useful for gmp-ecm development
+From repo     : fedora
+Short desc    : Files useful for gmp-ecm development
 URL          : https://gforge.inria.fr/projects/ecm/
-Лицензия     : LGPLv3+
-Описание     : The libraries and header files for using gmp-ecm for development.
+License      : LGPLv3+
+Descript     : The libraries and header files for using gmp-ecm for development.
 ```
 
 </details>
@@ -2538,11 +2538,11 @@ URL          : https://gforge.inria.fr/projects/ecm/
 <summary>gmp-ecm-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Elliptic Curve Method library
+From repo     : fedora
+Short desc    : Elliptic Curve Method library
 URL          : https://gforge.inria.fr/projects/ecm/
-Лицензия     : LGPLv3+
-Описание     : The gmp-ecm elliptic curve method library.
+License      : LGPLv3+
+Descript     : The gmp-ecm elliptic curve method library.
 ```
 
 </details>
@@ -2552,11 +2552,11 @@ URL          : https://gforge.inria.fr/projects/ecm/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Development tools for the GNU MP arbitrary precision library
+From repo     : fedora
+Short desc    : Development tools for the GNU MP arbitrary precision library
 URL          : http://gmplib.org/
-Лицензия     : LGPLv3+ or GPLv2+
-Описание     : The static libraries for using the GNU MP arbitrary precision library
+License      : LGPLv3+ or GPLv2+
+Descript     : The static libraries for using the GNU MP arbitrary precision library
              : in applications.
 ```
 
@@ -2566,11 +2566,11 @@ URL          : http://gmplib.org/
 <summary>gnat-srpm-macros</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : RPM macros needed when source packages that need GNAT are built
+From repo     : fedora
+Short desc    : RPM macros needed when source packages that need GNAT are built
 URL          : https://src.fedoraproject.org/rpms/gnat-srpm-macros
-Лицензия     : MIT
-Описание     : This package contains RPM macros that need to be available when source RPM
+License      : MIT
+Descript     : This package contains RPM macros that need to be available when source RPM
              : packages that need the GNAT tools are built. It is a standalone package in
              : order to have as few dependencies as possible.
 ```
@@ -2581,11 +2581,11 @@ URL          : https://src.fedoraproject.org/rpms/gnat-srpm-macros
 <summary>gnome-abrt</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A utility for viewing problems that have occurred with the system
+From repo     : updates-testing
+Short desc    : A utility for viewing problems that have occurred with the system
 URL          : https://github.com/abrt/gnome-abrt
-Лицензия     : GPLv2+
-Описание     : A GNOME application allows users to browse through detected problems and
+License      : GPLv2+
+Descript     : A GNOME application allows users to browse through detected problems and
              : provides them with convenient way for managing these problems.
 ```
 
@@ -2595,11 +2595,11 @@ URL          : https://github.com/abrt/gnome-abrt
 <summary>gnome-autoar</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Archive library
+From repo     : anaconda
+Short desc    : Archive library
 URL          : https://git.gnome.org/browse/gnome-autoar
-Лицензия     : LGPLv2+
-Описание     : gnome-autoar is a GObject based library for handling archives.
+License      : LGPLv2+
+Descript     : gnome-autoar is a GObject based library for handling archives.
 ```
 
 </details>
@@ -2608,11 +2608,11 @@ URL          : https://git.gnome.org/browse/gnome-autoar
 <summary>gnome-autoar</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Archive library
+From repo     : updates-testing
+Short desc    : Archive library
 URL          : https://git.gnome.org/browse/gnome-autoar
-Лицензия     : LGPLv2+
-Описание     : gnome-autoar is a GObject based library for handling archives.
+License      : LGPLv2+
+Descript     : gnome-autoar is a GObject based library for handling archives.
 ```
 
 </details>
@@ -2621,11 +2621,11 @@ URL          : https://git.gnome.org/browse/gnome-autoar
 <summary>gnome-backgrounds</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Desktop backgrounds packaged with the GNOME desktop
+From repo     : updates-testing
+Short desc    : Desktop backgrounds packaged with the GNOME desktop
 URL          : http://www.gnome.org
-Лицензия     : GPLv2
-Описание     : The gnome-backgrounds package contains the default
+License      : GPLv2
+Descript     : The gnome-backgrounds package contains the default
              : desktop background, known as the Adwaita background,
              : for the GNOME Desktop version
 ```
@@ -2637,11 +2637,11 @@ URL          : http://www.gnome.org
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Bluetooth graphical utilities
+From repo     : anaconda
+Short desc    : Bluetooth graphical utilities
 URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
-Лицензия     : GPLv2+
-Описание     : The gnome-bluetooth package contains graphical utilities to setup,
+License      : GPLv2+
+Descript     : The gnome-bluetooth package contains graphical utilities to setup,
              : monitor and use Bluetooth devices.
 ```
 
@@ -2652,11 +2652,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Bluetooth graphical utilities
+From repo     : updates-testing
+Short desc    : Bluetooth graphical utilities
 URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
-Лицензия     : GPLv2+
-Описание     : The gnome-bluetooth package contains graphical utilities to setup,
+License      : GPLv2+
+Descript     : The gnome-bluetooth package contains graphical utilities to setup,
              : monitor and use Bluetooth devices.
 ```
 
@@ -2667,11 +2667,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : GTK+ Bluetooth device selection widgets
+From repo     : anaconda
+Short desc    : GTK+ Bluetooth device selection widgets
 URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
-Лицензия     : LGPLv2+
-Описание     : This package contains libraries needed for applications that
+License      : LGPLv2+
+Descript     : This package contains libraries needed for applications that
              : want to display a Bluetooth device selection widget.
 ```
 
@@ -2682,11 +2682,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : GTK+ Bluetooth device selection widgets
+From repo     : updates-testing
+Short desc    : GTK+ Bluetooth device selection widgets
 URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
-Лицензия     : LGPLv2+
-Описание     : This package contains libraries needed for applications that
+License      : LGPLv2+
+Descript     : This package contains libraries needed for applications that
              : want to display a Bluetooth device selection widget.
 ```
 
@@ -2696,11 +2696,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeBluetooth
 <summary>gnome-boxes</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A simple GNOME 3 application to access remote or virtual systems
+From repo     : updates-testing
+Short desc    : A simple GNOME 3 application to access remote or virtual systems
 URL          : https://wiki.gnome.org/Apps/Boxes
-Лицензия     : LGPLv2+
-Описание     : gnome-boxes lets you easily create, setup, access, and use:
+License      : LGPLv2+
+Descript     : gnome-boxes lets you easily create, setup, access, and use:
              :   * remote machines
              :   * remote virtual machines
              :   * local virtual machines
@@ -2714,11 +2714,11 @@ URL          : https://wiki.gnome.org/Apps/Boxes
 <summary>gnome-boxes</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A simple GNOME 3 application to access remote or virtual systems
+From repo     : anaconda
+Short desc    : A simple GNOME 3 application to access remote or virtual systems
 URL          : https://wiki.gnome.org/Apps/Boxes
-Лицензия     : LGPLv2+
-Описание     : gnome-boxes lets you easily create, setup, access, and use:
+License      : LGPLv2+
+Descript     : gnome-boxes lets you easily create, setup, access, and use:
              :   * remote machines
              :   * remote virtual machines
              :   * local virtual machines
@@ -2732,11 +2732,11 @@ URL          : https://wiki.gnome.org/Apps/Boxes
 <summary>gnome-builder</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : IDE for writing GNOME-based software
+From repo     : updates-testing
+Short desc    : IDE for writing GNOME-based software
 URL          : https://wiki.gnome.org/Apps/Builder
-Лицензия     : GPLv3+ and GPLv2+ and LGPLv3+ and LGPLv2+ and MIT and CC-BY-SA and CC0
-Описание     : Builder attempts to be an IDE for writing software for GNOME. It does not try
+License      : GPLv3+ and GPLv2+ and LGPLv3+ and LGPLv2+ and MIT and CC-BY-SA and CC0
+Descript     : Builder attempts to be an IDE for writing software for GNOME. It does not try
              : to be a generic IDE, but one specialized for writing GNOME software.
 ```
 
@@ -2746,11 +2746,11 @@ URL          : https://wiki.gnome.org/Apps/Builder
 <summary>gnome-calculator</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A desktop calculator
+From repo     : updates-testing
+Short desc    : A desktop calculator
 URL          : https://wiki.gnome.org/Apps/Calculator
-Лицензия     : GPLv3+
-Описание     : gnome-calculator is a powerful graphical calculator with financial,
+License      : GPLv3+
+Descript     : gnome-calculator is a powerful graphical calculator with financial,
              : logical and scientific modes. It uses a multiple precision package
              : to do its arithmetic to give a high degree of accuracy.
 ```
@@ -2761,11 +2761,11 @@ URL          : https://wiki.gnome.org/Apps/Calculator
 <summary>gnome-calendar</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Simple and beautiful calendar application designed to fit GNOME 3
+From repo     : updates-testing
+Short desc    : Simple and beautiful calendar application designed to fit GNOME 3
 URL          : https://wiki.gnome.org/Apps/Calendar
-Лицензия     : GPLv3+
-Описание     : Calendar is a simple and beautiful calendar application designed to fit
+License      : GPLv3+
+Descript     : Calendar is a simple and beautiful calendar application designed to fit
              : GNOME 3.
              : Features:
              : * Week, month and year views
@@ -2780,11 +2780,11 @@ URL          : https://wiki.gnome.org/Apps/Calendar
 <summary>gnome-characters</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Character map application for GNOME
+From repo     : updates-testing
+Short desc    : Character map application for GNOME
 URL          : https://wiki.gnome.org/Design/Apps/CharacterMap
-Лицензия     : BSD and GPLv2+
-Описание     : Characters is a simple utility application to find and insert unusual
+License      : BSD and GPLv2+
+Descript     : Characters is a simple utility application to find and insert unusual
              : characters.
 ```
 
@@ -2794,11 +2794,11 @@ URL          : https://wiki.gnome.org/Design/Apps/CharacterMap
 <summary>gnome-classic-session</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GNOME "classic" mode session
+From repo     : updates-testing
+Short desc    : GNOME "classic" mode session
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This package contains the required components for the GNOME Shell "classic"
+License      : GPLv2+
+Descript     : This package contains the required components for the GNOME Shell "classic"
              : mode, which aims to provide a GNOME 2-like user interface.
 ```
 
@@ -2808,11 +2808,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-classic-session</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GNOME "classic" mode session
+From repo     : anaconda
+Short desc    : GNOME "classic" mode session
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This package contains the required components for the GNOME Shell "classic"
+License      : GPLv2+
+Descript     : This package contains the required components for the GNOME Shell "classic"
              : mode, which aims to provide a GNOME 2-like user interface.
 ```
 
@@ -2822,11 +2822,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-clocks</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Clock application designed for GNOME 3
+From repo     : updates-testing
+Short desc    : Clock application designed for GNOME 3
 URL          : https://wiki.gnome.org/Apps/Clocks
-Лицензия     : GPLv2+
-Описание     : Clock application designed for GNOME 3
+License      : GPLv2+
+Descript     : Clock application designed for GNOME 3
 ```
 
 </details>
@@ -2835,11 +2835,11 @@ URL          : https://wiki.gnome.org/Apps/Clocks
 <summary>gnome-color-manager</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Color management tools for GNOME
+From repo     : anaconda
+Short desc    : Color management tools for GNOME
 URL          : http://mail.gnome.org/mailman/listinfo/gnome-color-manager-list
-Лицензия     : GPLv2+
-Описание     : gnome-color-manager is a session framework that makes it easy to manage, install
+License      : GPLv2+
+Descript     : gnome-color-manager is a session framework that makes it easy to manage, install
              : and generate color profiles in the GNOME desktop.
 ```
 
@@ -2849,11 +2849,11 @@ URL          : http://mail.gnome.org/mailman/listinfo/gnome-color-manager-list
 <summary>gnome-contacts</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Contacts manager for GNOME
+From repo     : updates-testing
+Short desc    : Contacts manager for GNOME
 URL          : https://wiki.gnome.org/Apps/Contacts
-Лицензия     : GPLv2+
-Описание     : gnome-contacts is a standalone contacts manager for GNOME desktop.
+License      : GPLv2+
+Descript     : gnome-contacts is a standalone contacts manager for GNOME desktop.
 ```
 
 </details>
@@ -2862,11 +2862,11 @@ URL          : https://wiki.gnome.org/Apps/Contacts
 <summary>gnome-control-center</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Utilities to configure the GNOME desktop
+From repo     : updates-testing
+Short desc    : Utilities to configure the GNOME desktop
 URL          : http://www.gnome.org
-Лицензия     : GPLv2+ and CC-BY-SA
-Описание     : This package contains configuration utilities for the GNOME desktop, which
+License      : GPLv2+ and CC-BY-SA
+Descript     : This package contains configuration utilities for the GNOME desktop, which
              : allow to configure accessibility options, desktop fonts, keyboard and mouse
              : properties, sound setup, desktop theme and background, user interface
              : properties, screen resolution, and other settings.
@@ -2878,11 +2878,11 @@ URL          : http://www.gnome.org
 <summary>gnome-control-center</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utilities to configure the GNOME desktop
+From repo     : anaconda
+Short desc    : Utilities to configure the GNOME desktop
 URL          : http://www.gnome.org
-Лицензия     : GPLv2+ and CC-BY-SA
-Описание     : This package contains configuration utilities for the GNOME desktop, which
+License      : GPLv2+ and CC-BY-SA
+Descript     : This package contains configuration utilities for the GNOME desktop, which
              : allow to configure accessibility options, desktop fonts, keyboard and mouse
              : properties, sound setup, desktop theme and background, user interface
              : properties, screen resolution, and other settings.
@@ -2894,11 +2894,11 @@ URL          : http://www.gnome.org
 <summary>gnome-control-center-filesystem</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GNOME Control Center directories
+From repo     : updates-testing
+Short desc    : GNOME Control Center directories
 URL          : http://www.gnome.org
-Лицензия     : GPLv2+ and CC-BY-SA
-Описание     : The GNOME control-center provides a number of extension points
+License      : GPLv2+ and CC-BY-SA
+Descript     : The GNOME control-center provides a number of extension points
              : for applications. This package contains directories where applications
              : can install configuration files that are picked up by the control-center
              : utilities.
@@ -2910,11 +2910,11 @@ URL          : http://www.gnome.org
 <summary>gnome-control-center-filesystem</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GNOME Control Center directories
+From repo     : anaconda
+Short desc    : GNOME Control Center directories
 URL          : http://www.gnome.org
-Лицензия     : GPLv2+ and CC-BY-SA
-Описание     : The GNOME control-center provides a number of extension points
+License      : GPLv2+ and CC-BY-SA
+Descript     : The GNOME control-center provides a number of extension points
              : for applications. This package contains directories where applications
              : can install configuration files that are picked up by the control-center
              : utilities.
@@ -2926,11 +2926,11 @@ URL          : http://www.gnome.org
 <summary>gnome-desktop3</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Library with common API for various GNOME modules
+From repo     : updates-testing
+Short desc    : Library with common API for various GNOME modules
 URL          : http://www.gnome.org
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : gnome-desktop contains the libgnome-desktop library as well as a data
+License      : GPLv2+ and LGPLv2+
+Descript     : gnome-desktop contains the libgnome-desktop library as well as a data
              : file that exports the "GNOME" version to the Settings Details panel.
              : 
              : The libgnome-desktop library provides API shared by several applications
@@ -2946,11 +2946,11 @@ URL          : http://www.gnome.org
 <summary>gnome-desktop3</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library with common API for various GNOME modules
+From repo     : anaconda
+Short desc    : Library with common API for various GNOME modules
 URL          : http://www.gnome.org
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : gnome-desktop contains the libgnome-desktop library as well as a data
+License      : GPLv2+ and LGPLv2+
+Descript     : gnome-desktop contains the libgnome-desktop library as well as a data
              : file that exports the "GNOME" version to the Settings Details panel.
              : 
              : The libgnome-desktop library provides API shared by several applications
@@ -2966,11 +2966,11 @@ URL          : http://www.gnome.org
 <summary>gnome-disk-utility</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Disks
+From repo     : updates-testing
+Short desc    : Disks
 URL          : https://gitlab.gnome.org/GNOME/gnome-disk-utility
-Лицензия     : GPLv2+
-Описание     : This package contains the Disks and Disk Image Mounter applications.
+License      : GPLv2+
+Descript     : This package contains the Disks and Disk Image Mounter applications.
              : Disks supports partitioning, file system creation, encryption,
              : fstab/crypttab editing, ATA SMART and other features
 ```
@@ -2981,11 +2981,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-disk-utility
 <summary>gnome-extensions-app</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Manage GNOME Shell extensions
+From repo     : updates-testing
+Short desc    : Manage GNOME Shell extensions
 URL          : https://gitlab.gnome.org/GNOME/gnome-shell
-Лицензия     : GPLv2+
-Описание     : GNOME Extensions is an application for configuring and removing
+License      : GPLv2+
+Descript     : GNOME Extensions is an application for configuring and removing
              : GNOME Shell extensions.
 ```
 
@@ -2995,11 +2995,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-shell
 <summary>gnome-font-viewer</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Utility for previewing fonts for GNOME
+From repo     : updates-testing
+Short desc    : Utility for previewing fonts for GNOME
 URL          : https://gitlab.gnome.org/GNOME/gnome-font-viewer
-Лицензия     : GPLv2+
-Описание     : Use gnome-font-viewer, the Font Viewer, to preview fonts and display
+License      : GPLv2+
+Descript     : Use gnome-font-viewer, the Font Viewer, to preview fonts and display
              : information about a specified font. You can use the Font Viewer to display the
              : name, style, type, size, version and copyright of the font.
 ```
@@ -3010,11 +3010,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-font-viewer
 <summary>gnome-icon-theme</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GNOME icon theme
+From repo     : fedora
+Short desc    : GNOME icon theme
 URL          : http://www.gnome.org
-Лицензия     : LGPLv3+
-Описание     : This package contains the default icon theme used by the GNOME desktop.
+License      : LGPLv3+
+Descript     : This package contains the default icon theme used by the GNOME desktop.
 ```
 
 </details>
@@ -3023,11 +3023,11 @@ URL          : http://www.gnome.org
 <summary>gnome-initial-setup</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Bootstrapping your OS
+From repo     : updates-testing
+Short desc    : Bootstrapping your OS
 URL          : https://wiki.gnome.org/Design/OS/InitialSetup
-Лицензия     : GPLv2+
-Описание     : GNOME Initial Setup is an alternative to firstboot, providing
+License      : GPLv2+
+Descript     : GNOME Initial Setup is an alternative to firstboot, providing
              : a good setup experience to welcome you to your system, and walks
              : you through configuring it. It is integrated with gdm.
 ```
@@ -3038,11 +3038,11 @@ URL          : https://wiki.gnome.org/Design/OS/InitialSetup
 <summary>gnome-initial-setup</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Bootstrapping your OS
+From repo     : anaconda
+Short desc    : Bootstrapping your OS
 URL          : https://wiki.gnome.org/Design/OS/InitialSetup
-Лицензия     : GPLv2+
-Описание     : GNOME Initial Setup is an alternative to firstboot, providing
+License      : GPLv2+
+Descript     : GNOME Initial Setup is an alternative to firstboot, providing
              : a good setup experience to welcome you to your system, and walks
              : you through configuring it. It is integrated with gdm.
 ```
@@ -3053,11 +3053,11 @@ URL          : https://wiki.gnome.org/Design/OS/InitialSetup
 <summary>gnome-keyring</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Framework for managing passwords and other secrets
+From repo     : anaconda
+Short desc    : Framework for managing passwords and other secrets
 URL          : https://wiki.gnome.org/Projects/GnomeKeyring
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : The gnome-keyring session daemon manages passwords and other types of
+License      : GPLv2+ and LGPLv2+
+Descript     : The gnome-keyring session daemon manages passwords and other types of
              : secrets for the user, storing them encrypted with a main password.
              : Applications can use the gnome-keyring library to integrate with the keyring.
 ```
@@ -3068,11 +3068,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 <summary>gnome-keyring</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Framework for managing passwords and other secrets
+From repo     : updates-testing
+Short desc    : Framework for managing passwords and other secrets
 URL          : https://wiki.gnome.org/Projects/GnomeKeyring
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : The gnome-keyring session daemon manages passwords and other types of
+License      : GPLv2+ and LGPLv2+
+Descript     : The gnome-keyring session daemon manages passwords and other types of
              : secrets for the user, storing them encrypted with a main password.
              : Applications can use the gnome-keyring library to integrate with the keyring.
 ```
@@ -3083,11 +3083,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 <summary>gnome-keyring-pam</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Pam module for unlocking keyrings
+From repo     : anaconda
+Short desc    : Pam module for unlocking keyrings
 URL          : https://wiki.gnome.org/Projects/GnomeKeyring
-Лицензия     : LGPLv2+
-Описание     : The gnome-keyring-pam package contains a pam module that can
+License      : LGPLv2+
+Descript     : The gnome-keyring-pam package contains a pam module that can
              : automatically unlock the "login" keyring when the user logs in.
 ```
 
@@ -3097,11 +3097,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 <summary>gnome-keyring-pam</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Pam module for unlocking keyrings
+From repo     : updates-testing
+Short desc    : Pam module for unlocking keyrings
 URL          : https://wiki.gnome.org/Projects/GnomeKeyring
-Лицензия     : LGPLv2+
-Описание     : The gnome-keyring-pam package contains a pam module that can
+License      : LGPLv2+
+Descript     : The gnome-keyring-pam package contains a pam module that can
              : automatically unlock the "login" keyring when the user logs in.
 ```
 
@@ -3111,11 +3111,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeKeyring
 <summary>gnome-logs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Log viewer for the systemd journal
+From repo     : anaconda
+Short desc    : Log viewer for the systemd journal
 URL          : https://wiki.gnome.org/Apps/Logs
-Лицензия     : GPLv3+
-Описание     : A log viewer for the systemd journal.
+License      : GPLv3+
+Descript     : A log viewer for the systemd journal.
 ```
 
 </details>
@@ -3124,11 +3124,11 @@ URL          : https://wiki.gnome.org/Apps/Logs
 <summary>gnome-maps</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Map application for GNOME
+From repo     : updates-testing
+Short desc    : Map application for GNOME
 URL          : https://wiki.gnome.org/Apps/Maps
-Лицензия     : GPLv2+
-Описание     : GNOME Maps is a simple map application for the GNOME desktop.
+License      : GPLv2+
+Descript     : GNOME Maps is a simple map application for the GNOME desktop.
 ```
 
 </details>
@@ -3137,11 +3137,11 @@ URL          : https://wiki.gnome.org/Apps/Maps
 <summary>gnome-menus</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A menu system for the GNOME project
+From repo     : anaconda
+Short desc    : A menu system for the GNOME project
 URL          : https://gitlab.gnome.org/GNOME/gnome-menus
-Лицензия     : LGPLv2+
-Описание     : gnome-menus is an implementation of the draft "Desktop
+License      : LGPLv2+
+Descript     : gnome-menus is an implementation of the draft "Desktop
              : Menu Specification" from freedesktop.org. This package
              : also contains the GNOME menu layout configuration files,
              : .directory files and assorted menu related utility programs
@@ -3154,11 +3154,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-menus
 <summary>gnome-online-accounts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Single sign-on framework for GNOME
+From repo     : anaconda
+Short desc    : Single sign-on framework for GNOME
 URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
-Лицензия     : LGPLv2+
-Описание     : GNOME Online Accounts provides interfaces so that applications and libraries
+License      : LGPLv2+
+Descript     : GNOME Online Accounts provides interfaces so that applications and libraries
              : in GNOME can access the user's online accounts. It has providers for Google,
              : Nextcloud, Facebook, Flickr, Foursquare, Microsoft Account, Microsoft
              : Exchange, IMAP/SMTP and Kerberos.
@@ -3170,11 +3170,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
 <summary>gnome-online-accounts</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Single sign-on framework for GNOME
+From repo     : updates-testing
+Short desc    : Single sign-on framework for GNOME
 URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
-Лицензия     : LGPLv2+
-Описание     : GNOME Online Accounts provides interfaces so that applications and libraries
+License      : LGPLv2+
+Descript     : GNOME Online Accounts provides interfaces so that applications and libraries
              : in GNOME can access the user's online accounts. It has providers for Google,
              : Nextcloud, Facebook, Flickr, Foursquare, Microsoft Account, Microsoft
              : Exchange, IMAP/SMTP and Kerberos.
@@ -3186,11 +3186,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
 <summary>gnome-online-miners</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Crawls through your online content
+From repo     : anaconda
+Short desc    : Crawls through your online content
 URL          : https://wiki.gnome.org/Projects/GnomeOnlineMiners
-Лицензия     : GPLv2+ and LGPLv2+ and MIT
-Описание     : GNOME Online Miners provides a set of crawlers that go through your online
+License      : GPLv2+ and LGPLv2+ and MIT
+Descript     : GNOME Online Miners provides a set of crawlers that go through your online
              : content and index them locally in Tracker. It has miners for Facebook, Flickr,
              : Google, OneDrive and Nextcloud.
 ```
@@ -3201,11 +3201,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeOnlineMiners
 <summary>gnome-online-miners</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Crawls through your online content
+From repo     : updates-testing
+Short desc    : Crawls through your online content
 URL          : https://wiki.gnome.org/Projects/GnomeOnlineMiners
-Лицензия     : GPLv2+ and LGPLv2+ and MIT
-Описание     : GNOME Online Miners provides a set of crawlers that go through your online
+License      : GPLv2+ and LGPLv2+ and MIT
+Descript     : GNOME Online Miners provides a set of crawlers that go through your online
              : content and index them locally in Tracker. It has miners for Facebook, Flickr,
              : Google, OneDrive and Nextcloud.
 ```
@@ -3216,11 +3216,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeOnlineMiners
 <summary>gnome-photos</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Access, organize and share your photos on GNOME
+From repo     : updates-testing
+Short desc    : Access, organize and share your photos on GNOME
 URL          : https://wiki.gnome.org/Apps/Photos
-Лицензия     : GPLv3+ and LGPLv2+
-Описание     : Access, organize and share your photos on GNOME. A simple and elegant
+License      : GPLv3+ and LGPLv2+
+Descript     : Access, organize and share your photos on GNOME. A simple and elegant
              : replacement for using a file manager to deal with photos. Enhance, crop
              : and edit in a snap. Seamless cloud integration is offered through GNOME
              : Online Accounts.
@@ -3232,11 +3232,11 @@ URL          : https://wiki.gnome.org/Apps/Photos
 <summary>gnome-remote-desktop</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GNOME Remote Desktop screen share service
+From repo     : anaconda
+Short desc    : GNOME Remote Desktop screen share service
 URL          : https://gitlab.gnome.org/jadahl/gnome-remote-desktop
-Лицензия     : GPLv2+
-Описание     : GNOME Remote Desktop is a remote desktop and screen sharing service for the
+License      : GPLv2+
+Descript     : GNOME Remote Desktop is a remote desktop and screen sharing service for the
              : GNOME desktop environment.
 ```
 
@@ -3246,11 +3246,11 @@ URL          : https://gitlab.gnome.org/jadahl/gnome-remote-desktop
 <summary>gnome-remote-desktop</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GNOME Remote Desktop screen share service
+From repo     : updates-testing
+Short desc    : GNOME Remote Desktop screen share service
 URL          : https://gitlab.gnome.org/jadahl/gnome-remote-desktop
-Лицензия     : GPLv2+
-Описание     : GNOME Remote Desktop is a remote desktop and screen sharing service for the
+License      : GPLv2+
+Descript     : GNOME Remote Desktop is a remote desktop and screen sharing service for the
              : GNOME desktop environment.
 ```
 
@@ -3260,11 +3260,11 @@ URL          : https://gitlab.gnome.org/jadahl/gnome-remote-desktop
 <summary>gnome-screenshot</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A screenshot utility for GNOME
+From repo     : updates-testing
+Short desc    : A screenshot utility for GNOME
 URL          : https://gitlab.gnome.org/GNOME/gnome-screenshot
-Лицензия     : GPLv2+
-Описание     : gnome-screenshot lets you take pictures of your screen.
+License      : GPLv2+
+Descript     : gnome-screenshot lets you take pictures of your screen.
 ```
 
 </details>
@@ -3273,11 +3273,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-screenshot
 <summary>gnome-session</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GNOME session manager
+From repo     : updates-testing
+Short desc    : GNOME session manager
 URL          : https://gitlab.gnome.org/GNOME/gnome-session
-Лицензия     : GPLv2+
-Описание     : gnome-session manages a GNOME desktop or GDM login session. It starts up
+License      : GPLv2+
+Descript     : gnome-session manages a GNOME desktop or GDM login session. It starts up
              : the other core GNOME components and handles logout and saving the session.
 ```
 
@@ -3287,11 +3287,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-session
 <summary>gnome-session-wayland-session</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Desktop file for wayland based gnome session
+From repo     : updates-testing
+Short desc    : Desktop file for wayland based gnome session
 URL          : https://gitlab.gnome.org/GNOME/gnome-session
-Лицензия     : GPLv2+
-Описание     : Desktop file to add GNOME on wayland to display manager session menu.
+License      : GPLv2+
+Descript     : Desktop file to add GNOME on wayland to display manager session menu.
 ```
 
 </details>
@@ -3300,11 +3300,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-session
 <summary>gnome-session-xsession</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Desktop file for gnome-session
+From repo     : updates-testing
+Short desc    : Desktop file for gnome-session
 URL          : https://gitlab.gnome.org/GNOME/gnome-session
-Лицензия     : GPLv2+
-Описание     : Desktop file to add GNOME to display manager session menu.
+License      : GPLv2+
+Descript     : Desktop file to add GNOME to display manager session menu.
 ```
 
 </details>
@@ -3313,11 +3313,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-session
 <summary>gnome-settings-daemon</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The daemon sharing settings from GNOME to GTK+/KDE applications
+From repo     : updates-testing
+Short desc    : The daemon sharing settings from GNOME to GTK+/KDE applications
 URL          : https://download.gnome.org/sources/gnome-settings-daemon
-Лицензия     : GPLv2+
-Описание     : A daemon to share settings from GNOME to other applications. It also
+License      : GPLv2+
+Descript     : A daemon to share settings from GNOME to other applications. It also
              : handles global keybindings, as well as a number of desktop-wide settings.
 ```
 
@@ -3327,11 +3327,11 @@ URL          : https://download.gnome.org/sources/gnome-settings-daemon
 <summary>gnome-shell</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Window management and application launching for GNOME
+From repo     : updates-testing
+Short desc    : Window management and application launching for GNOME
 URL          : https://wiki.gnome.org/Projects/GnomeShell
-Лицензия     : GPLv2+
-Описание     : GNOME Shell provides core user interface functions for the GNOME 3 desktop,
+License      : GPLv2+
+Descript     : GNOME Shell provides core user interface functions for the GNOME 3 desktop,
              : like switching to windows and launching applications. GNOME Shell takes
              : advantage of the capabilities of modern graphics hardware and introduces
              : innovative user interface concepts to provide a visually attractive and
@@ -3344,11 +3344,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeShell
 <summary>gnome-shell-extension-apps-menu</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Application menu for GNOME Shell
+From repo     : updates-testing
+Short desc    : Application menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension adds a GNOME 2.x style menu for applications.
+License      : GPLv2+
+Descript     : This GNOME Shell extension adds a GNOME 2.x style menu for applications.
 ```
 
 </details>
@@ -3357,11 +3357,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-apps-menu</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Application menu for GNOME Shell
+From repo     : anaconda
+Short desc    : Application menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension adds a GNOME 2.x style menu for applications.
+License      : GPLv2+
+Descript     : This GNOME Shell extension adds a GNOME 2.x style menu for applications.
 ```
 
 </details>
@@ -3370,11 +3370,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-background-logo</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Background logo extension for GNOME Shell
+From repo     : anaconda
+Short desc    : Background logo extension for GNOME Shell
 URL          : https://pagure.io/background-logo-extension
-Лицензия     : GPLv2+
-Описание     : Show your pride! Display the Fedora logo (or any other graphic) in the corner of your desktop.
+License      : GPLv2+
+Descript     : Show your pride! Display the Fedora logo (or any other graphic) in the corner of your desktop.
 ```
 
 </details>
@@ -3383,11 +3383,11 @@ URL          : https://pagure.io/background-logo-extension
 <summary>gnome-shell-extension-background-logo</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Background logo extension for GNOME Shell
+From repo     : updates-testing
+Short desc    : Background logo extension for GNOME Shell
 URL          : https://pagure.io/background-logo-extension
-Лицензия     : GPLv2+
-Описание     : Show your pride! Display the Fedora logo (or any other graphic) in the corner of your desktop.
+License      : GPLv2+
+Descript     : Show your pride! Display the Fedora logo (or any other graphic) in the corner of your desktop.
 ```
 
 </details>
@@ -3396,11 +3396,11 @@ URL          : https://pagure.io/background-logo-extension
 <summary>gnome-shell-extension-common</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Files common to GNOME Shell Extensions
+From repo     : updates-testing
+Short desc    : Files common to GNOME Shell Extensions
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : GNOME Shell Extensions is a collection of extensions providing additional and
+License      : GPLv2+
+Descript     : GNOME Shell Extensions is a collection of extensions providing additional and
              : optional functionality to GNOME Shell.
              : 
              : This package provides common data files shared by various extensions.
@@ -3412,11 +3412,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-common</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Files common to GNOME Shell Extensions
+From repo     : anaconda
+Short desc    : Files common to GNOME Shell Extensions
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : GNOME Shell Extensions is a collection of extensions providing additional and
+License      : GPLv2+
+Descript     : GNOME Shell Extensions is a collection of extensions providing additional and
              : optional functionality to GNOME Shell.
              : 
              : This package provides common data files shared by various extensions.
@@ -3428,11 +3428,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-dash-to-dock</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Dock for the Gnome Shell by micxgx@gmail.com
+From repo     : fedora
+Short desc    : Dock for the Gnome Shell by micxgx@gmail.com
 URL          : https://micheleg.github.io/dash-to-dock
-Лицензия     : GPLv2+
-Описание     : This extension enhances the dash moving it out of the overview and
+License      : GPLv2+
+Descript     : This extension enhances the dash moving it out of the overview and
              : transforming it in a dock for an easier launching of applications
              : and a faster switching between windows and desktops without having
              : to leave the desktop view.
@@ -3444,11 +3444,11 @@ URL          : https://micheleg.github.io/dash-to-dock
 <summary>gnome-shell-extension-drive-menu</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Drive status menu for GNOME Shell
+From repo     : updates-testing
+Short desc    : Drive status menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension provides a panel status menu for accessing and
+License      : GPLv2+
+Descript     : This GNOME Shell extension provides a panel status menu for accessing and
              : unmounting removable devices.
 ```
 
@@ -3459,11 +3459,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : GNOME Shell extension to display system temperature, voltage, and fan speed
+From repo     : updates-testing
+Short desc    : GNOME Shell extension to display system temperature, voltage, and fan speed
 URL          : https://github.com/UshakovVasilii/gnome-shell-extension-freon/wiki
-Лицензия     : GPLv2
-Описание     : Freon is a GNOME Shell extension for displaying the temperature of your
+License      : GPLv2
+Descript     : Freon is a GNOME Shell extension for displaying the temperature of your
              : CPU, hard disk, solid state, and video card (NVIDIA, Catalyst, and
              : Bumblebee supported), as well as power supply voltage, and fan
              : speed. You can choose which HDD/SSD or other devices to include, what
@@ -3492,11 +3492,11 @@ URL          : https://github.com/UshakovVasilii/gnome-shell-extension-freon/wik
 <summary>gnome-shell-extension-launch-new-instance</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Always launch a new application instance for GNOME Shell
+From repo     : updates-testing
+Short desc    : Always launch a new application instance for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension modifies the behavior of clicking in the dash and app
+License      : GPLv2+
+Descript     : This GNOME Shell extension modifies the behavior of clicking in the dash and app
              : launcher to always launch a new application instance.
 ```
 
@@ -3506,11 +3506,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-launch-new-instance</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Always launch a new application instance for GNOME Shell
+From repo     : anaconda
+Short desc    : Always launch a new application instance for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension modifies the behavior of clicking in the dash and app
+License      : GPLv2+
+Descript     : This GNOME Shell extension modifies the behavior of clicking in the dash and app
              : launcher to always launch a new application instance.
 ```
 
@@ -3520,11 +3520,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-native-window-placement</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Native window placement for GNOME Shell
+From repo     : updates-testing
+Short desc    : Native window placement for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension provides additional configurability for the window
+License      : GPLv2+
+Descript     : This GNOME Shell extension provides additional configurability for the window
              : layout in the overview, including a mechanism similar to KDE4.
 ```
 
@@ -3534,11 +3534,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-openweather</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Display weather information from many locations in the world
+From repo     : fedora
+Short desc    : Display weather information from many locations in the world
 URL          : https://gitlab.com/jenslody/gnome-shell-extension-openweather
-Лицензия     : GPLv3+ and BSD
-Описание     : gnome-shell-extension-openweather is an extension to display weather information
+License      : GPLv3+ and BSD
+Descript     : gnome-shell-extension-openweather is an extension to display weather information
              : from https://openweathermap.org or https://darksky.net for (almost) all
              : locations of the world in GNOME Shell.
              : 
@@ -3557,11 +3557,11 @@ URL          : https://gitlab.com/jenslody/gnome-shell-extension-openweather
 <summary>gnome-shell-extension-places-menu</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Places status menu for GNOME Shell
+From repo     : updates-testing
+Short desc    : Places status menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension add a system status menu for quickly navigating
+License      : GPLv2+
+Descript     : This GNOME Shell extension add a system status menu for quickly navigating
              : places in the system.
 ```
 
@@ -3571,11 +3571,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-places-menu</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Places status menu for GNOME Shell
+From repo     : anaconda
+Short desc    : Places status menu for GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension add a system status menu for quickly navigating
+License      : GPLv2+
+Descript     : This GNOME Shell extension add a system status menu for quickly navigating
              : places in the system.
 ```
 
@@ -3585,11 +3585,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-user-theme</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Support for custom themes in GNOME Shell
+From repo     : updates-testing
+Short desc    : Support for custom themes in GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension enables loading a GNOME Shell theme from
+License      : GPLv2+
+Descript     : This GNOME Shell extension enables loading a GNOME Shell theme from
              : ~/.themes/<name>/gnome-shell/.
 ```
 
@@ -3599,11 +3599,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-window-list</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Display a window list at the bottom of the screen in GNOME Shell
+From repo     : updates-testing
+Short desc    : Display a window list at the bottom of the screen in GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension displays a window list at the bottom of the screen.
+License      : GPLv2+
+Descript     : This GNOME Shell extension displays a window list at the bottom of the screen.
 ```
 
 </details>
@@ -3612,11 +3612,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-extension-window-list</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Display a window list at the bottom of the screen in GNOME Shell
+From repo     : anaconda
+Short desc    : Display a window list at the bottom of the screen in GNOME Shell
 URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
-Лицензия     : GPLv2+
-Описание     : This GNOME Shell extension displays a window list at the bottom of the screen.
+License      : GPLv2+
+Descript     : This GNOME Shell extension displays a window list at the bottom of the screen.
 ```
 
 </details>
@@ -3625,11 +3625,11 @@ URL          : http://wiki.gnome.org/Projects/GnomeShell/Extensions
 <summary>gnome-shell-theme-flat-remix</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Pretty simple theme inspired on material design
+From repo     : updates-testing
+Short desc    : Pretty simple theme inspired on material design
 URL          : https://drasite.com/flat-remix-gnome
-Лицензия     : CC-BY-SA
-Описание     : Flat Remix GNOME theme is a pretty simple shell theme inspired on material
+License      : CC-BY-SA
+Descript     : Flat Remix GNOME theme is a pretty simple shell theme inspired on material
              : design following a modern design using "flat" colors with high contrasts and
              : sharp borders.
              : 
@@ -3650,11 +3650,11 @@ URL          : https://drasite.com/flat-remix-gnome
 <summary>gnome-shell-theme-selene</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : The Selene gnome-shell theme
+From repo     : fedora
+Short desc    : The Selene gnome-shell theme
 URL          : https://launchpad.net/~tista/+archive/selene
-Лицензия     : GPLv3 and LGPLv2.1
-Описание     : Selene is an "almost dark" theme based on elementary GTK theme,
+License      : GPLv3 and LGPLv2.1
+Descript     : Selene is an "almost dark" theme based on elementary GTK theme,
              : inspired by the old Atolm GTK2 theme.
 ```
 
@@ -3664,11 +3664,11 @@ URL          : https://launchpad.net/~tista/+archive/selene
 <summary>gnome-shell-theme-yaru</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Yaru GNOME Shell Theme
+From repo     : updates-testing
+Short desc    : Yaru GNOME Shell Theme
 URL          : https://community.ubuntu.com/c/desktop/theme-refresh
-Лицензия     : GPLv3+ and CC-BY-SA
-Описание     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
+License      : GPLv3+ and CC-BY-SA
+Descript     : Yaru theme is the default theme for Ubuntu, entirely backed by the community.
              : This is the theme that is shaped by the community on the Ubuntu hub, turned into
              : the default theme starting from Ubuntu 18.10 Cosmic Cuttlefish.
              : 
@@ -3681,11 +3681,11 @@ URL          : https://community.ubuntu.com/c/desktop/theme-refresh
 <summary>gnome-software</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A software center for GNOME
+From repo     : updates-testing
+Short desc    : A software center for GNOME
 URL          : https://wiki.gnome.org/Apps/Software
-Лицензия     : GPLv2+
-Описание     : gnome-software is an application that makes it easy to add, remove
+License      : GPLv2+
+Descript     : gnome-software is an application that makes it easy to add, remove
              : and update software in the GNOME desktop.
 ```
 
@@ -3695,11 +3695,11 @@ URL          : https://wiki.gnome.org/Apps/Software
 <summary>gnome-software</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A software center for GNOME
+From repo     : anaconda
+Short desc    : A software center for GNOME
 URL          : https://wiki.gnome.org/Apps/Software
-Лицензия     : GPLv2+
-Описание     : gnome-software is an application that makes it easy to add, remove
+License      : GPLv2+
+Descript     : gnome-software is an application that makes it easy to add, remove
              : and update software in the GNOME desktop.
 ```
 
@@ -3709,11 +3709,11 @@ URL          : https://wiki.gnome.org/Apps/Software
 <summary>gnome-system-monitor</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Process and resource monitor
+From repo     : updates-testing
+Short desc    : Process and resource monitor
 URL          : https://wiki.gnome.org/Apps/SystemMonitor
-Лицензия     : GPLv2+
-Описание     : gnome-system-monitor allows to graphically view and manipulate the running
+License      : GPLv2+
+Descript     : gnome-system-monitor allows to graphically view and manipulate the running
              : processes on your system. It also provides an overview of available resources
              : such as CPU and memory.
 ```
@@ -3724,11 +3724,11 @@ URL          : https://wiki.gnome.org/Apps/SystemMonitor
 <summary>gnome-terminal</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Terminal emulator for GNOME
+From repo     : anaconda
+Short desc    : Terminal emulator for GNOME
 URL          : http://www.gnome.org/
-Лицензия     : GPLv3+ and GFDL and LGPLv2+
-Описание     : gnome-terminal is a terminal emulator for GNOME. It features the ability to use
+License      : GPLv3+ and GFDL and LGPLv2+
+Descript     : gnome-terminal is a terminal emulator for GNOME. It features the ability to use
              : multiple terminals in a single window (tabs) and profiles support.
 ```
 
@@ -3738,11 +3738,11 @@ URL          : http://www.gnome.org/
 <summary>gnome-terminal-nautilus</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GNOME Terminal extension for Nautilus
+From repo     : anaconda
+Short desc    : GNOME Terminal extension for Nautilus
 URL          : http://www.gnome.org/
-Лицензия     : GPLv3+ and GFDL and LGPLv2+
-Описание     : This package provides a Nautilus extension that adds the 'Open in Terminal'
+License      : GPLv3+ and GFDL and LGPLv2+
+Descript     : This package provides a Nautilus extension that adds the 'Open in Terminal'
              : option to the right-click context menu in Nautilus.
 ```
 
@@ -3752,11 +3752,11 @@ URL          : http://www.gnome.org/
 <summary>gnome-themes-extra</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GNOME Extra Themes
+From repo     : anaconda
+Short desc    : GNOME Extra Themes
 URL          : https://gitlab.gnome.org/GNOME/gnome-themes-extra
-Лицензия     : LGPLv2+
-Описание     : This module houses themes and theme-y tidbits that don’t really fit in anywhere
+License      : LGPLv2+
+Descript     : This module houses themes and theme-y tidbits that don’t really fit in anywhere
              : else, or deserve their own module. At the moment this consists of:
              : 
              :  * The GTK+ 2 version of Adwaita
@@ -3780,11 +3780,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-themes-extra
 <summary>gnome-tour</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GNOME Tour and Greeter
+From repo     : updates-testing
+Short desc    : GNOME Tour and Greeter
 URL          : https://gitlab.gnome.org/GNOME/gnome-tour
-Лицензия     : GPLv3+ and CC-BY-SA
-Описание     : A guided tour and greeter for GNOME.
+License      : GPLv3+ and CC-BY-SA
+Descript     : A guided tour and greeter for GNOME.
 ```
 
 </details>
@@ -3793,11 +3793,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-tour
 <summary>gnome-tour</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GNOME Tour and Greeter
+From repo     : anaconda
+Short desc    : GNOME Tour and Greeter
 URL          : https://gitlab.gnome.org/GNOME/gnome-tour
-Лицензия     : GPLv3+ and CC-BY-SA
-Описание     : A guided tour and greeter for GNOME.
+License      : GPLv3+ and CC-BY-SA
+Descript     : A guided tour and greeter for GNOME.
 ```
 
 </details>
@@ -3806,11 +3806,11 @@ URL          : https://gitlab.gnome.org/GNOME/gnome-tour
 <summary>gnome-tweaks</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Customize advanced GNOME 3 options
+From repo     : updates-testing
+Short desc    : Customize advanced GNOME 3 options
 URL          : https://wiki.gnome.org/Apps/Tweaks
-Лицензия     : GPLv3 and CC0
-Описание     : GNOME Tweaks allows adjusting advanced configuration settings in GNOME 3. This
+License      : GPLv3 and CC0
+Descript     : GNOME Tweaks allows adjusting advanced configuration settings in GNOME 3. This
              : includes things like the fonts used in user interface elements, alternative user
              : interface themes, changes in window management behavior, GNOME Shell appearance
              : and extension, etc.
@@ -3822,11 +3822,11 @@ URL          : https://wiki.gnome.org/Apps/Tweaks
 <summary>gnome-user-docs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GNOME User Documentation
+From repo     : updates-testing
+Short desc    : GNOME User Documentation
 URL          : http://help.gnome.org/
-Лицензия     : CC-BY-SA
-Описание     : This package contains end-user documentation for the GNOME desktop
+License      : CC-BY-SA
+Descript     : This package contains end-user documentation for the GNOME desktop
              : environment.
 ```
 
@@ -3836,11 +3836,11 @@ URL          : http://help.gnome.org/
 <summary>gnome-user-share</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Gnome user file sharing
+From repo     : anaconda
+Short desc    : Gnome user file sharing
 URL          : http://www.gnome.org
-Лицензия     : GPLv2+
-Описание     : gnome-user-share is a small package that binds together various free
+License      : GPLv2+
+Descript     : gnome-user-share is a small package that binds together various free
              : software projects to bring easy to use user-level file sharing to the
              : masses.
              : 
@@ -3857,11 +3857,11 @@ URL          : http://www.gnome.org
 <summary>gnome-vfs2</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : The GNOME virtual file-system libraries
+From repo     : fedora
+Short desc    : The GNOME virtual file-system libraries
 URL          : http://www.gnome.org/
-Лицензия     : LGPLv2+ and GPLv2+
-Описание     : GNOME VFS is the GNOME virtual file system. It is the foundation of
+License      : LGPLv2+ and GPLv2+
+Descript     : GNOME VFS is the GNOME virtual file system. It is the foundation of
              : the Nautilus file manager. It provides a modular architecture and
              : ships with several modules that implement support for file systems,
              : http, ftp, and others. It provides a URI-based API, backend
@@ -3877,11 +3877,11 @@ URL          : http://www.gnome.org/
 <summary>gnome-vfs2-common</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Common files for gnome-vfs2
+From repo     : fedora
+Short desc    : Common files for gnome-vfs2
 URL          : http://www.gnome.org/
-Лицензия     : LGPLv2+ and GPLv2+
-Описание     : Common files for gnome-vfs2.
+License      : LGPLv2+ and GPLv2+
+Descript     : Common files for gnome-vfs2.
 ```
 
 </details>
@@ -3890,11 +3890,11 @@ URL          : http://www.gnome.org/
 <summary>gnome-video-effects</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Collection of GStreamer video effects
+From repo     : anaconda
+Short desc    : Collection of GStreamer video effects
 URL          : https://wiki.gnome.org/Projects/GnomeVideoEffects
-Лицензия     : GPLv2
-Описание     : A collection of GStreamer effects to be used in different GNOME Modules.
+License      : GPLv2
+Descript     : A collection of GStreamer effects to be used in different GNOME Modules.
 ```
 
 </details>
@@ -3903,11 +3903,11 @@ URL          : https://wiki.gnome.org/Projects/GnomeVideoEffects
 <summary>gnome-weather</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A weather application for GNOME
+From repo     : updates-testing
+Short desc    : A weather application for GNOME
 URL          : https://wiki.gnome.org/Apps/Weather
-Лицензия     : GPLv2+ and LGPLv2+ and MIT and CC-BY and CC-BY-SA
-Описание     : gnome-weather is a weather application for GNOME
+License      : GPLv2+ and LGPLv2+ and MIT and CC-BY and CC-BY-SA
+Descript     : gnome-weather is a weather application for GNOME
 ```
 
 </details>
@@ -3916,11 +3916,11 @@ URL          : https://wiki.gnome.org/Apps/Weather
 <summary>gnupg2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utility for secure communication and data storage
+From repo     : anaconda
+Short desc    : Utility for secure communication and data storage
 URL          : https://www.gnupg.org/
-Лицензия     : GPLv3+
-Описание     : GnuPG is GNU's tool for secure communication and data storage.  It can
+License      : GPLv3+
+Descript     : GnuPG is GNU's tool for secure communication and data storage.  It can
              : be used to encrypt data and to create digital signatures.  It includes
              : an advanced key management facility and is compliant with the proposed
              : OpenPGP Internet standard as described in RFC2440 and the S/MIME
@@ -3938,11 +3938,11 @@ URL          : https://www.gnupg.org/
 <summary>gnupg2</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Utility for secure communication and data storage
+From repo     : updates-testing
+Short desc    : Utility for secure communication and data storage
 URL          : https://www.gnupg.org/
-Лицензия     : GPLv3+
-Описание     : GnuPG is GNU's tool for secure communication and data storage.  It can
+License      : GPLv3+
+Descript     : GnuPG is GNU's tool for secure communication and data storage.  It can
              : be used to encrypt data and to create digital signatures.  It includes
              : an advanced key management facility and is compliant with the proposed
              : OpenPGP Internet standard as described in RFC2440 and the S/MIME
@@ -3960,11 +3960,11 @@ URL          : https://www.gnupg.org/
 <summary>gnupg2-smime</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : CMS encryption and signing tool and smart card support for GnuPG
+From repo     : anaconda
+Short desc    : CMS encryption and signing tool and smart card support for GnuPG
 URL          : https://www.gnupg.org/
-Лицензия     : GPLv3+
-Описание     : GnuPG is GNU's tool for secure communication and data storage. This
+License      : GPLv3+
+Descript     : GnuPG is GNU's tool for secure communication and data storage. This
              : package adds support for smart cards and S/MIME encryption and signing
              : to the base GnuPG package
 ```
@@ -3975,11 +3975,11 @@ URL          : https://www.gnupg.org/
 <summary>gnupg2-smime</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : CMS encryption and signing tool and smart card support for GnuPG
+From repo     : updates-testing
+Short desc    : CMS encryption and signing tool and smart card support for GnuPG
 URL          : https://www.gnupg.org/
-Лицензия     : GPLv3+
-Описание     : GnuPG is GNU's tool for secure communication and data storage. This
+License      : GPLv3+
+Descript     : GnuPG is GNU's tool for secure communication and data storage. This
              : package adds support for smart cards and S/MIME encryption and signing
              : to the base GnuPG package
 ```
@@ -3990,11 +3990,11 @@ URL          : https://www.gnupg.org/
 <summary>gnustep-base-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GNUStep Base Libraries
+From repo     : fedora
+Short desc    : GNUStep Base Libraries
 URL          : http://www.gnustep.org/
-Лицензия     : GPLv3+ and LGPLv2+
-Описание     : The GNUstep Base Library is a powerful fast library of general-purpose,
+License      : GPLv3+ and LGPLv2+
+Descript     : The GNUstep Base Library is a powerful fast library of general-purpose,
              : non-graphical Objective C classes, inspired by the superb OpenStep API but
              : implementing Apple and GNU additions to the API as well.  It includes for
              : example classes for unicode strings, arrays, dictionaries, sets, byte
@@ -4012,11 +4012,11 @@ URL          : http://www.gnustep.org/
 <summary>gnutls</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A TLS protocol implementation
+From repo     : anaconda
+Short desc    : A TLS protocol implementation
 URL          : http://www.gnutls.org/
-Лицензия     : GPLv3+ and LGPLv2+
-Описание     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
+License      : GPLv3+ and LGPLv2+
+Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
              : protocols and technologies around them. It provides a simple C language
              : application programming interface (API) to access the secure communications
              : protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and
@@ -4029,11 +4029,11 @@ URL          : http://www.gnutls.org/
 <summary>gnutls</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A TLS protocol implementation
+From repo     : updates-testing
+Short desc    : A TLS protocol implementation
 URL          : http://www.gnutls.org/
-Лицензия     : GPLv3+ and LGPLv2+
-Описание     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
+License      : GPLv3+ and LGPLv2+
+Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
              : protocols and technologies around them. It provides a simple C language
              : application programming interface (API) to access the secure communications
              : protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and
@@ -4046,11 +4046,11 @@ URL          : http://www.gnutls.org/
 <summary>gnutls-dane</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A DANE protocol implementation for GnuTLS
+From repo     : anaconda
+Short desc    : A DANE protocol implementation for GnuTLS
 URL          : http://www.gnutls.org/
-Лицензия     : GPLv3+ and LGPLv2+
-Описание     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
+License      : GPLv3+ and LGPLv2+
+Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
              : protocols and technologies around them. It provides a simple C language
              : application programming interface (API) to access the secure communications
              : protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and
@@ -4065,11 +4065,11 @@ URL          : http://www.gnutls.org/
 <summary>gnutls-dane</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A DANE protocol implementation for GnuTLS
+From repo     : updates-testing
+Short desc    : A DANE protocol implementation for GnuTLS
 URL          : http://www.gnutls.org/
-Лицензия     : GPLv3+ and LGPLv2+
-Описание     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
+License      : GPLv3+ and LGPLv2+
+Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
              : protocols and technologies around them. It provides a simple C language
              : application programming interface (API) to access the secure communications
              : protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and
@@ -4084,11 +4084,11 @@ URL          : http://www.gnutls.org/
 <summary>gnutls-utils</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Command line tools for TLS protocol
+From repo     : updates-testing
+Short desc    : Command line tools for TLS protocol
 URL          : http://www.gnutls.org/
-Лицензия     : GPLv3+
-Описание     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
+License      : GPLv3+
+Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
              : protocols and technologies around them. It provides a simple C language
              : application programming interface (API) to access the secure communications
              : protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and
@@ -4103,11 +4103,11 @@ URL          : http://www.gnutls.org/
 <summary>go-srpm-macros</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Source-stage rpm automation for Go packages
+From repo     : fedora
+Short desc    : Source-stage rpm automation for Go packages
 URL          : https://pagure.io/go-rpm-macros
-Лицензия     : GPLv3+
-Описание     : This package provides SRPM-stage rpm automation to simplify the creation of Go
+License      : GPLv3+
+Descript     : This package provides SRPM-stage rpm automation to simplify the creation of Go
              : language (golang) packages.
              : 
              : It limits itself to the automation subset required to create Go SRPM packages
@@ -4123,11 +4123,11 @@ URL          : https://pagure.io/go-rpm-macros
 <summary>gobject-introspection</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Introspection system for GObject-based libraries
+From repo     : anaconda
+Short desc    : Introspection system for GObject-based libraries
 URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
-Лицензия     : GPLv2+, LGPLv2+, MIT
-Описание     : GObject Introspection can scan C header and source files in order to
+License      : GPLv2+, LGPLv2+, MIT
+Descript     : GObject Introspection can scan C header and source files in order to
              : generate introspection "typelib" files.  It also provides an API to examine
              : typelib files, useful for creating language bindings among other
              : things.
@@ -4139,11 +4139,11 @@ URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
 <summary>gobject-introspection</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Introspection system for GObject-based libraries
+From repo     : updates-testing
+Short desc    : Introspection system for GObject-based libraries
 URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
-Лицензия     : GPLv2+, LGPLv2+, MIT
-Описание     : GObject Introspection can scan C header and source files in order to
+License      : GPLv2+, LGPLv2+, MIT
+Descript     : GObject Introspection can scan C header and source files in order to
              : generate introspection "typelib" files.  It also provides an API to examine
              : typelib files, useful for creating language bindings among other
              : things.
@@ -4155,11 +4155,11 @@ URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
 <summary>gobject-introspection-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Libraries and headers for gobject-introspection
+From repo     : updates-testing
+Short desc    : Libraries and headers for gobject-introspection
 URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
-Лицензия     : GPLv2+, LGPLv2+, MIT
-Описание     : Libraries and headers for gobject-introspection
+License      : GPLv2+, LGPLv2+, MIT
+Descript     : Libraries and headers for gobject-introspection
 ```
 
 </details>
@@ -4168,11 +4168,11 @@ URL          : https://wiki.gnome.org/Projects/GObjectIntrospection
 <summary>gom</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GObject to SQLite object mapper library
+From repo     : anaconda
+Short desc    : GObject to SQLite object mapper library
 URL          : https://wiki.gnome.org/Projects/Gom
-Лицензия     : LGPLv2+
-Описание     : Gom provides an object mapper from GObjects to SQLite. It helps you write
+License      : LGPLv2+
+Descript     : Gom provides an object mapper from GObjects to SQLite. It helps you write
              : applications that need to store structured data as well as make complex queries
              : upon that data.
 ```
@@ -4183,11 +4183,11 @@ URL          : https://wiki.gnome.org/Projects/Gom
 <summary>goocanvas</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A new canvas widget for GTK+ that uses cairo for drawing
+From repo     : fedora
+Short desc    : A new canvas widget for GTK+ that uses cairo for drawing
 URL          : https://wiki.gnome.org/Projects/GooCanvas
-Лицензия     : LGPLv2+
-Описание     : GooCanvas is a new canvas widget for GTK+ that uses the cairo 2D library for
+License      : LGPLv2+
+Descript     : GooCanvas is a new canvas widget for GTK+ that uses the cairo 2D library for
              : drawing. It has a model/view split, and uses interfaces for canvas items and
              : views, so you can easily turn any application object into canvas items.
 ```
@@ -4198,11 +4198,11 @@ URL          : https://wiki.gnome.org/Projects/GooCanvas
 <summary>google-carlito-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Carlito, a sans-serif font family metric-compatible with Calibri font family
+From repo     : anaconda
+Short desc    : Carlito, a sans-serif font family metric-compatible with Calibri font family
 URL          : http://code.google.com/p/chromium/issues/detail?id=280557
-Лицензия     : OFL
-Описание     : Carlito is metric-compatible with Calibri font family. Carlito comes in regular,
+License      : OFL
+Descript     : Carlito is metric-compatible with Calibri font family. Carlito comes in regular,
              : bold, italic, and bold italic. The family covers Latin-Greek-Cyrillic (not a
              : complete set, though) with about 2,000 glyphs. It has the same character
              : coverage as Calibri. This font is sans-serif typeface family based on Lato.
@@ -4214,11 +4214,11 @@ URL          : http://code.google.com/p/chromium/issues/detail?id=280557
 <summary>google-droid-sans-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Droid Sans, a humanist sans-serif font family
+From repo     : anaconda
+Short desc    : Droid Sans, a humanist sans-serif font family
 URL          : https://android.googlesource.com/
-Лицензия     : ASL 2.0
-Описание     : 
+License      : ASL 2.0
+Descript     : 
              : The Droid font family was designed in the fall of 2006 by Ascender’s Steve
              : Matteson, as a commission from Google to create a set of system fonts for its
              : Android platform. The goal was to provide optimal quality and comfort on a
@@ -4242,11 +4242,11 @@ URL          : https://android.googlesource.com/
 <summary>google-noto-cjk-fonts-common</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Common files for Noto CJK fonts
+From repo     : anaconda
+Short desc    : Common files for Noto CJK fonts
 URL          : https://github.com/googlei18n/noto-cjk
-Лицензия     : OFL
-Описание     : 
+License      : OFL
+Descript     : 
              : Noto CJK fonts, supporting Simplified Chinese, Traditional Chinese,
              : Japanese, and Korean. The supported scripts are Han, Hiragana, Katakana,
              : Hangul, and Bopomofo. Latin, Greek, Cyrllic, and various symbols are also
@@ -4262,11 +4262,11 @@ URL          : https://github.com/googlei18n/noto-cjk
 <summary>google-noto-emoji-color-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Google “Noto Color Emoji” colored emoji font
+From repo     : anaconda
+Short desc    : Google “Noto Color Emoji” colored emoji font
 URL          : https://github.com/googlei18n/noto-emoji
-Лицензия     : OFL and ASL 2.0
-Описание     : This package provides the Google “Noto Color Emoji” colored emoji font.
+License      : OFL and ASL 2.0
+Descript     : This package provides the Google “Noto Color Emoji” colored emoji font.
 ```
 
 </details>
@@ -4275,11 +4275,11 @@ URL          : https://github.com/googlei18n/noto-emoji
 <summary>google-noto-fonts-common</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Common files for Noto fonts
+From repo     : anaconda
+Short desc    : Common files for Noto fonts
 URL          : https://github.com/googlei18n/noto-fonts/
-Лицензия     : OFL
-Описание     : Common files for Google Noto fonts.
+License      : OFL
+Descript     : Common files for Google Noto fonts.
 ```
 
 </details>
@@ -4288,11 +4288,11 @@ URL          : https://github.com/googlei18n/noto-fonts/
 <summary>google-noto-sans-cjk-ttc-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Sans OTC font files for google-noto-cjk-fonts
+From repo     : anaconda
+Short desc    : Sans OTC font files for google-noto-cjk-fonts
 URL          : https://github.com/googlei18n/noto-cjk
-Лицензия     : OFL
-Описание     : 
+License      : OFL
+Descript     : 
              : Noto CJK fonts, supporting Simplified Chinese, Traditional Chinese,
              : Japanese, and Korean. The supported scripts are Han, Hiragana, Katakana,
              : Hangul, and Bopomofo. Latin, Greek, Cyrllic, and various symbols are also
@@ -4308,11 +4308,11 @@ URL          : https://github.com/googlei18n/noto-cjk
 <summary>google-noto-sans-gurmukhi-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Sans Gurmukhi font
+From repo     : anaconda
+Short desc    : Sans Gurmukhi font
 URL          : https://github.com/googlei18n/noto-fonts/
-Лицензия     : OFL
-Описание     : Noto fonts aims to remove tofu from web by providing fonts for all
+License      : OFL
+Descript     : Noto fonts aims to remove tofu from web by providing fonts for all
              : Unicode supported scripts. Its design goal is to achieve visual harmonization
              : between multiple scripts. Noto family supports almost all scripts available
              : in Unicode.
@@ -4326,11 +4326,11 @@ URL          : https://github.com/googlei18n/noto-fonts/
 <summary>google-noto-sans-sinhala-vf-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Sans Sinhala variable font
+From repo     : anaconda
+Short desc    : Sans Sinhala variable font
 URL          : https://github.com/googlei18n/noto-fonts/
-Лицензия     : OFL
-Описание     : Noto fonts aims to remove tofu from web by providing fonts for all
+License      : OFL
+Descript     : Noto fonts aims to remove tofu from web by providing fonts for all
              : Unicode supported scripts. Its design goal is to achieve visual harmonization
              : between multiple scripts. Noto family supports almost all scripts available
              : in Unicode.
@@ -4344,11 +4344,11 @@ URL          : https://github.com/googlei18n/noto-fonts/
 <summary>google-roboto-slab-fonts</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Google Roboto Slab fonts
+From repo     : fedora
+Short desc    : Google Roboto Slab fonts
 URL          : https://www.google.com/fonts/specimen/Roboto+Slab
-Лицензия     : ASL 2.0
-Описание     : Roboto has a dual nature. It has a mechanical skeleton and the forms are
+License      : ASL 2.0
+Descript     : Roboto has a dual nature. It has a mechanical skeleton and the forms are
              : largely geometric. At the same time, the font features friendly and open
              : curves. While some grotesks distort their letterforms to force a rigid
              : rhythm, Roboto doesn't compromise, allowing letters to be settled into
@@ -4365,11 +4365,11 @@ URL          : https://www.google.com/fonts/specimen/Roboto+Slab
 <summary>gparted</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Gnome Partition Editor
+From repo     : fedora
+Short desc    : Gnome Partition Editor
 URL          : http://gparted.org
-Лицензия     : GPLv2+
-Описание     : GParted stands for Gnome Partition Editor and is a graphical frontend to
+License      : GPLv2+
+Descript     : GParted stands for Gnome Partition Editor and is a graphical frontend to
              : libparted. Among other features it supports creating, resizing, moving
              : and copying of partitions. Also several (optional) filesystem tools provide
              : support for filesystems not included in libparted. These optional packages
@@ -4382,11 +4382,11 @@ URL          : http://gparted.org
 <summary>gperftools</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Very fast malloc and performance analysis tools
+From repo     : updates-testing
+Short desc    : Very fast malloc and performance analysis tools
 URL          : https://github.com/gperftools/gperftools
-Лицензия     : BSD
-Описание     : Perf Tools is a collection of performance analysis tools, including a
+License      : BSD
+Descript     : Perf Tools is a collection of performance analysis tools, including a
              : high-performance multi-threaded malloc() implementation that works
              : particularly well with threads and STL, a thread-friendly heap-checker,
              : a heap profiler, and a cpu-profiler.
@@ -4401,11 +4401,11 @@ URL          : https://github.com/gperftools/gperftools
 <summary>gperftools-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Development libraries and headers for gperftools
+From repo     : updates-testing
+Short desc    : Development libraries and headers for gperftools
 URL          : https://github.com/gperftools/gperftools
-Лицензия     : BSD
-Описание     : Libraries and headers for developing applications that use gperftools.
+License      : BSD
+Descript     : Libraries and headers for developing applications that use gperftools.
 ```
 
 </details>
@@ -4414,11 +4414,11 @@ URL          : https://github.com/gperftools/gperftools
 <summary>gperftools-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Libraries provided by gperftools
+From repo     : updates-testing
+Short desc    : Libraries provided by gperftools
 URL          : https://github.com/gperftools/gperftools
-Лицензия     : BSD
-Описание     : Libraries provided by gperftools, including libtcmalloc and libprofiler.
+License      : BSD
+Descript     : Libraries provided by gperftools, including libtcmalloc and libprofiler.
 ```
 
 </details>
@@ -4427,11 +4427,11 @@ URL          : https://github.com/gperftools/gperftools
 <summary>gpgme</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GnuPG Made Easy - high level crypto API
+From repo     : anaconda
+Short desc    : GnuPG Made Easy - high level crypto API
 URL          : https://gnupg.org/related_software/gpgme/
-Лицензия     : LGPLv2+
-Описание     : GnuPG Made Easy (GPGME) is a library designed to make access to GnuPG
+License      : LGPLv2+
+Descript     : GnuPG Made Easy (GPGME) is a library designed to make access to GnuPG
              : easier for applications.  It provides a high-level crypto API for
              : encryption, decryption, signing, signature verification and key
              : management.
@@ -4443,11 +4443,11 @@ URL          : https://gnupg.org/related_software/gpgme/
 <summary>gpgmepp</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : C++ bindings/wrapper for GPGME
+From repo     : anaconda
+Short desc    : C++ bindings/wrapper for GPGME
 URL          : https://gnupg.org/related_software/gpgme/
-Лицензия     : LGPLv2+
-Описание     : C++ bindings/wrapper for GPGME.
+License      : LGPLv2+
+Descript     : C++ bindings/wrapper for GPGME.
 ```
 
 </details>
@@ -4456,11 +4456,11 @@ URL          : https://gnupg.org/related_software/gpgme/
 <summary>gpm-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Dynamic library for gpm
+From repo     : updates-testing
+Short desc    : Dynamic library for gpm
 URL          : http://www.nico.schottelius.org/software/gpm/
-Лицензия     : GPLv2 and OFSFDL
-Описание     : This package contains the libgpm.so dynamic library which contains
+License      : GPLv2 and OFSFDL
+Descript     : This package contains the libgpm.so dynamic library which contains
              : the gpm system calls and library functions.
 ```
 
@@ -4470,11 +4470,11 @@ URL          : http://www.nico.schottelius.org/software/gpm/
 <summary>granite</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : elementary companion library for GTK+ and GLib
+From repo     : updates-testing
+Short desc    : elementary companion library for GTK+ and GLib
 URL          : https://github.com/elementary/granite
-Лицензия     : LGPLv3+
-Описание     : Granite is a companion library for GTK+ and GLib. Among other things, it
+License      : LGPLv3+
+Descript     : Granite is a companion library for GTK+ and GLib. Among other things, it
              : provides complex widgets and convenience functions designed for use in
              : apps built for elementary.
 ```
@@ -4485,11 +4485,11 @@ URL          : https://github.com/elementary/granite
 <summary>graphene</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Thin layer of types for graphic libraries
+From repo     : anaconda
+Short desc    : Thin layer of types for graphic libraries
 URL          : https://github.com/ebassi/graphene
-Лицензия     : MIT
-Описание     : Graphene provides a small set of mathematical types needed to implement graphic
+License      : MIT
+Descript     : Graphene provides a small set of mathematical types needed to implement graphic
              : libraries that deal with 2D and 3D transformations and projections.
 ```
 
@@ -4499,11 +4499,11 @@ URL          : https://github.com/ebassi/graphene
 <summary>graphene</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Thin layer of types for graphic libraries
+From repo     : updates-testing
+Short desc    : Thin layer of types for graphic libraries
 URL          : https://github.com/ebassi/graphene
-Лицензия     : MIT
-Описание     : Graphene provides a small set of mathematical types needed to implement graphic
+License      : MIT
+Descript     : Graphene provides a small set of mathematical types needed to implement graphic
              : libraries that deal with 2D and 3D transformations and projections.
 ```
 
@@ -4513,11 +4513,11 @@ URL          : https://github.com/ebassi/graphene
 <summary>graphite2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Font rendering capabilities for complex non-Roman writing systems
+From repo     : anaconda
+Short desc    : Font rendering capabilities for complex non-Roman writing systems
 URL          : https://sourceforge.net/projects/silgraphite/
-Лицензия     : (LGPLv2+ or GPLv2+ or MPLv1.1) and (Netscape or GPLv2+ or LGPLv2+)
-Описание     : Graphite2 is a project within SIL’s Non-Roman Script Initiative and Language
+License      : (LGPLv2+ or GPLv2+ or MPLv1.1) and (Netscape or GPLv2+ or LGPLv2+)
+Descript     : Graphite2 is a project within SIL’s Non-Roman Script Initiative and Language
              : Software Development groups to provide rendering capabilities for complex
              : non-Roman writing systems. Graphite can be used to create “smart fonts” capable
              : of displaying writing systems with various complex behaviors. With respect to
@@ -4531,11 +4531,11 @@ URL          : https://sourceforge.net/projects/silgraphite/
 <summary>graphite2-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Files for developing with graphite2
+From repo     : fedora
+Short desc    : Files for developing with graphite2
 URL          : https://sourceforge.net/projects/silgraphite/
-Лицензия     : (LGPLv2+ or GPLv2+ or MPLv1.1) and (Netscape or GPLv2+ or LGPLv2+)
-Описание     : Includes and definitions for developing with graphite2.
+License      : (LGPLv2+ or GPLv2+ or MPLv1.1) and (Netscape or GPLv2+ or LGPLv2+)
+Descript     : Includes and definitions for developing with graphite2.
 ```
 
 </details>
@@ -4544,11 +4544,11 @@ URL          : https://sourceforge.net/projects/silgraphite/
 <summary>graphviz</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Graph Visualization Tools
+From repo     : fedora
+Short desc    : Graph Visualization Tools
 URL          : http://www.graphviz.org/
-Лицензия     : EPL-1.0
-Описание     : A collection of tools for the manipulation and layout of graphs (as in nodes
+License      : EPL-1.0
+Descript     : A collection of tools for the manipulation and layout of graphs (as in nodes
              : and edges, not as in barcharts).
 ```
 
@@ -4558,11 +4558,11 @@ URL          : http://www.graphviz.org/
 <summary>graphviz-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development package for graphviz
+From repo     : fedora
+Short desc    : Development package for graphviz
 URL          : http://www.graphviz.org/
-Лицензия     : EPL-1.0
-Описание     : A collection of tools for the manipulation and layout of graphs (as in nodes
+License      : EPL-1.0
+Descript     : A collection of tools for the manipulation and layout of graphs (as in nodes
              : and edges, not as in barcharts). This package contains development files for
              : graphviz.
 ```
@@ -4573,11 +4573,11 @@ URL          : http://www.graphviz.org/
 <summary>graphviz-devil</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Graphviz plugin for renderers based on DevIL
+From repo     : fedora
+Short desc    : Graphviz plugin for renderers based on DevIL
 URL          : http://www.graphviz.org/
-Лицензия     : EPL-1.0
-Описание     : Graphviz plugin for renderers based on DevIL. (Unless you absolutely have
+License      : EPL-1.0
+Descript     : Graphviz plugin for renderers based on DevIL. (Unless you absolutely have
              : to use BMP, TIF, or TGA, you are recommended to use the PNG format instead
              : supported directly by the cairo+pango based renderer in the base graphviz rpm.)
 ```
@@ -4588,11 +4588,11 @@ URL          : http://www.graphviz.org/
 <summary>graphviz-gd</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Graphviz plugin for renderers based on gd
+From repo     : fedora
+Short desc    : Graphviz plugin for renderers based on gd
 URL          : http://www.graphviz.org/
-Лицензия     : EPL-1.0
-Описание     : Graphviz plugin for renderers based on gd.  (Unless you absolutely have to use
+License      : EPL-1.0
+Descript     : Graphviz plugin for renderers based on gd.  (Unless you absolutely have to use
              : GIF, you are recommended to use the PNG format instead because of the better
              : quality anti-aliased lines provided by the cairo+pango based renderer.)
 ```
@@ -4603,11 +4603,11 @@ URL          : http://www.graphviz.org/
 <summary>grep</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Pattern matching utilities
+From repo     : anaconda
+Short desc    : Pattern matching utilities
 URL          : https://www.gnu.org/software/grep/
-Лицензия     : GPLv3+
-Описание     : The GNU versions of commonly used grep utilities. Grep searches through
+License      : GPLv3+
+Descript     : The GNU versions of commonly used grep utilities. Grep searches through
              : textual input for lines which contain a match to a specified pattern and then
              : prints the matching lines. GNU's grep utilities include grep, egrep and fgrep.
              : 
@@ -4620,11 +4620,11 @@ URL          : https://www.gnu.org/software/grep/
 <summary>grilo</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Content discovery framework
+From repo     : anaconda
+Short desc    : Content discovery framework
 URL          : https://wiki.gnome.org/Projects/Grilo
-Лицензия     : LGPLv2+
-Описание     : Grilo is a framework that provides access to different sources of
+License      : LGPLv2+
+Descript     : Grilo is a framework that provides access to different sources of
              : multimedia content, using a pluggable system.
              : This package contains the core library and elements.
 ```
@@ -4635,11 +4635,11 @@ URL          : https://wiki.gnome.org/Projects/Grilo
 <summary>grilo-plugins</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Plugins for the Grilo framework
+From repo     : anaconda
+Short desc    : Plugins for the Grilo framework
 URL          : https://wiki.gnome.org/Projects/Grilo
-Лицензия     : LGPLv2+
-Описание     : Grilo is a framework that provides access to different sources of
+License      : LGPLv2+
+Descript     : Grilo is a framework that provides access to different sources of
              : multimedia content, using a pluggable system.
              : This package contains plugins to get information from theses sources:
              : - Apple Trailers
@@ -4670,11 +4670,11 @@ URL          : https://wiki.gnome.org/Projects/Grilo
 <summary>grilo-plugins</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Plugins for the Grilo framework
+From repo     : updates-testing
+Short desc    : Plugins for the Grilo framework
 URL          : https://wiki.gnome.org/Projects/Grilo
-Лицензия     : LGPLv2+
-Описание     : Grilo is a framework that provides access to different sources of
+License      : LGPLv2+
+Descript     : Grilo is a framework that provides access to different sources of
              : multimedia content, using a pluggable system.
              : This package contains plugins to get information from theses sources:
              : - Apple Trailers
@@ -4703,11 +4703,11 @@ URL          : https://wiki.gnome.org/Projects/Grilo
 <summary>grim</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Screenshot tool for Sway
+From repo     : fedora
+Short desc    : Screenshot tool for Sway
 URL          : https://github.com/emersion/grim
-Лицензия     : MIT
-Описание     : Grim is a command-line tool to grab images from Sway.
+License      : MIT
+Descript     : Grim is a command-line tool to grab images from Sway.
 ```
 
 </details>
@@ -4716,11 +4716,11 @@ URL          : https://github.com/emersion/grim
 <summary>groff-base</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Parts of the groff formatting system required to display manual pages
+From repo     : updates-testing
+Short desc    : Parts of the groff formatting system required to display manual pages
 URL          : http://www.gnu.org/software/groff/
-Лицензия     : GPLv3+ and GFDL and BSD and MIT
-Описание     : The groff-base package contains only necessary parts of groff formatting
+License      : GPLv3+ and GFDL and BSD and MIT
+Descript     : The groff-base package contains only necessary parts of groff formatting
              : system which are required to display manual pages, and the groff's default
              : display device (PostScript).
 ```
@@ -4731,11 +4731,11 @@ URL          : http://www.gnu.org/software/groff/
 <summary>grsync</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A Gtk+ GUI for rsync
+From repo     : fedora
+Short desc    : A Gtk+ GUI for rsync
 URL          : http://www.opbyte.it/grsync/
-Лицензия     : GPLv2
-Описание     : Grsync is a GUI (Graphical User Interface) for rsync, the commandline
+License      : GPLv2
+Descript     : Grsync is a GUI (Graphical User Interface) for rsync, the commandline
              : directory synchronization tool. It makes use of the GTK libraries and
              : is released under the GPL license, so it is opensource. It is in beta
              : stage and doesn't support all of rsync features, but can be effectively
@@ -4751,11 +4751,11 @@ URL          : http://www.opbyte.it/grsync/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : grub2 common layout
+From repo     : updates-testing
+Short desc    : grub2 common layout
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : This package provides some directories which are required by various grub2
+License      : GPLv3+
+Descript     : This package provides some directories which are required by various grub2
              : subpackages.
 ```
 
@@ -4766,11 +4766,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : GRUB for EFI systems.
+From repo     : updates-testing
+Short desc    : GRUB for EFI systems.
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4786,11 +4786,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Files used to boot removeable media with EFI
+From repo     : updates-testing
+Short desc    : Files used to boot removeable media with EFI
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4806,11 +4806,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : GRUB for EFI systems.
+From repo     : updates-testing
+Short desc    : GRUB for EFI systems.
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4826,11 +4826,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Files used to boot removeable media with EFI
+From repo     : updates-testing
+Short desc    : Files used to boot removeable media with EFI
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4846,11 +4846,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Bootloader with support for Linux, Multiboot, and more
+From repo     : updates-testing
+Short desc    : Bootloader with support for Linux, Multiboot, and more
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4866,11 +4866,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Modules used to build custom grub images
+From repo     : updates-testing
+Short desc    : Modules used to build custom grub images
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4886,11 +4886,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Support tools for GRUB.
+From repo     : updates-testing
+Short desc    : Support tools for GRUB.
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4906,11 +4906,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Support tools for GRUB.
+From repo     : updates-testing
+Short desc    : Support tools for GRUB.
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4926,11 +4926,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Support tools for GRUB.
+From repo     : updates-testing
+Short desc    : Support tools for GRUB.
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4946,11 +4946,11 @@ URL          : http://www.gnu.org/software/grub/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Support tools for GRUB.
+From repo     : updates-testing
+Short desc    : Support tools for GRUB.
 URL          : http://www.gnu.org/software/grub/
-Лицензия     : GPLv3+
-Описание     : 
+License      : GPLv3+
+Descript     : 
              : The GRand Unified Bootloader (GRUB) is a highly configurable and
              : customizable bootloader with modular architecture.  It supports a rich
              : variety of kernel formats, file systems, computer architectures and
@@ -4965,11 +4965,11 @@ URL          : http://www.gnu.org/software/grub/
 <summary>grubby</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Command line tool for updating bootloader configs
+From repo     : anaconda
+Short desc    : Command line tool for updating bootloader configs
 URL          : https://github.com/rhinstaller/grubby
-Лицензия     : GPLv2+
-Описание     : This package provides a grubby compatibility script that manages
+License      : GPLv2+
+Descript     : This package provides a grubby compatibility script that manages
              : BootLoaderSpec files and is meant to only be used for legacy compatibility
              : users with existing grubby users.
 ```
@@ -4980,11 +4980,11 @@ URL          : https://github.com/rhinstaller/grubby
 <summary>gsettings-desktop-schemas</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A collection of GSettings schemas
+From repo     : updates-testing
+Short desc    : A collection of GSettings schemas
 URL          : https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas
-Лицензия     : LGPLv2+
-Описание     : gsettings-desktop-schemas contains a collection of GSettings schemas for
+License      : LGPLv2+
+Descript     : gsettings-desktop-schemas contains a collection of GSettings schemas for
              : settings shared by various components of a desktop.
 ```
 
@@ -4994,11 +4994,11 @@ URL          : https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas
 <summary>gsettings-desktop-schemas</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A collection of GSettings schemas
+From repo     : anaconda
+Short desc    : A collection of GSettings schemas
 URL          : https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas
-Лицензия     : LGPLv2+
-Описание     : gsettings-desktop-schemas contains a collection of GSettings schemas for
+License      : LGPLv2+
+Descript     : gsettings-desktop-schemas contains a collection of GSettings schemas for
              : settings shared by various components of a desktop.
 ```
 
@@ -5008,11 +5008,11 @@ URL          : https://gitlab.gnome.org/GNOME/gsettings-desktop-schemas
 <summary>gsl</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : The GNU Scientific Library for numerical analysis
+From repo     : fedora
+Short desc    : The GNU Scientific Library for numerical analysis
 URL          : http://www.gnu.org/software/gsl/
-Лицензия     : GPLv3+
-Описание     : The GNU Scientific Library (GSL) is a collection of routines for
+License      : GPLv3+
+Descript     : The GNU Scientific Library (GSL) is a collection of routines for
              : numerical analysis, written in C.
 ```
 
@@ -5022,11 +5022,11 @@ URL          : http://www.gnu.org/software/gsl/
 <summary>gsm</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Shared libraries for GSM speech compressor
+From repo     : anaconda
+Short desc    : Shared libraries for GSM speech compressor
 URL          : http://www.quut.com/gsm/
-Лицензия     : MIT
-Описание     : Contains runtime shared libraries for libgsm, an implementation of
+License      : MIT
+Descript     : Contains runtime shared libraries for libgsm, an implementation of
              : the European GSM 06.10 provisional standard for full-rate speech
              : transcoding, prI-ETS 300 036, which uses RPE/LTP (residual pulse
              : excitation/long term prediction) coding at 13 kbit/s.
@@ -5051,11 +5051,11 @@ URL          : http://www.quut.com/gsm/
 <summary>gsound</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Small gobject library for playing system sounds
+From repo     : anaconda
+Short desc    : Small gobject library for playing system sounds
 URL          : https://wiki.gnome.org/Projects/GSound
-Лицензия     : LGPLv2
-Описание     : GSound is a small library for playing system sounds.
+License      : LGPLv2
+Descript     : GSound is a small library for playing system sounds.
              : It's designed to be used via GObject Introspection,
              : and is a thin wrapper around the libcanberra C library
 ```
@@ -5066,11 +5066,11 @@ URL          : https://wiki.gnome.org/Projects/GSound
 <summary>gspell</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Spell-checking library for GTK+
+From repo     : anaconda
+Short desc    : Spell-checking library for GTK+
 URL          : https://wiki.gnome.org/Projects/gspell
-Лицензия     : LGPLv2+
-Описание     : gspell provides a flexible API to implement the spell checking
+License      : LGPLv2+
+Descript     : gspell provides a flexible API to implement the spell checking
              : in a GTK+ application.
 ```
 
@@ -5080,11 +5080,11 @@ URL          : https://wiki.gnome.org/Projects/gspell
 <summary>gssdp</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Resource discovery and announcement over SSDP
+From repo     : anaconda
+Short desc    : Resource discovery and announcement over SSDP
 URL          : http://www.gupnp.org/
-Лицензия     : LGPLv2+
-Описание     : GSSDP implements resource discovery and announcement over SSDP and is part
+License      : LGPLv2+
+Descript     : GSSDP implements resource discovery and announcement over SSDP and is part
              : of gUPnP.  GUPnP is an object-oriented open source framework for creating
              : UPnP devices and control points, written in C using GObject and libsoup. The
              : GUPnP API is intended to be easy to use, efficient and flexible.
@@ -5096,11 +5096,11 @@ URL          : http://www.gupnp.org/
 <summary>gssproxy</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GSSAPI Proxy
+From repo     : anaconda
+Short desc    : GSSAPI Proxy
 URL          : https://github.com/gssapi/gssproxy
-Лицензия     : MIT
-Описание     : A proxy for GSSAPI credential handling
+License      : MIT
+Descript     : A proxy for GSSAPI credential handling
 ```
 
 </details>
@@ -5109,11 +5109,11 @@ URL          : https://github.com/gssapi/gssproxy
 <summary>gst-editing-services</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Gstreamer editing services
+From repo     : updates-testing
+Short desc    : Gstreamer editing services
 URL          : http://cgit.freedesktop.org/gstreamer/gst-editing-services/
-Лицензия     : GPLv2+ and LGPLv2+
-Описание     : This is a high-level library for facilitating the creation of audio/video
+License      : GPLv2+ and LGPLv2+
+Descript     : This is a high-level library for facilitating the creation of audio/video
              : non-linear editors.
 ```
 
@@ -5123,11 +5123,11 @@ URL          : http://cgit.freedesktop.org/gstreamer/gst-editing-services/
 <summary>gstreamer1</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GStreamer streaming media framework runtime
+From repo     : anaconda
+Short desc    : GStreamer streaming media framework runtime
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of filters which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
              : operate on media data. Applications using this library can do anything
              : from real-time sound processing to playing videos, and just about anything
              : else media-related.  Its plugin-based architecture means that new data
@@ -5141,11 +5141,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GStreamer streaming media framework runtime
+From repo     : updates-testing
+Short desc    : GStreamer streaming media framework runtime
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of filters which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
              : operate on media data. Applications using this library can do anything
              : from real-time sound processing to playing videos, and just about anything
              : else media-related.  Its plugin-based architecture means that new data
@@ -5159,11 +5159,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-libav</summary>
 
 ```
-Из репозитор : rpmfusion-free
-Краткое опис : GStreamer 1.0 libav-based plug-ins
+From repo     : rpmfusion-free
+Short desc    : GStreamer 1.0 libav-based plug-ins
 URL          : https://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of filters which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
              : operate on media data. Applications using this library can do anything
              : from real-time sound processing to playing videos, and just about anything
              : else media-related.  Its plugin-based architecture means that new data
@@ -5179,11 +5179,11 @@ URL          : https://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugin-openh264</summary>
 
 ```
-Из репозитор : fedora-cisco-openh264
-Краткое опис : GStreamer H.264 plugin
+From repo     : fedora-cisco-openh264
+Short desc    : GStreamer H.264 plugin
 URL          : http://www.openh264.org/
-Лицензия     : BSD
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : BSD
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : This package contains the H.264 plugin.
@@ -5195,11 +5195,11 @@ URL          : http://www.openh264.org/
 <summary>gstreamer1-plugins-bad-free</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GStreamer streaming media framework "bad" plugins
+From repo     : anaconda
+Short desc    : GStreamer streaming media framework "bad" plugins
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+ and LGPLv2
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+ and LGPLv2
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : This package contains plug-ins that aren't tested well enough, or the code
@@ -5212,11 +5212,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-bad-free</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GStreamer streaming media framework "bad" plugins
+From repo     : updates-testing
+Short desc    : GStreamer streaming media framework "bad" plugins
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+ and LGPLv2
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+ and LGPLv2
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : This package contains plug-ins that aren't tested well enough, or the code
@@ -5229,11 +5229,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-bad-freeworld</summary>
 
 ```
-Из репозитор : rpmfusion-free-updates-testing
-Краткое опис : GStreamer 1.0 streaming media framework "bad" plug-ins
+From repo     : rpmfusion-free-updates-testing
+Short desc    : GStreamer 1.0 streaming media framework "bad" plug-ins
 URL          : https://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : This package contains plug-ins that have licensing issues, aren't tested
@@ -5246,11 +5246,11 @@ URL          : https://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-base</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GStreamer streaming media framework base plugins
+From repo     : anaconda
+Short desc    : GStreamer streaming media framework base plugins
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of filters which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
              : operate on media data. Applications using this library can do anything
              : from real-time sound processing to playing videos, and just about anything
              : else media-related.  Its plugin-based architecture means that new data
@@ -5266,11 +5266,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-base</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GStreamer streaming media framework base plugins
+From repo     : updates-testing
+Short desc    : GStreamer streaming media framework base plugins
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of filters which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
              : operate on media data. Applications using this library can do anything
              : from real-time sound processing to playing videos, and just about anything
              : else media-related.  Its plugin-based architecture means that new data
@@ -5286,11 +5286,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-base-tools</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Tools for GStreamer streaming media framework base plugins
+From repo     : updates-testing
+Short desc    : Tools for GStreamer streaming media framework base plugins
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of filters which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
              : operate on media data. Applications using this library can do anything
              : from real-time sound processing to playing videos, and just about anything
              : else media-related.  Its plugin-based architecture means that new data
@@ -5309,11 +5309,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-entrans</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GStreamer plug-ins from GEntrans
+From repo     : fedora
+Short desc    : GStreamer plug-ins from GEntrans
 URL          : http://gentrans.sourceforge.net/
-Лицензия     : LGPLv2+
-Описание     : GEntrans is a software package providing a collection of plug-ins and tools
+License      : LGPLv2+
+Descript     : GEntrans is a software package providing a collection of plug-ins and tools
              : for the GStreamer multimedia framework specifically geared towards transcoding
              : and recording purposes.
              : 
@@ -5326,11 +5326,11 @@ URL          : http://gentrans.sourceforge.net/
 <summary>gstreamer1-plugins-fc</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Future Composer input plugin for GStreamer 1.0.x
+From repo     : fedora
+Short desc    : Future Composer input plugin for GStreamer 1.0.x
 URL          : http://xmms-fc.sourceforge.net
-Лицензия     : GPLv2+
-Описание     : This is an input plugin for GStreamer which can play back Future Composer
+License      : GPLv2+
+Descript     : This is an input plugin for GStreamer which can play back Future Composer
              : music files from AMIGA. Song-length detection and seek are implemented, too.
 ```
 
@@ -5340,11 +5340,11 @@ URL          : http://xmms-fc.sourceforge.net
 <summary>gstreamer1-plugins-good</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GStreamer plugins with good code and licensing
+From repo     : anaconda
+Short desc    : GStreamer plugins with good code and licensing
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of filters which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
              : operate on media data. Applications using this library can do anything
              : from real-time sound processing to playing videos, and just about anything
              : else media-related.  Its plugin-based architecture means that new data
@@ -5361,11 +5361,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-good</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GStreamer plugins with good code and licensing
+From repo     : updates-testing
+Short desc    : GStreamer plugins with good code and licensing
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of filters which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
              : operate on media data. Applications using this library can do anything
              : from real-time sound processing to playing videos, and just about anything
              : else media-related.  Its plugin-based architecture means that new data
@@ -5382,11 +5382,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-good-extras</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Extra GStreamer plugins with good code and licensing
+From repo     : updates-testing
+Short desc    : Extra GStreamer plugins with good code and licensing
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of filters
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters
              : which operate on media data.
              : 
              : GStreamer Good Plugins is a collection of well-supported plugins of
@@ -5403,11 +5403,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-good-gtk</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GStreamer "good" plugins gtk plugin
+From repo     : anaconda
+Short desc    : GStreamer "good" plugins gtk plugin
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : GStreamer Good Plugins is a collection of well-supported plugins of
@@ -5422,11 +5422,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-good-gtk</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GStreamer "good" plugins gtk plugin
+From repo     : updates-testing
+Short desc    : GStreamer "good" plugins gtk plugin
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : GStreamer Good Plugins is a collection of well-supported plugins of
@@ -5441,11 +5441,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-good-qt</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GStreamer "good" plugins qt qml plugin
+From repo     : anaconda
+Short desc    : GStreamer "good" plugins qt qml plugin
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : GStreamer Good Plugins is a collection of well-supported plugins of
@@ -5460,11 +5460,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-good-qt</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GStreamer "good" plugins qt qml plugin
+From repo     : updates-testing
+Short desc    : GStreamer "good" plugins qt qml plugin
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : GStreamer Good Plugins is a collection of well-supported plugins of
@@ -5479,11 +5479,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-ugly</summary>
 
 ```
-Из репозитор : rpmfusion-free
-Краткое опис : GStreamer 1.0 streaming media framework "ugly" plug-ins
+From repo     : rpmfusion-free
+Short desc    : GStreamer 1.0 streaming media framework "ugly" plug-ins
 URL          : https://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : This package contains well-written plug-ins that can't be shipped in
@@ -5499,11 +5499,11 @@ URL          : https://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-ugly-free</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GStreamer streaming media framework "ugly" plugins
+From repo     : anaconda
+Short desc    : GStreamer streaming media framework "ugly" plugins
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+ and LGPLv2
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+ and LGPLv2
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : This package contains plug-ins whose license is not fully compatible with LGPL.
@@ -5515,11 +5515,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-plugins-ugly-free</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GStreamer streaming media framework "ugly" plugins
+From repo     : updates-testing
+Short desc    : GStreamer streaming media framework "ugly" plugins
 URL          : http://gstreamer.freedesktop.org/
-Лицензия     : LGPLv2+ and LGPLv2
-Описание     : GStreamer is a streaming media framework, based on graphs of elements which
+License      : LGPLv2+ and LGPLv2
+Descript     : GStreamer is a streaming media framework, based on graphs of elements which
              : operate on media data.
              : 
              : This package contains plug-ins whose license is not fully compatible with LGPL.
@@ -5531,11 +5531,11 @@ URL          : http://gstreamer.freedesktop.org/
 <summary>gstreamer1-svt-av1</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GStreamer 1.0 svt-av1-based plug-in
+From repo     : fedora
+Short desc    : GStreamer 1.0 svt-av1-based plug-in
 URL          : https://github.com/AOMediaCodec/SVT-AV1
-Лицензия     : BSD-2-Clause-Patent and BSD and MIT and ISC and Public Domain
-Описание     : This package provides svt-av1-based GStreamer plug-in.
+License      : BSD-2-Clause-Patent and BSD and MIT and ISC and Public Domain
+Descript     : This package provides svt-av1-based GStreamer plug-in.
 ```
 
 </details>
@@ -5544,11 +5544,11 @@ URL          : https://github.com/AOMediaCodec/SVT-AV1
 <summary>gstreamer1-vaapi</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GStreamer plugins to use VA API video acceleration
+From repo     : updates-testing
+Short desc    : GStreamer plugins to use VA API video acceleration
 URL          : https://cgit.freedesktop.org/gstreamer/gstreamer-vaapi
-Лицензия     : LGPLv2+
-Описание     : A collection of GStreamer plugins to let you make use of VA API video
+License      : LGPLv2+
+Descript     : A collection of GStreamer plugins to let you make use of VA API video
              : acceleration from GStreamer applications.
              : 
              : Includes elements for video decoding, display, encoding and post-processing
@@ -5562,11 +5562,11 @@ URL          : https://cgit.freedesktop.org/gstreamer/gstreamer-vaapi
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : The GIMP ToolKit
+From repo     : fedora
+Short desc    : The GIMP ToolKit
 URL          : http://www.gtk.org/
-Лицензия     : LGPLv2+
-Описание     : The gtk+ package contains the GIMP ToolKit (GTK+), a library for
+License      : LGPLv2+
+Descript     : The gtk+ package contains the GIMP ToolKit (GTK+), a library for
              : creating graphical user interfaces for the X Window System. GTK+ was
              : originally written for the GIMP (GNU Image Manipulation Program) image
              : processing program, but is now used by several other programs as
@@ -5580,11 +5580,11 @@ URL          : http://www.gtk.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Development tools for GTK+ (GIMP ToolKit) applications
+From repo     : fedora
+Short desc    : Development tools for GTK+ (GIMP ToolKit) applications
 URL          : http://www.gtk.org/
-Лицензия     : LGPLv2+
-Описание     : Libraries, header files and documentation for developing GTK+
+License      : LGPLv2+
+Descript     : Libraries, header files and documentation for developing GTK+
              : (GIMP ToolKit) applications.
 ```
 
@@ -5594,11 +5594,11 @@ URL          : http://www.gtk.org/
 <summary>gtk-murrine-engine</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Murrine GTK2 engine
+From repo     : fedora
+Short desc    : Murrine GTK2 engine
 URL          : http://www.cimitan.com/murrine/
-Лицензия     : LGPLv2 or LGPLv3
-Описание     : Murrine Engine is a Gtk2 theme engine, using the Cairo vector graphics
+License      : LGPLv2 or LGPLv3
+Descript     : Murrine Engine is a Gtk2 theme engine, using the Cairo vector graphics
              : library. It comes by default with a modern glassy look, inspired by
              : Venetian glass artworks, and is extremely customizable.
 ```
@@ -5609,11 +5609,11 @@ URL          : http://www.cimitan.com/murrine/
 <summary>gtk-update-icon-cache</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Icon theme caching utility
+From repo     : anaconda
+Short desc    : Icon theme caching utility
 URL          : http://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : GTK+ can use the cache files created by gtk-update-icon-cache to avoid a lot of
+License      : LGPLv2+
+Descript     : GTK+ can use the cache files created by gtk-update-icon-cache to avoid a lot of
              : system call and disk seek overhead when the application starts. Since the
              : format of the cache files allows them to be mmap()ed shared between multiple
              : applications, the overall memory consumption is reduced as well.
@@ -5625,11 +5625,11 @@ URL          : http://www.gtk.org
 <summary>gtk-update-icon-cache</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Icon theme caching utility
+From repo     : updates-testing
+Short desc    : Icon theme caching utility
 URL          : http://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : GTK+ can use the cache files created by gtk-update-icon-cache to avoid a lot of
+License      : LGPLv2+
+Descript     : GTK+ can use the cache files created by gtk-update-icon-cache to avoid a lot of
              : system call and disk seek overhead when the application starts. Since the
              : format of the cache files allows them to be mmap()ed shared between multiple
              : applications, the overall memory consumption is reduced as well.
@@ -5641,11 +5641,11 @@ URL          : http://www.gtk.org
 <summary>gtk-vnc2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A GTK3 widget for VNC clients
+From repo     : anaconda
+Short desc    : A GTK3 widget for VNC clients
 URL          : https://wiki.gnome.org/Projects/gtk-vnc
-Лицензия     : LGPLv2+
-Описание     : gtk-vnc is a VNC viewer widget for GTK3. It is built using coroutines
+License      : LGPLv2+
+Descript     : gtk-vnc is a VNC viewer widget for GTK3. It is built using coroutines
              : allowing it to be completely asynchronous while remaining single threaded.
 ```
 
@@ -5655,11 +5655,11 @@ URL          : https://wiki.gnome.org/Projects/gtk-vnc
 <summary>gtk2</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GTK+ graphical user interface library
+From repo     : fedora
+Short desc    : GTK+ graphical user interface library
 URL          : http://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : GTK+ is a multi-platform toolkit for creating graphical user
+License      : LGPLv2+
+Descript     : GTK+ is a multi-platform toolkit for creating graphical user
              : interfaces. Offering a complete set of widgets, GTK+ is suitable for
              : projects ranging from small one-off tools to complete application
              : suites.
@@ -5671,11 +5671,11 @@ URL          : http://www.gtk.org
 <summary>gtk2-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development files for GTK+
+From repo     : fedora
+Short desc    : Development files for GTK+
 URL          : http://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : This package contains the libraries and header files that are needed
+License      : LGPLv2+
+Descript     : This package contains the libraries and header files that are needed
              : for writing applications with the GTK+ widget toolkit. If you plan
              : to develop applications with GTK+, consider installing the gtk2-devel-docs
              : package.
@@ -5687,11 +5687,11 @@ URL          : http://www.gtk.org
 <summary>gtk3</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GTK+ graphical user interface library
+From repo     : anaconda
+Short desc    : GTK+ graphical user interface library
 URL          : http://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : GTK+ is a multi-platform toolkit for creating graphical user
+License      : LGPLv2+
+Descript     : GTK+ is a multi-platform toolkit for creating graphical user
              : interfaces. Offering a complete set of widgets, GTK+ is suitable for
              : projects ranging from small one-off tools to complete application
              : suites.
@@ -5705,11 +5705,11 @@ URL          : http://www.gtk.org
 <summary>gtk3</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GTK+ graphical user interface library
+From repo     : updates-testing
+Short desc    : GTK+ graphical user interface library
 URL          : http://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : GTK+ is a multi-platform toolkit for creating graphical user
+License      : LGPLv2+
+Descript     : GTK+ is a multi-platform toolkit for creating graphical user
              : interfaces. Offering a complete set of widgets, GTK+ is suitable for
              : projects ranging from small one-off tools to complete application
              : suites.
@@ -5723,11 +5723,11 @@ URL          : http://www.gtk.org
 <summary>gtk4</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GTK graphical user interface library
+From repo     : anaconda
+Short desc    : GTK graphical user interface library
 URL          : https://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : GTK is a multi-platform toolkit for creating graphical user
+License      : LGPLv2+
+Descript     : GTK is a multi-platform toolkit for creating graphical user
              : interfaces. Offering a complete set of widgets, GTK is suitable for
              : projects ranging from small one-off tools to complete application
              : suites.
@@ -5741,11 +5741,11 @@ URL          : https://www.gtk.org
 <summary>gtk4</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GTK graphical user interface library
+From repo     : updates-testing
+Short desc    : GTK graphical user interface library
 URL          : https://www.gtk.org
-Лицензия     : LGPLv2+
-Описание     : GTK is a multi-platform toolkit for creating graphical user
+License      : LGPLv2+
+Descript     : GTK is a multi-platform toolkit for creating graphical user
              : interfaces. Offering a complete set of widgets, GTK is suitable for
              : projects ranging from small one-off tools to complete application
              : suites.
@@ -5759,11 +5759,11 @@ URL          : https://www.gtk.org
 <summary>gtkhash</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GTK+ utility for computing message digests or checksums
+From repo     : fedora
+Short desc    : GTK+ utility for computing message digests or checksums
 URL          : https://github.com/tristanheaven/gtkhash
-Лицензия     : GPLv2+
-Описание     : GtkHash is a GTK+ utility for computing message digests or checksums. Currently
+License      : GPLv2+
+Descript     : GtkHash is a GTK+ utility for computing message digests or checksums. Currently
              : supported hash functions include
              : * MD2, MD4 and MD5
              : * SHA1, SHA224, SHA256, SHA384 and SHA512,
@@ -5782,11 +5782,11 @@ URL          : https://github.com/tristanheaven/gtkhash
 <summary>gtkimageview</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Simple image viewer widget
+From repo     : fedora
+Short desc    : Simple image viewer widget
 URL          : http://trac.bjourne.webfactional.com
-Лицензия     : LGPLv2+
-Описание     : GtkImageView is a simple image viewer widget for GTK. It makes writing image
+License      : LGPLv2+
+Descript     : GtkImageView is a simple image viewer widget for GTK. It makes writing image
              : viewing and editing applications easy.
 ```
 
@@ -5796,11 +5796,11 @@ URL          : http://trac.bjourne.webfactional.com
 <summary>gtkmm30</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : C++ interface for the GTK+ library
+From repo     : anaconda
+Short desc    : C++ interface for the GTK+ library
 URL          : https://www.gtkmm.org/
-Лицензия     : LGPLv2+
-Описание     : gtkmm is the official C++ interface for the popular GUI library GTK+.
+License      : LGPLv2+
+Descript     : gtkmm is the official C++ interface for the popular GUI library GTK+.
              : Highlights include type safe callbacks, and a comprehensive set of
              : widgets that are easily extensible via inheritance.
 ```
@@ -5811,11 +5811,11 @@ URL          : https://www.gtkmm.org/
 <summary>gtksourceview3</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Source code editing widget
+From repo     : fedora
+Short desc    : Source code editing widget
 URL          : https://wiki.gnome.org/Projects/GtkSourceView
-Лицензия     : LGPLv2+
-Описание     : GtkSourceView is a GNOME library that extends GtkTextView, the standard GTK+
+License      : LGPLv2+
+Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the standard GTK+
              : widget for multiline text editing. GtkSourceView adds support for syntax
              : highlighting, undo/redo, file loading and saving, search and replace, a
              : completion system, printing, displaying line numbers, and other features
@@ -5830,11 +5830,11 @@ URL          : https://wiki.gnome.org/Projects/GtkSourceView
 <summary>gtksourceview4</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Source code editing widget
+From repo     : anaconda
+Short desc    : Source code editing widget
 URL          : https://wiki.gnome.org/Projects/GtkSourceView
-Лицензия     : LGPLv2+
-Описание     : GtkSourceView is a GNOME library that extends GtkTextView, the standard GTK+
+License      : LGPLv2+
+Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the standard GTK+
              : widget for multiline text editing. GtkSourceView adds support for syntax
              : highlighting, undo/redo, file loading and saving, search and replace, a
              : completion system, printing, displaying line numbers, and other features
@@ -5849,11 +5849,11 @@ URL          : https://wiki.gnome.org/Projects/GtkSourceView
 <summary>gtksourceview4</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Source code editing widget
+From repo     : updates-testing
+Short desc    : Source code editing widget
 URL          : https://wiki.gnome.org/Projects/GtkSourceView
-Лицензия     : LGPLv2+
-Описание     : GtkSourceView is a GNOME library that extends GtkTextView, the standard GTK+
+License      : LGPLv2+
+Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the standard GTK+
              : widget for multiline text editing. GtkSourceView adds support for syntax
              : highlighting, undo/redo, file loading and saving, search and replace, a
              : completion system, printing, displaying line numbers, and other features
@@ -5868,11 +5868,11 @@ URL          : https://wiki.gnome.org/Projects/GtkSourceView
 <summary>gtkspell3</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : On-the-fly spell checking for GtkTextView widgets
+From repo     : fedora
+Short desc    : On-the-fly spell checking for GtkTextView widgets
 URL          : http://gtkspell.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : GtkSpell provides word-processor-style highlighting and replacement of
+License      : GPLv2+
+Descript     : GtkSpell provides word-processor-style highlighting and replacement of
              : misspelled words in a GtkTextView widget as you type. Right-clicking a
              : misspelled word pops up a menu of suggested replacements.
 ```
@@ -5883,11 +5883,11 @@ URL          : http://gtkspell.sourceforge.net/
 <summary>gtrayicon</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Generic tray icon for GNOME
+From repo     : fedora
+Short desc    : Generic tray icon for GNOME
 URL          : http://gtrayicon.sourceforge.net/
-Лицензия     : GPLv3+
-Описание     : Gtrayicon is a generic tray icon for GNOME. It defines two actions: activate
+License      : GPLv3+
+Descript     : Gtrayicon is a generic tray icon for GNOME. It defines two actions: activate
              : and deactivate, that are alternated by clicking in the tray icon. You choose
              : what commands to run on each action. You can also define each action's icon and
              : a custom menu that is shown on left click. A sample menu file is included with
@@ -5900,11 +5900,11 @@ URL          : http://gtrayicon.sourceforge.net/
 <summary>gts</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GNU Triangulated Surface Library
+From repo     : fedora
+Short desc    : GNU Triangulated Surface Library
 URL          : http://gts.sourceforge.net/index.html
-Лицензия     : LGPLv2+
-Описание     : GTS provides a set of useful functions to deal with 3D surfaces meshed
+License      : LGPLv2+
+Descript     : GTS provides a set of useful functions to deal with 3D surfaces meshed
              : with interconnected triangles including collision detection,
              : multiresolution models, constrained Delaunay triangulations and robust
              : set operations (union, intersection, differences).
@@ -5916,11 +5916,11 @@ URL          : http://gts.sourceforge.net/index.html
 <summary>guake</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Drop-down terminal for GNOME
+From repo     : fedora
+Short desc    : Drop-down terminal for GNOME
 URL          : http://guake-project.org/
-Лицензия     : GPLv2+
-Описание     : Guake is a dropdown terminal made for the GNOME desktop environment. Guake's
+License      : GPLv2+
+Descript     : Guake is a dropdown terminal made for the GNOME desktop environment. Guake's
              : style of window is based on an FPS game, and one of its goals is to be easy to
              : reach.
 ```
@@ -5932,11 +5932,11 @@ URL          : http://guake-project.org/
 
 ```
 Эпоха        : 5
-Из репозитор : anaconda
-Краткое опис : A GNU implementation of Scheme for application extensibility
+From repo     : anaconda
+Short desc    : A GNU implementation of Scheme for application extensibility
 URL          : http://www.gnu.org/software/guile/
-Лицензия     : LGPLv3+
-Описание     : GUILE (GNU's Ubiquitous Intelligent Language for Extension) is a library
+License      : LGPLv3+
+Descript     : GUILE (GNU's Ubiquitous Intelligent Language for Extension) is a library
              : implementation of the Scheme programming language, written in C.  GUILE
              : provides a machine-independent execution platform that can be linked in
              : as a library during the building of extensible programs.
@@ -5951,11 +5951,11 @@ URL          : http://www.gnu.org/software/guile/
 <summary>guile22</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A GNU implementation of Scheme for application extensibility
+From repo     : anaconda
+Short desc    : A GNU implementation of Scheme for application extensibility
 URL          : http://www.gnu.org/software/guile/
-Лицензия     : LGPLv3+
-Описание     : GUILE (GNU's Ubiquitous Intelligent Language for Extension) is a library
+License      : LGPLv3+
+Descript     : GUILE (GNU's Ubiquitous Intelligent Language for Extension) is a library
              : implementation of the Scheme programming language, written in C.  GUILE
              : provides a machine-independent execution platform that can be linked in
              : as a library during the building of extensible programs.
@@ -5970,11 +5970,11 @@ URL          : http://www.gnu.org/software/guile/
 <summary>gupnp</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A framework for creating UPnP devices & control points
+From repo     : anaconda
+Short desc    : A framework for creating UPnP devices & control points
 URL          : http://www.gupnp.org/
-Лицензия     : LGPLv2+
-Описание     : GUPnP is an object-oriented open source framework for creating UPnP
+License      : LGPLv2+
+Descript     : GUPnP is an object-oriented open source framework for creating UPnP
              : devices and control points, written in C using GObject and libsoup.
              : The GUPnP API is intended to be easy to use, efficient and flexible.
 ```
@@ -5985,11 +5985,11 @@ URL          : http://www.gupnp.org/
 <summary>gupnp-av</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A collection of helpers for building UPnP AV applications
+From repo     : anaconda
+Short desc    : A collection of helpers for building UPnP AV applications
 URL          : http://www.gupnp.org/
-Лицензия     : LGPLv2+
-Описание     : GUPnP is an object-oriented open source framework for creating UPnP
+License      : LGPLv2+
+Descript     : GUPnP is an object-oriented open source framework for creating UPnP
              : devices and control points, written in C using GObject and libsoup.
              : The GUPnP API is intended to be easy to use, efficient and flexible.
              : 
@@ -6003,11 +6003,11 @@ URL          : http://www.gupnp.org/
 <summary>gupnp-dlna</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A collection of helpers for building UPnP AV applications
+From repo     : anaconda
+Short desc    : A collection of helpers for building UPnP AV applications
 URL          : http://www.gupnp.org/
-Лицензия     : LGPLv2+
-Описание     : GUPnP is an object-oriented open source framework for creating UPnP
+License      : LGPLv2+
+Descript     : GUPnP is an object-oriented open source framework for creating UPnP
              : devices and control points, written in C using GObject and libsoup.
              : The GUPnP API is intended to be easy to use, efficient and flexible.
              : 
@@ -6021,11 +6021,11 @@ URL          : http://www.gupnp.org/
 <summary>gupnp-igd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library to handle UPnP IGD port mapping
+From repo     : anaconda
+Short desc    : Library to handle UPnP IGD port mapping
 URL          : https://wiki.gnome.org/Projects/GUPnP
-Лицензия     : LGPLv2+
-Описание     : gupnp-igd is a library to handle UPnP IGD port mapping.
+License      : LGPLv2+
+Descript     : gupnp-igd is a library to handle UPnP IGD port mapping.
 ```
 
 </details>
@@ -6034,11 +6034,11 @@ URL          : https://wiki.gnome.org/Projects/GUPnP
 <summary>gutenprint</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Printer Drivers Package
+From repo     : anaconda
+Short desc    : Printer Drivers Package
 URL          : http://gimp-print.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : Gutenprint is a package of high quality printer drivers for Linux, BSD,
+License      : GPLv2+
+Descript     : Gutenprint is a package of high quality printer drivers for Linux, BSD,
              : Solaris, IRIX, and other UNIX-alike operating systems.
              : Gutenprint was formerly called Gimp-Print.
 ```
@@ -6049,11 +6049,11 @@ URL          : http://gimp-print.sourceforge.net/
 <summary>gutenprint-cups</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : CUPS drivers for Canon, Epson, HP and compatible printers
+From repo     : anaconda
+Short desc    : CUPS drivers for Canon, Epson, HP and compatible printers
 URL          : http://gimp-print.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : This package contains native CUPS support for a wide range of Canon,
+License      : GPLv2+
+Descript     : This package contains native CUPS support for a wide range of Canon,
              : Epson, HP and compatible printers.
 ```
 
@@ -6063,11 +6063,11 @@ URL          : http://gimp-print.sourceforge.net/
 <summary>gutenprint-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : libgutenprint library
+From repo     : anaconda
+Short desc    : libgutenprint library
 URL          : http://gimp-print.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : This package includes libgutenprint library, necessary to run gutenprint.
+License      : GPLv2+
+Descript     : This package includes libgutenprint library, necessary to run gutenprint.
 ```
 
 </details>
@@ -6076,11 +6076,11 @@ URL          : http://gimp-print.sourceforge.net/
 <summary>gutenprint-libs-ui</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : libgutenprintui2 library
+From repo     : fedora
+Short desc    : libgutenprintui2 library
 URL          : http://gimp-print.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : This package includes libgutenprintui2 library, which contains
+License      : GPLv2+
+Descript     : This package includes libgutenprintui2 library, which contains
              : GTK+ widgets, which may be used for print dialogs etc.
 ```
 
@@ -6090,11 +6090,11 @@ URL          : http://gimp-print.sourceforge.net/
 <summary>gutenprint-plugin</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : GIMP plug-in for gutenprint
+From repo     : fedora
+Short desc    : GIMP plug-in for gutenprint
 URL          : http://gimp-print.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : This package contains the gutenprint GIMP plug-in.
+License      : GPLv2+
+Descript     : This package contains the gutenprint GIMP plug-in.
 ```
 
 </details>
@@ -6103,11 +6103,11 @@ URL          : http://gimp-print.sourceforge.net/
 <summary>gv</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A X front-end for the Ghostscript PostScript(TM) interpreter
+From repo     : fedora
+Short desc    : A X front-end for the Ghostscript PostScript(TM) interpreter
 URL          : http://www.gnu.org/software/gv/
-Лицензия     : GPLv3+
-Описание     : GNU gv is a user interface for the Ghostscript PostScript(TM) interpreter.
+License      : GPLv3+
+Descript     : GNU gv is a user interface for the Ghostscript PostScript(TM) interpreter.
              : Gv can display PostScript and PDF documents on an X Window System.
 ```
 
@@ -6117,11 +6117,11 @@ URL          : http://www.gnu.org/software/gv/
 <summary>gvfs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Backends for the gio framework in GLib
+From repo     : anaconda
+Short desc    : Backends for the gio framework in GLib
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : The gvfs package provides backend implementations for the gio
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : The gvfs package provides backend implementations for the gio
              : framework in GLib. It includes ftp, sftp, cifs.
 ```
 
@@ -6131,11 +6131,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Backends for the gio framework in GLib
+From repo     : updates-testing
+Short desc    : Backends for the gio framework in GLib
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : The gvfs package provides backend implementations for the gio
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : The gvfs package provides backend implementations for the gio
              : framework in GLib. It includes ftp, sftp, cifs.
 ```
 
@@ -6145,11 +6145,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-afc</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : AFC support for gvfs
+From repo     : updates-testing
+Short desc    : AFC support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides support for reading files on mobile devices
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides support for reading files on mobile devices
              : including phones and music players to applications using gvfs.
 ```
 
@@ -6159,11 +6159,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-afp</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : AFP support for gvfs
+From repo     : updates-testing
+Short desc    : AFP support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides support for reading and writing files on
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides support for reading and writing files on
              : Mac OS X and original Mac OS network shares via Apple Filing Protocol
              : to applications using gvfs.
 ```
@@ -6174,11 +6174,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-archive</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Archiving support for gvfs
+From repo     : updates-testing
+Short desc    : Archiving support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides support for accessing files inside Zip and Tar archives,
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides support for accessing files inside Zip and Tar archives,
              : as well as ISO images, to applications using gvfs.
 ```
 
@@ -6188,11 +6188,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-client</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Client modules of backends for the gio framework in GLib
+From repo     : anaconda
+Short desc    : Client modules of backends for the gio framework in GLib
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : The gvfs package provides client modules of backend implementations for the gio
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : The gvfs package provides client modules of backend implementations for the gio
              : framework in GLib.
 ```
 
@@ -6202,11 +6202,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-client</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Client modules of backends for the gio framework in GLib
+From repo     : updates-testing
+Short desc    : Client modules of backends for the gio framework in GLib
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : The gvfs package provides client modules of backend implementations for the gio
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : The gvfs package provides client modules of backend implementations for the gio
              : framework in GLib.
 ```
 
@@ -6216,11 +6216,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Development files for gvfs
+From repo     : updates-testing
+Short desc    : Development files for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : The gvfs-devel package contains headers and other files that are
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : The gvfs-devel package contains headers and other files that are
              : required to develop applications using gvfs.
 ```
 
@@ -6230,11 +6230,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-fuse</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : FUSE support for gvfs
+From repo     : anaconda
+Short desc    : FUSE support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides support for applications not using gio
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides support for applications not using gio
              : to access the gvfs filesystems.
 ```
 
@@ -6244,11 +6244,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-fuse</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : FUSE support for gvfs
+From repo     : updates-testing
+Short desc    : FUSE support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides support for applications not using gio
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides support for applications not using gio
              : to access the gvfs filesystems.
 ```
 
@@ -6258,11 +6258,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-goa</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : GOA support for gvfs
+From repo     : updates-testing
+Short desc    : GOA support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides seamless integration with gnome-online-accounts
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides seamless integration with gnome-online-accounts
              : file services.
 ```
 
@@ -6272,11 +6272,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-gphoto2</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : gphoto2 support for gvfs
+From repo     : updates-testing
+Short desc    : gphoto2 support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides support for reading and writing files on
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides support for reading and writing files on
              : PTP based cameras (Picture Transfer Protocol) and MTP based
              : media players (Media Transfer Protocol) to applications using gvfs.
 ```
@@ -6287,11 +6287,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-mtp</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : MTP support for gvfs
+From repo     : updates-testing
+Short desc    : MTP support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides support for reading and writing files on
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides support for reading and writing files on
              : MTP based devices (Media Transfer Protocol) to applications using gvfs.
 ```
 
@@ -6301,11 +6301,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-nfs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : NFS support for gvfs
+From repo     : updates-testing
+Short desc    : NFS support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides support for reading and writing files on
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides support for reading and writing files on
              : NFS network shares (Network File System) to applications using gvfs.
 ```
 
@@ -6315,11 +6315,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-smb</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Windows fileshare support for gvfs
+From repo     : updates-testing
+Short desc    : Windows fileshare support for gvfs
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : This package provides support for reading and writing files on windows
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : This package provides support for reading and writing files on windows
              : shares (SMB) to applications using gvfs.
 ```
 
@@ -6329,11 +6329,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvfs-tests</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Tests for the gvfs package
+From repo     : updates-testing
+Short desc    : Tests for the gvfs package
 URL          : https://wiki.gnome.org/Projects/gvfs
-Лицензия     : GPLv3 and LGPLv2+ and BSD and MPLv2.0
-Описание     : The gvfs-tests package contains tests that can be used to verify
+License      : GPLv3 and LGPLv2+ and BSD and MPLv2.0
+Descript     : The gvfs-tests package contains tests that can be used to verify
              : the functionality of the installed gvfs package.
 ```
 
@@ -6343,11 +6343,11 @@ URL          : https://wiki.gnome.org/Projects/gvfs
 <summary>gvnc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A GObject for VNC connections
+From repo     : anaconda
+Short desc    : A GObject for VNC connections
 URL          : https://wiki.gnome.org/Projects/gtk-vnc
-Лицензия     : LGPLv2+
-Описание     : gvnc is a GObject for managing a VNC connection. It provides all the
+License      : LGPLv2+
+Descript     : gvnc is a GObject for managing a VNC connection. It provides all the
              : infrastructure required to build a VNC client without having to deal
              : with the raw protocol itself.
 ```
@@ -6358,11 +6358,11 @@ URL          : https://wiki.gnome.org/Projects/gtk-vnc
 <summary>gzip</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The GNU data compression program
+From repo     : anaconda
+Short desc    : The GNU data compression program
 URL          : http://www.gzip.org/
-Лицензия     : GPLv3+ and GFDL
-Описание     : The gzip package contains the popular GNU gzip data compression
+License      : GPLv3+ and GFDL
+Descript     : The gzip package contains the popular GNU gzip data compression
              : program. Gzipped files have a .gz extension.
              : 
              : Gzip should be installed on your system, because it is a

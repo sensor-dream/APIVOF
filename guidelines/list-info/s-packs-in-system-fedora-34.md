@@ -1,15 +1,16 @@
-# For letter s, information about installed packages
+# For first letter s, information about installation packages
 
+Установленные пакеты
 <details>
 <summary>saidar</summary>
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : System information real-time monitor
+From repo     : fedora
+Short desc    : System information real-time monitor
 URL          : http://www.i-scream.org/libstatgrab
-Лицензия     : GPLv2+
-Описание     : Saidar is a curses-based interface to viewing the current state of the
+License      : GPLv2+
+Descript     : Saidar is a curses-based interface to viewing the current state of the
              : system.
 ```
 
@@ -20,11 +21,11 @@ URL          : http://www.i-scream.org/libstatgrab
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : Samba client programs
+From repo     : updates-testing
+Short desc    : Samba client programs
 URL          : https://www.samba.org
-Лицензия     : GPLv3+ and LGPLv3+
-Описание     : The samba-client package provides some SMB/CIFS clients to complement
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-client package provides some SMB/CIFS clients to complement
              : the built-in SMB/CIFS filesystem in Linux. These clients allow access
              : of SMB/CIFS shares and printing to SMB/CIFS printers.
 ```
@@ -36,11 +37,11 @@ URL          : https://www.samba.org
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Samba client libraries
+From repo     : anaconda
+Short desc    : Samba client libraries
 URL          : https://www.samba.org
-Лицензия     : GPLv3+ and LGPLv3+
-Описание     : The samba-client-libs package contains internal libraries needed by the
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-client-libs package contains internal libraries needed by the
              : SMB/CIFS clients.
 ```
 
@@ -51,11 +52,11 @@ URL          : https://www.samba.org
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : Samba client libraries
+From repo     : updates-testing
+Short desc    : Samba client libraries
 URL          : https://www.samba.org
-Лицензия     : GPLv3+ and LGPLv3+
-Описание     : The samba-client-libs package contains internal libraries needed by the
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-client-libs package contains internal libraries needed by the
              : SMB/CIFS clients.
 ```
 
@@ -66,11 +67,11 @@ URL          : https://www.samba.org
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Files used by both Samba servers and clients
+From repo     : anaconda
+Short desc    : Files used by both Samba servers and clients
 URL          : https://www.samba.org
-Лицензия     : GPLv3+ and LGPLv3+
-Описание     : samba-common provides files necessary for both the server and client
+License      : GPLv3+ and LGPLv3+
+Descript     : samba-common provides files necessary for both the server and client
              : packages of Samba.
 ```
 
@@ -81,11 +82,11 @@ URL          : https://www.samba.org
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : Files used by both Samba servers and clients
+From repo     : updates-testing
+Short desc    : Files used by both Samba servers and clients
 URL          : https://www.samba.org
-Лицензия     : GPLv3+ and LGPLv3+
-Описание     : samba-common provides files necessary for both the server and client
+License      : GPLv3+ and LGPLv3+
+Descript     : samba-common provides files necessary for both the server and client
              : packages of Samba.
 ```
 
@@ -96,11 +97,11 @@ URL          : https://www.samba.org
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Libraries used by both Samba servers and clients
+From repo     : anaconda
+Short desc    : Libraries used by both Samba servers and clients
 URL          : https://www.samba.org
-Лицензия     : GPLv3+ and LGPLv3+
-Описание     : The samba-common-libs package contains internal libraries needed by the
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-common-libs package contains internal libraries needed by the
              : SMB/CIFS clients.
 ```
 
@@ -111,11 +112,11 @@ URL          : https://www.samba.org
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : Libraries used by both Samba servers and clients
+From repo     : updates-testing
+Short desc    : Libraries used by both Samba servers and clients
 URL          : https://www.samba.org
-Лицензия     : GPLv3+ and LGPLv3+
-Описание     : The samba-common-libs package contains internal libraries needed by the
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-common-libs package contains internal libraries needed by the
              : SMB/CIFS clients.
 ```
 
@@ -125,11 +126,11 @@ URL          : https://www.samba.org
 <summary>sane-airscan</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SANE backend for AirScan (eSCL) and WSD document scanners
+From repo     : anaconda
+Short desc    : SANE backend for AirScan (eSCL) and WSD document scanners
 URL          : https://github.com/alexpevzner/sane-airscan
-Лицензия     : GPLv2+ with exceptions
-Описание     : This package contains a tool for discovering scanning devices in cases
+License      : GPLv2+ with exceptions
+Descript     : This package contains a tool for discovering scanning devices in cases
              : when automatic discovery fails - airscan-discover.
 ```
 
@@ -139,11 +140,11 @@ URL          : https://github.com/alexpevzner/sane-airscan
 <summary>sane-backends</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Scanner access software
+From repo     : anaconda
+Short desc    : Scanner access software
 URL          : http://www.sane-project.org
-Лицензия     : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
-Описание     : Scanner Access Now Easy (SANE) is a universal scanner interface.  The
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : Scanner Access Now Easy (SANE) is a universal scanner interface.  The
              : SANE application programming interface (API) provides standardized
              : access to any raster image scanner hardware (flatbed scanner,
              : hand-held scanner, video and still cameras, frame-grabbers, etc.).
@@ -155,11 +156,11 @@ URL          : http://www.sane-project.org
 <summary>sane-backends</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Scanner access software
+From repo     : updates-testing
+Short desc    : Scanner access software
 URL          : http://www.sane-project.org
-Лицензия     : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
-Описание     : Scanner Access Now Easy (SANE) is a universal scanner interface.  The
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : Scanner Access Now Easy (SANE) is a universal scanner interface.  The
              : SANE application programming interface (API) provides standardized
              : access to any raster image scanner hardware (flatbed scanner,
              : hand-held scanner, video and still cameras, frame-grabbers, etc.).
@@ -171,11 +172,11 @@ URL          : http://www.sane-project.org
 <summary>sane-backends-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : SANE development toolkit
+From repo     : updates-testing
+Short desc    : SANE development toolkit
 URL          : http://www.sane-project.org
-Лицензия     : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
-Описание     : This package contains libraries and header files for writing Scanner Access Now
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains libraries and header files for writing Scanner Access Now
              : Easy (SANE) modules.
 ```
 
@@ -185,11 +186,11 @@ URL          : http://www.sane-project.org
 <summary>sane-backends-drivers-cameras</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Scanner backend drivers for digital cameras
+From repo     : anaconda
+Short desc    : Scanner backend drivers for digital cameras
 URL          : http://www.sane-project.org
-Лицензия     : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
-Описание     : This package contains backend drivers to access digital cameras through SANE.
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains backend drivers to access digital cameras through SANE.
 ```
 
 </details>
@@ -198,11 +199,11 @@ URL          : http://www.sane-project.org
 <summary>sane-backends-drivers-cameras</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Scanner backend drivers for digital cameras
+From repo     : updates-testing
+Short desc    : Scanner backend drivers for digital cameras
 URL          : http://www.sane-project.org
-Лицензия     : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
-Описание     : This package contains backend drivers to access digital cameras through SANE.
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains backend drivers to access digital cameras through SANE.
 ```
 
 </details>
@@ -211,11 +212,11 @@ URL          : http://www.sane-project.org
 <summary>sane-backends-drivers-scanners</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SANE backend drivers for scanners
+From repo     : anaconda
+Short desc    : SANE backend drivers for scanners
 URL          : http://www.sane-project.org
-Лицензия     : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
-Описание     : This package contains backend drivers to access scanner hardware through SANE.
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains backend drivers to access scanner hardware through SANE.
 ```
 
 </details>
@@ -224,11 +225,11 @@ URL          : http://www.sane-project.org
 <summary>sane-backends-drivers-scanners</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : SANE backend drivers for scanners
+From repo     : updates-testing
+Short desc    : SANE backend drivers for scanners
 URL          : http://www.sane-project.org
-Лицензия     : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
-Описание     : This package contains backend drivers to access scanner hardware through SANE.
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains backend drivers to access scanner hardware through SANE.
 ```
 
 </details>
@@ -237,11 +238,11 @@ URL          : http://www.sane-project.org
 <summary>sane-backends-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SANE libraries
+From repo     : anaconda
+Short desc    : SANE libraries
 URL          : http://www.sane-project.org
-Лицензия     : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
-Описание     : This package contains the SANE libraries which are needed by applications that
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains the SANE libraries which are needed by applications that
              : want to access scanners.
 ```
 
@@ -251,11 +252,11 @@ URL          : http://www.sane-project.org
 <summary>sane-backends-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : SANE libraries
+From repo     : updates-testing
+Short desc    : SANE libraries
 URL          : http://www.sane-project.org
-Лицензия     : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
-Описание     : This package contains the SANE libraries which are needed by applications that
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains the SANE libraries which are needed by applications that
              : want to access scanners.
 ```
 
@@ -265,11 +266,11 @@ URL          : http://www.sane-project.org
 <summary>satyr</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Tools to create anonymous, machine-friendly problem reports
+From repo     : anaconda
+Short desc    : Tools to create anonymous, machine-friendly problem reports
 URL          : https://github.com/abrt/satyr
-Лицензия     : GPLv2+
-Описание     : Satyr is a library that can be used to create and process microreports.
+License      : GPLv2+
+Descript     : Satyr is a library that can be used to create and process microreports.
              : Microreports consist of structured data suitable to be analyzed in a fully
              : automated manner, though they do not necessarily contain sufficient information
              : to fix the underlying problem. The reports are designed not to contain any
@@ -284,11 +285,11 @@ URL          : https://github.com/abrt/satyr
 <summary>scala</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Hybrid functional/object-oriented language for the JVM
+From repo     : fedora
+Short desc    : Hybrid functional/object-oriented language for the JVM
 URL          : http://www.scala-lang.org/
-Лицензия     : ASL 2.0 and BSD and MIT
-Описание     : Scala is a general purpose programming language designed to express
+License      : ASL 2.0 and BSD and MIT
+Descript     : Scala is a general purpose programming language designed to express
              : common programming patterns in a concise, elegant, and type-safe way.
              : It smoothly integrates features of object-oriented and functional
              : languages.  It is also fully interoperable with Java.
@@ -302,11 +303,11 @@ URL          : http://www.scala-lang.org/
 <summary>scala-library</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Scala standard library
+From repo     : fedora
+Short desc    : Scala standard library
 URL          : http://www.scala-lang.org/
-Лицензия     : ASL 2.0 and BSD and MIT
-Описание     : Scala is a general purpose programming language designed to express
+License      : ASL 2.0 and BSD and MIT
+Descript     : Scala is a general purpose programming language designed to express
              : common programming patterns in a concise, elegant, and type-safe way.
              : It smoothly integrates features of object-oriented and functional
              : languages.  It is also fully interoperable with Java.
@@ -321,11 +322,11 @@ URL          : http://www.scala-lang.org/
 <summary>scala-reflect</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Scala reflection library
+From repo     : fedora
+Short desc    : Scala reflection library
 URL          : http://www.scala-lang.org/
-Лицензия     : ASL 2.0 and BSD and MIT
-Описание     : Scala is a general purpose programming language designed to express
+License      : ASL 2.0 and BSD and MIT
+Descript     : Scala is a general purpose programming language designed to express
              : common programming patterns in a concise, elegant, and type-safe way.
              : It smoothly integrates features of object-oriented and functional
              : languages.  It is also fully interoperable with Java.
@@ -340,11 +341,11 @@ URL          : http://www.scala-lang.org/
 <summary>scotch</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Graph, mesh and hypergraph partitioning library
+From repo     : fedora
+Short desc    : Graph, mesh and hypergraph partitioning library
 URL          : https://gforge.inria.fr/projects/scotch/
-Лицензия     : CeCILL-C
-Описание     : Scotch is a software package for graph and mesh/hypergraph partitioning and
+License      : CeCILL-C
+Descript     : Scotch is a software package for graph and mesh/hypergraph partitioning and
              : sparse matrix ordering. The parallel scotch libraries are packaged in the
              : ptscotch sub-packages.
 ```
@@ -355,11 +356,11 @@ URL          : https://gforge.inria.fr/projects/scotch/
 <summary>screen</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A screen manager that supports multiple logins on one terminal
+From repo     : fedora
+Short desc    : A screen manager that supports multiple logins on one terminal
 URL          : http://www.gnu.org/software/screen
-Лицензия     : GPLv3+
-Описание     : The screen utility allows you to have multiple logins on just one
+License      : GPLv3+
+Descript     : The screen utility allows you to have multiple logins on just one
              : terminal. Screen is useful for users who telnet into a machine or are
              : connected via a dumb terminal, but want to use more than just one
              : login.
@@ -374,11 +375,11 @@ URL          : http://www.gnu.org/software/screen
 <summary>screenfetch</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A "Bash Screenshot Information Tool"
+From repo     : fedora
+Short desc    : A "Bash Screenshot Information Tool"
 URL          : https://github.com/KittyKatt/screenFetch
-Лицензия     : GPLv3+
-Описание     : This handy Bash script can be used to generate one of
+License      : GPLv3+
+Descript     : This handy Bash script can be used to generate one of
              : those nifty terminal theme information + ASCII distribution
              : logos you see in everyone's screen-shots nowadays. It will
              : auto-detect your distribution and display an ASCII version
@@ -395,11 +396,11 @@ URL          : https://github.com/KittyKatt/screenFetch
 <summary>scrub</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Disk scrubbing program
+From repo     : fedora
+Short desc    : Disk scrubbing program
 URL          : https://github.com/chaos/scrub/
-Лицензия     : GPLv2+
-Описание     : Scrub writes patterns on files or disk devices to make
+License      : GPLv2+
+Descript     : Scrub writes patterns on files or disk devices to make
              : retrieving the data more difficult.  It operates in one of three
              : modes: 1) the special file corresponding to an entire disk is scrubbed
              : and all data on it is destroyed;  2) a regular file is scrubbed and
@@ -414,11 +415,11 @@ URL          : https://github.com/chaos/scrub/
 <summary>seabios-bin</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Seabios for x86
+From repo     : anaconda
+Short desc    : Seabios for x86
 URL          : http://www.coreboot.org/SeaBIOS
-Лицензия     : LGPLv3
-Описание     : SeaBIOS is an open-source legacy BIOS implementation which can be used as
+License      : LGPLv3
+Descript     : SeaBIOS is an open-source legacy BIOS implementation which can be used as
              : a coreboot payload. It implements the standard BIOS calling interfaces
              : that a typical x86 proprietary BIOS implements.
 ```
@@ -429,11 +430,11 @@ URL          : http://www.coreboot.org/SeaBIOS
 <summary>seavgabios-bin</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Seavgabios for x86
+From repo     : anaconda
+Short desc    : Seavgabios for x86
 URL          : http://www.coreboot.org/SeaBIOS
-Лицензия     : LGPLv3
-Описание     : SeaVGABIOS is an open-source VGABIOS implementation.
+License      : LGPLv3
+Descript     : SeaVGABIOS is an open-source VGABIOS implementation.
 ```
 
 </details>
@@ -442,11 +443,11 @@ URL          : http://www.coreboot.org/SeaBIOS
 <summary>sed</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A GNU stream text editor
+From repo     : anaconda
+Short desc    : A GNU stream text editor
 URL          : http://sed.sourceforge.net/
-Лицензия     : GPLv3+
-Описание     : The sed (Stream EDitor) editor is a stream or batch (non-interactive)
+License      : GPLv3+
+Descript     : The sed (Stream EDitor) editor is a stream or batch (non-interactive)
              : editor.  Sed takes text as input, performs an operation or set of
              : operations on the text and outputs the modified text.  The operations
              : that sed performs (substitutions, deletions, insertions, etc.) can be
@@ -459,11 +460,11 @@ URL          : http://sed.sourceforge.net/
 <summary>selinux-policy</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : SELinux policy configuration
+From repo     : updates-testing
+Short desc    : SELinux policy configuration
 URL          : https://github.com/fedora-selinux/selinux-policy
-Лицензия     : GPLv2+
-Описание     : SELinux core policy package.
+License      : GPLv2+
+Descript     : SELinux core policy package.
              : Originally based off of reference policy,
              : the policy has been adjusted to provide support for Fedora.
 ```
@@ -474,11 +475,11 @@ URL          : https://github.com/fedora-selinux/selinux-policy
 <summary>selinux-policy-targeted</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : SELinux targeted policy
+From repo     : updates-testing
+Short desc    : SELinux targeted policy
 URL          : https://github.com/fedora-selinux/selinux-policy
-Лицензия     : GPLv2+
-Описание     : SELinux targeted policy package.
+License      : GPLv2+
+Descript     : SELinux targeted policy package.
 ```
 
 </details>
@@ -487,11 +488,11 @@ URL          : https://github.com/fedora-selinux/selinux-policy
 <summary>serd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A lightweight C library for RDF syntax
+From repo     : anaconda
+Short desc    : A lightweight C library for RDF syntax
 URL          : http://drobilla.net/software/serd/
-Лицензия     : ISC
-Описание     : serd is a lightweight C library for RDF syntax which supports reading and
+License      : ISC
+Descript     : serd is a lightweight C library for RDF syntax which supports reading and
              : writing Turtle, TRiG, NTriples, and NQuads.
              : 
              : Serd is suitable for performance-critical or resource-limited applications,
@@ -505,11 +506,11 @@ URL          : http://drobilla.net/software/serd/
 <summary>sessreg</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Utility to manage utmp/wtmp entries for X sessions
+From repo     : updates-testing
+Short desc    : Utility to manage utmp/wtmp entries for X sessions
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : Sessreg is a simple program for managing utmp/wtmp entries for X sessions.
+License      : MIT
+Descript     : Sessreg is a simple program for managing utmp/wtmp entries for X sessions.
              : It was originally written for use with xdm, but may also be used with
              : other display managers such as gdm or kdm.
 ```
@@ -520,11 +521,11 @@ URL          : https://www.x.org
 <summary>setup</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A set of system configuration and setup files
+From repo     : anaconda
+Short desc    : A set of system configuration and setup files
 URL          : https://pagure.io/setup/
-Лицензия     : Public Domain
-Описание     : The setup package contains a set of important system configuration and
+License      : Public Domain
+Descript     : The setup package contains a set of important system configuration and
              : setup files, such as passwd, group, and profile.
 ```
 
@@ -534,11 +535,11 @@ URL          : https://pagure.io/setup/
 <summary>setxkbmap</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : X11 keymap client
+From repo     : anaconda
+Short desc    : X11 keymap client
 URL          : https://www.x.org
-Лицензия     : MIT
-Описание     : setxkbmap is an X11 client to change the keymaps in the X server for a
+License      : MIT
+Descript     : setxkbmap is an X11 client to change the keymaps in the X server for a
              : specified keyboard to use the layout determined by the options listed
              : on the command line.
 ```
@@ -549,11 +550,11 @@ URL          : https://www.x.org
 <summary>sg3_utils-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Shared library for sg3_utils
+From repo     : anaconda
+Short desc    : Shared library for sg3_utils
 URL          : http://sg.danny.cz/sg/sg3_utils.html
-Лицензия     : GPLv2+ and BSD
-Описание     : This package contains the shared library for sg3_utils.
+License      : GPLv2+ and BSD
+Descript     : This package contains the shared library for sg3_utils.
 ```
 
 </details>
@@ -562,11 +563,11 @@ URL          : http://sg.danny.cz/sg/sg3_utils.html
 <summary>sg3_utils-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Shared library for sg3_utils
+From repo     : updates-testing
+Short desc    : Shared library for sg3_utils
 URL          : http://sg.danny.cz/sg/sg3_utils.html
-Лицензия     : GPLv2+ and BSD
-Описание     : This package contains the shared library for sg3_utils.
+License      : GPLv2+ and BSD
+Descript     : This package contains the shared library for sg3_utils.
 ```
 
 </details>
@@ -576,11 +577,11 @@ URL          : http://sg.danny.cz/sg/sg3_utils.html
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Sgabios for x86
+From repo     : anaconda
+Short desc    : Sgabios for x86
 URL          : https://github.com/qemu/sgabios
-Лицензия     : ASL 2.0
-Описание     : SGABIOS is designed to be inserted into a BIOS as an option rom to provide over
+License      : ASL 2.0
+Descript     : SGABIOS is designed to be inserted into a BIOS as an option rom to provide over
              : a serial port the display and input capabilities normally handled by a VGA
              : adapter and a keyboard, and additionally provide hooks for logging displayed
              : characters for later collection after an operating system boots.
@@ -592,11 +593,11 @@ URL          : https://github.com/qemu/sgabios
 <summary>sgml-common</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Common SGML catalog and DTD files
+From repo     : fedora
+Short desc    : Common SGML catalog and DTD files
 URL          : https://www.w3.org/2003/entities/
-Лицензия     : GPL+
-Описание     : The sgml-common package contains a collection of entities and DTDs
+License      : GPL+
+Descript     : The sgml-common package contains a collection of entities and DTDs
              : that are useful for processing SGML, but that don't need to be
              : included in multiple packages.  Sgml-common also includes an
              : up-to-date Open Catalog file.
@@ -608,11 +609,11 @@ URL          : https://www.w3.org/2003/entities/
 <summary>sgpio</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SGPIO captive backplane tool
+From repo     : anaconda
+Short desc    : SGPIO captive backplane tool
 URL          : http://sources.redhat.com/lvm2/wiki/DMRAID_Eventing
-Лицензия     : GPLv2+
-Описание     : Intel SGPIO enclosure management utility
+License      : GPLv2+
+Descript     : Intel SGPIO enclosure management utility
 ```
 
 </details>
@@ -621,11 +622,11 @@ URL          : http://sources.redhat.com/lvm2/wiki/DMRAID_Eventing
 <summary>sha</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : File hashing utility
+From repo     : fedora
+Short desc    : File hashing utility
 URL          : http://hg.saddi.com/sha-asaddi
-Лицензия     : BSD
-Описание     : file hashing utility that uses the
+License      : BSD
+Descript     : file hashing utility that uses the
              : SHA-1, SHA-256, SHA-384, & SHA-512 hash algorithms.
              : It can be used for file integrity checking,
              : remote file comparisons, etc.
@@ -639,11 +640,11 @@ URL          : http://hg.saddi.com/sha-asaddi
 <summary>sha-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development files for sha
+From repo     : fedora
+Short desc    : Development files for sha
 URL          : http://hg.saddi.com/sha-asaddi
-Лицензия     : BSD
-Описание     : This package contains the libraries needed to develop applications
+License      : BSD
+Descript     : This package contains the libraries needed to develop applications
              : that use sha
 ```
 
@@ -653,11 +654,11 @@ URL          : http://hg.saddi.com/sha-asaddi
 <summary>sha2</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : SHA Implementation Library
+From repo     : fedora
+Short desc    : SHA Implementation Library
 URL          : http://www.aarongifford.com/computers/sha.html
-Лицензия     : BSD
-Описание     : The library implements the SHA-256, SHA-384, and SHA-512 hash algorithms. The
+License      : BSD
+Descript     : The library implements the SHA-256, SHA-384, and SHA-512 hash algorithms. The
              : interface is similar to the interface to SHA-1 found in the OpenSSL library.
              : 
              : sha2 is a simple program that accepts input from either STDIN or reads one or
@@ -672,11 +673,11 @@ URL          : http://www.aarongifford.com/computers/sha.html
 <summary>sha2-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development files for sha2
+From repo     : fedora
+Short desc    : Development files for sha2
 URL          : http://www.aarongifford.com/computers/sha.html
-Лицензия     : BSD
-Описание     : The sha2-devel package contains libraries and header files for
+License      : BSD
+Descript     : The sha2-devel package contains libraries and header files for
              : developing applications that use sha2.
 ```
 
@@ -686,11 +687,11 @@ URL          : http://www.aarongifford.com/computers/sha.html
 <summary>sha3sum</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Compute and check SHA3 message digest
+From repo     : fedora
+Short desc    : Compute and check SHA3 message digest
 URL          : https://metacpan.org/release/Digest-SHA3
-Лицензия     : GPL+ or Artistic
-Описание     : This script will compute and check the SHA3 message digest of a file
+License      : GPL+ or Artistic
+Descript     : This script will compute and check the SHA3 message digest of a file
 ```
 
 </details>
@@ -700,11 +701,11 @@ URL          : https://metacpan.org/release/Digest-SHA3
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Utilities for managing accounts and shadow password files
+From repo     : anaconda
+Short desc    : Utilities for managing accounts and shadow password files
 URL          : https://github.com/shadow-maint/shadow
-Лицензия     : BSD and GPLv2+
-Описание     : The shadow-utils package includes the necessary programs for
+License      : BSD and GPLv2+
+Descript     : The shadow-utils package includes the necessary programs for
              : converting UNIX password files to the shadow password format, plus
              : programs for managing user and group accounts. The pwconv command
              : converts passwords to the shadow password format. The pwunconv command
@@ -723,11 +724,11 @@ URL          : https://github.com/shadow-maint/shadow
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : Utilities for managing accounts and shadow password files
+From repo     : updates-testing
+Short desc    : Utilities for managing accounts and shadow password files
 URL          : https://github.com/shadow-maint/shadow
-Лицензия     : BSD and GPLv2+
-Описание     : The shadow-utils package includes the necessary programs for
+License      : BSD and GPLv2+
+Descript     : The shadow-utils package includes the necessary programs for
              : converting UNIX password files to the shadow password format, plus
              : programs for managing user and group accounts. The pwconv command
              : converts passwords to the shadow password format. The pwunconv command
@@ -745,11 +746,11 @@ URL          : https://github.com/shadow-maint/shadow
 <summary>shared-mime-info</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Shared MIME information database
+From repo     : anaconda
+Short desc    : Shared MIME information database
 URL          : http://freedesktop.org/Software/shared-mime-info
-Лицензия     : GPLv2+
-Описание     : This is the freedesktop.org shared MIME info database.
+License      : GPLv2+
+Descript     : This is the freedesktop.org shared MIME info database.
              : 
              : Many programs and desktops use the MIME system to represent the types of
              : files. Frequently, it is necessary to work out the correct MIME type for
@@ -763,11 +764,11 @@ URL          : http://freedesktop.org/Software/shared-mime-info
 <summary>sheepdog</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The Sheepdog distributed storage system for KVM/QEMU
+From repo     : anaconda
+Short desc    : The Sheepdog distributed storage system for KVM/QEMU
 URL          : http://sheepdog.github.io/sheepdog
-Лицензия     : GPLv2 and GPLv2+
-Описание     : This package contains the Sheepdog server and the "dog" command line tool,
+License      : GPLv2 and GPLv2+
+Descript     : This package contains the Sheepdog server and the "dog" command line tool,
              : which offer a distributed object storage system for KVM.
 ```
 
@@ -777,11 +778,11 @@ URL          : http://sheepdog.github.io/sheepdog
 <summary>shim-ia32</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : First-stage UEFI bootloader
+From repo     : updates-testing
+Short desc    : First-stage UEFI bootloader
 URL          : https://github.com/rhboot/shim/
-Лицензия     : BSD
-Описание     : Initial UEFI bootloader that handles chaining to a trusted full
+License      : BSD
+Descript     : Initial UEFI bootloader that handles chaining to a trusted full
              : bootloader under secure boot environments. This package contains the
              : version signed by the UEFI signing service.
 ```
@@ -792,11 +793,11 @@ URL          : https://github.com/rhboot/shim/
 <summary>shim-x64</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : First-stage UEFI bootloader
+From repo     : updates-testing
+Short desc    : First-stage UEFI bootloader
 URL          : https://github.com/rhboot/shim/
-Лицензия     : BSD
-Описание     : Initial UEFI bootloader that handles chaining to a trusted full
+License      : BSD
+Descript     : Initial UEFI bootloader that handles chaining to a trusted full
              : bootloader under secure boot environments. This package contains the
              : version signed by the UEFI signing service.
 ```
@@ -807,11 +808,11 @@ URL          : https://github.com/rhboot/shim/
 <summary>sil-abyssinica-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SIL Abyssinica fonts
+From repo     : anaconda
+Short desc    : SIL Abyssinica fonts
 URL          : https://software.sil.org/AbyssinicaSIL/
-Лицензия     : OFL
-Описание     : SIL Abyssinica is a Unicode typeface family containing glyphs for the
+License      : OFL
+Descript     : SIL Abyssinica is a Unicode typeface family containing glyphs for the
              : Ethiopic script.
              : 
              : The Ethiopic script is used for writing many of the languages of Ethiopia and
@@ -831,11 +832,11 @@ URL          : https://software.sil.org/AbyssinicaSIL/
 <summary>sil-mingzat-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A font for Lepcha script
+From repo     : anaconda
+Short desc    : A font for Lepcha script
 URL          : http://scripts.sil.org/Mingzat
-Лицензия     : OFL
-Описание     : Mingzat is based on Jason Glavy's JG Lepcha font which was a custom-encoded
+License      : OFL
+Descript     : Mingzat is based on Jason Glavy's JG Lepcha font which was a custom-encoded
              : font. The goal for this product was to provide a single Unicode-based font
              : that would contain all Lepcha characters. In addition, there is provision for
              : other Latin characters and symbols. This font makes use of state-of-the-art
@@ -850,11 +851,11 @@ URL          : http://scripts.sil.org/Mingzat
 <summary>sil-nuosu-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The Nuosu SIL Font
+From repo     : anaconda
+Short desc    : The Nuosu SIL Font
 URL          : http://scripts.sil.org/SILYi_home
-Лицензия     : OFL
-Описание     : The Nuosu SIL Font is a single Unicode font for the standardized Yi script
+License      : OFL
+Descript     : The Nuosu SIL Font is a single Unicode font for the standardized Yi script
              : used by a large ethnic group in southwestern China.
              : Until this version, the font was called SIL Yi.
 ```
@@ -865,11 +866,11 @@ URL          : http://scripts.sil.org/SILYi_home
 <summary>sil-padauk-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A font for Burmese and the Myanmar script
+From repo     : anaconda
+Short desc    : A font for Burmese and the Myanmar script
 URL          : https://software.sil.org/padauk/
-Лицензия     : OFL
-Описание     : 
+License      : OFL
+Descript     : 
              : Padauk is a pan Burma font designed to support all Myanmar script based
              : languages. It covers all of the Unicode Myanmar script blocks and works
              : on all OpenType and Graphite based systems.
@@ -881,11 +882,11 @@ URL          : https://software.sil.org/padauk/
 <summary>simple-scan</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Simple scanning utility
+From repo     : updates-testing
+Short desc    : Simple scanning utility
 URL          : https://launchpad.net/simple-scan
-Лицензия     : GPLv3+
-Описание     : Simple Scan is an easy-to-use application, designed to let users connect their
+License      : GPLv3+
+Descript     : Simple Scan is an easy-to-use application, designed to let users connect their
              : scanner and quickly have the image/document in an appropriate format.
 ```
 
@@ -895,11 +896,11 @@ URL          : https://launchpad.net/simple-scan
 <summary>slang</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Shared library for the S-Lang extension language
+From repo     : fedora
+Short desc    : Shared library for the S-Lang extension language
 URL          : https://www.jedsoft.org/slang/
-Лицензия     : GPLv2+
-Описание     : S-Lang is an interpreted language and a programming library.  The
+License      : GPLv2+
+Descript     : S-Lang is an interpreted language and a programming library.  The
              : S-Lang language was designed so that it can be easily embedded into
              : a program to provide the program with a powerful extension language.
              : The S-Lang library, provided in this package, provides the S-Lang
@@ -913,11 +914,11 @@ URL          : https://www.jedsoft.org/slang/
 <summary>slirp4netns</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : slirp for network namespaces
+From repo     : anaconda
+Short desc    : slirp for network namespaces
 URL          : https://github.com/rootless-containers/slirp4netns
-Лицензия     : GPLv2
-Описание     : slirp for network namespaces, without copying buffers across the namespaces.
+License      : GPLv2
+Descript     : slirp for network namespaces, without copying buffers across the namespaces.
 ```
 
 </details>
@@ -926,11 +927,11 @@ URL          : https://github.com/rootless-containers/slirp4netns
 <summary>slirp4netns</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : slirp for network namespaces
+From repo     : updates-testing
+Short desc    : slirp for network namespaces
 URL          : https://github.com/rootless-containers/slirp4netns
-Лицензия     : GPLv2
-Описание     : slirp for network namespaces, without copying buffers across the namespaces.
+License      : GPLv2
+Descript     : slirp for network namespaces, without copying buffers across the namespaces.
 ```
 
 </details>
@@ -939,11 +940,11 @@ URL          : https://github.com/rootless-containers/slirp4netns
 <summary>smc-meera-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Open Type Fonts for Malayalam script
+From repo     : anaconda
+Short desc    : Open Type Fonts for Malayalam script
 URL          : https://gitlab.com/smc/fonts/meera
-Лицензия     : OFL
-Описание     : Meera font is a Malayalam font designed by Hussain K H and
+License      : OFL
+Descript     : Meera font is a Malayalam font designed by Hussain K H and
              : maintained by Swathanthra Malayalam Computing project. This
              : is a comprehensive Malayalam font with 1000+ glyphs for all
              : common Malayalam ligatures.
@@ -955,11 +956,11 @@ URL          : https://gitlab.com/smc/fonts/meera
 <summary>smp_utils</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Utilities for SAS management protocol (SMP)
+From repo     : fedora
+Short desc    : Utilities for SAS management protocol (SMP)
 URL          : http://sg.danny.cz/sg/smp_utils.html
-Лицензия     : BSD
-Описание     : This is a package of utilities. Each utility sends a Serial Attached
+License      : BSD
+Descript     : This is a package of utilities. Each utility sends a Serial Attached
              : SCSI (SAS) Management Protocol (SMP) request to a SMP target.
              : If the request fails then the error is decoded. If the request succeeds
              : then the response is either decoded, printed out in hexadecimal or
@@ -978,11 +979,11 @@ URL          : http://sg.danny.cz/sg/smp_utils.html
 <summary>smp_utils-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Shared library for smp_utils
+From repo     : fedora
+Short desc    : Shared library for smp_utils
 URL          : http://sg.danny.cz/sg/smp_utils.html
-Лицензия     : BSD
-Описание     : This package contains the shared library for smp_utils.
+License      : BSD
+Descript     : This package contains the shared library for smp_utils.
 ```
 
 </details>
@@ -991,11 +992,11 @@ URL          : http://sg.danny.cz/sg/smp_utils.html
 <summary>snappy</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Fast compression and decompression library
+From repo     : anaconda
+Short desc    : Fast compression and decompression library
 URL          : https://github.com/google/snappy
-Лицензия     : BSD
-Описание     : Snappy is a compression/decompression library. It does not aim for maximum
+License      : BSD
+Descript     : Snappy is a compression/decompression library. It does not aim for maximum
              : compression, or compatibility with any other compression library; instead, it
              : aims for very high speeds and reasonable compression. For instance, compared to
              : the fastest mode of zlib, Snappy is an order of magnitude faster for most
@@ -1009,11 +1010,11 @@ URL          : https://github.com/google/snappy
 <summary>sni-qt</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Plugin for Qt4 that turns QSystemTrayIcons into status notifiers
+From repo     : fedora
+Short desc    : Plugin for Qt4 that turns QSystemTrayIcons into status notifiers
 URL          : https://launchpad.net/sni-qt
-Лицензия     : LGPLv3
-Описание     : This package contains a Qt4 plugin which turns all QSystemTrayIcon into
+License      : LGPLv3
+Descript     : This package contains a Qt4 plugin which turns all QSystemTrayIcon into
              : StatusNotifierItems (appindicators).
 ```
 
@@ -1023,11 +1024,11 @@ URL          : https://launchpad.net/sni-qt
 <summary>socat</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Bidirectional data relay between two data channels ('netcat++')
+From repo     : fedora
+Short desc    : Bidirectional data relay between two data channels ('netcat++')
 URL          : http://www.dest-unreach.org/socat/
-Лицензия     : GPLv2
-Описание     : Socat is a relay for bidirectional data transfer between two independent data
+License      : GPLv2
+Descript     : Socat is a relay for bidirectional data transfer between two independent data
              : channels. Each of these data channels may be a file, pipe, device (serial line
              : etc. or a pseudo terminal), a socket (UNIX, IP4, IP6 - raw, UDP, TCP), an
              : SSL socket, proxy CONNECT connection, a file descriptor (stdin etc.), the GNU
@@ -1040,11 +1041,11 @@ URL          : http://www.dest-unreach.org/socat/
 <summary>sombok</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Unicode Text Segmentation Package
+From repo     : fedora
+Short desc    : Unicode Text Segmentation Package
 URL          : http://sf.net/projects/linefold/
-Лицензия     : GPLv2+ or Artistic clarified
-Описание     : Sombok library package performs Line Breaking Algorithm described in Unicode
+License      : GPLv2+ or Artistic clarified
+Descript     : Sombok library package performs Line Breaking Algorithm described in Unicode
              : Standards Annex #14 (UAX #14). East_Asian_Width informative properties defined
              : by Annex #11 (UAX #11) may be concerned to determine breaking positions. This
              : package also implements "default" Grapheme Cluster segmentation described in
@@ -1057,11 +1058,11 @@ URL          : http://sf.net/projects/linefold/
 <summary>sord</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A lightweight Resource Description Framework (RDF) C library
+From repo     : anaconda
+Short desc    : A lightweight Resource Description Framework (RDF) C library
 URL          : http://drobilla.net/software/sord/
-Лицензия     : ISC
-Описание     : sord is a lightweight C library for storing Resource Description
+License      : ISC
+Descript     : sord is a lightweight C library for storing Resource Description
              : Framework (RDF) data in memory. sord and parent library serd form
              : a lightweight RDF tool-set for resource limited or performance critical
              : applications.
@@ -1073,11 +1074,11 @@ URL          : http://drobilla.net/software/sord/
 <summary>sos</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A set of tools to gather troubleshooting information from a system
+From repo     : updates-testing
+Short desc    : A set of tools to gather troubleshooting information from a system
 URL          : https://github.com/sosreport/sos
-Лицензия     : GPLv2+
-Описание     : Sos is a set of tools that gathers information about system
+License      : GPLv2+
+Descript     : Sos is a set of tools that gathers information about system
              : hardware and configuration. The information can then be used for
              : diagnostic purposes and debugging. Sos is commonly used to help
              : support technicians and developers.
@@ -1089,11 +1090,11 @@ URL          : https://github.com/sosreport/sos
 <summary>sound-theme-freedesktop</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : freedesktop.org sound theme
+From repo     : anaconda
+Short desc    : freedesktop.org sound theme
 URL          : http://www.freedesktop.org/wiki/Specifications/sound-theme-spec
-Лицензия     : GPLv2+ and LGPLv2+ and CC-BY-SA and CC-BY
-Описание     : The default freedesktop.org sound theme following the XDG theming
+License      : GPLv2+ and LGPLv2+ and CC-BY-SA and CC-BY
+Descript     : The default freedesktop.org sound theme following the XDG theming
              : specification.  (http://0pointer.de/public/sound-theme-spec.html).
 ```
 
@@ -1103,11 +1104,11 @@ URL          : http://www.freedesktop.org/wiki/Specifications/sound-theme-spec
 <summary>soundtouch</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Audio Processing library for changing Tempo, Pitch and Playback Rates
+From repo     : anaconda
+Short desc    : Audio Processing library for changing Tempo, Pitch and Playback Rates
 URL          : http://www.surina.net/soundtouch/
-Лицензия     : LGPLv2+
-Описание     : SoundTouch is a LGPL-licensed open-source audio processing library for
+License      : LGPLv2+
+Descript     : SoundTouch is a LGPL-licensed open-source audio processing library for
              : changing the Tempo, Pitch and Playback Rates of audio streams or
              : files. The SoundTouch library is suited for application developers
              : writing sound processing tools that require tempo/pitch control
@@ -1124,11 +1125,11 @@ URL          : http://www.surina.net/soundtouch/
 <summary>source-highlight</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Produces a document with syntax highlighting
+From repo     : anaconda
+Short desc    : Produces a document with syntax highlighting
 URL          : http://www.gnu.org/software/src-highlite/
-Лицензия     : GPLv3+
-Описание     : This program, given a source file, produces a document with syntax
+License      : GPLv3+
+Descript     : This program, given a source file, produces a document with syntax
              : highlighting. At the moment this package can handle:
              : Java, Javascript, C/C++, Prolog, Perl, Php3, Python, Flex, ChangeLog, Ruby,
              : Lua, Caml, Sml and Log as source languages, and HTML, XHTML and ANSI color
@@ -1141,11 +1142,11 @@ URL          : http://www.gnu.org/software/src-highlite/
 <summary>source-highlight</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Produces a document with syntax highlighting
+From repo     : updates-testing
+Short desc    : Produces a document with syntax highlighting
 URL          : http://www.gnu.org/software/src-highlite/
-Лицензия     : GPLv3+
-Описание     : This program, given a source file, produces a document with syntax
+License      : GPLv3+
+Descript     : This program, given a source file, produces a document with syntax
              : highlighting. At the moment this package can handle:
              : Java, Javascript, C/C++, Prolog, Perl, Php3, Python, Flex, ChangeLog, Ruby,
              : Lua, Caml, Sml and Log as source languages, and HTML, XHTML and ANSI color
@@ -1158,11 +1159,11 @@ URL          : http://www.gnu.org/software/src-highlite/
 <summary>soxr</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The SoX Resampler library
+From repo     : anaconda
+Short desc    : The SoX Resampler library
 URL          : https://sourceforge.net/p/soxr/wiki/Home/
-Лицензия     : LGPLv2+
-Описание     : The SoX Resampler library `libsoxr' performs one-dimensional sample-rate
+License      : LGPLv2+
+Descript     : The SoX Resampler library `libsoxr' performs one-dimensional sample-rate
              : conversion -- it may be used, for example, to resample PCM-encoded audio.
 ```
 
@@ -1172,11 +1173,11 @@ URL          : https://sourceforge.net/p/soxr/wiki/Home/
 <summary>speech-dispatcher</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : To provide a high-level device independent layer for speech synthesis
+From repo     : anaconda
+Short desc    : To provide a high-level device independent layer for speech synthesis
 URL          : http://devel.freebsoft.org/speechd
-Лицензия     : GPLv2+ and LGPLv2
-Описание     : * Common interface to different TTS engines
+License      : GPLv2+ and LGPLv2
+Descript     : * Common interface to different TTS engines
              : * Handling concurrent synthesis requests – requests may come
              :   asynchronously from multiple sources within an application
              :   and/or from more different applications.
@@ -1197,11 +1198,11 @@ URL          : http://devel.freebsoft.org/speechd
 <summary>speech-dispatcher-espeak-ng</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Speech Dispatcher espeak-ng module
+From repo     : anaconda
+Short desc    : Speech Dispatcher espeak-ng module
 URL          : http://devel.freebsoft.org/speechd
-Лицензия     : GPLv2+ and LGPLv2
-Описание     : This package contains the espeak-ng output module for Speech Dispatcher.
+License      : GPLv2+ and LGPLv2
+Descript     : This package contains the espeak-ng output module for Speech Dispatcher.
 ```
 
 </details>
@@ -1210,11 +1211,11 @@ URL          : http://devel.freebsoft.org/speechd
 <summary>speex</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A voice compression format (codec)
+From repo     : anaconda
+Short desc    : A voice compression format (codec)
 URL          : https://www.speex.org/
-Лицензия     : BSD
-Описание     : Speex is a patent-free compression format designed especially for
+License      : BSD
+Descript     : Speex is a patent-free compression format designed especially for
              : speech. It is specialized for voice communications at low bit-rates in
              : the 2-45 kbps range. Possible applications include Voice over IP
              : (VoIP), Internet audio streaming, audio books, and archiving of speech
@@ -1227,11 +1228,11 @@ URL          : https://www.speex.org/
 <summary>speexdsp</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A voice compression format (DSP)
+From repo     : fedora
+Short desc    : A voice compression format (DSP)
 URL          : http://www.speex.org/
-Лицензия     : BSD
-Описание     : Speex is a patent-free compression format designed especially for
+License      : BSD
+Descript     : Speex is a patent-free compression format designed especially for
              : speech. It is specialized for voice communications at low bit-rates in
              : the 2-45 kbps range. Possible applications include Voice over IP
              : (VoIP), Internet audio streaming, audio books, and archiving of speech
@@ -1246,11 +1247,11 @@ URL          : http://www.speex.org/
 <summary>sphinx</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Free open-source SQL full-text search engine
+From repo     : fedora
+Short desc    : Free open-source SQL full-text search engine
 URL          : http://sphinxsearch.com
-Лицензия     : GPLv2+
-Описание     : Sphinx is a full-text search engine, distributed under GPL version 2.
+License      : GPLv2+
+Descript     : Sphinx is a full-text search engine, distributed under GPL version 2.
              : Commercial licensing (e.g. for embedded use) is also available upon request.
              : 
              : Generally, it's a standalone search engine, meant to provide fast,
@@ -1277,11 +1278,11 @@ URL          : http://sphinxsearch.com
 <summary>spice-glib</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A GObject for communicating with Spice servers
+From repo     : anaconda
+Short desc    : A GObject for communicating with Spice servers
 URL          : https://www.spice-space.org/spice-gtk.html
-Лицензия     : LGPLv2+
-Описание     : spice-client-glib-2.0 is a SPICE client library for GLib2.
+License      : LGPLv2+
+Descript     : spice-client-glib-2.0 is a SPICE client library for GLib2.
 ```
 
 </details>
@@ -1290,11 +1291,11 @@ URL          : https://www.spice-space.org/spice-gtk.html
 <summary>spice-gtk3</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A GTK3 widget for SPICE clients
+From repo     : anaconda
+Short desc    : A GTK3 widget for SPICE clients
 URL          : https://www.spice-space.org/spice-gtk.html
-Лицензия     : LGPLv2+
-Описание     : spice-client-glib-3.0 is a SPICE client library for Gtk3.
+License      : LGPLv2+
+Descript     : spice-client-glib-3.0 is a SPICE client library for Gtk3.
 ```
 
 </details>
@@ -1303,11 +1304,11 @@ URL          : https://www.spice-space.org/spice-gtk.html
 <summary>spice-server</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Implements the server side of the SPICE protocol
+From repo     : anaconda
+Short desc    : Implements the server side of the SPICE protocol
 URL          : http://www.spice-space.org/
-Лицензия     : LGPLv2+
-Описание     : The Simple Protocol for Independent Computing Environments (SPICE) is
+License      : LGPLv2+
+Descript     : The Simple Protocol for Independent Computing Environments (SPICE) is
              : a remote display system built for virtual environments which allows
              : you to view a computing 'desktop' environment not only on the machine
              : where it is running, but from anywhere on the Internet and from a wide
@@ -1323,11 +1324,11 @@ URL          : http://www.spice-space.org/
 <summary>spice-vdagent</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Agent for Spice guests
+From repo     : anaconda
+Short desc    : Agent for Spice guests
 URL          : https://spice-space.org/
-Лицензия     : GPLv3+
-Описание     : Spice agent for Linux guests offering the following features:
+License      : GPLv3+
+Descript     : Spice agent for Linux guests offering the following features:
              : 
              : Features:
              : * Client mouse mode (no need to grab mouse by client, no mouse lag)
@@ -1345,11 +1346,11 @@ URL          : https://spice-space.org/
 <summary>spirv-tools-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Library files for spirv-tools
+From repo     : fedora
+Short desc    : Library files for spirv-tools
 URL          : https://github.com/KhronosGroup/SPIRV-Tools
-Лицензия     : ASL 2.0
-Описание     : library files for spirv-tools
+License      : ASL 2.0
+Descript     : library files for spirv-tools
 ```
 
 </details>
@@ -1358,11 +1359,11 @@ URL          : https://github.com/KhronosGroup/SPIRV-Tools
 <summary>splix</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Driver for QPDL/SPL2 printers (Samsung and several Xerox printers)
+From repo     : fedora
+Short desc    : Driver for QPDL/SPL2 printers (Samsung and several Xerox printers)
 URL          : http://splix.sourceforge.net/
-Лицензия     : GPLv2
-Описание     : This driver is usable by all printer devices which understand the QPDL
+License      : GPLv2
+Descript     : This driver is usable by all printer devices which understand the QPDL
              : (Quick Page Description Language) also known as SPL2 (Samsung Printer Language)
              : language. It covers several Samsung, Xerox and Dell printers.
              : Splix doesn't support old SPL(1) printers.
@@ -1374,11 +1375,11 @@ URL          : http://splix.sourceforge.net/
 <summary>sqlite</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library that implements an embeddable SQL database engine
+From repo     : anaconda
+Short desc    : Library that implements an embeddable SQL database engine
 URL          : http://www.sqlite.org/
-Лицензия     : Public Domain
-Описание     : SQLite is a C library that implements an SQL database engine. A large
+License      : Public Domain
+Descript     : SQLite is a C library that implements an SQL database engine. A large
              : subset of SQL92 is supported. A complete database is stored in a
              : single disk file. The API is designed for convenience and ease of use.
              : Applications that link against SQLite can enjoy the power and
@@ -1393,11 +1394,11 @@ URL          : http://www.sqlite.org/
 <summary>sqlite-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Shared library for the sqlite3 embeddable SQL database engine.
+From repo     : anaconda
+Short desc    : Shared library for the sqlite3 embeddable SQL database engine.
 URL          : http://www.sqlite.org/
-Лицензия     : Public Domain
-Описание     : This package contains the shared library for sqlite.
+License      : Public Domain
+Descript     : This package contains the shared library for sqlite.
 ```
 
 </details>
@@ -1406,11 +1407,11 @@ URL          : http://www.sqlite.org/
 <summary>squashfs-tools</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Utility for the creation of squashfs filesystems
+From repo     : anaconda
+Short desc    : Utility for the creation of squashfs filesystems
 URL          : https://github.com/plougher/squashfs-tools/archive/4.4-git.1.tar.gz
-Лицензия     : GPLv2+
-Описание     : Squashfs is a highly compressed read-only filesystem for Linux.  This package
+License      : GPLv2+
+Descript     : Squashfs is a highly compressed read-only filesystem for Linux.  This package
              : contains the utilities for manipulating squashfs filesystems.
 ```
 
@@ -1420,11 +1421,11 @@ URL          : https://github.com/plougher/squashfs-tools/archive/4.4-git.1.tar.
 <summary>sratom</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A C library for serializing LV2 plugins
+From repo     : anaconda
+Short desc    : A C library for serializing LV2 plugins
 URL          : http://drobilla.net/software/sratom/
-Лицензия     : MIT
-Описание     : sratom is a new C library for serializing LV2 atoms to/from Turtle. It is
+License      : MIT
+Descript     : sratom is a new C library for serializing LV2 atoms to/from Turtle. It is
              : intended to be a full serialization solution for LV2 atoms, allowing
              : implementations to serialize binary atoms to strings and read them back again.
              : This is particularly useful for saving plugin state, or implementing plugin
@@ -1437,11 +1438,11 @@ URL          : http://drobilla.net/software/sratom/
 <summary>srt-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Secure Reliable Transport protocol libraries
+From repo     : updates-testing
+Short desc    : Secure Reliable Transport protocol libraries
 URL          : https://www.srtalliance.org
-Лицензия     : MPLv2.0
-Описание     : Secure Reliable Transport protocol libraries
+License      : MPLv2.0
+Descript     : Secure Reliable Transport protocol libraries
 ```
 
 </details>
@@ -1450,11 +1451,11 @@ URL          : https://www.srtalliance.org
 <summary>sscg</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Simple SSL certificate generator
+From repo     : updates-testing
+Short desc    : Simple SSL certificate generator
 URL          : https://github.com/sgallagher/sscg
-Лицензия     : GPLv3+ with exceptions
-Описание     : A utility to aid in the creation of more secure "self-signed"
+License      : GPLv3+ with exceptions
+Descript     : A utility to aid in the creation of more secure "self-signed"
              : certificates. The certificates created by this tool are generated in a
              : way so as to create a CA certificate that can be safely imported into a
              : client machine to trust the service certificate without needing to set
@@ -1468,11 +1469,11 @@ URL          : https://github.com/sgallagher/sscg
 <summary>ssh-contact</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Establish SSH connections to your IM contacts using Telepathy
+From repo     : fedora
+Short desc    : Establish SSH connections to your IM contacts using Telepathy
 URL          : http://telepathy.freedesktop.org/wiki/SSH-Contact
-Лицензия     : GPLv2+
-Описание     : ssh-contact is a client/service tool that makes it easy to connect to
+License      : GPLv2+
+Descript     : ssh-contact is a client/service tool that makes it easy to connect to
              : your telepathy IM contacts via SSH. No need to care about dynamic
              : IP, NAT, port forwarding, or firewalls anymore; if you can chat with
              : a friend, you can also SSH to their machine.
@@ -1484,11 +1485,11 @@ URL          : http://telepathy.freedesktop.org/wiki/SSH-Contact
 <summary>sshexport</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Install your SSH keys on remote sites
+From repo     : fedora
+Short desc    : Install your SSH keys on remote sites
 URL          : http://www.catb.org/~esr/sshexport
-Лицензия     : BSD and ISC
-Описание     : This script tries to export SSH public keys to specified sites.
+License      : BSD and ISC
+Descript     : This script tries to export SSH public keys to specified sites.
              : It will walk the user through generating key pairs if it doesn't
              : find any to export.  It handles all the fiddly details, like
              : remembering the SSH key file names, updating the authorized_keys
@@ -1502,11 +1503,11 @@ URL          : http://www.catb.org/~esr/sshexport
 <summary>sshguard</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Protects hosts from brute-force attacks against SSH and other services
+From repo     : fedora
+Short desc    : Protects hosts from brute-force attacks against SSH and other services
 URL          : http://www.sshguard.net
-Лицензия     : BSD and GPLv2+
-Описание     : Sshguard protects hosts from brute-force attacks against SSH and other
+License      : BSD and GPLv2+
+Descript     : Sshguard protects hosts from brute-force attacks against SSH and other
              : services. It aggregates system logs and blocks repeat offenders using one of
              : several firewall backends.
              : 
@@ -1523,11 +1524,11 @@ URL          : http://www.sshguard.net
 <summary>sshguard-nftables</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Configuration for nftables backend of SSHGuard
+From repo     : fedora
+Short desc    : Configuration for nftables backend of SSHGuard
 URL          : http://www.sshguard.net
-Лицензия     : BSD and GPLv2+
-Описание     : Sshguard-nftables provides a configuration file for SSHGuard to use nftables
+License      : BSD and GPLv2+
+Descript     : Sshguard-nftables provides a configuration file for SSHGuard to use nftables
              : as the firewall backend.
 ```
 
@@ -1537,11 +1538,11 @@ URL          : http://www.sshguard.net
 <summary>sshpass</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Non-interactive SSH authentication utility
+From repo     : anaconda
+Short desc    : Non-interactive SSH authentication utility
 URL          : http://sshpass.sourceforge.net/
-Лицензия     : GPLv2
-Описание     : Tool for non-interactively performing password authentication with so called
+License      : GPLv2
+Descript     : Tool for non-interactively performing password authentication with so called
              : "interactive keyboard password authentication" of SSH. Most users should use
              : more secure public key authentication of SSH instead.
 ```
@@ -1552,11 +1553,11 @@ URL          : http://sshpass.sourceforge.net/
 <summary>sshrc</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Bring your bash and vim configuration in your ssh session
+From repo     : fedora
+Short desc    : Bring your bash and vim configuration in your ssh session
 URL          : https://github.com/Russell91/sshrc
-Лицензия     : MIT
-Описание     : You can use this to set environment variables, define functions,
+License      : MIT
+Descript     : You can use this to set environment variables, define functions,
              : and run post-login commands. This is quite useful when you have several
              : servers that you don't want to configure independently.
 ```
@@ -1567,11 +1568,11 @@ URL          : https://github.com/Russell91/sshrc
 <summary>sssd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : System Security Services Daemon
+From repo     : anaconda
+Short desc    : System Security Services Daemon
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides a set of daemons to manage access to remote directories and
+License      : GPLv3+
+Descript     : Provides a set of daemons to manage access to remote directories and
              : authentication mechanisms. It provides an NSS and PAM interface toward
              : the system and a pluggable back end system to connect to multiple different
              : account sources. It is also the basis to provide client auditing and policy
@@ -1587,11 +1588,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : System Security Services Daemon
+From repo     : updates-testing
+Short desc    : System Security Services Daemon
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides a set of daemons to manage access to remote directories and
+License      : GPLv3+
+Descript     : Provides a set of daemons to manage access to remote directories and
              : authentication mechanisms. It provides an NSS and PAM interface toward
              : the system and a pluggable back end system to connect to multiple different
              : account sources. It is also the basis to provide client auditing and policy
@@ -1607,11 +1608,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-ad</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The AD back end of the SSSD
+From repo     : anaconda
+Short desc    : The AD back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the Active Directory back end that the SSSD can utilize to fetch
+License      : GPLv3+
+Descript     : Provides the Active Directory back end that the SSSD can utilize to fetch
              : identity data from and authenticate against an Active Directory server.
 ```
 
@@ -1621,11 +1622,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-ad</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The AD back end of the SSSD
+From repo     : updates-testing
+Short desc    : The AD back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the Active Directory back end that the SSSD can utilize to fetch
+License      : GPLv3+
+Descript     : Provides the Active Directory back end that the SSSD can utilize to fetch
              : identity data from and authenticate against an Active Directory server.
 ```
 
@@ -1635,11 +1636,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-client</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SSSD Client libraries for NSS and PAM
+From repo     : anaconda
+Short desc    : SSSD Client libraries for NSS and PAM
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : LGPLv3+
-Описание     : Provides the libraries needed by the PAM and NSS stacks to connect to the SSSD
+License      : LGPLv3+
+Descript     : Provides the libraries needed by the PAM and NSS stacks to connect to the SSSD
              : service.
 ```
 
@@ -1649,11 +1650,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-client</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : SSSD Client libraries for NSS and PAM
+From repo     : updates-testing
+Short desc    : SSSD Client libraries for NSS and PAM
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : LGPLv3+
-Описание     : Provides the libraries needed by the PAM and NSS stacks to connect to the SSSD
+License      : LGPLv3+
+Descript     : Provides the libraries needed by the PAM and NSS stacks to connect to the SSSD
              : service.
 ```
 
@@ -1663,11 +1664,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-common</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Common files for the SSSD
+From repo     : anaconda
+Short desc    : Common files for the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Common files for the SSSD. The common package includes all the files needed
+License      : GPLv3+
+Descript     : Common files for the SSSD. The common package includes all the files needed
              : to run a particular back end, however, the back ends are packaged in separate
              : subpackages such as sssd-ldap.
 ```
@@ -1678,11 +1679,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-common</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Common files for the SSSD
+From repo     : updates-testing
+Short desc    : Common files for the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Common files for the SSSD. The common package includes all the files needed
+License      : GPLv3+
+Descript     : Common files for the SSSD. The common package includes all the files needed
              : to run a particular back end, however, the back ends are packaged in separate
              : subpackages such as sssd-ldap.
 ```
@@ -1693,11 +1694,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-common-pac</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Common files needed for supporting PAC processing
+From repo     : anaconda
+Short desc    : Common files needed for supporting PAC processing
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides common files needed by SSSD providers such as IPA and Active Directory
+License      : GPLv3+
+Descript     : Provides common files needed by SSSD providers such as IPA and Active Directory
              : for handling Kerberos PACs.
 ```
 
@@ -1707,11 +1708,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-common-pac</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Common files needed for supporting PAC processing
+From repo     : updates-testing
+Short desc    : Common files needed for supporting PAC processing
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides common files needed by SSSD providers such as IPA and Active Directory
+License      : GPLv3+
+Descript     : Provides common files needed by SSSD providers such as IPA and Active Directory
              : for handling Kerberos PACs.
 ```
 
@@ -1721,11 +1722,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-ipa</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The IPA back end of the SSSD
+From repo     : anaconda
+Short desc    : The IPA back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the IPA back end that the SSSD can utilize to fetch identity data
+License      : GPLv3+
+Descript     : Provides the IPA back end that the SSSD can utilize to fetch identity data
              : from and authenticate against an IPA server.
 ```
 
@@ -1735,11 +1736,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-ipa</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The IPA back end of the SSSD
+From repo     : updates-testing
+Short desc    : The IPA back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the IPA back end that the SSSD can utilize to fetch identity data
+License      : GPLv3+
+Descript     : Provides the IPA back end that the SSSD can utilize to fetch identity data
              : from and authenticate against an IPA server.
 ```
 
@@ -1749,11 +1750,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-kcm</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : An implementation of a Kerberos KCM server
+From repo     : updates-testing
+Short desc    : An implementation of a Kerberos KCM server
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : An implementation of a Kerberos KCM server. Use this package if you want to
+License      : GPLv3+
+Descript     : An implementation of a Kerberos KCM server. Use this package if you want to
              : use the KCM: Kerberos credentials cache.
 ```
 
@@ -1763,11 +1764,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-krb5</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The Kerberos authentication back end for the SSSD
+From repo     : anaconda
+Short desc    : The Kerberos authentication back end for the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the Kerberos back end that the SSSD can utilize authenticate
+License      : GPLv3+
+Descript     : Provides the Kerberos back end that the SSSD can utilize authenticate
              : against a Kerberos server.
 ```
 
@@ -1777,11 +1778,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-krb5</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The Kerberos authentication back end for the SSSD
+From repo     : updates-testing
+Short desc    : The Kerberos authentication back end for the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the Kerberos back end that the SSSD can utilize authenticate
+License      : GPLv3+
+Descript     : Provides the Kerberos back end that the SSSD can utilize authenticate
              : against a Kerberos server.
 ```
 
@@ -1791,11 +1792,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-krb5-common</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SSSD helpers needed for Kerberos and GSSAPI authentication
+From repo     : anaconda
+Short desc    : SSSD helpers needed for Kerberos and GSSAPI authentication
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides helper processes that the LDAP and Kerberos back ends can use for
+License      : GPLv3+
+Descript     : Provides helper processes that the LDAP and Kerberos back ends can use for
              : Kerberos user or host authentication.
 ```
 
@@ -1805,11 +1806,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-krb5-common</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : SSSD helpers needed for Kerberos and GSSAPI authentication
+From repo     : updates-testing
+Short desc    : SSSD helpers needed for Kerberos and GSSAPI authentication
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides helper processes that the LDAP and Kerberos back ends can use for
+License      : GPLv3+
+Descript     : Provides helper processes that the LDAP and Kerberos back ends can use for
              : Kerberos user or host authentication.
 ```
 
@@ -1819,11 +1820,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-ldap</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The LDAP back end of the SSSD
+From repo     : anaconda
+Short desc    : The LDAP back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the LDAP back end that the SSSD can utilize to fetch identity data
+License      : GPLv3+
+Descript     : Provides the LDAP back end that the SSSD can utilize to fetch identity data
              : from and authenticate against an LDAP server.
 ```
 
@@ -1833,11 +1834,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-ldap</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The LDAP back end of the SSSD
+From repo     : updates-testing
+Short desc    : The LDAP back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the LDAP back end that the SSSD can utilize to fetch identity data
+License      : GPLv3+
+Descript     : Provides the LDAP back end that the SSSD can utilize to fetch identity data
              : from and authenticate against an LDAP server.
 ```
 
@@ -1847,11 +1848,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-nfs-idmap</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SSSD plug-in for NFSv4 rpc.idmapd
+From repo     : anaconda
+Short desc    : SSSD plug-in for NFSv4 rpc.idmapd
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : The libnfsidmap sssd module provides a way for rpc.idmapd to call SSSD to map
+License      : GPLv3+
+Descript     : The libnfsidmap sssd module provides a way for rpc.idmapd to call SSSD to map
              : UIDs/GIDs to names and vice versa. It can be also used for mapping principal
              : (user) name to IDs(UID or GID) or to obtain groups which user are member of.
 ```
@@ -1862,11 +1863,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-nfs-idmap</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : SSSD plug-in for NFSv4 rpc.idmapd
+From repo     : updates-testing
+Short desc    : SSSD plug-in for NFSv4 rpc.idmapd
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : The libnfsidmap sssd module provides a way for rpc.idmapd to call SSSD to map
+License      : GPLv3+
+Descript     : The libnfsidmap sssd module provides a way for rpc.idmapd to call SSSD to map
              : UIDs/GIDs to names and vice versa. It can be also used for mapping principal
              : (user) name to IDs(UID or GID) or to obtain groups which user are member of.
 ```
@@ -1877,11 +1878,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-proxy</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The proxy back end of the SSSD
+From repo     : anaconda
+Short desc    : The proxy back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the proxy back end which can be used to wrap an existing NSS and/or
+License      : GPLv3+
+Descript     : Provides the proxy back end which can be used to wrap an existing NSS and/or
              : PAM modules to leverage SSSD caching.
 ```
 
@@ -1891,11 +1892,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>sssd-proxy</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The proxy back end of the SSSD
+From repo     : updates-testing
+Short desc    : The proxy back end of the SSSD
 URL          : https://github.com/SSSD/sssd/
-Лицензия     : GPLv3+
-Описание     : Provides the proxy back end which can be used to wrap an existing NSS and/or
+License      : GPLv3+
+Descript     : Provides the proxy back end which can be used to wrap an existing NSS and/or
              : PAM modules to leverage SSSD caching.
 ```
 
@@ -1905,11 +1906,11 @@ URL          : https://github.com/SSSD/sssd/
 <summary>startup-notification</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Library for tracking application startup
+From repo     : anaconda
+Short desc    : Library for tracking application startup
 URL          : http://www.freedesktop.org/software/startup-notification/
-Лицензия     : LGPLv2
-Описание     : This package contains libstartup-notification which implements a
+License      : LGPLv2
+Descript     : This package contains libstartup-notification which implements a
              : startup notification protocol. Using this protocol a desktop
              : environment can track the launch of an application and provide
              : feedback such as a busy cursor, among other features.
@@ -1921,11 +1922,11 @@ URL          : http://www.freedesktop.org/software/startup-notification/
 <summary>stix-fonts</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : STIX, a scientific and engineering font family
+From repo     : anaconda
+Short desc    : STIX, a scientific and engineering font family
 URL          : http://www.stixfonts.org/
-Лицензия     : OFL
-Описание     : The mission of the Scientific and Technical Information Exchange (STIX) font
+License      : OFL
+Descript     : The mission of the Scientific and Technical Information Exchange (STIX) font
              : creation project is the preparation of a comprehensive set of fonts that serve
              : the scientific and engineering community in the process from manuscript
              : creation through final publication, both in electronic and print formats.
@@ -1937,11 +1938,11 @@ URL          : http://www.stixfonts.org/
 <summary>stoken-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for stoken
+From repo     : anaconda
+Short desc    : Libraries for stoken
 URL          : http://stoken.sf.net
-Лицензия     : LGPLv2+
-Описание     : Software Token for Linux/UNIX. It's a token code generator compatible with RSA
+License      : LGPLv2+
+Descript     : Software Token for Linux/UNIX. It's a token code generator compatible with RSA
              : SecurID 128-bit (AES) tokens. It is a hobbyist project, not affiliated with or
              : endorsed by RSA Security.
              : 
@@ -1954,11 +1955,11 @@ URL          : http://stoken.sf.net
 <summary>stress</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A tool to put given subsystems under a specified load
+From repo     : fedora
+Short desc    : A tool to put given subsystems under a specified load
 URL          : http://people.seas.harvard.edu/~apw/stress/
-Лицензия     : GPLv2+
-Описание     : stress is not a benchmark, but is rather a tool designed to put given
+License      : GPLv2+
+Descript     : stress is not a benchmark, but is rather a tool designed to put given
              : subsytems under a specified load. Instances in which this is useful
              : include those in which a system administrator wishes to perform tuning
              : activities, a kernel or libc programmer wishes to evaluate denial of
@@ -1971,11 +1972,11 @@ URL          : http://people.seas.harvard.edu/~apw/stress/
 <summary>subversion</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A Modern Concurrent Version Control System
+From repo     : fedora
+Short desc    : A Modern Concurrent Version Control System
 URL          : https://subversion.apache.org/
-Лицензия     : ASL 2.0
-Описание     : Subversion is a concurrent version control system which enables one
+License      : ASL 2.0
+Descript     : Subversion is a concurrent version control system which enables one
              : or more users to collaborate in developing and maintaining a
              : hierarchy of files and directories while keeping a history of all
              : changes.  Subversion only stores the differences between versions,
@@ -1989,11 +1990,11 @@ URL          : https://subversion.apache.org/
 <summary>subversion-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Libraries for Subversion Version Control system
+From repo     : fedora
+Short desc    : Libraries for Subversion Version Control system
 URL          : https://subversion.apache.org/
-Лицензия     : ASL 2.0
-Описание     : The subversion-libs package includes the essential shared libraries
+License      : ASL 2.0
+Descript     : The subversion-libs package includes the essential shared libraries
              : used by the Subversion version control tools.
 ```
 
@@ -2003,11 +2004,11 @@ URL          : https://subversion.apache.org/
 <summary>subversion-perl</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Perl bindings to the Subversion libraries
+From repo     : fedora
+Short desc    : Perl bindings to the Subversion libraries
 URL          : https://subversion.apache.org/
-Лицензия     : ASL 2.0
-Описание     : This package includes the Perl bindings to the Subversion libraries.
+License      : ASL 2.0
+Descript     : This package includes the Perl bindings to the Subversion libraries.
 ```
 
 </details>
@@ -2016,11 +2017,11 @@ URL          : https://subversion.apache.org/
 <summary>sudo</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Allows restricted root access for specified users
+From repo     : anaconda
+Short desc    : Allows restricted root access for specified users
 URL          : https://www.sudo.ws
-Лицензия     : ISC
-Описание     : Sudo (superuser do) allows a system administrator to give certain
+License      : ISC
+Descript     : Sudo (superuser do) allows a system administrator to give certain
              : users (or groups of users) the ability to run some (or all) commands
              : as root while logging all commands and arguments. Sudo operates on a
              : per-command basis.  It is not a replacement for the shell.  Features
@@ -2037,11 +2038,11 @@ URL          : https://www.sudo.ws
 <summary>sudo-python-plugin</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Python plugin for sudo
+From repo     : anaconda
+Short desc    : Python plugin for sudo
 URL          : https://www.sudo.ws
-Лицензия     : ISC
-Описание     : sudo-python-plugin allows using sudo plugins written in Python.
+License      : ISC
+Descript     : sudo-python-plugin allows using sudo plugins written in Python.
 ```
 
 </details>
@@ -2050,11 +2051,11 @@ URL          : https://www.sudo.ws
 <summary>suitesparse</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A collection of sparse matrix libraries
+From repo     : anaconda
+Short desc    : A collection of sparse matrix libraries
 URL          : http://faculty.cse.tamu.edu/davis/suitesparse.html
-Лицензия     : (LGPLv2+ or BSD) and LGPLv2+ and GPLv2+
-Описание     : suitesparse is a collection of libraries for computations involving sparse
+License      : (LGPLv2+ or BSD) and LGPLv2+ and GPLv2+
+Descript     : suitesparse is a collection of libraries for computations involving sparse
              : matrices.  The package includes the following libraries:
              :   AMD                 approximate minimum degree ordering
              :   BTF                 permutation to block triangular form (beta)
@@ -2079,11 +2080,11 @@ URL          : http://faculty.cse.tamu.edu/davis/suitesparse.html
 <summary>supermin</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Tool for creating supermin appliances
+From repo     : fedora
+Short desc    : Tool for creating supermin appliances
 URL          : http://people.redhat.com/~rjones/supermin/
-Лицензия     : GPLv2+
-Описание     : Supermin is a tool for building supermin appliances.  These are tiny
+License      : GPLv2+
+Descript     : Supermin is a tool for building supermin appliances.  These are tiny
              : appliances (similar to virtual machines), usually around 100KB in
              : size, which get fully instantiated on-the-fly in a fraction of a
              : second when you need to boot one of them.
@@ -2095,11 +2096,11 @@ URL          : http://people.redhat.com/~rjones/supermin/
 <summary>sushi</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A quick previewer for Nautilus
+From repo     : anaconda
+Short desc    : A quick previewer for Nautilus
 URL          : https://gitlab.gnome.org/GNOME/sushi
-Лицензия     : GPLv2+ with exceptions
-Описание     : This is sushi, a quick previewer for Nautilus, the GNOME desktop
+License      : GPLv2+ with exceptions
+Descript     : This is sushi, a quick previewer for Nautilus, the GNOME desktop
              : file manager.
 ```
 
@@ -2109,11 +2110,11 @@ URL          : https://gitlab.gnome.org/GNOME/sushi
 <summary>svt-av1-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : SVT-AV1 libraries
+From repo     : fedora
+Short desc    : SVT-AV1 libraries
 URL          : https://github.com/AOMediaCodec/SVT-AV1
-Лицензия     : BSD-2-Clause-Patent and BSD and MIT and ISC and Public Domain
-Описание     : The Scalable Video Technology for AV1 Encoder (SVT-AV1 Encoder) is an
+License      : BSD-2-Clause-Patent and BSD and MIT and ISC and Public Domain
+Descript     : The Scalable Video Technology for AV1 Encoder (SVT-AV1 Encoder) is an
              : AV1-compliant encoder library core. The SVT-AV1 development is a
              : work-in-progress targeting performance levels applicable to both VOD and Live
              : encoding / transcoding video applications.
@@ -2127,11 +2128,11 @@ URL          : https://github.com/AOMediaCodec/SVT-AV1
 <summary>svt-hevc-libs</summary>
 
 ```
-Из репозитор : rpmfusion-free
-Краткое опис : Libraries for svt-hevc
+From repo     : rpmfusion-free
+Short desc    : Libraries for svt-hevc
 URL          : https://github.com/OpenVisualCloud/SVT-HEVC
-Лицензия     : BSD-2-Clause-Patent
-Описание     : Libraries for development svt-hevc.
+License      : BSD-2-Clause-Patent
+Descript     : Libraries for development svt-hevc.
 ```
 
 </details>
@@ -2140,11 +2141,11 @@ URL          : https://github.com/OpenVisualCloud/SVT-HEVC
 <summary>swaks</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Command-line SMTP transaction tester
+From repo     : fedora
+Short desc    : Command-line SMTP transaction tester
 URL          : http://www.jetmore.org/john/code/swaks
-Лицензия     : GPLv2+
-Описание     : Swiss Army Knife SMTP: A command line SMTP tester.  Swaks can test
+License      : GPLv2+
+Descript     : Swiss Army Knife SMTP: A command line SMTP tester.  Swaks can test
              : various aspects of your SMTP server, including TLS and AUTH.
 ```
 
@@ -2154,11 +2155,11 @@ URL          : http://www.jetmore.org/john/code/swaks
 <summary>swatch</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Tool for actively monitoring log files
+From repo     : fedora
+Short desc    : Tool for actively monitoring log files
 URL          : http://swatch.sourceforge.net/
-Лицензия     : GPLv2+
-Описание     : The Simple WATCHer is an automated monitoring tool that is capable
+License      : GPLv2+
+Descript     : The Simple WATCHer is an automated monitoring tool that is capable
              : of alerting system administrators of anything that matches the
              : patterns described in the configuration file, whilst constantly
              : searching logfiles using perl.
@@ -2170,11 +2171,11 @@ URL          : http://swatch.sourceforge.net/
 <summary>sway</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : i3-compatible window manager for Wayland
+From repo     : fedora
+Short desc    : i3-compatible window manager for Wayland
 URL          : https://github.com/swaywm/sway
-Лицензия     : MIT
-Описание     : Sway is a tiling window manager supporting Wayland compositor protocol and
+License      : MIT
+Descript     : Sway is a tiling window manager supporting Wayland compositor protocol and
              : i3-compatible configuration.
 ```
 
@@ -2184,11 +2185,11 @@ URL          : https://github.com/swaywm/sway
 <summary>sway-systemd</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Systemd integration for Sway session
+From repo     : fedora
+Short desc    : Systemd integration for Sway session
 URL          : https://github.com/alebastr/sway-systemd
-Лицензия     : MIT
-Описание     : Systemd integration for Sway session.
+License      : MIT
+Descript     : Systemd integration for Sway session.
              : 
              : The goal of this project is to provide a minimal set of configuration files
              : and scripts required for running Sway in a systemd environment.
@@ -2205,11 +2206,11 @@ URL          : https://github.com/alebastr/sway-systemd
 <summary>swaybg</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Wallpaper tool for Wayland compositors
+From repo     : fedora
+Short desc    : Wallpaper tool for Wayland compositors
 URL          : https://github.com/swaywm/swaybg
-Лицензия     : MIT
-Описание     : Wallpaper tool for Wayland compositors.
+License      : MIT
+Descript     : Wallpaper tool for Wayland compositors.
 ```
 
 </details>
@@ -2218,11 +2219,11 @@ URL          : https://github.com/swaywm/swaybg
 <summary>switcheroo-control</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : D-Bus service to check the availability of dual-GPU
+From repo     : anaconda
+Short desc    : D-Bus service to check the availability of dual-GPU
 URL          : https://gitlab.freedesktop.org/hadess/switcheroo-control/
-Лицензия     : GPLv3
-Описание     : D-Bus service to check the availability of dual-GPU.
+License      : GPLv3
+Descript     : D-Bus service to check the availability of dual-GPU.
 ```
 
 </details>
@@ -2231,11 +2232,11 @@ URL          : https://gitlab.freedesktop.org/hadess/switcheroo-control/
 <summary>swtpm</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : TPM Emulator
+From repo     : anaconda
+Short desc    : TPM Emulator
 URL          : http://github.com/stefanberger/swtpm
-Лицензия     : BSD
-Описание     : TPM emulator built on libtpms providing TPM functionality for QEMU VMs
+License      : BSD
+Descript     : TPM emulator built on libtpms providing TPM functionality for QEMU VMs
 ```
 
 </details>
@@ -2244,11 +2245,11 @@ URL          : http://github.com/stefanberger/swtpm
 <summary>swtpm-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Private libraries for swtpm TPM emulators
+From repo     : anaconda
+Short desc    : Private libraries for swtpm TPM emulators
 URL          : http://github.com/stefanberger/swtpm
-Лицензия     : BSD
-Описание     : A private library with callback functions for libtpms based swtpm TPM emulator
+License      : BSD
+Descript     : A private library with callback functions for libtpms based swtpm TPM emulator
 ```
 
 </details>
@@ -2257,11 +2258,11 @@ URL          : http://github.com/stefanberger/swtpm
 <summary>swtpm-tools</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Tools for the TPM emulator
+From repo     : anaconda
+Short desc    : Tools for the TPM emulator
 URL          : http://github.com/stefanberger/swtpm
-Лицензия     : BSD
-Описание     : Tools for the TPM emulator from the swtpm package
+License      : BSD
+Descript     : Tools for the TPM emulator from the swtpm package
 ```
 
 </details>
@@ -2270,11 +2271,11 @@ URL          : http://github.com/stefanberger/swtpm
 <summary>symlinks</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A utility which maintains a system's symbolic links
+From repo     : anaconda
+Short desc    : A utility which maintains a system's symbolic links
 URL          : http://ibiblio.org/pub/Linux/utils/file/
-Лицензия     : Copyright only
-Описание     : The symlinks utility performs maintenance on symbolic links.  Symlinks
+License      : Copyright only
+Descript     : The symlinks utility performs maintenance on symbolic links.  Symlinks
              : checks for symlink problems, including dangling symlinks which point
              : to nonexistent files.  Symlinks can also automatically convert
              : absolute symlinks to relative symlinks.
@@ -2289,11 +2290,11 @@ URL          : http://ibiblio.org/pub/Linux/utils/file/
 <summary>sysbench</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : System performance benchmark
+From repo     : fedora
+Short desc    : System performance benchmark
 URL          : https://github.com/akopytov/sysbench/
-Лицензия     : GPLv2+
-Описание     : SysBench is a modular, cross-platform and multi-threaded benchmark
+License      : GPLv2+
+Descript     : SysBench is a modular, cross-platform and multi-threaded benchmark
              : tool for evaluating OS parameters that are important for a system
              : running a database under intensive load.
              : 
@@ -2318,11 +2319,11 @@ URL          : https://github.com/akopytov/sysbench/
 <summary>syslinux</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Simple kernel loader which boots from a FAT filesystem
+From repo     : anaconda
+Short desc    : Simple kernel loader which boots from a FAT filesystem
 URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
-Лицензия     : GPLv2+
-Описание     : SYSLINUX is a suite of bootloaders, currently supporting DOS FAT
+License      : GPLv2+
+Descript     : SYSLINUX is a suite of bootloaders, currently supporting DOS FAT
              : filesystems, Linux ext2/ext3 filesystems (EXTLINUX), PXE network boots
              : (PXELINUX), or ISO 9660 CD-ROMs (ISOLINUX).  It also includes a tool,
              : MEMDISK, which loads legacy operating systems from these media.
@@ -2334,11 +2335,11 @@ URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 <summary>syslinux-extlinux</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The EXTLINUX bootloader, for booting the local system.
+From repo     : anaconda
+Short desc    : The EXTLINUX bootloader, for booting the local system.
 URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
-Лицензия     : GPLv2+
-Описание     : The EXTLINUX bootloader, for booting the local system, as well as all
+License      : GPLv2+
+Descript     : The EXTLINUX bootloader, for booting the local system, as well as all
              : the SYSLINUX/PXELINUX modules in /boot.
 ```
 
@@ -2348,11 +2349,11 @@ URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 <summary>syslinux-extlinux-nonlinux</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The parts of the EXTLINUX bootloader which aren't run from linux.
+From repo     : anaconda
+Short desc    : The parts of the EXTLINUX bootloader which aren't run from linux.
 URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
-Лицензия     : GPLv2+
-Описание     : All the EXTLINUX binaries that run from the firmware rather than
+License      : GPLv2+
+Descript     : All the EXTLINUX binaries that run from the firmware rather than
              : from a linux host.
 ```
 
@@ -2362,11 +2363,11 @@ URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 <summary>syslinux-nonlinux</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : SYSLINUX modules which aren't run from linux.
+From repo     : anaconda
+Short desc    : SYSLINUX modules which aren't run from linux.
 URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
-Лицензия     : GPLv2+
-Описание     : All the SYSLINUX binaries that run from the firmware rather than from a
+License      : GPLv2+
+Descript     : All the SYSLINUX binaries that run from the firmware rather than from a
              : linux host. It also includes a tool, MEMDISK, which loads legacy operating
              : systems from media.
 ```
@@ -2377,11 +2378,11 @@ URL          : http://syslinux.zytor.com/wiki/index.php/The_Syslinux_Project
 <summary>sysprof-capture-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Development files for sysprof-capture static library
+From repo     : updates-testing
+Short desc    : Development files for sysprof-capture static library
 URL          : http://www.sysprof.com
-Лицензия     : BSD-2-Clause-Patent
-Описание     : The sysprof-capture-devel package contains the sysprof-capture static library and header files.
+License      : BSD-2-Clause-Patent
+Descript     : The sysprof-capture-devel package contains the sysprof-capture static library and header files.
 ```
 
 </details>
@@ -2390,11 +2391,11 @@ URL          : http://www.sysprof.com
 <summary>system-config-printer-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries and shared code for printer administration tool
+From repo     : anaconda
+Short desc    : Libraries and shared code for printer administration tool
 URL          : https://github.com/OpenPrinting/system-config-printer
-Лицензия     : GPLv2+
-Описание     : The common code used by both the graphical and non-graphical parts of
+License      : GPLv2+
+Descript     : The common code used by both the graphical and non-graphical parts of
              : the configuration tool.
 ```
 
@@ -2404,11 +2405,11 @@ URL          : https://github.com/OpenPrinting/system-config-printer
 <summary>system-config-printer-udev</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Rules for udev for automatic configuration of USB printers
+From repo     : anaconda
+Short desc    : Rules for udev for automatic configuration of USB printers
 URL          : https://github.com/OpenPrinting/system-config-printer
-Лицензия     : GPLv2+
-Описание     : The udev rules and helper programs for automatically configuring USB
+License      : GPLv2+
+Descript     : The udev rules and helper programs for automatically configuring USB
              : printers.
 ```
 
@@ -2418,11 +2419,11 @@ URL          : https://github.com/OpenPrinting/system-config-printer
 <summary>systemd</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : System and Service Manager
+From repo     : updates-testing
+Short desc    : System and Service Manager
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+ and MIT and GPLv2+
-Описание     : systemd is a system and service manager that runs as PID 1 and starts
+License      : LGPLv2+ and MIT and GPLv2+
+Descript     : systemd is a system and service manager that runs as PID 1 and starts
              : the rest of the system. It provides aggressive parallelization
              : capabilities, uses socket and D-Bus activation for starting services,
              : offers on-demand starting of daemons, keeps track of processes using
@@ -2443,11 +2444,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : System and Service Manager
+From repo     : anaconda
+Short desc    : System and Service Manager
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+ and MIT and GPLv2+
-Описание     : systemd is a system and service manager that runs as PID 1 and starts
+License      : LGPLv2+ and MIT and GPLv2+
+Descript     : systemd is a system and service manager that runs as PID 1 and starts
              : the rest of the system. It provides aggressive parallelization
              : capabilities, uses socket and D-Bus activation for starting services,
              : offers on-demand starting of daemons, keeps track of processes using
@@ -2468,11 +2469,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-container</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Tools for containers and VMs
+From repo     : updates-testing
+Short desc    : Tools for containers and VMs
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+
-Описание     : Systemd tools to spawn and manage containers and virtual machines.
+License      : LGPLv2+
+Descript     : Systemd tools to spawn and manage containers and virtual machines.
              : 
              : This package contains systemd-nspawn, machinectl, systemd-machined,
              : and systemd-importd.
@@ -2484,11 +2485,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development headers for systemd
+From repo     : fedora
+Short desc    : Development headers for systemd
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+ and MIT
-Описание     : Development headers and auxiliary files for developing applications linking
+License      : LGPLv2+ and MIT
+Descript     : Development headers and auxiliary files for developing applications linking
              : to libudev or libsystemd.
 ```
 
@@ -2498,11 +2499,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : systemd libraries
+From repo     : updates-testing
+Short desc    : systemd libraries
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+ and MIT
-Описание     : Libraries for systemd and udev.
+License      : LGPLv2+ and MIT
+Descript     : Libraries for systemd and udev.
 ```
 
 </details>
@@ -2511,11 +2512,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : systemd libraries
+From repo     : anaconda
+Short desc    : systemd libraries
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+ and MIT
-Описание     : Libraries for systemd and udev.
+License      : LGPLv2+ and MIT
+Descript     : Libraries for systemd and udev.
 ```
 
 </details>
@@ -2524,11 +2525,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-networkd</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : System daemon that manages network configurations
+From repo     : updates-testing
+Short desc    : System daemon that manages network configurations
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+
-Описание     : systemd-networkd is a system service that manages networks. It detects
+License      : LGPLv2+
+Descript     : systemd-networkd is a system service that manages networks. It detects
              : and configures network devices as they appear, as well as creating virtual
              : network devices.
 ```
@@ -2539,11 +2540,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-networkd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : System daemon that manages network configurations
+From repo     : anaconda
+Short desc    : System daemon that manages network configurations
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+
-Описание     : systemd-networkd is a system service that manages networks. It detects
+License      : LGPLv2+
+Descript     : systemd-networkd is a system service that manages networks. It detects
              : and configures network devices as they appear, as well as creating virtual
              : network devices.
 ```
@@ -2554,11 +2555,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-oomd-defaults</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Configuration files for systemd-oomd
+From repo     : updates-testing
+Short desc    : Configuration files for systemd-oomd
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+
-Описание     : A set of drop-in files for systemd units to enable action from systemd-oomd,
+License      : LGPLv2+
+Descript     : A set of drop-in files for systemd units to enable action from systemd-oomd,
              : a userspace out-of-memory (OOM) killer.
 ```
 
@@ -2568,11 +2569,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-pam</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : systemd PAM module
+From repo     : updates-testing
+Short desc    : systemd PAM module
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+ and MIT and GPLv2+
-Описание     : Systemd PAM module registers the session with systemd-logind.
+License      : LGPLv2+ and MIT and GPLv2+
+Descript     : Systemd PAM module registers the session with systemd-logind.
 ```
 
 </details>
@@ -2581,11 +2582,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-pam</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : systemd PAM module
+From repo     : anaconda
+Short desc    : systemd PAM module
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+ and MIT and GPLv2+
-Описание     : Systemd PAM module registers the session with systemd-logind.
+License      : LGPLv2+ and MIT and GPLv2+
+Descript     : Systemd PAM module registers the session with systemd-logind.
 ```
 
 </details>
@@ -2594,11 +2595,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-rpm-macros</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Macros that define paths and scriptlets related to systemd
+From repo     : updates-testing
+Short desc    : Macros that define paths and scriptlets related to systemd
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+ and MIT and GPLv2+
-Описание     : Just the definitions of rpm macros.
+License      : LGPLv2+ and MIT and GPLv2+
+Descript     : Just the definitions of rpm macros.
              : 
              : See
              : https://docs.fedoraproject.org/en-US/packaging-guidelines/Scriptlets/#_systemd
@@ -2611,11 +2612,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-rpm-macros</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Macros that define paths and scriptlets related to systemd
+From repo     : anaconda
+Short desc    : Macros that define paths and scriptlets related to systemd
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+ and MIT and GPLv2+
-Описание     : Just the definitions of rpm macros.
+License      : LGPLv2+ and MIT and GPLv2+
+Descript     : Just the definitions of rpm macros.
              : 
              : See
              : https://docs.fedoraproject.org/en-US/packaging-guidelines/Scriptlets/#_systemd
@@ -2628,11 +2629,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-udev</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Rule-based device node and kernel event manager
+From repo     : updates-testing
+Short desc    : Rule-based device node and kernel event manager
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+
-Описание     : This package contains systemd-udev and the rules and hardware database
+License      : LGPLv2+
+Descript     : This package contains systemd-udev and the rules and hardware database
              : needed to manage device nodes. This package is necessary on physical
              : machines and in virtual machines, but not in containers.
 ```
@@ -2643,11 +2644,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemd-udev</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Rule-based device node and kernel event manager
+From repo     : anaconda
+Short desc    : Rule-based device node and kernel event manager
 URL          : https://www.freedesktop.org/wiki/Software/systemd
-Лицензия     : LGPLv2+
-Описание     : This package contains systemd-udev and the rules and hardware database
+License      : LGPLv2+
+Descript     : This package contains systemd-udev and the rules and hardware database
              : needed to manage device nodes. This package is necessary on physical
              : machines and in virtual machines, but not in containers.
 ```
@@ -2658,11 +2659,11 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 <summary>systemtap-sdt-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Static probe support tools
+From repo     : fedora
+Short desc    : Static probe support tools
 URL          : http://sourceware.org/systemtap/
-Лицензия     : GPLv2+ and Public Domain
-Описание     : This package includes the <sys/sdt.h> header file used for static
+License      : GPLv2+ and Public Domain
+Descript     : This package includes the <sys/sdt.h> header file used for static
              : instrumentation compiled into userspace programs and libraries, along
              : with the optional dtrace-compatibility preprocessor to process related
              : .d files into tracing-macro-laden .h headers.

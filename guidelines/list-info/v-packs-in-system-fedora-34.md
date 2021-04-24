@@ -1,14 +1,14 @@
-# For letter v, information about installed packages
+# For first letter v, information about installation packages
 
 <details>
 <summary>vala</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A modern programming language for GNOME
+From repo     : updates-testing
+Short desc    : A modern programming language for GNOME
 URL          : https://wiki.gnome.org/Projects/Vala
-Лицензия     : LGPLv2+ and BSD
-Описание     : Vala is a new programming language that aims to bring modern programming
+License      : LGPLv2+ and BSD
+Descript     : Vala is a new programming language that aims to bring modern programming
              : language features to GNOME developers without imposing any additional
              : runtime requirements and without using a different ABI compared to
              : applications and libraries written in C.
@@ -29,11 +29,11 @@ URL          : https://wiki.gnome.org/Projects/Vala
 <summary>vala-doc</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Documentation for vala
+From repo     : updates-testing
+Short desc    : Documentation for vala
 URL          : https://wiki.gnome.org/Projects/Vala
-Лицензия     : LGPLv2+
-Описание     : Vala is a new programming language that aims to bring modern programming
+License      : LGPLv2+
+Descript     : Vala is a new programming language that aims to bring modern programming
              : language features to GNOME developers without imposing any additional
              : runtime requirements and without using a different ABI compared to
              : applications and libraries written in C.
@@ -47,11 +47,11 @@ URL          : https://wiki.gnome.org/Projects/Vala
 <summary>valadoc</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Vala documentation generator
+From repo     : updates-testing
+Short desc    : Vala documentation generator
 URL          : https://wiki.gnome.org/Projects/Vala
-Лицензия     : LGPLv2+ and BSD
-Описание     : Valadoc is a documentation generator for generating API documentation from Vala
+License      : LGPLv2+ and BSD
+Descript     : Valadoc is a documentation generator for generating API documentation from Vala
              : source code.
 ```
 
@@ -61,11 +61,11 @@ URL          : https://wiki.gnome.org/Projects/Vala
 <summary>valadoc-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Development files for valadoc
+From repo     : updates-testing
+Short desc    : Development files for valadoc
 URL          : https://wiki.gnome.org/Projects/Vala
-Лицензия     : LGPLv2+ and BSD
-Описание     : Valadoc is a documentation generator for generating API documentation from Vala
+License      : LGPLv2+ and BSD
+Descript     : Valadoc is a documentation generator for generating API documentation from Vala
              : source code.
              : 
              : The valadoc-devel package contains libraries and header files for
@@ -78,11 +78,11 @@ URL          : https://wiki.gnome.org/Projects/Vala
 <summary>vanityhash</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Hexadecimal hash fragment creation tool
+From repo     : fedora
+Short desc    : Hexadecimal hash fragment creation tool
 URL          : http://www.finnie.org/software/vanityhash/
-Лицензия     : GPLv2+
-Описание     : This is a tool that can discover data to be added to the end of a file to
+License      : GPLv2+
+Descript     : This is a tool that can discover data to be added to the end of a file to
              : produce a desired hexadecimal hash fragment.  It searches a message space and
              : runs a hashing algorithm against the original data plus the appended data to
              : determine if the desired hash fragment is present.  vanityhash can run
@@ -96,11 +96,11 @@ URL          : http://www.finnie.org/software/vanityhash/
 <summary>vapoursynth-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : VapourSynth's core library with a C++ API
+From repo     : updates-testing
+Short desc    : VapourSynth's core library with a C++ API
 URL          : http://www.vapoursynth.com
-Лицензия     : LGPLv2
-Описание     : VapourSynth's core library with a C++ API.
+License      : LGPLv2
+Descript     : VapourSynth's core library with a C++ API.
 ```
 
 </details>
@@ -109,11 +109,11 @@ URL          : http://www.vapoursynth.com
 <summary>variety</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Wallpaper changer that automatically downloads wallpapers
+From repo     : fedora
+Short desc    : Wallpaper changer that automatically downloads wallpapers
 URL          : https://github.com/varietywalls/variety
-Лицензия     : GPLv3
-Описание     : Variety changes the desktop wallpaper on a regular basis,
+License      : GPLv3
+Descript     : Variety changes the desktop wallpaper on a regular basis,
              : using user-specified or automatically downloaded images.
              : 
              : Variety sits conveniently as an indicator in the panel
@@ -137,11 +137,11 @@ URL          : https://github.com/varietywalls/variety
 <summary>vdpauinfo</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Tool to query the capabilities of a VDPAU implementation
+From repo     : fedora
+Short desc    : Tool to query the capabilities of a VDPAU implementation
 URL          : https://gitlab.freedesktop.org/vdpau/vdpauinfo
-Лицензия     : MIT
-Описание     : Tool to query the capabilities of a VDPAU implementation.
+License      : MIT
+Descript     : Tool to query the capabilities of a VDPAU implementation.
 ```
 
 </details>
@@ -150,11 +150,11 @@ URL          : https://gitlab.freedesktop.org/vdpau/vdpauinfo
 <summary>vid.stab</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Video stabilize library for fmpeg, mlt or transcode
+From repo     : fedora
+Short desc    : Video stabilize library for fmpeg, mlt or transcode
 URL          : http://public.hronopik.de/vid.stab
-Лицензия     : GPLv2+
-Описание     : Vidstab is a video stabilization library which can be plugged-in with Ffmpeg
+License      : GPLv2+
+Descript     : Vidstab is a video stabilization library which can be plugged-in with Ffmpeg
              : and Transcode.
 ```
 
@@ -165,11 +165,11 @@ URL          : http://public.hronopik.de/vid.stab
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : The common files needed by any version of the VIM editor
+From repo     : updates-testing
+Short desc    : The common files needed by any version of the VIM editor
 URL          : http://www.vim.org/
-Лицензия     : Vim and MIT
-Описание     : VIM (VIsual editor iMproved) is an updated and improved version of the
+License      : Vim and MIT
+Descript     : VIM (VIsual editor iMproved) is an updated and improved version of the
              : vi editor.  Vi was the first real screen-based editor for UNIX, and is
              : still very popular.  VIM improves on vi by adding new features:
              : multiple windows, multi-level undo, block highlighting and more.  The
@@ -187,11 +187,11 @@ URL          : http://www.vim.org/
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : A version of the VIM editor which includes recent enhancements
+From repo     : updates-testing
+Short desc    : A version of the VIM editor which includes recent enhancements
 URL          : http://www.vim.org/
-Лицензия     : Vim and MIT
-Описание     : VIM (VIsual editor iMproved) is an updated and improved version of the
+License      : Vim and MIT
+Descript     : VIM (VIsual editor iMproved) is an updated and improved version of the
              : vi editor.  Vi was the first real screen-based editor for UNIX, and is
              : still very popular.  VIM improves on vi by adding new features:
              : multiple windows, multi-level undo, block highlighting and more.  The
@@ -211,11 +211,11 @@ URL          : http://www.vim.org/
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : VIM filesystem layout
+From repo     : updates-testing
+Short desc    : VIM filesystem layout
 URL          : http://www.vim.org/
-Лицензия     : Vim and MIT
-Описание     : This package provides some directories which are required by other
+License      : Vim and MIT
+Descript     : This package provides some directories which are required by other
              : packages that add vim files, p.e.  additional syntax files or filetypes.
 ```
 
@@ -226,11 +226,11 @@ URL          : http://www.vim.org/
 
 ```
 Эпоха        : 2
-Из репозитор : updates-testing
-Краткое опис : A minimal version of the VIM editor
+From repo     : updates-testing
+Short desc    : A minimal version of the VIM editor
 URL          : http://www.vim.org/
-Лицензия     : Vim and MIT
-Описание     : VIM (VIsual editor iMproved) is an updated and improved version of the
+License      : Vim and MIT
+Descript     : VIM (VIsual editor iMproved) is an updated and improved version of the
              : vi editor.  Vi was the first real screen-based editor for UNIX, and is
              : still very popular.  VIM improves on vi by adding new features:
              : multiple windows, multi-level undo, block highlighting and more. The
@@ -245,11 +245,11 @@ URL          : http://www.vim.org/
 <summary>vim-syntastic</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A vim plugins to check syntax for programming languages
+From repo     : fedora
+Short desc    : A vim plugins to check syntax for programming languages
 URL          : https://github.com/scrooloose/syntastic
-Лицензия     : WTFPL
-Описание     : Syntastic is a syntax checking plugin that runs files through external syntax
+License      : WTFPL
+Descript     : Syntastic is a syntax checking plugin that runs files through external syntax
              : checkers and displays any resulting errors to the user. This can be done on
              : demand, or automatically as files are saved. If syntax errors are detected, the
              : user is notified and is happy because they didn't have to compile their code or
@@ -262,11 +262,11 @@ URL          : https://github.com/scrooloose/syntastic
 <summary>vim-syntastic-vala</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A syntax checker for vala programming language
+From repo     : fedora
+Short desc    : A syntax checker for vala programming language
 URL          : https://github.com/scrooloose/syntastic
-Лицензия     : WTFPL
-Описание     : Allows checking vala sources files.
+License      : WTFPL
+Descript     : Allows checking vala sources files.
 ```
 
 </details>
@@ -275,10 +275,10 @@ URL          : https://github.com/scrooloose/syntastic
 <summary>virglrenderer</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Virgl Rendering library.
-Лицензия     : MIT
-Описание     : The virgil3d rendering library is a library used by
+From repo     : anaconda
+Short desc    : Virgl Rendering library.
+License      : MIT
+Descript     : The virgil3d rendering library is a library used by
              : qemu to implement 3D GPU support for the virtio GPU.
 ```
 
@@ -288,11 +288,11 @@ URL          : https://github.com/scrooloose/syntastic
 <summary>virtualbox-guest-additions</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : VirtualBox Guest Additions
+From repo     : anaconda
+Short desc    : VirtualBox Guest Additions
 URL          : https://www.virtualbox.org/wiki/VirtualBox
-Лицензия     : GPLv2 or (GPLv2 and CDDL)
-Описание     : VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for
+License      : GPLv2 or (GPLv2 and CDDL)
+Descript     : VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for
              : enterprise as well as home use. This package contains the VirtualBox
              : Guest Additions which support better integration of VirtualBox guests
              : with the Host, including file sharing, clipboard sharing and Seamless mode.
@@ -304,11 +304,11 @@ URL          : https://www.virtualbox.org/wiki/VirtualBox
 <summary>vnstat</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Console-based network traffic monitor
+From repo     : fedora
+Short desc    : Console-based network traffic monitor
 URL          : http://humdi.net/vnstat/
-Лицензия     : GPLv2
-Описание     : vnStat is a console-based network traffic monitor that keeps a log of daily
+License      : GPLv2
+Descript     : vnStat is a console-based network traffic monitor that keeps a log of daily
              : network traffic for the selected interface(s). vnStat isn't a packet sniffer.
              : The traffic information is analyzed from the /proc file-system, so vnStat can
              : be used without root permissions. See the web-page for few 'screenshots'.
@@ -320,11 +320,11 @@ URL          : http://humdi.net/vnstat/
 <summary>vo-amrwbenc</summary>
 
 ```
-Из репозитор : rpmfusion-free
-Краткое опис : VisualOn AMR-WB encoder library
+From repo     : rpmfusion-free
+Short desc    : VisualOn AMR-WB encoder library
 URL          : http://opencore-amr.sourceforge.net/
-Лицензия     : ASL 2.0
-Описание     : This library contains an encoder implementation of the Adaptive
+License      : ASL 2.0
+Descript     : This library contains an encoder implementation of the Adaptive
              : Multi Rate Wideband (AMR-WB) audio codec. The library is based
              : on a codec implementation by VisualOn as part of the Stagefright
              : framework from the Google Android project.
@@ -336,11 +336,11 @@ URL          : http://opencore-amr.sourceforge.net/
 <summary>volume_key-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A library for manipulating storage encryption keys and passphrases
+From repo     : updates-testing
+Short desc    : A library for manipulating storage encryption keys and passphrases
 URL          : https://pagure.io/volume_key/
-Лицензия     : GPLv2 and (MPLv1.1 or GPLv2 or LGPLv2)
-Описание     : This package provides libvolume_key, a library for manipulating storage volume
+License      : GPLv2 and (MPLv1.1 or GPLv2 or LGPLv2)
+Descript     : This package provides libvolume_key, a library for manipulating storage volume
              : encryption keys and storing them separately from volumes.
              : 
              : The main goal of the software is to allow restoring access to an encrypted
@@ -356,11 +356,11 @@ URL          : https://pagure.io/volume_key/
 <summary>vpnc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : IPSec VPN client compatible with Cisco equipment
+From repo     : anaconda
+Short desc    : IPSec VPN client compatible with Cisco equipment
 URL          : http://www.unix-ag.uni-kl.de/~massar/vpnc/
-Лицензия     : GPLv2+
-Описание     : A VPN client compatible with Cisco's EasyVPN equipment.
+License      : GPLv2+
+Descript     : A VPN client compatible with Cisco's EasyVPN equipment.
              : 
              : Supports IPSec (ESP) with Mode Configuration and Xauth.  Supports only
              : shared-secret IPSec authentication, 3DES, MD5, and IP tunneling.
@@ -372,11 +372,11 @@ URL          : http://www.unix-ag.uni-kl.de/~massar/vpnc/
 <summary>vpnc-script</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Routing setup script for vpnc and openconnect
+From repo     : anaconda
+Short desc    : Routing setup script for vpnc and openconnect
 URL          : https://gitlab.com/openconnect/vpnc-scripts/
-Лицензия     : GPLv2+
-Описание     : This script sets up routing for VPN connectivity, when invoked by vpnc
+License      : GPLv2+
+Descript     : This script sets up routing for VPN connectivity, when invoked by vpnc
              : or openconnect.
 ```
 
@@ -386,11 +386,11 @@ URL          : https://gitlab.com/openconnect/vpnc-scripts/
 <summary>vte-profile</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Profile script for VTE terminal emulator library
+From repo     : anaconda
+Short desc    : Profile script for VTE terminal emulator library
 URL          : https://wiki.gnome.org/Apps/Terminal/VTE
-Лицензия     : GPLv3+
-Описание     : The vte-profile package contains a profile.d script for the VTE terminal
+License      : GPLv3+
+Descript     : The vte-profile package contains a profile.d script for the VTE terminal
              : emulator library.
 ```
 
@@ -400,11 +400,11 @@ URL          : https://wiki.gnome.org/Apps/Terminal/VTE
 <summary>vte291</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Terminal emulator library
+From repo     : anaconda
+Short desc    : Terminal emulator library
 URL          : https://wiki.gnome.org/Apps/Terminal/VTE
-Лицензия     : LGPLv2+
-Описание     : VTE is a library implementing a terminal emulator widget for GTK+. VTE
+License      : LGPLv2+
+Descript     : VTE is a library implementing a terminal emulator widget for GTK+. VTE
              : is mainly used in gnome-terminal, but can also be used to embed a
              : console/terminal in games, editors, IDEs, etc.
 ```
@@ -415,11 +415,11 @@ URL          : https://wiki.gnome.org/Apps/Terminal/VTE
 <summary>vtk</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : The Visualization Toolkit - A high level 3D visualization library
+From repo     : fedora
+Short desc    : The Visualization Toolkit - A high level 3D visualization library
 URL          : https://vtk.org/
-Лицензия     : BSD
-Описание     : VTK is an open-source software system for image processing, 3D
+License      : BSD
+Descript     : VTK is an open-source software system for image processing, 3D
              : graphics, volume rendering and visualization. VTK includes many
              : advanced algorithms (e.g., surface reconstruction, implicit modeling,
              : decimation) and rendering techniques (e.g., hardware-accelerated
@@ -439,11 +439,11 @@ URL          : https://vtk.org/
 <summary>vulkan-headers</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Vulkan Header files and API registry
+From repo     : fedora
+Short desc    : Vulkan Header files and API registry
 URL          : https://github.com/KhronosGroup/Vulkan-Headers
-Лицензия     : ASL 2.0
-Описание     : Vulkan Header files and API registry
+License      : ASL 2.0
+Descript     : Vulkan Header files and API registry
 ```
 
 </details>
@@ -452,11 +452,11 @@ URL          : https://github.com/KhronosGroup/Vulkan-Headers
 <summary>vulkan-loader</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Vulkan ICD desktop loader
+From repo     : anaconda
+Short desc    : Vulkan ICD desktop loader
 URL          : https://github.com/KhronosGroup/Vulkan-Loader
-Лицензия     : ASL 2.0
-Описание     : This project provides the Khronos official Vulkan ICD desktop
+License      : ASL 2.0
+Descript     : This project provides the Khronos official Vulkan ICD desktop
              : loader for Windows, Linux, and MacOS.
 ```
 
@@ -466,11 +466,11 @@ URL          : https://github.com/KhronosGroup/Vulkan-Loader
 <summary>vulkan-loader-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Development files for vulkan-loader
+From repo     : fedora
+Short desc    : Development files for vulkan-loader
 URL          : https://github.com/KhronosGroup/Vulkan-Loader
-Лицензия     : ASL 2.0
-Описание     : The vulkan-loader-devel package contains libraries and header files for
+License      : ASL 2.0
+Descript     : The vulkan-loader-devel package contains libraries and header files for
              : developing applications that use vulkan-loader.
 ```
 
@@ -480,11 +480,11 @@ URL          : https://github.com/KhronosGroup/Vulkan-Loader
 <summary>vulkan-tools</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Vulkan tools
+From repo     : fedora
+Short desc    : Vulkan tools
 URL          : https://github.com/KhronosGroup/Vulkan-Tools
-Лицензия     : ASL 2.0
-Описание     : Vulkan tools
+License      : ASL 2.0
+Descript     : Vulkan tools
 ```
 
 </details>

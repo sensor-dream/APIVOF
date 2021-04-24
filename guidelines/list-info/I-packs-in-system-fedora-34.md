@@ -1,15 +1,15 @@
-# For letter I, information about installed packages
+# For first letter I, information about installation packages
 
 <details>
 <summary>ImageMagick</summary>
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : An X application for displaying and manipulating images
+From repo     : fedora
+Short desc    : An X application for displaying and manipulating images
 URL          : http://www.imagemagick.org/
-Лицензия     : ImageMagick
-Описание     : ImageMagick is an image display and manipulation tool for the X
+License      : ImageMagick
+Descript     : ImageMagick is an image display and manipulation tool for the X
              : Window System. ImageMagick can read and write JPEG, TIFF, PNM, GIF,
              : and Photo CD image formats. It can resize, rotate, sharpen, color
              : reduce, or add special effects to an image, and when finished you can
@@ -31,11 +31,11 @@ URL          : http://www.imagemagick.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : ImageMagick Magick++ library (C++ bindings)
+From repo     : fedora
+Short desc    : ImageMagick Magick++ library (C++ bindings)
 URL          : http://www.imagemagick.org/
-Лицензия     : ImageMagick
-Описание     : This package contains the Magick++ library, a C++ binding to the ImageMagick
+License      : ImageMagick
+Descript     : This package contains the Magick++ library, a C++ binding to the ImageMagick
              : graphics manipulation library.
              : 
              : Install ImageMagick-c++ if you want to use any applications that use Magick++.
@@ -48,11 +48,11 @@ URL          : http://www.imagemagick.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : C++ bindings for the ImageMagick library
+From repo     : fedora
+Short desc    : C++ bindings for the ImageMagick library
 URL          : http://www.imagemagick.org/
-Лицензия     : ImageMagick
-Описание     : ImageMagick-devel contains the static libraries and header files you'll
+License      : ImageMagick
+Descript     : ImageMagick-devel contains the static libraries and header files you'll
              : need to develop ImageMagick applications using the Magick++ C++ bindings.
              : ImageMagick is an image manipulation program.
              : 
@@ -71,11 +71,11 @@ URL          : http://www.imagemagick.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Library links and header files for ImageMagick app development
+From repo     : fedora
+Short desc    : Library links and header files for ImageMagick app development
 URL          : http://www.imagemagick.org/
-Лицензия     : ImageMagick
-Описание     : ImageMagick-devel contains the library links and header files you'll
+License      : ImageMagick
+Descript     : ImageMagick-devel contains the library links and header files you'll
              : need to develop ImageMagick applications. ImageMagick is an image
              : manipulation program.
              : 
@@ -92,11 +92,11 @@ URL          : http://www.imagemagick.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : DjVu plugin for ImageMagick
+From repo     : fedora
+Short desc    : DjVu plugin for ImageMagick
 URL          : http://www.imagemagick.org/
-Лицензия     : ImageMagick
-Описание     : This packages contains a plugin for ImageMagick which makes it possible to
+License      : ImageMagick
+Descript     : This packages contains a plugin for ImageMagick which makes it possible to
              : save and load DjvU files from ImageMagick and libMagickCore using applications.
 ```
 
@@ -107,11 +107,11 @@ URL          : http://www.imagemagick.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : ImageMagick html documentation
+From repo     : fedora
+Short desc    : ImageMagick html documentation
 URL          : http://www.imagemagick.org/
-Лицензия     : ImageMagick
-Описание     : ImageMagick documentation, this package contains usage (for the
+License      : ImageMagick
+Descript     : ImageMagick documentation, this package contains usage (for the
              : commandline tools) and API (for the libraries) documentation in html format.
              : Note this documentation can also be found on the ImageMagick website:
              : http://www.imagemagick.org/
@@ -124,11 +124,11 @@ URL          : http://www.imagemagick.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : ImageMagick libraries to link with
+From repo     : fedora
+Short desc    : ImageMagick libraries to link with
 URL          : http://www.imagemagick.org/
-Лицензия     : ImageMagick
-Описание     : This packages contains a shared libraries to use within other applications.
+License      : ImageMagick
+Descript     : This packages contains a shared libraries to use within other applications.
 ```
 
 </details>
@@ -138,11 +138,11 @@ URL          : http://www.imagemagick.org/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : ImageMagick perl bindings
+From repo     : fedora
+Short desc    : ImageMagick perl bindings
 URL          : http://www.imagemagick.org/
-Лицензия     : ImageMagick
-Описание     : Perl bindings to ImageMagick.
+License      : ImageMagick
+Descript     : Perl bindings to ImageMagick.
              : 
              : Install ImageMagick-perl if you want to use any perl scripts that use
              : ImageMagick.

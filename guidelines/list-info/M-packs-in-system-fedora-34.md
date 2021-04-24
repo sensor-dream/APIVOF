@@ -1,14 +1,14 @@
-# For letter M, information about installed packages
+# For first letter M, information about installation packages
 
 <details>
 <summary>MUMPS</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A MUltifrontal Massively Parallel sparse direct Solver
+From repo     : fedora
+Short desc    : A MUltifrontal Massively Parallel sparse direct Solver
 URL          : http://mumps.enseeiht.fr/
-Лицензия     : CeCILL-C
-Описание     : MUMPS implements a direct solver for large sparse linear systems, with a
+License      : CeCILL-C
+Descript     : MUMPS implements a direct solver for large sparse linear systems, with a
              : particular focus on symmetric positive definite matrices.  It can
              : operate on distributed matrices e.g. over a cluster.  It has Fortran and
              : C interfaces, and can interface with ordering tools such as Scotch.
@@ -20,11 +20,11 @@ URL          : http://mumps.enseeiht.fr/
 <summary>MUMPS-common</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Documentation files for MUMPS
+From repo     : fedora
+Short desc    : Documentation files for MUMPS
 URL          : http://mumps.enseeiht.fr/
-Лицензия     : CeCILL-C
-Описание     : This package contains common documentation files for MUMPS.
+License      : CeCILL-C
+Descript     : This package contains common documentation files for MUMPS.
 ```
 
 </details>
@@ -33,11 +33,11 @@ URL          : http://mumps.enseeiht.fr/
 <summary>ModemManager</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Mobile broadband modem management service
+From repo     : anaconda
+Short desc    : Mobile broadband modem management service
 URL          : http://www.freedesktop.org/wiki/Software/ModemManager/
-Лицензия     : GPLv2+
-Описание     : The ModemManager service manages WWAN modems and provides a consistent API for
+License      : GPLv2+
+Descript     : The ModemManager service manages WWAN modems and provides a consistent API for
              : interacting with these devices to client applications.
 ```
 
@@ -47,11 +47,11 @@ URL          : http://www.freedesktop.org/wiki/Software/ModemManager/
 <summary>ModemManager-glib</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for adding ModemManager support to applications that use glib.
+From repo     : anaconda
+Short desc    : Libraries for adding ModemManager support to applications that use glib.
 URL          : http://www.freedesktop.org/wiki/Software/ModemManager/
-Лицензия     : GPLv2+
-Описание     : This package contains the libraries that make it easier to use some ModemManager
+License      : GPLv2+
+Descript     : This package contains the libraries that make it easier to use some ModemManager
              : functionality from applications that use glib.
 ```
 

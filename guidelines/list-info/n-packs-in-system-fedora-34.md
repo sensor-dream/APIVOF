@@ -1,14 +1,14 @@
-# For letter n, information about installed packages
+# For first letter n, information about installation packages
 
 <details>
 <summary>nano</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A small text editor
+From repo     : anaconda
+Short desc    : A small text editor
 URL          : https://www.nano-editor.org
-Лицензия     : GPLv3+
-Описание     : GNU nano is a small and friendly text editor.
+License      : GPLv3+
+Descript     : GNU nano is a small and friendly text editor.
 ```
 
 </details>
@@ -17,11 +17,11 @@ URL          : https://www.nano-editor.org
 <summary>nano</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A small text editor
+From repo     : updates-testing
+Short desc    : A small text editor
 URL          : https://www.nano-editor.org
-Лицензия     : GPLv3+
-Описание     : GNU nano is a small and friendly text editor.
+License      : GPLv3+
+Descript     : GNU nano is a small and friendly text editor.
 ```
 
 </details>
@@ -30,11 +30,11 @@ URL          : https://www.nano-editor.org
 <summary>nano-default-editor</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Sets GNU nano as the default editor
+From repo     : updates-testing
+Short desc    : Sets GNU nano as the default editor
 URL          : https://www.nano-editor.org
-Лицензия     : GPLv3+
-Описание     : This package ensures the EDITOR shell variable
+License      : GPLv3+
+Descript     : This package ensures the EDITOR shell variable
              : is set in common shells to GNU nano.
 ```
 
@@ -44,11 +44,11 @@ URL          : https://www.nano-editor.org
 <summary>nautilus</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : File manager for GNOME
+From repo     : updates-testing
+Short desc    : File manager for GNOME
 URL          : https://wiki.gnome.org/Apps/Nautilus
-Лицензия     : GPLv3+
-Описание     : Nautilus is the file manager and graphical shell for the GNOME desktop
+License      : GPLv3+
+Descript     : Nautilus is the file manager and graphical shell for the GNOME desktop
              : that makes it easy to manage your files and the rest of your system.
              : It allows to browse directories on local and remote filesystems, preview
              : files and launch applications associated with them.
@@ -61,11 +61,11 @@ URL          : https://wiki.gnome.org/Apps/Nautilus
 <summary>nautilus</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : File manager for GNOME
+From repo     : anaconda
+Short desc    : File manager for GNOME
 URL          : https://wiki.gnome.org/Apps/Nautilus
-Лицензия     : GPLv3+
-Описание     : Nautilus is the file manager and graphical shell for the GNOME desktop
+License      : GPLv3+
+Descript     : Nautilus is the file manager and graphical shell for the GNOME desktop
              : that makes it easy to manage your files and the rest of your system.
              : It allows to browse directories on local and remote filesystems, preview
              : files and launch applications associated with them.
@@ -78,11 +78,11 @@ URL          : https://wiki.gnome.org/Apps/Nautilus
 <summary>nautilus-extensions</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Nautilus extensions library
+From repo     : updates-testing
+Short desc    : Nautilus extensions library
 URL          : https://wiki.gnome.org/Apps/Nautilus
-Лицензия     : LGPLv2+
-Описание     : This package provides the libraries used by nautilus extensions.
+License      : LGPLv2+
+Descript     : This package provides the libraries used by nautilus extensions.
 ```
 
 </details>
@@ -91,11 +91,11 @@ URL          : https://wiki.gnome.org/Apps/Nautilus
 <summary>nautilus-extensions</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Nautilus extensions library
+From repo     : anaconda
+Short desc    : Nautilus extensions library
 URL          : https://wiki.gnome.org/Apps/Nautilus
-Лицензия     : LGPLv2+
-Описание     : This package provides the libraries used by nautilus extensions.
+License      : LGPLv2+
+Descript     : This package provides the libraries used by nautilus extensions.
 ```
 
 </details>
@@ -104,11 +104,11 @@ URL          : https://wiki.gnome.org/Apps/Nautilus
 <summary>ncurses</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Ncurses support utilities
+From repo     : anaconda
+Short desc    : Ncurses support utilities
 URL          : https://invisible-island.net/ncurses/ncurses.html
-Лицензия     : MIT
-Описание     : The curses library routines are a terminal-independent method of
+License      : MIT
+Descript     : The curses library routines are a terminal-independent method of
              : updating character screens with reasonable optimization.  The ncurses
              : (new curses) library is a freely distributable replacement for the
              : discontinued 4.4 BSD classic curses library.
@@ -124,11 +124,11 @@ URL          : https://invisible-island.net/ncurses/ncurses.html
 <summary>ncurses-base</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Descriptions of common terminals
+From repo     : anaconda
+Short desc    : Descriptions of common terminals
 URL          : https://invisible-island.net/ncurses/ncurses.html
-Лицензия     : MIT
-Описание     : This package contains descriptions of common terminals. Other terminal
+License      : MIT
+Descript     : This package contains descriptions of common terminals. Other terminal
              : descriptions are included in the ncurses-term package.
 ```
 
@@ -138,11 +138,11 @@ URL          : https://invisible-island.net/ncurses/ncurses.html
 <summary>ncurses-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Ncurses libraries
+From repo     : anaconda
+Short desc    : Ncurses libraries
 URL          : https://invisible-island.net/ncurses/ncurses.html
-Лицензия     : MIT
-Описание     : The curses library routines are a terminal-independent method of
+License      : MIT
+Descript     : The curses library routines are a terminal-independent method of
              : updating character screens with reasonable optimization.  The ncurses
              : (new curses) library is a freely distributable replacement for the
              : discontinued 4.4 BSD classic curses library.
@@ -156,11 +156,11 @@ URL          : https://invisible-island.net/ncurses/ncurses.html
 <summary>ndctl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Manage "libnvdimm" subsystem devices (Non-volatile Memory)
+From repo     : anaconda
+Short desc    : Manage "libnvdimm" subsystem devices (Non-volatile Memory)
 URL          : https://github.com/pmem/ndctl
-Лицензия     : GPLv2
-Описание     : Utility library for managing the "libnvdimm" subsystem.  The "libnvdimm"
+License      : GPLv2
+Descript     : Utility library for managing the "libnvdimm" subsystem.  The "libnvdimm"
              : subsystem defines a kernel device model and control message interface for
              : platform NVDIMM resources like those defined by the ACPI 6+ NFIT (NVDIMM
              : Firmware Interface Table).
@@ -172,11 +172,11 @@ URL          : https://github.com/pmem/ndctl
 <summary>ndctl-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Management library for "libnvdimm" subsystem devices (Non-volatile Memory)
+From repo     : anaconda
+Short desc    : Management library for "libnvdimm" subsystem devices (Non-volatile Memory)
 URL          : https://github.com/pmem/ndctl
-Лицензия     : LGPLv2
-Описание     : Libraries for ndctl.
+License      : LGPLv2
+Descript     : Libraries for ndctl.
 ```
 
 </details>
@@ -185,11 +185,11 @@ URL          : https://github.com/pmem/ndctl
 <summary>neofetch</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : CLI system information tool written in Bash
+From repo     : fedora
+Short desc    : CLI system information tool written in Bash
 URL          : https://github.com/dylanaraps/neofetch
-Лицензия     : MIT
-Описание     : Neofetch displays information about your system next to an image,
+License      : MIT
+Descript     : Neofetch displays information about your system next to an image,
              : your OS logo, or any ASCII file of your choice. The main purpose of Neofetch
              : is to be used in screenshots to show other users what OS/distribution you're
              : running, what theme/icons you're using and more.
@@ -201,11 +201,11 @@ URL          : https://github.com/dylanaraps/neofetch
 <summary>neon</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : An HTTP and WebDAV client library
+From repo     : anaconda
+Short desc    : An HTTP and WebDAV client library
 URL          : https://notroj.github.io/neon/
-Лицензия     : LGPLv2+
-Описание     : neon is an HTTP and WebDAV client library, with a C interface;
+License      : LGPLv2+
+Descript     : neon is an HTTP and WebDAV client library, with a C interface;
              : providing a high-level interface to HTTP and WebDAV methods along
              : with a low-level interface for HTTP request handling.  neon
              : supports persistent connections, proxy servers, basic, digest and
@@ -219,11 +219,11 @@ URL          : https://notroj.github.io/neon/
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : The NET-SNMP runtime client libraries
+From repo     : anaconda
+Short desc    : The NET-SNMP runtime client libraries
 URL          : http://net-snmp.sourceforge.net/
-Лицензия     : BSD
-Описание     : The net-snmp-libs package contains the runtime client libraries for shared
+License      : BSD
+Descript     : The net-snmp-libs package contains the runtime client libraries for shared
              : binaries and applications.
 ```
 
@@ -234,11 +234,11 @@ URL          : http://net-snmp.sourceforge.net/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : The NET-SNMP runtime client libraries
+From repo     : updates-testing
+Short desc    : The NET-SNMP runtime client libraries
 URL          : http://net-snmp.sourceforge.net/
-Лицензия     : BSD
-Описание     : The net-snmp-libs package contains the runtime client libraries for shared
+License      : BSD
+Descript     : The net-snmp-libs package contains the runtime client libraries for shared
              : binaries and applications.
 ```
 
@@ -248,11 +248,11 @@ URL          : http://net-snmp.sourceforge.net/
 <summary>net-tools</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Basic networking tools
+From repo     : anaconda
+Short desc    : Basic networking tools
 URL          : http://sourceforge.net/projects/net-tools/
-Лицензия     : GPLv2+
-Описание     : The net-tools package contains basic networking tools,
+License      : GPLv2+
+Descript     : The net-tools package contains basic networking tools,
              : including ifconfig, netstat, route, and others.
              : Most of them are obsolete. For replacement check iproute package.
 ```
@@ -263,11 +263,11 @@ URL          : http://sourceforge.net/projects/net-tools/
 <summary>netcdf</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Libraries for the Unidata network Common Data Form
+From repo     : fedora
+Short desc    : Libraries for the Unidata network Common Data Form
 URL          : http://www.unidata.ucar.edu/software/netcdf/
-Лицензия     : NetCDF
-Описание     : NetCDF (network Common Data Form) is an interface for array-oriented
+License      : NetCDF
+Descript     : NetCDF (network Common Data Form) is an interface for array-oriented
              : data access and a freely-distributed collection of software libraries
              : for C, Fortran, C++, and perl that provides an implementation of the
              : interface.  The NetCDF library also defines a machine-independent
@@ -304,11 +304,11 @@ URL          : http://www.unidata.ucar.edu/software/netcdf/
 <summary>nethogs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A tool resembling top for network traffic
+From repo     : fedora
+Short desc    : A tool resembling top for network traffic
 URL          : https://github.com/raboof/nethogs/
-Лицензия     : GPL+
-Описание     : NetHogs is a small "net top" tool.
+License      : GPL+
+Descript     : NetHogs is a small "net top" tool.
              : 
              : Instead of breaking the traffic down per protocol or per subnet, like
              : most such tools do, it groups bandwidth by process and does not rely
@@ -325,11 +325,11 @@ URL          : https://github.com/raboof/nethogs/
 <summary>netpbm</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A library for handling different graphics file formats
+From repo     : fedora
+Short desc    : A library for handling different graphics file formats
 URL          : http://netpbm.sourceforge.net/
-Лицензия     : BSD and GPLv2 and IJG and MIT and Public Domain
-Описание     : The netpbm package contains a library of functions which support
+License      : BSD and GPLv2 and IJG and MIT and Public Domain
+Descript     : The netpbm package contains a library of functions which support
              : programs for handling various graphics file formats, including .pbm
              : (portable bitmaps), .pgm (portable graymaps), .pnm (portable anymaps),
              : .ppm (portable pixmaps) and others.
@@ -341,11 +341,11 @@ URL          : http://netpbm.sourceforge.net/
 <summary>netstat-nat</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : A tool that displays NAT connections
+From repo     : fedora
+Short desc    : A tool that displays NAT connections
 URL          : http://www.tweegy.nl/projects/netstat-nat/
-Лицензия     : GPLv2+
-Описание     : Netstat-nat is a small program written in C. It displays NAT connections,
+License      : GPLv2+
+Descript     : Netstat-nat is a small program written in C. It displays NAT connections,
              : managed by netfilter/iptables which comes with the > 2.4.x linux kernels.
              : The program reads its information from '/proc/net/nf_conntrack', which is
              : the temporary conntrack-storage of netfilter.
@@ -357,11 +357,11 @@ URL          : http://www.tweegy.nl/projects/netstat-nat/
 <summary>nettle</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A low-level cryptographic library
+From repo     : anaconda
+Short desc    : A low-level cryptographic library
 URL          : http://www.lysator.liu.se/~nisse/nettle/
-Лицензия     : LGPLv3+ or GPLv2+
-Описание     : Nettle is a cryptographic library that is designed to fit easily in more
+License      : LGPLv3+ or GPLv2+
+Descript     : Nettle is a cryptographic library that is designed to fit easily in more
              : or less any context: In crypto toolkits for object-oriented languages
              : (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in
              : kernel space.
@@ -373,11 +373,11 @@ URL          : http://www.lysator.liu.se/~nisse/nettle/
 <summary>nettle</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A low-level cryptographic library
+From repo     : updates-testing
+Short desc    : A low-level cryptographic library
 URL          : http://www.lysator.liu.se/~nisse/nettle/
-Лицензия     : LGPLv3+ or GPLv2+
-Описание     : Nettle is a cryptographic library that is designed to fit easily in more
+License      : LGPLv3+ or GPLv2+
+Descript     : Nettle is a cryptographic library that is designed to fit easily in more
              : or less any context: In crypto toolkits for object-oriented languages
              : (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in
              : kernel space.
@@ -390,11 +390,11 @@ URL          : http://www.lysator.liu.se/~nisse/nettle/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : NFS utilities and supporting clients and daemons for the kernel NFS server
+From repo     : updates-testing
+Short desc    : NFS utilities and supporting clients and daemons for the kernel NFS server
 URL          : http://linux-nfs.org/
-Лицензия     : MIT and GPLv2 and GPLv2+ and BSD
-Описание     : The nfs-utils package provides a daemon for the kernel NFS server and
+License      : MIT and GPLv2 and GPLv2+ and BSD
+Descript     : The nfs-utils package provides a daemon for the kernel NFS server and
              : related tools, which provides a much higher level of performance than the
              : traditional Linux NFS server used by most users.
              : 
@@ -412,11 +412,11 @@ URL          : http://linux-nfs.org/
 <summary>nfswatch</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : An NFS traffic monitoring tool
+From repo     : fedora
+Short desc    : An NFS traffic monitoring tool
 URL          : http://nfswatch.sourceforge.net
-Лицензия     : BSD
-Описание     : Nfswatch is a command-line tool for monitoring NFS traffic.
+License      : BSD
+Descript     : Nfswatch is a command-line tool for monitoring NFS traffic.
              : Nfswatch can capture and analyze the NFS packets on a particular
              : network interface or on all interfaces.
              : 
@@ -430,11 +430,11 @@ URL          : http://nfswatch.sourceforge.net
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Netfilter Tables userspace utillites
+From repo     : anaconda
+Short desc    : Netfilter Tables userspace utillites
 URL          : https://netfilter.org/projects/nftables/
-Лицензия     : GPLv2
-Описание     : Netfilter Tables userspace utilities.
+License      : GPLv2
+Descript     : Netfilter Tables userspace utilities.
 ```
 
 </details>
@@ -444,11 +444,11 @@ URL          : https://netfilter.org/projects/nftables/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Development library for nftables / libnftables
+From repo     : fedora
+Short desc    : Development library for nftables / libnftables
 URL          : https://netfilter.org/projects/nftables/
-Лицензия     : GPLv2
-Описание     : Development tools and static libraries and header files for the libnftables library.
+License      : GPLv2
+Descript     : Development tools and static libraries and header files for the libnftables library.
 ```
 
 </details>
@@ -458,11 +458,11 @@ URL          : https://netfilter.org/projects/nftables/
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : A high performance web server and reverse proxy server
+From repo     : fedora
+Short desc    : A high performance web server and reverse proxy server
 URL          : https://nginx.org
-Лицензия     : BSD
-Описание     : Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and
+License      : BSD
+Descript     : Nginx is a web server and a reverse proxy server for HTTP, SMTP, POP3 and
              : IMAP protocols, with a strong focus on high concurrency, performance and low
              : memory usage.
 ```
@@ -474,11 +474,11 @@ URL          : https://nginx.org
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : A meta package that installs all available Nginx modules
+From repo     : fedora
+Short desc    : A meta package that installs all available Nginx modules
 URL          : https://nginx.org
-Лицензия     : BSD
-Описание     : Meta package that installs all available nginx modules.
+License      : BSD
+Descript     : Meta package that installs all available nginx modules.
 ```
 
 </details>
@@ -488,11 +488,11 @@ URL          : https://nginx.org
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : The basic directory layout for the Nginx server
+From repo     : fedora
+Short desc    : The basic directory layout for the Nginx server
 URL          : https://nginx.org
-Лицензия     : BSD
-Описание     : The nginx-filesystem package contains the basic directory layout
+License      : BSD
+Descript     : The nginx-filesystem package contains the basic directory layout
              : for the Nginx server including the correct permissions for the
              : directories.
 ```
@@ -503,11 +503,11 @@ URL          : https://nginx.org
 <summary>nginx-mimetypes</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : MIME type mappings for nginx
+From repo     : fedora
+Short desc    : MIME type mappings for nginx
 URL          : https://pagure.io/mailcap
-Лицензия     : Public Domain
-Описание     : MIME type mappings for nginx.
+License      : Public Domain
+Descript     : MIME type mappings for nginx.
 ```
 
 </details>
@@ -517,11 +517,11 @@ URL          : https://pagure.io/mailcap
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Nginx HTTP image filter module
+From repo     : fedora
+Short desc    : Nginx HTTP image filter module
 URL          : https://nginx.org
-Лицензия     : BSD
-Описание     : Nginx HTTP image filter module.
+License      : BSD
+Descript     : Nginx HTTP image filter module.
 ```
 
 </details>
@@ -531,11 +531,11 @@ URL          : https://nginx.org
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Nginx HTTP perl module
+From repo     : fedora
+Short desc    : Nginx HTTP perl module
 URL          : https://nginx.org
-Лицензия     : BSD
-Описание     : Nginx HTTP perl module.
+License      : BSD
+Descript     : Nginx HTTP perl module.
 ```
 
 </details>
@@ -545,11 +545,11 @@ URL          : https://nginx.org
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Nginx XSLT module
+From repo     : fedora
+Short desc    : Nginx XSLT module
 URL          : https://nginx.org
-Лицензия     : BSD
-Описание     : Nginx XSLT module.
+License      : BSD
+Descript     : Nginx XSLT module.
 ```
 
 </details>
@@ -559,11 +559,11 @@ URL          : https://nginx.org
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Nginx mail modules
+From repo     : fedora
+Short desc    : Nginx mail modules
 URL          : https://nginx.org
-Лицензия     : BSD
-Описание     : Nginx mail modules.
+License      : BSD
+Descript     : Nginx mail modules.
 ```
 
 </details>
@@ -573,11 +573,11 @@ URL          : https://nginx.org
 
 ```
 Эпоха        : 1
-Из репозитор : fedora
-Краткое опис : Nginx stream modules
+From repo     : fedora
+Short desc    : Nginx stream modules
 URL          : https://nginx.org
-Лицензия     : BSD
-Описание     : Nginx stream modules.
+License      : BSD
+Descript     : Nginx stream modules.
 ```
 
 </details>
@@ -586,11 +586,11 @@ URL          : https://nginx.org
 <summary>ngrep</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Network layer grep tool
+From repo     : fedora
+Short desc    : Network layer grep tool
 URL          : https://github.com/jpr5/ngrep
-Лицензия     : BSD with advertising
-Описание     : ngrep strives to provide most of GNU grep's common features, applying them
+License      : BSD with advertising
+Descript     : ngrep strives to provide most of GNU grep's common features, applying them
              : to the network layer. ngrep is a pcap-aware tool that will allow you to
              : specify extended regular or hexadecimal expressions to match against data
              : payloads of packets. It currently recognizes TCP, UDP, ICMP, IGMP and Raw
@@ -605,11 +605,11 @@ URL          : https://github.com/jpr5/ngrep
 <summary>nim-srpm-macros</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : RPM macros for building Nimble source packages
+From repo     : fedora
+Short desc    : RPM macros for building Nimble source packages
 URL          : https://pagure.io/nim2rpm
-Лицензия     : MIT
-Описание     : RPM macros for building Nimble source packages.
+License      : MIT
+Descript     : RPM macros for building Nimble source packages.
 ```
 
 </details>
@@ -618,11 +618,11 @@ URL          : https://pagure.io/nim2rpm
 <summary>ninja-build</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Small build system with a focus on speed
+From repo     : fedora
+Short desc    : Small build system with a focus on speed
 URL          : https://ninja-build.org/
-Лицензия     : ASL 2.0
-Описание     : Ninja is a small build system with a focus on speed. It differs from other
+License      : ASL 2.0
+Descript     : Ninja is a small build system with a focus on speed. It differs from other
              : build systems in two major respects: it is designed to have its input files
              : generated by a higher-level build system, and it is designed to run builds as
              : fast as possible.
@@ -634,11 +634,11 @@ URL          : https://ninja-build.org/
 <summary>nm-connection-editor</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A network connection configuration editor for NetworkManager
+From repo     : anaconda
+Short desc    : A network connection configuration editor for NetworkManager
 URL          : http://www.gnome.org/projects/NetworkManager/
-Лицензия     : GPLv2+
-Описание     : This package contains a network configuration editor and Bluetooth modem
+License      : GPLv2+
+Descript     : This package contains a network configuration editor and Bluetooth modem
              : utility for use with NetworkManager.
 ```
 
@@ -649,11 +649,11 @@ URL          : http://www.gnome.org/projects/NetworkManager/
 
 ```
 Эпоха        : 3
-Из репозитор : updates-testing
-Краткое опис : Network exploration tool and security scanner
+From repo     : updates-testing
+Short desc    : Network exploration tool and security scanner
 URL          : http://nmap.org/
-Лицензия     : Nmap
-Описание     : Nmap is a utility for network exploration or security auditing.  It supports
+License      : Nmap
+Descript     : Nmap is a utility for network exploration or security auditing.  It supports
              : ping scanning (determine which hosts are up), many port scanning techniques
              : (determine what services the hosts are offering), and TCP/IP fingerprinting
              : (remote host operating system identification). Nmap also offers flexible target
@@ -672,11 +672,11 @@ URL          : http://nmap.org/
 
 ```
 Эпоха        : 3
-Из репозитор : updates-testing
-Краткое опис : Nmap's Netcat replacement
+From repo     : updates-testing
+Short desc    : Nmap's Netcat replacement
 URL          : http://nmap.org/
-Лицензия     : Nmap
-Описание     : Ncat is a feature packed networking utility which will read and
+License      : Nmap
+Descript     : Ncat is a feature packed networking utility which will read and
              : write data across a network from the command line.  It uses both
              : TCP and UDP for communication and is designed to be a reliable
              : back-end tool to instantly provide network connectivity to other
@@ -692,11 +692,11 @@ URL          : http://nmap.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : JavaScript runtime
+From repo     : updates-testing
+Short desc    : JavaScript runtime
 URL          : http://nodejs.org/
-Лицензия     : MIT and ASL 2.0 and ISC and BSD
-Описание     : Node.js is a platform built on Chrome's JavaScript runtime
+License      : MIT and ASL 2.0 and ISC and BSD
+Descript     : Node.js is a platform built on Chrome's JavaScript runtime
              : for easily building fast, scalable network applications.
              : Node.js uses an event-driven, non-blocking I/O model that
              : makes it lightweight and efficient, perfect for data-intensive
@@ -710,11 +710,11 @@ URL          : http://nodejs.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Node.js API documentation
+From repo     : updates-testing
+Short desc    : Node.js API documentation
 URL          : http://nodejs.org/
-Лицензия     : MIT and ASL 2.0 and ISC and BSD
-Описание     : The API documentation for the Node.js JavaScript runtime.
+License      : MIT and ASL 2.0 and ISC and BSD
+Descript     : The API documentation for the Node.js JavaScript runtime.
 ```
 
 </details>
@@ -724,11 +724,11 @@ URL          : http://nodejs.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Non-English locale data for Node.js
+From repo     : updates-testing
+Short desc    : Non-English locale data for Node.js
 URL          : http://nodejs.org/
-Лицензия     : MIT and ASL 2.0 and ISC and BSD
-Описание     : Optional data files to provide full-icu support for Node.js. Remove this
+License      : MIT and ASL 2.0 and ISC and BSD
+Descript     : Optional data files to provide full-icu support for Node.js. Remove this
              : package to save space if non-English locales are not needed.
 ```
 
@@ -739,11 +739,11 @@ URL          : http://nodejs.org/
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Node.js and v8 libraries
+From repo     : updates-testing
+Short desc    : Node.js and v8 libraries
 URL          : http://nodejs.org/
-Лицензия     : MIT and ASL 2.0 and ISC and BSD
-Описание     : Libraries to support Node.js and provide stable v8 interfaces.
+License      : MIT and ASL 2.0 and ISC and BSD
+Descript     : Libraries to support Node.js and provide stable v8 interfaces.
 ```
 
 </details>
@@ -752,11 +752,11 @@ URL          : http://nodejs.org/
 <summary>nodejs-packaging</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : RPM Macros and Utilities for Node.js Packaging
+From repo     : fedora
+Short desc    : RPM Macros and Utilities for Node.js Packaging
 URL          : https://fedoraproject.org/wiki/Node.js/Packagers
-Лицензия     : MIT
-Описание     : This package contains RPM macros and other utilities useful for packaging
+License      : MIT
+Descript     : This package contains RPM macros and other utilities useful for packaging
              : Node.js modules and applications in RPM-based distributions.
 ```
 
@@ -766,11 +766,11 @@ URL          : https://fedoraproject.org/wiki/Node.js/Packagers
 <summary>nomarch</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Free de-archiver for old ARC and ARK archives
+From repo     : fedora
+Short desc    : Free de-archiver for old ARC and ARK archives
 URL          : https://www.svgalib.org/rus/nomarch.html
-Лицензия     : GPLv2+
-Описание     : nomarch is a free de-archiving only replacement for the non-free arc archiver
+License      : GPLv2+
+Descript     : nomarch is a free de-archiving only replacement for the non-free arc archiver
              : from SEA. It can list, extract and test *.arc and *.ark archives. This is a
              : very outdated archive format, which should never be used for anything new, but
              : quite common for old CP/M or MS-DOS stuff.
@@ -783,11 +783,11 @@ URL          : https://www.svgalib.org/rus/nomarch.html
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Node.js Package Manager
+From repo     : updates-testing
+Short desc    : Node.js Package Manager
 URL          : http://nodejs.org/
-Лицензия     : MIT and ASL 2.0 and ISC and BSD
-Описание     : npm is a package manager for node.js. You can use it to install and publish
+License      : MIT and ASL 2.0 and ISC and BSD
+Descript     : npm is a package manager for node.js. You can use it to install and publish
              : your node programs. It manages dependencies and does other cool stuff.
 ```
 
@@ -797,11 +797,11 @@ URL          : http://nodejs.org/
 <summary>npth</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The New GNU Portable Threads library
+From repo     : anaconda
+Short desc    : The New GNU Portable Threads library
 URL          : https://git.gnupg.org/cgi-bin/gitweb.cgi?p=npth.git
-Лицензия     : LGPLv2+
-Описание     : nPth is a non-preemptive threads implementation using an API very similar
+License      : LGPLv2+
+Descript     : nPth is a non-preemptive threads implementation using an API very similar
              : to the one known from GNU Pth. It has been designed as a replacement of
              : GNU Pth for non-ancient operating systems. In contrast to GNU Pth is is
              : based on the system's standard threads implementation. Thus nPth allows
@@ -814,11 +814,11 @@ URL          : https://git.gnupg.org/cgi-bin/gitweb.cgi?p=npth.git
 <summary>nspr</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Netscape Portable Runtime
+From repo     : anaconda
+Short desc    : Netscape Portable Runtime
 URL          : http://www.mozilla.org/projects/nspr/
-Лицензия     : MPLv2.0
-Описание     : NSPR provides platform independence for non-GUI operating system
+License      : MPLv2.0
+Descript     : NSPR provides platform independence for non-GUI operating system
              : facilities. These facilities include threads, thread synchronization,
              : normal file and network I/O, interval timing and calendar time, basic
              : memory management (malloc and free) and shared library linking.
@@ -830,11 +830,11 @@ URL          : http://www.mozilla.org/projects/nspr/
 <summary>nspr</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Netscape Portable Runtime
+From repo     : updates-testing
+Short desc    : Netscape Portable Runtime
 URL          : http://www.mozilla.org/projects/nspr/
-Лицензия     : MPLv2.0
-Описание     : NSPR provides platform independence for non-GUI operating system
+License      : MPLv2.0
+Descript     : NSPR provides platform independence for non-GUI operating system
              : facilities. These facilities include threads, thread synchronization,
              : normal file and network I/O, interval timing and calendar time, basic
              : memory management (malloc and free) and shared library linking.
@@ -846,11 +846,11 @@ URL          : http://www.mozilla.org/projects/nspr/
 <summary>nss</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Network Security Services
+From repo     : anaconda
+Short desc    : Network Security Services
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : Network Security Services (NSS) is a set of libraries designed to
+License      : MPLv2.0
+Descript     : Network Security Services (NSS) is a set of libraries designed to
              : support cross-platform development of security-enabled client and
              : server applications. Applications built with NSS can support SSL v2
              : and v3, TLS, PKCS #5, PKCS #7, PKCS #11, PKCS #12, S/MIME, X.509
@@ -863,11 +863,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 <summary>nss</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Network Security Services
+From repo     : updates-testing
+Short desc    : Network Security Services
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : Network Security Services (NSS) is a set of libraries designed to
+License      : MPLv2.0
+Descript     : Network Security Services (NSS) is a set of libraries designed to
              : support cross-platform development of security-enabled client and
              : server applications. Applications built with NSS can support SSL v2
              : and v3, TLS, PKCS #5, PKCS #7, PKCS #11, PKCS #12, S/MIME, X.509
@@ -880,11 +880,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 <summary>nss-mdns</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : glibc plugin for .local name resolution
+From repo     : anaconda
+Short desc    : glibc plugin for .local name resolution
 URL          : https://github.com/lathiat/nss-mdns
-Лицензия     : LGPLv2+
-Описание     : nss-mdns is a plugin for the GNU Name Service Switch (NSS) functionality of
+License      : LGPLv2+
+Descript     : nss-mdns is a plugin for the GNU Name Service Switch (NSS) functionality of
              : the GNU C Library (glibc) providing host name resolution via Multicast DNS
              : (aka Zeroconf, aka Apple Rendezvous, aka Apple Bonjour), effectively allowing
              : name resolution by common Unix/Linux programs in the ad-hoc mDNS domain .local.
@@ -900,11 +900,11 @@ URL          : https://github.com/lathiat/nss-mdns
 <summary>nss-mdns</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : glibc plugin for .local name resolution
+From repo     : updates-testing
+Short desc    : glibc plugin for .local name resolution
 URL          : https://github.com/lathiat/nss-mdns
-Лицензия     : LGPLv2+
-Описание     : nss-mdns is a plugin for the GNU Name Service Switch (NSS) functionality of
+License      : LGPLv2+
+Descript     : nss-mdns is a plugin for the GNU Name Service Switch (NSS) functionality of
              : the GNU C Library (glibc) providing host name resolution via Multicast DNS
              : (aka Zeroconf, aka Apple Rendezvous, aka Apple Bonjour), effectively allowing
              : name resolution by common Unix/Linux programs in the ad-hoc mDNS domain .local.
@@ -920,11 +920,11 @@ URL          : https://github.com/lathiat/nss-mdns
 <summary>nss-softokn</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Network Security Services Softoken Module
+From repo     : anaconda
+Short desc    : Network Security Services Softoken Module
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : Network Security Services Softoken Cryptographic Module
+License      : MPLv2.0
+Descript     : Network Security Services Softoken Cryptographic Module
 ```
 
 </details>
@@ -933,11 +933,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 <summary>nss-softokn</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Network Security Services Softoken Module
+From repo     : updates-testing
+Short desc    : Network Security Services Softoken Module
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : Network Security Services Softoken Cryptographic Module
+License      : MPLv2.0
+Descript     : Network Security Services Softoken Cryptographic Module
 ```
 
 </details>
@@ -946,11 +946,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 <summary>nss-softokn-freebl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Freebl library for the Network Security Services
+From repo     : anaconda
+Short desc    : Freebl library for the Network Security Services
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : NSS Softoken Cryptographic Module Freebl Library
+License      : MPLv2.0
+Descript     : NSS Softoken Cryptographic Module Freebl Library
              : 
              : Install the nss-softokn-freebl package if you need the freebl library.
 ```
@@ -961,11 +961,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 <summary>nss-softokn-freebl</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Freebl library for the Network Security Services
+From repo     : updates-testing
+Short desc    : Freebl library for the Network Security Services
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : NSS Softoken Cryptographic Module Freebl Library
+License      : MPLv2.0
+Descript     : NSS Softoken Cryptographic Module Freebl Library
              : 
              : Install the nss-softokn-freebl package if you need the freebl library.
 ```
@@ -976,11 +976,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 <summary>nss-sysinit</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : System NSS Initialization
+From repo     : anaconda
+Short desc    : System NSS Initialization
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : Default Operating System module that manages applications loading
+License      : MPLv2.0
+Descript     : Default Operating System module that manages applications loading
              : NSS globally on the system. This module loads the system defined
              : PKCS #11 modules for NSS and chains with other NSS modules to load
              : any system or user configured modules.
@@ -992,11 +992,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 <summary>nss-sysinit</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : System NSS Initialization
+From repo     : updates-testing
+Short desc    : System NSS Initialization
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : Default Operating System module that manages applications loading
+License      : MPLv2.0
+Descript     : Default Operating System module that manages applications loading
              : NSS globally on the system. This module loads the system defined
              : PKCS #11 modules for NSS and chains with other NSS modules to load
              : any system or user configured modules.
@@ -1008,11 +1008,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 <summary>nss-util</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Network Security Services Utilities Library
+From repo     : anaconda
+Short desc    : Network Security Services Utilities Library
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : Utilities for Network Security Services and the Softoken module
+License      : MPLv2.0
+Descript     : Utilities for Network Security Services and the Softoken module
 ```
 
 </details>
@@ -1021,11 +1021,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 <summary>nss-util</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Network Security Services Utilities Library
+From repo     : updates-testing
+Short desc    : Network Security Services Utilities Library
 URL          : http://www.mozilla.org/projects/security/pki/nss/
-Лицензия     : MPLv2.0
-Описание     : Utilities for Network Security Services and the Softoken module
+License      : MPLv2.0
+Descript     : Utilities for Network Security Services and the Softoken module
 ```
 
 </details>
@@ -1035,11 +1035,11 @@ URL          : http://www.mozilla.org/projects/security/pki/nss/
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : Linux NTFS userspace driver
+From repo     : anaconda
+Short desc    : Linux NTFS userspace driver
 URL          : http://www.ntfs-3g.org/
-Лицензия     : GPLv2+
-Описание     : NTFS-3G is a stable, open source, GPL licensed, POSIX, read/write NTFS
+License      : GPLv2+
+Descript     : NTFS-3G is a stable, open source, GPL licensed, POSIX, read/write NTFS
              : driver for Linux and many other operating systems. It provides safe
              : handling of the Windows XP, Windows Server 2003, Windows 2000, Windows
              : Vista, Windows Server 2008 and Windows 7 NTFS file systems. NTFS-3G can
@@ -1056,11 +1056,11 @@ URL          : http://www.ntfs-3g.org/
 <summary>ntfs-3g-system-compression</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : NTFS-3G plugin for reading "system compressed" files
+From repo     : anaconda
+Short desc    : NTFS-3G plugin for reading "system compressed" files
 URL          : https://github.com/ebiggers/ntfs-3g-system-compression
-Лицензия     : GPLv2+
-Описание     : System compression, also known as "Compact OS", is a Windows feature that
+License      : GPLv2+
+Descript     : System compression, also known as "Compact OS", is a Windows feature that
              : allows rarely modified files to be compressed using the XPRESS or LZX
              : compression formats. It is not built directly into NTFS but rather is
              : implemented using reparse points. This feature appeared in Windows 10 and it
@@ -1078,11 +1078,11 @@ URL          : https://github.com/ebiggers/ntfs-3g-system-compression
 <summary>ntfs2btrfs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Conversion tool from NTFS to Btrfs
+From repo     : updates-testing
+Short desc    : Conversion tool from NTFS to Btrfs
 URL          : https://github.com/maharmstone/ntfs2btrfs
-Лицензия     : GPLv2+
-Описание     : ntfs2btrfs is a tool which does in-place conversion of Microsoft's NTFS
+License      : GPLv2+
+Descript     : ntfs2btrfs is a tool which does in-place conversion of Microsoft's NTFS
              : filesystem to the open-source filesystem Btrfs, much as btrfs-convert
              : does for ext2.
              : 
@@ -1098,11 +1098,11 @@ URL          : https://github.com/maharmstone/ntfs2btrfs
 
 ```
 Эпоха        : 2
-Из репозитор : anaconda
-Краткое опис : NTFS filesystem libraries and utilities
+From repo     : anaconda
+Short desc    : NTFS filesystem libraries and utilities
 URL          : http://www.ntfs-3g.org/
-Лицензия     : GPLv2+
-Описание     : The ntfsprogs package currently consists of a library and utilities such as
+License      : GPLv2+
+Descript     : The ntfsprogs package currently consists of a library and utilities such as
              : mkntfs, ntfscat, ntfsls, ntfsresize, and ntfsundelete (for a full list of
              : included utilities see man 8 ntfsprogs after installation).
 ```
@@ -1113,11 +1113,11 @@ URL          : http://www.ntfs-3g.org/
 <summary>numactl-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : libnuma libraries
+From repo     : anaconda
+Short desc    : libnuma libraries
 URL          : https://github.com/numactl/numactl
-Лицензия     : LGPLv2 and GPLv2
-Описание     : numactl-libs provides libnuma, a library to do allocations with
+License      : LGPLv2 and GPLv2
+Descript     : numactl-libs provides libnuma, a library to do allocations with
              : NUMA policy in applications.
 ```
 
@@ -1127,11 +1127,11 @@ URL          : https://github.com/numactl/numactl
 <summary>numad</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : NUMA user daemon
+From repo     : anaconda
+Short desc    : NUMA user daemon
 URL          : https://pagure.io/numad
-Лицензия     : LGPLv2
-Описание     : Numad, a daemon for NUMA (Non-Uniform Memory Architecture) systems,
+License      : LGPLv2
+Descript     : Numad, a daemon for NUMA (Non-Uniform Memory Architecture) systems,
              : that monitors NUMA characteristics and manages placement of processes
              : and memory to minimize memory latency and thus provide optimum performance.
 ```
@@ -1142,11 +1142,11 @@ URL          : https://pagure.io/numad
 <summary>nvme-cli</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : NVMe management command line interface
+From repo     : fedora
+Short desc    : NVMe management command line interface
 URL          : https://github.com/linux-nvme/nvme-cli
-Лицензия     : GPLv2+
-Описание     : nvme-cli provides NVM-Express user space tooling for Linux.
+License      : GPLv2+
+Descript     : nvme-cli provides NVM-Express user space tooling for Linux.
 ```
 
 </details>
@@ -1155,11 +1155,11 @@ URL          : https://github.com/linux-nvme/nvme-cli
 <summary>nvmetcli</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : An adminstration shell for NVMe storage targets
+From repo     : fedora
+Short desc    : An adminstration shell for NVMe storage targets
 URL          : ftp://ftp.infradead.org/pub/nvmetcli/
-Лицензия     : ASL 2.0
-Описание     : This package contains the command line interface to the NVMe over Fabrics
+License      : ASL 2.0
+Descript     : This package contains the command line interface to the NVMe over Fabrics
              : nvmet in the Linux kernel.  It allows configuring the nvmet interactively
              : as well as saving / restoring the configuration to / from a json file.
 ```
@@ -1170,11 +1170,11 @@ URL          : ftp://ftp.infradead.org/pub/nvmetcli/
 <summary>nx-libs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : NX X11 protocol compression libraries
+From repo     : fedora
+Short desc    : NX X11 protocol compression libraries
 URL          : https://github.com/ArcticaProject/nx-libs
-Лицензия     : GPLv2+
-Описание     : NX is a software suite which implements very efficient compression of
+License      : GPLv2+
+Descript     : NX is a software suite which implements very efficient compression of
              : the X11 protocol. This increases performance when using X
              : applications over a network, especially a slow one.
 ```
@@ -1185,11 +1185,11 @@ URL          : https://github.com/ArcticaProject/nx-libs
 <summary>nxproxy</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : NX Proxy
+From repo     : fedora
+Short desc    : NX Proxy
 URL          : https://github.com/ArcticaProject/nx-libs
-Лицензия     : GPLv2+
-Описание     : This package provides the NX proxy (client) binary.
+License      : GPLv2+
+Descript     : This package provides the NX proxy (client) binary.
 ```
 
 </details>

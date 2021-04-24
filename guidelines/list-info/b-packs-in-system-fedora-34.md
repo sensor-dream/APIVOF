@@ -1,14 +1,14 @@
-# For letter b, information about installed packages
+# For first letter b, information about installation packages
 
 <details>
 <summary>b43-fwcutter</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Firmware extraction tool for Broadcom wireless driver
+From repo     : anaconda
+Short desc    : Firmware extraction tool for Broadcom wireless driver
 URL          : http://bues.ch/b43/fwcutter/
-Лицензия     : BSD
-Описание     : This package contains the 'b43-fwcutter' tool which is used to
+License      : BSD
+Descript     : This package contains the 'b43-fwcutter' tool which is used to
              : extract firmware for the Broadcom network devices.
              : 
              : See the README.too file shipped in the package's documentation for
@@ -21,11 +21,11 @@ URL          : http://bues.ch/b43/fwcutter/
 <summary>b43-openfwwf</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Open firmware for some Broadcom 43xx series WLAN chips
+From repo     : anaconda
+Short desc    : Open firmware for some Broadcom 43xx series WLAN chips
 URL          : http://www.ing.unibs.it/openfwwf/
-Лицензия     : GPLv2
-Описание     : Open firmware for some Broadcom 43xx series WLAN chips.
+License      : GPLv2
+Descript     : Open firmware for some Broadcom 43xx series WLAN chips.
              : Currently supported models are 4306, 4311(rev1), 4318 and 4320.
 ```
 
@@ -35,11 +35,11 @@ URL          : http://www.ing.unibs.it/openfwwf/
 <summary>babl</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A dynamic, any to any, pixel format conversion library
+From repo     : anaconda
+Short desc    : A dynamic, any to any, pixel format conversion library
 URL          : http://www.gegl.org/babl/
-Лицензия     : LGPLv3+ and GPLv3+
-Описание     : Babl is a dynamic, any to any, pixel format conversion library. It
+License      : LGPLv3+ and GPLv3+
+Descript     : Babl is a dynamic, any to any, pixel format conversion library. It
              : provides conversions between the myriad of buffer types images can be
              : stored in. Babl doesn't only help with existing pixel formats, but also
              : facilitates creation of new and uncommon ones.
@@ -51,11 +51,11 @@ URL          : http://www.gegl.org/babl/
 <summary>babl</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A dynamic, any to any, pixel format conversion library
+From repo     : updates-testing
+Short desc    : A dynamic, any to any, pixel format conversion library
 URL          : http://www.gegl.org/babl/
-Лицензия     : LGPLv3+ and GPLv3+
-Описание     : Babl is a dynamic, any to any, pixel format conversion library. It
+License      : LGPLv3+ and GPLv3+
+Descript     : Babl is a dynamic, any to any, pixel format conversion library. It
              : provides conversions between the myriad of buffer types images can be
              : stored in. Babl doesn't only help with existing pixel formats, but also
              : facilitates creation of new and uncommon ones.
@@ -67,11 +67,11 @@ URL          : http://www.gegl.org/babl/
 <summary>babl-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Headers for developing programs that will use babl
+From repo     : updates-testing
+Short desc    : Headers for developing programs that will use babl
 URL          : http://www.gegl.org/babl/
-Лицензия     : LGPLv3+ and GPLv3+
-Описание     : This package contains the libraries and header files needed for
+License      : LGPLv3+ and GPLv3+
+Descript     : This package contains the libraries and header files needed for
              : developing with babl.
 ```
 
@@ -81,11 +81,11 @@ URL          : http://www.gegl.org/babl/
 <summary>baobab</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A graphical directory tree analyzer
+From repo     : updates-testing
+Short desc    : A graphical directory tree analyzer
 URL          : https://wiki.gnome.org/Apps/Baobab
-Лицензия     : GPLv2+ and GFDL
-Описание     : Baobab is able to scan either specific directories or the whole filesystem, in
+License      : GPLv2+ and GFDL
+Descript     : Baobab is able to scan either specific directories or the whole filesystem, in
              : order to give the user a graphical tree representation including each
              : directory size or percentage in the branch.  It also auto-detects in real-time
              : any change made to your home folder as far as any mounted/unmounted device.
@@ -97,11 +97,11 @@ URL          : https://wiki.gnome.org/Apps/Baobab
 <summary>baobab</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A graphical directory tree analyzer
+From repo     : anaconda
+Short desc    : A graphical directory tree analyzer
 URL          : https://wiki.gnome.org/Apps/Baobab
-Лицензия     : GPLv2+ and GFDL
-Описание     : Baobab is able to scan either specific directories or the whole filesystem, in
+License      : GPLv2+ and GFDL
+Descript     : Baobab is able to scan either specific directories or the whole filesystem, in
              : order to give the user a graphical tree representation including each
              : directory size or percentage in the branch.  It also auto-detects in real-time
              : any change made to your home folder as far as any mounted/unmounted device.
@@ -113,10 +113,10 @@ URL          : https://wiki.gnome.org/Apps/Baobab
 <summary>basesystem</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The skeleton package which defines a simple Fedora system
-Лицензия     : Public Domain
-Описание     : Basesystem defines the components of a basic Fedora system
+From repo     : anaconda
+Short desc    : The skeleton package which defines a simple Fedora system
+License      : Public Domain
+Descript     : Basesystem defines the components of a basic Fedora system
              : (for example, the package installation order to use during bootstrapping).
              : Basesystem should be in every installation of a system, and it
              : should never be removed.
@@ -128,11 +128,11 @@ URL          : https://wiki.gnome.org/Apps/Baobab
 <summary>bash</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The GNU Bourne Again shell
+From repo     : anaconda
+Short desc    : The GNU Bourne Again shell
 URL          : https://www.gnu.org/software/bash
-Лицензия     : GPLv3+
-Описание     : The GNU Bourne Again shell (Bash) is a shell or command language
+License      : GPLv3+
+Descript     : The GNU Bourne Again shell (Bash) is a shell or command language
              : interpreter that is compatible with the Bourne shell (sh). Bash
              : incorporates useful features from the Korn shell (ksh) and the C shell
              : (csh). Most sh scripts can be run by bash without modification.
@@ -145,11 +145,11 @@ URL          : https://www.gnu.org/software/bash
 
 ```
 Эпоха        : 1
-Из репозитор : anaconda
-Краткое опис : Programmable completion for Bash
+From repo     : anaconda
+Short desc    : Programmable completion for Bash
 URL          : https://github.com/scop/bash-completion
-Лицензия     : GPLv2+
-Описание     : bash-completion is a collection of shell functions that take advantage
+License      : GPLv2+
+Descript     : bash-completion is a collection of shell functions that take advantage
              : of the programmable completion feature of bash.
 ```
 
@@ -159,11 +159,11 @@ URL          : https://github.com/scop/bash-completion
 <summary>bc</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : GNU's bc (a numeric processing language) and dc (a calculator)
+From repo     : anaconda
+Short desc    : GNU's bc (a numeric processing language) and dc (a calculator)
 URL          : http://www.gnu.org/software/bc/
-Лицензия     : GPLv2+
-Описание     : The bc package includes bc and dc. Bc is an arbitrary precision
+License      : GPLv2+
+Descript     : The bc package includes bc and dc. Bc is an arbitrary precision
              : numeric processing arithmetic language. Dc is an interactive
              : arbitrary precision stack based calculator, which can be used as a
              : text mode calculator.
@@ -178,11 +178,11 @@ URL          : http://www.gnu.org/software/bc/
 <summary>bcache-tools</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Tools for Linux kernel block layer cache
+From repo     : anaconda
+Short desc    : Tools for Linux kernel block layer cache
 URL          : http://bcache.evilpiepirate.org/
-Лицензия     : GPLv2
-Описание     : Bcache is a Linux kernel block layer cache. It allows one or more fast disk
+License      : GPLv2
+Descript     : Bcache is a Linux kernel block layer cache. It allows one or more fast disk
              : drives such as flash-based solid state drives (SSDs) to act as a cache for
              : one or more slower hard disk drives.
              : This package contains the utilities for manipulating bcache.
@@ -194,11 +194,11 @@ URL          : http://bcache.evilpiepirate.org/
 <summary>bibata-cursor-themes</summary>
 
 ```
-Из репозитор : copr:copr.fedorainfracloud.org:peterwu:rendezvous
-Краткое опис : OpenSource, Compact and Material Designed Cursor Set
+From repo     : copr:copr.fedorainfracloud.org:peterwu:rendezvous
+Short desc    : OpenSource, Compact and Material Designed Cursor Set
 URL          : https://github.com/ful1e5/Bibata_Cursor
-Лицензия     : GNU General Public License v3.0
-Описание     : OpenSource, Compact and Material Designed Cursor Set
+License      : GNU General Public License v3.0
+Descript     : OpenSource, Compact and Material Designed Cursor Set
 ```
 
 </details>
@@ -207,11 +207,11 @@ URL          : https://github.com/ful1e5/Bibata_Cursor
 <summary>biber</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Command-line bibliographic manager, BibTeX replacement
+From repo     : fedora
+Short desc    : Command-line bibliographic manager, BibTeX replacement
 URL          : http://biblatex-biber.sourceforge.net/
-Лицензия     : (GPL+ or Artistic 2.0) and Artistic 2.0
-Описание     : Biber is a command-line tool for dealing with bibliographic databases.
+License      : (GPL+ or Artistic 2.0) and Artistic 2.0
+Descript     : Biber is a command-line tool for dealing with bibliographic databases.
              : Biber offers a large superset of legacy BibTeX (texlive-bibtex)
              : functionality.  It is often used with the popular BibLaTeX package
              : (texlive-biblatex), where it is required for some features.
@@ -224,11 +224,11 @@ URL          : http://biblatex-biber.sourceforge.net/
 
 ```
 Эпоха        : 32
-Из репозитор : anaconda
-Краткое опис : Libraries used by the BIND DNS packages
+From repo     : anaconda
+Short desc    : Libraries used by the BIND DNS packages
 URL          : https://www.isc.org/downloads/bind/
-Лицензия     : MPLv2.0
-Описание     : Contains heavyweight version of BIND suite libraries used by both named DNS
+License      : MPLv2.0
+Descript     : Contains heavyweight version of BIND suite libraries used by both named DNS
              : server and utilities in bind-utils package.
 ```
 
@@ -239,11 +239,11 @@ URL          : https://www.isc.org/downloads/bind/
 
 ```
 Эпоха        : 32
-Из репозитор : updates-testing
-Краткое опис : Libraries used by the BIND DNS packages
+From repo     : updates-testing
+Short desc    : Libraries used by the BIND DNS packages
 URL          : https://www.isc.org/downloads/bind/
-Лицензия     : MPLv2.0
-Описание     : Contains heavyweight version of BIND suite libraries used by both named DNS
+License      : MPLv2.0
+Descript     : Contains heavyweight version of BIND suite libraries used by both named DNS
              : server and utilities in bind-utils package.
 ```
 
@@ -254,11 +254,11 @@ URL          : https://www.isc.org/downloads/bind/
 
 ```
 Эпоха        : 32
-Из репозитор : anaconda
-Краткое опис : Libraries for working with the DNS protocol
+From repo     : anaconda
+Short desc    : Libraries for working with the DNS protocol
 URL          : https://www.isc.org/downloads/bind/
-Лицензия     : MPLv2.0
-Описание     : Contains lite version of BIND suite libraries which are used by various
+License      : MPLv2.0
+Descript     : Contains lite version of BIND suite libraries which are used by various
              : programs to work with DNS protocol.
 ```
 
@@ -269,11 +269,11 @@ URL          : https://www.isc.org/downloads/bind/
 
 ```
 Эпоха        : 32
-Из репозитор : updates-testing
-Краткое опис : Libraries for working with the DNS protocol
+From repo     : updates-testing
+Short desc    : Libraries for working with the DNS protocol
 URL          : https://www.isc.org/downloads/bind/
-Лицензия     : MPLv2.0
-Описание     : Contains lite version of BIND suite libraries which are used by various
+License      : MPLv2.0
+Descript     : Contains lite version of BIND suite libraries which are used by various
              : programs to work with DNS protocol.
 ```
 
@@ -284,11 +284,11 @@ URL          : https://www.isc.org/downloads/bind/
 
 ```
 Эпоха        : 32
-Из репозитор : anaconda
-Краткое опис : License of the BIND DNS suite
+From repo     : anaconda
+Short desc    : License of the BIND DNS suite
 URL          : https://www.isc.org/downloads/bind/
-Лицензия     : MPLv2.0
-Описание     : Contains license of the BIND DNS suite.
+License      : MPLv2.0
+Descript     : Contains license of the BIND DNS suite.
 ```
 
 </details>
@@ -298,11 +298,11 @@ URL          : https://www.isc.org/downloads/bind/
 
 ```
 Эпоха        : 32
-Из репозитор : updates-testing
-Краткое опис : License of the BIND DNS suite
+From repo     : updates-testing
+Short desc    : License of the BIND DNS suite
 URL          : https://www.isc.org/downloads/bind/
-Лицензия     : MPLv2.0
-Описание     : Contains license of the BIND DNS suite.
+License      : MPLv2.0
+Descript     : Contains license of the BIND DNS suite.
 ```
 
 </details>
@@ -312,11 +312,11 @@ URL          : https://www.isc.org/downloads/bind/
 
 ```
 Эпоха        : 32
-Из репозитор : anaconda
-Краткое опис : Utilities for querying DNS name servers
+From repo     : anaconda
+Short desc    : Utilities for querying DNS name servers
 URL          : https://www.isc.org/downloads/bind/
-Лицензия     : MPLv2.0
-Описание     : Bind-utils contains a collection of utilities for querying DNS (Domain
+License      : MPLv2.0
+Descript     : Bind-utils contains a collection of utilities for querying DNS (Domain
              : Name System) name servers to find out information about Internet
              : hosts. These tools will provide you with the IP addresses for given
              : host names, as well as other information about registered domains and
@@ -333,11 +333,11 @@ URL          : https://www.isc.org/downloads/bind/
 
 ```
 Эпоха        : 32
-Из репозитор : updates-testing
-Краткое опис : Utilities for querying DNS name servers
+From repo     : updates-testing
+Short desc    : Utilities for querying DNS name servers
 URL          : https://www.isc.org/downloads/bind/
-Лицензия     : MPLv2.0
-Описание     : Bind-utils contains a collection of utilities for querying DNS (Domain
+License      : MPLv2.0
+Descript     : Bind-utils contains a collection of utilities for querying DNS (Domain
              : Name System) name servers to find out information about Internet
              : hosts. These tools will provide you with the IP addresses for given
              : host names, as well as other information about registered domains and
@@ -353,11 +353,11 @@ URL          : https://www.isc.org/downloads/bind/
 <summary>binutils</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A GNU collection of binary utilities
+From repo     : anaconda
+Short desc    : A GNU collection of binary utilities
 URL          : https://sourceware.org/binutils
-Лицензия     : GPLv3+
-Описание     : Binutils is a collection of binary utilities, including ar (for
+License      : GPLv3+
+Descript     : Binutils is a collection of binary utilities, including ar (for
              : creating, modifying and extracting from archives), as (a family of GNU
              : assemblers), gprof (for displaying call graph profile data), ld (the
              : GNU linker), nm (for listing symbols from object files), objcopy (for
@@ -376,11 +376,11 @@ URL          : https://sourceware.org/binutils
 <summary>binutils</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : A GNU collection of binary utilities
+From repo     : updates-testing
+Short desc    : A GNU collection of binary utilities
 URL          : https://sourceware.org/binutils
-Лицензия     : GPLv3+
-Описание     : Binutils is a collection of binary utilities, including ar (for
+License      : GPLv3+
+Descript     : Binutils is a collection of binary utilities, including ar (for
              : creating, modifying and extracting from archives), as (a family of GNU
              : assemblers), gprof (for displaying call graph profile data), ld (the
              : GNU linker), nm (for listing symbols from object files), objcopy (for
@@ -399,11 +399,11 @@ URL          : https://sourceware.org/binutils
 <summary>binutils-gold</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : The GOLD linker, a faster alternative to the BFD linker
+From repo     : anaconda
+Short desc    : The GOLD linker, a faster alternative to the BFD linker
 URL          : https://sourceware.org/binutils
-Лицензия     : GPLv3+
-Описание     : This package provides the GOLD linker, which can be used as an alternative to
+License      : GPLv3+
+Descript     : This package provides the GOLD linker, which can be used as an alternative to
              : the default binutils linker (ld.bfd).  The GOLD is generally faster than the
              : BFD linker, and it supports features such as Identical Code Folding and
              : Incremental linking.  Unfortunately it is not as well maintained as the BFD
@@ -425,11 +425,11 @@ URL          : https://sourceware.org/binutils
 <summary>binutils-gold</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The GOLD linker, a faster alternative to the BFD linker
+From repo     : updates-testing
+Short desc    : The GOLD linker, a faster alternative to the BFD linker
 URL          : https://sourceware.org/binutils
-Лицензия     : GPLv3+
-Описание     : This package provides the GOLD linker, which can be used as an alternative to
+License      : GPLv3+
+Descript     : This package provides the GOLD linker, which can be used as an alternative to
              : the default binutils linker (ld.bfd).  The GOLD is generally faster than the
              : BFD linker, and it supports features such as Identical Code Folding and
              : Incremental linking.  Unfortunately it is not as well maintained as the BFD
@@ -452,11 +452,11 @@ URL          : https://sourceware.org/binutils
 
 ```
 Эпоха        : 1
-Из репозитор : updates-testing
-Краткое опис : Data for the blivet python module.
+From repo     : updates-testing
+Short desc    : Data for the blivet python module.
 URL          : https://storageapis.wordpress.com/projects/blivet
-Лицензия     : LGPLv2+
-Описание     : The blivet-data package provides data files required by the blivet
+License      : LGPLv2+
+Descript     : The blivet-data package provides data files required by the blivet
              : python module.
 ```
 
@@ -466,11 +466,11 @@ URL          : https://storageapis.wordpress.com/projects/blivet
 <summary>blivet-gui</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Tool for data storage configuration
+From repo     : fedora
+Short desc    : Tool for data storage configuration
 URL          : http://github.com/storaged-project/blivet-gui
-Лицензия     : GPLv2+
-Описание     : Graphical (GTK) tool for manipulation and configuration of data storage
+License      : GPLv2+
+Descript     : Graphical (GTK) tool for manipulation and configuration of data storage
              : (disks, LVMs, RAIDs) based on blivet library.
 ```
 
@@ -480,11 +480,11 @@ URL          : http://github.com/storaged-project/blivet-gui
 <summary>blivet-gui-runtime</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : blivet-gui runtime
+From repo     : anaconda
+Short desc    : blivet-gui runtime
 URL          : http://github.com/storaged-project/blivet-gui
-Лицензия     : GPLv2+
-Описание     : This package provides a blivet-gui runtime for applications that want to use
+License      : GPLv2+
+Descript     : This package provides a blivet-gui runtime for applications that want to use
              : blivet-gui without actually installing the application itself.
 ```
 
@@ -494,11 +494,11 @@ URL          : http://github.com/storaged-project/blivet-gui
 <summary>blosc</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : High performance compressor optimized for binary data
+From repo     : fedora
+Short desc    : High performance compressor optimized for binary data
 URL          : https://github.com/Blosc/c-blosc
-Лицензия     : MIT
-Описание     : Blosc is a compression library designed to transmit data to the processor
+License      : MIT
+Descript     : Blosc is a compression library designed to transmit data to the processor
              : cache faster than the traditional non-compressed memory fetch.
              : Compression ratios are not very high, but the decompression is very fast.
              : Blosc is meant not only to reduce the size of large datasets on-disk or
@@ -511,11 +511,11 @@ URL          : https://github.com/Blosc/c-blosc
 <summary>blt</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Widget extension to the Tcl/Tk scripting language
+From repo     : fedora
+Short desc    : Widget extension to the Tcl/Tk scripting language
 URL          : http://sourceforge.net/projects/blt/
-Лицензия     : MIT
-Описание     : BLT is a very powerful extension to Tk. It adds plotting widgets
+License      : MIT
+Descript     : BLT is a very powerful extension to Tk. It adds plotting widgets
              : (graph, barchart and stripchart), hierarchy tree and table, tab
              : notebook, table geometry manager, vector, background program
              : execution, busy utility, eps canvas item, drag and drop facility,
@@ -530,11 +530,11 @@ URL          : http://sourceforge.net/projects/blt/
 <summary>bluez</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Bluetooth utilities
+From repo     : anaconda
+Short desc    : Bluetooth utilities
 URL          : http://www.bluez.org/
-Лицензия     : GPLv2+
-Описание     : Utilities for use in Bluetooth applications:
+License      : GPLv2+
+Descript     : Utilities for use in Bluetooth applications:
              :         - avinfo
              :         - bccmd
              :         - bluemoon
@@ -557,11 +557,11 @@ URL          : http://www.bluez.org/
 <summary>bluez</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Bluetooth utilities
+From repo     : updates-testing
+Short desc    : Bluetooth utilities
 URL          : http://www.bluez.org/
-Лицензия     : GPLv2+
-Описание     : Utilities for use in Bluetooth applications:
+License      : GPLv2+
+Descript     : Utilities for use in Bluetooth applications:
              :         - avinfo
              :         - bluemoon
              :         - bluetoothctl
@@ -583,11 +583,11 @@ URL          : http://www.bluez.org/
 <summary>bluez-cups</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : CUPS printer backend for Bluetooth printers
+From repo     : updates-testing
+Short desc    : CUPS printer backend for Bluetooth printers
 URL          : http://www.bluez.org/
-Лицензия     : GPLv2+
-Описание     : This package contains the CUPS backend
+License      : GPLv2+
+Descript     : This package contains the CUPS backend
 ```
 
 </details>
@@ -596,11 +596,11 @@ URL          : http://www.bluez.org/
 <summary>bluez-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for use in Bluetooth applications
+From repo     : anaconda
+Short desc    : Libraries for use in Bluetooth applications
 URL          : http://www.bluez.org/
-Лицензия     : GPLv2+
-Описание     : Libraries for use in Bluetooth applications.
+License      : GPLv2+
+Descript     : Libraries for use in Bluetooth applications.
 ```
 
 </details>
@@ -609,11 +609,11 @@ URL          : http://www.bluez.org/
 <summary>bluez-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Libraries for use in Bluetooth applications
+From repo     : updates-testing
+Short desc    : Libraries for use in Bluetooth applications
 URL          : http://www.bluez.org/
-Лицензия     : GPLv2+
-Описание     : Libraries for use in Bluetooth applications.
+License      : GPLv2+
+Descript     : Libraries for use in Bluetooth applications.
 ```
 
 </details>
@@ -622,11 +622,11 @@ URL          : http://www.bluez.org/
 <summary>bluez-obexd</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Object Exchange daemon for sharing content
+From repo     : anaconda
+Short desc    : Object Exchange daemon for sharing content
 URL          : http://www.bluez.org/
-Лицензия     : GPLv2+
-Описание     : Object Exchange daemon for sharing files, contacts etc over bluetooth
+License      : GPLv2+
+Descript     : Object Exchange daemon for sharing files, contacts etc over bluetooth
 ```
 
 </details>
@@ -635,11 +635,11 @@ URL          : http://www.bluez.org/
 <summary>bluez-obexd</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Object Exchange daemon for sharing content
+From repo     : updates-testing
+Short desc    : Object Exchange daemon for sharing content
 URL          : http://www.bluez.org/
-Лицензия     : GPLv2+
-Описание     : Object Exchange daemon for sharing files, contacts etc over bluetooth
+License      : GPLv2+
+Descript     : Object Exchange daemon for sharing files, contacts etc over bluetooth
 ```
 
 </details>
@@ -648,11 +648,11 @@ URL          : http://www.bluez.org/
 <summary>bodhi-client</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Bodhi Client
+From repo     : fedora
+Short desc    : Bodhi Client
 URL          : https://github.com/fedora-infra/bodhi
-Лицензия     : GPLv2+
-Описание     : Client tools for interacting with bodhi.
+License      : GPLv2+
+Descript     : Client tools for interacting with bodhi.
 ```
 
 </details>
@@ -661,11 +661,11 @@ URL          : https://github.com/fedora-infra/bodhi
 <summary>bolt</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Thunderbolt device manager
+From repo     : anaconda
+Short desc    : Thunderbolt device manager
 URL          : https://gitlab.freedesktop.org/bolt/bolt
-Лицензия     : LGPLv2+
-Описание     : bolt is a system daemon to manage Thunderbolt devices via a D-BUS
+License      : LGPLv2+
+Descript     : bolt is a system daemon to manage Thunderbolt devices via a D-BUS
              : API. Thunderbolt 3 introduced different security modes that require
              : devices to be authorized before they can be used. The D-Bus API can be
              : used to list devices, enroll them (authorize and store them in the
@@ -683,11 +683,11 @@ URL          : https://gitlab.freedesktop.org/bolt/bolt
 <summary>boost</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The free peer-reviewed portable C++ source libraries
+From repo     : updates-testing
+Short desc    : The free peer-reviewed portable C++ source libraries
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : Boost provides free peer-reviewed portable C++ source libraries.  The
+License      : Boost and MIT and Python
+Descript     : Boost provides free peer-reviewed portable C++ source libraries.  The
              : emphasis is on libraries which work well with the C++ Standard
              : Library, in the hopes of establishing "existing practice" for
              : extensions and providing reference implementations so that the Boost
@@ -703,11 +703,11 @@ URL          : http://www.boost.org
 <summary>boost-atomic</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost atomic library
+From repo     : updates-testing
+Short desc    : Run-time component of boost atomic library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost.Atomic, a library that provides atomic data
              : types and operations on these data types, as well as memory ordering
              : constraints required for coordinating multiple threads through atomic
@@ -720,11 +720,11 @@ URL          : http://www.boost.org
 <summary>boost-chrono</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Run-time component of boost chrono library
+From repo     : anaconda
+Short desc    : Run-time component of boost chrono library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost.Chrono, a set of useful time utilities.
 ```
 
@@ -734,11 +734,11 @@ URL          : http://www.boost.org
 <summary>boost-chrono</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost chrono library
+From repo     : updates-testing
+Short desc    : Run-time component of boost chrono library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost.Chrono, a set of useful time utilities.
 ```
 
@@ -748,11 +748,11 @@ URL          : http://www.boost.org
 <summary>boost-container</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost container library
+From repo     : updates-testing
+Short desc    : Run-time component of boost container library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Boost.Container library implements several well-known containers,
              : including STL containers. The aim of the library is to offer advanced
              : features not present in standard containers or to offer the latest
@@ -765,11 +765,11 @@ URL          : http://www.boost.org
 <summary>boost-context</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost context switching library
+From repo     : updates-testing
+Short desc    : Run-time component of boost context switching library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost.Context, a foundational library that
              : provides a sort of cooperative multitasking on a single thread.
 ```
@@ -780,11 +780,11 @@ URL          : http://www.boost.org
 <summary>boost-contract</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost contract library
+From repo     : updates-testing
+Short desc    : Run-time component of boost contract library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for boost contract library.
              : Contract programming for C++. All contract programming features are supported:
              : Subcontracting, class invariants, postconditions (with old and return values),
@@ -799,11 +799,11 @@ URL          : http://www.boost.org
 <summary>boost-coroutine</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost coroutine library
+From repo     : updates-testing
+Short desc    : Run-time component of boost coroutine library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : Run-time support for Boost.Coroutine, a library that provides
+License      : Boost and MIT and Python
+Descript     : Run-time support for Boost.Coroutine, a library that provides
              : generalized subroutines which allow multiple entry points for
              : suspending and resuming execution.
 ```
@@ -814,11 +814,11 @@ URL          : http://www.boost.org
 <summary>boost-date-time</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Run-time component of boost date-time library
+From repo     : anaconda
+Short desc    : Run-time component of boost date-time library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost Date Time, a set of date-time libraries based
              : on generic programming concepts.
 ```
@@ -829,11 +829,11 @@ URL          : http://www.boost.org
 <summary>boost-date-time</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost date-time library
+From repo     : updates-testing
+Short desc    : Run-time component of boost date-time library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost Date Time, a set of date-time libraries based
              : on generic programming concepts.
 ```
@@ -844,11 +844,11 @@ URL          : http://www.boost.org
 <summary>boost-devel</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : The Boost C++ headers and shared development libraries
+From repo     : updates-testing
+Short desc    : The Boost C++ headers and shared development libraries
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : Headers and shared object symbolic links for the Boost C++ libraries.
+License      : Boost and MIT and Python
+Descript     : Headers and shared object symbolic links for the Boost C++ libraries.
 ```
 
 </details>
@@ -857,11 +857,11 @@ URL          : http://www.boost.org
 <summary>boost-fiber</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost fiber library
+From repo     : updates-testing
+Short desc    : Run-time component of boost fiber library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for the Boost Fiber library, a framework for
              : micro-/userland-threads (fibers) scheduled cooperatively.
 ```
@@ -872,11 +872,11 @@ URL          : http://www.boost.org
 <summary>boost-filesystem</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost filesystem library
+From repo     : updates-testing
+Short desc    : Run-time component of boost filesystem library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for the Boost Filesystem Library, which provides
              : portable facilities to query and manipulate paths, files, and
              : directories.
@@ -888,11 +888,11 @@ URL          : http://www.boost.org
 <summary>boost-graph</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost graph library
+From repo     : updates-testing
+Short desc    : Run-time component of boost graph library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for the BGL graph library.  BGL interface and graph
              : components are generic, in the same sense as the Standard Template
              : Library (STL).
@@ -904,11 +904,11 @@ URL          : http://www.boost.org
 <summary>boost-iostreams</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Run-time component of boost iostreams library
+From repo     : anaconda
+Short desc    : Run-time component of boost iostreams library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost.Iostreams, a framework for defining streams,
              : stream buffers and i/o filters.
 ```
@@ -919,11 +919,11 @@ URL          : http://www.boost.org
 <summary>boost-iostreams</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost iostreams library
+From repo     : updates-testing
+Short desc    : Run-time component of boost iostreams library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost.Iostreams, a framework for defining streams,
              : stream buffers and i/o filters.
 ```
@@ -934,11 +934,11 @@ URL          : http://www.boost.org
 <summary>boost-locale</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Run-time component of boost locale library
+From repo     : anaconda
+Short desc    : Run-time component of boost locale library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost.Locale, a set of localization and Unicode
              : handling tools.
 ```
@@ -949,11 +949,11 @@ URL          : http://www.boost.org
 <summary>boost-locale</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost locale library
+From repo     : updates-testing
+Short desc    : Run-time component of boost locale library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost.Locale, a set of localization and Unicode
              : handling tools.
 ```
@@ -964,11 +964,11 @@ URL          : http://www.boost.org
 <summary>boost-log</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost logging library
+From repo     : updates-testing
+Short desc    : Run-time component of boost logging library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Boost.Log library aims to make logging significantly easier for the
              : application developer.  It provides a wide range of out-of-the-box
              : tools along with public interfaces for extending the library.
@@ -980,11 +980,11 @@ URL          : http://www.boost.org
 <summary>boost-math</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Math functions for boost TR1 library
+From repo     : updates-testing
+Short desc    : Math functions for boost TR1 library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for C99 and C++ TR1 C-style Functions from the math
              : portion of Boost.TR1.
 ```
@@ -995,11 +995,11 @@ URL          : http://www.boost.org
 <summary>boost-nowide</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Standard library functions with UTF-8 API on Windows
+From repo     : updates-testing
+Short desc    : Standard library functions with UTF-8 API on Windows
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for Boost.Nowide.
 ```
 
@@ -1009,11 +1009,11 @@ URL          : http://www.boost.org
 <summary>boost-numpy3</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost numpy library for Python 3
+From repo     : updates-testing
+Short desc    : Run-time component of boost numpy library for Python 3
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : The Boost Python Library is a framework for interfacing Python and
              : C++. It allows you to quickly and seamlessly expose C++ classes,
              : functions and objects to Python, and vice versa, using no special
@@ -1027,11 +1027,11 @@ URL          : http://www.boost.org
 <summary>boost-program-options</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost program_options library
+From repo     : updates-testing
+Short desc    : Run-time component of boost program_options library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support of boost program options library, which allows program
              : developers to obtain (name, value) pairs from the user, via
              : conventional methods such as command-line and configuration file.
@@ -1043,11 +1043,11 @@ URL          : http://www.boost.org
 <summary>boost-python3</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost python library for Python 3
+From repo     : updates-testing
+Short desc    : Run-time component of boost python library for Python 3
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : The Boost Python Library is a framework for interfacing Python and
              : C++. It allows you to quickly and seamlessly expose C++ classes,
              : functions and objects to Python, and vice versa, using no special
@@ -1061,11 +1061,11 @@ URL          : http://www.boost.org
 <summary>boost-random</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost random library
+From repo     : updates-testing
+Short desc    : Run-time component of boost random library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for boost random library.
 ```
 
@@ -1075,11 +1075,11 @@ URL          : http://www.boost.org
 <summary>boost-regex</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Run-time component of boost regular expression library
+From repo     : anaconda
+Short desc    : Run-time component of boost regular expression library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for boost regular expression library.
 ```
 
@@ -1089,11 +1089,11 @@ URL          : http://www.boost.org
 <summary>boost-regex</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost regular expression library
+From repo     : updates-testing
+Short desc    : Run-time component of boost regular expression library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for boost regular expression library.
 ```
 
@@ -1103,11 +1103,11 @@ URL          : http://www.boost.org
 <summary>boost-serialization</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost serialization library
+From repo     : updates-testing
+Short desc    : Run-time component of boost serialization library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for serialization for persistence and marshaling.
 ```
 
@@ -1117,11 +1117,11 @@ URL          : http://www.boost.org
 <summary>boost-stacktrace</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost stacktrace library
+From repo     : updates-testing
+Short desc    : Run-time component of boost stacktrace library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time component of the Boost stacktrace library.
 ```
 
@@ -1131,11 +1131,11 @@ URL          : http://www.boost.org
 <summary>boost-system</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Run-time component of boost system support library
+From repo     : anaconda
+Short desc    : Run-time component of boost system support library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time component of Boost operating system support library, including
              : the diagnostics support that is part of the C++11 standard library.
 ```
@@ -1146,11 +1146,11 @@ URL          : http://www.boost.org
 <summary>boost-system</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost system support library
+From repo     : updates-testing
+Short desc    : Run-time component of boost system support library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time component of Boost operating system support library, including
              : the diagnostics support that is part of the C++11 standard library.
 ```
@@ -1161,11 +1161,11 @@ URL          : http://www.boost.org
 <summary>boost-test</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost test library
+From repo     : updates-testing
+Short desc    : Run-time component of boost test library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for simple program testing, full unit testing, and for
              : program execution monitoring.
 ```
@@ -1176,11 +1176,11 @@ URL          : http://www.boost.org
 <summary>boost-thread</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Run-time component of boost thread library
+From repo     : anaconda
+Short desc    : Run-time component of boost thread library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time component Boost.Thread library, which provides classes and
              : functions for managing multiple threads of execution, and for
              : synchronizing data between the threads or providing separate copies of
@@ -1193,11 +1193,11 @@ URL          : http://www.boost.org
 <summary>boost-thread</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost thread library
+From repo     : updates-testing
+Short desc    : Run-time component of boost thread library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time component Boost.Thread library, which provides classes and
              : functions for managing multiple threads of execution, and for
              : synchronizing data between the threads or providing separate copies of
@@ -1210,11 +1210,11 @@ URL          : http://www.boost.org
 <summary>boost-timer</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost timer library
+From repo     : updates-testing
+Short desc    : Run-time component of boost timer library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : "How long does my C++ code take to run?"
              : The Boost Timer library answers that question and does so portably,
              : with as little as one #include and one additional line of code.
@@ -1226,11 +1226,11 @@ URL          : http://www.boost.org
 <summary>boost-type_erasure</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost type erasure library
+From repo     : updates-testing
+Short desc    : Run-time component of boost type erasure library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : The Boost.TypeErasure library provides runtime polymorphism in C++
              : that is more flexible than that provided by the core language.
 ```
@@ -1241,11 +1241,11 @@ URL          : http://www.boost.org
 <summary>boost-wave</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Run-time component of boost C99/C++ preprocessing library
+From repo     : updates-testing
+Short desc    : Run-time component of boost C99/C++ preprocessing library
 URL          : http://www.boost.org
-Лицензия     : Boost and MIT and Python
-Описание     : 
+License      : Boost and MIT and Python
+Descript     : 
              : Run-time support for the Boost.Wave library, a Standards conforming,
              : and highly configurable implementation of the mandated C99/C++
              : preprocessor functionality.
@@ -1257,11 +1257,11 @@ URL          : http://www.boost.org
 <summary>botan2</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Crypto and TLS for C++11
+From repo     : fedora
+Short desc    : Crypto and TLS for C++11
 URL          : https://botan.randombit.net/
-Лицензия     : BSD
-Описание     : Botan is a BSD-licensed crypto library written in C++. It provides a
+License      : BSD
+Descript     : Botan is a BSD-licensed crypto library written in C++. It provides a
              : wide variety of basic cryptographic algorithms, X.509 certificates and
              : CRLs, PKCS \#10 certificate requests, a filter/pipe message processing
              : system, and a wide variety of other features, all written in portable
@@ -1276,11 +1276,11 @@ URL          : https://botan.randombit.net/
 <summary>brasero-libs</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Libraries for brasero
+From repo     : updates-testing
+Short desc    : Libraries for brasero
 URL          : https://wiki.gnome.org/Apps/Brasero
-Лицензия     : GPLv3+
-Описание     : The brasero-libs package contains the runtime shared libraries for
+License      : GPLv3+
+Descript     : The brasero-libs package contains the runtime shared libraries for
              : brasero.
 ```
 
@@ -1290,11 +1290,11 @@ URL          : https://wiki.gnome.org/Apps/Brasero
 <summary>breeze-icon-theme</summary>
 
 ```
-Из репозитор : updates-testing
-Краткое опис : Breeze icon theme
+From repo     : updates-testing
+Short desc    : Breeze icon theme
 URL          : https://api.kde.org/frameworks-api/frameworks-apidocs/frameworks/breeze-icons/html/
-Лицензия     : LGPLv3+
-Описание     : Breeze icon theme.
+License      : LGPLv3+
+Descript     : Breeze icon theme.
 ```
 
 </details>
@@ -1303,11 +1303,11 @@ URL          : https://api.kde.org/frameworks-api/frameworks-apidocs/frameworks/
 <summary>brlapi</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Application Programming Interface for BRLTTY
+From repo     : anaconda
+Short desc    : Application Programming Interface for BRLTTY
 URL          : http://brltty.app/
-Лицензия     : LGPLv2+
-Описание     : This package provides the run-time support for the Application
+License      : LGPLv2+
+Descript     : This package provides the run-time support for the Application
              : Programming Interface to BRLTTY.
              : 
              : Install this package if you have an application which directly accesses
@@ -1320,11 +1320,11 @@ URL          : http://brltty.app/
 <summary>brltty</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Braille display driver for Linux/Unix
+From repo     : anaconda
+Short desc    : Braille display driver for Linux/Unix
 URL          : http://brltty.app/
-Лицензия     : LGPLv2+
-Описание     : BRLTTY is a background process (daemon) which provides
+License      : LGPLv2+
+Descript     : BRLTTY is a background process (daemon) which provides
              : access to the Linux/Unix console (when in text mode)
              : for a blind person using a refreshable braille display.
              : It drives the braille display and provides complete
@@ -1340,11 +1340,11 @@ URL          : http://brltty.app/
 <summary>brotli</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Lossless compression algorithm
+From repo     : fedora
+Short desc    : Lossless compression algorithm
 URL          : https://github.com/google/brotli
-Лицензия     : MIT
-Описание     : Brotli is a generic-purpose lossless compression algorithm that compresses
+License      : MIT
+Descript     : Brotli is a generic-purpose lossless compression algorithm that compresses
              : data using a combination of a modern variant of the LZ77 algorithm, Huffman
              : coding and 2nd order context modeling, with a compression ratio comparable
              : to the best currently available general-purpose compression methods.
@@ -1357,11 +1357,11 @@ URL          : https://github.com/google/brotli
 <summary>brotli-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Lossless compression algorithm (development files)
+From repo     : fedora
+Short desc    : Lossless compression algorithm (development files)
 URL          : https://github.com/google/brotli
-Лицензия     : MIT
-Описание     : Brotli is a generic-purpose lossless compression algorithm that compresses
+License      : MIT
+Descript     : Brotli is a generic-purpose lossless compression algorithm that compresses
              : data using a combination of a modern variant of the LZ77 algorithm, Huffman
              : coding and 2nd order context modeling, with a compression ratio comparable
              : to the best currently available general-purpose compression methods.
@@ -1375,11 +1375,11 @@ URL          : https://github.com/google/brotli
 <summary>btrfs-heatmap</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Visualize the layout of data on your btrfs filesystem over time
+From repo     : fedora
+Short desc    : Visualize the layout of data on your btrfs filesystem over time
 URL          : https://github.com/knorrie/btrfs-heatmap
-Лицензия     : MIT
-Описание     : The btrfs heatmap script creates a visualization of how a btrfs filesystem is
+License      : MIT
+Descript     : The btrfs heatmap script creates a visualization of how a btrfs filesystem is
              : utilizing the underlying disk space of the block devices that are added to it.
 ```
 
@@ -1389,11 +1389,11 @@ URL          : https://github.com/knorrie/btrfs-heatmap
 <summary>btrfs-heatmap-doc</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Documentation for btrfs-heatmap
+From repo     : fedora
+Short desc    : Documentation for btrfs-heatmap
 URL          : https://github.com/knorrie/btrfs-heatmap
-Лицензия     : MIT
-Описание     : The btrfs heatmap script creates a visualization of how a btrfs filesystem is
+License      : MIT
+Descript     : The btrfs heatmap script creates a visualization of how a btrfs filesystem is
              : utilizing the underlying disk space of the block devices that are added to it.
              : 
              : This package contains the documentation.
@@ -1405,11 +1405,11 @@ URL          : https://github.com/knorrie/btrfs-heatmap
 <summary>btrfs-progs</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Userspace programs for btrfs
+From repo     : fedora
+Short desc    : Userspace programs for btrfs
 URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
-Лицензия     : GPLv2
-Описание     : The btrfs-progs package provides all the userspace programs needed to create,
+License      : GPLv2
+Descript     : The btrfs-progs package provides all the userspace programs needed to create,
              : check, modify and correct any inconsistencies in the btrfs filesystem.
 ```
 
@@ -1419,11 +1419,11 @@ URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 <summary>btrfs-progs-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : btrfs filesystem-specific libraries and headers
+From repo     : fedora
+Short desc    : btrfs filesystem-specific libraries and headers
 URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
-Лицензия     : GPLv2 and LGPLv3
-Описание     : btrfs-progs-devel contains the libraries and header files needed to
+License      : GPLv2 and LGPLv3
+Descript     : btrfs-progs-devel contains the libraries and header files needed to
              : develop btrfs filesystem-specific programs.
              : 
              : It includes development files for two libraries:
@@ -1440,11 +1440,11 @@ URL          : https://btrfs.wiki.kernel.org/index.php/Main_Page
 <summary>btrfs-sxbackup</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Incremental btrfs snapshot backups with push/pull support via SSH
+From repo     : fedora
+Short desc    : Incremental btrfs snapshot backups with push/pull support via SSH
 URL          : https://github.com/masc3d/btrfs-sxbackup
-Лицензия     : GPLv2+
-Описание     : Btrfs snapshot backup utility with push/pull support via SSH, retention, Email
+License      : GPLv2+
+Descript     : Btrfs snapshot backup utility with push/pull support via SSH, retention, Email
              : notifications, compression of transferred data, and syslog logging.
 ```
 
@@ -1454,11 +1454,11 @@ URL          : https://github.com/masc3d/btrfs-sxbackup
 <summary>btrfsmaintenance</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Scripts for btrfs maintenance tasks
+From repo     : fedora
+Short desc    : Scripts for btrfs maintenance tasks
 URL          : https://github.com/kdave/btrfsmaintenance
-Лицензия     : GPLv2+
-Описание     : Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or
+License      : GPLv2+
+Descript     : Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or
              : defrag on selected mountpoints or directories.
              : 
              : This is a set of scripts supplementing the btrfs filesystem and aims to
@@ -1480,11 +1480,11 @@ URL          : https://github.com/kdave/btrfsmaintenance
 <summary>bubblewrap</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Core execution tool for unprivileged containers
+From repo     : anaconda
+Short desc    : Core execution tool for unprivileged containers
 URL          : https://github.com/projectatomic/bubblewrap
-Лицензия     : LGPLv2+
-Описание     : Bubblewrap (/usr/bin/bwrap) is a core execution engine for unprivileged
+License      : LGPLv2+
+Descript     : Bubblewrap (/usr/bin/bwrap) is a core execution engine for unprivileged
              : containers that works as a setuid binary on kernels without
              : user namespaces.
 ```
@@ -1495,11 +1495,11 @@ URL          : https://github.com/projectatomic/bubblewrap
 <summary>bustle</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Draw sequence diagrams of D-Bus traffic
+From repo     : fedora
+Short desc    : Draw sequence diagrams of D-Bus traffic
 URL          : https://hackage.haskell.org/package/bustle
-Лицензия     : LGPLv2+
-Описание     : Bustle records and draws sequence diagrams of D-Bus activity, showing signal
+License      : LGPLv2+
+Descript     : Bustle records and draws sequence diagrams of D-Bus activity, showing signal
              : emissions, method calls and their corresponding returns, with timestamps for
              : each individual event and the duration of each method call. This can help you
              : check for unwanted D-Bus traffic, and pinpoint why your D-Bus-based application
@@ -1513,11 +1513,11 @@ URL          : https://hackage.haskell.org/package/bustle
 <summary>bwidget</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Extended widget set for Tk
+From repo     : fedora
+Short desc    : Extended widget set for Tk
 URL          : http://tcllib.sourceforge.net/
-Лицензия     : TCL
-Описание     : An extended widget set for Tcl/Tk.
+License      : TCL
+Descript     : An extended widget set for Tcl/Tk.
 ```
 
 </details>
@@ -1526,11 +1526,11 @@ URL          : http://tcllib.sourceforge.net/
 <summary>byte-buddy</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Runtime code generation for the Java virtual machine
+From repo     : fedora
+Short desc    : Runtime code generation for the Java virtual machine
 URL          : http://bytebuddy.net/
-Лицензия     : ASL 2.0
-Описание     : Byte Buddy is a code generation library for creating Java classes during the
+License      : ASL 2.0
+Descript     : Byte Buddy is a code generation library for creating Java classes during the
              : runtime of a Java application and without the help of a compiler. Other than
              : the code generation utilities that ship with the Java Class Library, Byte Buddy
              : allows the creation of arbitrary classes and is not limited to implementing
@@ -1543,11 +1543,11 @@ URL          : http://bytebuddy.net/
 <summary>byte-buddy-agent</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Byte Buddy Java agent
+From repo     : fedora
+Short desc    : Byte Buddy Java agent
 URL          : http://bytebuddy.net/
-Лицензия     : ASL 2.0
-Описание     : The Byte Buddy Java agent allows to access the JVM's HotSwap feature.
+License      : ASL 2.0
+Descript     : The Byte Buddy Java agent allows to access the JVM's HotSwap feature.
 ```
 
 </details>
@@ -1556,11 +1556,11 @@ URL          : http://bytebuddy.net/
 <summary>bzip2</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : A file compression utility
+From repo     : anaconda
+Short desc    : A file compression utility
 URL          : http://www.bzip.org/
-Лицензия     : BSD
-Описание     : Bzip2 is a freely available, patent-free, high quality data compressor.
+License      : BSD
+Descript     : Bzip2 is a freely available, patent-free, high quality data compressor.
              : Bzip2 compresses files to within 10 to 15 percent of the capabilities
              : of the best techniques available.  However, bzip2 has the added benefit
              : of being approximately two times faster at compression and six times
@@ -1577,11 +1577,11 @@ URL          : http://www.bzip.org/
 <summary>bzip2-devel</summary>
 
 ```
-Из репозитор : fedora
-Краткое опис : Libraries and header files for apps which will use bzip2
+From repo     : fedora
+Short desc    : Libraries and header files for apps which will use bzip2
 URL          : http://www.bzip.org/
-Лицензия     : BSD
-Описание     : 
+License      : BSD
+Descript     : 
              : Header files and a library of bzip2 functions, for developing apps
              : which will use the library.
 ```
@@ -1592,11 +1592,11 @@ URL          : http://www.bzip.org/
 <summary>bzip2-libs</summary>
 
 ```
-Из репозитор : anaconda
-Краткое опис : Libraries for applications using bzip2
+From repo     : anaconda
+Short desc    : Libraries for applications using bzip2
 URL          : http://www.bzip.org/
-Лицензия     : BSD
-Описание     : 
+License      : BSD
+Descript     : 
              : Libraries for applications using the bzip2 compression format.
 ```
 
