@@ -80,31 +80,29 @@ function preparation_network_ifaces() {
   if [[ ${flag_brocker} -eq 1 ]]; then
 
     echo "Ok brocker setup..."
-    echo "TODO"
+    # echo "TODO"
 
     [[ -n "$(nmcli connection show "he-ipv6" 2>/dev/null)" ]] && nmcli c delete "he-ipv6"
 
-    cat <<EOF >/dev/null
+    # cat <<EOF >/dev/null
     [[ -z "${cfg_name_brocker}" ]] && . "${main_project_path}/hidden/cfg-tunnel-brocker"
 
     [[ -n "$(nmcli connection show "he-ipv6" 2>/dev/null)" ]] && nmcli c delete "he-ipv6"
 
     # nmcli connection add type ip-tunnel ip-tunnel.mode ipip con-name tun0 ifname tun0 remote 198.51.100.5 local 203.0.113.10
-    # nmcli connection add type ip-tunnel ip-tunnel.mode sit con-name heipv6 ifname heipv6 remote ${cfg_brocker_remote_ip} local ${cfg_local_ip}
+    # nmcli connection add type ip-tunnel ip-tunnel.mode sit con-name heipv6 ifname heipv6 remote ${cfg_brocker_remote_ip} local ${cfg_white_ip}
 
-    # nmcli c add type "ip-tunnel" connection.permissions user:${cfg_user} autoconnect "no" save yes ip-tunnel.mode sit remote "${cfg_brocker_remote_ip}" con-name "he-ipv6" ifname "he-ipv6" local "${cfg_local_ip}" dev "${cfg_local_interface_name}" ip6 "${cfg_brocker_ipv6}/${cfg_ipv6_mask}" gw6 "${cfg_brocker_gw_ipv6}" ipv6.method "manual" ipv6.ignore-auto-dns "yes" ipv6.ignore-auto-routes "yes" ipv6.dhcp-hostname "${cfg_hostname}" ip-tunnel.ttl 255 ipv4.method disabled
+    nmcli c add type "ip-tunnel" connection.permissions user:${cfg_user} autoconnect "no" save yes ip-tunnel.mode sit remote "${cfg_brocker_remote_ip}" con-name "he-ipv6" ifname "he-ipv6" local "${cfg_local_ip}" dev "${cfg_local_interface_name}" ip6 "${cfg_brocker_ipv6}/${cfg_ipv6_mask}" gw6 "${cfg_brocker_gw_ipv6}" ipv6.method "manual" ipv6.ignore-auto-dns "yes" ipv6.ignore-auto-routes "yes" ipv6.dhcp-hostname "${cfg_hostname}" ip-tunnel.ttl 255 ipv4.method disabled
 
-
-    sudo modprobe ipv6
-    sudo ip tunnel add he-ipv6 mode sit remote ${cfg_brocker_remote_ip} local ${cfg_white_ip} ttl 255
-    sudo ip link set he-ipv6 up
-    sudo ip addr add ${cfg_brocker_ipv6}/${cfg_ipv6_mask} dev he-ipv6
-    sudo ip route add ::/0 dev he-ipv6
-    sudo ip -f inet6 addr
-
+    # sudo modprobe ipv6
+    # sudo ip tunnel add he-ipv6 mode sit remote ${cfg_brocker_remote_ip} local ${cfg_white_ip} ttl 255
+    # sudo ip link set he-ipv6 up
+    # sudo ip addr add ${cfg_brocker_ipv6}/${cfg_ipv6_mask} dev he-ipv6
+    # sudo ip route add ::/0 dev he-ipv6
+    # sudo ip -f inet6 addr
 
     [[ "${ip4_dns}" == '127.0.0.53' ]] || nmcli c mod "${connection_name}" ipv6.dns "${cfg_anycast_ipv6_caching_nameserver}"
-EOF
+    # EOF
   else
     nmcli c mod "${connection_name}" ipv6.addresses '' ipv6.method ignore
   fi
