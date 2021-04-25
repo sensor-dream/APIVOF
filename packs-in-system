@@ -77,7 +77,7 @@ function get_info_packs_in_system() {
 
   for i in {0..9} {A..Z} {a..z}; do
 
-    find_list=$(grep -e "^[${i}]" <<<${list} | sort --parallel ${number_cores} -b -i -u)
+    find_list=$(grep -e "^[${i}]" <<<${list})
 
     if [[ -n "${find_list}" ]]; then
       echo -e "Create ${i}-packs-in-system-${os_id}-${os_version_id}.md for first letter ${i} installation packages\n"
