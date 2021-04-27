@@ -62,10 +62,11 @@ Section "Device"
   BusID "PCI:1:0:0"
   Screen 0
   Option "AccelMethod" "glamor"
-        Option "DRI" "3"
-        Option "TearFree" "on"
-        Option "ColorTiling" "on"
-        Option "ColorTiling2D" "on"
+  Option "DRI" "3"
+  Option "TearFree" "on"
+  Option "ColorTiling" "on"
+  Option "ColorTiling2D" "on"
+  Option "ShadowPrimary" "on"
 EndSection
 EOF
 
@@ -73,7 +74,7 @@ EOF
 <driconf>
     <device screen="0" driver="dri3">
         <application name="Default">
-            <option name="vblank_mode" value="0" />
+            <option name="vblank_mode" value="1" />
         </application>
     </device>
     <!-- Other devices ... -->
