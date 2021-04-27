@@ -315,7 +315,7 @@ Descript     : The virgil3d rendering library is a library used by
 <summary>virtualbox-guest-additions</summary>
 
 ```
-From repo    : anaconda
+From repo    : updates
 Short desc   : VirtualBox Guest Additions
 URL          : https://www.virtualbox.org/wiki/VirtualBox
 License      : GPLv2 or (GPLv2 and CDDL)
@@ -471,6 +471,20 @@ Short desc   : Vulkan Header files and API registry
 URL          : https://github.com/KhronosGroup/Vulkan-Headers
 License      : ASL 2.0
 Descript     : Vulkan Header files and API registry
+```
+
+</details>
+
+<details>
+<summary>vulkan-loader</summary>
+
+```
+From repo    : fedora
+Short desc   : Vulkan ICD desktop loader
+URL          : https://github.com/KhronosGroup/Vulkan-Loader
+License      : ASL 2.0
+Descript     : This project provides the Khronos official Vulkan ICD desktop
+             : loader for Windows, Linux, and MacOS.
 ```
 
 </details>

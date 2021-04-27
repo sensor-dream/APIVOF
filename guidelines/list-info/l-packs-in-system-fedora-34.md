@@ -23,6 +23,19 @@ Descript     : There is a large number of synthesis packages in use or developme
 <summary>lame-libs</summary>
 
 ```
+From repo    : fedora
+Short desc   : LAME MP3 encoding library
+URL          : http://lame.sourceforge.net/
+License      : GPLv2+
+Descript     : LAME MP3 encoding library.
+```
+
+</details>
+
+<details>
+<summary>lame-libs</summary>
+
+```
 From repo    : anaconda
 Short desc   : LAME MP3 encoding library
 URL          : http://lame.sourceforge.net/
@@ -256,6 +269,21 @@ Descript     : Lato is a sanserif typeface family designed in the Summer 2010 by
 <summary>lcms2</summary>
 
 ```
+From repo    : fedora
+Short desc   : Color Management Engine
+URL          : http://www.littlecms.com/
+License      : MIT
+Descript     : LittleCMS intends to be a small-footprint, speed optimized color management
+             : engine in open source form. LCMS2 is the current version of LCMS, and can be
+             : parallel installed with the original (deprecated) lcms.
+```
+
+</details>
+
+<details>
+<summary>lcms2</summary>
+
+```
 From repo    : anaconda
 Short desc   : Color Management Engine
 URL          : http://www.littlecms.com/
@@ -395,6 +423,36 @@ Descript     : lib3ds is a free ANSI-C library for working with the popular "3ds
 </details>
 
 <details>
+<summary>libFAudio</summary>
+
+```
+From repo    : fedora
+Short desc   : FNA is a reimplementation of the Microsoft XNA Game Studio 4.0 Refresh libraries
+URL          : https://fna-xna.github.io/
+License      : zlib
+Descript     : This is FAudio, an XAudio reimplementation that focuses solely on developing
+             : fully accurate DirectX Audio runtime libraries for the FNA project, including
+             : XAudio2, X3DAudio, XAPO, and XACT3.
+```
+
+</details>
+
+<details>
+<summary>libFAudio</summary>
+
+```
+From repo    : fedora
+Short desc   : FNA is a reimplementation of the Microsoft XNA Game Studio 4.0 Refresh libraries
+URL          : https://fna-xna.github.io/
+License      : zlib
+Descript     : This is FAudio, an XAudio reimplementation that focuses solely on developing
+             : fully accurate DirectX Audio runtime libraries for the FNA project, including
+             : XAudio2, X3DAudio, XAPO, and XACT3.
+```
+
+</details>
+
+<details>
 <summary>libGLEW</summary>
 
 ```
@@ -403,6 +461,19 @@ Short desc   : libGLEW
 URL          : http://glew.sourceforge.net
 License      : BSD and MIT
 Descript     : libGLEW
+```
+
+</details>
+
+<details>
+<summary>libICE</summary>
+
+```
+From repo    : fedora
+Short desc   : X.Org X11 ICE runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : The X.Org X11 ICE (Inter-Client Exchange) runtime library.
 ```
 
 </details>
@@ -451,6 +522,19 @@ Descript     : libIDL is a library for parsing IDL (Interface Definition Languag
 <summary>libSM</summary>
 
 ```
+From repo    : fedora
+Short desc   : X.Org X11 SM runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : The X.Org X11 SM (Session Management) runtime library.
+```
+
+</details>
+
+<details>
+<summary>libSM</summary>
+
+```
 From repo    : anaconda
 Short desc   : X.Org X11 SM runtime library
 URL          : http://www.x.org
@@ -469,6 +553,19 @@ Short desc   : X.Org X11 SM development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : The X.Org X11 SM (Session Management) development package.
+```
+
+</details>
+
+<details>
+<summary>libX11</summary>
+
+```
+From repo    : fedora
+Short desc   : Core X11 protocol client library
+URL          : http://www.x.org
+License      : MIT
+Descript     : Core X11 protocol client library.
 ```
 
 </details>
@@ -516,6 +613,19 @@ Descript     : X.Org X11 libX11 development package
 <summary>libX11-xcb</summary>
 
 ```
+From repo    : fedora
+Short desc   : XCB interop for libX11
+URL          : http://www.x.org
+License      : MIT
+Descript     : libX11/libxcb interoperability library
+```
+
+</details>
+
+<details>
+<summary>libX11-xcb</summary>
+
+```
 From repo    : anaconda
 Short desc   : XCB interop for libX11
 URL          : http://www.x.org
@@ -534,6 +644,23 @@ Short desc   : X.Org X11 libXss runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXss runtime library
+```
+
+</details>
+
+<details>
+<summary>libXau</summary>
+
+```
+From repo    : fedora
+Short desc   : Sample Authorization Protocol for X
+URL          : http://www.x.org
+License      : MIT
+Descript     : This is a very simple mechanism for providing individual access to an X Window
+             : System display.It uses existing core protocol and library hooks for specifying
+             : authorization data in the connection setup block to restrict use of the display
+             : to only those clients that show that they know a server-specific key
+             : called a "magic cookie".
 ```
 
 </details>
@@ -602,6 +729,19 @@ Descript     : NX is a software suite from NoMachine which implements very effic
 <summary>libXcomposite</summary>
 
 ```
+From repo    : fedora
+Short desc   : X Composite Extension library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X Composite Extension library
+```
+
+</details>
+
+<details>
+<summary>libXcomposite</summary>
+
+```
 From repo    : anaconda
 Short desc   : X Composite Extension library
 URL          : http://www.x.org
@@ -620,6 +760,22 @@ Short desc   : Development files for libXcomposite
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXcomposite development package
+```
+
+</details>
+
+<details>
+<summary>libXcursor</summary>
+
+```
+From repo    : fedora
+Short desc   : Cursor management library
+URL          : http://www.x.org
+License      : MIT
+Descript     : This is  a simple library designed to help locate and load cursors.
+             : Cursors can be loaded from files or memory. A library of common cursors
+             : exists which map to the standard X cursor names.Cursors can exist in
+             : several sizes and the library automatically picks the best size.
 ```
 
 </details>
@@ -657,6 +813,19 @@ Descript     : libXcursor development package.
 <summary>libXdamage</summary>
 
 ```
+From repo    : fedora
+Short desc   : X Damage extension library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXdamage runtime library.
+```
+
+</details>
+
+<details>
+<summary>libXdamage</summary>
+
+```
 From repo    : anaconda
 Short desc   : X Damage extension library
 URL          : http://www.x.org
@@ -683,6 +852,19 @@ Descript     : X Display Manager Control Protocol library.
 <summary>libXext</summary>
 
 ```
+From repo    : fedora
+Short desc   : X.Org X11 libXext runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXext runtime library
+```
+
+</details>
+
+<details>
+<summary>libXext</summary>
+
+```
 From repo    : anaconda
 Short desc   : X.Org X11 libXext runtime library
 URL          : http://www.x.org
@@ -701,6 +883,19 @@ Short desc   : X.Org X11 libXext development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXext development package
+```
+
+</details>
+
+<details>
+<summary>libXfixes</summary>
+
+```
+From repo    : fedora
+Short desc   : X Fixes library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X Fixes library.
 ```
 
 </details>
@@ -748,6 +943,19 @@ Descript     : X.Org X11 libXfont2 runtime library
 <summary>libXft</summary>
 
 ```
+From repo    : fedora
+Short desc   : X.Org X11 libXft runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXft runtime library
+```
+
+</details>
+
+<details>
+<summary>libXft</summary>
+
+```
 From repo    : anaconda
 Short desc   : X.Org X11 libXft runtime library
 URL          : http://www.x.org
@@ -774,6 +982,19 @@ Descript     : X.Org X11 libXft development package
 <summary>libXi</summary>
 
 ```
+From repo    : fedora
+Short desc   : X.Org X11 libXi runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXi runtime library
+```
+
+</details>
+
+<details>
+<summary>libXi</summary>
+
+```
 From repo    : anaconda
 Short desc   : X.Org X11 libXi runtime library
 URL          : http://www.x.org
@@ -792,6 +1013,19 @@ Short desc   : X.Org X11 libXi development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXi development package
+```
+
+</details>
+
+<details>
+<summary>libXinerama</summary>
+
+```
+From repo    : fedora
+Short desc   : X.Org X11 libXinerama runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXinerama runtime library
 ```
 
 </details>
@@ -865,6 +1099,19 @@ Descript     : X.Org X11 libXp runtime library
 <summary>libXpm</summary>
 
 ```
+From repo    : fedora
+Short desc   : X.Org X11 libXpm runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXpm runtime library
+```
+
+</details>
+
+<details>
+<summary>libXpm</summary>
+
+```
 From repo    : anaconda
 Short desc   : X.Org X11 libXpm runtime library
 URL          : http://www.x.org
@@ -891,6 +1138,19 @@ Descript     : X.Org X11 libXpm development package
 <summary>libXrandr</summary>
 
 ```
+From repo    : fedora
+Short desc   : X.Org X11 libXrandr runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXrandr runtime library
+```
+
+</details>
+
+<details>
+<summary>libXrandr</summary>
+
+```
 From repo    : anaconda
 Short desc   : X.Org X11 libXrandr runtime library
 URL          : http://www.x.org
@@ -909,6 +1169,19 @@ Short desc   : X.Org X11 libXrandr development package
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXrandr development package
+```
+
+</details>
+
+<details>
+<summary>libXrender</summary>
+
+```
+From repo    : fedora
+Short desc   : X.Org X11 libXrender runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXrender runtime library
 ```
 
 </details>
@@ -983,11 +1256,37 @@ Descript     : X.Org X11 libXt development package
 <summary>libXtst</summary>
 
 ```
+From repo    : fedora
+Short desc   : X.Org X11 libXtst runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXtst runtime library
+```
+
+</details>
+
+<details>
+<summary>libXtst</summary>
+
+```
 From repo    : anaconda
 Short desc   : X.Org X11 libXtst runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXtst runtime library
+```
+
+</details>
+
+<details>
+<summary>libXv</summary>
+
+```
+From repo    : fedora
+Short desc   : X.Org X11 libXv runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXv runtime library
 ```
 
 </details>
@@ -1027,6 +1326,19 @@ Short desc   : X.Org X11 libXxf86dga runtime library
 URL          : http://www.x.org
 License      : MIT
 Descript     : X.Org X11 libXxf86dga runtime library
+```
+
+</details>
+
+<details>
+<summary>libXxf86vm</summary>
+
+```
+From repo    : fedora
+Short desc   : X.Org X11 libXxf86vm runtime library
+URL          : http://www.x.org
+License      : MIT
+Descript     : X.Org X11 libXxf86vm runtime library
 ```
 
 </details>
@@ -1199,6 +1511,20 @@ Descript     : Library files for aom, the royalty-free next-generation
 </details>
 
 <details>
+<summary>libaom</summary>
+
+```
+From repo    : fedora
+Short desc   : Library files for aom
+URL          : http://aomedia.org/
+License      : BSD
+Descript     : Library files for aom, the royalty-free next-generation
+             : video format.
+```
+
+</details>
+
+<details>
 <summary>libappindicator</summary>
 
 ```
@@ -1336,6 +1662,20 @@ Descript     : This is the IPC library used by GnuPG 2, GPGME and a few other
 <summary>libasyncns</summary>
 
 ```
+From repo    : fedora
+Short desc   : Asynchronous Name Service Library
+URL          : http://0pointer.de/lennart/projects/libasyncns/
+License      : LGPLv2+
+Descript     : A small and lightweight library that implements easy to use asynchronous
+             : wrappers around the libc NSS functions getaddrinfo(), res_query() and related.
+```
+
+</details>
+
+<details>
+<summary>libasyncns</summary>
+
+```
 From repo    : anaconda
 Short desc   : Asynchronous Name Service Library
 URL          : http://0pointer.de/lennart/projects/libasyncns/
@@ -1392,6 +1732,21 @@ Descript     : This package contains the libattr.so dynamic library which contai
 <summary>libavc1394</summary>
 
 ```
+From repo    : fedora
+Short desc   : Audio/Video Control library for IEEE-1394 devices
+URL          : http://sourceforge.net/projects/libavc1394/
+License      : GPLv2+ and LGPLv2+
+Descript     : The libavc1394 library allows utilities to control IEEE-1394 devices
+             : using the AV/C specification.  Audio/Video Control allows applications
+             : to control devices like the tape on a VCR or camcorder.
+```
+
+</details>
+
+<details>
+<summary>libavc1394</summary>
+
+```
 From repo    : anaconda
 Short desc   : Audio/Video Control library for IEEE-1394 devices
 URL          : http://sourceforge.net/projects/libavc1394/
@@ -1399,6 +1754,22 @@ License      : GPLv2+ and LGPLv2+
 Descript     : The libavc1394 library allows utilities to control IEEE-1394 devices
              : using the AV/C specification.  Audio/Video Control allows applications
              : to control devices like the tape on a VCR or camcorder.
+```
+
+</details>
+
+<details>
+<summary>libavif</summary>
+
+```
+From repo    : fedora
+Short desc   : Library for encoding and decoding .avif files
+URL          : https://github.com/AOMediaCodec/libavif
+License      : BSD
+Descript     : This library aims to be a friendly, portable C implementation of the AV1 Image
+             : File Format, as described here:
+             : 
+             : https://aomediacodec.github.io/av1-avif/
 ```
 
 </details>
@@ -1472,6 +1843,19 @@ Short desc   : Basic object types for C
 URL          : https://pagure.io/SSSD/ding-libs
 License      : GPLv3+
 Descript     : Basic object types
+```
+
+</details>
+
+<details>
+<summary>libblkid</summary>
+
+```
+From repo    : fedora
+Short desc   : Block device ID library
+URL          : http://en.wikipedia.org/wiki/Util-linux
+License      : LGPLv2+
+Descript     : This is block device identification library, part of util-linux.
 ```
 
 </details>
@@ -2022,6 +2406,23 @@ Descript     :
 <summary>libbrotli</summary>
 
 ```
+From repo    : fedora
+Short desc   : Library for brotli lossless compression algorithm
+URL          : https://github.com/google/brotli
+License      : MIT
+Descript     : Brotli is a generic-purpose lossless compression algorithm that compresses
+             : data using a combination of a modern variant of the LZ77 algorithm, Huffman
+             : coding and 2nd order context modeling, with a compression ratio comparable
+             : to the best currently available general-purpose compression methods.
+             : It is similar in speed with deflate but offers more dense compression.
+```
+
+</details>
+
+<details>
+<summary>libbrotli</summary>
+
+```
 From repo    : anaconda
 Short desc   : Library for brotli lossless compression algorithm
 URL          : https://github.com/google/brotli
@@ -2192,6 +2593,20 @@ Short desc   : Gtk+ 3.x Bindings for libcanberra
 URL          : http://git.0pointer.de/?p=libcanberra.git;a=summary
 License      : LGPLv2+
 Descript     : Gtk+ 3.x bindings for libcanberra
+```
+
+</details>
+
+<details>
+<summary>libcap</summary>
+
+```
+From repo    : fedora
+Short desc   : Library for getting and setting POSIX.1e capabilities
+URL          : https://sites.google.com/site/fullycapable/
+License      : BSD or GPLv2
+Descript     : libcap is a library for getting and setting POSIX.1e (formerly POSIX 6)
+             : draft 15 capabilities.
 ```
 
 </details>
@@ -2429,6 +2844,21 @@ Descript     : A data-type to collect data in a hierarchical structure for easy 
 <summary>libcom_err</summary>
 
 ```
+From repo    : fedora
+Short desc   : Common error description library
+URL          : http://e2fsprogs.sourceforge.net/
+License      : MIT
+Descript     : This is the common error description library, part of e2fsprogs.
+             : 
+             : libcom_err is an attempt to present a common error-handling mechanism.
+```
+
+</details>
+
+<details>
+<summary>libcom_err</summary>
+
+```
 From repo    : anaconda
 Short desc   : Common error description library
 URL          : http://e2fsprogs.sourceforge.net/
@@ -2543,6 +2973,24 @@ Descript     : Libcue is intended for parsing a so-called cue sheet from a char 
 <summary>libcurl</summary>
 
 ```
+From repo    : updates
+Short desc   : A library for getting files from web servers
+URL          : https://curl.se/
+License      : MIT
+Descript     : libcurl is a free and easy-to-use client-side URL transfer library, supporting
+             : FTP, FTPS, HTTP, HTTPS, SCP, SFTP, TFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP,
+             : SMTP, POP3 and RTSP. libcurl supports SSL certificates, HTTP POST, HTTP PUT,
+             : FTP uploading, HTTP form based upload, proxies, cookies, user+password
+             : authentication (Basic, Digest, NTLM, Negotiate, Kerberos4), file transfer
+             : resume, http proxy tunneling and more.
+```
+
+</details>
+
+<details>
+<summary>libcurl</summary>
+
+```
 From repo    : updates-testing
 Short desc   : A library for getting files from web servers
 URL          : https://curl.se/
@@ -2601,6 +3049,26 @@ Descript     : The libdap++ library contains an implementation of DAP2. This pac
 <summary>libdatrie</summary>
 
 ```
+From repo    : fedora
+Short desc   : Implementation of Double-Array structure for representing trie
+URL          : http://linux.thai.net/projects/datrie
+License      : LGPLv2+
+Descript     : datrie is an implementation of double-array structure for representing trie.
+             : 
+             : Trie is a kind of digital search tree, an efficient indexing method with O(1)
+             : time complexity for searching. Comparably as efficient as hashing, trie also
+             : provides flexibility on incremental matching and key spelling manipulation.
+             : This makes it ideal for lexical analyzers, as well as spelling dictionaries.
+             : 
+             : Details of the implementation: http://linux.thai.net/~thep/datrie/datrie.html
+```
+
+</details>
+
+<details>
+<summary>libdatrie</summary>
+
+```
 From repo    : anaconda
 Short desc   : Implementation of Double-Array structure for representing trie
 URL          : http://linux.thai.net/projects/datrie
@@ -2627,6 +3095,19 @@ URL          : http://linux.thai.net/projects/datrie
 License      : LGPLv2+
 Descript     : This package contains libraries and header files for
              : developing applications that use libdatrie.
+```
+
+</details>
+
+<details>
+<summary>libdav1d</summary>
+
+```
+From repo    : fedora
+Short desc   : Library files for dav1d
+URL          : https://code.videolan.org/videolan/dav1d
+License      : BSD
+Descript     : Library files for dav1d, the AV1 cross-platform Decoder.
 ```
 
 </details>
@@ -2672,6 +3153,26 @@ Descript     : libdazzle is a collection of fancy features for GLib and Gtk+ tha
              : ready or generic enough for use inside those libraries. This is often a proving
              : ground for new widget prototypes. Applications such as Builder tend to drive
              : development of this project.
+```
+
+</details>
+
+<details>
+<summary>libdb</summary>
+
+```
+From repo    : fedora
+Short desc   : The Berkeley DB database library for C
+URL          : http://www.oracle.com/database/berkeley-db/
+License      : BSD and LGPLv2 and Sleepycat
+Descript     : The Berkeley Database (Berkeley DB) is a programmatic toolkit that
+             : provides embedded database support for both traditional and
+             : client/server applications. The Berkeley DB includes B+tree, Extended
+             : Linear Hashing, Fixed and Variable-length record access methods,
+             : transactions, locking, logging, shared memory caching, and database
+             : recovery. The Berkeley DB supports C, C++, and Perl APIs. It is
+             : used by many applications, including Python and Perl, so this should
+             : be installed on all systems.
 ```
 
 </details>
@@ -2854,6 +3355,19 @@ Descript     : A Library providing simplified C and Python API to libsolv.
 <summary>libdrm</summary>
 
 ```
+From repo    : fedora
+Short desc   : Direct Rendering Manager runtime library
+URL          : https://dri.freedesktop.org
+License      : MIT
+Descript     : Direct Rendering Manager runtime library
+```
+
+</details>
+
+<details>
+<summary>libdrm</summary>
+
+```
 From repo    : anaconda
 Short desc   : Direct Rendering Manager runtime library
 URL          : https://dri.freedesktop.org
@@ -2872,6 +3386,23 @@ Short desc   : Direct Rendering Manager development package
 URL          : https://dri.freedesktop.org
 License      : MIT
 Descript     : Direct Rendering Manager development package.
+```
+
+</details>
+
+<details>
+<summary>libdv</summary>
+
+```
+From repo    : fedora
+Short desc   : Software decoder for DV format video
+URL          : http://libdv.sourceforge.net/
+License      : LGPLv2+
+Descript     : The Quasar DV codec (libdv) is a software codec for DV video, the
+             : encoding format used by most digital camcorders, typically those that
+             : support the IEEE 1394 (a.k.a. FireWire or i.Link) interface. libdv was
+             : developed according to the official standards for DV video: IEC 61834
+             : and SMPTE 314M.
 ```
 
 </details>
@@ -2955,7 +3486,22 @@ Descript     : libeconf is a highly flexible and configurable library to parse a
 <summary>libedit</summary>
 
 ```
-From repo    : anaconda
+From repo    : updates
+Short desc   : The NetBSD Editline library
+URL          : https://www.thrysoee.dk/editline/
+License      : BSD
+Descript     : Libedit is an autotool- and libtoolized port of the NetBSD Editline library.
+             : It provides generic line editing, history, and tokenization functions, similar
+             : to those found in GNU Readline.
+```
+
+</details>
+
+<details>
+<summary>libedit</summary>
+
+```
+From repo    : updates
 Short desc   : The NetBSD Editline library
 URL          : https://www.thrysoee.dk/editline/
 License      : BSD
@@ -3091,6 +3637,21 @@ Descript     : The Liberation Fonts are intended to be replacements for the 3 mo
              : 
              : This package provides Monospace TrueType fonts that replace commonly used
              : Microsoft Courier New.
+```
+
+</details>
+
+<details>
+<summary>liberation-narrow-fonts</summary>
+
+```
+Эпоха        : 2
+From repo    : fedora
+Short desc   : Sans-serif Narrow fonts to replace commonly used Microsoft Arial Narrow
+URL          : https://github.com/liberationfonts/liberation-sans-narrow
+License      : Liberation
+Descript     : The Liberation Sans Narrow Fonts are intended to be replacements for
+             : the Arial Narrow.
 ```
 
 </details>
@@ -3245,6 +3806,24 @@ Descript     : libevdev is a library to wrap kernel evdev devices and provide a 
 <summary>libevent</summary>
 
 ```
+From repo    : fedora
+Short desc   : Abstract asynchronous event notification library
+URL          : http://libevent.org/
+License      : BSD and ISC
+Descript     : The libevent API provides a mechanism to execute a callback function
+             : when a specific event occurs on a file descriptor or after a timeout
+             : has been reached. libevent is meant to replace the asynchronous event
+             : loop found in event driven network servers. An application just needs
+             : to call event_dispatch() and can then add or remove events dynamically
+             : without having to change the event loop.
+```
+
+</details>
+
+<details>
+<summary>libevent</summary>
+
+```
 From repo    : anaconda
 Short desc   : Abstract asynchronous event notification library
 URL          : http://libevent.org/
@@ -3270,6 +3849,21 @@ License      : LGPLv3+
 Descript     : Libewf is a library for support of the Expert Witness Compression Format (EWF),
              : it support both the SMART format (EWF-S01) and the EnCase format (EWF-E01).
              : Libewf allows you to read and write media information within the EWF files.
+```
+
+</details>
+
+<details>
+<summary>libexif</summary>
+
+```
+From repo    : fedora
+Short desc   : Library for extracting extra information from image files
+URL          : https://libexif.github.io/
+License      : LGPLv2+
+Descript     : Most digital cameras produce EXIF files, which are JPEG files with
+             : extra tags that contain information about the image. The EXIF library
+             : allows you to parse an EXIF file and read the data from those tags.
 ```
 
 </details>
@@ -3360,6 +3954,43 @@ URL          : https://devicetree.org/
 License      : GPLv2+
 Descript     : libfdt is a library to process Open Firmware style device trees on various
              : architectures.
+```
+
+</details>
+
+<details>
+<summary>libffi</summary>
+
+```
+From repo    : fedora
+Short desc   : A portable foreign function interface library
+URL          : http://sourceware.org/libffi
+License      : MIT
+Descript     : Compilers for high level languages generate code that follow certain
+             : conventions.  These conventions are necessary, in part, for separate
+             : compilation to work.  One such convention is the "calling convention".
+             : The calling convention is a set of assumptions made by the compiler
+             : about where function arguments will be found on entry to a function.  A
+             : calling convention also specifies where the return value for a function
+             : is found.
+             : 
+             : Some programs may not know at the time of compilation what arguments
+             : are to be passed to a function.  For instance, an interpreter may be
+             : told at run-time about the number and types of arguments used to call a
+             : given function.  `Libffi' can be used in such programs to provide a
+             : bridge from the interpreter program to compiled code.
+             : 
+             : The `libffi' library provides a portable, high level programming
+             : interface to various calling conventions.  This allows a programmer to
+             : call any function specified by a call interface description at run time.
+             : 
+             : FFI stands for Foreign Function Interface.  A foreign function
+             : interface is the popular name for the interface that allows code
+             : written in one language to call code written in another language.  The
+             : `libffi' library really only provides the lowest, machine dependent
+             : layer of a fully featured foreign function interface.  A layer must
+             : exist above `libffi' that handles type conversions for values passed
+             : between the two languages.
 ```
 
 </details>
@@ -3504,7 +4135,7 @@ Descript     : libgcab is a library to manipulate Cabinet archive using GIO/GObj
 <summary>libgcc</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : GCC version 11 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -3518,7 +4149,7 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libgcc</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : GCC version 11 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -3533,6 +4164,20 @@ Descript     : This package contains GCC shared support library which is needed
 
 ```
 From repo    : anaconda
+Short desc   : A general-purpose cryptography library
+URL          : https://www.gnupg.org/
+License      : LGPLv2+
+Descript     : Libgcrypt is a general purpose crypto library based on the code used
+             : in GNU Privacy Guard.  This is a development version.
+```
+
+</details>
+
+<details>
+<summary>libgcrypt</summary>
+
+```
+From repo    : fedora
 Short desc   : A general-purpose cryptography library
 URL          : https://www.gnupg.org/
 License      : LGPLv2+
@@ -3768,7 +4413,7 @@ Descript     : GlusterFS is a distributed file-system capable of scaling to seve
 <summary>libgfortran</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Fortran runtime
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -4037,6 +4682,21 @@ Descript     : libglvnd is an implementation of the vendor-neutral dispatch laye
 </details>
 
 <details>
+<summary>libglvnd</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : The GL Vendor-Neutral Dispatch library
+URL          : https://github.com/NVIDIA/libglvnd
+License      : MIT
+Descript     : libglvnd is an implementation of the vendor-neutral dispatch layer for
+             : arbitrating OpenGL API calls between multiple vendors on a per-screen basis.
+```
+
+</details>
+
+<details>
 <summary>libglvnd-core-devel</summary>
 
 ```
@@ -4083,6 +4743,20 @@ Descript     : libEGL are the common dispatch interface for the EGL API.
 </details>
 
 <details>
+<summary>libglvnd-egl</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : EGL support for libglvnd
+URL          : https://github.com/NVIDIA/libglvnd
+License      : MIT
+Descript     : libEGL are the common dispatch interface for the EGL API.
+```
+
+</details>
+
+<details>
 <summary>libglvnd-gles</summary>
 
 ```
@@ -4092,6 +4766,20 @@ Short desc   : GLES support for libglvnd
 URL          : https://github.com/NVIDIA/libglvnd
 License      : MIT
 Descript     : libGLESv[12] are the common dispatch interface for the GLES API.
+```
+
+</details>
+
+<details>
+<summary>libglvnd-glx</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : GLX support for libglvnd
+URL          : https://github.com/NVIDIA/libglvnd
+License      : MIT
+Descript     : libGL and libGLX are the common dispatch interface for the GLX API.
 ```
 
 </details>
@@ -4208,7 +4896,7 @@ Descript     : GNOME (GNU Network Object Model Environment) is a user-friendly s
 <summary>libgomp</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : GCC OpenMP v4.5 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -4222,7 +4910,7 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libgomp</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : GCC OpenMP v4.5 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -4236,7 +4924,7 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libgpg-error</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : Library for error values used by GnuPG components
 URL          : https://www.gnupg.org/related_software/libgpg-error/
 License      : LGPLv2+
@@ -4251,7 +4939,7 @@ Descript     : This is a library that defines common error values for all GnuPG
 <summary>libgpg-error</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Library for error values used by GnuPG components
 URL          : https://www.gnupg.org/related_software/libgpg-error/
 License      : LGPLv2+
@@ -4263,26 +4951,10 @@ Descript     : This is a library that defines common error values for all GnuPG
 </details>
 
 <details>
-<summary>libgpg-error-devel</summary>
-
-```
-From repo    : updates-testing
-Short desc   : Development files for the libgpg-error package
-URL          : https://www.gnupg.org/related_software/libgpg-error/
-License      : LGPLv2+
-Descript     : This is a library that defines common error values for all GnuPG
-             : components.  Among these are GPG, GPGSM, GPGME, GPG-Agent, libgcrypt,
-             : pinentry, SmartCard Daemon and possibly more in the future. This package
-             : contains files necessary to develop applications using libgpg-error.
-```
-
-</details>
-
-<details>
 <summary>libgphoto2</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : Library for accessing digital cameras
 URL          : http://www.gphoto.org/
 License      : GPLv2+ and GPLv2
@@ -4298,7 +4970,7 @@ Descript     : libgphoto2 is a library that can be used by applications to acces
 <summary>libgphoto2</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Library for accessing digital cameras
 URL          : http://www.gphoto.org/
 License      : GPLv2+ and GPLv2
@@ -4411,7 +5083,7 @@ Descript     : LibGTop is a library for portably obtaining information about pro
 <summary>libgudev</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : GObject-based wrapper library for libudev
 URL          : https://wiki.gnome.org/Projects/libgudev
 License      : LGPLv2+
@@ -4722,6 +5394,40 @@ Descript     : libibverbs is a library that allows userspace processes to use RD
 <summary>libibverbs</summary>
 
 ```
+From repo    : fedora
+Short desc   : A library and drivers for direct userspace use of RDMA (InfiniBand/iWARP/RoCE) hardware
+URL          : https://github.com/linux-rdma/rdma-core
+License      : GPLv2 or BSD
+Descript     : libibverbs is a library that allows userspace processes to use RDMA
+             : "verbs" as described in the InfiniBand Architecture Specification and
+             : the RDMA Protocol Verbs Specification.  This includes direct hardware
+             : access from userspace to InfiniBand/iWARP adapters (kernel bypass) for
+             : fast path operations.
+             : 
+             : Device-specific plug-in ibverbs userspace drivers are included:
+             : 
+             : - libcxgb4: Chelsio T4 iWARP HCA
+             : - libefa: Amazon Elastic Fabric Adapter
+             : - libhfi1: Intel Omni-Path HFI
+             : - libhns: HiSilicon Hip06 SoC
+             : - libi40iw: Intel Ethernet Connection X722 RDMA
+             : - libipathverbs: QLogic InfiniPath HCA
+             : - libmlx4: Mellanox ConnectX-3 InfiniBand HCA
+             : - libmlx5: Mellanox Connect-IB/X-4+ InfiniBand HCA
+             : - libmthca: Mellanox InfiniBand HCA
+             : - libocrdma: Emulex OneConnect RDMA/RoCE Device
+             : - libqedr: QLogic QL4xxx RoCE HCA
+             : - librxe: A software implementation of the RoCE protocol
+             : - libsiw: A software implementation of the iWarp protocol
+             : - libvmw_pvrdma: VMware paravirtual RDMA device
+```
+
+</details>
+
+<details>
+<summary>libibverbs</summary>
+
+```
 From repo    : updates-testing
 Short desc   : A library and drivers for direct userspace use of RDMA (InfiniBand/iWARP/RoCE) hardware
 URL          : https://github.com/linux-rdma/rdma-core
@@ -4756,7 +5462,7 @@ Descript     : libibverbs is a library that allows userspace processes to use RD
 <summary>libical</summary>
 
 ```
-From repo    : anaconda
+From repo    : updates
 Short desc   : Reference implementation of the iCalendar data type and serialization format
 URL          : https://libical.github.io/libical/
 License      : LGPLv2 or MPLv2.0
@@ -4770,7 +5476,7 @@ Descript     : Reference implementation of the iCalendar data type and serializa
 <summary>libical-glib</summary>
 
 ```
-From repo    : anaconda
+From repo    : updates
 Short desc   : GObject wrapper for libical library
 URL          : https://libical.github.io/libical/
 License      : LGPLv2 or MPLv2.0
@@ -4871,6 +5577,21 @@ Descript     : GNU Libidn is an implementation of the Stringprep, Punycode and
 <summary>libidn2</summary>
 
 ```
+From repo    : fedora
+Short desc   : Library to support IDNA2008 internationalized domain names
+URL          : https://www.gnu.org/software/libidn/#libidn2
+License      : (GPLv2+ or LGPLv3+) and GPLv3+
+Descript     : Libidn2 is an implementation of the IDNA2008 specifications in RFC
+             : 5890, 5891, 5892, 5893 and TR46 for internationalized domain names
+             : (IDN). It is a standalone library, without any dependency on libidn.
+```
+
+</details>
+
+<details>
+<summary>libidn2</summary>
+
+```
 From repo    : anaconda
 Short desc   : Library to support IDNA2008 internationalized domain names
 URL          : https://www.gnu.org/software/libidn/#libidn2
@@ -4878,6 +5599,23 @@ License      : (GPLv2+ or LGPLv3+) and GPLv3+
 Descript     : Libidn2 is an implementation of the IDNA2008 specifications in RFC
              : 5890, 5891, 5892, 5893 and TR46 for internationalized domain names
              : (IDN). It is a standalone library, without any dependency on libidn.
+```
+
+</details>
+
+<details>
+<summary>libiec61883</summary>
+
+```
+From repo    : fedora
+Short desc   : Streaming library for IEEE1394
+URL          : http://ieee1394.wiki.kernel.org/index.php/Libraries#libiec61883
+License      : LGPLv2+
+Descript     : The libiec61883 library provides an higher level API for streaming DV,
+             : MPEG-2 and audio over IEEE1394.  Based on the libraw1394 isochronous
+             : functionality, this library acts as a filter that accepts DV-frames,
+             : MPEG-2 frames or audio samples from the application and breaks these
+             : down to isochronous packets, which are transmitted using libraw1394.
 ```
 
 </details>
@@ -4895,6 +5633,19 @@ Descript     : The libiec61883 library provides an higher level API for streamin
              : functionality, this library acts as a filter that accepts DV-frames,
              : MPEG-2 frames or audio samples from the application and breaks these
              : down to isochronous packets, which are transmitted using libraw1394.
+```
+
+</details>
+
+<details>
+<summary>libieee1284</summary>
+
+```
+From repo    : fedora
+Short desc   : A library for interfacing IEEE 1284-compatible devices
+URL          : http://cyberelk.net/tim/libieee1284/
+License      : GPLv2+
+Descript     : The libieee1284 library is for communicating with parallel port devices.
 ```
 
 </details>
@@ -4948,6 +5699,20 @@ Descript     : The IJS (InkJet Server) Raster Image Transport Protocol is a libr
 
 ```
 From repo    : anaconda
+Short desc   : Palette quantization library
+URL          : https://github.com/ImageOptim/libimagequant
+License      : GPLv3+ and MIT
+Descript     : Small, portable C library for high-quality conversion of RGBA images to 8-bit
+             : indexed-color (palette) images.
+```
+
+</details>
+
+<details>
+<summary>libimagequant</summary>
+
+```
+From repo    : fedora
 Short desc   : Palette quantization library
 URL          : https://github.com/ImageOptim/libimagequant
 License      : GPLv3+ and MIT
@@ -5272,6 +6037,20 @@ Descript     : This library allows reading and writing gzip-compressed JSON cata
 
 ```
 From repo    : anaconda
+Short desc   : A MMX/SSE2/SIMD accelerated library for manipulating JPEG image files
+URL          : http://sourceforge.net/projects/libjpeg-turbo
+License      : IJG
+Descript     : The libjpeg-turbo package contains a library of functions for manipulating JPEG
+             : images.
+```
+
+</details>
+
+<details>
+<summary>libjpeg-turbo</summary>
+
+```
+From repo    : fedora
 Short desc   : A MMX/SSE2/SIMD accelerated library for manipulating JPEG image files
 URL          : http://sourceforge.net/projects/libjpeg-turbo
 License      : IJG
@@ -5855,6 +6634,19 @@ License      : MIT
 Descript     : C Library for manipulating module metadata files.
              : See https://github.com/fedora-modularity/libmodulemd/blob/master/README.md for
              : more details.
+```
+
+</details>
+
+<details>
+<summary>libmount</summary>
+
+```
+From repo    : fedora
+Short desc   : Device mounting library
+URL          : http://en.wikipedia.org/wiki/Util-linux
+License      : LGPLv2+
+Descript     : This is the device mounting library, part of util-linux.
 ```
 
 </details>
@@ -6548,6 +7340,20 @@ Descript     : libnghttp2 is a library implementing the Hypertext Transfer Proto
 <summary>libnghttp2</summary>
 
 ```
+From repo    : fedora
+Short desc   : A library implementing the HTTP/2 protocol
+URL          : https://nghttp2.org/
+License      : MIT
+Descript     : libnghttp2 is a library implementing the Hypertext Transfer Protocol
+             : version 2 (HTTP/2) protocol in C.
+```
+
+</details>
+
+<details>
+<summary>libnghttp2</summary>
+
+```
 From repo    : updates-testing
 Short desc   : A library implementing the HTTP/2 protocol
 URL          : https://nghttp2.org/
@@ -6572,6 +7378,21 @@ Descript     : libnice is an implementation of the IETF draft Interactive Connec
              : NATs and provides security against some attacks. Existing standards that use
              : ICE include the Session Initiation Protocol (SIP) and Jingle, XMPP extension
              : for audio/video calls.
+```
+
+</details>
+
+<details>
+<summary>libnl3</summary>
+
+```
+From repo    : fedora
+Short desc   : Convenience library for kernel netlink sockets
+URL          : http://www.infradead.org/~tgr/libnl/
+License      : LGPLv2
+Descript     : This package contains a convenience library to simplify
+             : using the Linux kernel's netlink sockets interface for
+             : network manipulation
 ```
 
 </details>
@@ -6706,6 +7527,22 @@ License      : LGPLv2+ or MPLv2.0
 Descript     : libodfgen is a library for generating ODF documents. It is directly
              : pluggable into input filters based on librevenge. It is used in
              : libreoffice or calligra, for example.
+```
+
+</details>
+
+<details>
+<summary>libogg</summary>
+
+```
+Эпоха        : 2
+From repo    : fedora
+Short desc   : The Ogg bitstream file format library
+URL          : http://www.xiph.org/
+License      : BSD
+Descript     : Libogg is a library for manipulating Ogg bitstream file formats.
+             : Libogg supports both making Ogg bitstreams and getting packets from
+             : Ogg bitstreams.
 ```
 
 </details>
@@ -6905,6 +7742,29 @@ Descript     : Utility functions to manipulate filesystem pathnames
 
 ```
 Эпоха        : 14
+From repo    : fedora
+Short desc   : A system-independent interface for user-level packet capture
+URL          : https://www.tcpdump.org/
+License      : BSD with advertising
+Descript     : Libpcap provides a portable framework for low-level network
+             : monitoring.  Libpcap can provide network statistics collection,
+             : security monitoring and network debugging.  Since almost every system
+             : vendor provides a different interface for packet capture, the libpcap
+             : authors created this system-independent API to ease in porting and to
+             : alleviate the need for several system-dependent packet capture modules
+             : in each application.
+             : 
+             : Install libpcap if you need to do low-level network traffic monitoring
+             : on your network.
+```
+
+</details>
+
+<details>
+<summary>libpcap</summary>
+
+```
+Эпоха        : 14
 From repo    : anaconda
 Short desc   : A system-independent interface for user-level packet capture
 URL          : https://www.tcpdump.org/
@@ -6919,6 +7779,20 @@ Descript     : Libpcap provides a portable framework for low-level network
              : 
              : Install libpcap if you need to do low-level network traffic monitoring
              : on your network.
+```
+
+</details>
+
+<details>
+<summary>libpciaccess</summary>
+
+```
+From repo    : fedora
+Short desc   : PCI access library
+URL          : https://www.x.org/
+License      : MIT
+Descript     : libpciaccess is a library for portable PCI access routines across multiple
+             : operating systems.
 ```
 
 </details>
@@ -7169,6 +8043,27 @@ Descript     : The libpmemobj library provides a transactional object store,
 
 ```
 Эпоха        : 2
+From repo    : fedora
+Short desc   : A library of functions for manipulating PNG image format files
+URL          : http://www.libpng.org/pub/png/
+License      : zlib
+Descript     : The libpng package contains a library of functions for creating and
+             : manipulating PNG (Portable Network Graphics) image format files.  PNG
+             : is a bit-mapped graphics format similar to the GIF format.  PNG was
+             : created to replace the GIF format, since GIF uses a patented data
+             : compression algorithm.
+             : 
+             : Libpng should be installed if you need to manipulate PNG format image
+             : files.
+```
+
+</details>
+
+<details>
+<summary>libpng</summary>
+
+```
+Эпоха        : 2
 From repo    : updates-testing
 Short desc   : A library of functions for manipulating PNG image format files
 URL          : http://www.libpng.org/pub/png/
@@ -7279,6 +8174,27 @@ Descript     : Libprelude is a collection of generic functions providing communi
 <summary>libproxy</summary>
 
 ```
+From repo    : fedora
+Short desc   : A library handling all the details of proxy configuration
+URL          : https://libproxy.github.io/libproxy/
+License      : LGPLv2+
+Descript     : libproxy offers the following features:
+             : 
+             :     * extremely small core footprint (< 35K)
+             :     * no external dependencies within libproxy core
+             :       (libproxy plugins may have dependencies)
+             :     * only 3 functions in the stable external API
+             :     * dynamic adjustment to changing network topology
+             :     * a standard way of dealing with proxy settings across all scenarios
+             :     * a sublime sense of joy and accomplishment
+```
+
+</details>
+
+<details>
+<summary>libproxy</summary>
+
+```
 From repo    : anaconda
 Short desc   : A library handling all the details of proxy configuration
 URL          : https://libproxy.github.io/libproxy/
@@ -7320,6 +8236,39 @@ URL          : https://www.nongnu.org/oath-toolkit/
 License      : LGPLv2+
 Descript     : Library for managing secret key files, the Portable Symmetric Key
              : Container (PSKC) format described in RFC6030 is supported.
+```
+
+</details>
+
+<details>
+<summary>libpsl</summary>
+
+```
+From repo    : fedora
+Short desc   : C library for the Publix Suffix List
+URL          : https://rockdaboot.github.io/libpsl
+License      : MIT
+Descript     : libpsl is a C library to handle the Public Suffix List. A "public suffix" is a
+             : domain name under which Internet users can directly register own names.
+             : 
+             : Browsers and other web clients can use it to
+             : 
+             : - Avoid privacy-leaking "supercookies";
+             : - Avoid privacy-leaking "super domain" certificates;
+             : - Domain highlighting parts of the domain in a user interface;
+             : - Sorting domain lists by site;
+             : 
+             : Libpsl...
+             : 
+             : - has built-in PSL data for fast access;
+             : - allows to load PSL data from files;
+             : - checks if a given domain is a "public suffix";
+             : - provides immediate cookie domain verification;
+             : - finds the longest public part of a given domain;
+             : - finds the shortest private part of a given domain;
+             : - works with international domains (UTF-8 and IDNA2008 Punycode);
+             : - is thread-safe;
+             : - handles IDNA2008 UTS#46;
 ```
 
 </details>
@@ -7467,21 +8416,7 @@ Descript     : This project aims to be the best, clearest QR Code generator libr
 <summary>libquadmath</summary>
 
 ```
-From repo    : anaconda
-Short desc   : GCC __float128 shared support library
-URL          : http://gcc.gnu.org
-License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Descript     : This package contains GCC shared support library which is needed
-             : for __float128 math support and for Fortran REAL*16 support.
-```
-
-</details>
-
-<details>
-<summary>libquadmath</summary>
-
-```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : GCC __float128 shared support library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -7495,7 +8430,7 @@ Descript     : This package contains GCC shared support library which is needed
 <summary>libquadmath-devel</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : GCC __float128 support
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -7541,6 +8476,20 @@ Descript     : RADOS is a reliable, autonomic distributed object storage cluster
 <summary>libraqm</summary>
 
 ```
+From repo    : fedora
+Short desc   : Complex Textlayout Library
+URL          : https://github.com/HOST-Oman/libraqm
+License      : MIT
+Descript     : Library that encapsulates the logic for complex
+             : text layout and provides a convenient API.
+```
+
+</details>
+
+<details>
+<summary>libraqm</summary>
+
+```
 From repo    : anaconda
 Short desc   : Complex Textlayout Library
 URL          : https://github.com/HOST-Oman/libraqm
@@ -7561,6 +8510,21 @@ URL          : https://github.com/HOST-Oman/libraqm
 License      : MIT
 Descript     : Library that encapsulates the logic for complex
              : text layout and provides a convenient API.
+```
+
+</details>
+
+<details>
+<summary>libraw1394</summary>
+
+```
+From repo    : fedora
+Short desc   : Library providing low-level IEEE-1394 access - 2.1.2-
+URL          : http://www.dennedy.org/libraw1394/
+License      : LGPLv2+
+Descript     : The libraw1394 library provides direct access to the IEEE-1394 bus.
+             : Support for both the obsolete ieee1394 interface and the new firewire
+             : intererface are included, with run-time detection of the active stack.
 ```
 
 </details>
@@ -8273,20 +9237,7 @@ Descript     : This package contain a SANE backend for MFP and document scanners
 <summary>libsane-hpaio</summary>
 
 ```
-From repo    : anaconda
-Short desc   : SANE driver for scanners in HP's multi-function devices
-URL          : https://developers.hp.com/hp-linux-imaging-and-printing
-License      : GPLv2+
-Descript     : SANE driver for scanners in HP's multi-function devices (from HPOJ).
-```
-
-</details>
-
-<details>
-<summary>libsane-hpaio</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : SANE driver for scanners in HP's multi-function devices
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 License      : GPLv2+
@@ -8348,6 +9299,31 @@ Descript     : libsecret is a library for storing and retrieving passwords and o
 
 ```
 From repo    : anaconda
+Short desc   : SELinux library and simple utilities
+URL          : https://github.com/SELinuxProject/selinux/wiki
+License      : Public Domain
+Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
+             : of utilities with enhanced security functionality designed to add
+             : mandatory access controls to Linux.  The Security-enhanced Linux
+             : kernel contains new architectural components originally developed to
+             : improve the security of the Flask operating system. These
+             : architectural components provide general support for the enforcement
+             : of many kinds of mandatory access control policies, including those
+             : based on the concepts of Type Enforcement®, Role-based Access
+             : Control, and Multi-level Security.
+             : 
+             : libselinux provides an API for SELinux applications to get and set
+             : process and file security contexts and to obtain security policy
+             : decisions.  Required for any applications that use the SELinux API.
+```
+
+</details>
+
+<details>
+<summary>libselinux</summary>
+
+```
+From repo    : fedora
 Short desc   : SELinux library and simple utilities
 URL          : https://github.com/SELinuxProject/selinux/wiki
 License      : Public Domain
@@ -8529,6 +9505,32 @@ Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a 
 <summary>libsepol</summary>
 
 ```
+From repo    : fedora
+Short desc   : SELinux binary policy manipulation library
+URL          : https://github.com/SELinuxProject/selinux/wiki
+License      : LGPLv2+
+Descript     : Security-enhanced Linux is a feature of the Linux® kernel and a number
+             : of utilities with enhanced security functionality designed to add
+             : mandatory access controls to Linux.  The Security-enhanced Linux
+             : kernel contains new architectural components originally developed to
+             : improve the security of the Flask operating system. These
+             : architectural components provide general support for the enforcement
+             : of many kinds of mandatory access control policies, including those
+             : based on the concepts of Type Enforcement®, Role-based Access
+             : Control, and Multi-level Security.
+             : 
+             : libsepol provides an API for the manipulation of SELinux binary policies.
+             : It is used by checkpolicy (the policy compiler) and similar tools, as well
+             : as by programs like load_policy that need to perform specific transformations
+             : on binary policies such as customizing policy boolean settings.
+```
+
+</details>
+
+<details>
+<summary>libsepol</summary>
+
+```
 From repo    : updates-testing
 Short desc   : SELinux binary policy manipulation library
 URL          : https://github.com/SELinuxProject/selinux/wiki
@@ -8577,6 +9579,21 @@ Descript     : The serf library is a C-based HTTP client library built upon the 
              : Portable Runtime (APR) library. It multiplexes connections, running the
              : read/write communication asynchronously. Memory copies and transformations are
              : kept to a minimum to provide high performance operation.
+```
+
+</details>
+
+<details>
+<summary>libshout</summary>
+
+```
+From repo    : fedora
+Short desc   : Icecast source streaming library
+URL          : https://www.icecast.org/
+License      : LGPLv2+ and MIT
+Descript     : libshout is a library for communicating with and sending data to an
+             : icecast server.  It handles the socket connection, the timing of the
+             : data, and prevents most bad data from getting to the icecast server.
 ```
 
 </details>
@@ -8716,6 +9733,23 @@ Descript     : Libsmi is a C library to access MIB module information through
 <summary>libsndfile</summary>
 
 ```
+From repo    : fedora
+Short desc   : Library for reading and writing sound files
+URL          : http://libsndfile.github.io/libsndfile/
+License      : LGPLv2+ and GPLv2+ and BSD
+Descript     : libsndfile is a C library for reading and writing sound files such as
+             : AIFF, AU, WAV, and others through one standard interface. It can
+             : currently read/write 8, 16, 24 and 32-bit PCM files as well as 32 and
+             : 64-bit floating point WAV files and a number of compressed formats. It
+             : compiles and runs on *nix, MacOS, and Win32.
+```
+
+</details>
+
+<details>
+<summary>libsndfile</summary>
+
+```
 From repo    : anaconda
 Short desc   : Library for reading and writing sound files
 URL          : http://libsndfile.github.io/libsndfile/
@@ -8777,6 +9811,27 @@ Descript     : A free package dependency solver using a satisfiability algorithm
 
 ```
 From repo    : anaconda
+Short desc   : Soup, an HTTP library implementation
+URL          : https://wiki.gnome.org/Projects/libsoup
+License      : LGPLv2
+Descript     : Libsoup is an HTTP library implementation in C. It was originally part
+             : of a SOAP (Simple Object Access Protocol) implementation called Soup, but
+             : the SOAP and non-SOAP parts have now been split into separate packages.
+             : 
+             : libsoup uses the Glib main loop and is designed to work well with GTK
+             : applications. This enables GNOME applications to access HTTP servers
+             : on the network in a completely asynchronous fashion, very similar to
+             : the Gtk+ programming model (a synchronous operation mode is also
+             : supported for those who want it).
+```
+
+</details>
+
+<details>
+<summary>libsoup</summary>
+
+```
+From repo    : fedora
 Short desc   : Soup, an HTTP library implementation
 URL          : https://wiki.gnome.org/Projects/libsoup
 License      : LGPLv2
@@ -8888,6 +9943,24 @@ Descript     : This is libss, a command line interface parsing library, part of 
              : compile and use it.
              : 
              : It was originally inspired by the Multics SubSystem library.
+```
+
+</details>
+
+<details>
+<summary>libssh</summary>
+
+```
+From repo    : fedora
+Short desc   : A library implementing the SSH protocol
+URL          : http://www.libssh.org
+License      : LGPLv2+
+Descript     : The ssh library was designed to be used by programmers needing a working SSH
+             : implementation by the mean of a library. The complete control of the client is
+             : made by the programmer. With libssh, you can remotely execute programs, transfer
+             : files, use a secure and transparent tunnel for your remote programs. With its
+             : Secure FTP implementation, you can play with remote files easily, without
+             : third-party programs others than libcrypto (from openssl).
 ```
 
 </details>
@@ -9121,7 +10194,7 @@ Descript     : Libstatgrab is a library that provides cross platform access to s
 <summary>libstdc++</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : GNU Standard C++ Library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -9135,7 +10208,7 @@ Descript     : The libstdc++ package contains a rewritten standard compliant GCC
 <summary>libstdc++</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : GNU Standard C++ Library
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -9149,7 +10222,7 @@ Descript     : The libstdc++ package contains a rewritten standard compliant GCC
 <summary>libstdc++-devel</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Header files and libraries for C++ development
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -9261,6 +10334,21 @@ Descript     : libtar is a C library for manipulating tar archives. It supports 
 <summary>libtasn1</summary>
 
 ```
+From repo    : fedora
+Short desc   : The ASN.1 library used in GNUTLS
+URL          : http://www.gnu.org/software/libtasn1/
+License      : GPLv3+ and LGPLv2+
+Descript     : A library that provides Abstract Syntax Notation One (ASN.1, as specified
+             : by the X.680 ITU-T recommendation) parsing and structures management, and
+             : Distinguished Encoding Rules (DER, as per X.690) encoding and decoding functions.
+```
+
+</details>
+
+<details>
+<summary>libtasn1</summary>
+
+```
 From repo    : anaconda
 Short desc   : The ASN.1 library used in GNUTLS
 URL          : http://www.gnu.org/software/libtasn1/
@@ -9335,6 +10423,22 @@ Descript     : Library for producing styled text to be displayed in a terminal
 <summary>libthai</summary>
 
 ```
+From repo    : fedora
+Short desc   : Thai language support routines
+URL          : http://linux.thai.net
+License      : LGPLv2+
+Descript     : LibThai is a set of Thai language support routines aimed to ease
+             : developers' tasks to incorporate Thai language support in their applications.
+             : It includes important Thai-specific functions e.g. word breaking, input and
+             : output methods as well as basic character and string supports.
+```
+
+</details>
+
+<details>
+<summary>libthai</summary>
+
+```
 From repo    : anaconda
 Short desc   : Thai language support routines
 URL          : http://linux.thai.net
@@ -9369,6 +10473,25 @@ Descript     : The libthai-devel package includes the header files and developer
 
 ```
 Эпоха        : 1
+From repo    : fedora
+Short desc   : Theora Video Compression Codec
+URL          : http://www.theora.org
+License      : BSD
+Descript     : Theora is Xiph.Org's first publicly released video codec, intended
+             : for use within the Ogg's project's Ogg multimedia streaming system.
+             : Theora is derived directly from On2's VP3 codec; Currently the two are
+             : nearly identical, varying only in encapsulating decoder tables in the
+             : bitstream headers, but Theora will make use of this extra freedom
+             : in the future to improve over what is possible with VP3.
+```
+
+</details>
+
+<details>
+<summary>libtheora</summary>
+
+```
+Эпоха        : 1
 From repo    : anaconda
 Short desc   : Theora Video Compression Codec
 URL          : http://www.theora.org
@@ -9379,6 +10502,25 @@ Descript     : Theora is Xiph.Org's first publicly released video codec, intende
              : nearly identical, varying only in encapsulating decoder tables in the
              : bitstream headers, but Theora will make use of this extra freedom
              : in the future to improve over what is possible with VP3.
+```
+
+</details>
+
+<details>
+<summary>libtiff</summary>
+
+```
+From repo    : fedora
+Short desc   : Library of functions for manipulating TIFF format image files
+URL          : http://www.simplesystems.org/libtiff/
+License      : libtiff
+Descript     : The libtiff package contains a library of functions for manipulating
+             : TIFF (Tagged Image File Format) image format files.  TIFF is a widely
+             : used file format for bitmapped images.  TIFF files usually end in the
+             : .tif extension and they are often quite large.
+             : 
+             : The libtiff package should be installed if you need to manipulate TIFF
+             : format image files.
 ```
 
 </details>
@@ -9549,6 +10691,25 @@ Descript     : GNU Libtool is a set of shell scripts which automatically configu
 <summary>libtool-ltdl</summary>
 
 ```
+From repo    : fedora
+Short desc   : Runtime libraries for GNU Libtool Dynamic Module Loader
+URL          : http://www.gnu.org/software/libtool/
+License      : LGPLv2+
+Descript     : The libtool-ltdl package contains the GNU Libtool Dynamic Module Loader, a
+             : library that provides a consistent, portable interface which simplifies the
+             : process of using dynamic modules.
+             : 
+             : These runtime libraries are needed by programs that link directly to the
+             : system-installed ltdl libraries; they are not needed by software built using
+             : the rest of the GNU Autotools (including GNU Autoconf and GNU Automake).
+```
+
+</details>
+
+<details>
+<summary>libtool-ltdl</summary>
+
+```
 From repo    : anaconda
 Short desc   : Runtime libraries for GNU Libtool Dynamic Module Loader
 URL          : http://www.gnu.org/software/libtool/
@@ -9690,6 +10851,23 @@ Descript     : This package contains the dynamic library, which provides
 <summary>libunistring</summary>
 
 ```
+From repo    : fedora
+Short desc   : GNU Unicode string library
+URL          : https://www.gnu.org/software/libunistring/
+License      : GPLV2+ or LGPLv3+
+Descript     : This portable C library implements Unicode string types in three flavours:
+             : (UTF-8, UTF-16, UTF-32), together with functions for character processing
+             : (names, classifications, properties) and functions for string processing
+             : (iteration, formatted output, width, word breaks, line breaks, normalization,
+             : case folding and regular expressions).
+```
+
+</details>
+
+<details>
+<summary>libunistring</summary>
+
+```
 From repo    : anaconda
 Short desc   : GNU Unicode string library
 URL          : https://www.gnu.org/software/libunistring/
@@ -9699,6 +10877,19 @@ Descript     : This portable C library implements Unicode string types in three 
              : (names, classifications, properties) and functions for string processing
              : (iteration, formatted output, width, word breaks, line breaks, normalization,
              : case folding and regular expressions).
+```
+
+</details>
+
+<details>
+<summary>libunwind</summary>
+
+```
+From repo    : fedora
+Short desc   : An unwinding library
+URL          : http://savannah.nongnu.org/projects/libunwind
+License      : BSD
+Descript     : Libunwind provides a C ABI to determine the call-chain of a program.
 ```
 
 </details>
@@ -9756,6 +10947,27 @@ License      : LGPLv2+
 Descript     : libusbmuxd is the client library used for communicating with Apple's iPod Touch,
              : iPhone, iPad and Apple TV devices. It allows multiple services on the device
              : to be accessed simultaneously.
+```
+
+</details>
+
+<details>
+<summary>libusbx</summary>
+
+```
+From repo    : fedora
+Short desc   : Library for accessing USB devices
+URL          : http://libusb.info
+License      : LGPLv2+
+Descript     : This package provides a way for applications to access USB devices.
+             : 
+             : Libusbx is a fork of the original libusb, which is a fully API and ABI
+             : compatible drop in for the libusb-1.0.9 release. The libusbx fork was
+             : started by most of the libusb-1.0 developers, after the original libusb
+             : project did not produce a new release for over 18 months.
+             : 
+             : Note that this library is not compatible with the original libusb-0.1 series,
+             : if you need libusb-0.1 compatibility install the libusb package.
 ```
 
 </details>
@@ -9831,6 +11043,28 @@ Descript     : This library provides interface for terminal emulators such as
 <summary>libuuid</summary>
 
 ```
+From repo    : fedora
+Short desc   : Universally unique ID library
+URL          : http://en.wikipedia.org/wiki/Util-linux
+License      : BSD
+Descript     : This is the universally unique ID library, part of util-linux.
+             : 
+             : The libuuid library generates and parses 128-bit universally unique
+             : id's (UUID's).  A UUID is an identifier that is unique across both
+             : space and time, with respect to the space of all UUIDs.  A UUID can
+             : be used for multiple purposes, from tagging objects with an extremely
+             : short lifetime, to reliably identifying very persistent objects
+             : across a network.
+             : 
+             : See also the "uuid" package, which is a separate implementation.
+```
+
+</details>
+
+<details>
+<summary>libuuid</summary>
+
+```
 From repo    : anaconda
 Short desc   : Universally unique ID library
 URL          : http://en.wikipedia.org/wiki/Util-linux
@@ -9885,6 +11119,33 @@ Descript     : libuv is a new platform layer for Node. Its purpose is to abstrac
 <summary>libv4l</summary>
 
 ```
+From repo    : fedora
+Short desc   : Collection of video4linux support libraries
+URL          : http://hansdegoede.livejournal.com/3636.html
+License      : LGPLv2+ and GPLv2
+Descript     : libv4l is a collection of libraries which adds a thin abstraction layer on
+             : top of video4linux2 devices. The purpose of this (thin) layer is to make it
+             : easy for application writers to support a wide variety of devices without
+             : having to write separate code for different devices in the same class. libv4l
+             : consists of 3 different libraries: libv4lconvert, libv4l1 and libv4l2.
+             : 
+             : libv4lconvert offers functions to convert from any (known) pixel-format
+             : to V4l2_PIX_FMT_BGR24 or V4l2_PIX_FMT_YUV420.
+             : 
+             : libv4l1 offers the (deprecated) v4l1 API on top of v4l2 devices, independent
+             : of the drivers for those devices supporting v4l1 compatibility (which many
+             : v4l2 drivers do not).
+             : 
+             : libv4l2 offers the v4l2 API on top of v4l2 devices, while adding for the
+             : application transparent libv4lconvert conversion where necessary.
+```
+
+</details>
+
+<details>
+<summary>libv4l</summary>
+
+```
 From repo    : anaconda
 Short desc   : Collection of video4linux support libraries
 URL          : http://hansdegoede.livejournal.com/3636.html
@@ -9912,7 +11173,7 @@ Descript     : libv4l is a collection of libraries which adds a thin abstraction
 <summary>libva</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : Video Acceleration (VA) API for Linux
 URL          : https://github.com/intel/libva
 License      : MIT
@@ -9935,6 +11196,50 @@ Descript     : Libva is a library providing the VA API video acceleration API.
 </details>
 
 <details>
+<summary>libva-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Development files for libva
+URL          : https://github.com/intel/libva
+License      : MIT
+Descript     : The libva-devel package contains libraries and header files for
+             : developing applications that use libva.
+```
+
+</details>
+
+<details>
+<summary>libva-intel-driver</summary>
+
+```
+From repo    : rpmfusion-free
+Short desc   : HW video decode support for Intel integrated graphics
+URL          : https://github.com/intel/intel-vaapi-driver
+License      : MIT and EPL
+Descript     : HW video decode support for Intel integrated graphics.
+             : https://01.org/intel-media-for-linux
+```
+
+</details>
+
+<details>
+<summary>libva-intel-hybrid-driver</summary>
+
+```
+From repo    : fedora
+Short desc   : VA driver for Intel G45 & HD Graphics family
+URL          : https://github.com/01org/intel-hybrid-driver
+License      : MIT and BSD and NTP
+Descript     : libva-intel-hybrid-driver is the VA-API implementation for Intel G45 chipsets
+             : and Intel HD Graphics for Intel Core processor family.
+             : 
+             : It allows to accelerate VP9 videos on Skylake and Kabylake architectures.
+```
+
+</details>
+
+<details>
 <summary>libva-utils</summary>
 
 ```
@@ -9945,6 +11250,21 @@ License      : MIT and BSD
 Descript     : The libva-utils package contains tools that are provided as part
              : of libva, including the vainfo tool for determining what (if any)
              : libva support is available on a system.
+```
+
+</details>
+
+<details>
+<summary>libva-v4l2-request</summary>
+
+```
+From repo    : fedora
+Short desc   : VA-API Backend using v4l2-request API
+URL          : https://github.com/bootlin/libva-v4l2-request
+License      : LGPLv2+ and MIT
+Descript     : This VA-API backend is designed to work with the Linux Video4Linux2
+             : Request API that is used by a number of video codecs drivers, including
+             : the Video Engine found in most Allwinner SoCs.
 ```
 
 </details>
@@ -10018,7 +11338,7 @@ Descript     : VDPAU is the Video Decode and Presentation API for UNIX. It provi
 <summary>libverto</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : Main loop abstraction library
 URL          : https://github.com/latchset/libverto
 License      : MIT
@@ -10549,6 +11869,30 @@ Descript     : libvisio is library providing ability to interpret and import
 
 ```
 Эпоха        : 1
+From repo    : fedora
+Short desc   : Abstraction library for audio visualisation plugins
+URL          : http://libvisual.sf.net
+License      : LGPLv2+
+Descript     : Libvisual is an abstraction library that comes between applications and
+             : audio visualisation plugins.
+             : 
+             : Often when it comes to audio visualisation plugins or programs that create
+             : visuals they do depend on a player or something else, basically there is no
+             : general framework that enable application developers to easy access cool
+             : audio visualisation plugins. Libvisual wants to change this by providing
+             : an interface towards plugins and applications, through this easy to use
+             : interface applications can easily access plugins and since the drawing is
+             : done by the application it also enables the developer to draw the visual
+             : anywhere he wants.
+```
+
+</details>
+
+<details>
+<summary>libvisual</summary>
+
+```
+Эпоха        : 1
 From repo    : anaconda
 Short desc   : Abstraction library for audio visualisation plugins
 URL          : http://libvisual.sf.net
@@ -10564,6 +11908,60 @@ Descript     : Libvisual is an abstraction library that comes between applicatio
              : interface applications can easily access plugins and since the drawing is
              : done by the application it also enables the developer to draw the visual
              : anywhere he wants.
+```
+
+</details>
+
+<details>
+<summary>libvkd3d</summary>
+
+```
+From repo    : fedora
+Short desc   : D3D12 to Vulkan translation library
+URL          : https://source.winehq.org/git/vkd3d.git
+License      : LGPLv2+
+Descript     : libvkd3d is the main component of the vkd3d project. It's a 3D graphics
+             : library built on top of Vulkan with an API very similar to Direct3D 12.
+```
+
+</details>
+
+<details>
+<summary>libvkd3d</summary>
+
+```
+From repo    : fedora
+Short desc   : D3D12 to Vulkan translation library
+URL          : https://source.winehq.org/git/vkd3d.git
+License      : LGPLv2+
+Descript     : libvkd3d is the main component of the vkd3d project. It's a 3D graphics
+             : library built on top of Vulkan with an API very similar to Direct3D 12.
+```
+
+</details>
+
+<details>
+<summary>libvkd3d-shader</summary>
+
+```
+From repo    : fedora
+Short desc   : Shader library for vkd3d
+URL          : https://source.winehq.org/git/vkd3d.git
+License      : LGPLv2+
+Descript     : Shader library for vkd3d
+```
+
+</details>
+
+<details>
+<summary>libvkd3d-shader</summary>
+
+```
+From repo    : fedora
+Short desc   : Shader library for vkd3d
+URL          : https://source.winehq.org/git/vkd3d.git
+License      : LGPLv2+
+Descript     : Shader library for vkd3d
 ```
 
 </details>
@@ -10603,6 +12001,25 @@ Descript     : LibVNCServer makes writing a VNC server (or more correctly, a pro
 
 ```
 Эпоха        : 1
+From repo    : fedora
+Short desc   : The Vorbis General Audio Compression Codec
+URL          : https://www.xiph.org/
+License      : BSD
+Descript     : Ogg Vorbis is a fully open, non-proprietary, patent- and royalty-free,
+             : general-purpose compressed audio format for audio and music at fixed
+             : and variable bitrates.
+             : 
+             : The libvorbis package contains runtime libraries for use in programs
+             : that support Ogg Vorbis.
+```
+
+</details>
+
+<details>
+<summary>libvorbis</summary>
+
+```
+Эпоха        : 1
 From repo    : anaconda
 Short desc   : The Vorbis General Audio Compression Codec
 URL          : https://www.xiph.org/
@@ -10613,6 +12030,21 @@ Descript     : Ogg Vorbis is a fully open, non-proprietary, patent- and royalty-
              : 
              : The libvorbis package contains runtime libraries for use in programs
              : that support Ogg Vorbis.
+```
+
+</details>
+
+<details>
+<summary>libvpx</summary>
+
+```
+From repo    : fedora
+Short desc   : VP8/VP9 Video Codec SDK
+URL          : http://www.webmproject.org/code/
+License      : BSD
+Descript     : libvpx provides the VP8/VP9 SDK, which allows you to integrate your applications
+             : with the VP8 and VP9 video codecs, high quality, royalty free, open source codecs
+             : deployed on millions of computers and devices worldwide.
 ```
 
 </details>
@@ -10692,11 +12124,37 @@ Descript     : Tablet information client library data files.
 <summary>libwayland-client</summary>
 
 ```
+From repo    : fedora
+Short desc   : Wayland client library
+URL          : http://wayland.freedesktop.org/
+License      : MIT
+Descript     : Wayland client library
+```
+
+</details>
+
+<details>
+<summary>libwayland-client</summary>
+
+```
 From repo    : anaconda
 Short desc   : Wayland client library
 URL          : http://wayland.freedesktop.org/
 License      : MIT
 Descript     : Wayland client library
+```
+
+</details>
+
+<details>
+<summary>libwayland-cursor</summary>
+
+```
+From repo    : fedora
+Short desc   : Wayland cursor library
+URL          : http://wayland.freedesktop.org/
+License      : MIT
+Descript     : Wayland cursor library
 ```
 
 </details>
@@ -10718,11 +12176,37 @@ Descript     : Wayland cursor library
 <summary>libwayland-egl</summary>
 
 ```
+From repo    : fedora
+Short desc   : Wayland egl library
+URL          : http://wayland.freedesktop.org/
+License      : MIT
+Descript     : Wayland egl library
+```
+
+</details>
+
+<details>
+<summary>libwayland-egl</summary>
+
+```
 From repo    : anaconda
 Short desc   : Wayland egl library
 URL          : http://wayland.freedesktop.org/
 License      : MIT
 Descript     : Wayland egl library
+```
+
+</details>
+
+<details>
+<summary>libwayland-server</summary>
+
+```
+From repo    : fedora
+Short desc   : Wayland server library
+URL          : http://wayland.freedesktop.org/
+License      : MIT
+Descript     : Wayland server library
 ```
 
 </details>
@@ -10751,6 +12235,23 @@ URL          : https://www.samba.org
 License      : GPLv3+ and LGPLv3+
 Descript     : The libwbclient package contains the winbind client library from the Samba
              : suite.
+```
+
+</details>
+
+<details>
+<summary>libwebp</summary>
+
+```
+From repo    : fedora
+Short desc   : Library and tools for the WebP graphics format
+URL          : http://webmproject.org/
+License      : BSD
+Descript     : WebP is an image format that does lossy compression of digital
+             : photographic images. WebP consists of a codec based on VP8, and a
+             : container based on RIFF. Webmasters, web developers and browser
+             : developers can use WebP to compress, archive and distribute digital
+             : images more efficiently.
 ```
 
 </details>
@@ -10977,6 +12478,21 @@ Descript     : Small x86 emulation library with focus of easy usage and extended
 <summary>libxcb</summary>
 
 ```
+From repo    : fedora
+Short desc   : A C binding to the X11 protocol
+URL          : http://xcb.freedesktop.org/
+License      : MIT
+Descript     : The X protocol C-language Binding (XCB) is a replacement for Xlib featuring a
+             : small footprint, latency hiding, direct access to the protocol, improved
+             : threading support, and extensibility.
+```
+
+</details>
+
+<details>
+<summary>libxcb</summary>
+
+```
 From repo    : anaconda
 Short desc   : A C binding to the X11 protocol
 URL          : http://xcb.freedesktop.org/
@@ -10998,6 +12514,36 @@ URL          : http://xcb.freedesktop.org/
 License      : MIT
 Descript     : The libxcb-devel package contains libraries and header files for developing
              : applications that use libxcb.
+```
+
+</details>
+
+<details>
+<summary>libxcrypt</summary>
+
+```
+From repo    : updates
+Short desc   : Extended crypt library for descrypt, md5crypt, bcrypt, and others
+URL          : https://github.com/besser82/libxcrypt
+License      : LGPLv2+ and BSD and Public Domain
+Descript     : libxcrypt is a modern library for one-way hashing of passwords.  It
+             : supports a wide variety of both modern and historical hashing methods:
+             : yescrypt, gost-yescrypt, scrypt, bcrypt, sha512crypt, sha256crypt,
+             : md5crypt, SunMD5, sha1crypt, NT, bsdicrypt, bigcrypt, and descrypt.
+             : It provides the traditional Unix crypt and crypt_r interfaces, as well
+             : as a set of extended interfaces pioneered by Openwall Linux, crypt_rn,
+             : crypt_ra, crypt_gensalt, crypt_gensalt_rn, and crypt_gensalt_ra.
+             : 
+             : libxcrypt is intended to be used by login(1), passwd(1), and other
+             : similar programs; that is, to hash a small number of passwords during
+             : an interactive authentication dialogue with a human. It is not suitable
+             : for use in bulk password-cracking applications, or in any other situation
+             : where speed is more important than careful handling of sensitive data.
+             : However, it is intended to be fast and lightweight enough for use in
+             : servers that must field thousands of login attempts per minute.
+             : 
+             : This version of the library does not provide the legacy API functions
+             : that have been provided by glibc's libcrypt.so.1.
 ```
 
 </details>
@@ -11143,6 +12689,42 @@ Descript     : libxklavier is a library providing a high-level API for the X Key
 </details>
 
 <details>
+<summary>libxml++30</summary>
+
+```
+From repo    : fedora
+Short desc   : C++ wrapper for the libxml2 XML parser library
+URL          : http://libxmlplusplus.sourceforge.net/
+License      : LGPLv2+
+Descript     : libxml++ is a C++ wrapper for the libxml2 XML parser library. Its original
+             : author is Ari Johnson and it is currently maintained by Christophe de Vienne
+             : and Murray Cumming.
+```
+
+</details>
+
+<details>
+<summary>libxml2</summary>
+
+```
+From repo    : fedora
+Short desc   : Library providing XML and HTML support
+URL          : http://xmlsoft.org/
+License      : MIT
+Descript     : This library allows to manipulate XML files. It includes support
+             : to read, modify and write XML and HTML files. There is DTDs support
+             : this includes parsing and validation even with complex DtDs, either
+             : at parse time or later once the document has been modified. The output
+             : can be a simple SAX stream or and in-memory DOM like representations.
+             : In this case one can use the built-in XPath and XPointer implementation
+             : to select sub nodes or ranges. A flexible Input/Output mechanism is
+             : available, with existing HTTP and FTP modules and combined to an
+             : URI library.
+```
+
+</details>
+
+<details>
 <summary>libxml2</summary>
 
 ```
@@ -11229,6 +12811,19 @@ Descript     : XML is slow to parse and strings inside the document cannot be me
 <summary>libxshmfence</summary>
 
 ```
+From repo    : fedora
+Short desc   : X11 shared memory fences
+URL          : https://www.x.org/
+License      : MIT
+Descript     : Shared memory fences for X11, as used in DRI3.
+```
+
+</details>
+
+<details>
+<summary>libxshmfence</summary>
+
+```
 From repo    : anaconda
 Short desc   : X11 shared memory fences
 URL          : https://www.x.org/
@@ -11250,20 +12845,6 @@ Descript     : This C library allows to transform XML files into other XML files
              : (or HTML, text, ...) using the standard XSLT stylesheet transformation
              : mechanism. To use it you need to have a version of libxml2 >= 2.6.27
              : installed. The xsltproc command is a command line interface to the XSLT engine
-```
-
-</details>
-
-<details>
-<summary>libxslt-devel</summary>
-
-```
-From repo    : fedora
-Short desc   : Development libraries and header files for libxslt
-URL          : http://xmlsoft.org/XSLT
-License      : MIT
-Descript     : The libxslt-devel package contains libraries and header files for
-             : developing applications that use libxslt.
 ```
 
 </details>
@@ -11378,6 +12959,19 @@ Descript     : libzmf is library providing ability to interpret and import Zoner
 
 ```
 From repo    : anaconda
+Short desc   : Zstd shared library
+URL          : https://github.com/facebook/zstd
+License      : BSD and GPLv2
+Descript     : Zstandard compression shared library.
+```
+
+</details>
+
+<details>
+<summary>libzstd</summary>
+
+```
+From repo    : fedora
 Short desc   : Zstd shared library
 URL          : https://github.com/facebook/zstd
 License      : BSD and GPLv2
@@ -11586,6 +13180,19 @@ Descript     : This package contains the Linux user space daemon and configurati
 <summary>llvm-libs</summary>
 
 ```
+From repo    : fedora
+Short desc   : LLVM shared libraries
+URL          : http://llvm.org
+License      : NCSA
+Descript     : Shared libraries for the LLVM compiler infrastructure.
+```
+
+</details>
+
+<details>
+<summary>llvm-libs</summary>
+
+```
 From repo    : updates-testing
 Short desc   : LLVM shared libraries
 URL          : http://llvm.org
@@ -11659,6 +13266,20 @@ URL          : http://symas.com/mdb
 License      : OpenLDAP
 Descript     : The lmdb-libs package contains shared libraries necessary for running
              : applications that use lmdb.
+```
+
+</details>
+
+<details>
+<summary>lockdev</summary>
+
+```
+From repo    : fedora
+Short desc   : A library for locking devices
+URL          : https://alioth.debian.org/projects/lockdev/
+License      : LGPLv2
+Descript     : Lockdev provides a reliable way to put an exclusive lock to devices
+             : using both FSSTND and SVr4 methods.
 ```
 
 </details>
@@ -12959,6 +14580,19 @@ Descript     : Linux Resource Containers provide process and resource isolation 
              : overhead of full virtualization.
              : 
              : The lxc-libs package contains libraries for running lxc applications.
+```
+
+</details>
+
+<details>
+<summary>lz4-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Libaries for lz4
+URL          : https://lz4.github.io/lz4/
+License      : GPLv2+ and BSD
+Descript     : This package contains the libaries for lz4.
 ```
 
 </details>

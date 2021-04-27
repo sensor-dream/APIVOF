@@ -4,6 +4,21 @@
 <summary>p11-kit</summary>
 
 ```
+From repo    : fedora
+Short desc   : Library for loading and sharing PKCS#11 modules
+URL          : http://p11-glue.freedesktop.org/p11-kit.html
+License      : BSD
+Descript     : p11-kit provides a way to load and enumerate PKCS#11 modules, as well
+             : as a standard configuration setup for installing PKCS#11 modules in
+             : such a way that they're discoverable.
+```
+
+</details>
+
+<details>
+<summary>p11-kit</summary>
+
+```
 From repo    : anaconda
 Short desc   : Library for loading and sharing PKCS#11 modules
 URL          : http://p11-glue.freedesktop.org/p11-kit.html
@@ -265,7 +280,7 @@ Descript     : This package provides the pandoc common data files.
 <summary>pango</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : System for layout and rendering of internationalized text
 URL          : http://www.pango.org
 License      : LGPLv2+
@@ -530,6 +545,24 @@ Descript     : Performance Co-Pilot (PCP) run-time libraries
 <summary>pcre</summary>
 
 ```
+From repo    : fedora
+Short desc   : Perl-compatible regular expression library
+URL          : https://www.pcre.org/
+License      : BSD
+Descript     : PCRE, Perl-compatible regular expression, library has its own native API, but
+             : a set of wrapper functions that are based on the POSIX API are also supplied
+             : in the libpcreposix library. Note that this just provides a POSIX calling
+             : interface to PCRE: the regular expressions themselves still follow Perl syntax
+             : and semantics. This package provides support for strings in 8-bit and UTF-8
+             : encodings. Detailed change log is provided by pcre-doc package.
+```
+
+</details>
+
+<details>
+<summary>pcre</summary>
+
+```
 From repo    : anaconda
 Short desc   : Perl-compatible regular expression library
 URL          : https://www.pcre.org/
@@ -595,6 +628,34 @@ URL          : https://www.pcre.org/
 License      : BSD
 Descript     : This is Perl-compatible regular expression library working on UTF-32 strings.
              : Detailed change log is provided by pcre-doc package.
+```
+
+</details>
+
+<details>
+<summary>pcre2</summary>
+
+```
+From repo    : fedora
+Short desc   : Perl-compatible regular expression library
+URL          : https://www.pcre.org/
+License      : BSD
+Descript     : PCRE2 is a re-working of the original PCRE (Perl-compatible regular
+             : expression) library to provide an entirely new API.
+             : 
+             : PCRE2 is written in C, and it has its own API. There are three sets of
+             : functions, one for the 8-bit library, which processes strings of bytes, one
+             : for the 16-bit library, which processes strings of 16-bit values, and one for
+             : the 32-bit library, which processes strings of 32-bit values. There are no C++
+             : wrappers. This package provides support for strings in 8-bit and UTF-8
+             : encodings. Install pcre2-utf16 or pcre2-utf32 packages for the other ones.
+             : 
+             : The distribution does contain a set of C wrapper functions for the 8-bit
+             : library that are based on the POSIX regular expression API (see the pcre2posix
+             : man page). These can be found in a library called libpcre2posix. Note that
+             : this just provides a POSIX calling interface to PCRE2; the regular expressions
+             : themselves still follow Perl syntax and semantics. The POSIX API is
+             : restricted, and does not give full access to all of PCRE2's facilities.
 ```
 
 </details>
@@ -14145,6 +14206,19 @@ Descript     : This package contains the runtime libraries for any application t
 <summary>pixman</summary>
 
 ```
+From repo    : fedora
+Short desc   : Pixel manipulation library
+URL          : https://gitlab.freedesktop.org/pixman/pixman
+License      : MIT
+Descript     : Pixman is a pixel manipulation library for X and Cairo.
+```
+
+</details>
+
+<details>
+<summary>pixman</summary>
+
+```
 From repo    : anaconda
 Short desc   : Pixel manipulation library
 URL          : https://gitlab.freedesktop.org/pixman/pixman
@@ -14685,6 +14759,19 @@ Descript     : This plugin sets up the use of dnsmasq on a given CNI network so
              : that dnsmasq will read in.  Similarly, when a pod
              : is removed from the network, it will remove the entry from the hosts
              : file.  Each CNI network will have its own dnsmasq instance.
+```
+
+</details>
+
+<details>
+<summary>podofo-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Runtime library for podofo
+URL          : http://podofo.sourceforge.net
+License      : LGPLv2+
+Descript     : Runtime library for podofo.
 ```
 
 </details>
@@ -15626,6 +15713,20 @@ Descript     : pugixml is a light-weight C++ XML processing library.
              : - XPath 1.0 implementation for complex data-driven tree queries
              : - Full Unicode support with Unicode interface variants and automatic encoding
              :   conversions
+```
+
+</details>
+
+<details>
+<summary>pulseaudio-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Libraries for PulseAudio clients
+URL          : http://www.freedesktop.org/wiki/Software/PulseAudio
+License      : LGPLv2+
+Descript     : This package contains the runtime libraries for any application that wishes
+             : to interface with a PulseAudio sound server.
 ```
 
 </details>
@@ -18185,7 +18286,7 @@ Descript     : Rpmlib contains functions to manipulate with RPM files.
 <summary>python3-koji</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : Build system tools python library
 URL          : https://pagure.io/koji/
 License      : LGPLv2 and GPLv2+

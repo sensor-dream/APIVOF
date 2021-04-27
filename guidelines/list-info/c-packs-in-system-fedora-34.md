@@ -90,6 +90,24 @@ Descript     : Cairo is a 2D graphics library designed to provide high-quality d
 <summary>cairo</summary>
 
 ```
+From repo    : fedora
+Short desc   : A 2D graphics library
+URL          : http://cairographics.org
+License      : LGPLv2 or MPLv1.1
+Descript     : Cairo is a 2D graphics library designed to provide high-quality display
+             : and print output. Currently supported output targets include the X Window
+             : System, in-memory image buffers, and image files (PDF, PostScript, and SVG).
+             : 
+             : Cairo is designed to produce consistent output on all output media while
+             : taking advantage of display hardware acceleration when available.
+```
+
+</details>
+
+<details>
+<summary>cairo</summary>
+
+```
 From repo    : updates-testing
 Short desc   : A 2D graphics library
 URL          : http://cairographics.org
@@ -126,6 +144,23 @@ Descript     : Cairo is a 2D graphics library designed to provide high-quality d
 
 ```
 From repo    : anaconda
+Short desc   : GObject bindings for cairo
+URL          : http://cairographics.org
+License      : LGPLv2 or MPLv1.1
+Descript     : Cairo is a 2D graphics library designed to provide high-quality display
+             : and print output.
+             : 
+             : This package contains functionality to make cairo graphics library
+             : integrate well with the GObject object system used by GNOME.
+```
+
+</details>
+
+<details>
+<summary>cairo-gobject</summary>
+
+```
+From repo    : fedora
 Short desc   : GObject bindings for cairo
 URL          : http://cairographics.org
 License      : LGPLv2 or MPLv1.1
@@ -266,6 +301,20 @@ Descript     : This package contains the Common Debian Build System, an abstract
              : based on Makefile inheritance which is completely extensible and overridable.
              : In other words, CDBS provides a sane set of default rules upon which packages
              : can build; any or all rules may be overridden as needed.
+```
+
+</details>
+
+<details>
+<summary>cdparanoia-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Libraries for libcdda_paranoia (Paranoia III)
+URL          : http://www.xiph.org/paranoia/index.html
+License      : LGPLv2
+Descript     : The cdparanoia-libs package contains the dynamic libraries needed for
+             : applications which read CD Digital Audio disks.
 ```
 
 </details>
@@ -782,6 +831,21 @@ Short desc   : Common RPM macros for cmake
 URL          : http://www.cmake.org
 License      : BSD and MIT and zlib
 Descript     : This package contains common RPM macros for cmake.
+```
+
+</details>
+
+<details>
+<summary>cmrt</summary>
+
+```
+From repo    : fedora
+Short desc   : C for Media Runtime
+URL          : https://github.com/intel/cmrt
+License      : MIT
+Descript     : Media GPU kernel manager for Intel G45 & HD Graphics family. Allows to
+             : interface between Intel GPU's driver and a host program through a high
+             : level language.
 ```
 
 </details>
@@ -1371,39 +1435,7 @@ Descript     : GNU cpio copies files into or out of a cpio or tar archive.  Arch
 <summary>cpp</summary>
 
 ```
-From repo    : anaconda
-Short desc   : The C Preprocessor
-URL          : http://gcc.gnu.org
-License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Descript     : Cpp is the GNU C-Compatible Compiler Preprocessor.
-             : Cpp is a macro processor which is used automatically
-             : by the C compiler to transform your program before actual
-             : compilation. It is called a macro processor because it allows
-             : you to define macros, abbreviations for longer
-             : constructs.
-             : 
-             : The C preprocessor provides four separate functionalities: the
-             : inclusion of header files (files of declarations that can be
-             : substituted into your program); macro expansion (you can define macros,
-             : and the C preprocessor will replace the macros with their definitions
-             : throughout the program); conditional compilation (using special
-             : preprocessing directives, you can include or exclude parts of the
-             : program according to various conditions); and line control (if you use
-             : a program to combine or rearrange source files into an intermediate
-             : file which is then compiled, you can use line control to inform the
-             : compiler about where each source line originated).
-             : 
-             : You should install this package if you are a C programmer and you use
-             : macros.
-```
-
-</details>
-
-<details>
-<summary>cpp</summary>
-
-```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : The C Preprocessor
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -1696,20 +1728,7 @@ Descript     : This package is used by Fedora mainly for executing files by cron
 <summary>crun</summary>
 
 ```
-From repo    : anaconda
-Short desc   : OCI runtime written in C
-URL          : https://github.com/containers/crun
-License      : GPLv2+
-Descript     : crun is a runtime for running OCI containers
-```
-
-</details>
-
-<details>
-<summary>crun</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : OCI runtime written in C
 URL          : https://github.com/containers/crun
 License      : GPLv2+
@@ -1917,6 +1936,25 @@ Descript     : Sends IPP requests to the specified URI and tests and/or displays
 
 ```
 Эпоха        : 1
+From repo    : updates
+Short desc   : CUPS printing system - libraries
+URL          : http://www.cups.org/
+License      : LGPLv2 and zlib
+Descript     : CUPS printing system provides a portable printing layer for
+             : UNIX® operating systems. It has been developed by Apple Inc.
+             : to promote a standard printing solution for all UNIX vendors and users.
+             : CUPS provides the System V and Berkeley command-line interfaces.
+             : The cups-libs package provides libraries used by applications to use CUPS
+             : natively, without needing the lp/lpr commands.
+```
+
+</details>
+
+<details>
+<summary>cups-libs</summary>
+
+```
+Эпоха        : 1
 From repo    : updates-testing
 Short desc   : CUPS printing system - libraries
 URL          : http://www.cups.org/
@@ -2014,6 +2052,20 @@ License      : BSD with advertising
 Descript     : The cyrus-sasl-gssapi package contains the Cyrus SASL plugins which
              : support GSSAPI authentication. GSSAPI is commonly used for Kerberos
              : authentication.
+```
+
+</details>
+
+<details>
+<summary>cyrus-sasl-lib</summary>
+
+```
+From repo    : fedora
+Short desc   : Shared libraries needed by applications which use Cyrus SASL
+URL          : https://www.cyrusimap.org/sasl/
+License      : BSD with advertising
+Descript     : The cyrus-sasl-lib package contains shared libraries which are needed by
+             : applications which use the Cyrus SASL library.
 ```
 
 </details>

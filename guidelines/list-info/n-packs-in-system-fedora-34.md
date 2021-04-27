@@ -138,6 +138,24 @@ Descript     : This package contains descriptions of common terminals. Other ter
 <summary>ncurses-libs</summary>
 
 ```
+From repo    : fedora
+Short desc   : Ncurses libraries
+URL          : https://invisible-island.net/ncurses/ncurses.html
+License      : MIT
+Descript     : The curses library routines are a terminal-independent method of
+             : updating character screens with reasonable optimization.  The ncurses
+             : (new curses) library is a freely distributable replacement for the
+             : discontinued 4.4 BSD classic curses library.
+             : 
+             : This package contains the ncurses libraries.
+```
+
+</details>
+
+<details>
+<summary>ncurses-libs</summary>
+
+```
 From repo    : anaconda
 Short desc   : Ncurses libraries
 URL          : https://invisible-island.net/ncurses/ncurses.html
@@ -357,7 +375,7 @@ Descript     : Netstat-nat is a small program written in C. It displays NAT conn
 <summary>nettle</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : A low-level cryptographic library
 URL          : http://www.lysator.liu.se/~nisse/nettle/
 License      : LGPLv3+ or GPLv2+
@@ -373,7 +391,7 @@ Descript     : Nettle is a cryptographic library that is designed to fit easily 
 <summary>nettle</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : A low-level cryptographic library
 URL          : http://www.lysator.liu.se/~nisse/nettle/
 License      : LGPLv3+ or GPLv2+
@@ -881,6 +899,26 @@ Descript     : Network Security Services (NSS) is a set of libraries designed to
 
 ```
 From repo    : anaconda
+Short desc   : glibc plugin for .local name resolution
+URL          : https://github.com/lathiat/nss-mdns
+License      : LGPLv2+
+Descript     : nss-mdns is a plugin for the GNU Name Service Switch (NSS) functionality of
+             : the GNU C Library (glibc) providing host name resolution via Multicast DNS
+             : (aka Zeroconf, aka Apple Rendezvous, aka Apple Bonjour), effectively allowing
+             : name resolution by common Unix/Linux programs in the ad-hoc mDNS domain .local.
+             : 
+             : nss-mdns provides client functionality only, which means that you have to
+             : run a mDNS responder daemon separately from nss-mdns if you want to register
+             : the local host name via mDNS (e.g. Avahi).
+```
+
+</details>
+
+<details>
+<summary>nss-mdns</summary>
+
+```
+From repo    : fedora
 Short desc   : glibc plugin for .local name resolution
 URL          : https://github.com/lathiat/nss-mdns
 License      : LGPLv2+

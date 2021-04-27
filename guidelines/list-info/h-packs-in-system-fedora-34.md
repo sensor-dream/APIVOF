@@ -22,6 +22,19 @@ Descript     : Hamlib provides a standardized programming interface that applica
 <summary>harfbuzz</summary>
 
 ```
+From repo    : fedora
+Short desc   : Text shaping library
+URL          : https://harfbuzz.github.io/
+License      : MIT
+Descript     : HarfBuzz is an implementation of the OpenType Layout engine.
+```
+
+</details>
+
+<details>
+<summary>harfbuzz</summary>
+
+```
 From repo    : anaconda
 Short desc   : Text shaping library
 URL          : https://harfbuzz.github.io/
@@ -275,7 +288,7 @@ Descript     : This package provides commands which can be used to display the s
 <summary>hplip</summary>
 
 ```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : HP Linux Imaging and Printing Project
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 License      : GPLv2+ and MIT and BSD and IJG and Public Domain and GPLv2+ with exceptions and ISC
@@ -289,20 +302,7 @@ Descript     : The Hewlett-Packard Linux Imaging and Printing Project provides
 <summary>hplip-common</summary>
 
 ```
-From repo    : anaconda
-Short desc   : Files needed by the HPLIP printer and scanner drivers
-URL          : https://developers.hp.com/hp-linux-imaging-and-printing
-License      : GPLv2+
-Descript     : Files needed by the HPLIP printer and scanner drivers.
-```
-
-</details>
-
-<details>
-<summary>hplip-common</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : Files needed by the HPLIP printer and scanner drivers
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 License      : GPLv2+
@@ -315,20 +315,7 @@ Descript     : Files needed by the HPLIP printer and scanner drivers.
 <summary>hplip-libs</summary>
 
 ```
-From repo    : anaconda
-Short desc   : HPLIP libraries
-URL          : https://developers.hp.com/hp-linux-imaging-and-printing
-License      : GPLv2+ and MIT
-Descript     : Libraries needed by HPLIP.
-```
-
-</details>
-
-<details>
-<summary>hplip-libs</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : HPLIP libraries
 URL          : https://developers.hp.com/hp-linux-imaging-and-printing
 License      : GPLv2+ and MIT

@@ -130,6 +130,20 @@ Descript     :
 
 ```
 Эпоха        : 1
+From repo    : fedora
+Short desc   : Libraries for accessing D-BUS
+URL          : http://www.freedesktop.org/Software/dbus/
+License      : (GPLv2+ or AFL) and GPLv2+
+Descript     : This package contains lowlevel libraries for accessing D-BUS.
+```
+
+</details>
+
+<details>
+<summary>dbus-libs</summary>
+
+```
+Эпоха        : 1
 From repo    : anaconda
 Short desc   : Libraries for accessing D-BUS
 URL          : http://www.freedesktop.org/Software/dbus/
@@ -205,21 +219,7 @@ Descript     : This library provides a Qt5 implementation of the DBusMenu protoc
 <summary>dconf</summary>
 
 ```
-From repo    : anaconda
-Short desc   : A configuration system
-URL          : https://wiki.gnome.org/Projects/dconf
-License      : LGPLv2+ and GPLv2+ and GPLv3+
-Descript     : dconf is a low-level configuration system. Its main purpose is to provide a
-             : backend to the GSettings API in GLib.
-```
-
-</details>
-
-<details>
-<summary>dconf</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : A configuration system
 URL          : https://wiki.gnome.org/Projects/dconf
 License      : LGPLv2+ and GPLv2+ and GPLv3+
@@ -623,7 +623,7 @@ Descript     : The dislocker-libs package provides the essential shared librarie
 <summary>distribution-gpg-keys</summary>
 
 ```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : GPG keys of various Linux distributions
 URL          : https://github.com/xsuchy/distribution-gpg-keys
 License      : CC0
@@ -1002,6 +1002,31 @@ Descript     : Convert text files with DOS or Mac line endings to Unix line endi
 </details>
 
 <details>
+<summary>dosbox-staging</summary>
+
+```
+From repo    : fedora
+Short desc   : DOS/x86 emulator focusing on ease of use
+URL          : https://dosbox-staging.github.io/
+License      : GPLv2+
+Descript     : DOSBox Staging is full x86 CPU emulator (independent of host architecture),
+             : capable of running DOS programs that require real or protected mode.
+             : 
+             : It features built-in DOS-like shell terminal, emulation of several PC variants
+             : (IBM PC, IBM PCjr, Tandy 1000), CPUs (286, 386, 486, Pentium I), graphic
+             : chipsets (Hercules, CGA, EGA, VGA, SVGA), audio solutions (Sound Blaster,
+             : Gravis UltraSound, Disney Sound Source, Tandy Sound System), CD Digital Audio
+             : emulation (also with audio encoded as FLAC, Opus, OGG/Vorbis, MP3 or WAV),
+             : joystick emulation (supports modern game controllers), serial port emulation,
+             : IPX over UDP, GLSL shaders, and more.
+             : 
+             : DOSBox Staging is highly configurable, well-optimized and fast enough to run
+             : any old DOS game using modern hardware.
+```
+
+</details>
+
+<details>
 <summary>dosfstools</summary>
 
 ```
@@ -1049,7 +1074,7 @@ Descript     : Provides binary-decimal and decimal-binary routines for IEEE doub
 <summary>dracut</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : Initramfs generator using udev
 URL          : https://dracut.wiki.kernel.org/
 License      : GPLv2+ and LGPLv2+
@@ -1067,7 +1092,7 @@ Descript     : dracut contains tools to create bootable initramfses for the Linu
 <summary>dracut-config-rescue</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : dracut configuration to turn on rescue image generation
 URL          : https://dracut.wiki.kernel.org/
 License      : GPLv2+ and LGPLv2+
@@ -1081,7 +1106,7 @@ Descript     : This package provides the configuration to turn on the rescue ini
 <summary>dracut-live</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : dracut modules to build a dracut initramfs with live image capabilities
 URL          : https://dracut.wiki.kernel.org/
 License      : GPLv2+ and LGPLv2+
@@ -1095,7 +1120,7 @@ Descript     : This package requires everything which is needed to build an
 <summary>dracut-network</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : dracut modules to build a dracut initramfs with network support
 URL          : https://dracut.wiki.kernel.org/
 License      : GPLv2+ and LGPLv2+
@@ -1109,7 +1134,7 @@ Descript     : This package requires everything which is needed to build a gener
 <summary>dracut-squash</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : dracut module to build an initramfs with most files in a squashfs image
 URL          : https://dracut.wiki.kernel.org/
 License      : GPLv2+ and LGPLv2+

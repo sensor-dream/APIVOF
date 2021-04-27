@@ -77,6 +77,82 @@ Descript     : The samba-common-libs package contains internal libraries needed 
 </details>
 
 <details>
+<summary>samba-common-tools</summary>
+
+```
+Эпоха        : 2
+From repo    : updates
+Short desc   : Tools for Samba servers and clients
+URL          : https://www.samba.org
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-common-tools package contains tools for Samba servers and
+             : SMB/CIFS clients.
+```
+
+</details>
+
+<details>
+<summary>samba-libs</summary>
+
+```
+Эпоха        : 2
+From repo    : updates
+Short desc   : Samba libraries
+URL          : https://www.samba.org
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-libs package contains the libraries needed by programs that link
+             : against the SMB, RPC and other protocols provided by the Samba suite.
+```
+
+</details>
+
+<details>
+<summary>samba-winbind</summary>
+
+```
+Эпоха        : 2
+From repo    : updates
+Short desc   : Samba winbind
+URL          : https://www.samba.org
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-winbind package provides the winbind NSS library, and some client
+             : tools.  Winbind enables Linux to be a full member in Windows domains and to use
+             : Windows user and group accounts on Linux.
+```
+
+</details>
+
+<details>
+<summary>samba-winbind-clients</summary>
+
+```
+Эпоха        : 2
+From repo    : updates
+Short desc   : Samba winbind clients
+URL          : https://www.samba.org
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-winbind-clients package provides the wbinfo and ntlm_auth
+             : tool.
+```
+
+</details>
+
+<details>
+<summary>samba-winbind-modules</summary>
+
+```
+Эпоха        : 2
+From repo    : updates
+Short desc   : Samba winbind modules
+URL          : https://www.samba.org
+License      : GPLv3+ and LGPLv3+
+Descript     : The samba-winbind-modules package provides the NSS library and a PAM module
+             : necessary to communicate to the Winbind Daemon
+```
+
+</details>
+
+<details>
 <summary>sane-airscan</summary>
 
 ```
@@ -153,6 +229,19 @@ Descript     : This package contains backend drivers to access digital cameras t
 <summary>sane-backends-drivers-cameras</summary>
 
 ```
+From repo    : fedora
+Short desc   : Scanner backend drivers for digital cameras
+URL          : http://www.sane-project.org
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains backend drivers to access digital cameras through SANE.
+```
+
+</details>
+
+<details>
+<summary>sane-backends-drivers-cameras</summary>
+
+```
 From repo    : updates-testing
 Short desc   : Scanner backend drivers for digital cameras
 URL          : http://www.sane-project.org
@@ -179,6 +268,19 @@ Descript     : This package contains backend drivers to access scanner hardware 
 <summary>sane-backends-drivers-scanners</summary>
 
 ```
+From repo    : fedora
+Short desc   : SANE backend drivers for scanners
+URL          : http://www.sane-project.org
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains backend drivers to access scanner hardware through SANE.
+```
+
+</details>
+
+<details>
+<summary>sane-backends-drivers-scanners</summary>
+
+```
 From repo    : updates-testing
 Short desc   : SANE backend drivers for scanners
 URL          : http://www.sane-project.org
@@ -193,6 +295,20 @@ Descript     : This package contains backend drivers to access scanner hardware 
 
 ```
 From repo    : anaconda
+Short desc   : SANE libraries
+URL          : http://www.sane-project.org
+License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
+Descript     : This package contains the SANE libraries which are needed by applications that
+             : want to access scanners.
+```
+
+</details>
+
+<details>
+<summary>sane-backends-libs</summary>
+
+```
+From repo    : fedora
 Short desc   : SANE libraries
 URL          : http://www.sane-project.org
 License      : GPLv2+ and GPLv2+ with exceptions and Public Domain and IJG and LGPLv2+ and MIT
@@ -1179,6 +1295,23 @@ Descript     : This package contains the espeak-ng output module for Speech Disp
 <summary>speex</summary>
 
 ```
+From repo    : fedora
+Short desc   : A voice compression format (codec)
+URL          : https://www.speex.org/
+License      : BSD
+Descript     : Speex is a patent-free compression format designed especially for
+             : speech. It is specialized for voice communications at low bit-rates in
+             : the 2-45 kbps range. Possible applications include Voice over IP
+             : (VoIP), Internet audio streaming, audio books, and archiving of speech
+             : data (e.g. voice mail).
+```
+
+</details>
+
+<details>
+<summary>speex</summary>
+
+```
 From repo    : anaconda
 Short desc   : A voice compression format (codec)
 URL          : https://www.speex.org/
@@ -1324,6 +1457,19 @@ Descript     : library files for spirv-tools
 </details>
 
 <details>
+<summary>spirv-tools-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Library files for spirv-tools
+URL          : https://github.com/KhronosGroup/SPIRV-Tools
+License      : ASL 2.0
+Descript     : library files for spirv-tools
+```
+
+</details>
+
+<details>
 <summary>splix</summary>
 
 ```
@@ -1354,6 +1500,19 @@ Descript     : SQLite is a C library that implements an SQL database engine. A l
              : flexibility of an SQL database without the administrative hassles of
              : supporting a separate database server.  Version 2 and version 3 binaries
              : are named to permit each to be installed on a single host
+```
+
+</details>
+
+<details>
+<summary>sqlite-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Shared library for the sqlite3 embeddable SQL database engine.
+URL          : http://www.sqlite.org/
+License      : Public Domain
+Descript     : This package contains the shared library for sqlite.
 ```
 
 </details>
@@ -2139,7 +2298,7 @@ Descript     : The Simple WATCHer is an automated monitoring tool that is capabl
 <summary>sway</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : i3-compatible window manager for Wayland
 URL          : https://github.com/swaywm/sway
 License      : MIT
@@ -2459,6 +2618,19 @@ URL          : https://www.freedesktop.org/wiki/Software/systemd
 License      : LGPLv2+ and MIT
 Descript     : Development headers and auxiliary files for developing applications linking
              : to libudev or libsystemd.
+```
+
+</details>
+
+<details>
+<summary>systemd-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : systemd libraries
+URL          : https://www.freedesktop.org/wiki/Software/systemd
+License      : LGPLv2+ and MIT
+Descript     : Libraries for systemd and udev.
 ```
 
 </details>

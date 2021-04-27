@@ -3,6 +3,15 @@
 ### ~~Release: 87.0 March 23, 2021~~
 
 <details>
+<summary><b>Sqlite browser database compression</b></summary>
+
+    sudo dnf install sqlite
+    close Firefox if openned
+    find ~/.mozilla/firefox -name "*.sqlite" -exec sqlite3 {} VACUUM \;
+
+</details>
+
+<details>
 <summary><b>Resetting RAM in minimized mode</b></summary>
 
     enter link: about: config
@@ -162,7 +171,7 @@
 
     enter link: about: config
     search value: browser.cache.disk.capacity
-    set key: 65536
+    set key: 262144
     restart Firefox.
 
     Default: 1048576 in kilobytes
@@ -197,6 +206,59 @@
     set key: gedit
 
     Default: empty
+
+    restart Firefox.
+
+</details>
+
+<summary><b>Activating hardware acceleration</b></summary>
+
+    enter link: about: config
+
+    search value: layers.acceleration.force-enabled
+    set key: true
+    Default: false
+
+    search value: webgl.force-enabled
+    set key: true
+    Default: false
+
+    search value: gfx.webrender.enabled
+    set key: true
+    Default: false
+
+    search value: gfx.webrender.all
+    set key: true
+    Default: false
+
+    search value: dom.webgpu.enabled
+    set key: true
+    Default: false
+
+    search value: media.ffmpeg.vaapi.enabled
+    set key: true
+    Default: false
+
+    search value: media.navigator.mediadatadecoder_vpx_enabled
+    set key: true
+    Default: false
+
+    add new value, key type boolean: widget.wayland-dmabuf-vaapi.enabled
+    set key: true
+
+    add new value, key type boolean: media.ffmpeg.low-latency.enabled
+    set key: true
+
+    restart Firefox.
+
+</details>
+
+<summary><b>Move the browser cache to tmpfs</b></summary>
+
+    enter link: about: config
+
+    add new value, key type string: browser.cache.disk.parent_directory
+    set key: /tmp/firefox
 
     restart Firefox.
 

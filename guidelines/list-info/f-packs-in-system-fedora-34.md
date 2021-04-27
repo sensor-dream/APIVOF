@@ -738,6 +738,25 @@ Descript     : This package provides directories and rpm macros which
 <summary>flac-libs</summary>
 
 ```
+From repo    : fedora
+Short desc   : Libraries for the Free Lossless Audio Codec
+URL          : https://www.xiph.org/flac/
+License      : BSD and GPLv2+ and GFDL
+Descript     : FLAC stands for Free Lossless Audio Codec. Grossly oversimplified, FLAC
+             : is similar to Ogg Vorbis, but lossless. The FLAC project consists of
+             : the stream format, reference encoders and decoders in library form,
+             : flac, a command-line program to encode and decode FLAC files, metaflac,
+             : a command-line metadata editor for FLAC files and input plugins for
+             : various music players.
+             : This package contains the FLAC libraries.
+```
+
+</details>
+
+<details>
+<summary>flac-libs</summary>
+
+```
 From repo    : anaconda
 Short desc   : Libraries for the Free Lossless Audio Codec
 URL          : https://www.xiph.org/flac/
@@ -1144,6 +1163,45 @@ Descript     : FlexiBLAS is a wrapper library that enables the exchange of the B
 </details>
 
 <details>
+<summary>fluid-soundfont-common</summary>
+
+```
+From repo    : fedora
+Short desc   : Common files for FluidR3 soundfont
+URL          : http://www.hammersound.com/cgi-bin/soundlink.pl?action=view_category&category=Collections&ListStart=0&ListLength=20
+License      : MIT
+Descript     : 
+             : FluidR3 is the third release of Frank Wen's pro-quality GM/GS soundfont.
+             : The soundfont has lots of excellent samples, including all the GM instruments
+             : along side with the GS instruments that are recycled and reprogrammed versions
+             : of the GM presets.
+             : 
+             : This package contains common files shared among all FluidR3 soundfont packages.
+```
+
+</details>
+
+<details>
+<summary>fluid-soundfont-gm</summary>
+
+```
+From repo    : fedora
+Short desc   : Pro-quality General Midi soundfont
+URL          : http://www.hammersound.com/cgi-bin/soundlink.pl?action=view_category&category=Collections&ListStart=0&ListLength=20
+License      : MIT
+Descript     : 
+             : FluidR3 is the third release of Frank Wen's pro-quality GM/GS soundfont.
+             : The soundfont has lots of excellent samples, including all the GM instruments
+             : along side with the GS instruments that are recycled and reprogrammed versions
+             : of the GM presets.
+             : 
+             : This package contains Fluid General Midi (GM) soundfont in soundfont 2.0 (.sf2)
+             : format.
+```
+
+</details>
+
+<details>
 <summary>fluidsynth</summary>
 
 ```
@@ -1250,6 +1308,21 @@ Descript     : Font Awesome gives you scalable vector icons that can instantly b
 
 ```
 From repo    : anaconda
+Short desc   : Font configuration and customization library
+URL          : http://fontconfig.org
+License      : MIT and Public Domain and UCD
+Descript     : Fontconfig is designed to locate fonts within the
+             : system and select them according to requirements specified by
+             : applications.
+```
+
+</details>
+
+<details>
+<summary>fontconfig</summary>
+
+```
+From repo    : fedora
 Short desc   : Font configuration and customization library
 URL          : http://fontconfig.org
 License      : MIT and Public Domain and UCD
@@ -1580,6 +1653,24 @@ Descript     : FreeTDS is a project to document and implement the TDS (Tabular
 <summary>freetype</summary>
 
 ```
+From repo    : fedora
+Short desc   : A free and portable font rendering engine
+URL          : http://www.freetype.org
+License      : (FTL or GPLv2+) and BSD and MIT and Public Domain and zlib with acknowledgement
+Descript     : The FreeType engine is a free and portable font rendering
+             : engine, developed to provide advanced font support for a variety of
+             : platforms and environments. FreeType is a library which can open and
+             : manages font files as well as efficiently load, hint and render
+             : individual glyphs. FreeType is not a font server or a complete
+             : text-rendering library.
+```
+
+</details>
+
+<details>
+<summary>freetype</summary>
+
+```
 From repo    : anaconda
 Short desc   : A free and portable font rendering engine
 URL          : http://www.freetype.org
@@ -1642,6 +1733,21 @@ License      : GPLv2+
 Descript     : It is a minimalist plugin API for video sources and filters. The behavior of
              : the effects can be controlled from the host by simple parameters. The intent is
              : to solve the recurring re-implementation or adaptation issue of standard effect
+```
+
+</details>
+
+<details>
+<summary>fribidi</summary>
+
+```
+From repo    : fedora
+Short desc   : Library implementing the Unicode Bidirectional Algorithm
+URL          : https://github.com/fribidi/fribidi/
+License      : LGPLv2+ and UCD
+Descript     : A library to handle bidirectional scripts (for example Hebrew, Arabic),
+             : so that the display is done in the proper way; while the text data itself
+             : is always written in logical order.
 ```
 
 </details>

@@ -126,6 +126,19 @@ Descript     : Rasqal is a library providing full support for querying Resource
 <summary>rav1e-libs</summary>
 
 ```
+From repo    : updates
+Short desc   : Library files for rav1e
+URL          : https://crates.io/crates/rav1e
+License      : BSD and ASL 2.0 and ISC and MIT and zlib
+Descript     : Library files for rav1e, the fastest and safest AV1 encoder.
+```
+
+</details>
+
+<details>
+<summary>rav1e-libs</summary>
+
+```
 From repo    : updates-testing
 Short desc   : Library files for rav1e
 URL          : https://crates.io/crates/rav1e
@@ -195,6 +208,24 @@ Descript     : RE2 is a C++ library providing a fast, safe, thread-friendly alte
              : In contrast, RE2 uses automata theory to guarantee that regular expression
              : searches run in time linear in the size of the input, at the expense of some
              : missing features (e.g back references and generalized assertions).
+```
+
+</details>
+
+<details>
+<summary>readline</summary>
+
+```
+From repo    : fedora
+Short desc   : A library for editing typed command lines
+URL          : https://tiswww.case.edu/php/chet/readline/rltop.html
+License      : GPLv3+
+Descript     : The Readline library provides a set of functions that allow users to
+             : edit command lines. Both Emacs and vi editing modes are available. The
+             : Readline library includes additional functions for maintaining a list
+             : of previously-entered command lines for recalling or editing those
+             : lines, and for performing csh-like history expansion on previous
+             : commands.
 ```
 
 </details>
@@ -923,7 +954,7 @@ Descript     : This package exists only to obsolete other packages which need to
 <summary>rpmfusion-free-release</summary>
 
 ```
-From repo    : @commandline
+From repo    : rpmfusion-free-updates-testing
 Short desc   : RPM Fusion (free) Repository Configuration
 URL          : http://rpmfusion.org
 License      : BSD
@@ -950,7 +981,7 @@ Descript     : Appstream metadata for packages in the RPM Fusion nonfree reposit
 <summary>rpmfusion-nonfree-release</summary>
 
 ```
-From repo    : @commandline
+From repo    : rpmfusion-nonfree-updates-testing
 Short desc   : RPM Fusion (nonfree) Repository Configuration
 URL          : http://rpmfusion.org
 License      : BSD

@@ -642,6 +642,24 @@ Descript     : Fast, cross-platform, OpenGL terminal emulator.
 <summary>alsa-lib</summary>
 
 ```
+From repo    : fedora
+Short desc   : The Advanced Linux Sound Architecture (ALSA) library
+URL          : http://www.alsa-project.org/
+License      : LGPLv2+
+Descript     : The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI
+             : functionality to the Linux operating system.
+             : 
+             : This package includes the ALSA runtime libraries to simplify application
+             : programming and provide higher level functionality as well as support for
+             : the older OSS API, providing binary compatibility for most OSS programs.
+```
+
+</details>
+
+<details>
+<summary>alsa-lib</summary>
+
+```
 From repo    : anaconda
 Short desc   : The Advanced Linux Sound Architecture (ALSA) library
 URL          : http://www.alsa-project.org/
@@ -1606,6 +1624,20 @@ Short desc   : Glib libraries for avahi
 URL          : http://avahi.org
 License      : LGPLv2+
 Descript     : Libraries for easy use of avahi from glib applications.
+```
+
+</details>
+
+<details>
+<summary>avahi-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Libraries for avahi run-time use
+URL          : http://avahi.org
+License      : LGPLv2+
+Descript     : The avahi-libs package contains the libraries needed
+             : to run programs that use avahi.
 ```
 
 </details>

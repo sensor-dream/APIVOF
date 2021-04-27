@@ -41,6 +41,23 @@ Descript     : w3m-img package provides a helper program for w3m to display the 
 <summary>wavpack</summary>
 
 ```
+From repo    : fedora
+Short desc   : A completely open audiocodec
+URL          : http://www.wavpack.com/
+License      : BSD
+Descript     : WavPack is a completely open audio compression format providing lossless,
+             : high-quality lossy, and a unique hybrid compression mode. Although the
+             : technology is loosely based on previous versions of WavPack, the new
+             : version 4 format has been designed from the ground up to offer unparalleled
+             : performance and functionality.
+```
+
+</details>
+
+<details>
+<summary>wavpack</summary>
+
+```
 From repo    : anaconda
 Short desc   : A completely open audiocodec
 URL          : http://www.wavpack.com/
@@ -50,6 +67,20 @@ Descript     : WavPack is a completely open audio compression format providing l
              : technology is loosely based on previous versions of WavPack, the new
              : version 4 format has been designed from the ground up to offer unparalleled
              : performance and functionality.
+```
+
+</details>
+
+<details>
+<summary>wayland-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Development files for wayland
+URL          : http://wayland.freedesktop.org/
+License      : MIT
+Descript     : The wayland-devel package contains libraries and header files for
+             : developing applications that use wayland.
 ```
 
 </details>
@@ -227,6 +258,606 @@ Descript     : whois tools messages translated into different natural languages.
 </details>
 
 <details>
+<summary>wine</summary>
+
+```
+From repo    : updates
+Short desc   : A compatibility layer for windows applications
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine as a compatibility layer for UNIX to run Windows applications. This
+             : package includes a program loader, which allows unmodified Windows
+             : 3.x/9x/NT binaries to run on x86 and x86_64 Unixes. Wine can use native system
+             : .dll files if they are available.
+             : 
+             : In Fedora wine is a meta-package which will install everything needed for wine
+             : to work smoothly. Smaller setups can be achieved by installing some of the
+             : wine-* sub packages.
+```
+
+</details>
+
+<details>
+<summary>wine</summary>
+
+```
+From repo    : updates
+Short desc   : A compatibility layer for windows applications
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine as a compatibility layer for UNIX to run Windows applications. This
+             : package includes a program loader, which allows unmodified Windows
+             : 3.x/9x/NT binaries to run on x86 and x86_64 Unixes. Wine can use native system
+             : .dll files if they are available.
+             : 
+             : In Fedora wine is a meta-package which will install everything needed for wine
+             : to work smoothly. Smaller setups can be achieved by installing some of the
+             : wine-* sub packages.
+```
+
+</details>
+
+<details>
+<summary>wine-alsa</summary>
+
+```
+From repo    : updates
+Short desc   : Alsa support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : This package adds an alsa driver for wine.
+```
+
+</details>
+
+<details>
+<summary>wine-alsa</summary>
+
+```
+From repo    : updates
+Short desc   : Alsa support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : This package adds an alsa driver for wine.
+```
+
+</details>
+
+<details>
+<summary>wine-arial-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Arial font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Arial font family
+```
+
+</details>
+
+<details>
+<summary>wine-capi</summary>
+
+```
+From repo    : updates
+Short desc   : ISDN support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : ISDN support for wine
+```
+
+</details>
+
+<details>
+<summary>wine-capi</summary>
+
+```
+From repo    : updates
+Short desc   : ISDN support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : ISDN support for wine
+```
+
+</details>
+
+<details>
+<summary>wine-cms</summary>
+
+```
+From repo    : updates
+Short desc   : Color Management for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Color Management for wine
+```
+
+</details>
+
+<details>
+<summary>wine-cms</summary>
+
+```
+From repo    : updates
+Short desc   : Color Management for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Color Management for wine
+```
+
+</details>
+
+<details>
+<summary>wine-common</summary>
+
+```
+From repo    : updates
+Short desc   : Common files
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Common wine files and scripts.
+```
+
+</details>
+
+<details>
+<summary>wine-core</summary>
+
+```
+From repo    : updates
+Short desc   : Wine core package
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine core package includes the basic wine stuff needed by all other packages.
+```
+
+</details>
+
+<details>
+<summary>wine-core</summary>
+
+```
+From repo    : updates
+Short desc   : Wine core package
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine core package includes the basic wine stuff needed by all other packages.
+```
+
+</details>
+
+<details>
+<summary>wine-courier-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Courier font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Courier font family
+```
+
+</details>
+
+<details>
+<summary>wine-desktop</summary>
+
+```
+From repo    : updates
+Short desc   : Desktop integration features for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Desktop integration features for wine, including mime-types and a binary format
+             : handler service.
+```
+
+</details>
+
+<details>
+<summary>wine-dxvk</summary>
+
+```
+From repo    : fedora
+Short desc   : Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
+URL          : https://github.com/doitsujin/dxvk
+License      : zlib
+Descript     : Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
+```
+
+</details>
+
+<details>
+<summary>wine-dxvk</summary>
+
+```
+From repo    : fedora
+Short desc   : Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
+URL          : https://github.com/doitsujin/dxvk
+License      : zlib
+Descript     : Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
+```
+
+</details>
+
+<details>
+<summary>wine-dxvk-d3d9</summary>
+
+```
+From repo    : fedora
+Short desc   : DXVK D3D9 implementation
+URL          : https://github.com/doitsujin/dxvk
+License      : zlib
+Descript     : DXVK D3D9 implementation
+```
+
+</details>
+
+<details>
+<summary>wine-dxvk-d3d9</summary>
+
+```
+From repo    : fedora
+Short desc   : DXVK D3D9 implementation
+URL          : https://github.com/doitsujin/dxvk
+License      : zlib
+Descript     : DXVK D3D9 implementation
+```
+
+</details>
+
+<details>
+<summary>wine-dxvk-dxgi</summary>
+
+```
+From repo    : fedora
+Short desc   : DXVK DXGI implementation
+URL          : https://github.com/doitsujin/dxvk
+License      : zlib
+Descript     : DXVK DXGI implementation
+             : 
+             : This package doesn't enable the use of this DXGI implementation,
+             : it should be installed and overridden per prefix.
+```
+
+</details>
+
+<details>
+<summary>wine-dxvk-dxgi</summary>
+
+```
+From repo    : fedora
+Short desc   : DXVK DXGI implementation
+URL          : https://github.com/doitsujin/dxvk
+License      : zlib
+Descript     : DXVK DXGI implementation
+             : 
+             : This package doesn't enable the use of this DXGI implementation,
+             : it should be installed and overridden per prefix.
+```
+
+</details>
+
+<details>
+<summary>wine-filesystem</summary>
+
+```
+From repo    : updates
+Short desc   : Filesystem directories for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Filesystem directories and basic configuration for wine.
+```
+
+</details>
+
+<details>
+<summary>wine-fixedsys-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Fixedsys font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Fixedsys font family
+```
+
+</details>
+
+<details>
+<summary>wine-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine font files
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine font files
+```
+
+</details>
+
+<details>
+<summary>wine-ldap</summary>
+
+```
+From repo    : updates
+Short desc   : LDAP support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : LDAP support for wine
+```
+
+</details>
+
+<details>
+<summary>wine-ldap</summary>
+
+```
+From repo    : updates
+Short desc   : LDAP support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : LDAP support for wine
+```
+
+</details>
+
+<details>
+<summary>wine-marlett-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Marlett font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Marlett font family
+```
+
+</details>
+
+<details>
+<summary>wine-mono</summary>
+
+```
+From repo    : updates
+Short desc   : Mono library required for Wine
+URL          : http://wiki.winehq.org/Mono
+License      : GPLv2 and LGPLv2 and MIT and BSD and MS-PL and MPLv1.1
+Descript     : Windows Mono library required for Wine.
+```
+
+</details>
+
+<details>
+<summary>wine-ms-sans-serif-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine MS Sans Serif font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine MS Sans Serif font family
+```
+
+</details>
+
+<details>
+<summary>wine-openal</summary>
+
+```
+From repo    : updates
+Short desc   : Openal support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : This package adds an openal driver for wine.
+```
+
+</details>
+
+<details>
+<summary>wine-openal</summary>
+
+```
+From repo    : updates
+Short desc   : Openal support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : This package adds an openal driver for wine.
+```
+
+</details>
+
+<details>
+<summary>wine-opencl</summary>
+
+```
+From repo    : updates
+Short desc   : OpenCL support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : This package adds the opencl driver for wine.
+```
+
+</details>
+
+<details>
+<summary>wine-opencl</summary>
+
+```
+From repo    : updates
+Short desc   : OpenCL support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : This package adds the opencl driver for wine.
+```
+
+</details>
+
+<details>
+<summary>wine-pulseaudio</summary>
+
+```
+From repo    : updates
+Short desc   : Pulseaudio support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : This package adds a pulseaudio driver for wine.
+```
+
+</details>
+
+<details>
+<summary>wine-pulseaudio</summary>
+
+```
+From repo    : updates
+Short desc   : Pulseaudio support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : This package adds a pulseaudio driver for wine.
+```
+
+</details>
+
+<details>
+<summary>wine-small-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Small font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Small font family
+```
+
+</details>
+
+<details>
+<summary>wine-symbol-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Symbol font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Symbol font family
+```
+
+</details>
+
+<details>
+<summary>wine-system-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine System font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine System font family
+```
+
+</details>
+
+<details>
+<summary>wine-systemd</summary>
+
+```
+From repo    : updates
+Short desc   : Systemd config for the wine binfmt handler
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Register the wine binary handler for windows executables via systemd binfmt
+             : handling. See man binfmt.d for further information.
+```
+
+</details>
+
+<details>
+<summary>wine-tahoma-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Tahoma font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Tahoma font family
+             : Please note: If you want system integration for wine tahoma fonts install the
+             : wine-tahoma-fonts-system package.
+```
+
+</details>
+
+<details>
+<summary>wine-times-new-roman-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Times New Roman font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Times New Roman font family
+             : Please note: If you want system integration for wine times new roman fonts install the
+             : wine-times-new-roman-fonts-system package.
+```
+
+</details>
+
+<details>
+<summary>wine-twain</summary>
+
+```
+From repo    : updates
+Short desc   : Twain support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Twain support for wine
+```
+
+</details>
+
+<details>
+<summary>wine-twain</summary>
+
+```
+From repo    : updates
+Short desc   : Twain support for wine
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Twain support for wine
+```
+
+</details>
+
+<details>
+<summary>wine-webdings-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Webdings font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Webdings font family
+```
+
+</details>
+
+<details>
+<summary>wine-wingdings-fonts</summary>
+
+```
+From repo    : updates
+Short desc   : Wine Wingdings font family
+URL          : https://www.winehq.org/
+License      : LGPLv2+
+Descript     : Wine Wingdings font family
+             : Please note: If you want system integration for wine wingdings fonts install the
+             : wine-wingdings-fonts-system package.
+```
+
+</details>
+
+<details>
 <summary>wireless-regdb</summary>
 
 ```
@@ -299,7 +930,7 @@ Descript     : This package contains command-line utilities, plugins, and docume
 <summary>wlroots</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : A modular Wayland compositor library
 URL          : https://github.com/swaywm/wlroots
 License      : MIT

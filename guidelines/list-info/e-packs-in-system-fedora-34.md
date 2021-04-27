@@ -206,6 +206,22 @@ Descript     : Elfutils is a collection of utilities, including stack (to show
 <summary>elfutils-debuginfod-client</summary>
 
 ```
+From repo    : fedora
+Short desc   : Library and command line client for build-id HTTP ELF/DWARF server
+URL          : http://elfutils.org/
+License      : GPLv3+ and (GPLv2+ or LGPLv3+)
+Descript     : The elfutils-debuginfod-client package contains shared libraries
+             : dynamically loaded from -ldw, which use a debuginfod service
+             : to look up debuginfo and associated data. Also includes a
+             : command-line frontend.
+```
+
+</details>
+
+<details>
+<summary>elfutils-debuginfod-client</summary>
+
+```
 From repo    : anaconda
 Short desc   : Library and command line client for build-id HTTP ELF/DWARF server
 URL          : http://elfutils.org/
@@ -241,6 +257,22 @@ Descript     : Yama sysctl setting to enable default attach scope settings
 <summary>elfutils-libelf</summary>
 
 ```
+From repo    : fedora
+Short desc   : Library to read and write ELF files
+URL          : http://elfutils.org/
+License      : GPLv2+ or LGPLv3+
+Descript     : The elfutils-libelf package provides a DSO which allows reading and
+             : writing ELF files on a high level.  Third party programs depend on
+             : this package to read internals of ELF files.  The programs of the
+             : elfutils package use it also to generate new ELF files.
+```
+
+</details>
+
+<details>
+<summary>elfutils-libelf</summary>
+
+```
 From repo    : anaconda
 Short desc   : Library to read and write ELF files
 URL          : http://elfutils.org/
@@ -265,6 +297,23 @@ Descript     : The elfutils-libelf-devel package contains the libraries to creat
              : applications for handling compiled objects.  libelf allows you to
              : access the internals of the ELF object file format, so you can see the
              : different sections of an ELF file.
+```
+
+</details>
+
+<details>
+<summary>elfutils-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Libraries to handle compiled objects
+URL          : http://elfutils.org/
+License      : GPLv2+ or LGPLv3+
+Descript     : The elfutils-libs package contains libraries which implement DWARF, ELF,
+             : and machine-specific ELF handling and process introspection.  These
+             : libraries are used by the programs in the elfutils package.  The
+             : elfutils-devel package enables building other programs using these
+             : libraries.
 ```
 
 </details>
@@ -717,6 +766,24 @@ License      : GPLv2+
 Descript     : A C++ library to access image metadata, supporting full read and write access
              : to the Exif and Iptc metadata, Exif MakerNote support, extract and delete
              : methods for Exif thumbnails, classes to access Ifd and so on.
+```
+
+</details>
+
+<details>
+<summary>expat</summary>
+
+```
+From repo    : fedora
+Short desc   : An XML parser library
+URL          : https://libexpat.github.io/
+License      : MIT
+Descript     : This is expat, the C library for parsing XML, written by James Clark. Expat
+             : is a stream oriented XML parser. This means that you register handlers with
+             : the parser prior to starting the parse. These handlers are called when the
+             : parser discovers the associated structures in the document being parsed. A
+             : start tag is an example of the kind of structures for which you may
+             : register handlers.
 ```
 
 </details>

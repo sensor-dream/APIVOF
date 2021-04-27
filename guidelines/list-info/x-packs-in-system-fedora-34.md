@@ -879,7 +879,7 @@ Descript     : Files for enabling the wacom_w8001 kernel driver on Wacom
 <summary>xorg-x11-fonts-ISO8859-1-100dpi</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : A set of 100dpi ISO-8859-1 fonts for X
 URL          : https://www.x.org
 License      : MIT and Lucida and Public Domain
@@ -892,7 +892,7 @@ Descript     : Contains a set of 100dpi fonts for ISO-8859-1.
 <summary>xorg-x11-fonts-Type1</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : Type1 fonts provided by the X Window System
 URL          : https://www.x.org
 License      : MIT and Lucida and Public Domain
@@ -906,7 +906,7 @@ Descript     : A collection of Type1 fonts which are part of the core X Window S
 <summary>xorg-x11-fonts-misc</summary>
 
 ```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : misc bitmap fonts for the X Window System
 URL          : https://www.x.org
 License      : MIT and Lucida and Public Domain
@@ -1364,6 +1364,19 @@ Short desc   : Devel libraries & headers for liblzma
 URL          : https://tukaani.org/xz/
 License      : Public Domain
 Descript     : Devel libraries and headers for liblzma.
+```
+
+</details>
+
+<details>
+<summary>xz-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Libraries for decoding LZMA compression
+URL          : https://tukaani.org/xz/
+License      : Public Domain
+Descript     : Libraries for decoding files compressed with LZMA or XZ utils.
 ```
 
 </details>

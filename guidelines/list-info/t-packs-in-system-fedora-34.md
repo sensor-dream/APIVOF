@@ -33,6 +33,22 @@ Descript     : TagLib is a library for reading and editing the meta-data of seve
 </details>
 
 <details>
+<summary>taglib</summary>
+
+```
+From repo    : fedora
+Short desc   : Audio Meta-Data Library
+URL          : http://taglib.github.io/
+License      : LGPLv2 or MPLv1.1
+Descript     : TagLib is a library for reading and editing the meta-data of several
+             : popular audio formats. Currently it supports both ID3v1 and ID3v2 for MP3
+             : files, Ogg Vorbis comments and ID3 tags and Vorbis comments in FLAC, MPC,
+             : Speex, WavPack, TrueAudio files, as well as APE Tags.
+```
+
+</details>
+
+<details>
 <summary>tar</summary>
 
 ```
@@ -7126,6 +7142,24 @@ Short desc   : TurboJPEG library
 URL          : http://sourceforge.net/projects/libjpeg-turbo
 License      : IJG
 Descript     : The turbojpeg package contains the TurboJPEG shared library.
+```
+
+</details>
+
+<details>
+<summary>twolame-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : TwoLAME is an optimized MPEG Audio Layer 2 encoding library based on tooLAME
+URL          : http://www.twolame.org/
+License      : LGPLv2+
+Descript     : TwoLAME is an optimized MPEG Audio Layer 2 encoding library based on tooLAME,
+             : which in turn is based heavily on
+             : - the ISO dist10 code
+             : - improvement to algorithms as part of the LAME project (www.sulaco.org/mp3)
+             : 
+             : This package contains the shared library.
 ```
 
 </details>

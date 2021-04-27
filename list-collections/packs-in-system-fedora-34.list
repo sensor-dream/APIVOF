@@ -229,6 +229,7 @@ cmake
 cmake-data
 cmake-filesystem
 cmake-rpm-macros
+cmrt
 code
 codium
 cogl
@@ -356,6 +357,7 @@ dnstop
 docbook-dtds
 docbook-style-xsl
 dos2unix
+dosbox-staging
 dosfstools
 dotconf
 double-conversion
@@ -480,6 +482,8 @@ flexiblas-netlib
 flexiblas-netlib64
 flexiblas-openblas-openmp
 flexiblas-openblas-openmp64
+fluid-soundfont-common
+fluid-soundfont-gm
 fluidsynth
 fluidsynth-libs
 fmt
@@ -591,6 +595,8 @@ ghostscript
 ghostscript-x11
 ghostwriter
 giflib
+gimagereader-common
+gimagereader-gtk
 gimp
 gimp-data-extras
 gimp-dbp
@@ -835,7 +841,9 @@ gtkmm30
 gtk-murrine-engine
 gtksourceview3
 gtksourceview4
+gtksourceviewmm3
 gtkspell3
+gtkspellmm30
 gtk-update-icon-cache
 gtk-vnc2
 gtrayicon
@@ -1012,6 +1020,7 @@ jline-reader
 jline-style
 jline-terminal
 jline-terminal-jna
+jmtpfs
 jna
 john
 jomolhari-fonts
@@ -1255,6 +1264,7 @@ libepubgen
 liberation-fonts
 liberation-fonts-common
 liberation-mono-fonts
+liberation-narrow-fonts
 liberation-sans-fonts
 liberation-serif-fonts
 libertas-usb8388-firmware
@@ -1266,6 +1276,7 @@ libevent
 libewf
 libexif
 libexttextcat
+libFAudio
 libfbclient2
 libfc14audiodecoder
 libfdisk
@@ -1312,7 +1323,6 @@ libgnome-keyring
 libgnomeui
 libgomp
 libgpg-error
-libgpg-error-devel
 libgphoto2
 libgpod
 libgpuarray
@@ -1631,9 +1641,13 @@ libuuid
 libuv
 libv4l
 libva
+libva-devel
+libva-intel-driver
+libva-intel-hybrid-driver
 libvala
 libvala-devel
 libva-utils
+libva-v4l2-request
 libva-vdpau-driver
 libvdpau
 libverto
@@ -1669,6 +1683,8 @@ libvirt-gobject
 libvirt-libs
 libvisio
 libvisual
+libvkd3d
+libvkd3d-shader
 libvmaf
 libvncserver
 libvorbis
@@ -1731,6 +1747,7 @@ libxkbfile
 libxklavier
 libxml2
 libxml2-devel
+libxml++30
 libxmlb
 libXmu
 libXmu-devel
@@ -1745,7 +1762,6 @@ libXres
 libXScrnSaver
 libxshmfence
 libxslt
-libxslt-devel
 libXt
 libXt-devel
 libXtst
@@ -1950,6 +1966,8 @@ metis
 microcode_ctl
 minder
 ming
+mingw32-wine-gecko
+mingw64-wine-gecko
 miniupnpc
 minizip
 minizip-compat
@@ -2128,6 +2146,7 @@ open-vm-tools
 open-vm-tools-desktop
 openvpn
 opus
+opusfile
 ORBit2
 orc
 orca
@@ -3006,6 +3025,7 @@ pocl
 podman
 podman-docker
 podman-plugins
+podofo-libs
 policycoreutils
 policycoreutils-python-utils
 polkit
@@ -3578,6 +3598,11 @@ samba-client
 samba-client-libs
 samba-common
 samba-common-libs
+samba-common-tools
+samba-libs
+samba-winbind
+samba-winbind-clients
+samba-winbind-modules
 sane-airscan
 sane-backends
 sane-backends-devel
@@ -4203,6 +4228,7 @@ vulkan-tools
 w3m
 w3m-img
 wavpack
+wayland-devel
 web-assets-filesystem
 webkit2gtk3
 webkit2gtk3-jsc
@@ -4211,6 +4237,37 @@ webrtc-audio-processing
 wget
 which
 whois-nls
+wine
+wine-alsa
+wine-arial-fonts
+wine-capi
+wine-cms
+wine-common
+wine-core
+wine-courier-fonts
+wine-desktop
+wine-dxvk
+wine-dxvk-d3d9
+wine-dxvk-dxgi
+wine-filesystem
+wine-fixedsys-fonts
+wine-fonts
+wine-ldap
+wine-marlett-fonts
+wine-mono
+wine-ms-sans-serif-fonts
+wine-openal
+wine-opencl
+wine-pulseaudio
+wine-small-fonts
+wine-symbol-fonts
+wine-systemd
+wine-system-fonts
+wine-tahoma-fonts
+wine-times-new-roman-fonts
+wine-twain
+wine-webdings-fonts
+wine-wingdings-fonts
 wireless-regdb
 wireless-tools
 wireshark
@@ -4332,6 +4389,7 @@ yelp-libs
 yelp-xsl
 ykpers
 yum
+zbar
 zchunk-libs
 zd1211-firmware
 zeal

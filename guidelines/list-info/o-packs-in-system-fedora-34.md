@@ -74,6 +74,19 @@ Descript     : OpenCL Library (Installable Client Library) Bindings.
 </details>
 
 <details>
+<summary>ocl-icd</summary>
+
+```
+From repo    : fedora
+Short desc   : OpenCL Library (Installable Client Library) Bindings
+URL          : https://github.com/OCL-dev/ocl-icd/
+License      : BSD
+Descript     : OpenCL Library (Installable Client Library) Bindings.
+```
+
+</details>
+
+<details>
 <summary>oddjob</summary>
 
 ```
@@ -229,6 +242,27 @@ License      : GPLv2
 Descript     : This package contains only the user-space programs and libraries of
              : open-vm-tools that are essential for improved user experience of VMware virtual
              : machines.
+```
+
+</details>
+
+<details>
+<summary>openal-soft</summary>
+
+```
+From repo    : fedora
+Short desc   : Open Audio Library
+URL          : http://openal-soft.org/
+License      : LGPLv2+
+Descript     : OpenAL Soft is a cross-platform software implementation of the OpenAL 3D
+             : audio API. It's built off of the open-sourced Windows version available
+             : originally from the SVN repository at openal.org. OpenAL provides
+             : capabilities for playing audio in a virtual 3d environment. Distance
+             : attenuation, doppler shift, and directional sound emitters are among
+             : the features handled by the API. More advanced effects, including air
+             : absorption, low-pass filters, and reverb, are available through the
+             : EFX extension. It also facilitates streaming audio, multi-channel buffers,
+             : and audio capture.
 ```
 
 </details>
@@ -609,6 +643,25 @@ Descript     : The OpenJPEG library is an open-source JPEG 2000 library develope
 <summary>openldap</summary>
 
 ```
+From repo    : updates
+Short desc   : LDAP support libraries
+URL          : http://www.openldap.org/
+License      : OpenLDAP
+Descript     : OpenLDAP is an open source suite of LDAP (Lightweight Directory Access
+             : Protocol) applications and development tools. LDAP is a set of
+             : protocols for accessing directory services (usually phone book style
+             : information, but other information is possible) over the Internet,
+             : similar to the way DNS (Domain Name System) information is propagated
+             : over the Internet. The openldap package contains configuration files,
+             : libraries, and documentation for OpenLDAP.
+```
+
+</details>
+
+<details>
+<summary>openldap</summary>
+
+```
 From repo    : updates-testing
 Short desc   : LDAP support libraries
 URL          : http://www.openldap.org/
@@ -846,6 +899,22 @@ Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-lib
 
 ```
 Эпоха        : 1
+From repo    : fedora
+Short desc   : A general purpose cryptography library with TLS implementation
+URL          : http://www.openssl.org/
+License      : OpenSSL and ASL 2.0
+Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-libs
+             : package contains the libraries that are used by various applications which
+             : support cryptographic algorithms and protocols.
+```
+
+</details>
+
+<details>
+<summary>openssl-libs</summary>
+
+```
+Эпоха        : 1
 From repo    : updates-testing
 Short desc   : A general purpose cryptography library with TLS implementation
 URL          : http://www.openssl.org/
@@ -869,6 +938,23 @@ License      : OpenSSL and ASL 2.0
 Descript     : OpenSSL is a toolkit for supporting cryptography. The openssl-perl
              : package provides Perl scripts for converting certificates and keys
              : from other formats to the formats used by the OpenSSL toolkit.
+```
+
+</details>
+
+<details>
+<summary>openssl-pkcs11</summary>
+
+```
+From repo    : fedora
+Short desc   : A PKCS#11 engine for use with OpenSSL
+URL          : https://github.com/OpenSC/libp11
+License      : LGPLv2+ and BSD
+Descript     : openssl-pkcs11 enables hardware security module (HSM), and smart card support in
+             : OpenSSL applications. More precisely, it is an OpenSSL engine which makes
+             : registered PKCS#11 modules available for OpenSSL applications. The engine is
+             : optional and can be loaded by configuration file, command line or through the
+             : OpenSSL ENGINE API.
 ```
 
 </details>
@@ -931,24 +1017,7 @@ Descript     : Open Test Alliance for the JVM is a minimal common foundation for
 <summary>openvpn</summary>
 
 ```
-From repo    : anaconda
-Short desc   : A full-featured TLS VPN solution
-URL          : https://community.openvpn.net/
-License      : GPLv2
-Descript     : OpenVPN is a robust and highly flexible tunneling application that uses all
-             : of the encryption, authentication, and certification features of the
-             : OpenSSL library to securely tunnel IP networks over a single UDP or TCP
-             : port.  It can use the Marcus Franz Xaver Johannes Oberhumers LZO library
-             : for compression.
-```
-
-</details>
-
-<details>
-<summary>openvpn</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : A full-featured TLS VPN solution
 URL          : https://community.openvpn.net/
 License      : GPLv2
@@ -965,6 +1034,21 @@ Descript     : OpenVPN is a robust and highly flexible tunneling application tha
 <summary>opus</summary>
 
 ```
+From repo    : fedora
+Short desc   : An audio codec for use in low-delay speech and audio communication
+URL          : https://www.opus-codec.org/
+License      : BSD
+Descript     : The Opus codec is designed for interactive speech and audio transmission over
+             : the Internet. It is designed by the IETF Codec Working Group and incorporates
+             : technology from Skype's SILK codec and Xiph.Org's CELT codec.
+```
+
+</details>
+
+<details>
+<summary>opus</summary>
+
+```
 From repo    : anaconda
 Short desc   : An audio codec for use in low-delay speech and audio communication
 URL          : https://www.opus-codec.org/
@@ -972,6 +1056,45 @@ License      : BSD
 Descript     : The Opus codec is designed for interactive speech and audio transmission over
              : the Internet. It is designed by the IETF Codec Working Group and incorporates
              : technology from Skype's SILK codec and Xiph.Org's CELT codec.
+```
+
+</details>
+
+<details>
+<summary>opusfile</summary>
+
+```
+From repo    : fedora
+Short desc   : A high-level API for decoding and seeking within .opus files
+URL          : https://www.opus-codec.org/
+License      : BSD
+Descript     : libopusfile provides a high-level API for decoding and seeking
+             : within .opus files. It includes:
+             : * Support for all files with at least one Opus stream (including
+             : multichannel files or Ogg files where Opus is muxed with something else).
+             : * Full support, including seeking, for chained files.
+             : * A simple stereo downmixing API (allowing chained files to be
+             : decoded with a single output format, even if the channel count changes).
+             : * Support for reading from a file, memory buffer, or over HTTP(S)
+             : (including seeking).
+             : * Support for both random access and streaming data sources.
+```
+
+</details>
+
+<details>
+<summary>orc</summary>
+
+```
+From repo    : fedora
+Short desc   : The Oil Run-time Compiler
+URL          : http://cgit.freedesktop.org/gstreamer/orc/
+License      : BSD
+Descript     : Orc is a library and set of tools for compiling and executing
+             : very simple programs that operate on arrays of data.  The "language"
+             : is a generic assembly language that represents many of the features
+             : available in SIMD architectures, including saturated addition and
+             : subtraction, and many arithmetic operations.
 ```
 
 </details>

@@ -99,6 +99,8 @@ EOF
 KERNEL=="dri/card0", SUBSYSTEM=="drm", DRIVERS=="radeon", ATTR{device/power_dpm_force_performance_level}="high", ATTR{device/power_method}="profile", ATTR{device/power_profile}="high"
 EOF
 
+  sudo dracut --regenerate-all --force --install "/usr/lib/firmware/amdgpu/*"
+
 }
 
 function main_radeon_HD6450_script_source() {

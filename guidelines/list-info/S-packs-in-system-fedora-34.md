@@ -50,6 +50,20 @@ Descript     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia lib
 <summary>SDL2</summary>
 
 ```
+From repo    : fedora
+Short desc   : Cross-platform multimedia library
+URL          : http://www.libsdl.org/
+License      : zlib and MIT
+Descript     : Simple DirectMedia Layer (SDL) is a cross-platform multimedia library designed
+             : to provide fast access to the graphics frame buffer and audio device.
+```
+
+</details>
+
+<details>
+<summary>SDL2</summary>
+
+```
 From repo    : anaconda
 Short desc   : Cross-platform multimedia library
 URL          : http://www.libsdl.org/

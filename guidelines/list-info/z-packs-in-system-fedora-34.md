@@ -1,6 +1,22 @@
 # For first letter z, information about installation packages
 
 <details>
+<summary>zbar</summary>
+
+```
+From repo    : fedora
+Short desc   : Bar code reader
+URL          : http://zbar.sourceforge.net/
+License      : LGPLv2+
+Descript     : ZBar Bar Code Reader is an open source software suite for reading bar
+             : codes from various sources, such as video streams, image files and raw
+             : intensity sensors. It supports EAN-13/UPC-A, UPC-E, EAN-8, Code 128,
+             : Code 93, Code 39, Codabar, Interleaved 2 of 5, QR Code and SQ Code.
+```
+
+</details>
+
+<details>
 <summary>zchunk-libs</summary>
 
 ```
@@ -162,6 +178,20 @@ Descript     : The zip program is a compression and file packaging utility.  Zip
 
 ```
 From repo    : anaconda
+Short desc   : Compression and decompression library
+URL          : https://www.zlib.net/
+License      : zlib and Boost
+Descript     : Zlib is a general-purpose, patent-free, lossless data compression
+             : library which is used by many different programs.
+```
+
+</details>
+
+<details>
+<summary>zlib</summary>
+
+```
+From repo    : fedora
 Short desc   : Compression and decompression library
 URL          : https://www.zlib.net/
 License      : zlib and Boost

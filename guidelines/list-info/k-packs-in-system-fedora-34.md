@@ -472,6 +472,20 @@ Descript     : Utilities to control the kernel key management facility and to pr
 <summary>keyutils-libs</summary>
 
 ```
+From repo    : fedora
+Short desc   : Key utilities library
+URL          : http://people.redhat.com/~dhowells/keyutils/
+License      : GPLv2+ and LGPLv2+
+Descript     : This package provides a wrapper library for the key management facility system
+             : calls.
+```
+
+</details>
+
+<details>
+<summary>keyutils-libs</summary>
+
+```
 From repo    : anaconda
 Short desc   : Key utilities library
 URL          : http://people.redhat.com/~dhowells/keyutils/
@@ -1187,7 +1201,7 @@ Descript     : This package contains tools and list of recent kernels that get u
 <summary>koji</summary>
 
 ```
-From repo    : fedora
+From repo    : updates
 Short desc   : Build system tools
 URL          : https://pagure.io/koji/
 License      : LGPLv2 and GPLv2+
@@ -1231,6 +1245,21 @@ Descript     : Kerberos is a network authentication system. The krb5-devel packa
 
 ```
 From repo    : anaconda
+Short desc   : The non-admin shared libraries used by Kerberos 5
+URL          : https://web.mit.edu/kerberos/www/
+License      : MIT
+Descript     : Kerberos is a network authentication system. The krb5-libs package
+             : contains the shared libraries needed by Kerberos 5. If you are using
+             : Kerberos, you need to install this package.
+```
+
+</details>
+
+<details>
+<summary>krb5-libs</summary>
+
+```
+From repo    : fedora
 Short desc   : The non-admin shared libraries used by Kerberos 5
 URL          : https://web.mit.edu/kerberos/www/
 License      : MIT

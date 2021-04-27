@@ -1606,6 +1606,20 @@ Descript     :
 <summary>bzip2-libs</summary>
 
 ```
+From repo    : fedora
+Short desc   : Libraries for applications using bzip2
+URL          : http://www.bzip.org/
+License      : BSD
+Descript     : 
+             : Libraries for applications using the bzip2 compression format.
+```
+
+</details>
+
+<details>
+<summary>bzip2-libs</summary>
+
+```
 From repo    : anaconda
 Short desc   : Libraries for applications using bzip2
 URL          : http://www.bzip.org/

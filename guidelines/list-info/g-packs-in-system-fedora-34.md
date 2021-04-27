@@ -89,21 +89,7 @@ Descript     : The Boehm-Demers-Weiser conservative garbage collector can be
 <summary>gcc</summary>
 
 ```
-From repo    : anaconda
-Short desc   : Various compilers (C, C++, Objective-C, ...)
-URL          : http://gcc.gnu.org
-License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Descript     : The gcc package contains the GNU Compiler Collection version 11.
-             : You'll need this package in order to compile C code.
-```
-
-</details>
-
-<details>
-<summary>gcc</summary>
-
-```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Various compilers (C, C++, Objective-C, ...)
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -117,7 +103,7 @@ Descript     : The gcc package contains the GNU Compiler Collection version 11.
 <summary>gcc-c++</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : C++ support for GCC
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -132,20 +118,7 @@ Descript     : This package adds C++ support to the GNU Compiler Collection.
 <summary>gcc-gdb-plugin</summary>
 
 ```
-From repo    : anaconda
-Short desc   : GCC plugin for GDB
-URL          : http://gcc.gnu.org
-License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
-Descript     : This package contains GCC plugin for GDB C expression evaluation.
-```
-
-</details>
-
-<details>
-<summary>gcc-gdb-plugin</summary>
-
-```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : GCC plugin for GDB
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -158,7 +131,7 @@ Descript     : This package contains GCC plugin for GDB C expression evaluation.
 <summary>gcc-gfortran</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Fortran support
 URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
@@ -247,6 +220,24 @@ Descript     : The gcr-base package includes the gcr-base library.
 
 ```
 From repo    : anaconda
+Short desc   : A graphics library for quick creation of PNG or JPEG images
+URL          : http://libgd.github.io/
+License      : MIT
+Descript     : The gd graphics library allows your code to quickly draw images
+             : complete with lines, arcs, text, multiple colors, cut and paste from
+             : other images, and flood fills, and to write out the result as a PNG or
+             : JPEG file. This is particularly useful in Web applications, where PNG
+             : and JPEG are two of the formats accepted for inline images by most
+             : browsers. Note that gd is not a paint program.
+```
+
+</details>
+
+<details>
+<summary>gd</summary>
+
+```
+From repo    : fedora
 Short desc   : A graphics library for quick creation of PNG or JPEG images
 URL          : http://libgd.github.io/
 License      : MIT
@@ -475,7 +466,7 @@ Descript     : An fdisk-like partitioning tool for GPT disks. GPT fdisk features
 <summary>gdk-pixbuf2</summary>
 
 ```
-From repo    : anaconda
+From repo    : updates
 Short desc   : An image loading library
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 License      : LGPLv2+
@@ -490,7 +481,7 @@ Descript     : gdk-pixbuf is an image loading library that can be extended by lo
 <summary>gdk-pixbuf2</summary>
 
 ```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : An image loading library
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 License      : LGPLv2+
@@ -505,7 +496,7 @@ Descript     : gdk-pixbuf is an image loading library that can be extended by lo
 <summary>gdk-pixbuf2-devel</summary>
 
 ```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : Development files for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 License      : LGPLv2+
@@ -519,21 +510,7 @@ Descript     : This package contains the libraries and header files that are nee
 <summary>gdk-pixbuf2-modules</summary>
 
 ```
-From repo    : anaconda
-Short desc   : Additional image modules for gdk-pixbuf2
-URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
-License      : LGPLv2+
-Descript     : This package contains the additional modules that are needed to load various
-             : image formats such as ICO and JPEG.
-```
-
-</details>
-
-<details>
-<summary>gdk-pixbuf2-modules</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : Additional image modules for gdk-pixbuf2
 URL          : https://gitlab.gnome.org/GNOME/gdk-pixbuf
 License      : LGPLv2+
@@ -1023,6 +1000,40 @@ Short desc   : A library and utilities for processing GIFs
 URL          : http://www.sourceforge.net/projects/giflib/
 License      : MIT
 Descript     : giflib is a library for reading and writing gif images.
+```
+
+</details>
+
+<details>
+<summary>gimagereader-common</summary>
+
+```
+From repo    : fedora
+Short desc   : Common files for gimagereader
+URL          : https://github.com/manisandro/gimagereader
+License      : GPLv3+
+Descript     : Common files for gimagereader.
+```
+
+</details>
+
+<details>
+<summary>gimagereader-gtk</summary>
+
+```
+From repo    : fedora
+Short desc   : A Gtk+ front-end to tesseract-ocr
+URL          : https://github.com/manisandro/gimagereader
+License      : GPLv3+
+Descript     : gImageReader is a simple front-end to tesseract. Features include:
+             :  - Import PDF documents and images from disk, scanning devices, clipboard and screenshots
+             :  - Process multiple images and documents in one go
+             :  - Manual or automatic recognition area definition
+             :  - Recognize to plain text or to hOCR documents
+             :  - Recognized text displayed directly next to the image
+             :  - Post-process the recognized text, including spellchecking
+             :  - Generate PDF documents from hOCR documents
+             : This package contains the Gtk+ front-end.
 ```
 
 </details>
@@ -1791,22 +1802,7 @@ Descript     : Assorted git-related scripts and tools:
 <summary>gjs</summary>
 
 ```
-From repo    : anaconda
-Short desc   : Javascript Bindings for GNOME
-URL          : https://wiki.gnome.org/Projects/Gjs
-License      : MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
-Descript     : Gjs allows using GNOME libraries from Javascript. It's based on the
-             : Spidermonkey Javascript engine from Mozilla and the GObject introspection
-             : framework.
-```
-
-</details>
-
-<details>
-<summary>gjs</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : Javascript Bindings for GNOME
 URL          : https://wiki.gnome.org/Projects/Gjs
 License      : MIT and (MPLv1.1 or GPLv2+ or LGPLv2+)
@@ -1916,7 +1912,7 @@ Descript     : Libraries and header files for glib development.
 <summary>glib-networking</summary>
 
 ```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : Networking support for GLib
 URL          : http://www.gnome.org
 License      : LGPLv2+
@@ -1932,7 +1928,7 @@ Descript     : This package contains modules that extend the networking support 
 <summary>glib-networking</summary>
 
 ```
-From repo    : anaconda
+From repo    : updates
 Short desc   : Networking support for GLib
 URL          : http://www.gnome.org
 License      : LGPLv2+
@@ -1948,7 +1944,7 @@ Descript     : This package contains modules that extend the networking support 
 <summary>glib2</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : A library of handy utility functions
 URL          : http://www.gtk.org
 License      : LGPLv2+
@@ -1994,6 +1990,25 @@ Descript     : The glib2-devel package includes the header files for the GLib li
 
 ```
 From repo    : anaconda
+Short desc   : The GNU libc libraries
+URL          : http://www.gnu.org/software/glibc/
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : The glibc package contains standard libraries which are used by
+             : multiple programs on the system. In order to save disk space and
+             : memory, as well as to make upgrading easier, common system code is
+             : kept in one place and shared between programs. This particular package
+             : contains the most important sets of shared libraries: the standard C
+             : library and the standard math library. Without these two libraries, a
+             : Linux system will not function.
+```
+
+</details>
+
+<details>
+<summary>glibc</summary>
+
+```
+From repo    : fedora
 Short desc   : The GNU libc libraries
 URL          : http://www.gnu.org/software/glibc/
 License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
@@ -2463,6 +2478,29 @@ Descript     : G'MIC is an open and full-featured framework for image processing
              : multi-spectral volumetric images.
              : 
              : Provides a plugin for using G'MIC from GIMP
+```
+
+</details>
+
+<details>
+<summary>gmp</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : A GNU arbitrary precision library
+URL          : http://gmplib.org/
+License      : LGPLv3+ or GPLv2+
+Descript     : The gmp package contains GNU MP, a library for arbitrary precision
+             : arithmetic, signed integers operations, rational numbers and floating
+             : point numbers. GNU MP is designed for speed, for both small and very
+             : large operands. GNU MP is fast because it uses fullwords as the basic
+             : arithmetic type, it uses fast algorithms, it carefully optimizes
+             : assembly code for many CPUs' most common inner loops, and it generally
+             : emphasizes speed over simplicity/elegance in its operations.
+             : 
+             : Install the gmp package if you need a fast arbitrary precision
+             : library.
 ```
 
 </details>
@@ -3132,23 +3170,7 @@ Descript     : gnome-menus is an implementation of the draft "Desktop
 <summary>gnome-online-accounts</summary>
 
 ```
-From repo    : anaconda
-Short desc   : Single sign-on framework for GNOME
-URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
-License      : LGPLv2+
-Descript     : GNOME Online Accounts provides interfaces so that applications and libraries
-             : in GNOME can access the user's online accounts. It has providers for Google,
-             : Nextcloud, Facebook, Flickr, Foursquare, Microsoft Account, Microsoft
-             : Exchange, IMAP/SMTP and Kerberos.
-```
-
-</details>
-
-<details>
-<summary>gnome-online-accounts</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : Single sign-on framework for GNOME
 URL          : https://wiki.gnome.org/Projects/GnomeOnlineAccounts
 License      : LGPLv2+
@@ -3976,7 +3998,7 @@ Descript     : The GNUstep Base Library is a powerful fast library of general-pu
 <summary>gnutls</summary>
 
 ```
-From repo    : anaconda
+From repo    : fedora
 Short desc   : A TLS protocol implementation
 URL          : http://www.gnutls.org/
 License      : GPLv3+ and LGPLv2+
@@ -4002,25 +4024,6 @@ Descript     : GnuTLS is a secure communications library implementing the SSL, T
              : application programming interface (API) to access the secure communications
              : protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and
              : other required structures.
-```
-
-</details>
-
-<details>
-<summary>gnutls-dane</summary>
-
-```
-From repo    : anaconda
-Short desc   : A DANE protocol implementation for GnuTLS
-URL          : http://www.gnutls.org/
-License      : GPLv3+ and LGPLv2+
-Descript     : GnuTLS is a secure communications library implementing the SSL, TLS and DTLS
-             : protocols and technologies around them. It provides a simple C language
-             : application programming interface (API) to access the secure communications
-             : protocols as well as APIs to parse and write X.509, PKCS #12, OpenPGP and
-             : other required structures.
-             : This package contains library that implements the DANE protocol for verifying
-             : TLS certificates through DNSSEC.
 ```
 
 </details>
@@ -4463,12 +4466,44 @@ Descript     : Graphene provides a small set of mathematical types needed to imp
 <summary>graphene</summary>
 
 ```
+From repo    : fedora
+Short desc   : Thin layer of types for graphic libraries
+URL          : https://github.com/ebassi/graphene
+License      : MIT
+Descript     : Graphene provides a small set of mathematical types needed to implement graphic
+             : libraries that deal with 2D and 3D transformations and projections.
+```
+
+</details>
+
+<details>
+<summary>graphene</summary>
+
+```
 From repo    : updates-testing
 Short desc   : Thin layer of types for graphic libraries
 URL          : https://github.com/ebassi/graphene
 License      : MIT
 Descript     : Graphene provides a small set of mathematical types needed to implement graphic
              : libraries that deal with 2D and 3D transformations and projections.
+```
+
+</details>
+
+<details>
+<summary>graphite2</summary>
+
+```
+From repo    : fedora
+Short desc   : Font rendering capabilities for complex non-Roman writing systems
+URL          : https://sourceforge.net/projects/silgraphite/
+License      : (LGPLv2+ or GPLv2+ or MPLv1.1) and (Netscape or GPLv2+ or LGPLv2+)
+Descript     : Graphite2 is a project within SIL’s Non-Roman Script Initiative and Language
+             : Software Development groups to provide rendering capabilities for complex
+             : non-Roman writing systems. Graphite can be used to create “smart fonts” capable
+             : of displaying writing systems with various complex behaviors. With respect to
+             : the Text Encoding Model, Graphite handles the "Rendering" aspect of writing
+             : system implementation.
 ```
 
 </details>
@@ -4986,6 +5021,35 @@ Descript     : The GNU Scientific Library (GSL) is a collection of routines for
 <summary>gsm</summary>
 
 ```
+From repo    : fedora
+Short desc   : Shared libraries for GSM speech compressor
+URL          : http://www.quut.com/gsm/
+License      : MIT
+Descript     : Contains runtime shared libraries for libgsm, an implementation of
+             : the European GSM 06.10 provisional standard for full-rate speech
+             : transcoding, prI-ETS 300 036, which uses RPE/LTP (residual pulse
+             : excitation/long term prediction) coding at 13 kbit/s.
+             : 
+             : GSM 06.10 compresses frames of 162 13-bit samples (8 kHz sampling
+             : rate, i.e. a frame rate of 50 Hz) into 260 bits; for compatibility
+             : with typical UNIX applications, our implementation turns frames of 160
+             : 16-bit linear samples into 33-byte frames (1650 Bytes/s).
+             : The quality of the algorithm is good enough for reliable speaker
+             : recognition; even music often survives transcoding in recognizable
+             : form (given the bandwidth limitations of 8 kHz sampling rate).
+             : 
+             : The interfaces offered are a front end modelled after compress(1), and
+             : a library API.  Compression and decompression run faster than realtime
+             : on most SPARCstations.  The implementation has been verified against the
+             : ETSI standard test patterns.
+```
+
+</details>
+
+<details>
+<summary>gsm</summary>
+
+```
 From repo    : anaconda
 Short desc   : Shared libraries for GSM speech compressor
 URL          : http://www.quut.com/gsm/
@@ -5087,7 +5151,7 @@ Descript     : This is a high-level library for facilitating the creation of aud
 <summary>gstreamer1</summary>
 
 ```
-From repo    : anaconda
+From repo    : updates
 Short desc   : GStreamer streaming media framework runtime
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
@@ -5230,6 +5294,26 @@ Descript     : GStreamer is a streaming media framework, based on graphs of filt
 <summary>gstreamer1-plugins-base</summary>
 
 ```
+From repo    : fedora
+Short desc   : GStreamer streaming media framework base plugins
+URL          : http://gstreamer.freedesktop.org/
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
+             : operate on media data. Applications using this library can do anything
+             : from real-time sound processing to playing videos, and just about anything
+             : else media-related.  Its plugin-based architecture means that new data
+             : types or processing capabilities can be added simply by installing new
+             : plug-ins.
+             : 
+             : This package contains a set of well-maintained base plug-ins.
+```
+
+</details>
+
+<details>
+<summary>gstreamer1-plugins-base</summary>
+
+```
 From repo    : updates-testing
 Short desc   : GStreamer streaming media framework base plugins
 URL          : http://gstreamer.freedesktop.org/
@@ -5305,6 +5389,27 @@ Descript     : This is an input plugin for GStreamer which can play back Future 
 
 ```
 From repo    : anaconda
+Short desc   : GStreamer plugins with good code and licensing
+URL          : http://gstreamer.freedesktop.org/
+License      : LGPLv2+
+Descript     : GStreamer is a streaming media framework, based on graphs of filters which
+             : operate on media data. Applications using this library can do anything
+             : from real-time sound processing to playing videos, and just about anything
+             : else media-related.  Its plugin-based architecture means that new data
+             : types or processing capabilities can be added simply by installing new
+             : plugins.
+             : 
+             : GStreamer Good Plugins is a collection of well-supported plugins of
+             : good quality and under the LGPL license.
+```
+
+</details>
+
+<details>
+<summary>gstreamer1-plugins-good</summary>
+
+```
+From repo    : fedora
 Short desc   : GStreamer plugins with good code and licensing
 URL          : http://gstreamer.freedesktop.org/
 License      : LGPLv2+
@@ -5777,11 +5882,41 @@ Descript     : GtkSourceView is a GNOME library that extends GtkTextView, the st
 </details>
 
 <details>
+<summary>gtksourceviewmm3</summary>
+
+```
+From repo    : fedora
+Short desc   : A C++ wrapper for gtksourceview3
+URL          : http://projects.gnome.org/gtksourceviewmm/
+License      : LGPLv2+
+Descript     : gtksourceviewmm is a C++ wrapper for the gtksourceview widget
+             : library. It offers all the power of gtksourceview with an interface
+             : familiar to c++ developers, including users of the gtkmm library
+```
+
+</details>
+
+<details>
 <summary>gtkspell3</summary>
 
 ```
 From repo    : fedora
 Short desc   : On-the-fly spell checking for GtkTextView widgets
+URL          : http://gtkspell.sourceforge.net/
+License      : GPLv2+
+Descript     : GtkSpell provides word-processor-style highlighting and replacement of
+             : misspelled words in a GtkTextView widget as you type. Right-clicking a
+             : misspelled word pops up a menu of suggested replacements.
+```
+
+</details>
+
+<details>
+<summary>gtkspellmm30</summary>
+
+```
+From repo    : fedora
+Short desc   : On-the-fly spell checking for GtkTextView widgets - C++ bindings
 URL          : http://gtkspell.sourceforge.net/
 License      : GPLv2+
 Descript     : GtkSpell provides word-processor-style highlighting and replacement of

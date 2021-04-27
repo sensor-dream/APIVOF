@@ -498,6 +498,21 @@ Descript     : Install unixODBC if you want to access databases through ODBC.
 </details>
 
 <details>
+<summary>unixODBC</summary>
+
+```
+From repo    : fedora
+Short desc   : A complete ODBC driver manager for Linux
+URL          : http://www.unixODBC.org/
+License      : GPLv2+ and LGPLv2+
+Descript     : Install unixODBC if you want to access databases through ODBC.
+             : You will also need the mariadb-connector-odbc package if you want to access
+             : a MySQL or MariaDB database, and/or the postgresql-odbc package for PostgreSQL.
+```
+
+</details>
+
+<details>
 <summary>unoconv</summary>
 
 ```

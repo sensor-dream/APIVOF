@@ -61,7 +61,7 @@ Descript     : Runtime libraries for jasper.
 
 ```
 Эпоха        : 1
-From repo    : anaconda
+From repo    : updates
 Short desc   : OpenJDK 11 Headless Runtime Environment
 URL          : http://openjdk.java.net/
 License      : ASL 1.1 and ASL 2.0 and BSD and BSD with advertising and GPL+ and GPLv2 and GPLv2 with exceptions and IJG and LGPLv2+ and MIT and MPLv2.0 and Public Domain and W3C and zlib and ISC and FTL and RSA
@@ -112,6 +112,30 @@ Descript     : jbig2dec is a decoder implementation of the JBIG2 image compressi
              : ratios on the order of 100:1.
              : 
              : This package provides the shared jbig2dec library.
+```
+
+</details>
+
+<details>
+<summary>jbigkit-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : JBIG1 lossless image compression library
+URL          : http://www.cl.cam.ac.uk/~mgk25/jbigkit/
+License      : GPLv2+
+Descript     : JBIG-KIT provides a portable library of compression and decompression
+             : functions with a documented interface that you can include very easily
+             : into your image or document processing software. In addition, JBIG-KIT
+             : provides ready-to-use compression and decompression programs with a
+             : simple command line interface (similar to the converters found in netpbm).
+             : 
+             : JBIG-KIT implements the specification:
+             :     ISO/IEC 11544:1993 and ITU-T Recommendation T.82(1993):
+             :      Information technology — Coded representation of picture and audio
+             :      information — Progressive bi-level image compression
+             : 
+             : which is commonly referred to as the “JBIG1 standard”
 ```
 
 </details>
@@ -218,6 +242,31 @@ Descript     : JLine is a Java library for handling console input.  It is simila
              : familiar.
              : 
              : This package contains a functioning terminal based on JNA.
+```
+
+</details>
+
+<details>
+<summary>jmtpfs</summary>
+
+```
+From repo    : fedora
+Short desc   : FUSE and libmtp based filesystem for accessing MTP devices
+URL          : https://github.com/JasonFerrara/jmtpfs/
+License      : GPLv3
+Descript     : jmtpfs is a FUSE and libmtp based filesystem for accessing MTP (Media
+             : Transfer Protocol) devices. It was specifically designed for exchanging
+             : files between Linux systems and newer Android devices that support MTP
+             : but not USB Mass Storage.
+             : 
+             : The goal is to create a well behaved filesystem, allowing tools like
+             : find and rsync to work as expected. MTP file types are set automatically
+             : based on file type detection using libmagic. Setting the file appears to
+             : be necessary for some Android apps, like Gallery, to be able to find and
+             : use the files.
+             : 
+             : Since it is meant as an Android file transfer utility, the playlists and
+             : other non-file based data are not supported.
 ```
 
 </details>

@@ -992,6 +992,32 @@ Descript     : Mesa-based DRI drivers.
 </details>
 
 <details>
+<summary>mesa-dri-drivers</summary>
+
+```
+From repo    : updates
+Short desc   : Mesa-based DRI drivers
+URL          : http://www.mesa3d.org
+License      : MIT
+Descript     : Mesa-based DRI drivers.
+```
+
+</details>
+
+<details>
+<summary>mesa-filesystem</summary>
+
+```
+From repo    : updates
+Short desc   : Mesa driver filesystem
+URL          : http://www.mesa3d.org
+License      : MIT
+Descript     : Mesa driver filesystem.
+```
+
+</details>
+
+<details>
 <summary>mesa-filesystem</summary>
 
 ```
@@ -1018,6 +1044,19 @@ Descript     : Mesa libEGL runtime libraries.
 </details>
 
 <details>
+<summary>mesa-libEGL</summary>
+
+```
+From repo    : updates
+Short desc   : Mesa libEGL runtime libraries
+URL          : http://www.mesa3d.org
+License      : MIT
+Descript     : Mesa libEGL runtime libraries.
+```
+
+</details>
+
+<details>
 <summary>mesa-libEGL-devel</summary>
 
 ```
@@ -1026,6 +1065,19 @@ Short desc   : Mesa libEGL development package
 URL          : http://www.mesa3d.org
 License      : MIT
 Descript     : Mesa libEGL development package.
+```
+
+</details>
+
+<details>
+<summary>mesa-libGL</summary>
+
+```
+From repo    : updates
+Short desc   : Mesa libGL runtime libraries
+URL          : http://www.mesa3d.org
+License      : MIT
+Descript     : Mesa libGL runtime libraries.
 ```
 
 </details>
@@ -1110,6 +1162,19 @@ Descript     : Mesa offscreen rendering libraries.
 </details>
 
 <details>
+<summary>mesa-libOSMesa</summary>
+
+```
+From repo    : updates
+Short desc   : Mesa offscreen rendering libraries
+URL          : http://www.mesa3d.org
+License      : MIT
+Descript     : Mesa offscreen rendering libraries.
+```
+
+</details>
+
+<details>
 <summary>mesa-libOpenCL</summary>
 
 ```
@@ -1144,6 +1209,32 @@ Short desc   : Mesa gbm runtime library
 URL          : http://www.mesa3d.org
 License      : MIT
 Descript     : Mesa gbm runtime library.
+```
+
+</details>
+
+<details>
+<summary>mesa-libgbm</summary>
+
+```
+From repo    : updates
+Short desc   : Mesa gbm runtime library
+URL          : http://www.mesa3d.org
+License      : MIT
+Descript     : Mesa gbm runtime library.
+```
+
+</details>
+
+<details>
+<summary>mesa-libglapi</summary>
+
+```
+From repo    : updates
+Short desc   : Mesa shared glapi
+URL          : http://www.mesa3d.org
+License      : MIT
+Descript     : Mesa shared glapi.
 ```
 
 </details>
@@ -1196,6 +1287,19 @@ Short desc   : Mesa-based VDPAU drivers
 URL          : http://www.mesa3d.org
 License      : MIT
 Descript     : Mesa-based VDPAU drivers.
+```
+
+</details>
+
+<details>
+<summary>mesa-vulkan-drivers</summary>
+
+```
+From repo    : updates
+Short desc   : Mesa Vulkan drivers
+URL          : http://www.mesa3d.org
+License      : MIT
+Descript     : The drivers with support for the Vulkan API.
 ```
 
 </details>
@@ -1299,6 +1403,32 @@ URL          : http://www.libming.org/
 License      : LGPLv2+ and GPLv2+ and MIT and GPL+ or Artistic
 Descript     : Ming is a library for generating Macromedia Flash files (.swf), written in C,
              : and includes useful utilities for working with .swf files.
+```
+
+</details>
+
+<details>
+<summary>mingw32-wine-gecko</summary>
+
+```
+From repo    : fedora
+Short desc   : Gecko library for 32bit wine
+URL          : http://wiki.winehq.org/Gecko
+License      : MPLv1.1 or GPLv2+ or LGPLv2+
+Descript     : Windows Gecko library required for Wine.
+```
+
+</details>
+
+<details>
+<summary>mingw64-wine-gecko</summary>
+
+```
+From repo    : fedora
+Short desc   : Gecko library for 64bit wine
+URL          : http://wiki.winehq.org/Gecko
+License      : MPLv1.1 or GPLv2+ or LGPLv2+
+Descript     : Windows Gecko library required for Wine.
 ```
 
 </details>
@@ -1712,22 +1842,7 @@ Descript     : The mozilla-openh264 package contains a H.264 codec plugin for Mo
 <summary>mozjs78</summary>
 
 ```
-From repo    : anaconda
-Short desc   : SpiderMonkey JavaScript library
-URL          : https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
-License      : MPLv2.0 and MPLv1.1 and BSD and GPLv2+ and GPLv3+ and LGPLv2+ and AFL and ASL 2.0
-Descript     : SpiderMonkey is the code-name for Mozilla Firefox's C++ implementation of
-             : JavaScript. It is intended to be embedded in other applications
-             : that provide host environments for JavaScript.
-```
-
-</details>
-
-<details>
-<summary>mozjs78</summary>
-
-```
-From repo    : updates-testing
+From repo    : updates
 Short desc   : SpiderMonkey JavaScript library
 URL          : https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
 License      : MPLv2.0 and MPLv1.1 and BSD and GPLv2+ and GPLv3+ and LGPLv2+ and AFL and ASL 2.0
@@ -1807,6 +1922,21 @@ Descript     : The MPFR library is a C library for multiple-precision floating-p
              : also has a well-defined semantics. It copies the good ideas from the
              : ANSI/IEEE-754 standard for double-precision floating-point arithmetic
              : (53-bit mantissa). MPFR is based on the GMP multiple-precision library.
+```
+
+</details>
+
+<details>
+<summary>mpg123-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Real time MPEG 1.0/2.0/2.5 audio player/decoder for layers 1, 2 and 3
+URL          : http://mpg123.org
+License      : LGPLv2+
+Descript     : Real time MPEG 1.0/2.0/2.5 audio player/decoder for layers 1, 2 and 3 (most
+             : commonly MPEG 1.0 layer 3 aka MP3), as well as re-usable decoding and output
+             : libraries.
 ```
 
 </details>
