@@ -62,6 +62,20 @@ Descript     : This adds a NetworkManager configuration file to enable connectiv
 </details>
 
 <details>
+<summary>NetworkManager-l2tp</summary>
+
+```
+From repo    : fedora
+Short desc   : NetworkManager VPN plugin for L2TP and L2TP/IPsec
+URL          : https://github.com/nm-l2tp/NetworkManager-l2tp
+License      : GPLv2+
+Descript     : This package contains software for integrating L2TP and L2TP over
+             : IPsec VPN support with the NetworkManager.
+```
+
+</details>
+
+<details>
 <summary>NetworkManager-libnm</summary>
 
 ```
@@ -72,6 +86,20 @@ URL          : https://networkmanager.dev/
 License      : LGPLv2+
 Descript     : This package contains the libraries that make it easier to use some
              : NetworkManager functionality from applications.
+```
+
+</details>
+
+<details>
+<summary>NetworkManager-libreswan</summary>
+
+```
+From repo    : fedora
+Short desc   : NetworkManager VPN plug-in for IPsec VPN
+URL          : http://www.gnome.org/projects/NetworkManager/
+License      : GPLv2+
+Descript     : This package contains software for integrating the libreswan VPN software
+             : with NetworkManager and the GNOME desktop
 ```
 
 </details>

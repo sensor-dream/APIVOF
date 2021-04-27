@@ -102,6 +102,28 @@ Descript     : Valadoc is a documentation generator for generating API documenta
 </details>
 
 <details>
+<summary>valgrind</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : Tool for finding memory management bugs in programs
+URL          : http://www.valgrind.org/
+License      : GPLv2+
+Descript     : Valgrind is an instrumentation framework for building dynamic analysis
+             : tools. There are Valgrind tools that can automatically detect many
+             : memory management and threading bugs, and profile your programs in
+             : detail. You can also use Valgrind to build new tools. The Valgrind
+             : distribution currently includes six production-quality tools: a memory
+             : error detector (memcheck, the default tool), two thread error
+             : detectors (helgrind and drd), a cache and branch-prediction profiler
+             : (cachegrind), a call-graph generating cache and branch-prediction
+             : profiler (callgrind), and a heap profiler (massif).
+```
+
+</details>
+
+<details>
 <summary>vanityhash</summary>
 
 ```
@@ -312,6 +334,67 @@ Descript     : The virgil3d rendering library is a library used by
 </details>
 
 <details>
+<summary>virt-install</summary>
+
+```
+From repo    : fedora
+Short desc   : Utilities for installing virtual machines
+URL          : https://virt-manager.org/
+License      : GPLv2+
+Descript     : Package includes several command line utilities, including virt-install
+             : (build and install new VMs) and virt-clone (clone an existing virtual
+             : machine).
+```
+
+</details>
+
+<details>
+<summary>virt-manager</summary>
+
+```
+From repo    : fedora
+Short desc   : Desktop tool for managing virtual machines via libvirt
+URL          : https://virt-manager.org/
+License      : GPLv2+
+Descript     : Virtual Machine Manager provides a graphical tool for administering virtual
+             : machines for KVM, Xen, and LXC. Start, stop, add or remove virtual devices,
+             : connect to a graphical or serial console, and see resource usage statistics
+             : for existing VMs on local or remote machines. Uses libvirt as the backend
+             : management API.
+```
+
+</details>
+
+<details>
+<summary>virt-manager-common</summary>
+
+```
+From repo    : fedora
+Short desc   : Common files used by the different Virtual Machine Manager interfaces
+URL          : https://virt-manager.org/
+License      : GPLv2+
+Descript     : Common files used by the different virt-manager interfaces, as well as
+             : virt-install related tools.
+```
+
+</details>
+
+<details>
+<summary>virt-viewer</summary>
+
+```
+From repo    : fedora
+Short desc   : Virtual Machine Viewer
+URL          : http://virt-manager.org/
+License      : GPLv2+
+Descript     : Virtual Machine Viewer provides a graphical console client for connecting
+             : to virtual machines. It uses the GTK-VNC or SPICE-GTK widgets to provide
+             : the display, and libvirt for looking up VNC/SPICE server details.
+```
+
+</details>
+
+<details>
 <summary>virtualbox-guest-additions</summary>
 
 ```
@@ -375,6 +458,29 @@ Descript     : This package provides libvolume_key, a library for manipulating s
              : back up can also be useful for extracting data after a hardware or software
              : failure that corrupts the header of the encrypted volume, or to access the
              : company data after an employee leaves abruptly.
+```
+
+</details>
+
+<details>
+<summary>volumeicon</summary>
+
+```
+From repo    : fedora
+Short desc   : Lightweight volume control for the system tray
+URL          : http://www.softwarebakery.com/maato/volumeicon.html
+License      : GPLv3
+Descript     : Volume Icon aims to be a lightweight volume control that sits in your system
+             : tray.
+             : 
+             : Features:
+             : * Change volume by scrolling on the systray icon
+             : * Ability to choose which channel to control
+             : * Configurable stepsize
+             : * Several icon themes
+             : * Configurable external mixer
+             : * Volume slider
+             : * Hotkey support
 ```
 
 </details>

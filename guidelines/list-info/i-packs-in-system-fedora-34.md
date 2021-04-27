@@ -65,6 +65,22 @@ Descript     : i3status is a program for generating a status bar for i3bar, dzen
 </details>
 
 <details>
+<summary>i3status-rs</summary>
+
+```
+From repo    : fedora
+Short desc   : Feature-rich and resource-friendly replacement for i3status, written in Rust
+URL          : https://github.com/greshake/i3status-rust
+License      : GPLv3 and 0BSD and ASL 2.0 and ISC and MIT and BSD and Public Domain
+Descript     : i3status-rs is a feature-rich and resource-friendly replacement for i3status,
+             : written in pure Rust. It provides a way to display "blocks" of system
+             : information (time, battery status, volume, etc) on the i3 bar. It is also
+             : compatible with sway.
+```
+
+</details>
+
+<details>
 <summary>iaxclient</summary>
 
 ```
@@ -135,6 +151,38 @@ Short desc   : Anthy Python files for IBus
 URL          : https://github.com/ibus/ibus/wiki
 License      : GPLv2+
 Descript     : This package contains the Anthy Python files for IBus
+```
+
+</details>
+
+<details>
+<summary>ibus-cangjie</summary>
+
+```
+From repo    : fedora
+Short desc   : IBus engine to input Cangjie and Quick
+URL          : http://cangjians.github.io/projects/ibus-cangjie
+License      : GPLv3+
+Descript     : Common files needed by the IBus engines for users of the Cangjie and Quick
+             : input methods.
+```
+
+</details>
+
+<details>
+<summary>ibus-cangjie-engine-cangjie</summary>
+
+```
+From repo    : fedora
+Short desc   : Cangjie input method for IBus
+URL          : http://cangjians.github.io/projects/ibus-cangjie
+License      : GPLv3+
+Descript     : IBus engine for users of the Cangjie input method.
+             : 
+             : It is primarily intended to Hong Kong people who want to input Traditional
+             : Chinese, as they are (by far) the majority of Cangjie users.
+             : 
+             : However, it should work for others as well (e.g to input Simplified Chinese).
 ```
 
 </details>
@@ -275,6 +323,19 @@ Descript     : M17N engine for IBus input platform. It allows input of many lang
 </details>
 
 <details>
+<summary>ibus-qt</summary>
+
+```
+From repo    : fedora
+Short desc   : Qt IBus library and Qt input method plugin
+URL          : https://github.com/ibus/ibus/wiki
+License      : GPLv2+
+Descript     : Qt IBus library and Qt input method plugin.
+```
+
+</details>
+
+<details>
 <summary>ibus-setup</summary>
 
 ```
@@ -365,6 +426,37 @@ Descript     : iLBC (internet Low Bitrate Codec) is a FREE speech codec suitable
 </details>
 
 <details>
+<summary>im-chooser</summary>
+
+```
+From repo    : fedora
+Short desc   : Desktop Input Method configuration tool
+URL          : http://pagure.io/im-chooser/
+License      : GPLv2+ and LGPLv2+
+Descript     : im-chooser is a GUI configuration tool to choose the Input Method
+             : to be used or disable Input Method usage on the desktop.
+```
+
+</details>
+
+<details>
+<summary>im-chooser-common</summary>
+
+```
+From repo    : fedora
+Short desc   : Common files for im-chooser subpackages
+URL          : http://pagure.io/im-chooser/
+License      : GPLv2+ and LGPLv2+
+Descript     : im-chooser is a GUI configuration tool to choose the Input Method
+             : to be used or disable Input Method usage on the desktop.
+             : 
+             : This package contains the common libraries/files to be used in
+             : im-chooser subpackages.
+```
+
+</details>
+
+<details>
 <summary>ima-evm-utils</summary>
 
 ```
@@ -402,6 +494,81 @@ Descript     : Imlib 2 is a library that does image file loading and saving as w
 </details>
 
 <details>
+<summary>imsettings</summary>
+
+```
+From repo    : fedora
+Short desc   : Delivery framework for general Input Method configuration
+URL          : https://tagoh.bitbucket.org/imsettings/
+License      : LGPLv2+
+Descript     : IMSettings is a framework that delivers Input Method
+             : settings and applies the changes so they take effect
+             : immediately without any need to restart applications
+             : or the desktop.
+             : 
+             : This package contains the core DBus services and some utilities.
+```
+
+</details>
+
+<details>
+<summary>imsettings-gsettings</summary>
+
+```
+From repo    : fedora
+Short desc   : GSettings support on imsettings
+URL          : https://tagoh.bitbucket.org/imsettings/
+License      : LGPLv2+
+Descript     : IMSettings is a framework that delivers Input Method
+             : settings and applies the changes so they take effect
+             : immediately without any need to restart applications
+             : or the desktop.
+             : 
+             : This package contains a module to get this working on
+             : GNOME and Cinnamon which requires GSettings in their
+             : own XSETTINGS daemons.
+```
+
+</details>
+
+<details>
+<summary>imsettings-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Libraries for imsettings
+URL          : https://tagoh.bitbucket.org/imsettings/
+License      : LGPLv2+
+Descript     : IMSettings is a framework that delivers Input Method
+             : settings and applies the changes so they take effect
+             : immediately without any need to restart applications
+             : or the desktop.
+             : 
+             : This package contains the shared library for imsettings.
+```
+
+</details>
+
+<details>
+<summary>imsettings-qt</summary>
+
+```
+From repo    : fedora
+Short desc   : Qt support on imsettings
+URL          : https://tagoh.bitbucket.org/imsettings/
+License      : LGPLv2+
+Descript     : IMSettings is a framework that delivers Input Method
+             : settings and applies the changes so they take effect
+             : immediately without any need to restart applications
+             : or the desktop.
+             : 
+             : This package contains a module to get this working on Qt
+             : applications.
+```
+
+</details>
+
+<details>
 <summary>incron</summary>
 
 ```
@@ -414,6 +581,25 @@ Descript     : This program is an "inotify cron" system.
              : You can use it a similar way as the regular cron.
              : The difference is that the inotify cron handles
              : filesystem events rather than time periods.
+```
+
+</details>
+
+<details>
+<summary>indent</summary>
+
+```
+From repo    : fedora
+Short desc   : A GNU program for formatting C code
+URL          : http://www.gnu.org/software/indent/
+License      : GPLv3+ and BSD and Verbatim
+Descript     : Indent is a GNU program for beautifying C code, so that it is easier to
+             : read.  Indent can also convert from one C writing style to a different
+             : one.  Indent understands correct C syntax and tries to handle incorrect
+             : C syntax.
+             : 
+             : Install the indent package if you are developing applications in C and
+             : you want a program to format your code.
 ```
 
 </details>
@@ -534,6 +720,37 @@ URL          : https://inkscape.org/
 License      : GPLv2+ and CC-BY
 Descript     : Viewer for files in W3C standard Scalable Vector Graphics (SVG) file
              : format.
+```
+
+</details>
+
+<details>
+<summary>intel-gmmlib</summary>
+
+```
+From repo    : fedora
+Short desc   : Intel Graphics Memory Management Library
+URL          : https://github.com/intel/gmmlib
+License      : MIT and BSD
+Descript     : The Intel Graphics Memory Management Library provides device specific
+             : and buffer management for the Intel Graphics Compute Runtime for OpenCL
+             : and the Intel Media Driver for VAAPI.
+```
+
+</details>
+
+<details>
+<summary>intel-media-driver</summary>
+
+```
+From repo    : rpmfusion-nonfree
+Short desc   : The Intel Media Driver for VAAPI
+URL          : https://github.com/intel/media-driver
+License      : MIT and BSD
+Descript     : The Intel Media Driver for VAAPI is a new VA-API (Video Acceleration API)
+             : user mode driver supporting hardware accelerated decoding, encoding,
+             : and video post processing for GEN based graphics hardware.
+             : https://01.org/intel-media-for-linux
 ```
 
 </details>
@@ -911,6 +1128,21 @@ Descript     : iPXE is an open source network bootloader. It provides a direct
              : 
              : This package contains the iPXE ROMs for devices emulated by QEMU, in
              : .rom format.
+```
+
+</details>
+
+<details>
+<summary>irqbalance</summary>
+
+```
+Эпоха        : 2
+From repo    : fedora
+Short desc   : IRQ balancing daemon
+URL          : https://github.com/Irqbalance/irqbalance
+License      : GPLv2
+Descript     : irqbalance is a daemon that evenly distributes IRQ load across
+             : multiple CPUs for enhanced performance.
 ```
 
 </details>

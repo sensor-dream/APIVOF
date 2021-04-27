@@ -174,6 +174,21 @@ Descript     : The zip program is a compression and file packaging utility.  Zip
 </details>
 
 <details>
+<summary>zisofs-tools</summary>
+
+```
+From repo    : fedora
+Short desc   : Utilities for creating compressed CD-ROM filesystems
+URL          : http://www.kernel.org/pub/linux/utils/fs/zisofs/
+License      : GPL+
+Descript     : A utility which works in combination with an appropriately patched
+             : version of mkisofs to allow the creation of compressed CD-ROM
+             : filesystems.
+```
+
+</details>
+
+<details>
 <summary>zlib</summary>
 
 ```
@@ -273,6 +288,24 @@ Short desc   : Default configuration for zram-generator
 URL          : https://crates.io/crates/zram-generator
 License      : MIT
 Descript     : Default configuration for zram-generator.
+```
+
+</details>
+
+<details>
+<summary>zsh</summary>
+
+```
+From repo    : fedora
+Short desc   : Powerful interactive shell
+URL          : http://zsh.sourceforge.net/
+License      : MIT
+Descript     : The zsh shell is a command interpreter usable as an interactive login
+             : shell and as a shell script command processor.  Zsh resembles the ksh
+             : shell (the Korn shell), but includes many enhancements.  Zsh supports
+             : command line editing, built-in spelling correction, programmable
+             : command completion, shell functions (with autoloading), a history
+             : mechanism, and more.
 ```
 
 </details>

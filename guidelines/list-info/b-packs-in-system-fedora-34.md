@@ -353,7 +353,7 @@ Descript     : Bind-utils contains a collection of utilities for querying DNS (D
 <summary>binutils</summary>
 
 ```
-From repo    : anaconda
+From repo    : updates-testing
 Short desc   : A GNU collection of binary utilities
 URL          : https://sourceware.org/binutils
 License      : GPLv3+
@@ -373,24 +373,25 @@ Descript     : Binutils is a collection of binary utilities, including ar (for
 </details>
 
 <details>
-<summary>binutils</summary>
+<summary>binutils-devel</summary>
 
 ```
-From repo    : updates-testing
-Short desc   : A GNU collection of binary utilities
+From repo    : fedora
+Short desc   : BFD and opcodes static and dynamic libraries and header files
 URL          : https://sourceware.org/binutils
 License      : GPLv3+
-Descript     : Binutils is a collection of binary utilities, including ar (for
-             : creating, modifying and extracting from archives), as (a family of GNU
-             : assemblers), gprof (for displaying call graph profile data), ld (the
-             : GNU linker), nm (for listing symbols from object files), objcopy (for
-             : copying and translating object files), objdump (for displaying
-             : information from object files), ranlib (for generating an index for
-             : the contents of an archive), readelf (for displaying detailed
-             : information about binary files), size (for listing the section sizes
-             : of an object or archive file), strings (for listing printable strings
-             : from files), strip (for discarding symbols), and addr2line (for
-             : converting addresses to file and line).
+Descript     : This package contains BFD and opcodes static and dynamic libraries.
+             : 
+             : The dynamic libraries are in this package, rather than a separate
+             : base package because they are actually linker scripts that force
+             : the use of the static libraries.  This is because the API of the
+             : BFD library is too unstable to be used dynamically.
+             : 
+             : The static libraries are here because they are now needed by the
+             : dynamic libraries.
+             : 
+             : Developers starting new projects are strongly encouraged to consider
+             : using libelf instead of BFD.
 ```
 
 </details>
@@ -443,6 +444,31 @@ Descript     : This package provides the GOLD linker, which can be used as an al
              : 
              : BuildRequires: gcc-c++
              : Conflicts: gcc-c++ < 4.0.0
+```
+
+</details>
+
+<details>
+<summary>bison</summary>
+
+```
+From repo    : fedora
+Short desc   : A GNU general-purpose parser generator
+URL          : http://www.gnu.org/software/bison/
+License      : GPLv3+
+Descript     : Bison is a general purpose parser generator that converts a grammar
+             : description for an LALR(1) context-free grammar into a C program to
+             : parse that grammar. Bison can be used to develop a wide range of
+             : language parsers, from ones used in simple desk calculators to complex
+             : programming languages. Bison is upwardly compatible with Yacc, so any
+             : correctly written Yacc grammar should work with Bison without any
+             : changes. If you know Yacc, you shouldn't have any trouble using
+             : Bison. You do need to be very proficient in C programming to be able
+             : to use Bison. Bison is only needed on systems that are used for
+             : development.
+             : 
+             : If your system will be used for C development, you should install
+             : Bison.
 ```
 
 </details>
@@ -675,6 +701,26 @@ Descript     : bolt is a system daemon to manage Thunderbolt devices via a D-BUS
              : authorized as soon as they are connected.  A command line tool, called
              : boltctl, can be used to control the daemon and perform all the above
              : mentioned tasks.
+```
+
+</details>
+
+<details>
+<summary>bonnie++</summary>
+
+```
+From repo    : fedora
+Short desc   : Filesystem and disk benchmark & burn-in suite
+URL          : http://www.coker.com.au/bonnie++/
+License      : GPLv2
+Descript     : bonnie++ filesystem and disk benchmark suite aggressively reads & writes
+             : in various ways on your filesystem then outputs useful benchmark performance
+             : data.  bonnie++ is also useful as a hardware, disk, and filesystem stability
+             : test, exposing some types of hardware or kernel failures that would otherwise
+             : be difficult to detect.
+             : 
+             : Do not leave bonnie++ installed on a production system.  Use only while you
+             : test servers.
 ```
 
 </details>
@@ -1532,6 +1578,26 @@ Short desc   : Extended widget set for Tk
 URL          : http://tcllib.sourceforge.net/
 License      : TCL
 Descript     : An extended widget set for Tcl/Tk.
+```
+
+</details>
+
+<details>
+<summary>byacc</summary>
+
+```
+From repo    : fedora
+Short desc   : Berkeley Yacc, a parser generator
+URL          : http://invisible-island.net/byacc/byacc.html
+License      : Public Domain
+Descript     : This package provides a parser generator utility that reads a grammar
+             : specification from a file and generates an LR(1) parser for it.  The
+             : parsers consist of a set of LALR(1) parsing tables and a driver
+             : routine written in the C programming language.  It has a public domain
+             : license which includes the generated C.
+             : 
+             : If you are going to do development on your system, you will want to install
+             : this package.
 ```
 
 </details>

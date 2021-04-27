@@ -6618,6 +6618,54 @@ Descript     : thermald monitors and controls platform temperature.
 </details>
 
 <details>
+<summary>thonny</summary>
+
+```
+From repo    : fedora
+Short desc   : Python IDE for beginners
+URL          : https://thonny.org
+License      : MIT and EPL
+Descript     : Thonny is a simple Python IDE with features useful for learning programming.
+             : It comes with a debugger which is able to visualize all the conceptual steps
+             : taken to run a Python program (executing statements, evaluating expressions,
+             : maintaining the call stack). There is a GUI for installing 3rd party packages
+             : and special mode for learning about references.
+```
+
+</details>
+
+<details>
+<summary>tigervnc</summary>
+
+```
+From repo    : fedora
+Short desc   : A TigerVNC remote display system
+URL          : http://www.tigervnc.com
+License      : GPLv2+
+Descript     : Virtual Network Computing (VNC) is a remote display system which
+             : allows you to view a computing 'desktop' environment not only on the
+             : machine where it is running, but from anywhere on the Internet and
+             : from a wide variety of machine architectures.  This package contains a
+             : client which will allow you to connect to other desktops running a VNC
+             : server.
+```
+
+</details>
+
+<details>
+<summary>tigervnc-icons</summary>
+
+```
+From repo    : fedora
+Short desc   : Icons for TigerVNC viewer
+URL          : http://www.tigervnc.com
+License      : GPLv2+
+Descript     : This package contains icons for TigerVNC viewer
+```
+
+</details>
+
+<details>
 <summary>tigervnc-license</summary>
 
 ```

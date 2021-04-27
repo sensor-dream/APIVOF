@@ -111,6 +111,21 @@ Descript     : D-BUS is a system for sending messages between applications. It i
 </details>
 
 <details>
+<summary>dbus-devel</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : Development files for D-BUS
+URL          : http://www.freedesktop.org/Software/dbus/
+License      : (GPLv2+ or AFL) and GPLv2+
+Descript     : This package contains libraries and header files needed for
+             : developing software that uses D-BUS.
+```
+
+</details>
+
+<details>
 <summary>dbus-glib</summary>
 
 ```
@@ -578,6 +593,25 @@ Descript     : DHCP (Dynamic Host Configuration Protocol) is a protocol which al
              : easier to administer a large network.
              : 
              : This package provides common files used by dhcp and dhclient package.
+```
+
+</details>
+
+<details>
+<summary>diffstat</summary>
+
+```
+From repo    : fedora
+Short desc   : A utility which provides statistics based on the output of diff
+URL          : https://invisible-island.net/diffstat
+License      : MIT
+Descript     : The diff command compares files line by line.  Diffstat reads the
+             : output of the diff command and displays a histogram of the insertions,
+             : deletions and modifications in each file.  Diffstat is commonly used
+             : to provide a summary of the changes in large, complex patch files.
+             : 
+             : Install diffstat if you need a program which provides a summary of the
+             : diff command's output.
 ```
 
 </details>
@@ -1071,6 +1105,24 @@ Descript     : Provides binary-decimal and decimal-binary routines for IEEE doub
 </details>
 
 <details>
+<summary>doxygen</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : A documentation system for C/C++
+URL          : http://www.doxygen.nl
+License      : GPL+
+Descript     : Doxygen can generate an online class browser (in HTML) and/or a
+             : reference manual (in LaTeX) from a set of documented source files. The
+             : documentation is extracted directly from the sources. Doxygen can
+             : also be configured to extract the code structure from undocumented
+             : source files.
+```
+
+</details>
+
+<details>
 <summary>dracut</summary>
 
 ```
@@ -1178,6 +1230,20 @@ Descript     :
 </details>
 
 <details>
+<summary>dunst</summary>
+
+```
+From repo    : fedora
+Short desc   : Simple and configurable notification-daemon
+URL          : https://dunst-project.org
+License      : BSD and MIT
+Descript     : Dunst is a highly configurable and lightweight notification daemon with the
+             : similar look and feel to dmenu.
+```
+
+</details>
+
+<details>
 <summary>dwz</summary>
 
 ```
@@ -1191,6 +1257,26 @@ Descript     : The dwz package contains a program that attempts to optimize DWAR
              : duplication using techniques from DWARF standard appendix E - creating
              : DW_TAG_partial_unit compilation units (CUs) for duplicated information
              : and using DW_TAG_imported_unit to import it into each CU that needs it.
+```
+
+</details>
+
+<details>
+<summary>dyninst</summary>
+
+```
+From repo    : fedora
+Short desc   : An API for Run-time Code Generation
+URL          : http://www.dyninst.org
+License      : LGPLv2+
+Descript     : 
+             : Dyninst is an Application Program Interface (API) to permit the insertion of
+             : code into a running program. The API also permits changing or removing
+             : subroutine calls from the application program. Run-time code changes are
+             : useful to support a variety of applications including debugging, performance
+             : monitoring, and to support composing applications out of existing packages.
+             : The goal of this API is to provide a machine independent interface to permit
+             : the creation of tools and applications that use run-time code patching.
 ```
 
 </details>

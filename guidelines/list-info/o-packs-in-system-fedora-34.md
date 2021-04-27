@@ -480,6 +480,20 @@ Descript     : Opencryptoki implements the PKCS#11 specification v2.11 for a set
 </details>
 
 <details>
+<summary>opencsd</summary>
+
+```
+From repo    : fedora
+Short desc   : An open source CoreSight(tm) Trace Decode library
+URL          : https://github.com/Linaro/OpenCSD
+License      : BSD
+Descript     : This library provides an API suitable for the decode of ARM(r)
+             : CoreSight(tm) trace streams.
+```
+
+</details>
+
+<details>
 <summary>opencv-contrib</summary>
 
 ```
@@ -673,6 +687,58 @@ Descript     : OpenLDAP is an open source suite of LDAP (Lightweight Directory A
              : similar to the way DNS (Domain Name System) information is propagated
              : over the Internet. The openldap package contains configuration files,
              : libraries, and documentation for OpenLDAP.
+```
+
+</details>
+
+<details>
+<summary>openldap-clients</summary>
+
+```
+From repo    : updates
+Short desc   : LDAP client utilities
+URL          : http://www.openldap.org/
+License      : OpenLDAP
+Descript     : OpenLDAP is an open-source suite of LDAP (Lightweight Directory Access
+             : Protocol) applications and development tools. LDAP is a set of
+             : protocols for accessing directory services (usually phone book style
+             : information, but other information is possible) over the Internet,
+             : similar to the way DNS (Domain Name System) information is propagated
+             : over the Internet. The openldap-clients package contains the client
+             : programs needed for accessing and modifying OpenLDAP directories.
+```
+
+</details>
+
+<details>
+<summary>openldap-compat</summary>
+
+```
+From repo    : updates
+Short desc   : Package providing legacy non-threded libldap
+URL          : http://www.openldap.org/
+License      : OpenLDAP
+Descript     : The openldap-compat package contains non-threaded variant of libldap
+             : which should not be used. Instead, applications should link to libldap_r
+             : which provides thread-safe variant with the very same API.
+```
+
+</details>
+
+<details>
+<summary>openldap-devel</summary>
+
+```
+From repo    : updates
+Short desc   : LDAP development libraries and header files
+URL          : http://www.openldap.org/
+License      : OpenLDAP
+Descript     : The openldap-devel package includes the development libraries and
+             : header files needed for compiling applications that use LDAP
+             : (Lightweight Directory Access Protocol) internals. LDAP is a set of
+             : protocols for enabling directory services over the Internet. Install
+             : this package only if you plan to develop or will need to compile
+             : customized LDAP clients.
 ```
 
 </details>

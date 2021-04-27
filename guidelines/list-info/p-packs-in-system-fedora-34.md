@@ -163,6 +163,23 @@ Descript     : PAM (Pluggable Authentication Modules) is a system security tool 
 </details>
 
 <details>
+<summary>pam-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Files needed for developing PAM-aware applications and modules for PAM
+URL          : http://www.linux-pam.org/
+License      : BSD and GPLv2+
+Descript     : PAM (Pluggable Authentication Modules) is a system security tool that
+             : allows system administrators to set authentication policy without
+             : having to recompile programs that handle authentication. This package
+             : contains header files used for building both PAM-aware applications
+             : and modules for use with the PAM system.
+```
+
+</details>
+
+<details>
 <summary>pam_afs_session</summary>
 
 ```
@@ -364,6 +381,23 @@ Descript     : paps is a PostScript converter from plain text file using Pango.
 </details>
 
 <details>
+<summary>par2cmdline</summary>
+
+```
+From repo    : fedora
+Short desc   : PAR 2.0 compatible file verification and repair tool
+URL          : https://github.com/Parchive/par2cmdline/
+License      : GPLv2+
+Descript     : par2cmdline is a program for creating and using PAR2 files to detect damage
+             : in data files and repair them if necessary. PAR2 files are usually
+             : published in binary newsgroups on Usenet; they apply the data-recovery
+             : capability concepts of RAID-like systems to the posting and recovery of
+             : multi-part archives.
+```
+
+</details>
+
+<details>
 <summary>parted</summary>
 
 ```
@@ -457,6 +491,38 @@ Descript     : The patch program applies diff files to originals.  The diff comm
 </details>
 
 <details>
+<summary>patchutils</summary>
+
+```
+From repo    : fedora
+Short desc   : A collection of programs for manipulating patch files
+URL          : http://cyberelk.net/tim/patchutils/
+License      : GPLv2+
+Descript     : This is a collection of programs that can manipulate patch files in
+             : a variety of ways, such as interpolating between two pre-patches,
+             : combining two incremental patches, fixing line numbers in hand-edited
+             : patches, and simply listing the files modified by a patch.
+```
+
+</details>
+
+<details>
+<summary>pavucontrol</summary>
+
+```
+From repo    : fedora
+Short desc   : Volume control for PulseAudio
+URL          : http://freedesktop.org/software/pulseaudio/pavucontrol
+License      : GPLv2+
+Descript     : PulseAudio Volume Control (pavucontrol) is a simple GTK based volume control
+             : tool ("mixer") for the PulseAudio sound server. In contrast to classic mixer
+             : tools this one allows you to control both the volume of hardware devices and
+             : of each playback stream separately.
+```
+
+</details>
+
+<details>
 <summary>pbzip2</summary>
 
 ```
@@ -497,6 +563,20 @@ URL          : https://mj.ucw.cz/sw/pciutils/
 License      : GPLv2+
 Descript     : The pciutils package contains various utilities for inspecting and
              : setting devices connected to the PCI bus.
+```
+
+</details>
+
+<details>
+<summary>pciutils-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Linux PCI development library
+URL          : https://mj.ucw.cz/sw/pciutils/
+License      : GPLv2+
+Descript     : This package contains a library for inspecting and setting
+             : devices connected to the PCI bus.
 ```
 
 </details>
@@ -777,6 +857,19 @@ Descript     : Generic USB CCID (Chip/Smart Card Interface Devices) driver for u
 </details>
 
 <details>
+<summary>pcsc-lite-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : PC/SC Lite development files
+URL          : https://pcsclite.apdu.fr/
+License      : BSD
+Descript     : PC/SC Lite development files.
+```
+
+</details>
+
+<details>
 <summary>pcsc-lite-libs</summary>
 
 ```
@@ -798,6 +891,20 @@ Short desc   : PC/SC Lite libraries
 URL          : https://pcsclite.apdu.fr/
 License      : BSD
 Descript     : PC/SC Lite libraries.
+```
+
+</details>
+
+<details>
+<summary>perf</summary>
+
+```
+From repo    : updates
+Short desc   : Performance monitoring for the Linux kernel
+URL          : http://www.kernel.org/
+License      : GPLv2
+Descript     : This package contains the perf tool, which enables performance monitoring
+             : of the Linux kernel.
 ```
 
 </details>
@@ -6343,6 +6450,48 @@ Descript     : Net::DNS is a collection of Perl modules that act as a Domain Nam
 </details>
 
 <details>
+<summary>perl-Net-FTP-AutoReconnect</summary>
+
+```
+From repo    : fedora
+Short desc   : FTP client class with automatic reconnect on failure
+URL          : https://metacpan.org/release/Net-FTP-AutoReconnect
+License      : GPL+ or Artistic
+Descript     : This is a FTP client class with automatic reconnect on failure.
+```
+
+</details>
+
+<details>
+<summary>perl-Net-FTP-RetrHandle</summary>
+
+```
+From repo    : fedora
+Short desc   : File reading interface for reading files on a remote FTP server
+URL          : https://metacpan.org/release/Net-FTP-RetrHandle
+License      : GPL+ or Artistic
+Descript     : This Perl module provides a file reading interface for reading all or parts of
+             : files located on a remote FTP server, including emulation of seek and support
+             : for downloading only the parts of the file requested.
+             : 
+             : Support for skipping the beginning of the file is implemented with the FTP REST
+             : command, which starts a retrieval at any point in the file. Support for
+             : skipping the end of the file is implemented with the FTP ABOR command, which
+             : stops the transfer. With these two commands and some careful tracking of the
+             : current file position, we're able to reliably emulate a seek/read pair, and get
+             : only the parts of the file that are actually read.
+             : 
+             : This was originally designed for use with Archive::Zip; it's reliable enough
+             : that the table of contents and individual files can be extracted from a remote
+             : ZIP archive without downloading the whole thing.
+             : 
+             : An interface compatible with IO::Handle is provided, along with a tie-based
+             : interface.
+```
+
+</details>
+
+<details>
 <summary>perl-Net-HTTP</summary>
 
 ```
@@ -8718,6 +8867,22 @@ Descript     : This module provides functions that are the inverse of built-in p
 </details>
 
 <details>
+<summary>perl-Time-ParseDate</summary>
+
+```
+From repo    : fedora
+Short desc   : Perl modules for parsing dates and times
+URL          : https://metacpan.org/release/Time-ParseDate
+License      : TPDL and Public Domain
+Descript     : Time-ParseDate provides several Perl modules, including Time::CTime,
+             : Time::DaysInMonth, Time::JulianDay, Time::ParseDate, and Time::Timezone.
+             : These modules can be useful for parsing and manipulating dates and times.
+             : There are numerous options to control what is recognized and what is not.
+```
+
+</details>
+
+<details>
 <summary>perl-Time-Piece</summary>
 
 ```
@@ -10406,10 +10571,25 @@ Descript     : These are the header files and static libraries needed to develop
 </details>
 
 <details>
+<summary>pgzero</summary>
+
+```
+From repo    : fedora
+Short desc   : A zero-boilerplate 2D games framework
+URL          : http://pypi.python.org/pypi/pgzero
+License      : LGPLv3 and ASL 2.0 and CC-BY-SA and CC0 and MIT and OFL
+Descript     : Pygame Zero A zero boilerplate games programming framework for Python 3, based
+             : on Pygame. Pygame Zero consists of a runner pgzrun that will run a
+             : Pygame Zero script with a full game loop and a range of useful builtins.
+```
+
+</details>
+
+<details>
 <summary>php</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : PHP scripting language for creating dynamic web sites
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA
@@ -10594,6 +10774,20 @@ Descript     : This package holds all interfaces/classes/traits related to PSR-3
 </details>
 
 <details>
+<summary>php-bcmath</summary>
+
+```
+From repo    : fedora
+Short desc   : A module for PHP applications for using the bcmath library
+URL          : http://www.php.net/
+License      : PHP and LGPLv2+
+Descript     : The php-bcmath package contains a dynamic shared object that will add
+             : support for using the bcmath library to PHP.
+```
+
+</details>
+
+<details>
 <summary>php-cilex1</summary>
 
 ```
@@ -10621,7 +10815,7 @@ Descript     : Cilex provides the means to build anything from small script coll
 <summary>php-cli</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Command-line interface for PHP
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA and PostgreSQL
@@ -10635,7 +10829,7 @@ Descript     : The php-cli package contains the command-line interface
 <summary>php-common</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Common files for PHP
 URL          : http://www.php.net/
 License      : PHP and BSD
@@ -10817,7 +11011,7 @@ Descript     : Constraint for testing XML against XSD.
 <summary>php-devel</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Files needed for building PHP extensions
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA
@@ -11020,7 +11214,7 @@ Descript     : A library for validating emails.
 <summary>php-embedded</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : PHP library for embedding in applications
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA
@@ -11066,7 +11260,7 @@ Descript     : Static PSR-4 [1], PSR-0 [2], and classmap autoloader.  Includes l
 <summary>php-fpm</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : PHP FastCGI Process Manager
 URL          : http://www.php.net/
 License      : PHP and Zend and BSD and MIT and ASL 1.0 and NCSA
@@ -11081,7 +11275,7 @@ Descript     : PHP-FPM (FastCGI Process Manager) is an alternative PHP FastCGI
 <summary>php-gd</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : A module for PHP applications for using the gd graphics library
 URL          : http://www.php.net/
 License      : PHP
@@ -11095,7 +11289,7 @@ Descript     : The php-gd package contains a dynamic shared object that will add
 <summary>php-intl</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Internationalization extension for PHP applications
 URL          : http://www.php.net/
 License      : PHP
@@ -11136,7 +11330,7 @@ Descript     : This library allows you to (de-)serialize data of any complexity.
 <summary>php-json</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : JavaScript Object Notation extension for PHP
 URL          : http://www.php.net/
 License      : PHP
@@ -11394,7 +11588,7 @@ Descript     : This library provides a custom autoloader that aliases legacy
 <summary>php-ldap</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : A module for PHP applications that use LDAP
 URL          : http://www.php.net/
 License      : PHP
@@ -11432,7 +11626,7 @@ Descript     : The need for an HTML5 parser in PHP is clear. This project initia
 <summary>php-mbstring</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : A module for PHP applications which need multi-byte string handling
 URL          : http://www.php.net/
 License      : PHP and LGPLv2 and OpenLDAP
@@ -11460,7 +11654,7 @@ Descript     : DeepCopy helps you create deep copies (clones) of your objects.
 <summary>php-mysqlnd</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : A module for PHP applications that use MySQL databases
 URL          : http://www.php.net/
 License      : PHP
@@ -11499,7 +11693,7 @@ Descript     : This is a PHP 5.2 to PHP 7.4 parser written in PHP.
 <summary>php-opcache</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : The Zend OPcache
 URL          : http://www.php.net/
 License      : PHP
@@ -11538,7 +11732,7 @@ Descript     : PclZip library offers compression and extraction functions for Zi
 <summary>php-pdo</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : A database access abstraction module for PHP applications
 URL          : http://www.php.net/
 License      : PHP
@@ -11554,7 +11748,7 @@ Descript     : The php-pdo package contains a dynamic shared object that will ad
 <summary>php-pdo-dblib</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : PDO driver for Microsoft SQL Server and Sybase databases
 URL          : http://www.php.net/
 License      : PHP
@@ -11569,7 +11763,7 @@ Descript     : The php-pdo-dblib package contains a dynamic shared object
 <summary>php-pdo-firebird</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : PDO driver for Interbase/Firebird databases
 URL          : http://www.php.net/
 License      : PHP
@@ -11673,6 +11867,19 @@ Descript     : APCu is userland caching: APC stripped of opcode caching.
 </details>
 
 <details>
+<summary>php-pecl-apcu-bc</summary>
+
+```
+From repo    : fedora
+Short desc   : APCu Backwards Compatibility Module
+URL          : http://pecl.php.net/package/APCu
+License      : PHP
+Descript     : This module provides a backwards compatible API for APC.
+```
+
+</details>
+
+<details>
 <summary>php-pecl-apcu-devel</summary>
 
 ```
@@ -11735,6 +11942,19 @@ Descript     : These are the files needed to compile programs using the Kerberos
 </details>
 
 <details>
+<summary>php-pecl-mcrypt</summary>
+
+```
+From repo    : fedora
+Short desc   : Bindings for the libmcrypt library
+URL          : https://pecl.php.net/package/mcrypt
+License      : PHP
+Descript     : Provides bindings for the unmaintained libmcrypt.
+```
+
+</details>
+
+<details>
 <summary>php-pecl-memcache</summary>
 
 ```
@@ -11770,6 +11990,21 @@ Descript     : This extension uses libmemcached library to provide API for commu
              : applications by alleviating database load.
              : 
              : It also provides a session handler (memcached).
+```
+
+</details>
+
+<details>
+<summary>php-pecl-mongodb</summary>
+
+```
+From repo    : updates
+Short desc   : MongoDB driver for PHP
+URL          : https://pecl.php.net/package/mongodb
+License      : ASL 2.0
+Descript     : The purpose of this driver is to provide exceptionally thin glue between
+             : MongoDB and PHP, implementing only fundemental and performance-critical
+             : components necessary to build a fully-functional MongoDB driver.
 ```
 
 </details>
@@ -11836,6 +12071,24 @@ Short desc   : A ZIP archive management extension
 URL          : https://pecl.php.net/package/zip
 License      : PHP
 Descript     : Zip is an extension to create and read zip files.
+```
+
+</details>
+
+<details>
+<summary>php-pgsql</summary>
+
+```
+From repo    : fedora
+Short desc   : A PostgreSQL database module for PHP
+URL          : http://www.php.net/
+License      : PHP
+Descript     : The php-pgsql package add PostgreSQL database support to PHP.
+             : PostgreSQL is an object-relational database management
+             : system that supports almost all SQL constructs. PHP is an
+             : HTML-embedded scripting language. If you need back-end support for
+             : PostgreSQL, you should install this package in addition to the main
+             : php package.
 ```
 
 </details>
@@ -12432,7 +12685,7 @@ Descript     : Pimple is a small dependency injection container for PHP that con
 <summary>php-process</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Modules for PHP script using system process interfaces
 URL          : http://www.php.net/
 License      : PHP
@@ -13042,7 +13295,7 @@ Descript     : PHAR file format utilities, for when PHP phars you up.
 <summary>php-soap</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : A module for PHP applications that use the SOAP protocol
 URL          : http://www.php.net/
 License      : PHP
@@ -13056,7 +13309,7 @@ Descript     : The php-soap package contains a dynamic shared object that will a
 <summary>php-sodium</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : Wrapper for the Sodium cryptographic library
 URL          : http://www.php.net/
 License      : PHP
@@ -13850,7 +14103,7 @@ Descript     : A tested, referenced, documented, and packaged implementation of 
 <summary>php-xml</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : A module for PHP applications which use XML
 URL          : http://www.php.net/
 License      : PHP
@@ -13865,7 +14118,7 @@ Descript     : The php-xml package contains dynamic shared objects which add sup
 <summary>php-xmlrpc</summary>
 
 ```
-From repo    : updates-testing
+From repo    : fedora
 Short desc   : A module for PHP applications which use the XML-RPC protocol
 URL          : http://www.php.net/
 License      : PHP and BSD
@@ -14090,6 +14343,24 @@ License      : GPLv2
 Descript     : Pinfo is an info file (or man page) viewer with a user interface
              : similar to the Lynx Web browser's interface.  Pinfo supports searching
              : using regular expressions, and is based on the ncurses library.
+```
+
+</details>
+
+<details>
+<summary>pipenv</summary>
+
+```
+From repo    : fedora
+Short desc   : The higher level Python packaging tool
+URL          : https://github.com/pypa/pipenv
+License      : MIT and BSD and ASL 2.0 and LGPLv2+ and Python and ISC and MPLv2.0 and (ASL 2.0 or BSD) and CC-BY-SA and Unlicense
+Descript     : The Python packaging tool that aims to bring
+             : the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.)
+             : to the Python world. It automatically creates and manages a virtualenv for
+             : your projects, as well as adds/removes packages from your Pipfile as you
+             : install/uninstall packages. It also generates the ever–important Pipfile.lock,
+             : which is used to produce deterministic builds.
 ```
 
 </details>
@@ -14777,6 +15048,20 @@ Descript     : Runtime library for podofo.
 </details>
 
 <details>
+<summary>poetry</summary>
+
+```
+From repo    : fedora
+Short desc   : Python dependency management and packaging made easy
+URL          : https://python-poetry.org/
+License      : MIT
+Descript     : Poetry helps you declare, manage and install dependencies of Python
+             : projects, ensuring you have the right stack everywhere.
+```
+
+</details>
+
+<details>
 <summary>policycoreutils</summary>
 
 ```
@@ -15050,6 +15335,21 @@ Descript     : Popt is a C library for parsing command line parameters. Popt was
 </details>
 
 <details>
+<summary>popt-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Development files for the popt library
+URL          : https://github.com/rpm-software-management/popt/
+License      : MIT
+Descript     : The popt-devel package includes header files and libraries necessary
+             : for developing programs which use the popt C library. It contains the
+             : API documentation of the popt library, too.
+```
+
+</details>
+
+<details>
 <summary>portaudio</summary>
 
 ```
@@ -15061,6 +15361,22 @@ Descript     : PortAudio is a portable audio I/O library designed for cross-plat
              : support of audio. It uses a callback mechanism to request audio processing.
              : Audio can be generated in various formats, including 32 bit floating point,
              : and will be converted to the native format internally.
+```
+
+</details>
+
+<details>
+<summary>portmidi</summary>
+
+```
+From repo    : fedora
+Short desc   : Real-time Midi I/O Library
+URL          : http://portmedia.sourceforge.net/
+License      : MIT
+Descript     : PortMedia is a set of simple clean APIs and cross-platform library
+             : implementations for music and other media. PortMidi sub-project provides a
+             : real-time MIDI input/output library. This package contains the PortMidi
+             : libraries.
 ```
 
 </details>
@@ -15860,6 +16176,23 @@ Descript     : pwgen generates random, meaningless but pronounceable passwords. 
 </details>
 
 <details>
+<summary>py3status</summary>
+
+```
+From repo    : fedora
+Short desc   : An extensible i3status wrapper written in python
+URL          : https://github.com/ultrabug/py3status
+License      : BSD
+Descript     : Using py3status, you can take control of your i3bar easily by:
+             : - writing your own modules and have their output displayed on your bar
+             : - handling click events on your i3bar and play with them in no time
+             : - seeing your clock tick every second whatever your i3status interval
+             : No extra configuration file needed, just install & enjoy !
+```
+
+</details>
+
+<details>
 <summary>pygobject2</summary>
 
 ```
@@ -15885,6 +16218,50 @@ Descript     : PyGTK is an extension module for Python that gives you access to 
              : widget set.  Just about anything you can write in C with GTK+ you can write
              : in Python with PyGTK (within reason), but with all the benefits of using a
              : high-level scripting language.
+```
+
+</details>
+
+<details>
+<summary>pypy3</summary>
+
+```
+From repo    : fedora
+Short desc   : Python 3 implementation with a Just-In-Time compiler
+URL          : http://pypy.org/
+License      : MIT and Python and UCD
+Descript     : PyPy's implementation of Python 3, featuring a Just-In-Time compiler on some CPU
+             : architectures, and various optimized implementations of the standard types
+             : (strings, dictionaries, etc)
+             : 
+             : 
+             : This build of PyPy has JIT-compilation enabled.
+```
+
+</details>
+
+<details>
+<summary>pypy3-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Development tools for working with PyPy3
+URL          : http://pypy.org/
+License      : MIT and Python and UCD
+Descript     : Header files for building C extension modules against PyPy3
+```
+
+</details>
+
+<details>
+<summary>pypy3-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Run-time libraries used by PyPy implementations of Python 3
+URL          : http://pypy.org/
+License      : MIT and Python and UCD
+Descript     : Libraries required by the various PyPy implementations of Python 3.
 ```
 
 </details>
@@ -15961,6 +16338,19 @@ Descript     : A Python wheel of pip to use with venv.
 </details>
 
 <details>
+<summary>python-qt5-rpm-macros</summary>
+
+```
+From repo    : fedora
+Short desc   : RPM macros python-qt5
+URL          : http://www.riverbankcomputing.com/software/pyqt/
+License      : GPLv3
+Descript     : RPM macros python-qt5.
+```
+
+</details>
+
+<details>
 <summary>python-rpm-macros</summary>
 
 ```
@@ -16015,6 +16405,25 @@ Descript     : HTML documentation for python-systemd.
 </details>
 
 <details>
+<summary>python-typeshed</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : Static type information for python modules
+URL          : https://github.com/python/typeshed
+License      : ASL 2.0
+Descript     : Typeshed models function types for the Python standard library
+             : and Python builtins, as well as third party packages.
+             : 
+             : This data can e.g. be used for static analysis, type checking or type inference.
+             : 
+             : This package stores the typedata in /usr/share/typeshed
+```
+
+</details>
+
+<details>
 <summary>python-unversioned-command</summary>
 
 ```
@@ -16036,6 +16445,20 @@ Short desc   : The "python" command that runs Python 3
 URL          : https://www.python.org/
 License      : Python
 Descript     : This package contains /usr/bin/python - the "python" command that runs Python 3.
+```
+
+</details>
+
+<details>
+<summary>python-wheel-wheel</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : The Python wheel module packaged as a wheel
+URL          : https://github.com/pypa/wheel
+License      : MIT and (ASL 2.0 or BSD)
+Descript     : A Python wheel of wheel to use with virtualenv.
 ```
 
 </details>
@@ -16162,6 +16585,50 @@ Descript     : python3-Bottleneck is a collection of fast NumPy array functions
 </details>
 
 <details>
+<summary>python3-CacheControl</summary>
+
+```
+From repo    : fedora
+Short desc   : httplib2 caching for requests
+URL          : https://github.com/ionrock/cachecontrol
+License      : MIT
+Descript     : CacheControl is a port of the caching algorithms in httplib2 for use with
+             : requests session object. It was written because httplib2's better support
+             : for caching is often mitigated by its lack of thread safety. The same is
+             : true of requests in terms of caching.
+```
+
+</details>
+
+<details>
+<summary>python3-CacheControl+filecache</summary>
+
+```
+From repo    : fedora
+Short desc   : Metapackage for python3-CacheControl: filecache extras
+URL          : https://github.com/ionrock/cachecontrol
+License      : MIT
+Descript     : This is a metapackage bringing in filecache extras requires for python3-CacheControl.
+             : It contains no code, just makes sure the dependencies are installed.
+```
+
+</details>
+
+<details>
+<summary>python3-CacheControl+redis</summary>
+
+```
+From repo    : fedora
+Short desc   : Metapackage for python3-CacheControl: redis extras
+URL          : https://github.com/ionrock/cachecontrol
+License      : MIT
+Descript     : This is a metapackage bringing in redis extras requires for python3-CacheControl.
+             : It contains no code, just makes sure the dependencies are installed.
+```
+
+</details>
+
+<details>
 <summary>python3-Cython</summary>
 
 ```
@@ -16214,6 +16681,27 @@ Descript     : Levenshtein computes Levenshtein distances, similarity ratios, ge
              : medians and set medians of Strings and Unicodes.  Because it's implemented
              : in C, it's much faster than corresponding Python 3 library functions and
              : methods.
+```
+
+</details>
+
+<details>
+<summary>python3-QtPy</summary>
+
+```
+From repo    : fedora
+Short desc   : Provides an abstraction layer on top of the various Qt bindings
+URL          : https://github.com/spyder-ide/qtpy
+License      : MIT and BSD
+Descript     : 
+             : QtPy (pronounced ‘cutie pie’) is a small abstraction layer that lets you
+             : write applications using a single API call to either PyQt or PySide.
+             : 
+             : It provides support for PyQt5, PyQt4 and PySide using the PyQt5 layout
+             : (where the QtGui module has been split into QtGui and QtWidgets).
+             : 
+             : Basically, you write your code as if you were using PyQt5 but import qt from
+             : qtpy instead of PyQt5.
 ```
 
 </details>
@@ -16341,6 +16829,20 @@ Descript     : Low-level AMQP client for Python
 </details>
 
 <details>
+<summary>python3-appdirs</summary>
+
+```
+From repo    : fedora
+Short desc   : Python module for determining platform-specific directories
+URL          : https://github.com/ActiveState/appdirs
+License      : MIT
+Descript     : A small Python 3 module for determining appropriate " + " platform-specific
+             : directories, e.g. a "user data dir".
+```
+
+</details>
+
+<details>
 <summary>python3-argcomplete</summary>
 
 ```
@@ -16407,6 +16909,43 @@ Short desc   : Few extensions to PyYAML
 URL          : https://github.com/asottile/aspy.yaml
 License      : MIT
 Descript     : Few extensions to PyYAML.
+```
+
+</details>
+
+<details>
+<summary>python3-astroid</summary>
+
+```
+From repo    : fedora
+Short desc   : Common base representation of python source code for pylint and other projects
+URL          : https://github.com/PyCQA/astroid
+License      : GPLv2+
+Descript     : The aim of this module is to provide a common base representation of python
+             : source code for projects such as pychecker, pyreverse, pylint...
+             : It provides a compatible representation which comes from the _ast module. It
+             : rebuilds the tree generated by the builtin _ast module by recursively walking
+             : down the AST and building an extended ast. The new node classes have additional
+             : methods and attributes for different usages. They include some support for
+             : static inference and local name scopes. Furthermore, astroid builds partial
+             : trees by inspecting living objects.
+```
+
+</details>
+
+<details>
+<summary>python3-asttokens</summary>
+
+```
+From repo    : fedora
+Short desc   : Module to annotate Python abstract syntax trees with source code positions
+URL          : https://pypi.python.org/pypi/asttokens
+License      : ASL 2.0
+Descript     : The asttokens module annotates Python abstract syntax trees (ASTs)
+             : with the positions of tokens and text in the source code that
+             : generated them. This makes it possible for tools that work with
+             : logical AST nodes to find the particular text that resulted in those
+             : nodes, for example for automated refactoring or highlighting.
 ```
 
 </details>
@@ -16725,6 +17264,33 @@ Descript     : This package contains Python 3 bindings for libbytesize making th
 </details>
 
 <details>
+<summary>python3-cached_property</summary>
+
+```
+From repo    : fedora
+Short desc   : A cached-property for decorating methods in Python classes.
+URL          : https://github.com/pydanny/cached-property
+License      : BSD
+Descript     : cached_property allows properties in Python classes to be cached until the cache
+             : is invalidated or expired.
+```
+
+</details>
+
+<details>
+<summary>python3-cachy</summary>
+
+```
+From repo    : fedora
+Short desc   : Simple yet effective caching library
+URL          : https://github.com/sdispater/cachy
+License      : MIT
+Descript     : Cachy provides a simple yet effective caching library.
+```
+
+</details>
+
+<details>
 <summary>python3-cairo</summary>
 
 ```
@@ -16733,6 +17299,33 @@ Short desc   : Python 3 bindings for the cairo library
 URL          : http://cairographics.org/pycairo
 License      : MPLv1.1 or LGPLv2
 Descript     : Python 3 bindings for the cairo library.
+```
+
+</details>
+
+<details>
+<summary>python3-canberra</summary>
+
+```
+From repo    : fedora
+Short desc   : A very basic (and incomplete) wrapper for libcanberra
+URL          : https://github.com/psykoyiko/pycanberra/
+License      : LGPLv2
+Descript     : A very basic (and incomplete) wrapper of libcanberra for Python 3.
+```
+
+</details>
+
+<details>
+<summary>python3-cangjie</summary>
+
+```
+From repo    : fedora
+Short desc   : Python bindings to libcangjie
+URL          : http://cangjians.github.io/projects/pycangjie
+License      : LGPLv3+
+Descript     : Python bindings to libcangjie, the library implementing Cangjie and Quick
+             : input methods.
 ```
 
 </details>
@@ -16759,6 +17352,25 @@ Short desc   : Distributed Task Queue
 URL          : https://celeryproject.org
 License      : BSD
 Descript     : %{desc}
+```
+
+</details>
+
+<details>
+<summary>python3-cerberus</summary>
+
+```
+From repo    : fedora
+Short desc   : Lightweight, extensible data validation library for Python
+URL          : https://github.com/pyeve/cerberus
+License      : ISC
+Descript     : Cerberus is a lightweight and extensible data validation library for Python.
+             : 
+             : Cerberus provides type checking and other base functionality out of the box
+             : and is designed to be non-blocking and easily extensible, allowing for custom
+             : validation. It has no dependancies and is thoroughly tested.
+             : 
+             : Python 3 version.
 ```
 
 </details>
@@ -16820,6 +17432,27 @@ Descript     : Plugin for certbot that allows for automatic configuration of ngi
 </details>
 
 <details>
+<summary>python3-certifi</summary>
+
+```
+From repo    : fedora
+Short desc   : Python package for providing Mozilla's CA Bundle
+URL          : http://certifi.io/en/latest/
+License      : MPLv2.0
+Descript     : Certifi is a carefully curated collection of Root Certificates for validating
+             : the trustworthiness of SSL certificates while verifying the identity of TLS
+             : hosts. It has been extracted from the Requests project.
+             : 
+             : Please note that this Fedora package does not actually include a certificate
+             : collection at all. It reads the system shared certificate trust collection
+             : instead. For more details on this system, see the ca-certificates package.
+             : 
+             : This package provides the Python 3 certifi library.
+```
+
+</details>
+
+<details>
 <summary>python3-cffi</summary>
 
 ```
@@ -16844,6 +17477,23 @@ URL          : https://github.com/chardet/chardet
 License      : LGPLv2
 Descript     : Character encoding auto-detection in Python. As
              : smart as your browser. Open source.
+```
+
+</details>
+
+<details>
+<summary>python3-cleo</summary>
+
+```
+From repo    : fedora
+Short desc   : Create beautiful and testable command-line interfaces
+URL          : https://github.com/sdispater/cleo
+License      : MIT
+Descript     : Create beautiful and testable command-line interfaces.
+             : 
+             : Cleo is mostly a higher level wrapper for CliKit, so a lot of the
+             : components and utilities comes from it. Refer to its documentation for
+             : more information.
 ```
 
 </details>
@@ -16905,6 +17555,20 @@ Descript     : REPL plugin for Click
 </details>
 
 <details>
+<summary>python3-clikit</summary>
+
+```
+From repo    : fedora
+Short desc   : Utilities to build beautiful and testable CLIs
+URL          : https://github.com/sdispater/clikit
+License      : MIT
+Descript     : CliKit is a group of utilities to build beautiful and testable command
+             : line interfaces. This is at the core of Cleo.
+```
+
+</details>
+
+<details>
 <summary>python3-cloudpickle</summary>
 
 ```
@@ -16919,6 +17583,43 @@ Descript     : cloudpickle makes it possible to serialize Python constructs
              : hosts, possibly close to the data. Among other things, cloudpickle
              : supports pickling for lambda expressions, functions and classes defined
              : interactively in the __main__ module.
+```
+
+</details>
+
+<details>
+<summary>python3-colorama</summary>
+
+```
+From repo    : fedora
+Short desc   : Cross-platform colored terminal text
+URL          : http://pypi.python.org/pypi/colorama
+License      : BSD
+Descript     : Makes ANSI escape character sequences, for producing colored
+             : terminal text and cursor positioning, work under MS Windows.
+             : 
+             : ANSI escape character sequences have long been used to produce colored terminal
+             : text and cursor positioning on Unix and Macs. Colorama makes this work on
+             : Windows, too.
+             : It also provides some shortcuts to help generate ANSI sequences, and works fine
+             : in conjunction with any other ANSI sequence generation library, such as
+             : Termcolor.
+             : 
+             : Python 3 version.
+```
+
+</details>
+
+<details>
+<summary>python3-colorzero</summary>
+
+```
+From repo    : fedora
+Short desc   : Yet another Python color library
+URL          : https://github.com/waveform80/colorzero
+License      : BSD
+Descript     : Colorzero is a color manipulation library for Python (yes, another one)
+             : which aims to be reasonably simple to use and "pythonic" in nature.
 ```
 
 </details>
@@ -16984,6 +17685,20 @@ Descript     :
              : A library that provides symbolic constant support. It includes collections and
              : constants with text, numeric, and bit flag values. Originally
              : twisted.python.constants from the Twisted project.
+```
+
+</details>
+
+<details>
+<summary>python3-crashtest</summary>
+
+```
+From repo    : fedora
+Short desc   : Manage Python errors with ease
+URL          : https://github.com/sdispater/crashtest
+License      : MIT
+Descript     : Crashtest is a Python library that makes exceptions handling and
+             : inspection easier.
 ```
 
 </details>
@@ -17195,6 +17910,25 @@ Descript     : This package contains the header files and configuration needed t
 </details>
 
 <details>
+<summary>python3-distlib</summary>
+
+```
+From repo    : fedora
+Short desc   : Low-level components of distutils2/packaging, augmented with higher-level APIs
+URL          : https://readthedocs.org/projects/distlib/
+License      : Python
+Descript     : Distlib contains the implementations of the packaging PEPs and other low-level
+             : features which relate to packaging, distribution and deployment of Python
+             : software. If Distlib can be made genuinely useful, then it is possible for
+             : third-party packaging tools to transition to using it. Their developers and
+             : users then benefit from standardised implementation of low-level functions,
+             : time saved by not having to reinvent wheels, and improved interoperability
+             : between tools.
+```
+
+</details>
+
+<details>
 <summary>python3-distro</summary>
 
 ```
@@ -17311,6 +18045,41 @@ Descript     : dnspython is a DNS toolkit for Python. It supports almost all rec
 </details>
 
 <details>
+<summary>python3-docopt</summary>
+
+```
+From repo    : fedora
+Short desc   : Pythonic argument parser, that will make you smile
+URL          : https://github.com/docopt/docopt
+License      : MIT
+Descript     : Isn't it awesome how optparse and argparse generate help messages
+             : based on your code?!
+             : 
+             : Hell no! You know what's awesome? It's when the option parser is
+             : generated based on the beautiful help message that you write yourself!
+             : This way you don't need to write thisstupid repeatable parser-code,
+             : and instead can write only the help message--*the way you want it*.
+             : 
+             : Python 3 version.
+```
+
+</details>
+
+<details>
+<summary>python3-docs</summary>
+
+```
+From repo    : updates
+Short desc   : Documentation for the Python 3 programming language
+URL          : https://www.python.org/
+License      : Python
+Descript     : The python3-docs package contains documentation on the Python 3
+             : programming language and interpreter.
+```
+
+</details>
+
+<details>
 <summary>python3-docutils</summary>
 
 ```
@@ -17359,6 +18128,33 @@ Descript     : Dogpile consists of two subsystems, one building on top of the ot
              : dogpile.cache in a more efficient and succinct manner, and all the cruft
              : (Beaker's internals were first written in 2005) relegated to the trash
              : heap.
+```
+
+</details>
+
+<details>
+<summary>python3-dotenv</summary>
+
+```
+From repo    : fedora
+Short desc   : Add .env support to your Django/Flask apps in development and deployments
+URL          : https://github.com/theskumar/python-dotenv
+License      : BSD
+Descript     : Reads the key/value pair from .env file and adds them to environment variable.
+```
+
+</details>
+
+<details>
+<summary>python3-dotenv+cli</summary>
+
+```
+From repo    : fedora
+Short desc   : Metapackage for python3-dotenv: cli extras
+URL          : https://github.com/theskumar/python-dotenv
+License      : BSD
+Descript     : This is a metapackage bringing in cli extras requires for python3-dotenv.
+             : It contains no code, just makes sure the dependencies are installed.
 ```
 
 </details>
@@ -17467,6 +18263,23 @@ Descript     : This package contains the Python 3 bindings to allow access to th
 </details>
 
 <details>
+<summary>python3-filelock</summary>
+
+```
+From repo    : fedora
+Short desc   : Documentation for filelock, A platform independent file lock
+URL          : https://github.com/benediktschmitt/py-filelock
+License      : Unlicense
+Descript     : This package contains a single module, which implements a platform independent
+             : file locking mechanism for Python.
+             : 
+             : The lock includes a lock counter and is thread safe. This means, when locking
+             : the same lock object twice, it will not block.
+```
+
+</details>
+
+<details>
 <summary>python3-firewall</summary>
 
 ```
@@ -17475,6 +18288,20 @@ Short desc   : Python3 bindings for firewalld
 URL          : http://www.firewalld.org
 License      : GPLv2+
 Descript     : Python3 bindings for firewalld.
+```
+
+</details>
+
+<details>
+<summary>python3-first</summary>
+
+```
+From repo    : fedora
+Short desc   : Return the first true value of an iterable
+URL          : http://github.com/hynek/first/
+License      : MIT
+Descript     : Simple function that returns the first true value from an iterable, or None if
+             : there is none.
 ```
 
 </details>
@@ -17558,6 +18385,44 @@ Short desc   : Shared code for building Flatpak applications and runtimes from F
 URL          : https://pagure.io/flatpak-module-tools
 License      : MIT
 Descript     : Python3 library for Flatpak handling
+```
+
+</details>
+
+<details>
+<summary>python3-flit</summary>
+
+```
+From repo    : fedora
+Short desc   : Simplified packaging of Python modules
+URL          : https://flit.readthedocs.io/en/latest/
+License      : BSD and ASL 2.0 and Python
+Descript     : Flit is a simple way to put Python packages and modules on PyPI.
+             : 
+             : Flit only creates packages in the new 'wheel' format. People using older
+             : versions of pip (<1.5) or easy_install will not be able to install them.
+             : 
+             : Flit packages a single importable module or package at a time, using the import
+             : name as the name on PyPI. All sub-packages and data files within a package are
+             : included automatically.
+             : 
+             : Flit requires Python 3, but you can use it to distribute modules for Python 2,
+             : so long as they can be imported on Python 3.
+```
+
+</details>
+
+<details>
+<summary>python3-flit-core</summary>
+
+```
+From repo    : fedora
+Short desc   : PEP 517 build backend for packages using Flit
+URL          : https://flit.readthedocs.io/en/latest/
+License      : BSD and ASL 2.0 and Python
+Descript     : This provides a PEP 517 build backend for packages using Flit.
+             : The only public interface is the API specified by PEP 517,
+             : at flit_core.buildapi.
 ```
 
 </details>
@@ -17762,6 +18627,19 @@ Descript     : gpgme bindings for Python 3.
 </details>
 
 <details>
+<summary>python3-gpiozero</summary>
+
+```
+From repo    : fedora
+Short desc   : Interface to GPIO on Raspberry Pi
+URL          : https://github.com/RPi-Distro/python-gpiozero
+License      : BSD
+Descript     : A simple interface to GPIO devices with Raspberry Pi.
+```
+
+</details>
+
+<details>
 <summary>python3-gssapi</summary>
 
 ```
@@ -17778,6 +18656,20 @@ Descript     : A set of Python bindings to the GSSAPI C library providing both
              : Provides: python-gssapi = 1.6.9-3.fc34
              : Provides: python3.9-gssapi = 1.6.9-3.fc34
              : Obsoletes: python-gssapi < 1.6.9-3.fc34
+```
+
+</details>
+
+<details>
+<summary>python3-guizero</summary>
+
+```
+From repo    : fedora
+Short desc   : Python module to allow learners to easily create GUIs
+URL          : https://github.com/lawsie/guizero
+License      : BSD
+Descript     : Guizero is designed to allow new learners to quickly and easily create
+             : GUIs for their programs.
 ```
 
 </details>
@@ -17903,6 +18795,28 @@ Descript     : Setuptools is a collection of enhancements to the Python 3 distut
              : 
              : This package contains the runtime components of setuptools, necessary to
              : execute the software that requires pkg_resources.py.
+```
+
+</details>
+
+<details>
+<summary>python3-idle</summary>
+
+```
+From repo    : updates
+Short desc   : A basic graphical development environment for Python
+URL          : https://www.python.org/
+License      : Python
+Descript     : IDLE is Python’s Integrated Development and Learning Environment.
+             : 
+             : IDLE has the following features: Python shell window (interactive
+             : interpreter) with colorizing of code input, output, and error messages;
+             : multi-window text editor with multiple undo, Python colorizing,
+             : smart indent, call tips, auto completion, and other features;
+             : search within any window, replace within editor windows, and
+             : search through multiple files (grep); debugger with persistent
+             : breakpoints, stepping, and viewing of global and local namespaces;
+             : configuration, browsers, and other dialogs.
 ```
 
 </details>
@@ -18039,6 +18953,35 @@ Descript     : This package is a stop-gap that contains some common utilities sh
 </details>
 
 <details>
+<summary>python3-iso8601</summary>
+
+```
+From repo    : fedora
+Short desc   : Simple module to parse ISO 8601 dates
+URL          : https://bitbucket.org/micktwomey/pyiso8601
+License      : MIT
+Descript     : This module parses the most common forms of ISO 8601 date strings
+             : (e.g. 2007-01-14T20:34:22+00:00) into datetime objects.
+```
+
+</details>
+
+<details>
+<summary>python3-isort</summary>
+
+```
+From repo    : fedora
+Short desc   : Python utility / library to sort Python imports
+URL          : https://github.com/timothycrosley/isort
+License      : MIT
+Descript     : Python utility / library to sort Python imports.
+             : 
+             : Python 3 version.
+```
+
+</details>
+
+<details>
 <summary>python3-itsdangerous</summary>
 
 ```
@@ -18071,6 +19014,20 @@ Descript     : Jedi is a static analysis tool for Python that can be used in IDE
              : historic focus is autocompletion, but does static analysis for now as well.
              : Jedi is fast and is very well tested. It understands Python on a deeper level
              : than all other static analysis frameworks for Python.
+```
+
+</details>
+
+<details>
+<summary>python3-jeepney</summary>
+
+```
+From repo    : fedora
+Short desc   : Low-level, pure Python DBus protocol wrapper
+URL          : https://gitlab.com/takluyver/jeepney
+License      : MIT
+Descript     : This is a low-level, pure Python DBus protocol client. It has an I/O-free core,
+             : and integration modules for different event loops.
 ```
 
 </details>
@@ -18191,6 +19148,36 @@ URL          : https://github.com/jupyterlab/jupyterlab_pygments
 License      : BSD
 Descript     : This package contains a syntax coloring theme for pygments making use of the
              : JupyterLab CSS variables.
+```
+
+</details>
+
+<details>
+<summary>python3-keyring</summary>
+
+```
+From repo    : fedora
+Short desc   : Python 3 library to access the system keyring service
+URL          : https://github.com/jaraco/keyring
+License      : MIT and Python
+Descript     : The Python keyring lib provides a easy way to access the system keyring
+             : service from python. It can be used in any application that needs safe
+             : password storage.
+             : 
+             : The keyring services supported by the Python keyring lib:
+             : 
+             : * **OSXKeychain**: supports the Keychain service in Mac OS X.
+             : * **KDEKWallet**: supports the KDE's Kwallet service.
+             : * **GnomeKeyring**: for GNOME environment.
+             : * **SecretServiceKeyring**: for newer GNOME and KDE environments.
+             : * **WinVaultKeyring**: supports the Windows Credential Vault
+             : 
+             : Besides these native password storing services provided by operating systems.
+             : Python keyring lib also provides following build-in keyrings.
+             : 
+             : * **Win32CryptoKeyring**: for Windows 2k+.
+             : * **CryptedFileKeyring**: a command line interface keyring base on PyCrypto.
+             : * **UncryptedFileKeyring**: a keyring which leaves passwords directly in file.
 ```
 
 </details>
@@ -18327,6 +19314,58 @@ URL          : https://github.com/mike-fabian/langtable
 License      : GPLv3+
 Descript     : This package contains a Python module to query the data
              : from langtable-data.
+```
+
+</details>
+
+<details>
+<summary>python3-lark-parser</summary>
+
+```
+From repo    : fedora
+Short desc   : Lark is a modern general-purpose parsing library for Python
+URL          : https://github.com/lark-parser/lark
+License      : MIT
+Descript     : Lark is a modern general-purpose parsing library for Python.
+             : 
+             : Lark focuses on simplicity and power. It lets you choose between
+             : two parsing algorithms:
+             : 
+             : Earley : Parses all context-free grammars (even ambiguous ones)!
+             : It is the default.
+             : 
+             : LALR(1): Only LR grammars. Outperforms PLY and most if not all
+             : other pure-python parsing libraries.
+             : 
+             : Both algorithms are written in Python and can be used interchangeably
+             : with the same grammar (aside for algorithmic restrictions).
+             : See "Comparison to other parsers" for more details.
+             : 
+             : Lark can auto magically build an AST from your grammar, without any
+             : more code on your part.
+             : 
+             : Features:
+             : 
+             : - EBNF grammar with a little extra
+             : - Earley & LALR(1)
+             : - Builds an AST auto magically based on the grammar
+             : - Automatic line & column tracking
+             : - Automatic token collision resolution (unless both tokens are regexps)
+             : - Python 2 & 3 compatible
+             : - Unicode fully supported
+```
+
+</details>
+
+<details>
+<summary>python3-lazy-object-proxy</summary>
+
+```
+From repo    : fedora
+Short desc   : A fast and thorough lazy object proxy
+URL          : https://github.com/ionelmc/python-lazy-object-proxy
+License      : BSD
+Descript     : A fast and thorough lazy object proxy.
 ```
 
 </details>
@@ -18509,6 +19548,22 @@ URL          : https://github.com/libstorage/libstoragemgmt
 License      : LGPLv2+
 Descript     : This contains python 3 client libraries as well as python framework
              : support and open source plug-ins written in python 3.
+```
+
+</details>
+
+<details>
+<summary>python3-libvirt</summary>
+
+```
+From repo    : fedora
+Short desc   : The libvirt virtualization API python3 binding
+URL          : http://libvirt.org
+License      : LGPLv2+
+Descript     : The python3-libvirt package contains a module that permits applications
+             : written in the Python 3.x programming language to use the interface
+             : supplied by the libvirt library to use the virtualization capabilities
+             : of recent versions of Linux (and other OSes).
 ```
 
 </details>
@@ -18706,6 +19761,22 @@ Descript     : Tk backend for python3-matplotlib
 </details>
 
 <details>
+<summary>python3-mccabe</summary>
+
+```
+From repo    : fedora
+Short desc   : McCabe checker, plugin for flake8
+URL          : http://pypi.python.org/pypi/mccabe
+License      : MIT
+Descript     : Ned's script to check McCabe complexity.
+             : 
+             : This module provides a plugin for flake8, the Python code
+             : checker.
+```
+
+</details>
+
+<details>
 <summary>python3-meh</summary>
 
 ```
@@ -18728,6 +19799,20 @@ Short desc   : Graphical user interface for the python3-meh library
 URL          : https://github.com/rhinstaller/python-meh
 License      : GPLv2+
 Descript     : The python3-meh-gui package provides a GUI for the python3-meh library.
+```
+
+</details>
+
+<details>
+<summary>python3-microfs</summary>
+
+```
+From repo    : fedora
+Short desc   : CLI and Python module to work with BBC micro:bit filesystem
+URL          : https://github.com/ntoll/microfs
+License      : MIT
+Descript     : A simple command line tool and module for interacting with the limited file
+             : system provided by MicroPython on the BBC micro:bit.
 ```
 
 </details>
@@ -18795,6 +19880,21 @@ Descript     : Mpmath is a pure-Python library for multiprecision floating-point
 </details>
 
 <details>
+<summary>python3-msgpack</summary>
+
+```
+From repo    : fedora
+Short desc   : Python MessagePack (de)serializer
+URL          : https://msgpack.org/
+License      : ASL 2.0
+Descript     : MessagePack is a binary-based efficient data interchange format that is
+             : focused on high performance. It is like JSON, but very fast and small.
+             : This is a Python 3.9 (de)serializer for MessagePack.
+```
+
+</details>
+
+<details>
 <summary>python3-munch</summary>
 
 ```
@@ -18809,6 +19909,39 @@ Descript     : munch is a fork of David Schoonover's **Bunch** package, providin
              : 
              : Munch is a dictionary that supports attribute-style access, a la
              : JavaScript.
+```
+
+</details>
+
+<details>
+<summary>python3-mypy</summary>
+
+```
+From repo    : fedora
+Short desc   : A static type checker for Python
+URL          : https://github.com/python/mypy
+License      : MIT and ASL 2.0
+Descript     : Mypy is an optional static type checker for Python.  You can add type
+             : hints to your Python programs using the upcoming standard for type
+             : annotations introduced in Python 3.5 beta 1 (PEP 484), and use mypy to
+             : type check them statically. Find bugs in your programs without even
+             : running them!
+```
+
+</details>
+
+<details>
+<summary>python3-mypy_extensions</summary>
+
+```
+From repo    : fedora
+Short desc   : Extensions for mypy (separated out from mypy/extensions)
+URL          : https://github.com/python/mypy_extensions
+License      : MIT
+Descript     : The "mypy_extensions" module defines experimental extensions to the standard
+             : "typing" module that are supported by the mypy typechecker.
+             : 
+             : Python 3 version.
 ```
 
 </details>
@@ -18909,6 +20042,20 @@ Descript     : NetworkX is a Python 3 package for the creation, manipulation, an
 </details>
 
 <details>
+<summary>python3-newt</summary>
+
+```
+From repo    : fedora
+Short desc   : Python 3 bindings for newt
+URL          : https://pagure.io/newt
+License      : LGPLv2
+Descript     : The python3-newt package contains the Python 3 bindings for the newt library
+             : providing a python API for creating text mode interfaces.
+```
+
+</details>
+
+<details>
 <summary>python3-nftables</summary>
 
 ```
@@ -18934,6 +20081,21 @@ Descript     : The Jupyter Notebook is a web application that allows you to crea
              : share documents that contain live code, equations, visualizations, and
              : explanatory text. The Notebook has support for multiple programming
              : languages, sharing, and interactive widgets.
+```
+
+</details>
+
+<details>
+<summary>python3-nudatus</summary>
+
+```
+From repo    : fedora
+Short desc   : Strip comments from Python scripts
+URL          : https://github.com/zanderbrown/nudatus
+License      : MIT
+Descript     : Nudatus is a tool to remove comments from python scripts. It's created for use
+             : in uflash to help squeeze longer programs onto the micro:bit but it should be
+             : suitable for various environments with restricted storage.
 ```
 
 </details>
@@ -19127,6 +20289,23 @@ Descript     :
 </details>
 
 <details>
+<summary>python3-parse</summary>
+
+```
+From repo    : fedora
+Short desc   : Opposite of format()
+URL          : http://pypi.python.org/pypi/parse
+License      : BSD
+Descript     : Parse strings using a specification based on the Python format() syntax.
+             : 
+             : "parse()" is the opposite of "format()"
+             : 
+             : Python 3 version.
+```
+
+</details>
+
+<details>
 <summary>python3-parsedatetime</summary>
 
 ```
@@ -19170,6 +20349,34 @@ Descript     : These provide several pieces of "middleware" (or filters) that ca
              : to build web applications.  Each piece of middleware uses the WSGI (PEP 333)
              : interface, and should be compatible with other middleware based on those
              : interfaces.
+```
+
+</details>
+
+<details>
+<summary>python3-pastel</summary>
+
+```
+From repo    : fedora
+Short desc   : Bring colors to your terminal
+URL          : https://github.com/sdispater/pastel
+License      : MIT
+Descript     : Pastel is a simple library to help you colorize strings in your
+             : terminal.
+             : 
+             : It comes bundled with predefined styles:
+             : 
+             : - info: green
+             : - comment: yellow
+             : - question: black on cyan
+             : - error: white on red
+             : 
+             : Features:
+             : 
+             : - Use predefined styles or add you own.
+             : - Disable colors all together by calling with_colors(False).
+             : - Automatically disables colors if the output is not a TTY.
+             : - Used in cleo.
 ```
 
 </details>
@@ -19288,6 +20495,19 @@ Descript     : pid provides a PidFile class that manages PID files. PidFile feat
 </details>
 
 <details>
+<summary>python3-pigpio</summary>
+
+```
+From repo    : fedora
+Short desc   : Raspberry Pi GPIO module
+URL          : http://abyz.co.uk/rpi/pigpio/python.html
+License      : Unlicense
+Descript     : Raspberry Pi Python module to access the pigpio daemon.
+```
+
+</details>
+
+<details>
 <summary>python3-pillow</summary>
 
 ```
@@ -19371,6 +20591,56 @@ Descript     : pip is a package management system used to install and manage sof
 </details>
 
 <details>
+<summary>python3-pipreqs</summary>
+
+```
+From repo    : fedora
+Short desc   : Pip requirements.txt generator based on imports in project
+URL          : https://github.com/bndr/pipreqs
+License      : ASL 2.0
+Descript     : This library generates a 'requirements.txt' file for any Python project based
+             : on import statements of the project. It does not need the packages to be
+             : installed in the environment for creating the requirements file. It traverses
+             : through the files in the projects, finds the import statements and generates
+             : the output file.
+```
+
+</details>
+
+<details>
+<summary>python3-pkginfo</summary>
+
+```
+From repo    : fedora
+Short desc   : Query metadata from sdists / bdists / installed packages
+URL          : https://pypi.python.org/pypi/pkginfo
+License      : MIT
+Descript     : This package provides an API for querying the distutils metadata written in the
+             : PKG-INFO file inside a source distribution (an sdist) or a binary distribution
+             : (e.g., created by running bdist_egg). It can also query the EGG-INFO directory
+             : of an installed distribution, and the *.egg-info stored in a "development
+             : checkout" (e.g, created by running setup.py develop).
+```
+
+</details>
+
+<details>
+<summary>python3-plette</summary>
+
+```
+From repo    : fedora
+Short desc   : Pipfle and Pipfile.lock parsers, generators and validators
+URL          : https://github.com/sarugaku/plette
+License      : ISC
+Descript     : Plette implements Pipfle and Pipfile.lock parsers, generators, and optional
+             : validators to let the user work with them in a structured manner.
+             : 
+             : Validation support is provided by the extra package 'python3-plette+validation'.
+```
+
+</details>
+
+<details>
 <summary>python3-ply</summary>
 
 ```
@@ -19392,6 +20662,36 @@ Descript     : PLY is a straightforward lex/yacc implementation. Here is a list 
              :   component of some larger system.
              : 
              : Python 3 version.
+```
+
+</details>
+
+<details>
+<summary>python3-poetry</summary>
+
+```
+From repo    : fedora
+Short desc   : Python dependency management and packaging made easy
+URL          : https://python-poetry.org/
+License      : MIT
+Descript     : Poetry helps you declare, manage and install dependencies of Python
+             : projects, ensuring you have the right stack everywhere.
+```
+
+</details>
+
+<details>
+<summary>python3-poetry-core</summary>
+
+```
+From repo    : fedora
+Short desc   : Poetry PEP 517 Build Backend
+URL          : https://github.com/python-poetry/poetry-core
+License      : MIT
+Descript     : A PEP 517 build backend implementation developed for Poetry.
+             : This project is intended to be a light weight, fully compliant, self-contained
+             : package allowing PEP 517 compatible build frontends to build Poetry managed
+             : projects.
 ```
 
 </details>
@@ -19655,6 +20955,24 @@ Descript     : at-spi allows assistive technologies to access GTK-based
 </details>
 
 <details>
+<summary>python3-pycodestyle</summary>
+
+```
+From repo    : fedora
+Short desc   : Python style guide checker
+URL          : https://pypi.python.org/pypi/pycodestyle
+License      : MIT
+Descript     : pycodestyle is a tool to check your Python code against some of the style
+             : conventions in PEP 8. It has a plugin architecture, making new checks easy, and
+             : its output is parseable, making it easy to jump to an error location in your
+             : editor.
+             : 
+             : This is a version for Python 3.
+```
+
+</details>
+
+<details>
 <summary>python3-pycparser</summary>
 
 ```
@@ -19703,6 +21021,40 @@ Descript     :
              : Output can be inlined in Postscript into interactive scientific environments
              : like TeXmacs, or output in any of the format's supported by the Graphviz
              : tools dot, neato, twopi.
+```
+
+</details>
+
+<details>
+<summary>python3-pyflakes</summary>
+
+```
+From repo    : fedora
+Short desc   : A simple program which checks Python source files for errors
+URL          : https://github.com/PyCQA/pyflakes
+License      : MIT
+Descript     : Pyflakes is similar to PyChecker in scope, but differs in that it does
+             : not execute the modules to check them. This is both safer and faster,
+             : although it does not perform as many checks. Unlike PyLint, Pyflakes
+             : checks only for logical errors in programs; it does not perform any
+             : check on style.
+```
+
+</details>
+
+<details>
+<summary>python3-pygame</summary>
+
+```
+From repo    : fedora
+Short desc   : Python3 modules for writing games
+URL          : http://www.pygame.org
+License      : LGPLv2+
+Descript     : Pygame is a set of Python modules designed for writing games. It is
+             : written on top of the excellent SDL library. This allows you to create
+             : fully featured games and multimedia programs in the python language.
+             : Pygame is highly portable and runs on nearly every platform and
+             : operating system.
 ```
 
 </details>
@@ -19785,6 +21137,22 @@ Descript     : PyGraphviz is a Python interface to the Graphviz graph layout and
 </details>
 
 <details>
+<summary>python3-pylev</summary>
+
+```
+From repo    : fedora
+Short desc   : Liberally licensed, pure Python Levenshtein implementation
+URL          : http://github.com/toastdriven/pylev
+License      : BSD
+Descript     : A pure Python Levenshtein implementation that’s not freaking GPL’d.
+             : 
+             : Based off the Wikipedia code samples at
+             : https://en.wikipedia.org/wiki/Levenshtein_distance.
+```
+
+</details>
+
+<details>
 <summary>python3-pylibacl</summary>
 
 ```
@@ -19794,6 +21162,28 @@ URL          : https://pylibacl.k1024.org
 License      : LGPLv2+
 Descript     : Python extension module for POSIX ACLs. It allows to query, list,
              : add and remove ACLs from files and directories.
+```
+
+</details>
+
+<details>
+<summary>python3-pylint</summary>
+
+```
+From repo    : fedora
+Short desc   : Analyzes Python code looking for bugs and signs of poor quality
+URL          : http://www.pylint.org/
+License      : GPLv2+
+Descript     : Pylint is a Python source code analyzer which looks for programming
+             : errors, helps enforcing a coding standard and sniffs for some code
+             : smells (as defined in Martin Fowler's Refactoring book).
+             : Pylint can be seen as another PyChecker since nearly all tests you
+             : can do with PyChecker can also be done with Pylint. However, Pylint
+             : offers some more features, like checking length of lines of code,
+             : checking if variable names are well-formed according to your coding
+             : standard, or checking if declared interfaces are truly implemented,
+             : and much more.
+             : Additionally, it is possible to write plugins to add your own checks.
 ```
 
 </details>
@@ -19862,6 +21252,54 @@ Descript     : Python module for the parted library.  It is used for manipulatin
 </details>
 
 <details>
+<summary>python3-pyqt5-sip</summary>
+
+```
+From repo    : fedora
+Short desc   : SIP - Python 3/C++ Bindings Generator for pyqt5
+URL          : https://riverbankcomputing.com/software/sip/intro
+License      : GPLv2 or GPLv3 and (GPLv3+ with exceptions)
+Descript     : This is the Python 3 build of pyqt5-SIP.
+             : 
+             : 
+             : 
+             : 
+             : 
+             : 
+             : 
+             : 
+             : 
+             : 
+             : 
+             : 
+             : SIP is a tool for generating bindings for C++ classes so that they can be
+             : accessed as normal Python classes. SIP takes many of its ideas from SWIG but,
+             : because it is specifically designed for C++ and Python, is able to generate
+             : tighter bindings. SIP is so called because it is a small SWIG.
+             : 
+             : SIP was originally designed to generate Python bindings for KDE and so has
+             : explicit support for the signal slot mechanism used by the Qt/KDE class
+             : libraries. However, SIP can be used to generate Python bindings for any C++
+             : class library.
+```
+
+</details>
+
+<details>
+<summary>python3-pyqtchart</summary>
+
+```
+From repo    : fedora
+Short desc   : Set of Python bindings for The Qt Charts library
+URL          : https://www.riverbankcomputing.com/software/pyqtchart/
+License      : GPLv3
+Descript     : PyQtChart is a set of Python 3 bindings for The Qt Company's Qt Charts library.
+             : The bindings sit on top of PyQt5 and are implemented as a single module.
+```
+
+</details>
+
+<details>
 <summary>python3-pyrfc3339</summary>
 
 ```
@@ -19905,6 +21343,22 @@ Descript     : Pyrsistent is a number of persistent collections (by some referre
              : All methods on a data structure that would normally mutate it instead
              : return a new copy of the structure containing the requested updates. The
              : original structure is left untouched.
+```
+
+</details>
+
+<details>
+<summary>python3-pyserial</summary>
+
+```
+From repo    : fedora
+Short desc   : Python serial port access library
+URL          : http://pypi.python.org/pypi/pyserial
+License      : Python
+Descript     : This module encapsulates the access for the serial port. It provides backends
+             : for standard Python running on Windows, Linux, BSD (possibly any POSIX
+             : compliant system) and Jython. The module named "serial" automatically selects
+             : the appropriate backend.
 ```
 
 </details>
@@ -20076,6 +21530,97 @@ Descript     : YAML is a data serialization format designed for human readabilit
              : 
              : PyYAML is applicable for a broad range of tasks from complex
              : configuration files to object serialization and persistence.
+```
+
+</details>
+
+<details>
+<summary>python3-qscintilla-qt5</summary>
+
+```
+From repo    : fedora
+Short desc   : QScintilla-qt5 python3 bindings
+URL          : http://www.riverbankcomputing.com/software/qscintilla/
+License      : GPLv3
+Descript     : QScintilla-qt5 python3 bindings.
+```
+
+</details>
+
+<details>
+<summary>python3-qt5</summary>
+
+```
+From repo    : fedora
+Short desc   : Python 3 bindings for Qt5
+URL          : http://www.riverbankcomputing.com/software/pyqt/
+License      : GPLv3
+Descript     : Python 3 bindings for Qt5.
+```
+
+</details>
+
+<details>
+<summary>python3-qt5-base</summary>
+
+```
+From repo    : fedora
+Short desc   : Python 3 bindings for Qt5 base
+URL          : http://www.riverbankcomputing.com/software/pyqt/
+License      : GPLv3
+Descript     : Python 3 bindings for Qt5 base.
+```
+
+</details>
+
+<details>
+<summary>python3-qt5-webengine</summary>
+
+```
+From repo    : fedora
+Short desc   : Python3 bindings for Qt5 WebEngine
+URL          : https://www.riverbankcomputing.com/software/pyqt/
+License      : GPLv3
+Descript     : Python3 bindings for Qt5 WebEngine.
+```
+
+</details>
+
+<details>
+<summary>python3-qt5-webkit</summary>
+
+```
+From repo    : fedora
+Short desc   : Python3 bindings for Qt5 Webkit
+URL          : http://www.riverbankcomputing.com/software/pyqt/
+License      : GPLv3
+Descript     : Python3 bindings for Qt5 Webkit.
+```
+
+</details>
+
+<details>
+<summary>python3-qtconsole</summary>
+
+```
+From repo    : fedora
+Short desc   : Jupyter Qt console
+URL          : http://jupyter.org
+License      : BSD
+Descript     : Qt-based console for Jupyter with support for rich media output
+```
+
+</details>
+
+<details>
+<summary>python3-redis</summary>
+
+```
+From repo    : fedora
+Short desc   : Python 3 interface to the Redis key-value store
+URL          : https://github.com/andymccurdy/redis-py
+License      : MIT
+Descript     : This is a Python 3 interface to the Redis key-value store.
 ```
 
 </details>
@@ -20346,6 +21891,45 @@ Descript     : An SVG scrubber.
 </details>
 
 <details>
+<summary>python3-secretstorage</summary>
+
+```
+From repo    : fedora
+Short desc   : Python bindings to FreeDesktop.org Secret Service API
+URL          : https://github.com/mitya57/secretstorage
+License      : BSD
+Descript     : This module provides a way for securely storing passwords and other secrets.
+             : 
+             : It uses D-Bus Secret Service API that is supported by GNOME Keyring (>= 2.30)
+             : and KSecretsService.
+             : 
+             : The main classes provided are secretstorage.Item, representing a secret item
+             : (that has a label, a secret and some attributes) and secretstorage.Collection,
+             : a place items are stored in.
+             : 
+             : SecretStorage supports most of the functions provided by Secret Service,
+             : including creating and deleting items and collections, editing items, locking
+             : and unlocking collections (asynchronous unlocking is also supported).
+```
+
+</details>
+
+<details>
+<summary>python3-semver</summary>
+
+```
+From repo    : fedora
+Short desc   : Python helper for Semantic Versioning
+URL          : https://github.com/k-bx/python-semver
+License      : BSD
+Descript     : Python module for semantic versioning. Simplifies comparing versions.
+             : 
+             : Python 3 version.
+```
+
+</details>
+
+<details>
 <summary>python3-send2trash</summary>
 
 ```
@@ -20429,6 +22013,19 @@ Descript     : Setuptools is a collection of enhancements to the Python 3 distut
              : 
              : This package also contains the runtime components of setuptools, necessary to
              : execute the software that requires pkg_resources.
+```
+
+</details>
+
+<details>
+<summary>python3-shellingham</summary>
+
+```
+From repo    : fedora
+Short desc   : Tool to detect surrounding Shell
+URL          : https://github.com/sarugaku/shellingham
+License      : ISC
+Descript     : Shellingham detects what shell the current Python executable is running in.
 ```
 
 </details>
@@ -21092,6 +22689,46 @@ Descript     : The Tkinter (Tk interface) library is a graphical user interface 
 </details>
 
 <details>
+<summary>python3-toml</summary>
+
+```
+From repo    : fedora
+Short desc   : Python Library for Tom's Obvious, Minimal Language
+URL          : https://pypi.python.org/pypi/toml
+License      : MIT
+Descript     : TOML aims to be a minimal configuration file format that's easy to read due to
+             : obvious semantics. TOML is designed to map unambiguously to a hash table. TOML
+             : should be easy to parse into data structures in a wide variety of languages.
+             : This package loads toml file into python dictionary and dump dictionary into
+             : toml file.
+```
+
+</details>
+
+<details>
+<summary>python3-tomlkit</summary>
+
+```
+From repo    : fedora
+Short desc   : Style preserving TOML library
+URL          : https://github.com/sdispater/tomlkit
+License      : MIT
+Descript     : TOML Kit is a 0.5.0-compliant TOML library.
+             : 
+             : It includes a parser that preserves all comments, indentations,
+             : whitespace and internal element ordering, and makes them accessible and
+             : editable via an intuitive API.
+             : 
+             : You can also create new TOML documents from scratch using the provided
+             : helpers.
+             : 
+             : Part of the implementation as been adapted, improved and fixed from
+             : Molten.
+```
+
+</details>
+
+<details>
 <summary>python3-tornado</summary>
 
 ```
@@ -21186,6 +22823,48 @@ Descript     : txZMQ allows to integrate easily ZeroMQ sockets into Twisted even
 </details>
 
 <details>
+<summary>python3-typed_ast</summary>
+
+```
+From repo    : fedora
+Short desc   : A fork of the ast module with type annotations
+URL          : https://github.com/python/typed_ast
+License      : ASL 2.0
+Descript     : A fork of the ast module with type annotations. This package is based on the ast modules from Python 2 and 3,
+             : and has been extended with support for type comments and type annotations
+             : as supported in Python 3.6.
+```
+
+</details>
+
+<details>
+<summary>python3-typing-extensions</summary>
+
+```
+From repo    : fedora
+Short desc   : Python Typing Extensions
+URL          : https://pypi.org/project/typing-extensions/
+License      : Python
+Descript     : Typing Extensions - Backported and Experimental Type Hints for Python
+             : 
+             : The typing module was added to the standard library in Python 3.5 on a
+             : provisional basis and will no longer be provisional in Python 3.7.
+             : However, this means users of Python 3.5 - 3.6 who are unable to upgrade will not
+             : be able to take advantage of new types added to the typing module, such as
+             : typing.Text or typing.Coroutine.
+             : 
+             : The typing_extensions module contains both backports of these changes as well as
+             : experimental types that will eventually be added to the typing module, such as
+             : Protocol.
+             : 
+             : Users of other Python versions should continue to install and use the typing
+             : module from PyPi instead of using this one unless specifically writing code that
+             : must be compatible with multiple Python versions or requires experimental types.
+```
+
+</details>
+
+<details>
 <summary>python3-unbound</summary>
 
 ```
@@ -21259,6 +22938,47 @@ Descript     : Promises, promises, promises
 </details>
 
 <details>
+<summary>python3-virtualenv</summary>
+
+```
+From repo    : fedora
+Short desc   : Tool to create isolated Python environments
+URL          : http://pypi.python.org/pypi/virtualenv
+License      : MIT
+Descript     : virtualenv is a tool to create isolated Python environments. virtualenv
+             : is a successor to workingenv, and an extension of virtual-python. It is
+             : written by Ian Bicking, and sponsored by the Open Planning Project. It is
+             : licensed under an MIT-style permissive license
+```
+
+</details>
+
+<details>
+<summary>python3-virtualenv-clone</summary>
+
+```
+From repo    : fedora
+Short desc   : Script to clone virtualenvs
+URL          : http://pypi.python.org/pypi/virtualenv-clone
+License      : MIT
+Descript     : virtualenv cloning script.
+             : 
+             : A script for cloning a non-relocatable virtualenv.
+             : 
+             : Virtualenv provides a way to make virtualenv's relocatable which could then
+             : be copied as we wanted. However making a virtualenv relocatable this way
+             : breaks the no-site-packages isolation of the virtualenv as well as other
+             : aspects that come with relative paths and '/usr/bin/env' shebangs that may
+             : be undesirable.
+             : 
+             : Also, the .pth and .egg-link rewriting doesn't seem to work as intended.
+             : This attempts to overcome these issues and provide a way to easily clone an
+             : existing virtualenv.
+```
+
+</details>
+
+<details>
 <summary>python3-wcwidth</summary>
 
 ```
@@ -21326,6 +23046,21 @@ Descript     : Whoosh is a fast, featureful full-text indexing and searching lib
              : implemented in pure Python. Programmers can use it to easily add search
              : functionality to their applications and websites. Every part of how Whoosh
              : works can be extended or replaced to meet your needs exactly.
+```
+
+</details>
+
+<details>
+<summary>python3-wrapt</summary>
+
+```
+From repo    : fedora
+Short desc   : A Python module for decorators, wrappers and monkey patching
+URL          : https://github.com/GrahamDumpleton/wrapt
+License      : BSD
+Descript     : The aim of the wrapt module is to provide a transparent object proxy
+             : for Python, which can be used as the basis for the construction of
+             : function wrappers and decorator functions.
 ```
 
 </details>
@@ -21421,6 +23156,19 @@ Descript     : This is a loader for PyYAML that maintains the order of the keys
              : and values in a dictionary as they appear in the input file. This
              : can be useful for certain applications where named values should
              : also be maintained in a particular order
+```
+
+</details>
+
+<details>
+<summary>python3-yarg</summary>
+
+```
+From repo    : fedora
+Short desc   : An easy to use PyPI client
+URL          : https://yarg.readthedocs.org/
+License      : MIT
+Descript     : Yarg is an easy to use PyPI client built on top of Python's requests library.
 ```
 
 </details>

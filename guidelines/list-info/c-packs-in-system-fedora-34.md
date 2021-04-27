@@ -1812,6 +1812,23 @@ Descript     : This package contains the cryptsetup shared library, libcryptsetu
 </details>
 
 <details>
+<summary>cscope</summary>
+
+```
+From repo    : fedora
+Short desc   : C source code tree search and browse tool
+URL          : http://cscope.sourceforge.net
+License      : BSD and GPLv2+
+Descript     : cscope is a mature, ncurses based, C source code tree browsing tool.  It
+             : allows users to search large source code bases for variables, functions,
+             : macros, etc, as well as perform general regex and plain text searches.
+             : Results are returned in lists, from which the user can select individual
+             : matches for use in file editing.
+```
+
+</details>
+
+<details>
 <summary>ctags</summary>
 
 ```
@@ -2037,6 +2054,20 @@ License      : BSD with advertising
 Descript     : The cyrus-sasl package contains the Cyrus implementation of SASL.
              : SASL is the Simple Authentication and Security Layer, a method for
              : adding authentication support to connection-based protocols.
+```
+
+</details>
+
+<details>
+<summary>cyrus-sasl-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Files needed for developing applications with Cyrus SASL
+URL          : https://www.cyrusimap.org/sasl/
+License      : BSD with advertising
+Descript     : The cyrus-sasl-devel package contains files needed for developing and
+             : compiling applications which use the Cyrus SASL library.
 ```
 
 </details>

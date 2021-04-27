@@ -64,6 +64,22 @@ Descript     : Xapian is an Open Source Probabilistic Information Retrieval fram
 </details>
 
 <details>
+<summary>xarchiver</summary>
+
+```
+From repo    : fedora
+Short desc   : Archive manager for Xfce
+URL          : https://github.com/ib/xarchiver
+License      : GPLv2+
+Descript     : Xarchiver is a lightweight GTK2 only frontend for manipulating 7z, arj, bzip2,
+             : gzip, iso, rar, lha, tar, zip, RPM and deb files. It allows you to create
+             : archives and add, extract, and delete files from them. Password protected
+             : archives in the arj, 7z, rar, and zip formats are supported.
+```
+
+</details>
+
+<details>
 <summary>xbacklight</summary>
 
 ```
@@ -213,6 +229,22 @@ Descript     : xclip is a command line utility that is designed to run on any sy
              : in an X selection for pasting into other X applications. xclip can also print
              : an X selection to standard out, which can then be redirected to a file or
              : another program.
+```
+
+</details>
+
+<details>
+<summary>xdelta</summary>
+
+```
+From repo    : fedora
+Short desc   : A binary file delta generator
+URL          : http://xdelta.org/
+License      : ASL 2.0
+Descript     : Xdelta (X for XCF: the eXperimental Computing Facility at Berkeley) is
+             : a binary delta generator (like a diff program for binaries) and an RCS
+             : version control replacement library. Xdelta uses a binary file delta
+             : algorithm to replace the standard diff program used by RCS
 ```
 
 </details>
@@ -449,6 +481,21 @@ Descript     : xev displays the X11 protocol events sent to a given window.
 </details>
 
 <details>
+<summary>xfconf</summary>
+
+```
+From repo    : fedora
+Short desc   : Hierarchical configuration system for Xfce
+URL          : http://www.xfce.org/
+License      : GPLv2
+Descript     : Xfconf is a hierarchical (tree-like) configuration system where the
+             : immediate child nodes of the root are called "channels".  All settings
+             : beneath the channel nodes are called "properties."
+```
+
+</details>
+
+<details>
 <summary>xfsprogs</summary>
 
 ```
@@ -551,6 +598,41 @@ License      : MIT
 Descript     : xkill is a utility for forcing the X server to close connections to
              : clients. This program is very dangerous, but is useful for aborting
              : programs that have displayed undesired windows on a user's screen.
+```
+
+</details>
+
+<details>
+<summary>xl2tpd</summary>
+
+```
+From repo    : fedora
+Short desc   : Layer 2 Tunnelling Protocol Daemon (RFC 2661)
+URL          : https://github.com/xelerance/xl2tpd/
+License      : GPL+
+Descript     : xl2tpd is an implementation of the Layer 2 Tunnelling Protocol (RFC 2661).
+             : L2TP allows you to tunnel PPP over UDP. Some ISPs use L2TP to tunnel user
+             : sessions from dial-in servers (modem banks, ADSL DSLAMs) to back-end PPP
+             : servers. Another important application is Virtual Private Networks where
+             : the IPsec protocol is used to secure the L2TP connection (L2TP/IPsec,
+             : RFC 3193). The L2TP/IPsec protocol is mainly used by Windows and
+             : Mac OS X clients. On Linux, xl2tpd can be used in combination with IPsec
+             : implementations such as Openswan.
+             : Example configuration files for such a setup are included in this RPM.
+             : 
+             : xl2tpd works by opening a pseudo-tty for communicating with pppd.
+             : It runs completely in userspace.
+             : 
+             : xl2tpd supports IPsec SA Reference tracking to enable overlapping internak
+             : NAT'ed IP's by different clients (eg all clients connecting from their
+             : linksys internal IP 192.168.1.101) as well as multiple clients behind
+             : the same NAT router.
+             : 
+             : xl2tpd supports the pppol2tp kernel mode operations on 2.6.23 or higher,
+             : or via a patch in contrib for 2.4.x kernels.
+             : 
+             : Xl2tpd is based on the 0.69 L2TP by Jeff McAdams <jeffm@iglou.com>
+             : It was de-facto maintained by Jacco de Leeuw <jacco2@dds.nl> in 2002 and 2003.
 ```
 
 </details>

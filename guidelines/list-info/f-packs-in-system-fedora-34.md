@@ -284,6 +284,20 @@ Descript     : This package is used to install customizations for Chromium/Chrom
 </details>
 
 <details>
+<summary>fedora-easy-karma</summary>
+
+```
+From repo    : fedora
+Short desc   : Fedora update feedback made easy
+URL          : https://fedoraproject.org/wiki/Fedora_Easy_Karma
+License      : GPLv2+
+Descript     : Fedora-easy-karma helps you to easily and fast provide feedback for all testing
+             : updates that you have currently installed.
+```
+
+</details>
+
+<details>
 <summary>fedora-gpg-keys</summary>
 
 ```
@@ -1067,6 +1081,30 @@ Descript     : This package contains a number of command-line utilities for use 
 </details>
 
 <details>
+<summary>flex</summary>
+
+```
+From repo    : fedora
+Short desc   : A tool for generating scanners (text pattern recognizers)
+URL          : https://github.com/westes/flex
+License      : BSD and LGPLv2+
+Descript     : The flex program generates scanners.  Scanners are programs which can
+             : recognize lexical patterns in text.  Flex takes pairs of regular
+             : expressions and C code as input and generates a C source file as
+             : output.  The output file is compiled and linked with a library to
+             : produce an executable.  The executable searches through its input for
+             : occurrences of the regular expressions.  When a match is found, it
+             : executes the corresponding C code.  Flex was designed to work with
+             : both Yacc and Bison, and is used by many programs as part of their
+             : build process.
+             : 
+             : You should install flex if you are going to use your system for
+             : application development.
+```
+
+</details>
+
+<details>
 <summary>flexiblas</summary>
 
 ```
@@ -1158,6 +1196,21 @@ Descript     : FlexiBLAS is a wrapper library that enables the exchange of the B
              : 
              : This package contains FlexiBLAS wrappers for the library compiled with
              : OpenMP support with a 64-integer interface.
+```
+
+</details>
+
+<details>
+<summary>fltk</summary>
+
+```
+From repo    : fedora
+Short desc   : C++ user interface toolkit
+URL          : http://www.fltk.org/
+License      : LGPLv2+ with exceptions
+Descript     : FLTK (pronounced "fulltick") is a cross-platform C++ GUI toolkit.
+             : It provides modern GUI functionality without the bloat, and supports
+             : 3D graphics via OpenGL and its built-in GLUT emulation.
 ```
 
 </details>

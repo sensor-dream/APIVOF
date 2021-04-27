@@ -1434,6 +1434,22 @@ Descript     : Windows Gecko library required for Wine.
 </details>
 
 <details>
+<summary>minicom</summary>
+
+```
+From repo    : fedora
+Short desc   : A text-based modem control and terminal emulation program
+URL          : https://salsa.debian.org/minicom-team/minicom
+License      : GPLv2+ and LGPLv2+ and Public Domain
+Descript     : Minicom is a simple text-based modem control and terminal emulation
+             : program somewhat similar to MSDOS Telix. Minicom includes a dialing
+             : directory, full ANSI and VT100 emulation, an (external) scripting
+             : language, and other features.
+```
+
+</details>
+
+<details>
 <summary>miniupnpc</summary>
 
 ```
@@ -1779,6 +1795,19 @@ Descript     : mokutil provides a tool to manage keys for Secure Boot through th
 </details>
 
 <details>
+<summary>mongo-c-driver-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Shared libraries for mongo-c-driver
+URL          : https://github.com/mongodb/mongo-c-driver
+License      : ASL 2.0 and ISC and MIT and zlib
+Descript     : This package contains the shared libraries for mongo-c-driver.
+```
+
+</details>
+
+<details>
 <summary>mosquitto</summary>
 
 ```
@@ -1807,6 +1836,43 @@ License      : LGPLv2+
 Descript     : This is the Motif 2.3.4 run-time environment. It includes the
              : Motif shared libraries, needed to run applications which are dynamically
              : linked against Motif and the Motif Window Manager mwm.
+```
+
+</details>
+
+<details>
+<summary>mousepad</summary>
+
+```
+From repo    : updates
+Short desc   : Simple text editor for Xfce desktop environment
+URL          : http://xfce.org/
+License      : GPLv2+
+Descript     : Mousepad aims to be an easy-to-use and fast editor. It's target is an editor for
+             : quickly editing text files, not a development environment or an editor with a
+             : huge bunch of plugins.
+             : 
+             : Mousepad is based on Leafpad. The initial reason for Mousepad was to provide
+             : printing support, which would have been difficult for Leafpad for various
+             : reasons.
+             : 
+             : Although some features are under development, currently Mousepad has following
+             : features:
+             : 
+             :     * Complete support for UTF-8 text
+             :     * Cut/Copy/Paste and Select All text
+             :     * Search and Replace
+             :     * Font selecton
+             :     * Word Wrap
+             :     * Character coding selection
+             :     * Auto character coding detection (UTF-8 and some codesets)
+             :     * Manual codeset setting
+             :     * Infinite Undo/Redo by word
+             :     * Auto Indent
+             :     * Multi-line Indent
+             :     * Display line numbers
+             :     * Drag and Drop
+             :     * Printing
 ```
 
 </details>
@@ -2027,6 +2093,19 @@ Descript     : MTR combines the functionality of the 'traceroute' and 'ping' pro
              : MTR provides two user interfaces: an ncurses interface, useful for the
              : command line, e.g. for SSH sessions; and a GTK interface for X (provided
              : in the mtr-gtk package).
+```
+
+</details>
+
+<details>
+<summary>mu</summary>
+
+```
+From repo    : fedora
+Short desc   : A simple Python editor not only for micro:bit
+URL          : https://github.com/mu-editor/mu
+License      : GPLv3
+Descript     : mu is a simple Python editor also for BBC micro:bit devices.
 ```
 
 </details>

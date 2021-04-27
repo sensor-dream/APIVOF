@@ -207,6 +207,23 @@ Descript     : This package contains module for ZRAM configuration.
 </details>
 
 <details>
+<summary>uflash</summary>
+
+```
+From repo    : fedora
+Short desc   : A module and utility to flash Python onto the BBC micro:bit
+URL          : https://github.com/ntoll/uflash
+License      : MIT
+Descript     : A utility for flashing the BBC micro:bit with Python scripts and the
+             : MicroPython runtime. You pronounce the name of this utility "micro-flash". ;-)
+             : It provides two services. A library of functions to programatically create a
+             : hex file and flash it onto a BBC micro:bit.  A command line utility called
+             : uflash that will flash Python scripts onto a BBC micro:bit.
+```
+
+</details>
+
+<details>
 <summary>ufraw-common</summary>
 
 ```
@@ -1236,6 +1253,19 @@ Descript     : The util-linux package contains a large variety of low-level syst
              : utilities that are necessary for a Linux system to function. Among
              : others, Util-linux contains the fdisk configuration tool and the login
              : program.
+```
+
+</details>
+
+<details>
+<summary>util-linux-user</summary>
+
+```
+From repo    : fedora
+Short desc   : libuser based util-linux utilities
+URL          : http://en.wikipedia.org/wiki/Util-linux
+License      : GPLv2
+Descript     : chfn and chsh utilities with dependence on libuser
 ```
 
 </details>

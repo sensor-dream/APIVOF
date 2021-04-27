@@ -597,6 +597,19 @@ Descript     : The qrencode-libs package contains the shared libraries and heade
 </details>
 
 <details>
+<summary>qscintilla-qt5</summary>
+
+```
+From repo    : fedora
+Short desc   : A Scintilla port to Qt5
+URL          : http://www.riverbankcomputing.com/software/qscintilla/
+License      : GPLv3
+Descript     : A Scintilla port to Qt5.
+```
+
+</details>
+
+<details>
 <summary>qt</summary>
 
 ```
@@ -767,6 +780,19 @@ Descript     : Qt Charts module provides a set of easy to use chart components. 
 </details>
 
 <details>
+<summary>qt5-qtconnectivity</summary>
+
+```
+From repo    : fedora
+Short desc   : Qt5 - Connectivity components
+URL          : http://qt.io
+License      : LGPLv2 with exceptions or GPLv3 with exceptions
+Descript     : Qt5 - Connectivity components.
+```
+
+</details>
+
+<details>
 <summary>qt5-qtdeclarative</summary>
 
 ```
@@ -872,6 +898,20 @@ Descript     : The Qt Sensors API provides access to sensor hardware via QML and
 </details>
 
 <details>
+<summary>qt5-qtserialport</summary>
+
+```
+From repo    : fedora
+Short desc   : Qt5 - SerialPort component
+URL          : http://www.qt.io
+License      : LGPLv2 with exceptions or GPLv3 with exceptions
+Descript     : Qt Serial Port provides the basic functionality, which includes configuring,
+             : I/O operations, getting and setting the control signals of the RS-232 pinouts.
+```
+
+</details>
+
+<details>
 <summary>qt5-qtspeech</summary>
 
 ```
@@ -943,6 +983,19 @@ Descript     : Qt5 Designer runtime library.
 </details>
 
 <details>
+<summary>qt5-qttools-libs-help</summary>
+
+```
+From repo    : fedora
+Short desc   : Qt5 Help runtime library
+URL          : http://www.qt.io
+License      : LGPLv3 or LGPLv2
+Descript     : Qt5 Help runtime library.
+```
+
+</details>
+
+<details>
 <summary>qt5-qtwayland</summary>
 
 ```
@@ -997,6 +1050,34 @@ Descript     : Qt5 - QtWebEngine components.
 </details>
 
 <details>
+<summary>qt5-qtwebengine-devtools</summary>
+
+```
+From repo    : fedora
+Short desc   : WebEngine devtools_resources
+URL          : http://www.qt.io
+License      : (LGPLv2 with exceptions or GPLv3 with exceptions) and BSD and LGPLv2+ and ASL 2.0 and IJG and MIT and GPLv2+ and ISC and OpenSSL and (MPLv1.1 or GPLv2 or LGPLv2)
+Descript     : Support for remote debugging.
+```
+
+</details>
+
+<details>
+<summary>qt5-qtwebengine-freeworld</summary>
+
+```
+From repo    : rpmfusion-free
+Short desc   : Qt5 - QtWebEngine components (freeworld version)
+URL          : http://www.qt.io
+License      : (LGPLv2 with exceptions or GPLv3 with exceptions) and BSD and LGPLv2+ and ASL 2.0 and IJG and MIT and GPLv2+ and ISC and OpenSSL and (MPLv1.1 or GPLv2 or LGPLv2)
+Descript     : Qt5 - QtWebEngine components (freeworld version).
+             : 
+             : This version is compiled with support for patent-encumbered codecs enabled.
+```
+
+</details>
+
+<details>
 <summary>qt5-qtwebkit</summary>
 
 ```
@@ -1005,6 +1086,20 @@ Short desc   : Qt5 - QtWebKit components
 URL          : https://github.com/qtwebkit/qtwebkit
 License      : LGPLv2 and BSD
 Descript     : Qt5 - QtWebKit components
+```
+
+</details>
+
+<details>
+<summary>qt5-qtwebsockets</summary>
+
+```
+From repo    : fedora
+Short desc   : Qt5 - WebSockets component
+URL          : http://qt-project.org/
+License      : LGPLv2 with exceptions or GPLv3 with exceptions
+Descript     : The QtWebSockets module implements the WebSocket protocol as specified in RFC
+             : 6455. It solely depends on Qt (no external dependencies).
 ```
 
 </details>
@@ -1160,6 +1255,21 @@ Short desc   : Gettext catalogs for disk quota tools
 URL          : http://sourceforge.net/projects/linuxquota/
 License      : LGPLv2+ and GPLv2 and GPLv2+
 Descript     : Disk quota tools messages translated into different natural languages.
+```
+
+</details>
+
+<details>
+<summary>qutebrowser</summary>
+
+```
+From repo    : fedora
+Short desc   : A keyboard-driven, vim-like browser based on PyQt5 and QtWebEngine
+URL          : http://www.qutebrowser.org
+License      : GPLv3
+Descript     : qutebrowser is a keyboard-focused browser with a minimal GUI. It’s based on
+             : Python, PyQt5 and QtWebEngine and free software, licensed under the GPL.
+             : It was inspired by other browsers/addons like dwb and Vimperator/Pentadactyl.
 ```
 
 </details>

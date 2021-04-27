@@ -249,6 +249,22 @@ Descript     : The Readline library provides a set of functions that allow users
 </details>
 
 <details>
+<summary>readline-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Files needed to develop programs which use the readline library
+URL          : https://tiswww.case.edu/php/chet/readline/rltop.html
+License      : GPLv3+
+Descript     : The Readline library provides a set of functions that allow users to
+             : edit typed command lines. If you want to develop programs that will
+             : use the readline library, you need to have the readline-devel package
+             : installed. You also need to have the readline package installed.
+```
+
+</details>
+
+<details>
 <summary>realmd</summary>
 
 ```
@@ -658,6 +674,35 @@ Descript     : ROCm system info utility
 </details>
 
 <details>
+<summary>rofi</summary>
+
+```
+From repo    : fedora
+Short desc   : A window switcher, application launcher and dmenu replacement
+URL          : https://github.com/DaveDavenport/rofi
+License      : MIT
+Descript     : Rofi is a dmenu replacement. Rofi, like dmenu, will provide the user with a
+             : textual list of options where one or more can be selected. This can either be,
+             : running an application, selecting a window or options provided by an external
+             : script.
+```
+
+</details>
+
+<details>
+<summary>rofi-themes</summary>
+
+```
+From repo    : fedora
+Short desc   : Themes for rofi
+URL          : https://github.com/DaveDavenport/rofi
+License      : MIT
+Descript     : The rofi-themes package contains themes for rofi.
+```
+
+</details>
+
+<details>
 <summary>rootfiles</summary>
 
 ```
@@ -786,6 +831,27 @@ Short desc   : Libraries for building RPM packages
 URL          : http://www.rpm.org/
 License      : GPLv2+ and LGPLv2+ with exceptions
 Descript     : This package contains the RPM shared libraries for building packages.
+```
+
+</details>
+
+<details>
+<summary>rpm-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Development files for manipulating RPM packages
+URL          : http://www.rpm.org/
+License      : GPLv2+ and LGPLv2+ with exceptions
+Descript     : This package contains the RPM C library and header files. These
+             : development files will simplify the process of writing programs that
+             : manipulate RPM packages and databases. These files are intended to
+             : simplify the process of creating graphical package managers or any
+             : other tools that need an intimate knowledge of RPM packages in order
+             : to function.
+             : 
+             : This package should be installed if you want to develop programs that
+             : will manipulate RPM packages and databases.
 ```
 
 </details>
@@ -1006,6 +1072,25 @@ Descript     : rpmlint is a tool for checking common errors in RPM packages. Bin
 </details>
 
 <details>
+<summary>rrdtool</summary>
+
+```
+From repo    : fedora
+Short desc   : Round Robin Database Tool to store and display time-series data
+URL          : https://oss.oetiker.ch/rrdtool/
+License      : GPLv2+ with exceptions
+Descript     : RRD is the Acronym for Round Robin Database. RRD is a system to store and
+             : display time-series data (i.e. network bandwidth, machine-room temperature,
+             : server load average). It stores the data in a very compact way that will not
+             : expand over time, and it presents useful graphs by processing the data to
+             : enforce a certain data density. It can be used either via simple wrapper
+             : scripts (from shell or Perl) or via frontends that poll network devices and
+             : put a friendly user interface on it.
+```
+
+</details>
+
+<details>
 <summary>rsnapshot</summary>
 
 ```
@@ -1034,6 +1119,48 @@ Descript     : Rsync uses a reliable algorithm to bring remote and host files in
              : just as a more capable replacement for the rcp command. A technical
              : report which describes the rsync algorithm is included in this
              : package.
+```
+
+</details>
+
+<details>
+<summary>rsync-bpc</summary>
+
+```
+From repo    : fedora
+Short desc   : A customized fork of rsync that is used as part of BackupPC
+URL          : https://github.com/backuppc/rsync-bpc
+License      : GPLv3+
+Descript     : Rsync-bpc is a customized version of rsync that is used as part of
+             : BackupPC, an open source backup system.
+             : 
+             : The main change to rsync is adding a shim layer (in the subdirectory
+             : backuppc, and in bpc_sysCalls.c) that emulates the system calls for
+             : accessing the file system so that rsync can directly read/write files
+             : in BackupPC's format.
+             : 
+             : Rsync-bpc is fully line-compatible with vanilla rsync, so it can talk
+             : to rsync servers and clients.
+             : 
+             : Rsync-bpc serves no purpose outside of BackupPC.
+```
+
+</details>
+
+<details>
+<summary>rsyslog</summary>
+
+```
+From repo    : fedora
+Short desc   : Enhanced system logging and kernel message trapping daemon
+URL          : http://www.rsyslog.com/
+License      : (GPLv3+ and ASL 2.0)
+Descript     : Rsyslog is an enhanced, multi-threaded syslog daemon. It supports MySQL,
+             : syslog/TCP, RFC 3195, permitted sender lists, filtering on any message part,
+             : and fine grain output format control. It is compatible with stock sysklogd
+             : and can be used as a drop-in replacement. Rsyslog is simple to set up, with
+             : advanced features suitable for enterprise-class, encryption-protected syslog
+             : relay chains.
 ```
 
 </details>

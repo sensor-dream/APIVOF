@@ -309,6 +309,22 @@ Descript     : Development files for LittleCMS.
 </details>
 
 <details>
+<summary>ldns</summary>
+
+```
+From repo    : fedora
+Short desc   : Low-level DNS(SEC) library with API
+URL          : https://www.nlnetlabs.nl/ldns/
+License      : BSD
+Descript     : ldns is a library with the aim to simplify DNS programming in C. All
+             : low-level DNS/DNSSEC operations are supported. We also define a higher
+             : level API which allows a programmer to (for instance) create or sign
+             : packets.
+```
+
+</details>
+
+<details>
 <summary>leatherman</summary>
 
 ```
@@ -1415,6 +1431,21 @@ Descript     : This package contains the libacl.so dynamic library which contain
 </details>
 
 <details>
+<summary>libacl-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Files needed for building programs with libacl
+URL          : https://savannah.nongnu.org/projects/acl
+License      : LGPLv2+
+Descript     : This package contains header files and documentation needed to develop
+             : programs which make use of the access control list programming interface
+             : defined in POSIX 1003.1e draft standard 17.
+```
+
+</details>
+
+<details>
 <summary>libadwaita-qt5</summary>
 
 ```
@@ -1724,6 +1755,31 @@ URL          : https://savannah.nongnu.org/projects/attr
 License      : LGPLv2+
 Descript     : This package contains the libattr.so dynamic library which contains
              : the extended attribute system calls and library functions.
+```
+
+</details>
+
+<details>
+<summary>libattr-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Files needed for building programs with libattr
+URL          : https://savannah.nongnu.org/projects/attr
+License      : LGPLv2+
+Descript     : This package contains header files and documentation needed to
+             : develop programs which make use of extended attributes.
+             : For Linux programs, the documented system call API is the
+             : recommended interface, but an SGI IRIX compatibility interface
+             : is also provided.
+             : 
+             : Currently only ext2, ext3, ext4 and XFS support extended attributes.
+             : The SGI IRIX compatibility API built above the Linux system calls is
+             : used by programs such as xfsdump(8), xfsrestore(8) and xfs_fsr(8).
+             : 
+             : You should install libattr-devel if you want to develop programs
+             : which make use of extended attributes.  If you install libattr-devel,
+             : you'll also want to install attr.
 ```
 
 </details>
@@ -2453,6 +2509,20 @@ Descript     : libbsd provides useful functions commonly found on BSD systems, a
 </details>
 
 <details>
+<summary>libbson</summary>
+
+```
+From repo    : fedora
+Short desc   : Building, parsing, and iterating BSON documents
+URL          : https://github.com/mongodb/mongo-c-driver
+License      : ASL 2.0 and ISC and MIT and zlib
+Descript     : This is a library providing useful routines related to building, parsing,
+             : and iterating BSON documents <http://bsonspec.org/>.
+```
+
+</details>
+
+<details>
 <summary>libbtrfs</summary>
 
 ```
@@ -2598,6 +2668,32 @@ Descript     : Gtk+ 3.x bindings for libcanberra
 </details>
 
 <details>
+<summary>libcangjie</summary>
+
+```
+From repo    : fedora
+Short desc   : Cangjie Input Method Library
+URL          : http://cangjians.github.io/projects/libcangjie
+License      : LGPLv3+
+Descript     : Library implementing the Cangjie input method.
+```
+
+</details>
+
+<details>
+<summary>libcangjie-data</summary>
+
+```
+From repo    : fedora
+Short desc   : Database for libcangjie
+URL          : http://cangjians.github.io/projects/libcangjie
+License      : LGPLv3+
+Descript     : Database for libcangjie.
+```
+
+</details>
+
+<details>
 <summary>libcap</summary>
 
 ```
@@ -2621,6 +2717,25 @@ URL          : https://sites.google.com/site/fullycapable/
 License      : BSD or GPLv2
 Descript     : libcap is a library for getting and setting POSIX.1e (formerly POSIX 6)
              : draft 15 capabilities.
+```
+
+</details>
+
+<details>
+<summary>libcap-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Development files for libcap
+URL          : https://sites.google.com/site/fullycapable/
+License      : BSD or GPLv2
+Descript     : Development files (Headers, etc) for libcap.
+             : 
+             : libcap is a library for getting and setting POSIX.1e (formerly POSIX 6)
+             : draft 15 capabilities.
+             : 
+             : Install libcap-devel if you want to develop or compile applications using
+             : libcap.
 ```
 
 </details>
@@ -3006,6 +3121,21 @@ Descript     : libcurl is a free and easy-to-use client-side URL transfer librar
 </details>
 
 <details>
+<summary>libcurl-devel</summary>
+
+```
+From repo    : updates
+Short desc   : Files needed for building applications with libcurl
+URL          : https://curl.se/
+License      : MIT
+Descript     : The libcurl-devel package includes header files and libraries necessary for
+             : developing programs which use the libcurl library. It contains the API
+             : documentation of the library, too.
+```
+
+</details>
+
+<details>
 <summary>libdaemon</summary>
 
 ```
@@ -3193,6 +3323,43 @@ Descript     : The Berkeley Database (Berkeley DB) is a programmatic toolkit tha
              : recovery. The Berkeley DB supports C, C++, and Perl APIs. It is
              : used by many applications, including Python and Perl, so this should
              : be installed on all systems.
+```
+
+</details>
+
+<details>
+<summary>libdb-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : C development files for the Berkeley DB library
+URL          : http://www.oracle.com/database/berkeley-db/
+License      : BSD and LGPLv2 and Sleepycat
+Descript     : The Berkeley Database (Berkeley DB) is a programmatic toolkit that
+             : provides embedded database support for both traditional and
+             : client/server applications. This package contains the header files,
+             : libraries, and documentation for building programs which use the
+             : Berkeley DB.
+```
+
+</details>
+
+<details>
+<summary>libdbi</summary>
+
+```
+From repo    : fedora
+Short desc   : Database Independent Abstraction Layer for C
+URL          : http://libdbi.sourceforge.net/
+License      : LGPLv2+
+Descript     : libdbi implements a database-independent abstraction layer in C, similar to the
+             : DBI/DBD layer in Perl. Writing one generic set of code, programmers can
+             : leverage the power of multiple databases and multiple simultaneous database
+             : connections by using this framework.
+             : 
+             : The libdbi package contains just the libdbi framework.  To make use of
+             : libdbi you will also need one or more plugins from libdbi-drivers, which
+             : contains the plugins needed to interface to specific database servers.
 ```
 
 </details>
@@ -3760,6 +3927,20 @@ Descript     : LibESMTP is a library to manage posting (or submission of) electr
 </details>
 
 <details>
+<summary>libestr</summary>
+
+```
+From repo    : fedora
+Short desc   : String handling essentials library
+URL          : http://libestr.adiscon.com/
+License      : LGPLv2+
+Descript     : This package compiles the string handling essentials library
+             : used by the Rsyslog daemon.
+```
+
+</details>
+
+<details>
 <summary>libetonyek</summary>
 
 ```
@@ -3893,6 +4074,23 @@ URL          : https://wiki.documentfoundation.org/Libexttextcat
 License      : BSD
 Descript     : libexttextcat is an N-Gram-Based Text Categorization library primarily
              : intended for language guessing.
+```
+
+</details>
+
+<details>
+<summary>libfastjson</summary>
+
+```
+From repo    : fedora
+Short desc   : A JSON implementation in C
+URL          : https://github.com/rsyslog/libfastjson
+License      : MIT
+Descript     : LIBFASTJSON implements a reference counting object
+             : model that allows you to easily construct JSON
+             : objects in C, output them as JSON formatted strings
+             : and parse JSON formatted strings back into the
+             : C representation of JSON objects.
 ```
 
 </details>
@@ -4916,6 +5114,21 @@ URL          : http://gcc.gnu.org
 License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
 Descript     : This package contains GCC shared support library which is needed
              : for OpenMP v4.5 support.
+```
+
+</details>
+
+<details>
+<summary>libgovirt</summary>
+
+```
+From repo    : fedora
+Short desc   : A GObject library for interacting with oVirt REST API
+URL          : https://gitlab.gnome.org/GNOME/libgovirt
+License      : LGPLv2+
+Descript     : libgovirt is a library that allows applications to use oVirt REST API
+             : to list VMs managed by an oVirt instance, and to get the connection
+             : parameters needed to make a SPICE/VNC connection to them.
 ```
 
 </details>
@@ -6478,6 +6691,20 @@ Descript     : This package provides a library build of mcpp.
 </details>
 
 <details>
+<summary>libmcrypt</summary>
+
+```
+From repo    : fedora
+Short desc   : Encryption algorithms library
+URL          : http://mcrypt.sourceforge.net/
+License      : LGPLv2+
+Descript     : Libmcrypt is a thread-safe library providing a uniform interface
+             : to access several block and stream encryption algorithms.
+```
+
+</details>
+
+<details>
 <summary>libmediaart</summary>
 
 ```
@@ -6634,6 +6861,19 @@ License      : MIT
 Descript     : C Library for manipulating module metadata files.
              : See https://github.com/fedora-modularity/libmodulemd/blob/master/README.md for
              : more details.
+```
+
+</details>
+
+<details>
+<summary>libmongocrypt</summary>
+
+```
+From repo    : fedora
+Short desc   : The companion C library for client side encryption in drivers
+URL          : https://github.com/mongodb/libmongocrypt
+License      : ASL 2.0 and ISC
+Descript     : The companion C library for client side encryption in drivers.
 ```
 
 </details>
@@ -7559,6 +7799,22 @@ License      : BSD
 Descript     : Libogg is a library for manipulating Ogg bitstream file formats.
              : Libogg supports both making Ogg bitstreams and getting packets from
              : Ogg bitstreams.
+```
+
+</details>
+
+<details>
+<summary>libogg-devel</summary>
+
+```
+Эпоха        : 2
+From repo    : fedora
+Short desc   : Files needed for development using libogg
+URL          : http://www.xiph.org/
+License      : BSD
+Descript     : Libogg is a library used for manipulating Ogg bitstreams. The
+             : libogg-devel package contains the header files and documentation
+             : needed for development using libogg.
 ```
 
 </details>
@@ -9105,6 +9361,32 @@ Short desc   : Library providing network API for libreport
 URL          : https://abrt.readthedocs.org/
 License      : GPLv2+
 Descript     : Library providing network API for libreport
+```
+
+</details>
+
+<details>
+<summary>libreswan</summary>
+
+```
+From repo    : updates
+Short desc   : Internet Key Exchange (IKEv1 and IKEv2) implementation for IPsec
+URL          : https://libreswan.org/
+License      : GPLv2
+Descript     : Libreswan is a free implementation of IPsec & IKE for Linux.  IPsec is
+             : the Internet Protocol Security and uses strong cryptography to provide
+             : both authentication and encryption services.  These services allow you
+             : to build secure tunnels through untrusted networks.  Everything passing
+             : through the untrusted net is encrypted by the ipsec gateway machine and
+             : decrypted by the gateway at the other end of the tunnel.  The resulting
+             : tunnel is a virtual private network or VPN.
+             : 
+             : This package contains the daemons and userland tools for setting up
+             : Libreswan.
+             : 
+             : Libreswan also supports IKEv2 (RFC7296) and Secure Labeling
+             : 
+             : Libreswan is based on Openswan-2.6.38 which in turn is based on FreeS/WAN-2.04
 ```
 
 </details>
@@ -11026,6 +11308,20 @@ Descript     : The libuser library implements a standardized interface for manip
 </details>
 
 <details>
+<summary>libuser-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Files needed for developing applications which use libuser
+URL          : https://pagure.io/libuser
+License      : LGPLv2+
+Descript     : The libuser-devel package contains header files, static libraries, and other
+             : files useful for developing applications with libuser.
+```
+
+</details>
+
+<details>
 <summary>libutempter</summary>
 
 ```
@@ -11420,6 +11716,33 @@ URL          : http://libvidcap.sourceforge.net/
 License      : LGPLv2+
 Descript     : A cross-platform library for capturing video from webcams and other video
              : capture devices.
+```
+
+</details>
+
+<details>
+<summary>libvirt-bash-completion</summary>
+
+```
+From repo    : fedora
+Short desc   : Bash completion script
+URL          : https://libvirt.org/
+License      : LGPLv2+
+Descript     : Bash completion script stub.
+```
+
+</details>
+
+<details>
+<summary>libvirt-client</summary>
+
+```
+From repo    : fedora
+Short desc   : Client side utilities of the libvirt library
+URL          : https://libvirt.org/
+License      : LGPLv2+
+Descript     : The client binaries needed to access the virtualization
+             : capabilities of recent versions of Linux (and other OSes).
 ```
 
 </details>
@@ -12035,6 +12358,21 @@ Descript     : Ogg Vorbis is a fully open, non-proprietary, patent- and royalty-
 </details>
 
 <details>
+<summary>libvorbis-devel</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : Development tools for Vorbis applications
+URL          : https://www.xiph.org/
+License      : BSD
+Descript     : The libvorbis-devel package contains the header files and documentation
+             : needed to develop applications with Ogg Vorbis.
+```
+
+</details>
+
+<details>
 <summary>libvpx</summary>
 
 ```
@@ -12632,6 +12970,19 @@ Descript     : The XDG Base Directory Specification defines where should user fi
 </details>
 
 <details>
+<summary>libxfce4util</summary>
+
+```
+From repo    : fedora
+Short desc   : Utility library for the Xfce4 desktop environment
+URL          : http://www.xfce.org/
+License      : LGPLv2+
+Descript     : This package includes basic utility non-GUI functions for Xfce4.
+```
+
+</details>
+
+<details>
 <summary>libxkbcommon</summary>
 
 ```
@@ -12994,6 +13345,76 @@ Descript     : Zstandard compression shared library.
 </details>
 
 <details>
+<summary>libzstd-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Header files for Zstd library
+URL          : https://github.com/facebook/zstd
+License      : BSD and GPLv2
+Descript     : Header files for Zstd library.
+```
+
+</details>
+
+<details>
+<summary>lightdm</summary>
+
+```
+From repo    : fedora
+Short desc   : A cross-desktop Display Manager
+URL          : https://www.freedesktop.org/wiki/Software/LightDM/
+License      : (LGPLv2 or LGPLv3) and GPLv3+
+Descript     : Lightdm is a display manager that:
+             : * Is cross-desktop - supports different desktops
+             : * Supports different display technologies
+             : * Is lightweight - low memory usage and fast performance
+```
+
+</details>
+
+<details>
+<summary>lightdm-gobject</summary>
+
+```
+From repo    : fedora
+Short desc   : LightDM GObject client library
+URL          : https://www.freedesktop.org/wiki/Software/LightDM/
+License      : (LGPLv2 or LGPLv3) and GPLv3+
+Descript     : This package contains a GObject based library for LightDM clients to use to
+             : interface with LightDM.
+```
+
+</details>
+
+<details>
+<summary>lightdm-gtk</summary>
+
+```
+From repo    : fedora
+Short desc   : LightDM GTK Greeter
+URL          : https://github.com/Xubuntu/lightdm-gtk-greeter
+License      : GPLv3+
+Descript     : A LightDM greeter that uses the GTK3 toolkit.
+```
+
+</details>
+
+<details>
+<summary>lightdm-gtk-greeter-settings</summary>
+
+```
+From repo    : fedora
+Short desc   : Settings editor for LightDM GTK+ Greeter
+URL          : https://launchpad.net/lightdm-gtk-greeter-settings
+License      : GPLv3
+Descript     : Just a small dialog to make it easier for users to modify the settings
+             : of lightdm-gtk-greeter.
+```
+
+</details>
+
+<details>
 <summary>lilv</summary>
 
 ```
@@ -13299,6 +13720,21 @@ Descript     : Lockdev provides a reliable way to put an exclusive lock to devic
 </details>
 
 <details>
+<summary>lockdev-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : The header files for the lockdev library
+URL          : https://alioth.debian.org/projects/lockdev/
+License      : LGPLv2
+Descript     : The lockdev library provides a reliable way to put an exclusive lock
+             : on devices using both FSSTND and SVr4 methods. The lockdev-devel
+             : package contains the development headers.
+```
+
+</details>
+
+<details>
 <summary>log4cplus</summary>
 
 ```
@@ -13513,6 +13949,26 @@ Descript     : Uses information provided by the sysfs pseudo file system in Linu
              : Author:
              : --------
              :     Doug Gilbert <dgilbert(at)interlog(dot)com>
+```
+
+</details>
+
+<details>
+<summary>ltrace</summary>
+
+```
+From repo    : fedora
+Short desc   : Tracks runtime library calls from dynamically linked executables
+URL          : https://gitlab.com/cespedes/ltrace
+License      : GPLv2+
+Descript     : Ltrace is a debugging program which runs a specified command until the
+             : command exits.  While the command is executing, ltrace intercepts and
+             : records both the dynamic library calls called by the executed process
+             : and the signals received by the executed process.  Ltrace can also
+             : intercept and print system calls executed by the process.
+             : 
+             : You should install ltrace if you need a sysadmin tool for tracking the
+             : execution of processes.
 ```
 
 </details>
@@ -14569,6 +15025,24 @@ Descript     : This package contains shared lvm2 libraries for applications.
 </details>
 
 <details>
+<summary>lxappearance</summary>
+
+```
+From repo    : fedora
+Short desc   : Feature-rich GTK+ theme switcher for LXDE
+URL          : http://lxde.org/
+License      : GPLv2+
+Descript     : LXAppearance is a new GTK+ theme switcher developed for LXDE, the Lightweight
+             : X11 Desktop Environment. It is able to change GTK+ themes, icon themes, and
+             : fonts used by applications. All changes done by the users can be seen
+             : immediately in the preview area. After clicking the "Apply" button, the
+             : settings will be written to gtkrc, and all running programs will be asked to
+             : reload their themes.
+```
+
+</details>
+
+<details>
 <summary>lxc-libs</summary>
 
 ```
@@ -14580,6 +15054,25 @@ Descript     : Linux Resource Containers provide process and resource isolation 
              : overhead of full virtualization.
              : 
              : The lxc-libs package contains libraries for running lxc applications.
+```
+
+</details>
+
+<details>
+<summary>lxsession</summary>
+
+```
+From repo    : fedora
+Short desc   : Lightweight X11 session manager
+URL          : http://lxde.sourceforge.net/
+License      : GPLv2+
+Descript     : LXSession is a standard-compliant X11 session manager with shutdown/
+             : reboot/suspend support via systemd. In connection with gdm it also supports user
+             : switching.
+             : 
+             : LXSession is derived from XSM and is developed as default X11 session manager
+             : of LXDE, the Lightweight X11 Desktop Environment. Though being part of LXDE,
+             : it's totally desktop-independent and only has few dependencies.
 ```
 
 </details>

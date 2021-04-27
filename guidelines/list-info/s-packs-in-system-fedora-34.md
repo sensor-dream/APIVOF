@@ -588,6 +588,71 @@ Descript     : Sessreg is a simple program for managing utmp/wtmp entries for X 
 </details>
 
 <details>
+<summary>setroubleshoot</summary>
+
+```
+From repo    : updates
+Short desc   : Helps troubleshoot SELinux problems
+URL          : https://pagure.io/setroubleshoot
+License      : GPLv2+
+Descript     : setroubleshoot GUI. Application that allows you to view setroubleshoot-server
+             : messages.
+             : Provides tools to help diagnose SELinux problems. When AVC messages
+             : are generated an alert can be generated that will give information
+             : about the problem and help track its resolution. Alerts can be configured
+             : to user preference. The same tools can be run on existing log files.
+```
+
+</details>
+
+<details>
+<summary>setroubleshoot-plugins</summary>
+
+```
+From repo    : fedora
+Short desc   : Analysis plugins for use with setroubleshoot
+URL          : https://github.com/fedora-selinux/setroubleshoot
+License      : GPLv2+
+Descript     : This package provides a set of analysis plugins for use with
+             : setroubleshoot. Each plugin has the capacity to analyze SELinux AVC
+             : data and system data to provide user friendly reports describing how
+             : to interpret SELinux AVC denials.
+```
+
+</details>
+
+<details>
+<summary>setroubleshoot-server</summary>
+
+```
+From repo    : updates
+Short desc   : SELinux troubleshoot server
+URL          : https://pagure.io/setroubleshoot
+License      : GPLv2+
+Descript     : Provides tools to help diagnose SELinux problems. When AVC messages
+             : are generated an alert can be generated that will give information
+             : about the problem and help track its resolution. Alerts can be configured
+             : to user preference. The same tools can be run on existing log files.
+```
+
+</details>
+
+<details>
+<summary>setserial</summary>
+
+```
+From repo    : fedora
+Short desc   : A utility for configuring serial ports
+URL          : http://setserial.sourceforge.net/
+License      : GPL+
+Descript     : Setserial is a basic system utility for displaying or setting serial
+             : port information. Setserial can reveal and allow you to alter the I/O
+             : port and IRQ that a particular serial device is using, and more.
+```
+
+</details>
+
+<details>
 <summary>setup</summary>
 
 ```
@@ -981,6 +1046,24 @@ Descript     : S-Lang is an interpreted language and a programming library.  The
 </details>
 
 <details>
+<summary>slang-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Development files for the S-Lang extension language
+URL          : https://www.jedsoft.org/slang/
+License      : GPLv2+
+Descript     : This package contains files which you'll need if you want to
+             : develop S-Lang based applications.  Documentation which may help
+             : you write S-Lang based applications is also included.
+             : 
+             : Install the slang-devel package if you want to develop applications
+             : based on the S-Lang extension language.
+```
+
+</details>
+
+<details>
 <summary>slirp4netns</summary>
 
 ```
@@ -1016,6 +1099,25 @@ URL          : https://github.com/emersion/slurp
 License      : MIT
 Descript     : Slurp is a command-line tool that allows the user to visually select a region
              : and prints it to the standard output.
+```
+
+</details>
+
+<details>
+<summary>smartmontools</summary>
+
+```
+Эпоха        : 1
+From repo    : fedora
+Short desc   : Tools for monitoring SMART capable hard disks
+URL          : http://smartmontools.sourceforge.net/
+License      : GPLv2+
+Descript     : The smartmontools package contains two utility programs (smartctl
+             : and smartd) to control and monitor storage systems using the Self-
+             : Monitoring, Analysis and Reporting Technology System (SMART) built
+             : into most modern ATA and SCSI hard disks. In many cases, these
+             : utilities will provide advanced warning of disk degradation and
+             : failure.
 ```
 
 </details>
@@ -2079,6 +2181,26 @@ Descript     : Software Token for Linux/UNIX. It's a token code generator compat
 </details>
 
 <details>
+<summary>strace</summary>
+
+```
+From repo    : fedora
+Short desc   : Tracks and displays system calls associated with a running process
+URL          : https://strace.io
+License      : LGPL-2.1+ and GPL-2.0+
+Descript     : The strace program intercepts and records the system calls called and
+             : received by a running process.  Strace can print a record of each
+             : system call, its arguments and its return value.  Strace is useful for
+             : diagnosing problems and debugging, as well as for instructional
+             : purposes.
+             : 
+             : Install strace if you need a tool to track the system calls made and
+             : received by a process.
+```
+
+</details>
+
+<details>
 <summary>stress</summary>
 
 ```
@@ -2515,6 +2637,20 @@ Descript     : The sysprof-capture-devel package contains the sysprof-capture st
 </details>
 
 <details>
+<summary>system-config-language</summary>
+
+```
+From repo    : fedora
+Short desc   : A graphical interface for modifying the system language
+URL          : https://pagure.io/system-config-language
+License      : GPLv2+
+Descript     : system-config-language is a graphical user interface that
+             : allows the user to change the default language of the system.
+```
+
+</details>
+
+<details>
 <summary>system-config-printer-libs</summary>
 
 ```
@@ -2791,6 +2927,72 @@ License      : LGPLv2+
 Descript     : This package contains systemd-udev and the rules and hardware database
              : needed to manage device nodes. This package is necessary on physical
              : machines and in virtual machines, but not in containers.
+```
+
+</details>
+
+<details>
+<summary>systemtap</summary>
+
+```
+From repo    : fedora
+Short desc   : Programmable system-wide instrumentation system
+URL          : http://sourceware.org/systemtap/
+License      : GPLv2+
+Descript     : SystemTap is an instrumentation system for systems running Linux.
+             : Developers can write instrumentation scripts to collect data on
+             : the operation of the system.  The base systemtap package contains/requires
+             : the components needed to locally develop and execute systemtap scripts.
+```
+
+</details>
+
+<details>
+<summary>systemtap-client</summary>
+
+```
+From repo    : fedora
+Short desc   : Programmable system-wide instrumentation system - client
+URL          : http://sourceware.org/systemtap/
+License      : GPLv2+
+Descript     : This package contains/requires the components needed to develop
+             : systemtap scripts, and compile them using a local systemtap-devel
+             : or a remote systemtap-server installation, then run them using a
+             : local or remote systemtap-runtime.  It includes script samples and
+             : documentation, and a copy of the tapset library for reference.
+```
+
+</details>
+
+<details>
+<summary>systemtap-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Programmable system-wide instrumentation system - development headers, tools
+URL          : http://sourceware.org/systemtap/
+License      : GPLv2+
+Descript     : This package contains the components needed to compile a systemtap
+             : script from source form into executable (.ko) forms.  It may be
+             : installed on a self-contained developer workstation (along with the
+             : systemtap-client and systemtap-runtime packages), or on a dedicated
+             : remote server (alongside the systemtap-server package).  It includes
+             : a copy of the standard tapset library and the runtime library C files.
+```
+
+</details>
+
+<details>
+<summary>systemtap-runtime</summary>
+
+```
+From repo    : fedora
+Short desc   : Programmable system-wide instrumentation system - runtime
+URL          : http://sourceware.org/systemtap/
+License      : GPLv2+
+Descript     : SystemTap runtime contains the components needed to execute
+             : a systemtap script that was already compiled into a module
+             : using a local or remote systemtap-devel installation.
 ```
 
 </details>

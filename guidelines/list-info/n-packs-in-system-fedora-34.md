@@ -135,6 +135,41 @@ Descript     : This package contains descriptions of common terminals. Other ter
 </details>
 
 <details>
+<summary>ncurses-c++-libs</summary>
+
+```
+From repo    : fedora
+Short desc   : Ncurses C++ bindings
+URL          : https://invisible-island.net/ncurses/ncurses.html
+License      : MIT
+Descript     : The curses library routines are a terminal-independent method of
+             : updating character screens with reasonable optimization.  The ncurses
+             : (new curses) library is a freely distributable replacement for the
+             : discontinued 4.4 BSD classic curses library.
+             : 
+             : This package contains C++ bindings of the ncurses ABI version 6 libraries.
+```
+
+</details>
+
+<details>
+<summary>ncurses-devel</summary>
+
+```
+From repo    : fedora
+Short desc   : Development files for the ncurses library
+URL          : https://invisible-island.net/ncurses/ncurses.html
+License      : MIT
+Descript     : The header files and libraries for developing applications that use
+             : the ncurses terminal handling library.
+             : 
+             : Install the ncurses-devel package if you want to develop applications
+             : which will use ncurses.
+```
+
+</details>
+
+<details>
 <summary>ncurses-libs</summary>
 
 ```
@@ -399,6 +434,39 @@ Descript     : Nettle is a cryptographic library that is designed to fit easily 
              : or less any context: In crypto toolkits for object-oriented languages
              : (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in
              : kernel space.
+```
+
+</details>
+
+<details>
+<summary>network-manager-applet</summary>
+
+```
+From repo    : fedora
+Short desc   : A network control and status applet for NetworkManager
+URL          : http://www.gnome.org/projects/NetworkManager/
+License      : GPLv2+
+Descript     : This package contains a network control and status notification area applet
+             : for use with NetworkManager.
+```
+
+</details>
+
+<details>
+<summary>newt</summary>
+
+```
+From repo    : fedora
+Short desc   : A library for text mode user interfaces
+URL          : https://pagure.io/newt
+License      : LGPLv2
+Descript     : Newt is a programming library for color text mode, widget based user
+             : interfaces.  Newt can be used to add stacked windows, entry widgets,
+             : checkboxes, radio buttons, labels, plain text fields, scrollbars,
+             : etc., to text mode user interfaces.  This package also contains the
+             : shared library needed by programs built with newt, as well as a
+             : /usr/bin/dialog replacement called whiptail.  Newt is based on the
+             : slang library.
 ```
 
 </details>
@@ -1038,6 +1106,26 @@ Descript     : Default Operating System module that manages applications loading
              : NSS globally on the system. This module loads the system defined
              : PKCS #11 modules for NSS and chains with other NSS modules to load
              : any system or user configured modules.
+```
+
+</details>
+
+<details>
+<summary>nss-tools</summary>
+
+```
+From repo    : fedora
+Short desc   : Tools for the Network Security Services
+URL          : http://www.mozilla.org/projects/security/pki/nss/
+License      : MPLv2.0
+Descript     : Network Security Services (NSS) is a set of libraries designed to
+             : support cross-platform development of security-enabled client and
+             : server applications. Applications built with NSS can support SSL v2
+             : and v3, TLS, PKCS #5, PKCS #7, PKCS #11, PKCS #12, S/MIME, X.509
+             : v3 certificates, and other security standards.
+             : 
+             : Install the nss-tools package if you need command-line tools to
+             : manipulate the NSS certificate and key database.
 ```
 
 </details>

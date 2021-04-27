@@ -1065,6 +1065,21 @@ Descript     : This package provides the OpenSSL crypto support for the apr-util
 </details>
 
 <details>
+<summary>arandr</summary>
+
+```
+From repo    : fedora
+Short desc   : Simple GTK+ XRandR GUI
+URL          : http://christian.amsuess.com/tools/arandr/
+License      : GPLv3
+Descript     : ARandR is designed to provide a simple visual front end for XRandR 1.2/1.3.
+             : Relative monitor positions are shown graphically and can be changed in a
+             : drag-and-drop way.
+```
+
+</details>
+
+<details>
 <summary>arj</summary>
 
 ```
@@ -1709,6 +1724,24 @@ Short desc   : Collection of color schemes for Neo/vim, merged for quick use
 URL          : https://github.com/rafi/awesome-vim-colorschemes
 License      : Vim and MIT and CC-BY
 Descript     : Collection of awesome color schemes for Neo/vim, merged for quick use.
+```
+
+</details>
+
+<details>
+<summary>azote</summary>
+
+```
+From repo    : fedora
+Short desc   : Wallpaper and color manager for Sway, i3 and some other WMs
+URL          : https://github.com/nwg-piotr/azote
+License      : GPLv3 and BSD
+Descript     : Azote is a GTK+3 - based picture browser and background setter, as the
+             : front-end to the swaybg (sway/Wayland) and feh (X windows) commands. It
+             : also includes several color management tools.
+             : 
+             : The program is confirmed to work on sway, i3, Openbox, Fluxbox and dwm
+             : window managers, on Arch Linux, Void Linux, Debian and Fedora.
 ```
 
 </details>

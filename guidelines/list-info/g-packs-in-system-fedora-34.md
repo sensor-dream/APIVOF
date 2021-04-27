@@ -2237,6 +2237,21 @@ Descript     : The glibc-langpack-ru package includes the basic information requ
 </details>
 
 <details>
+<summary>glibc-minimal-langpack</summary>
+
+```
+From repo    : fedora
+Short desc   : Minimal language packs for glibc.
+URL          : http://www.gnu.org/software/glibc/
+License      : LGPLv2+ and LGPLv2+ with exceptions and GPLv2+ and GPLv2+ with exceptions and BSD and Inner-Net and ISC and Public Domain and GFDL
+Descript     : This is a Meta package that is used to install minimal language packs.
+             : This package ensures you can use C, POSIX, or C.UTF-8 locales, but
+             : nothing else. It is designed for assembling a minimal system.
+```
+
+</details>
+
+<details>
 <summary>glibmm24</summary>
 
 ```
@@ -3894,6 +3909,58 @@ Short desc   : A weather application for GNOME
 URL          : https://wiki.gnome.org/Apps/Weather
 License      : GPLv2+ and LGPLv2+ and MIT and CC-BY and CC-BY-SA
 Descript     : gnome-weather is a weather application for GNOME
+```
+
+</details>
+
+<details>
+<summary>gnu-free-fonts-common</summary>
+
+```
+From repo    : fedora
+Short desc   : Common files for freefont (documentation…)
+URL          : http://www.gnu.org/software/freefont/
+License      : GPLv3+ with exceptions
+Descript     : 
+             : Gnu FreeFont is a free family of scalable outline fonts, suitable for general
+             : use on computers and for desktop publishing. It is Unicode-encoded for
+             : compatibility with all modern operating systems.
+             : 
+             : Besides a full set of characters for writing systems based on the Latin
+             : alphabet, FreeFont contains large selection of characters from other writing
+             : systems some of which are hard to find elsewhere.
+             : 
+             : FreeFont also contains a large set of symbol characters, both technical and
+             : decorative. We are especially pleased with the Mathematical Operators range,
+             : with which most of the glyphs used in LaTeX can be displayed.
+             : 
+             : This package consists of files used by other gnu-free-fonts packages.
+```
+
+</details>
+
+<details>
+<summary>gnu-free-sans-fonts</summary>
+
+```
+From repo    : fedora
+Short desc   : GNU FreeFont Sans-Serif Font
+URL          : http://www.gnu.org/software/freefont/
+License      : GPLv3+ with exceptions
+Descript     : 
+             : Gnu FreeFont is a free family of scalable outline fonts, suitable for general
+             : use on computers and for desktop publishing. It is Unicode-encoded for
+             : compatibility with all modern operating systems.
+             : 
+             : Besides a full set of characters for writing systems based on the Latin
+             : alphabet, FreeFont contains large selection of characters from other writing
+             : systems some of which are hard to find elsewhere.
+             : 
+             : FreeFont also contains a large set of symbol characters, both technical and
+             : decorative. We are especially pleased with the Mathematical Operators range,
+             : with which most of the glyphs used in LaTeX can be displayed.
+             : 
+             : This package contains the GNU FreeFont sans-serif font.
 ```
 
 </details>
@@ -5737,6 +5804,19 @@ Descript     : This package contains the libraries and header files that are nee
 </details>
 
 <details>
+<summary>gtk2-immodule-xim</summary>
+
+```
+From repo    : fedora
+Short desc   : XIM support for GTK+
+URL          : http://www.gtk.org
+License      : LGPLv2+
+Descript     : The gtk2-immodule-xim package contains XIM support for GTK+.
+```
+
+</details>
+
+<details>
 <summary>gtk3</summary>
 
 ```
@@ -5750,6 +5830,19 @@ Descript     : GTK+ is a multi-platform toolkit for creating graphical user
              : suites.
              : 
              : This package contains version 3 of GTK+.
+```
+
+</details>
+
+<details>
+<summary>gtk3-immodule-xim</summary>
+
+```
+From repo    : updates
+Short desc   : XIM support for GTK+
+URL          : http://www.gtk.org
+License      : LGPLv2+
+Descript     : The gtk3-immodule-xim package contains XIM support for GTK+ 3.
 ```
 
 </details>
