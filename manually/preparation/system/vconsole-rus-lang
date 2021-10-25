@@ -60,7 +60,7 @@ function install_vconsole_rus_lang() {
   [[ -f "${file}.back" ]] || sudo cp "${file}" "${file}.back"
   [[ -f "${file_1}.back" ]] || sudo cp "${file_1}" "${file_1}.back"
 
-  dnf install glibc-langpack-ru libxkbcommon-x11
+  sudo dnf install glibc-langpack-ru libxkbcommon-x11
 
   # localectl set-x11-keymap ru
 
